@@ -1,0 +1,31 @@
+name: Synchronize
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    name: Synchronize
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Set up
+        uses: ./.github/actions/setup
+      - name: Synchronize
+        run: bin/publish --confirm
+        env:
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          FIREBASE_API_KEY: ${{ secrets.FIREBASE_API_KEY }}
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        if: always()
+        with:
+          commit_message: Update state file
+          commit_user_name: 'creatorsgarten[bot]'
+          commit_user_email: 'creatorsgarten[bot]@users.noreply.github.com'
+      - name: Dump the new state
+        if: always()
+        run: state.yaml
+
+permissions:
+  contents: write
