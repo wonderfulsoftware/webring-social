@@ -14,6 +14,18 @@
       https://naiwaen.debuggingsoft.com/2023/01/%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%96%e0%b9%80%e0%b8%a1%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%83%e0%b8%ab%e0%b8%a1/
   state:
     shortLink: https://webring.page.link/Tbeh
+35128330f3accd4827bca496f248e288:mastodon:
+  spec:
+    title: VSCode Extension Pack [garden.narze.live]
+    url: https://garden.narze.live/VSCode-Extension-Pack/
+  state:
+    id: '109620576851692826'
+    url: https://mastodon.in.th/@webring/109620576851692826
+35128330f3accd4827bca496f248e288:shorturl:
+  spec:
+    url: https://garden.narze.live/VSCode-Extension-Pack/
+  state:
+    shortLink: https://webring.page.link/SiJ8
 f78d5beacf5c6b4e71a51d75c3737765:mastodon:
   spec:
     title: บันทึกการพูดคุยเรื่อง tuning performance กันนิดหน่อย [somkiat.cc]
