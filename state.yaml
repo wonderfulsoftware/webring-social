@@ -155,6 +155,25 @@ ae5f149932a0e44e0107545fac9144c1:shorturl:
     url: https://www.somkiat.cc/use-redisearch/
   state:
     shortLink: https://webring.page.link/XwD9
+f61ba76d8f875bace468dadcffe183d8:facebook:
+  spec:
+    title: เรียน​ CSS Animation | Day 1 - Heart [devahoy.com]
+    url: https://devahoy.com/tutorials/learn-css-animations/day1-heart
+  state:
+    id: '8428663207206771_100812756241309'
+    url: https://www.facebook.com/100683012920950/posts/100812756241309
+f61ba76d8f875bace468dadcffe183d8:mastodon:
+  spec:
+    title: เรียน​ CSS Animation | Day 1 - Heart [devahoy.com]
+    url: https://devahoy.com/tutorials/learn-css-animations/day1-heart
+  state:
+    id: '109625695960790540'
+    url: https://mastodon.in.th/@webring/109625695960790540
+f61ba76d8f875bace468dadcffe183d8:shorturl:
+  spec:
+    url: https://devahoy.com/tutorials/learn-css-animations/day1-heart
+  state:
+    shortLink: https://webring.page.link/YArx
 f78d5beacf5c6b4e71a51d75c3737765:mastodon:
   spec:
     title: บันทึกการพูดคุยเรื่อง tuning performance กันนิดหน่อย [somkiat.cc]
