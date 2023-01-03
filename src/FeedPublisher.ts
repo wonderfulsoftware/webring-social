@@ -68,6 +68,21 @@ export class FeedPublisher {
       return { id: data.id, url: data.url }
     })
 
+    const FacebookPost = createResourceType<
+      { url: string; title: string },
+      { id: string; url: string }
+    >(async (state, spec) => {
+      if (state) return state
+      const shortUrl = await shortenUrl(spec.url)
+      const response = await redaxios.post(
+        `https://graph.facebook.com/v15.0/me/feed?access_token=${env.FACEBOOK_PAGE_ACCESS_TOKEN}&fields=id,permalink_url`,
+        { message: spec.title, link: shortUrl },
+      )
+      const data = response.data
+      reconciled = true
+      return { id: data.id, url: data.permalink_url }
+    })
+
     const feedData = feedSchema.parse(feed.data)
     const resources = feedData.flatMap((item): Resource[] => {
       if (item.published < '2023') return []
@@ -80,6 +95,14 @@ export class FeedPublisher {
             title: `${item.title} [${item.site}]`,
           },
           description: `Mastodon post for ${item.url}`,
+        }),
+        FacebookPost.create({
+          key: `${urlHash}:facebook`,
+          spec: {
+            url: item.url,
+            title: `${item.title} [${item.site}]`,
+          },
+          description: `Facebook post for ${item.url}`,
         }),
       ]
     })

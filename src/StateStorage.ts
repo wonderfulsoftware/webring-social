@@ -39,6 +39,9 @@ export class StateStorage {
       return
     }
     this.state![key] = newState
-    fs.writeFileSync('state.yaml', dump(this.state, { sortKeys: true }))
+    fs.writeFileSync(
+      'state.yaml',
+      dump(this.state, { sortKeys: true, lineWidth: -1 }),
+    )
   }
 }

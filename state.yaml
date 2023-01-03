@@ -1,24 +1,25 @@
 1a2d9dc90ce4d3cc8688d0ab30d25029:mastodon:
   spec:
-    title: >-
-      นั่งรถเมล์ฟรีช่วงปีใหม่สาย 4-41 (57) วงกลมตลิ่งชัน-ธนบุรี
-      [debuggingsoft.com]
-    url: >-
-      https://naiwaen.debuggingsoft.com/2023/01/%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%96%e0%b9%80%e0%b8%a1%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%83%e0%b8%ab%e0%b8%a1/
+    title: นั่งรถเมล์ฟรีช่วงปีใหม่สาย 4-41 (57) วงกลมตลิ่งชัน-ธนบุรี [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/01/%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%96%e0%b9%80%e0%b8%a1%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%83%e0%b8%ab%e0%b8%a1/
   state:
     id: '109620221043946322'
     url: https://mastodon.in.th/@webring/109620221043946322
 1a2d9dc90ce4d3cc8688d0ab30d25029:shorturl:
   spec:
-    url: >-
-      https://naiwaen.debuggingsoft.com/2023/01/%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%96%e0%b9%80%e0%b8%a1%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%83%e0%b8%ab%e0%b8%a1/
+    url: https://naiwaen.debuggingsoft.com/2023/01/%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%96%e0%b9%80%e0%b8%a1%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%83%e0%b8%ab%e0%b8%a1/
   state:
     shortLink: https://webring.page.link/Tbeh
+1dd2d690467a6d259caec3a18aa07500:facebook:
+  spec:
+    title: 'Event-driven architecture: Message queues, Commands, Events, และ Queries [boonsong.dev]'
+    url: https://www.boonsong.dev/pattern-event-driven-architecture-1
+  state:
+    id: '8428663207206771_100684436254141'
+    url: https://www.facebook.com/100683012920950/posts/100684436254141
 1dd2d690467a6d259caec3a18aa07500:mastodon:
   spec:
-    title: >-
-      Event-driven architecture: Message queues, Commands, Events, และ Queries
-      [boonsong.dev]
+    title: 'Event-driven architecture: Message queues, Commands, Events, และ Queries [boonsong.dev]'
     url: https://www.boonsong.dev/pattern-event-driven-architecture-1
   state:
     id: '109622944798681751'
@@ -28,6 +29,13 @@
     url: https://www.boonsong.dev/pattern-event-driven-architecture-1
   state:
     shortLink: https://webring.page.link/dhgB
+21f4a335030a5b27bc78206536bc4d24:facebook:
+  spec:
+    title: เพิ่งเห็นว่า Text Editor ชื่อ Atom นั้นหยุดพัฒนาไปแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/bye-bye-atom/
+  state:
+    id: '8428663207206771_100684339587484'
+    url: https://www.facebook.com/100683012920950/posts/100684339587484
 21f4a335030a5b27bc78206536bc4d24:mastodon:
   spec:
     title: เพิ่งเห็นว่า Text Editor ชื่อ Atom นั้นหยุดพัฒนาไปแล้ว [somkiat.cc]
