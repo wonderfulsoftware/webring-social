@@ -74,36 +74,38 @@ export class FeedPublisher {
     })
 
     const feedData = feedSchema.parse(feed.data)
-    const resources = feedData.flatMap((item): Resource[] => {
-      if (item.published < '2023') return []
-      const urlHash = hashUrl(item.url)
-      const out: Resource[] = []
-      if (shouldPostTo('mastodon')) {
-        out.push(
-          MastodonPost.create({
-            key: `${urlHash}:mastodon`,
-            spec: {
-              url: item.url,
-              title: `${item.title} [${item.site}]`,
-            },
-            description: `Mastodon post for ${item.url}`,
-          }),
-        )
-      }
-      if (shouldPostTo('facebook')) {
-        out.push(
-          FacebookPost.create({
-            key: `${urlHash}:facebook`,
-            spec: {
-              url: item.url,
-              title: `${item.title} [${item.site}]`,
-            },
-            description: `Facebook post for ${item.url}`,
-          }),
-        )
-      }
-      return out
-    })
+    const resources = feedData
+      .sort((a, b) => a.published.localeCompare(b.published))
+      .flatMap((item): Resource[] => {
+        if (item.published < '2023') return []
+        const urlHash = hashUrl(item.url)
+        const out: Resource[] = []
+        if (shouldPostTo('mastodon')) {
+          out.push(
+            MastodonPost.create({
+              key: `${urlHash}:mastodon`,
+              spec: {
+                url: item.url,
+                title: `${item.title} [${item.site}]`,
+              },
+              description: `Mastodon post for ${item.url}`,
+            }),
+          )
+        }
+        if (shouldPostTo('facebook')) {
+          out.push(
+            FacebookPost.create({
+              key: `${urlHash}:facebook`,
+              spec: {
+                url: item.url,
+                title: `${item.title} [${item.site}]`,
+              },
+              description: `Facebook post for ${item.url}`,
+            }),
+          )
+        }
+        return out
+      })
 
     for (const resource of resources) {
       await reconciler.reconcile(resource, dryRun)
