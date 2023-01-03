@@ -1,3 +1,10 @@
+049b791599c5a31533a5260873ea3523:facebook:
+  spec:
+    title: Happy New Year 2023 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2023/01/01/happy-new-year-2023.html
+  state:
+    id: '8428663207206771_100700359585882'
+    url: https://www.facebook.com/100683012920950/posts/100700359585882
 049b791599c5a31533a5260873ea3523:mastodon:
   spec:
     title: Happy New Year 2023 [blog.oatto.dev]
@@ -79,6 +86,18 @@
     url: https://garden.narze.live/VSCode-Extension-Pack/
   state:
     shortLink: https://webring.page.link/SiJ8
+916d2e1460fe8dfa08af2cf230aa0b6f:mastodon:
+  spec:
+    title: บันทึก - เรียนรู้ Typescript (Any กับ Unknow ใน Typescript) [kajame.xyz]
+    url: https://kajame.xyz/blog/learning-typescript-02
+  state:
+    id: '109623967950483488'
+    url: https://mastodon.in.th/@webring/109623967950483488
+916d2e1460fe8dfa08af2cf230aa0b6f:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/learning-typescript-02
+  state:
+    shortLink: https://webring.page.link/5AUZ
 f78d5beacf5c6b4e71a51d75c3737765:mastodon:
   spec:
     title: บันทึกการพูดคุยเรื่อง tuning performance กันนิดหน่อย [somkiat.cc]
