@@ -67,6 +67,18 @@
     url: https://www.boonsong.dev/pattern-event-driven-architecture-1
   state:
     shortLink: https://webring.page.link/dhgB
+207076425aabd51b4dba5170874fc6cc:mastodon:
+  spec:
+    title: เซต Cantor แบบสามส่วน [neizod.dev]
+    url: https://neizod.dev/2022/12/31/cantor-ternary-set.html
+  state:
+    id: '109625298426854539'
+    url: https://mastodon.in.th/@webring/109625298426854539
+207076425aabd51b4dba5170874fc6cc:shorturl:
+  spec:
+    url: https://neizod.dev/2022/12/31/cantor-ternary-set.html
+  state:
+    shortLink: https://webring.page.link/qHki
 21f4a335030a5b27bc78206536bc4d24:facebook:
   spec:
     title: เพิ่งเห็นว่า Text Editor ชื่อ Atom นั้นหยุดพัฒนาไปแล้ว [somkiat.cc]
@@ -124,6 +136,13 @@
     url: https://kajame.xyz/blog/learning-typescript-02
   state:
     shortLink: https://webring.page.link/5AUZ
+ae5f149932a0e44e0107545fac9144c1:facebook:
+  spec:
+    title: RediSearch อีกหนึ่งความสามารถของ Redis [somkiat.cc]
+    url: https://www.somkiat.cc/use-redisearch/
+  state:
+    id: '8428663207206771_100781339577784'
+    url: https://www.facebook.com/100683012920950/posts/100781339577784
 ae5f149932a0e44e0107545fac9144c1:mastodon:
   spec:
     title: RediSearch อีกหนึ่งความสามารถของ Redis [somkiat.cc]
