@@ -1,0 +1,2 @@
+#!/bin/bash -e
+pnpm exec tsx src/scripts/shorten.ts "$@"

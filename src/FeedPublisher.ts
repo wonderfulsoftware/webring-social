@@ -4,6 +4,7 @@ import { createHash } from 'crypto'
 import { Resource, createResourceType } from './Resource'
 import { env } from './env'
 import { reconciler } from './Reconciler'
+import { createShortUrl } from './UrlShortener'
 
 const feedItemSchema = z.object({
   site: z.string(),
@@ -15,20 +16,7 @@ const feedSchema = z.array(feedItemSchema)
 
 const ShortenedUrl = createResourceType<{ url: string }, { shortLink: string }>(
   async (state, spec) => {
-    const response = await redaxios.post(
-      `https://firebasedynamiclinks.googleapis.com/v1/shortLinks?key=${env.FIREBASE_API_KEY}`,
-      {
-        dynamicLinkInfo: {
-          domainUriPrefix: 'https://webring.page.link',
-          link: spec.url,
-        },
-        suffix: {
-          option: 'SHORT',
-        },
-      },
-    )
-    const data = response.data
-    return { shortLink: data.shortLink }
+    return { shortLink: await createShortUrl(spec.url) }
   },
 )
 
