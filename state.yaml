@@ -17,6 +17,13 @@
     url: https://blog.oatto.dev/2023/01/01/happy-new-year-2023.html
   state:
     shortLink: https://webring.page.link/DfSf
+1a2d9dc90ce4d3cc8688d0ab30d25029:facebook:
+  spec:
+    title: นั่งรถเมล์ฟรีช่วงปีใหม่สาย 4-41 (57) วงกลมตลิ่งชัน-ธนบุรี [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/01/%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%96%e0%b9%80%e0%b8%a1%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%83%e0%b8%ab%e0%b8%a1/
+  state:
+    id: '8428663207206771_100717556250829'
+    url: https://www.facebook.com/100683012920950/posts/100717556250829
 1a2d9dc90ce4d3cc8688d0ab30d25029:mastodon:
   spec:
     title: นั่งรถเมล์ฟรีช่วงปีใหม่สาย 4-41 (57) วงกลมตลิ่งชัน-ธนบุรี [debuggingsoft.com]
@@ -98,6 +105,18 @@
     url: https://kajame.xyz/blog/learning-typescript-02
   state:
     shortLink: https://webring.page.link/5AUZ
+ae5f149932a0e44e0107545fac9144c1:mastodon:
+  spec:
+    title: RediSearch อีกหนึ่งความสามารถของ Redis [somkiat.cc]
+    url: https://www.somkiat.cc/use-redisearch/
+  state:
+    id: '109624305876436592'
+    url: https://mastodon.in.th/@webring/109624305876436592
+ae5f149932a0e44e0107545fac9144c1:shorturl:
+  spec:
+    url: https://www.somkiat.cc/use-redisearch/
+  state:
+    shortLink: https://webring.page.link/XwD9
 f78d5beacf5c6b4e71a51d75c3737765:mastodon:
   spec:
     title: บันทึกการพูดคุยเรื่อง tuning performance กันนิดหน่อย [somkiat.cc]
