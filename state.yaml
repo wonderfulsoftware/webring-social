@@ -60,6 +60,13 @@
     url: https://www.somkiat.cc/bye-bye-atom/
   state:
     shortLink: https://webring.page.link/VXX6
+35128330f3accd4827bca496f248e288:facebook:
+  spec:
+    title: VSCode Extension Pack [garden.narze.live]
+    url: https://garden.narze.live/VSCode-Extension-Pack/
+  state:
+    id: '8428663207206771_100691849586733'
+    url: https://www.facebook.com/100683012920950/posts/100691849586733
 35128330f3accd4827bca496f248e288:mastodon:
   spec:
     title: VSCode Extension Pack [garden.narze.live]
