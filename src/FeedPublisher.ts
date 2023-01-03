@@ -45,7 +45,9 @@ const shortenUrl = async (url: string) => {
 }
 
 export class FeedPublisher {
-  async publish(dryRun: boolean) {
+  async publish(dryRun: boolean, socials?: string[]) {
+    const shouldPostTo = (social: string) =>
+      !socials || socials.includes(social)
     const feed = await redaxios.get(
       'https://wonderfulsoftware.github.io/webring-site-data/feed.json',
     )
@@ -87,25 +89,34 @@ export class FeedPublisher {
     const resources = feedData.flatMap((item): Resource[] => {
       if (item.published < '2023') return []
       const urlHash = hashUrl(item.url)
-      return [
-        MastodonPost.create({
-          key: `${urlHash}:mastodon`,
-          spec: {
-            url: item.url,
-            title: `${item.title} [${item.site}]`,
-          },
-          description: `Mastodon post for ${item.url}`,
-        }),
-        FacebookPost.create({
-          key: `${urlHash}:facebook`,
-          spec: {
-            url: item.url,
-            title: `${item.title} [${item.site}]`,
-          },
-          description: `Facebook post for ${item.url}`,
-        }),
-      ]
+      const out: Resource[] = []
+      if (shouldPostTo('mastodon')) {
+        out.push(
+          MastodonPost.create({
+            key: `${urlHash}:mastodon`,
+            spec: {
+              url: item.url,
+              title: `${item.title} [${item.site}]`,
+            },
+            description: `Mastodon post for ${item.url}`,
+          }),
+        )
+      }
+      if (shouldPostTo('facebook')) {
+        out.push(
+          FacebookPost.create({
+            key: `${urlHash}:facebook`,
+            spec: {
+              url: item.url,
+              title: `${item.title} [${item.site}]`,
+            },
+            description: `Facebook post for ${item.url}`,
+          }),
+        )
+      }
+      return out
     })
+
     for (const resource of resources) {
       await reconciler.reconcile(resource, dryRun)
       if (reconciled) break

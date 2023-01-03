@@ -9,9 +9,16 @@ const argv = await yargs(process.argv.slice(2))
       default: false,
       description: 'Confirm the action',
     },
+    social: {
+      type: 'string',
+      description: 'What social network to publish to',
+    },
   })
   .strict()
   .help()
   .parse()
 
-await new FeedPublisher().publish(!argv.confirm)
+await new FeedPublisher().publish(
+  !argv.confirm,
+  argv.social ? argv.social.split(',') : undefined,
+)
