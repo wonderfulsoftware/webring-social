@@ -30,8 +30,8 @@ jobs:
         if: always()
         with:
           commit_message: Update state file
-          commit_user_name: 'creatorsgarten[bot]'
-          commit_user_email: 'creatorsgarten[bot]@users.noreply.github.com'
+          commit_user_name: 'dtinth-bot'
+          commit_user_email: 'dtinth-bot@users.noreply.github.com'
       - name: Dump the new state
         if: always()
         run: cat state.yaml
