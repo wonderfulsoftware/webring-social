@@ -17,6 +17,18 @@
     url: https://blog.oatto.dev/2023/01/01/happy-new-year-2023.html
   state:
     shortLink: https://webring.page.link/DfSf
+080078f90a5eb1c0b69655cd324fd241:mastodon:
+  spec:
+    title: สวัสดีปีใหม่ 2023 [lucian.solutions]
+    url: https://lucian.solutions/blog/happy-new-year-2023
+  state:
+    id: '109624763884415503'
+    url: https://mastodon.in.th/@webring/109624763884415503
+080078f90a5eb1c0b69655cd324fd241:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/happy-new-year-2023
+  state:
+    shortLink: https://webring.page.link/xXgp
 1a2d9dc90ce4d3cc8688d0ab30d25029:facebook:
   spec:
     title: นั่งรถเมล์ฟรีช่วงปีใหม่สาย 4-41 (57) วงกลมตลิ่งชัน-ธนบุรี [debuggingsoft.com]
@@ -93,6 +105,13 @@
     url: https://garden.narze.live/VSCode-Extension-Pack/
   state:
     shortLink: https://webring.page.link/SiJ8
+916d2e1460fe8dfa08af2cf230aa0b6f:facebook:
+  spec:
+    title: บันทึก - เรียนรู้ Typescript (Any กับ Unknow ใน Typescript) [kajame.xyz]
+    url: https://kajame.xyz/blog/learning-typescript-02
+  state:
+    id: '8428663207206771_100746462914605'
+    url: https://www.facebook.com/100683012920950/posts/100746462914605
 916d2e1460fe8dfa08af2cf230aa0b6f:mastodon:
   spec:
     title: บันทึก - เรียนรู้ Typescript (Any กับ Unknow ใน Typescript) [kajame.xyz]
