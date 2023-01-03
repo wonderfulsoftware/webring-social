@@ -28,6 +28,18 @@
     url: https://www.boonsong.dev/pattern-event-driven-architecture-1
   state:
     shortLink: https://webring.page.link/dhgB
+21f4a335030a5b27bc78206536bc4d24:mastodon:
+  spec:
+    title: เพิ่งเห็นว่า Text Editor ชื่อ Atom นั้นหยุดพัฒนาไปแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/bye-bye-atom/
+  state:
+    id: '109623356441552856'
+    url: https://mastodon.in.th/@webring/109623356441552856
+21f4a335030a5b27bc78206536bc4d24:shorturl:
+  spec:
+    url: https://www.somkiat.cc/bye-bye-atom/
+  state:
+    shortLink: https://webring.page.link/VXX6
 35128330f3accd4827bca496f248e288:mastodon:
   spec:
     title: VSCode Extension Pack [garden.narze.live]
