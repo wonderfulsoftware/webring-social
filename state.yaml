@@ -1,3 +1,15 @@
+049b791599c5a31533a5260873ea3523:mastodon:
+  spec:
+    title: Happy New Year 2023 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2023/01/01/happy-new-year-2023.html
+  state:
+    id: '109623827222096783'
+    url: https://mastodon.in.th/@webring/109623827222096783
+049b791599c5a31533a5260873ea3523:shorturl:
+  spec:
+    url: https://blog.oatto.dev/2023/01/01/happy-new-year-2023.html
+  state:
+    shortLink: https://webring.page.link/DfSf
 1a2d9dc90ce4d3cc8688d0ab30d25029:mastodon:
   spec:
     title: นั่งรถเมล์ฟรีช่วงปีใหม่สาย 4-41 (57) วงกลมตลิ่งชัน-ธนบุรี [debuggingsoft.com]
