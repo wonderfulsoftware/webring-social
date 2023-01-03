@@ -5,6 +5,7 @@ import { Resource, createResourceType } from './Resource'
 import { env } from './env'
 import { reconciler } from './Reconciler'
 import { createShortUrl } from './UrlShortener'
+import { partition, sortBy } from 'lodash-es'
 
 const feedItemSchema = z.object({
   site: z.string(),
@@ -74,10 +75,8 @@ export class FeedPublisher {
     })
 
     const feedData = feedSchema.parse(feed.data)
-    const resources = feedData
-      .sort((a, b) => a.published.localeCompare(b.published))
-      .flatMap((item): Resource[] => {
-        if (item.published < '2023') return []
+    const resources = selectAndSortFeed(feedData).flatMap(
+      (item): Resource[] => {
         const urlHash = hashUrl(item.url)
         const out: Resource[] = []
         if (shouldPostTo('mastodon')) {
@@ -105,7 +104,8 @@ export class FeedPublisher {
           )
         }
         return out
-      })
+      },
+    )
 
     for (const resource of resources) {
       await reconciler.reconcile(resource, dryRun)
@@ -115,4 +115,15 @@ export class FeedPublisher {
 }
 function hashUrl(url: string) {
   return createHash('md5').update(url).digest('hex')
+}
+function selectAndSortFeed<X extends { published: string }>(feed: X[]): X[] {
+  const items = feed.filter((item) => item.published >= '2022-12')
+  const [before2023, after2023] = partition<X>(
+    items,
+    (item) => item.published < '2023',
+  )
+  return [
+    ...sortBy(after2023, (item) => item.published),
+    ...sortBy(before2023, (item) => item.published).reverse(),
+  ]
 }
