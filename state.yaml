@@ -188,6 +188,13 @@
     url: https://kajame.xyz/blog/learning-typescript-02
   state:
     shortLink: https://webring.page.link/5AUZ
+92549b8bf349a2a22d83de826f181ba1:facebook:
+  spec:
+    title: 2022 [llun.me]
+    url: https://www.llun.me/posts/2022-12-31-2022
+  state:
+    id: '8428663207206771_101211222868129'
+    url: https://www.facebook.com/100683012920950/posts/101211222868129
 92549b8bf349a2a22d83de826f181ba1:mastodon:
   spec:
     title: 2022 [llun.me]
@@ -269,6 +276,18 @@ f09c3739636c28f5df703812b2b95e57:shorturl:
     url: https://yothinix.com/2022/
   state:
     shortLink: https://webring.page.link/9Y13
+f52e6cc105cd38ba08ddb80ada7f1b01:mastodon:
+  spec:
+    title: Riffy's adventure to Northern Japan and choked along the way [rayriffy.com]
+    url: https://blog.rayriffy.com/choke-in-japan-2022/
+  state:
+    id: '109631242325035115'
+    url: https://mastodon.in.th/@webring/109631242325035115
+f52e6cc105cd38ba08ddb80ada7f1b01:shorturl:
+  spec:
+    url: https://blog.rayriffy.com/choke-in-japan-2022/
+  state:
+    shortLink: https://webring.page.link/co4n
 f61ba76d8f875bace468dadcffe183d8:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 1 - Heart [devahoy.com]
