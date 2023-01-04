@@ -36,6 +36,18 @@
     url: https://lucian.solutions/blog/happy-new-year-2023
   state:
     shortLink: https://webring.page.link/xXgp
+0ff4650849368daf44e8a8bfacfba07f:mastodon:
+  spec:
+    title: ดู z-index ง่ายๆ ด้วย 3D View [nitpum.com]
+    url: https://nitpum.com/post/edge-z-index-tool/
+  state:
+    id: '109629968702243417'
+    url: https://mastodon.in.th/@webring/109629968702243417
+0ff4650849368daf44e8a8bfacfba07f:shorturl:
+  spec:
+    url: https://nitpum.com/post/edge-z-index-tool/
+  state:
+    shortLink: https://webring.page.link/Hv1E
 1a2d9dc90ce4d3cc8688d0ab30d25029:facebook:
   spec:
     title: นั่งรถเมล์ฟรีช่วงปีใหม่สาย 4-41 (57) วงกลมตลิ่งชัน-ธนบุรี [debuggingsoft.com]
@@ -124,6 +136,13 @@
     url: https://garden.narze.live/VSCode-Extension-Pack/
   state:
     shortLink: https://webring.page.link/SiJ8
+6093ef23fc852e94bd4da1ca3d3ef91c:facebook:
+  spec:
+    title: Zero-ETL คืออะไร [somkiat.cc]
+    url: https://www.somkiat.cc/what-zero-etl/
+  state:
+    id: '8428663207206771_101109346211650'
+    url: https://www.facebook.com/100683012920950/posts/101109346211650
 6093ef23fc852e94bd4da1ca3d3ef91c:mastodon:
   spec:
     title: Zero-ETL คืออะไร [somkiat.cc]
