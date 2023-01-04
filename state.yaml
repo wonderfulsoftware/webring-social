@@ -36,6 +36,13 @@
     url: https://lucian.solutions/blog/happy-new-year-2023
   state:
     shortLink: https://webring.page.link/xXgp
+0ff4650849368daf44e8a8bfacfba07f:facebook:
+  spec:
+    title: ดู z-index ง่ายๆ ด้วย 3D View [nitpum.com]
+    url: https://nitpum.com/post/edge-z-index-tool/
+  state:
+    id: '8428663207206771_101183212870930'
+    url: https://www.facebook.com/100683012920950/posts/101183212870930
 0ff4650849368daf44e8a8bfacfba07f:mastodon:
   spec:
     title: ดู z-index ง่ายๆ ด้วย 3D View [nitpum.com]
@@ -250,6 +257,18 @@ c25a1751edc8f9642937cb00ebca5982:shorturl:
     url: https://garden.narze.live/Data-Sci-Bootcamp/Building-a-Second-Brain/
   state:
     shortLink: https://webring.page.link/RXsQ
+f09c3739636c28f5df703812b2b95e57:mastodon:
+  spec:
+    title: 2022 [yothinix.com]
+    url: https://yothinix.com/2022/
+  state:
+    id: '109630959517665894'
+    url: https://mastodon.in.th/@webring/109630959517665894
+f09c3739636c28f5df703812b2b95e57:shorturl:
+  spec:
+    url: https://yothinix.com/2022/
+  state:
+    shortLink: https://webring.page.link/9Y13
 f61ba76d8f875bace468dadcffe183d8:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 1 - Heart [devahoy.com]
