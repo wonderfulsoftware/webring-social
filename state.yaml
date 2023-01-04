@@ -136,6 +136,25 @@
     url: https://kajame.xyz/blog/learning-typescript-02
   state:
     shortLink: https://webring.page.link/5AUZ
+9c363ddb48157779d09842df47fb6674:facebook:
+  spec:
+    title: อัพเดตโปรเจควงแหวนเว็บ, เปิดเพจ Facebook, Mastodon [dt.in.th]
+    url: https://notes.dt.in.th/20230103T095819Z9158
+  state:
+    id: '8428663207206771_101020649553853'
+    url: https://www.facebook.com/100683012920950/posts/101020649553853
+9c363ddb48157779d09842df47fb6674:mastodon:
+  spec:
+    title: อัพเดตโปรเจควงแหวนเว็บ, เปิดเพจ Facebook, Mastodon [dt.in.th]
+    url: https://notes.dt.in.th/20230103T095819Z9158
+  state:
+    id: '109628622449514773'
+    url: https://mastodon.in.th/@webring/109628622449514773
+9c363ddb48157779d09842df47fb6674:shorturl:
+  spec:
+    url: https://notes.dt.in.th/20230103T095819Z9158
+  state:
+    shortLink: https://webring.page.link/ADpo
 ae5f149932a0e44e0107545fac9144c1:facebook:
   spec:
     title: RediSearch อีกหนึ่งความสามารถของ Redis [somkiat.cc]
