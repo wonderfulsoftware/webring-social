@@ -17,6 +17,13 @@
     url: https://blog.oatto.dev/2023/01/01/happy-new-year-2023.html
   state:
     shortLink: https://webring.page.link/DfSf
+080078f90a5eb1c0b69655cd324fd241:facebook:
+  spec:
+    title: สวัสดีปีใหม่ 2023 [lucian.solutions]
+    url: https://lucian.solutions/blog/happy-new-year-2023
+  state:
+    id: '8428663207206771_101076336214951'
+    url: https://www.facebook.com/100683012920950/posts/101076336214951
 080078f90a5eb1c0b69655cd324fd241:mastodon:
   spec:
     title: สวัสดีปีใหม่ 2023 [lucian.solutions]
@@ -117,6 +124,18 @@
     url: https://garden.narze.live/VSCode-Extension-Pack/
   state:
     shortLink: https://webring.page.link/SiJ8
+6093ef23fc852e94bd4da1ca3d3ef91c:mastodon:
+  spec:
+    title: Zero-ETL คืออะไร [somkiat.cc]
+    url: https://www.somkiat.cc/what-zero-etl/
+  state:
+    id: '109629494777839774'
+    url: https://mastodon.in.th/@webring/109629494777839774
+6093ef23fc852e94bd4da1ca3d3ef91c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/what-zero-etl/
+  state:
+    shortLink: https://webring.page.link/vzkr
 916d2e1460fe8dfa08af2cf230aa0b6f:facebook:
   spec:
     title: บันทึก - เรียนรู้ Typescript (Any กับ Unknow ใน Typescript) [kajame.xyz]
