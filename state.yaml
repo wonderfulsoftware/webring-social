@@ -86,6 +86,13 @@
     url: https://www.boonsong.dev/pattern-event-driven-architecture-1
   state:
     shortLink: https://webring.page.link/dhgB
+207076425aabd51b4dba5170874fc6cc:facebook:
+  spec:
+    title: เซต Cantor แบบสามส่วน [neizod.dev]
+    url: https://neizod.dev/2022/12/31/cantor-ternary-set.html
+  state:
+    id: '8428663207206771_101138212875430'
+    url: https://www.facebook.com/100683012920950/posts/101138212875430
 207076425aabd51b4dba5170874fc6cc:mastodon:
   spec:
     title: เซต Cantor แบบสามส่วน [neizod.dev]
@@ -174,6 +181,18 @@
     url: https://kajame.xyz/blog/learning-typescript-02
   state:
     shortLink: https://webring.page.link/5AUZ
+92549b8bf349a2a22d83de826f181ba1:mastodon:
+  spec:
+    title: 2022 [llun.me]
+    url: https://www.llun.me/posts/2022-12-31-2022
+  state:
+    id: '109630430037866356'
+    url: https://mastodon.in.th/@webring/109630430037866356
+92549b8bf349a2a22d83de826f181ba1:shorturl:
+  spec:
+    url: https://www.llun.me/posts/2022-12-31-2022
+  state:
+    shortLink: https://webring.page.link/GfBB
 9c363ddb48157779d09842df47fb6674:facebook:
   spec:
     title: อัพเดตโปรเจควงแหวนเว็บ, เปิดเพจ Facebook, Mastodon [dt.in.th]
