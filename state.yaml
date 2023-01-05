@@ -162,6 +162,18 @@
     url: https://garden.narze.live/VSCode-Extension-Pack/
   state:
     shortLink: https://webring.page.link/SiJ8
+3de5278b6c9ecfbb07e80c6440b820db:mastodon:
+  spec:
+    title: 0256 | คำถามที่โดนถามบ่อยกับรถยนต์ไฟฟ้า [icez.net]
+    url: https://www.icez.net/blog/167526/0256-ev-frequency-asked-question
+  state:
+    id: '109637237615181822'
+    url: https://mastodon.in.th/@webring/109637237615181822
+3de5278b6c9ecfbb07e80c6440b820db:shorturl:
+  spec:
+    url: https://www.icez.net/blog/167526/0256-ev-frequency-asked-question
+  state:
+    shortLink: https://webring.page.link/mRMf
 577af00a06b01e0f193daf5e4c105f52:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 2 - Card Flip [devahoy.com]
@@ -371,6 +383,13 @@ f09c3739636c28f5df703812b2b95e57:shorturl:
     url: https://yothinix.com/2022/
   state:
     shortLink: https://webring.page.link/9Y13
+f52e6cc105cd38ba08ddb80ada7f1b01:facebook:
+  spec:
+    title: Riffy's adventure to Northern Japan and choked along the way [rayriffy.com]
+    url: https://blog.rayriffy.com/choke-in-japan-2022/
+  state:
+    id: '8428663207206771_101711009484817'
+    url: https://www.facebook.com/100683012920950/posts/101711009484817
 f52e6cc105cd38ba08ddb80ada7f1b01:mastodon:
   spec:
     title: Riffy's adventure to Northern Japan and choked along the way [rayriffy.com]
