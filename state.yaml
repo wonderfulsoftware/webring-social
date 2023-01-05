@@ -257,6 +257,25 @@ ae5f149932a0e44e0107545fac9144c1:shorturl:
     url: https://www.somkiat.cc/use-redisearch/
   state:
     shortLink: https://webring.page.link/XwD9
+afd1afebef5caf5636be6e145ec98f98:facebook:
+  spec:
+    title: บันทึกเที่ยวญี่ปุ่นหลังโควิด ปลายปี 2022 [mesodiar.com]
+    url: https://mesodiar.com/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94-%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%B5-2022-7ffac94dd35f?source=rss----698ac1e5dc8c---4
+  state:
+    id: '8428663207206771_101515216171063'
+    url: https://www.facebook.com/100683012920950/posts/101515216171063
+afd1afebef5caf5636be6e145ec98f98:mastodon:
+  spec:
+    title: บันทึกเที่ยวญี่ปุ่นหลังโควิด ปลายปี 2022 [mesodiar.com]
+    url: https://mesodiar.com/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94-%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%B5-2022-7ffac94dd35f?source=rss----698ac1e5dc8c---4
+  state:
+    id: '109635114961841922'
+    url: https://mastodon.in.th/@webring/109635114961841922
+afd1afebef5caf5636be6e145ec98f98:shorturl:
+  spec:
+    url: https://mesodiar.com/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94-%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%B5-2022-7ffac94dd35f?source=rss----698ac1e5dc8c---4
+  state:
+    shortLink: https://webring.page.link/tgzE
 c25a1751edc8f9642937cb00ebca5982:facebook:
   spec:
     title: Building a Second Brain [garden.narze.live]
