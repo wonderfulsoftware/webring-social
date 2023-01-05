@@ -162,6 +162,25 @@
     url: https://garden.narze.live/VSCode-Extension-Pack/
   state:
     shortLink: https://webring.page.link/SiJ8
+577af00a06b01e0f193daf5e4c105f52:facebook:
+  spec:
+    title: เรียน​ CSS Animation | Day 2 - Card Flip [devahoy.com]
+    url: https://devahoy.com/tutorials/learn-css-animations/day2-card-flip
+  state:
+    id: '8428663207206771_101632426159342'
+    url: https://www.facebook.com/100683012920950/posts/101632426159342
+577af00a06b01e0f193daf5e4c105f52:mastodon:
+  spec:
+    title: เรียน​ CSS Animation | Day 2 - Card Flip [devahoy.com]
+    url: https://devahoy.com/tutorials/learn-css-animations/day2-card-flip
+  state:
+    id: '109636558189846022'
+    url: https://mastodon.in.th/@webring/109636558189846022
+577af00a06b01e0f193daf5e4c105f52:shorturl:
+  spec:
+    url: https://devahoy.com/tutorials/learn-css-animations/day2-card-flip
+  state:
+    shortLink: https://webring.page.link/2zz5
 6093ef23fc852e94bd4da1ca3d3ef91c:facebook:
   spec:
     title: Zero-ETL คืออะไร [somkiat.cc]
