@@ -181,6 +181,25 @@
     url: https://www.somkiat.cc/what-zero-etl/
   state:
     shortLink: https://webring.page.link/vzkr
+639c11c08aeb3f30f0258dd9db600772:facebook:
+  spec:
+    title: เมื่อปี 2022 เราเจอกับคำว่าอะไรบ้างนะ ? [somkiat.cc]
+    url: https://www.somkiat.cc/buzzword-2022/
+  state:
+    id: '8428663207206771_101567272832524'
+    url: https://www.facebook.com/100683012920950/posts/101567272832524
+639c11c08aeb3f30f0258dd9db600772:mastodon:
+  spec:
+    title: เมื่อปี 2022 เราเจอกับคำว่าอะไรบ้างนะ ? [somkiat.cc]
+    url: https://www.somkiat.cc/buzzword-2022/
+  state:
+    id: '109635816926996807'
+    url: https://mastodon.in.th/@webring/109635816926996807
+639c11c08aeb3f30f0258dd9db600772:shorturl:
+  spec:
+    url: https://www.somkiat.cc/buzzword-2022/
+  state:
+    shortLink: https://webring.page.link/jpxa
 916d2e1460fe8dfa08af2cf230aa0b6f:facebook:
   spec:
     title: บันทึก - เรียนรู้ Typescript (Any กับ Unknow ใน Typescript) [kajame.xyz]
