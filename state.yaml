@@ -269,6 +269,25 @@
     url: https://chameleontk.github.io/year-in-review-2022/
   state:
     shortLink: https://webring.page.link/ioKV
+7aac97736fe3b735eb106080806fd92b:facebook:
+  spec:
+    title: '[AZ-400] Design and implement a release strategy [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/01/az-400-design-and-implement-a-release-strategy/
+  state:
+    id: '8428663207206771_102142616108323'
+    url: https://www.facebook.com/100683012920950/posts/102142616108323
+7aac97736fe3b735eb106080806fd92b:mastodon:
+  spec:
+    title: '[AZ-400] Design and implement a release strategy [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/01/az-400-design-and-implement-a-release-strategy/
+  state:
+    id: '109642218555906418'
+    url: https://mastodon.in.th/@webring/109642218555906418
+7aac97736fe3b735eb106080806fd92b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/01/az-400-design-and-implement-a-release-strategy/
+  state:
+    shortLink: https://webring.page.link/AGse
 916d2e1460fe8dfa08af2cf230aa0b6f:facebook:
   spec:
     title: บันทึก - เรียนรู้ Typescript (Any กับ Unknow ใน Typescript) [kajame.xyz]
