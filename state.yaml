@@ -452,3 +452,22 @@ f78d5beacf5c6b4e71a51d75c3737765:shorturl:
     url: https://www.somkiat.cc/note-tuning-performance-2/
   state:
     shortLink: https://webring.page.link/c2Sd
+f96b66b7a30e22623fc55c95fed9bb21:facebook:
+  spec:
+    title: '[รีวิว]เมื่อหนุ่มโรงงาน ย้ายสายไปทำงานเป็นโปรแกรมเมอร์ [toupawa.com]'
+    url: https://toupawa.com/review-a-worker-man-who-become-to-be-a-programmer/
+  state:
+    id: '8428663207206771_102012839454634'
+    url: https://www.facebook.com/100683012920950/posts/102012839454634
+f96b66b7a30e22623fc55c95fed9bb21:mastodon:
+  spec:
+    title: '[รีวิว]เมื่อหนุ่มโรงงาน ย้ายสายไปทำงานเป็นโปรแกรมเมอร์ [toupawa.com]'
+    url: https://toupawa.com/review-a-worker-man-who-become-to-be-a-programmer/
+  state:
+    id: '109640782276632803'
+    url: https://mastodon.in.th/@webring/109640782276632803
+f96b66b7a30e22623fc55c95fed9bb21:shorturl:
+  spec:
+    url: https://toupawa.com/review-a-worker-man-who-become-to-be-a-programmer/
+  state:
+    shortLink: https://webring.page.link/Fpyg
