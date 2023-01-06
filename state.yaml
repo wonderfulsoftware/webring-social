@@ -55,6 +55,25 @@
     url: https://nitpum.com/post/edge-z-index-tool/
   state:
     shortLink: https://webring.page.link/Hv1E
+199609ef0b42ebf9b39cf0f4c3a01a06:facebook:
+  spec:
+    title: มาทำความรู้จักกับ Ephemeral Environment [somkiat.cc]
+    url: https://www.somkiat.cc/ephemeral-environment/
+  state:
+    id: '8428663207206771_102072012782050'
+    url: https://www.facebook.com/100683012920950/posts/102072012782050
+199609ef0b42ebf9b39cf0f4c3a01a06:mastodon:
+  spec:
+    title: มาทำความรู้จักกับ Ephemeral Environment [somkiat.cc]
+    url: https://www.somkiat.cc/ephemeral-environment/
+  state:
+    id: '109641479054402389'
+    url: https://mastodon.in.th/@webring/109641479054402389
+199609ef0b42ebf9b39cf0f4c3a01a06:shorturl:
+  spec:
+    url: https://www.somkiat.cc/ephemeral-environment/
+  state:
+    shortLink: https://webring.page.link/ETja
 1a2d9dc90ce4d3cc8688d0ab30d25029:facebook:
   spec:
     title: นั่งรถเมล์ฟรีช่วงปีใหม่สาย 4-41 (57) วงกลมตลิ่งชัน-ธนบุรี [debuggingsoft.com]
