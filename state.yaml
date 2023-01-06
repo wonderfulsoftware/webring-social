@@ -231,6 +231,25 @@
     url: https://www.somkiat.cc/buzzword-2022/
   state:
     shortLink: https://webring.page.link/jpxa
+6cc15445234f9602e6eb761b26611894:facebook:
+  spec:
+    title: Year in Review 2022 [wp.curve.in.th]
+    url: https://chameleontk.github.io/year-in-review-2022/
+  state:
+    id: '8428663207206771_101937956128789'
+    url: https://www.facebook.com/100683012920950/posts/101937956128789
+6cc15445234f9602e6eb761b26611894:mastodon:
+  spec:
+    title: Year in Review 2022 [wp.curve.in.th]
+    url: https://chameleontk.github.io/year-in-review-2022/
+  state:
+    id: '109640068049897729'
+    url: https://mastodon.in.th/@webring/109640068049897729
+6cc15445234f9602e6eb761b26611894:shorturl:
+  spec:
+    url: https://chameleontk.github.io/year-in-review-2022/
+  state:
+    shortLink: https://webring.page.link/ioKV
 916d2e1460fe8dfa08af2cf230aa0b6f:facebook:
   spec:
     title: บันทึก - เรียนรู้ Typescript (Any กับ Unknow ใน Typescript) [kajame.xyz]
