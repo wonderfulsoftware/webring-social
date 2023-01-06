@@ -421,6 +421,25 @@ cfd77637023899ca0b208faf0b85c341:shorturl:
     url: https://tinarskii.com/articles/computer
   state:
     shortLink: https://webring.page.link/uxzB
+d54ac0ea44f67cb41b090ad9a3b740cc:facebook:
+  spec:
+    title: เรียน​ CSS Animation | Day 3 - Simple Hover [devahoy.com]
+    url: https://devahoy.com/tutorials/learn-css-animations/day3-simple-hover
+  state:
+    id: '8428663207206771_102220442767207'
+    url: https://www.facebook.com/100683012920950/posts/102220442767207
+d54ac0ea44f67cb41b090ad9a3b740cc:mastodon:
+  spec:
+    title: เรียน​ CSS Animation | Day 3 - Simple Hover [devahoy.com]
+    url: https://devahoy.com/tutorials/learn-css-animations/day3-simple-hover
+  state:
+    id: '109642896978940609'
+    url: https://mastodon.in.th/@webring/109642896978940609
+d54ac0ea44f67cb41b090ad9a3b740cc:shorturl:
+  spec:
+    url: https://devahoy.com/tutorials/learn-css-animations/day3-simple-hover
+  state:
+    shortLink: https://webring.page.link/RM54
 f09c3739636c28f5df703812b2b95e57:facebook:
   spec:
     title: 2022 [yothinix.com]
