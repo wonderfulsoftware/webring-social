@@ -212,6 +212,25 @@
     url: https://devahoy.com/tutorials/learn-css-animations/day2-card-flip
   state:
     shortLink: https://webring.page.link/2zz5
+5bad2dfa27f5bf49a7c24d0f0bc933b2:facebook:
+  spec:
+    title: Redis testing [kajame.xyz]
+    url: https://kajame.xyz/blog/redis-testing
+  state:
+    id: '8428663207206771_102451416077443'
+    url: https://www.facebook.com/100683012920950/posts/102451416077443
+5bad2dfa27f5bf49a7c24d0f0bc933b2:mastodon:
+  spec:
+    title: Redis testing [kajame.xyz]
+    url: https://kajame.xyz/blog/redis-testing
+  state:
+    id: '109645727601956722'
+    url: https://mastodon.in.th/@webring/109645727601956722
+5bad2dfa27f5bf49a7c24d0f0bc933b2:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/redis-testing
+  state:
+    shortLink: https://webring.page.link/U1Ty
 6093ef23fc852e94bd4da1ca3d3ef91c:facebook:
   spec:
     title: Zero-ETL คืออะไร [somkiat.cc]
