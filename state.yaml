@@ -36,6 +36,25 @@
     url: https://lucian.solutions/blog/happy-new-year-2023
   state:
     shortLink: https://webring.page.link/xXgp
+0c0656e4b47f6ff1a13511b3f3a1e346:facebook:
+  spec:
+    title: '[CR] Starbucks-Milk Pudding [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/01/cr-starbucks-milk-pudding/
+  state:
+    id: '8428663207206771_102510649404853'
+    url: https://www.facebook.com/100683012920950/posts/102510649404853
+0c0656e4b47f6ff1a13511b3f3a1e346:mastodon:
+  spec:
+    title: '[CR] Starbucks-Milk Pudding [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/01/cr-starbucks-milk-pudding/
+  state:
+    id: '109646438749551544'
+    url: https://mastodon.in.th/@webring/109646438749551544
+0c0656e4b47f6ff1a13511b3f3a1e346:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/01/cr-starbucks-milk-pudding/
+  state:
+    shortLink: https://webring.page.link/sBWC
 0ff4650849368daf44e8a8bfacfba07f:facebook:
   spec:
     title: ดู z-index ง่ายๆ ด้วย 3D View [nitpum.com]
