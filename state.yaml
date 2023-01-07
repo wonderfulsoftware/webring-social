@@ -207,6 +207,13 @@
     url: https://garden.narze.live/VSCode-Extension-Pack/
   state:
     shortLink: https://webring.page.link/SiJ8
+3de5278b6c9ecfbb07e80c6440b820db:facebook:
+  spec:
+    title: 0256 | คำถามที่โดนถามบ่อยกับรถยนต์ไฟฟ้า [icez.net]
+    url: https://www.icez.net/blog/167526/0256-ev-frequency-asked-question
+  state:
+    id: '8428663207206771_102703109385607'
+    url: https://www.facebook.com/100683012920950/posts/102703109385607
 3de5278b6c9ecfbb07e80c6440b820db:mastodon:
   spec:
     title: 0256 | คำถามที่โดนถามบ่อยกับรถยนต์ไฟฟ้า [icez.net]
@@ -333,6 +340,18 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-design-and-implement-a-release-strategy/
   state:
     shortLink: https://webring.page.link/AGse
+8a11096b6f1264ff832be3e82977504f:mastodon:
+  spec:
+    title: TP-Link MR600 - LTE Router [blog.kpping.me]
+    url: https://blog.kpping.me/posts/tp-link-mr-600/
+  state:
+    id: '109648553079333023'
+    url: https://mastodon.in.th/@webring/109648553079333023
+8a11096b6f1264ff832be3e82977504f:shorturl:
+  spec:
+    url: https://blog.kpping.me/posts/tp-link-mr-600/
+  state:
+    shortLink: https://webring.page.link/8etY
 916d2e1460fe8dfa08af2cf230aa0b6f:facebook:
   spec:
     title: บันทึก - เรียนรู้ Typescript (Any กับ Unknow ใน Typescript) [kajame.xyz]
