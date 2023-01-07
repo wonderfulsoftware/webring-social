@@ -383,6 +383,25 @@
     url: https://notes.dt.in.th/20230103T095819Z9158
   state:
     shortLink: https://webring.page.link/ADpo
+ac32b68bb4ebd11aa5bcf3ab81e80203:facebook:
+  spec:
+    title: มาเขียน code กับ Spring Modulith กันบ้าง [somkiat.cc]
+    url: https://www.somkiat.cc/coding-with-spring-modulith/
+  state:
+    id: '8428663207206771_102566269399291'
+    url: https://www.facebook.com/100683012920950/posts/102566269399291
+ac32b68bb4ebd11aa5bcf3ab81e80203:mastodon:
+  spec:
+    title: มาเขียน code กับ Spring Modulith กันบ้าง [somkiat.cc]
+    url: https://www.somkiat.cc/coding-with-spring-modulith/
+  state:
+    id: '109647135877040399'
+    url: https://mastodon.in.th/@webring/109647135877040399
+ac32b68bb4ebd11aa5bcf3ab81e80203:shorturl:
+  spec:
+    url: https://www.somkiat.cc/coding-with-spring-modulith/
+  state:
+    shortLink: https://webring.page.link/hvGd
 ae5f149932a0e44e0107545fac9144c1:facebook:
   spec:
     title: RediSearch อีกหนึ่งความสามารถของ Redis [somkiat.cc]
