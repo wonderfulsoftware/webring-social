@@ -169,6 +169,13 @@
     url: https://www.somkiat.cc/bye-bye-atom/
   state:
     shortLink: https://webring.page.link/VXX6
+2e6fcc4c4d3bf35a1e3a457f44fe421f:facebook:
+  spec:
+    title: สรุปชีวิตปี 2022 กับการเข้าโลก web3 แบบไม่ทันตั้งตัว [mikkipastel.com]
+    url: https://www.mikkipastel.com/review-blog-2022/
+  state:
+    id: '8428663207206771_102628486059736'
+    url: https://www.facebook.com/100683012920950/posts/102628486059736
 2e6fcc4c4d3bf35a1e3a457f44fe421f:mastodon:
   spec:
     title: สรุปชีวิตปี 2022 กับการเข้าโลก web3 แบบไม่ทันตั้งตัว [mikkipastel.com]
@@ -440,6 +447,18 @@ afd1afebef5caf5636be6e145ec98f98:shorturl:
     url: https://mesodiar.com/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94-%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%B5-2022-7ffac94dd35f?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/tgzE
+b7ed4ea6402e4dd022e2f8a43009eddb:mastodon:
+  spec:
+    title: 2022 [microbenz.in.th]
+    url: https://microbenz.in.th2022-review/
+  state:
+    id: '109647872280648870'
+    url: https://mastodon.in.th/@webring/109647872280648870
+b7ed4ea6402e4dd022e2f8a43009eddb:shorturl:
+  spec:
+    url: https://microbenz.in.th2022-review/
+  state:
+    shortLink: https://webring.page.link/76b1
 c25a1751edc8f9642937cb00ebca5982:facebook:
   spec:
     title: Building a Second Brain [garden.narze.live]
