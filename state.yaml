@@ -428,6 +428,25 @@
     url: https://www.llun.me/posts/2022-12-31-2022
   state:
     shortLink: https://webring.page.link/GfBB
+9939010afca0c28547967a6705ec783e:facebook:
+  spec:
+    title: My wrong assumptions with ActivityPub [llun.me]
+    url: https://www.llun.me/posts/dev/2023-01-07-my-wrong-assumptions-with-activity-pub
+  state:
+    id: '8428663207206771_103269675995617'
+    url: https://www.facebook.com/100683012920950/posts/103269675995617
+9939010afca0c28547967a6705ec783e:mastodon:
+  spec:
+    title: My wrong assumptions with ActivityPub [llun.me]
+    url: https://www.llun.me/posts/dev/2023-01-07-my-wrong-assumptions-with-activity-pub
+  state:
+    id: '109654216131659459'
+    url: https://mastodon.in.th/@webring/109654216131659459
+9939010afca0c28547967a6705ec783e:shorturl:
+  spec:
+    url: https://www.llun.me/posts/dev/2023-01-07-my-wrong-assumptions-with-activity-pub
+  state:
+    shortLink: https://webring.page.link/fudd
 9c363ddb48157779d09842df47fb6674:facebook:
   spec:
     title: อัพเดตโปรเจควงแหวนเว็บ, เปิดเพจ Facebook, Mastodon [dt.in.th]
