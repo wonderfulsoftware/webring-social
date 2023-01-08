@@ -321,6 +321,25 @@
     url: https://www.somkiat.cc/buzzword-2022/
   state:
     shortLink: https://webring.page.link/jpxa
+63e98d110197d011c15980cc4ac6b52f:facebook:
+  spec:
+    title: สร้าง GO gRPC project ทำความเข้าใจ gRPC มันดียังไง (โค๊ด gRPC ตัวอย่าง) [poolsawat.com]
+    url: https://www.poolsawat.com/golang-grpc-advantages/
+  state:
+    id: '8428663207206771_103101826012402'
+    url: https://www.facebook.com/100683012920950/posts/103101826012402
+63e98d110197d011c15980cc4ac6b52f:mastodon:
+  spec:
+    title: สร้าง GO gRPC project ทำความเข้าใจ gRPC มันดียังไง (โค๊ด gRPC ตัวอย่าง) [poolsawat.com]
+    url: https://www.poolsawat.com/golang-grpc-advantages/
+  state:
+    id: '109652799767662248'
+    url: https://mastodon.in.th/@webring/109652799767662248
+63e98d110197d011c15980cc4ac6b52f:shorturl:
+  spec:
+    url: https://www.poolsawat.com/golang-grpc-advantages/
+  state:
+    shortLink: https://webring.page.link/kod8
 6cc15445234f9602e6eb761b26611894:facebook:
   spec:
     title: Year in Review 2022 [wp.curve.in.th]
