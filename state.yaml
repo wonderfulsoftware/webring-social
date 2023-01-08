@@ -447,6 +447,25 @@
     url: https://notes.dt.in.th/20230103T095819Z9158
   state:
     shortLink: https://webring.page.link/ADpo
+a4f45033b6dafefc4eedb1e9c8f10387:facebook:
+  spec:
+    title: เรียน​ CSS Animation | Day 4 - Click Me! [devahoy.com]
+    url: https://devahoy.com/tutorials/learn-css-animations/day4-click-me
+  state:
+    id: '8428663207206771_103182202671031'
+    url: https://www.facebook.com/100683012920950/posts/103182202671031
+a4f45033b6dafefc4eedb1e9c8f10387:mastodon:
+  spec:
+    title: เรียน​ CSS Animation | Day 4 - Click Me! [devahoy.com]
+    url: https://devahoy.com/tutorials/learn-css-animations/day4-click-me
+  state:
+    id: '109653536564880824'
+    url: https://mastodon.in.th/@webring/109653536564880824
+a4f45033b6dafefc4eedb1e9c8f10387:shorturl:
+  spec:
+    url: https://devahoy.com/tutorials/learn-css-animations/day4-click-me
+  state:
+    shortLink: https://webring.page.link/KCtb
 ac32b68bb4ebd11aa5bcf3ab81e80203:facebook:
   spec:
     title: มาเขียน code กับ Spring Modulith กันบ้าง [somkiat.cc]
