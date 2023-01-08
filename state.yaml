@@ -188,6 +188,25 @@
     url: https://www.mikkipastel.com/review-blog-2022/
   state:
     shortLink: https://webring.page.link/PVwT
+308d6911f2a8f3c648cb15aaecd28812:facebook:
+  spec:
+    title: '#แก้ชงปีเถาะ ที่ดันเจี้ยนวัดมังกรกมลาวาส และวัดทิพยวารีวิหาร [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/01/%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%80%e0%b8%96%e0%b8%b2%e0%b8%b0%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%94%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%88%e0%b8%b5%e0%b9%89%e0%b8%a2/
+  state:
+    id: '8428663207206771_103023869353531'
+    url: https://www.facebook.com/100683012920950/posts/103023869353531
+308d6911f2a8f3c648cb15aaecd28812:mastodon:
+  spec:
+    title: '#แก้ชงปีเถาะ ที่ดันเจี้ยนวัดมังกรกมลาวาส และวัดทิพยวารีวิหาร [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/01/%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%80%e0%b8%96%e0%b8%b2%e0%b8%b0%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%94%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%88%e0%b8%b5%e0%b9%89%e0%b8%a2/
+  state:
+    id: '109652102181061675'
+    url: https://mastodon.in.th/@webring/109652102181061675
+308d6911f2a8f3c648cb15aaecd28812:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/01/%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%80%e0%b8%96%e0%b8%b2%e0%b8%b0%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%94%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%88%e0%b8%b5%e0%b9%89%e0%b8%a2/
+  state:
+    shortLink: https://webring.page.link/zbcm
 35128330f3accd4827bca496f248e288:facebook:
   spec:
     title: VSCode Extension Pack [garden.narze.live]
