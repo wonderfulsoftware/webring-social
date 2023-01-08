@@ -497,6 +497,25 @@ c25a1751edc8f9642937cb00ebca5982:shorturl:
     url: https://garden.narze.live/Data-Sci-Bootcamp/Building-a-Second-Brain/
   state:
     shortLink: https://webring.page.link/RXsQ
+c398c50193817b68dc475a64923a4c0d:facebook:
+  spec:
+    title: 'เรื่องราวอันน่าทึ่งเกี่ยวกับคอมพิวเตอร์: จากเครื่องคิดเลขโบราณสู่เครื่องจักรสมัยใหม่ [tinarskii.com]'
+    url: https://tinarskii.com/articles/undefined
+  state:
+    id: '8428663207206771_102952266027358'
+    url: https://www.facebook.com/100683012920950/posts/102952266027358
+c398c50193817b68dc475a64923a4c0d:mastodon:
+  spec:
+    title: 'เรื่องราวอันน่าทึ่งเกี่ยวกับคอมพิวเตอร์: จากเครื่องคิดเลขโบราณสู่เครื่องจักรสมัยใหม่ [tinarskii.com]'
+    url: https://tinarskii.com/articles/undefined
+  state:
+    id: '109651390820611969'
+    url: https://mastodon.in.th/@webring/109651390820611969
+c398c50193817b68dc475a64923a4c0d:shorturl:
+  spec:
+    url: https://tinarskii.com/articles/undefined
+  state:
+    shortLink: https://webring.page.link/PNAf
 cfd77637023899ca0b208faf0b85c341:facebook:
   spec:
     title: 'เรื่องราวอันน่าทึ่งเกี่ยวกับคอมพิวเตอร์: จากเครื่องคิดเลขโบราณสู่เครื่องจักรสมัยใหม่ [tinarskii.com]'
