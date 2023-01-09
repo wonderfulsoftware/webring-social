@@ -428,6 +428,25 @@
     url: https://blog.kpping.me/posts/tp-link-mr-600/
   state:
     shortLink: https://webring.page.link/8etY
+913fbdd71169fbb105899d7bb9623f92:facebook:
+  spec:
+    title: 'Domain-driven design: Business domain and Subdomain [boonsong.dev]'
+    url: https://www.boonsong.dev/business-domain-and-subdomain
+  state:
+    id: '8428663207206771_103910619264856'
+    url: https://www.facebook.com/100683012920950/posts/103910619264856
+913fbdd71169fbb105899d7bb9623f92:mastodon:
+  spec:
+    title: 'Domain-driven design: Business domain and Subdomain [boonsong.dev]'
+    url: https://www.boonsong.dev/business-domain-and-subdomain
+  state:
+    id: '109659898966662278'
+    url: https://mastodon.in.th/@webring/109659898966662278
+913fbdd71169fbb105899d7bb9623f92:shorturl:
+  spec:
+    url: https://www.boonsong.dev/business-domain-and-subdomain
+  state:
+    shortLink: https://webring.page.link/3hZW
 916d2e1460fe8dfa08af2cf230aa0b6f:facebook:
   spec:
     title: บันทึก - เรียนรู้ Typescript (Any กับ Unknow ใน Typescript) [kajame.xyz]
