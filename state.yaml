@@ -264,6 +264,25 @@
     url: https://www.icez.net/blog/167526/0256-ev-frequency-asked-question
   state:
     shortLink: https://webring.page.link/mRMf
+417142d1798f834f03b78608976aae71:facebook:
+  spec:
+    title: Setting up Kafka with Kafka connect from SQL server to Cloud storage (GCS) [mesodiar.com]
+    url: https://mesodiar.com/setting-up-kafka-with-kafka-connect-from-sql-server-to-cloud-storage-gcs-6b980437a926?source=rss----698ac1e5dc8c---4
+  state:
+    id: '8428663207206771_103798405942744'
+    url: https://www.facebook.com/100683012920950/posts/103798405942744
+417142d1798f834f03b78608976aae71:mastodon:
+  spec:
+    title: Setting up Kafka with Kafka connect from SQL server to Cloud storage (GCS) [mesodiar.com]
+    url: https://mesodiar.com/setting-up-kafka-with-kafka-connect-from-sql-server-to-cloud-storage-gcs-6b980437a926?source=rss----698ac1e5dc8c---4
+  state:
+    id: '109659208677517953'
+    url: https://mastodon.in.th/@webring/109659208677517953
+417142d1798f834f03b78608976aae71:shorturl:
+  spec:
+    url: https://mesodiar.com/setting-up-kafka-with-kafka-connect-from-sql-server-to-cloud-storage-gcs-6b980437a926?source=rss----698ac1e5dc8c---4
+  state:
+    shortLink: https://webring.page.link/F4RN
 577af00a06b01e0f193daf5e4c105f52:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 2 - Card Flip [devahoy.com]
