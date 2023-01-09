@@ -649,6 +649,25 @@ d54ac0ea44f67cb41b090ad9a3b740cc:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day3-simple-hover
   state:
     shortLink: https://webring.page.link/RM54
+d58f4ece6739487292947e77a14d2418:facebook:
+  spec:
+    title: คำสั่ง run docker command 1 บรรทัด เกี่ยวกับ Databases รวบรวมไว้ให้ที่นี่ [poolsawat.com]
+    url: https://www.poolsawat.com/docker-run-1line-command-about-databases/
+  state:
+    id: '8428663207206771_103714915951093'
+    url: https://www.facebook.com/100683012920950/posts/103714915951093
+d58f4ece6739487292947e77a14d2418:mastodon:
+  spec:
+    title: คำสั่ง run docker command 1 บรรทัด เกี่ยวกับ Databases รวบรวมไว้ให้ที่นี่ [poolsawat.com]
+    url: https://www.poolsawat.com/docker-run-1line-command-about-databases/
+  state:
+    id: '109658468952216156'
+    url: https://mastodon.in.th/@webring/109658468952216156
+d58f4ece6739487292947e77a14d2418:shorturl:
+  spec:
+    url: https://www.poolsawat.com/docker-run-1line-command-about-databases/
+  state:
+    shortLink: https://webring.page.link/63Mf
 e4197f4a991b29b7c76210f790551be8:facebook:
   spec:
     title: ตอบคำถามเรื่อง Email testing [somkiat.cc]
