@@ -1,3 +1,22 @@
+00b1fdb50a3882fcde547f2a9abfd4cb:facebook:
+  spec:
+    title: '[AWS-IoT] เรียกใช้ AWS Services ผ่าน Device Certificate X.509 โดยใช้ Credential-Provider [1] [thanapon.info]'
+    url: https://thanapon.info/aws-iot-credential-provider/
+  state:
+    id: '8428663207206771_103563085966276'
+    url: https://www.facebook.com/100683012920950/posts/103563085966276
+00b1fdb50a3882fcde547f2a9abfd4cb:mastodon:
+  spec:
+    title: '[AWS-IoT] เรียกใช้ AWS Services ผ่าน Device Certificate X.509 โดยใช้ Credential-Provider [1] [thanapon.info]'
+    url: https://thanapon.info/aws-iot-credential-provider/
+  state:
+    id: '109657052344135541'
+    url: https://mastodon.in.th/@webring/109657052344135541
+00b1fdb50a3882fcde547f2a9abfd4cb:shorturl:
+  spec:
+    url: https://thanapon.info/aws-iot-credential-provider/
+  state:
+    shortLink: https://webring.page.link/gvFA
 049b791599c5a31533a5260873ea3523:facebook:
   spec:
     title: Happy New Year 2023 [blog.oatto.dev]
