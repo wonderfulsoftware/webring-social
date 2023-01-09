@@ -649,6 +649,25 @@ d54ac0ea44f67cb41b090ad9a3b740cc:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day3-simple-hover
   state:
     shortLink: https://webring.page.link/RM54
+e4197f4a991b29b7c76210f790551be8:facebook:
+  spec:
+    title: ตอบคำถามเรื่อง Email testing [somkiat.cc]
+    url: https://www.somkiat.cc/how-to-email-testing/
+  state:
+    id: '8428663207206771_103644839291434'
+    url: https://www.facebook.com/100683012920950/posts/103644839291434
+e4197f4a991b29b7c76210f790551be8:mastodon:
+  spec:
+    title: ตอบคำถามเรื่อง Email testing [somkiat.cc]
+    url: https://www.somkiat.cc/how-to-email-testing/
+  state:
+    id: '109657769085959058'
+    url: https://mastodon.in.th/@webring/109657769085959058
+e4197f4a991b29b7c76210f790551be8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/how-to-email-testing/
+  state:
+    shortLink: https://webring.page.link/bLSX
 f09c3739636c28f5df703812b2b95e57:facebook:
   spec:
     title: 2022 [yothinix.com]
