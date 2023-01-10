@@ -668,6 +668,18 @@ c398c50193817b68dc475a64923a4c0d:shorturl:
     url: https://tinarskii.com/articles/undefined
   state:
     shortLink: https://webring.page.link/PNAf
+c860c0569cde5bd92e5079e8c396ff8e:mastodon:
+  spec:
+    title: Simplicity fallacy of "Just use X (for everything)" [chrisza.me]
+    url: https://chrisza.me/not-simple/mistaken-simplicity/
+  state:
+    id: '109664871247842184'
+    url: https://mastodon.in.th/@webring/109664871247842184
+c860c0569cde5bd92e5079e8c396ff8e:shorturl:
+  spec:
+    url: https://chrisza.me/not-simple/mistaken-simplicity/
+  state:
+    shortLink: https://webring.page.link/UWDE
 ce0b224af5ff522f907d8ef11f03cea1:facebook:
   spec:
     title: MongoDB testing [kajame.xyz]
