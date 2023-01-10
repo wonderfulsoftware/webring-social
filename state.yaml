@@ -188,6 +188,25 @@
     url: https://www.somkiat.cc/bye-bye-atom/
   state:
     shortLink: https://webring.page.link/VXX6
+2da10cd920f2bd2db8f07473d25dfd57:facebook:
+  spec:
+    title: UDP hole punching in Jamulus [dt.in.th]
+    url: https://notes.dt.in.th/20230109T134032Z1877
+  state:
+    id: '8428663207206771_104244982564753'
+    url: https://www.facebook.com/100683012920950/posts/104244982564753
+2da10cd920f2bd2db8f07473d25dfd57:mastodon:
+  spec:
+    title: UDP hole punching in Jamulus [dt.in.th]
+    url: https://notes.dt.in.th/20230109T134032Z1877
+  state:
+    id: '109662718613893739'
+    url: https://mastodon.in.th/@webring/109662718613893739
+2da10cd920f2bd2db8f07473d25dfd57:shorturl:
+  spec:
+    url: https://notes.dt.in.th/20230109T134032Z1877
+  state:
+    shortLink: https://webring.page.link/rQcE
 2e6fcc4c4d3bf35a1e3a457f44fe421f:facebook:
   spec:
     title: สรุปชีวิตปี 2022 กับการเข้าโลก web3 แบบไม่ทันตั้งตัว [mikkipastel.com]
