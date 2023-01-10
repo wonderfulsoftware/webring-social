@@ -75,8 +75,16 @@ export class FeedPublisher {
     })
 
     const feedData = feedSchema.parse(feed.data)
-    const resources = selectAndSortFeed(feedData).flatMap(
-      (item): Resource[] => {
+    const resources = selectAndSortFeed(feedData)
+      .flatMap((item): typeof item[] => {
+        // Fix malformed URLs in some feeds
+        item.url = item.url.replace(
+          /^(https:\/\/microbenz\.in\.th)([^/])/,
+          '$1/$2',
+        )
+        return [item]
+      })
+      .flatMap((item): Resource[] => {
         const urlHash = hashUrl(item.url)
         const out: Resource[] = []
         if (shouldPostTo('mastodon')) {
@@ -104,8 +112,7 @@ export class FeedPublisher {
           )
         }
         return out
-      },
-    )
+      })
 
     for (const resource of resources) {
       await reconciler.reconcile(resource, dryRun)
@@ -121,7 +128,7 @@ function selectAndSortFeed<X extends { published: string }>(feed: X[]): X[] {
   const [before2023, after2023] = partition<X>(
     items,
     (item) => item.published < '2023',
-  )
+  ) as [X[], X[]]
   return [
     ...sortBy(after2023, (item) => item.published),
     ...sortBy(before2023, (item) => item.published).reverse(),
