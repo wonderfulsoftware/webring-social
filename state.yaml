@@ -668,6 +668,25 @@ c398c50193817b68dc475a64923a4c0d:shorturl:
     url: https://tinarskii.com/articles/undefined
   state:
     shortLink: https://webring.page.link/PNAf
+ce0b224af5ff522f907d8ef11f03cea1:facebook:
+  spec:
+    title: MongoDB testing [kajame.xyz]
+    url: https://kajame.xyz/blog/mongodb-testing
+  state:
+    id: '8428663207206771_104310932558158'
+    url: https://www.facebook.com/100683012920950/posts/104310932558158
+ce0b224af5ff522f907d8ef11f03cea1:mastodon:
+  spec:
+    title: MongoDB testing [kajame.xyz]
+    url: https://kajame.xyz/blog/mongodb-testing
+  state:
+    id: '109663435907145754'
+    url: https://mastodon.in.th/@webring/109663435907145754
+ce0b224af5ff522f907d8ef11f03cea1:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/mongodb-testing
+  state:
+    shortLink: https://webring.page.link/Lmqa
 cfd77637023899ca0b208faf0b85c341:facebook:
   spec:
     title: 'เรื่องราวอันน่าทึ่งเกี่ยวกับคอมพิวเตอร์: จากเครื่องคิดเลขโบราณสู่เครื่องจักรสมัยใหม่ [tinarskii.com]'
