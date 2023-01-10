@@ -763,6 +763,25 @@ e4197f4a991b29b7c76210f790551be8:shorturl:
     url: https://www.somkiat.cc/how-to-email-testing/
   state:
     shortLink: https://webring.page.link/bLSX
+ec58600cd82560a725f20b89864bd793:facebook:
+  spec:
+    title: เรียน​ CSS Animation | Day 5 - Open 24 Hours [devahoy.com]
+    url: https://devahoy.com/tutorials/learn-css-animations/day5-open-24-hours
+  state:
+    id: '8428663207206771_104390229216895'
+    url: https://www.facebook.com/100683012920950/posts/104390229216895
+ec58600cd82560a725f20b89864bd793:mastodon:
+  spec:
+    title: เรียน​ CSS Animation | Day 5 - Open 24 Hours [devahoy.com]
+    url: https://devahoy.com/tutorials/learn-css-animations/day5-open-24-hours
+  state:
+    id: '109664130139101784'
+    url: https://mastodon.in.th/@webring/109664130139101784
+ec58600cd82560a725f20b89864bd793:shorturl:
+  spec:
+    url: https://devahoy.com/tutorials/learn-css-animations/day5-open-24-hours
+  state:
+    shortLink: https://webring.page.link/1QMP
 f09c3739636c28f5df703812b2b95e57:facebook:
   spec:
     title: 2022 [yothinix.com]
