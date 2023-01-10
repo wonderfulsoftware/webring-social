@@ -74,6 +74,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/cr-starbucks-milk-pudding/
   state:
     shortLink: https://webring.page.link/sBWC
+0fb4961b1f063f1e07338a8ec0eff1c0:facebook:
+  spec:
+    title: 2022 [microbenz.in.th]
+    url: https://microbenz.in.th/2022-review/
+  state:
+    id: '8428663207206771_104662042523047'
+    url: https://www.facebook.com/100683012920950/posts/104662042523047
+0fb4961b1f063f1e07338a8ec0eff1c0:mastodon:
+  spec:
+    title: 2022 [microbenz.in.th]
+    url: https://microbenz.in.th/2022-review/
+  state:
+    id: '109666025901914576'
+    url: https://mastodon.in.th/@webring/109666025901914576
+0fb4961b1f063f1e07338a8ec0eff1c0:shorturl:
+  spec:
+    url: https://microbenz.in.th/2022-review/
+  state:
+    shortLink: https://webring.page.link/sqCH
 0ff4650849368daf44e8a8bfacfba07f:facebook:
   spec:
     title: ดู z-index ง่ายๆ ด้วย 3D View [nitpum.com]
