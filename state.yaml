@@ -725,6 +725,13 @@ c398c50193817b68dc475a64923a4c0d:shorturl:
     url: https://tinarskii.com/articles/undefined
   state:
     shortLink: https://webring.page.link/PNAf
+c860c0569cde5bd92e5079e8c396ff8e:facebook:
+  spec:
+    title: Simplicity fallacy of "Just use X (for everything)" [chrisza.me]
+    url: https://chrisza.me/not-simple/mistaken-simplicity/
+  state:
+    id: '8428663207206771_105099875812597'
+    url: https://www.facebook.com/100683012920950/posts/105099875812597
 c860c0569cde5bd92e5079e8c396ff8e:mastodon:
   spec:
     title: Simplicity fallacy of "Just use X (for everything)" [chrisza.me]
