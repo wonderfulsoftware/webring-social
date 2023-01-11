@@ -606,6 +606,13 @@ a4f45033b6dafefc4eedb1e9c8f10387:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day4-click-me
   state:
     shortLink: https://webring.page.link/KCtb
+aa9ba58effb188de9cf3cf14e931156f:facebook:
+  spec:
+    title: SDLC ขั้นตอนการทำซอฟต์แวร์ [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/sdlc
+  state:
+    id: '8428663207206771_105204869135431'
+    url: https://www.facebook.com/100683012920950/posts/105204869135431
 aa9ba58effb188de9cf3cf14e931156f:mastodon:
   spec:
     title: SDLC ขั้นตอนการทำซอฟต์แวร์ [tech.duckfollow.co]
