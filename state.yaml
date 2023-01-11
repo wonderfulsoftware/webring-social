@@ -473,6 +473,13 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-design-and-implement-a-release-strategy/
   state:
     shortLink: https://webring.page.link/AGse
+8a11096b6f1264ff832be3e82977504f:facebook:
+  spec:
+    title: TP-Link MR600 - LTE Router [blog.kpping.me]
+    url: https://blog.kpping.me/posts/tp-link-mr-600/
+  state:
+    id: '8428663207206771_105017942487457'
+    url: https://www.facebook.com/100683012920950/posts/105017942487457
 8a11096b6f1264ff832be3e82977504f:mastodon:
   spec:
     title: TP-Link MR600 - LTE Router [blog.kpping.me]
@@ -863,6 +870,18 @@ f09c3739636c28f5df703812b2b95e57:shorturl:
     url: https://yothinix.com/2022/
   state:
     shortLink: https://webring.page.link/9Y13
+f3ff98ffe6527d7fe3795a4c0c9a45d5:mastodon:
+  spec:
+    title: Load balancer 101, thou shalt not be alone [karnwong.me]
+    url: https://www.karnwong.me/posts/2022/12/load-balancers-101-thou-shalt-not-be-alone/
+  state:
+    id: '109669094274699619'
+    url: https://mastodon.in.th/@webring/109669094274699619
+f3ff98ffe6527d7fe3795a4c0c9a45d5:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2022/12/load-balancers-101-thou-shalt-not-be-alone/
+  state:
+    shortLink: https://webring.page.link/7d3G
 f52e6cc105cd38ba08ddb80ada7f1b01:facebook:
   spec:
     title: Riffy's adventure to Northern Japan and choked along the way [rayriffy.com]
