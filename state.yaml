@@ -884,6 +884,13 @@ f09c3739636c28f5df703812b2b95e57:shorturl:
     url: https://yothinix.com/2022/
   state:
     shortLink: https://webring.page.link/9Y13
+f3ff98ffe6527d7fe3795a4c0c9a45d5:facebook:
+  spec:
+    title: Load balancer 101, thou shalt not be alone [karnwong.me]
+    url: https://www.karnwong.me/posts/2022/12/load-balancers-101-thou-shalt-not-be-alone/
+  state:
+    id: '8428663207206771_105310842458167'
+    url: https://www.facebook.com/100683012920950/posts/105310842458167
 f3ff98ffe6527d7fe3795a4c0c9a45d5:mastodon:
   spec:
     title: Load balancer 101, thou shalt not be alone [karnwong.me]
