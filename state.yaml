@@ -74,6 +74,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/cr-starbucks-milk-pudding/
   state:
     shortLink: https://webring.page.link/sBWC
+0d52f5d19780fee0f49f60e0542c81f9:facebook:
+  spec:
+    title: Reduce sound and speed of the fan on Raspberry Pi case [garden.narze.live]
+    url: https://garden.narze.live/Reduce-sound-and-speed-of-the-fan-on-Raspberry-Pi-case-or-heatsink/
+  state:
+    id: '8428663207206771_104919725830612'
+    url: https://www.facebook.com/100683012920950/posts/104919725830612
+0d52f5d19780fee0f49f60e0542c81f9:mastodon:
+  spec:
+    title: Reduce sound and speed of the fan on Raspberry Pi case [garden.narze.live]
+    url: https://garden.narze.live/Reduce-sound-and-speed-of-the-fan-on-Raspberry-Pi-case-or-heatsink/
+  state:
+    id: '109668376001855883'
+    url: https://mastodon.in.th/@webring/109668376001855883
+0d52f5d19780fee0f49f60e0542c81f9:shorturl:
+  spec:
+    url: https://garden.narze.live/Reduce-sound-and-speed-of-the-fan-on-Raspberry-Pi-case-or-heatsink/
+  state:
+    shortLink: https://webring.page.link/QsCG
 0fb4961b1f063f1e07338a8ec0eff1c0:facebook:
   spec:
     title: 2022 [microbenz.in.th]
