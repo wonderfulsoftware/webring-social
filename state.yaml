@@ -454,6 +454,25 @@
     url: https://chameleontk.github.io/year-in-review-2022/
   state:
     shortLink: https://webring.page.link/ioKV
+75e9044e76b5417e59930ae95bde9f45:facebook:
+  spec:
+    title: '[PowerShell] Snippet Script Copy Files that are listed in a text file [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/01/powershell-snippet-script-copy-files-that-are-listed-in-a-text-file/
+  state:
+    id: '8428663207206771_105663642422887'
+    url: https://www.facebook.com/100683012920950/posts/105663642422887
+75e9044e76b5417e59930ae95bde9f45:mastodon:
+  spec:
+    title: '[PowerShell] Snippet Script Copy Files that are listed in a text file [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/01/powershell-snippet-script-copy-files-that-are-listed-in-a-text-file/
+  state:
+    id: '109674038676620180'
+    url: https://mastodon.in.th/@webring/109674038676620180
+75e9044e76b5417e59930ae95bde9f45:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/01/powershell-snippet-script-copy-files-that-are-listed-in-a-text-file/
+  state:
+    shortLink: https://webring.page.link/eC78
 7aac97736fe3b735eb106080806fd92b:facebook:
   spec:
     title: '[AZ-400] Design and implement a release strategy [debuggingsoft.com]'
