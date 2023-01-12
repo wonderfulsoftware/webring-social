@@ -226,6 +226,25 @@
     url: https://www.somkiat.cc/bye-bye-atom/
   state:
     shortLink: https://webring.page.link/VXX6
+2aa3e01408c05a47e59ef43642292402:facebook:
+  spec:
+    title: เรียน​ CSS Animation | Day 6 - Card Game [devahoy.com]
+    url: https://devahoy.com/tutorials/learn-css-animations/day6-card-game
+  state:
+    id: '8428663207206771_105747042414547'
+    url: https://www.facebook.com/100683012920950/posts/105747042414547
+2aa3e01408c05a47e59ef43642292402:mastodon:
+  spec:
+    title: เรียน​ CSS Animation | Day 6 - Card Game [devahoy.com]
+    url: https://devahoy.com/tutorials/learn-css-animations/day6-card-game
+  state:
+    id: '109674756745081166'
+    url: https://mastodon.in.th/@webring/109674756745081166
+2aa3e01408c05a47e59ef43642292402:shorturl:
+  spec:
+    url: https://devahoy.com/tutorials/learn-css-animations/day6-card-game
+  state:
+    shortLink: https://webring.page.link/o53j
 2da10cd920f2bd2db8f07473d25dfd57:facebook:
   spec:
     title: UDP hole punching in Jamulus [dt.in.th]
