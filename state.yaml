@@ -644,6 +644,25 @@
     url: https://notes.dt.in.th/20230103T095819Z9158
   state:
     shortLink: https://webring.page.link/ADpo
+a1fc654eae8ca5c14e18da045946930c:facebook:
+  spec:
+    title: Time series data streams ใน Elasticsearch 8.6.0 [somkiat.cc]
+    url: https://www.somkiat.cc/time-series-in-elasticsearch-8-6/
+  state:
+    id: '8428663207206771_106493909006527'
+    url: https://www.facebook.com/100683012920950/posts/106493909006527
+a1fc654eae8ca5c14e18da045946930c:mastodon:
+  spec:
+    title: Time series data streams ใน Elasticsearch 8.6.0 [somkiat.cc]
+    url: https://www.somkiat.cc/time-series-in-elasticsearch-8-6/
+  state:
+    id: '109680418757371108'
+    url: https://mastodon.in.th/@webring/109680418757371108
+a1fc654eae8ca5c14e18da045946930c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/time-series-in-elasticsearch-8-6/
+  state:
+    shortLink: https://webring.page.link/WXu2
 a4f45033b6dafefc4eedb1e9c8f10387:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 4 - Click Me! [devahoy.com]
