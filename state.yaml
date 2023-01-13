@@ -131,6 +131,25 @@
     url: https://nitpum.com/post/edge-z-index-tool/
   state:
     shortLink: https://webring.page.link/Hv1E
+1539b9ee6a721f868c546c1bf79f0eb0:facebook:
+  spec:
+    title: Getting full Github URL of the latest commit [garden.narze.live]
+    url: https://garden.narze.live/Getting-full-Github-URL-of-the-latest-commit/
+  state:
+    id: '8428663207206771_106419092347342'
+    url: https://www.facebook.com/100683012920950/posts/106419092347342
+1539b9ee6a721f868c546c1bf79f0eb0:mastodon:
+  spec:
+    title: Getting full Github URL of the latest commit [garden.narze.live]
+    url: https://garden.narze.live/Getting-full-Github-URL-of-the-latest-commit/
+  state:
+    id: '109679708341608823'
+    url: https://mastodon.in.th/@webring/109679708341608823
+1539b9ee6a721f868c546c1bf79f0eb0:shorturl:
+  spec:
+    url: https://garden.narze.live/Getting-full-Github-URL-of-the-latest-commit/
+  state:
+    shortLink: https://webring.page.link/zSGL
 199609ef0b42ebf9b39cf0f4c3a01a06:facebook:
   spec:
     title: มาทำความรู้จักกับ Ephemeral Environment [somkiat.cc]
