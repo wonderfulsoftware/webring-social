@@ -808,6 +808,25 @@ b7ed4ea6402e4dd022e2f8a43009eddb:shorturl:
     url: https://microbenz.in.th2022-review/
   state:
     shortLink: https://webring.page.link/76b1
+baf704b0b87e964fb3c3e8c00cd27876:facebook:
+  spec:
+    title: '[AZ-400] Implement a secure continuous deployment using Azure Pipelines [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/01/az-400-implement-a-secure-continuous-deployment-using-azure-pipelines/
+  state:
+    id: '8428663207206771_107304285592156'
+    url: https://www.facebook.com/100683012920950/posts/107304285592156
+baf704b0b87e964fb3c3e8c00cd27876:mastodon:
+  spec:
+    title: '[AZ-400] Implement a secure continuous deployment using Azure Pipelines [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/01/az-400-implement-a-secure-continuous-deployment-using-azure-pipelines/
+  state:
+    id: '109686772993862929'
+    url: https://mastodon.in.th/@webring/109686772993862929
+baf704b0b87e964fb3c3e8c00cd27876:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/01/az-400-implement-a-secure-continuous-deployment-using-azure-pipelines/
+  state:
+    shortLink: https://webring.page.link/CCfC
 c25a1751edc8f9642937cb00ebca5982:facebook:
   spec:
     title: Building a Second Brain [garden.narze.live]
