@@ -511,6 +511,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/powershell-snippet-script-copy-files-that-are-listed-in-a-text-file/
   state:
     shortLink: https://webring.page.link/eC78
+76b65391d44572174157706578afa1cf:facebook:
+  spec:
+    title: ทำงานไม่มีเวลา แล้วจะทำ content ยังไงให้ปัง โดยคุณอิง ดาริน [mikkipastel.com]
+    url: https://www.mikkipastel.com/creating-kick-ass-content-with-productive-thinking-method/
+  state:
+    id: '8428663207206771_107216222267629'
+    url: https://www.facebook.com/100683012920950/posts/107216222267629
+76b65391d44572174157706578afa1cf:mastodon:
+  spec:
+    title: ทำงานไม่มีเวลา แล้วจะทำ content ยังไงให้ปัง โดยคุณอิง ดาริน [mikkipastel.com]
+    url: https://www.mikkipastel.com/creating-kick-ass-content-with-productive-thinking-method/
+  state:
+    id: '109686075283579471'
+    url: https://mastodon.in.th/@webring/109686075283579471
+76b65391d44572174157706578afa1cf:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/creating-kick-ass-content-with-productive-thinking-method/
+  state:
+    shortLink: https://webring.page.link/JKzj
 7aac97736fe3b735eb106080806fd92b:facebook:
   spec:
     title: '[AZ-400] Design and implement a release strategy [debuggingsoft.com]'
