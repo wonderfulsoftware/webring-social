@@ -960,6 +960,25 @@ d58f4ece6739487292947e77a14d2418:shorturl:
     url: https://www.poolsawat.com/docker-run-1line-command-about-databases/
   state:
     shortLink: https://webring.page.link/63Mf
+e29c6f2358bde3729584684d4e296a57:facebook:
+  spec:
+    title: Art Trade - Papang_uvu [lucian.solutions]
+    url: https://lucian.solutions/blog/papang-uvu-art-trade
+  state:
+    id: '8428663207206771_107413032247948'
+    url: https://www.facebook.com/100683012920950/posts/107413032247948
+e29c6f2358bde3729584684d4e296a57:mastodon:
+  spec:
+    title: Art Trade - Papang_uvu [lucian.solutions]
+    url: https://lucian.solutions/blog/papang-uvu-art-trade
+  state:
+    id: '109687507730531163'
+    url: https://mastodon.in.th/@webring/109687507730531163
+e29c6f2358bde3729584684d4e296a57:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/papang-uvu-art-trade
+  state:
+    shortLink: https://webring.page.link/bJXc
 e4197f4a991b29b7c76210f790551be8:facebook:
   spec:
     title: ตอบคำถามเรื่อง Email testing [somkiat.cc]
