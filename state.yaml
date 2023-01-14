@@ -549,6 +549,25 @@
     url: https://blog.kpping.me/posts/tp-link-mr-600/
   state:
     shortLink: https://webring.page.link/8etY
+8bf1b6173eb347412656420bce46fc52:facebook:
+  spec:
+    title: วิธีการแปลงไฟล์ภาพ JPEG, PNG, GIF เป็น WEBP (brew install) [poolsawat.com]
+    url: https://www.poolsawat.com/converting-images-to-webp/
+  state:
+    id: '8428663207206771_107070725615512'
+    url: https://www.facebook.com/100683012920950/posts/107070725615512
+8bf1b6173eb347412656420bce46fc52:mastodon:
+  spec:
+    title: วิธีการแปลงไฟล์ภาพ JPEG, PNG, GIF เป็น WEBP (brew install) [poolsawat.com]
+    url: https://www.poolsawat.com/converting-images-to-webp/
+  state:
+    id: '109685363613156865'
+    url: https://mastodon.in.th/@webring/109685363613156865
+8bf1b6173eb347412656420bce46fc52:shorturl:
+  spec:
+    url: https://www.poolsawat.com/converting-images-to-webp/
+  state:
+    shortLink: https://webring.page.link/YBDR
 913fbdd71169fbb105899d7bb9623f92:facebook:
   spec:
     title: 'Domain-driven design: Business domain and Subdomain [boonsong.dev]'
