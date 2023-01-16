@@ -998,6 +998,25 @@ e4197f4a991b29b7c76210f790551be8:shorturl:
     url: https://www.somkiat.cc/how-to-email-testing/
   state:
     shortLink: https://webring.page.link/bLSX
+e45e8be966d95d303e1a0c525d2c09af:facebook:
+  spec:
+    title: SQL Cheatsheet [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/sql
+  state:
+    id: '8428663207206771_108697065452878'
+    url: https://www.facebook.com/100683012920950/posts/108697065452878
+e45e8be966d95d303e1a0c525d2c09af:mastodon:
+  spec:
+    title: SQL Cheatsheet [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/sql
+  state:
+    id: '109697407085320599'
+    url: https://mastodon.in.th/@webring/109697407085320599
+e45e8be966d95d303e1a0c525d2c09af:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/sql
+  state:
+    shortLink: https://webring.page.link/M4Uz
 ec58600cd82560a725f20b89864bd793:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 5 - Open 24 Hours [devahoy.com]
