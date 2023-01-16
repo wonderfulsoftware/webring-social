@@ -1017,6 +1017,25 @@ ec58600cd82560a725f20b89864bd793:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day5-open-24-hours
   state:
     shortLink: https://webring.page.link/1QMP
+ec93c6f51edcaae54b0804a94d816822:facebook:
+  spec:
+    title: Go 1.20 การ convert จาก slice มาเป็น array [somkiat.cc]
+    url: https://www.somkiat.cc/go-1-20-convert-from-slice-to-array/
+  state:
+    id: '8428663207206771_108621878793730'
+    url: https://www.facebook.com/100683012920950/posts/108621878793730
+ec93c6f51edcaae54b0804a94d816822:mastodon:
+  spec:
+    title: Go 1.20 การ convert จาก slice มาเป็น array [somkiat.cc]
+    url: https://www.somkiat.cc/go-1-20-convert-from-slice-to-array/
+  state:
+    id: '109696688740172857'
+    url: https://mastodon.in.th/@webring/109696688740172857
+ec93c6f51edcaae54b0804a94d816822:shorturl:
+  spec:
+    url: https://www.somkiat.cc/go-1-20-convert-from-slice-to-array/
+  state:
+    shortLink: https://webring.page.link/HYCY
 f09c3739636c28f5df703812b2b95e57:facebook:
   spec:
     title: 2022 [yothinix.com]
