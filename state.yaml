@@ -359,6 +359,25 @@
     url: https://www.icez.net/blog/167526/0256-ev-frequency-asked-question
   state:
     shortLink: https://webring.page.link/mRMf
+3df65ccab679ea5bfd3595ec60eb8c69:facebook:
+  spec:
+    title: ตัวอย่างการทำ ChatGPT มาช่วยจัดการ issue ที่เกิดขึ้นในระบบ [somkiat.cc]
+    url: https://www.somkiat.cc/chatgpt-with-issue-bot/
+  state:
+    id: '8428663207206771_109334425389142'
+    url: https://www.facebook.com/100683012920950/posts/109334425389142
+3df65ccab679ea5bfd3595ec60eb8c69:mastodon:
+  spec:
+    title: ตัวอย่างการทำ ChatGPT มาช่วยจัดการ issue ที่เกิดขึ้นในระบบ [somkiat.cc]
+    url: https://www.somkiat.cc/chatgpt-with-issue-bot/
+  state:
+    id: '109702350301392076'
+    url: https://mastodon.in.th/@webring/109702350301392076
+3df65ccab679ea5bfd3595ec60eb8c69:shorturl:
+  spec:
+    url: https://www.somkiat.cc/chatgpt-with-issue-bot/
+  state:
+    shortLink: https://webring.page.link/T8Ro
 417142d1798f834f03b78608976aae71:facebook:
   spec:
     title: Setting up Kafka with Kafka connect from SQL server to Cloud storage (GCS) [mesodiar.com]
