@@ -264,6 +264,25 @@
     url: https://devahoy.com/tutorials/learn-css-animations/day6-card-game
   state:
     shortLink: https://webring.page.link/o53j
+2bc82a834f9c8250eb2d70d509a5c3f9:facebook:
+  spec:
+    title: How I memorize the morse code (without deliberate practice) [dt.in.th]
+    url: https://notes.dt.in.th/Morse
+  state:
+    id: '8428663207206771_109412982047953'
+    url: https://www.facebook.com/100683012920950/posts/109412982047953
+2bc82a834f9c8250eb2d70d509a5c3f9:mastodon:
+  spec:
+    title: How I memorize the morse code (without deliberate practice) [dt.in.th]
+    url: https://notes.dt.in.th/Morse
+  state:
+    id: '109703065904655591'
+    url: https://mastodon.in.th/@webring/109703065904655591
+2bc82a834f9c8250eb2d70d509a5c3f9:shorturl:
+  spec:
+    url: https://notes.dt.in.th/Morse
+  state:
+    shortLink: https://webring.page.link/rZdN
 2da10cd920f2bd2db8f07473d25dfd57:facebook:
   spec:
     title: UDP hole punching in Jamulus [dt.in.th]
