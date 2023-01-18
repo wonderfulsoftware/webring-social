@@ -36,6 +36,25 @@
     url: https://blog.oatto.dev/2023/01/01/happy-new-year-2023.html
   state:
     shortLink: https://webring.page.link/DfSf
+07b570f18a69ca2e2f65c8de4ce9c07f:facebook:
+  spec:
+    title: dotnet start webapi error failed to load the dll hostfxr.dll or api-ms-win-crt-runtime-l1-1-0.dll is missing from your computer [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/01/dotnet-start-webapi-error-failed-to-load-the-dll-hostfxr-dll-or-api-ms-win-crt-runtime-l1-1-0-dll-is-missing-from-your-computer/
+  state:
+    id: '8428663207206771_110135625309022'
+    url: https://www.facebook.com/100683012920950/posts/110135625309022
+07b570f18a69ca2e2f65c8de4ce9c07f:mastodon:
+  spec:
+    title: dotnet start webapi error failed to load the dll hostfxr.dll or api-ms-win-crt-runtime-l1-1-0.dll is missing from your computer [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/01/dotnet-start-webapi-error-failed-to-load-the-dll-hostfxr-dll-or-api-ms-win-crt-runtime-l1-1-0-dll-is-missing-from-your-computer/
+  state:
+    id: '109708731429256380'
+    url: https://mastodon.in.th/@webring/109708731429256380
+07b570f18a69ca2e2f65c8de4ce9c07f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/01/dotnet-start-webapi-error-failed-to-load-the-dll-hostfxr-dll-or-api-ms-win-crt-runtime-l1-1-0-dll-is-missing-from-your-computer/
+  state:
+    shortLink: https://webring.page.link/1iQz
 080078f90a5eb1c0b69655cd324fd241:facebook:
   spec:
     title: สวัสดีปีใหม่ 2023 [lucian.solutions]
