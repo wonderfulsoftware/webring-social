@@ -625,6 +625,25 @@
     url: https://www.poolsawat.com/converting-images-to-webp/
   state:
     shortLink: https://webring.page.link/YBDR
+8fdbccf1e100abece85cb78ca94e3814:facebook:
+  spec:
+    title: Store git directory externally [garden.narze.live]
+    url: https://garden.narze.live/Store-git-directory-externally/
+  state:
+    id: '8428663207206771_110042075318377'
+    url: https://www.facebook.com/100683012920950/posts/110042075318377
+8fdbccf1e100abece85cb78ca94e3814:mastodon:
+  spec:
+    title: Store git directory externally [garden.narze.live]
+    url: https://garden.narze.live/Store-git-directory-externally/
+  state:
+    id: '109708018243974446'
+    url: https://mastodon.in.th/@webring/109708018243974446
+8fdbccf1e100abece85cb78ca94e3814:shorturl:
+  spec:
+    url: https://garden.narze.live/Store-git-directory-externally/
+  state:
+    shortLink: https://webring.page.link/L2PD
 913fbdd71169fbb105899d7bb9623f92:facebook:
   spec:
     title: 'Domain-driven design: Business domain and Subdomain [boonsong.dev]'
