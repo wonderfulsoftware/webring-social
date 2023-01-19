@@ -739,6 +739,25 @@
     url: https://www.llun.me/posts/2022-12-31-2022
   state:
     shortLink: https://webring.page.link/GfBB
+96f7739f7435b2722c08ff63bcecad53:facebook:
+  spec:
+    title: ว่าด้วยเรื่อง cURL ใช้อย่างไรให้ Pro ใช้อย่างไรถึงจะ Cool [poolsawat.com]
+    url: https://www.poolsawat.com/recommended-curl-commands/
+  state:
+    id: '8428663207206771_110970645225520'
+    url: https://www.facebook.com/100683012920950/posts/110970645225520
+96f7739f7435b2722c08ff63bcecad53:mastodon:
+  spec:
+    title: ว่าด้วยเรื่อง cURL ใช้อย่างไรให้ Pro ใช้อย่างไรถึงจะ Cool [poolsawat.com]
+    url: https://www.poolsawat.com/recommended-curl-commands/
+  state:
+    id: '109714391441153638'
+    url: https://mastodon.in.th/@webring/109714391441153638
+96f7739f7435b2722c08ff63bcecad53:shorturl:
+  spec:
+    url: https://www.poolsawat.com/recommended-curl-commands/
+  state:
+    shortLink: https://webring.page.link/j1Kv
 9939010afca0c28547967a6705ec783e:facebook:
   spec:
     title: My wrong assumptions with ActivityPub [llun.me]
