@@ -245,6 +245,25 @@
     url: https://www.boonsong.dev/pattern-event-driven-architecture-1
   state:
     shortLink: https://webring.page.link/dhgB
+204940a951c79034131359b7280d27d8:facebook:
+  spec:
+    title: '[Container] แก้ปัญหา docker image โต [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/01/container-fixed-docker-image-grows-in-size-as-files-do-not-change/
+  state:
+    id: '8428663207206771_111768858479032'
+    url: https://www.facebook.com/100683012920950/posts/111768858479032
+204940a951c79034131359b7280d27d8:mastodon:
+  spec:
+    title: '[Container] แก้ปัญหา docker image โต [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/01/container-fixed-docker-image-grows-in-size-as-files-do-not-change/
+  state:
+    id: '109720055712137886'
+    url: https://mastodon.in.th/@webring/109720055712137886
+204940a951c79034131359b7280d27d8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/01/container-fixed-docker-image-grows-in-size-as-files-do-not-change/
+  state:
+    shortLink: https://webring.page.link/5Hgk
 207076425aabd51b4dba5170874fc6cc:facebook:
   spec:
     title: เซต Cantor แบบสามส่วน [neizod.dev]
