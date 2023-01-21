@@ -1226,6 +1226,25 @@ ec93c6f51edcaae54b0804a94d816822:shorturl:
     url: https://www.somkiat.cc/go-1-20-convert-from-slice-to-array/
   state:
     shortLink: https://webring.page.link/HYCY
+ed74f69731cdc86dfaf7181e9889b17c:facebook:
+  spec:
+    title: Gitflow Workflow [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/gitflow-workflow
+  state:
+    id: '8428663207206771_112560148399903'
+    url: https://www.facebook.com/100683012920950/posts/112560148399903
+ed74f69731cdc86dfaf7181e9889b17c:mastodon:
+  spec:
+    title: Gitflow Workflow [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/gitflow-workflow
+  state:
+    id: '109725712716861622'
+    url: https://mastodon.in.th/@webring/109725712716861622
+ed74f69731cdc86dfaf7181e9889b17c:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/gitflow-workflow
+  state:
+    shortLink: https://webring.page.link/ywy8
 f09c3739636c28f5df703812b2b95e57:facebook:
   spec:
     title: 2022 [yothinix.com]
