@@ -815,6 +815,25 @@
     url: https://www.llun.me/posts/dev/2023-01-07-my-wrong-assumptions-with-activity-pub
   state:
     shortLink: https://webring.page.link/fudd
+996d1e0e34687bc03e599589a39068ec:facebook:
+  spec:
+    title: Why I use Arc Browser [garden.narze.live]
+    url: https://garden.narze.live/Why-I-use-Arc-Browser/
+  state:
+    id: '8428663207206771_112470898408828'
+    url: https://www.facebook.com/100683012920950/posts/112470898408828
+996d1e0e34687bc03e599589a39068ec:mastodon:
+  spec:
+    title: Why I use Arc Browser [garden.narze.live]
+    url: https://garden.narze.live/Why-I-use-Arc-Browser/
+  state:
+    id: '109724999977962364'
+    url: https://mastodon.in.th/@webring/109724999977962364
+996d1e0e34687bc03e599589a39068ec:shorturl:
+  spec:
+    url: https://garden.narze.live/Why-I-use-Arc-Browser/
+  state:
+    shortLink: https://webring.page.link/XD65
 9c363ddb48157779d09842df47fb6674:facebook:
   spec:
     title: อัพเดตโปรเจควงแหวนเว็บ, เปิดเพจ Facebook, Mastodon [dt.in.th]
