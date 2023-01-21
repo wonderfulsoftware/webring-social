@@ -93,6 +93,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/cr-starbucks-milk-pudding/
   state:
     shortLink: https://webring.page.link/sBWC
+0d4e0cd9d6cbddc90b2fb1086ed5220a:facebook:
+  spec:
+    title: น่าสนใจกับ Top 10 CI/CD Security Risks จาก OWASP [somkiat.cc]
+    url: https://www.somkiat.cc/top-10-ci-cd-security-risks-from-owasp/
+  state:
+    id: '8428663207206771_112662845056300'
+    url: https://www.facebook.com/100683012920950/posts/112662845056300
+0d4e0cd9d6cbddc90b2fb1086ed5220a:mastodon:
+  spec:
+    title: น่าสนใจกับ Top 10 CI/CD Security Risks จาก OWASP [somkiat.cc]
+    url: https://www.somkiat.cc/top-10-ci-cd-security-risks-from-owasp/
+  state:
+    id: '109726409449101582'
+    url: https://mastodon.in.th/@webring/109726409449101582
+0d4e0cd9d6cbddc90b2fb1086ed5220a:shorturl:
+  spec:
+    url: https://www.somkiat.cc/top-10-ci-cd-security-risks-from-owasp/
+  state:
+    shortLink: https://webring.page.link/q5pc
 0d52f5d19780fee0f49f60e0542c81f9:facebook:
   spec:
     title: Reduce sound and speed of the fan on Raspberry Pi case [garden.narze.live]
