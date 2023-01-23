@@ -682,6 +682,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-design-and-implement-a-release-strategy/
   state:
     shortLink: https://webring.page.link/AGse
+81d84a9f29eb25ecd29b382c58ec5340:facebook:
+  spec:
+    title: Event-carried state transfer [boonsong.dev]
+    url: https://www.boonsong.dev/event-carried-state-transfer
+  state:
+    id: '8428663207206771_114205248235393'
+    url: https://www.facebook.com/100683012920950/posts/114205248235393
+81d84a9f29eb25ecd29b382c58ec5340:mastodon:
+  spec:
+    title: Event-carried state transfer [boonsong.dev]
+    url: https://www.boonsong.dev/event-carried-state-transfer
+  state:
+    id: '109737038689427083'
+    url: https://mastodon.in.th/@webring/109737038689427083
+81d84a9f29eb25ecd29b382c58ec5340:shorturl:
+  spec:
+    url: https://www.boonsong.dev/event-carried-state-transfer
+  state:
+    shortLink: https://webring.page.link/A5nF
 8a11096b6f1264ff832be3e82977504f:facebook:
   spec:
     title: TP-Link MR600 - LTE Router [blog.kpping.me]
