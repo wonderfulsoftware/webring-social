@@ -1207,6 +1207,25 @@ e45e8be966d95d303e1a0c525d2c09af:shorturl:
     url: https://tech.duckfollow.co/view/sql
   state:
     shortLink: https://webring.page.link/M4Uz
+e600a6d6806cce4cbce4774cdd30283c:facebook:
+  spec:
+    title: Recap 2022 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2023/01/22/recap-2022.html
+  state:
+    id: '8428663207206771_114126518243266'
+    url: https://www.facebook.com/100683012920950/posts/114126518243266
+e600a6d6806cce4cbce4774cdd30283c:mastodon:
+  spec:
+    title: Recap 2022 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2023/01/22/recap-2022.html
+  state:
+    id: '109736324730169908'
+    url: https://mastodon.in.th/@webring/109736324730169908
+e600a6d6806cce4cbce4774cdd30283c:shorturl:
+  spec:
+    url: https://blog.oatto.dev/2023/01/22/recap-2022.html
+  state:
+    shortLink: https://webring.page.link/w32e
 ec58600cd82560a725f20b89864bd793:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 5 - Open 24 Hours [devahoy.com]
