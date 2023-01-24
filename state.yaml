@@ -1131,6 +1131,25 @@ cfd77637023899ca0b208faf0b85c341:shorturl:
     url: https://tinarskii.com/articles/computer
   state:
     shortLink: https://webring.page.link/uxzB
+d1476b3d9dfba601ae992cbbfab93036:facebook:
+  spec:
+    title: '[AZ-400] Manage infrastructure as code using Azure and DSC [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/01/az-400-manage-infrastructure-as-code-using-azure-and-dsc/
+  state:
+    id: '8428663207206771_115006958155222'
+    url: https://www.facebook.com/100683012920950/posts/115006958155222
+d1476b3d9dfba601ae992cbbfab93036:mastodon:
+  spec:
+    title: '[AZ-400] Manage infrastructure as code using Azure and DSC [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/01/az-400-manage-infrastructure-as-code-using-azure-and-dsc/
+  state:
+    id: '109741986758918276'
+    url: https://mastodon.in.th/@webring/109741986758918276
+d1476b3d9dfba601ae992cbbfab93036:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/01/az-400-manage-infrastructure-as-code-using-azure-and-dsc/
+  state:
+    shortLink: https://webring.page.link/R5uc
 d54ac0ea44f67cb41b090ad9a3b740cc:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 3 - Simple Hover [devahoy.com]
