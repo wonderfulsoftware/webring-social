@@ -929,6 +929,25 @@ a4f45033b6dafefc4eedb1e9c8f10387:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day4-click-me
   state:
     shortLink: https://webring.page.link/KCtb
+a800be5a22a696e7f90aa33fe2e5575b:facebook:
+  spec:
+    title: Configuring tRPC error logging in T3 apps [dt.in.th]
+    url: https://notes.dt.in.th/NextTrpcError
+  state:
+    id: '8428663207206771_115136294808955'
+    url: https://www.facebook.com/100683012920950/posts/115136294808955
+a800be5a22a696e7f90aa33fe2e5575b:mastodon:
+  spec:
+    title: Configuring tRPC error logging in T3 apps [dt.in.th]
+    url: https://notes.dt.in.th/NextTrpcError
+  state:
+    id: '109742702289531442'
+    url: https://mastodon.in.th/@webring/109742702289531442
+a800be5a22a696e7f90aa33fe2e5575b:shorturl:
+  spec:
+    url: https://notes.dt.in.th/NextTrpcError
+  state:
+    shortLink: https://webring.page.link/vcWf
 aa9ba58effb188de9cf3cf14e931156f:facebook:
   spec:
     title: SDLC ขั้นตอนการทำซอฟต์แวร์ [tech.duckfollow.co]
