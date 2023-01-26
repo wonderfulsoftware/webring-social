@@ -1207,6 +1207,25 @@ d58f4ece6739487292947e77a14d2418:shorturl:
     url: https://www.poolsawat.com/docker-run-1line-command-about-databases/
   state:
     shortLink: https://webring.page.link/63Mf
+dabdbb866900a20d47538ffe8e13d7a5:facebook:
+  spec:
+    title: บันทึก SonarQube กับ .NET6 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/01/sonarqube-net6-net-core-note/
+  state:
+    id: '8428663207206771_116939711295280'
+    url: https://www.facebook.com/100683012920950/posts/116939711295280
+dabdbb866900a20d47538ffe8e13d7a5:mastodon:
+  spec:
+    title: บันทึก SonarQube กับ .NET6 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/01/sonarqube-net6-net-core-note/
+  state:
+    id: '109753312305829703'
+    url: https://mastodon.in.th/@webring/109753312305829703
+dabdbb866900a20d47538ffe8e13d7a5:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/01/sonarqube-net6-net-core-note/
+  state:
+    shortLink: https://webring.page.link/sxR8
 e29c6f2358bde3729584684d4e296a57:facebook:
   spec:
     title: Art Trade - Papang_uvu [lucian.solutions]
