@@ -644,6 +644,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/powershell-snippet-script-copy-files-that-are-listed-in-a-text-file/
   state:
     shortLink: https://webring.page.link/eC78
+7622af3c86998193ce00aa0ea4b2394c:facebook:
+  spec:
+    title: ทำ links page ของตัวเองแบบง่ายๆ ด้วย Glitch in Bio [mikkipastel.com]
+    url: https://www.mikkipastel.com/my-bio-website-by-glitch-in-bio/
+  state:
+    id: '100746876247412_118613324461252'
+    url: https://www.facebook.com/100683012920950/posts/118613324461252
+7622af3c86998193ce00aa0ea4b2394c:mastodon:
+  spec:
+    title: ทำ links page ของตัวเองแบบง่ายๆ ด้วย Glitch in Bio [mikkipastel.com]
+    url: https://www.mikkipastel.com/my-bio-website-by-glitch-in-bio/
+  state:
+    id: '109764635446132794'
+    url: https://mastodon.in.th/@webring/109764635446132794
+7622af3c86998193ce00aa0ea4b2394c:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/my-bio-website-by-glitch-in-bio/
+  state:
+    shortLink: https://webring.page.link/M6zS
 76b65391d44572174157706578afa1cf:facebook:
   spec:
     title: ทำงานไม่มีเวลา แล้วจะทำ content ยังไงให้ปัง โดยคุณอิง ดาริน [mikkipastel.com]
