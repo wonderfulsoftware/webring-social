@@ -378,6 +378,25 @@
     url: https://notes.dt.in.th/20230109T134032Z1877
   state:
     shortLink: https://webring.page.link/rQcE
+2e36d527a9401e8f93378cd517afca1d:facebook:
+  spec:
+    title: Firestore [llun.me]
+    url: https://www.llun.me/posts/dev/2023-01-29-firestore
+  state:
+    id: '100746876247412_119792764343308'
+    url: https://www.facebook.com/100683012920950/posts/119792764343308
+2e36d527a9401e8f93378cd517afca1d:mastodon:
+  spec:
+    title: Firestore [llun.me]
+    url: https://www.llun.me/posts/dev/2023-01-29-firestore
+  state:
+    id: '109777376155334528'
+    url: https://mastodon.in.th/@webring/109777376155334528
+2e36d527a9401e8f93378cd517afca1d:shorturl:
+  spec:
+    url: https://www.llun.me/posts/dev/2023-01-29-firestore
+  state:
+    shortLink: https://webring.page.link/PsqU
 2e6fcc4c4d3bf35a1e3a457f44fe421f:facebook:
   spec:
     title: สรุปชีวิตปี 2022 กับการเข้าโลก web3 แบบไม่ทันตั้งตัว [mikkipastel.com]
