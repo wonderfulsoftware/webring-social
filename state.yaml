@@ -1378,6 +1378,25 @@ ec93c6f51edcaae54b0804a94d816822:shorturl:
     url: https://www.somkiat.cc/go-1-20-convert-from-slice-to-array/
   state:
     shortLink: https://webring.page.link/HYCY
+ed3318e18af6b576baa479fe876ebec1:facebook:
+  spec:
+    title: 1 เว็บไซต์ต้องทำอะไรบ้าง? [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/create-website
+  state:
+    id: '100746876247412_119741837681734'
+    url: https://www.facebook.com/100683012920950/posts/119741837681734
+ed3318e18af6b576baa479fe876ebec1:mastodon:
+  spec:
+    title: 1 เว็บไซต์ต้องทำอะไรบ้าง? [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/create-website
+  state:
+    id: '109776678427663569'
+    url: https://mastodon.in.th/@webring/109776678427663569
+ed3318e18af6b576baa479fe876ebec1:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/create-website
+  state:
+    shortLink: https://webring.page.link/41vP
 ed74f69731cdc86dfaf7181e9889b17c:facebook:
   spec:
     title: Gitflow Workflow [tech.duckfollow.co]
