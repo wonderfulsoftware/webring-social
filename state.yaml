@@ -587,6 +587,25 @@
     url: https://www.somkiat.cc/buzzword-2022/
   state:
     shortLink: https://webring.page.link/jpxa
+63b8721e5fe83f027406b0eb70641be9:facebook:
+  spec:
+    title: '`Array.from({ length: 5 }, (_, x) => x)` [dt.in.th]'
+    url: https://notes.dt.in.th/20230128T173333Z1984
+  state:
+    id: '100746876247412_119685361020715'
+    url: https://www.facebook.com/100683012920950/posts/119685361020715
+63b8721e5fe83f027406b0eb70641be9:mastodon:
+  spec:
+    title: '`Array.from({ length: 5 }, (_, x) => x)` [dt.in.th]'
+    url: https://notes.dt.in.th/20230128T173333Z1984
+  state:
+    id: '109775961573725818'
+    url: https://mastodon.in.th/@webring/109775961573725818
+63b8721e5fe83f027406b0eb70641be9:shorturl:
+  spec:
+    url: https://notes.dt.in.th/20230128T173333Z1984
+  state:
+    shortLink: https://webring.page.link/9zbv
 63e98d110197d011c15980cc4ac6b52f:facebook:
   spec:
     title: สร้าง GO gRPC project ทำความเข้าใจ gRPC มันดียังไง (โค๊ด gRPC ตัวอย่าง) [poolsawat.com]
