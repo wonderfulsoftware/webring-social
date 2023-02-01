@@ -587,6 +587,25 @@
     url: https://www.somkiat.cc/vscode-codegpt/
   state:
     shortLink: https://webring.page.link/VTgt
+62dae869904ac5dab6047c9f79f0200b:facebook:
+  spec:
+    title: Change League of Legends macOS language from Thai to English [garden.narze.live]
+    url: https://garden.narze.live/Change-League-of-Legends-macOS-language-from-Thai-to-English/
+  state:
+    id: '100746876247412_120609034261681'
+    url: https://www.facebook.com/100683012920950/posts/120609034261681
+62dae869904ac5dab6047c9f79f0200b:mastodon:
+  spec:
+    title: Change League of Legends macOS language from Thai to English [garden.narze.live]
+    url: https://garden.narze.live/Change-League-of-Legends-macOS-language-from-Thai-to-English/
+  state:
+    id: '109787321534616325'
+    url: https://mastodon.in.th/@webring/109787321534616325
+62dae869904ac5dab6047c9f79f0200b:shorturl:
+  spec:
+    url: https://garden.narze.live/Change-League-of-Legends-macOS-language-from-Thai-to-English/
+  state:
+    shortLink: https://webring.page.link/upmQ
 639c11c08aeb3f30f0258dd9db600772:facebook:
   spec:
     title: เมื่อปี 2022 เราเจอกับคำว่าอะไรบ้างนะ ? [somkiat.cc]
