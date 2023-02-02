@@ -779,14 +779,14 @@
     shortLink: https://webring.page.link/A5nF
 85f66a0e7249d28ea4fa0e3d78347093:facebook:
   spec:
-    title: JT Express เหมือนจะดี แต่ทว่าช้าและของหาย [debuggingsoft.com]
+    title: J&T Express เหมือนจะดี แต่ทว่าช้าและของหาย [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2023/01/jt-express-%e0%b9%80%e0%b8%ab%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%88%e0%b8%b0%e0%b8%94%e0%b8%b5-%e0%b9%81%e0%b8%95%e0%b9%88%e0%b8%97%e0%b8%a7%e0%b9%88%e0%b8%b2%e0%b8%8a%e0%b9%89%e0%b8%b2/
   state:
     id: '100746876247412_120721507583767'
     url: https://www.facebook.com/100683012920950/posts/120721507583767
 85f66a0e7249d28ea4fa0e3d78347093:mastodon:
   spec:
-    title: JT Express เหมือนจะดี แต่ทว่าช้าและของหาย [debuggingsoft.com]
+    title: J&T Express เหมือนจะดี แต่ทว่าช้าและของหาย [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2023/01/jt-express-%e0%b9%80%e0%b8%ab%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%88%e0%b8%b0%e0%b8%94%e0%b8%b5-%e0%b9%81%e0%b8%95%e0%b9%88%e0%b8%97%e0%b8%a7%e0%b9%88%e0%b8%b2%e0%b8%8a%e0%b9%89%e0%b8%b2/
   state:
     id: '109788701099639175'
@@ -1245,6 +1245,25 @@ ce0b224af5ff522f907d8ef11f03cea1:shorturl:
     url: https://kajame.xyz/blog/mongodb-testing
   state:
     shortLink: https://webring.page.link/Lmqa
+ceb7302711fc3fdb135809f4779c5431:facebook:
+  spec:
+    title: ได้เวลาลองเล่น Postman Flow แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/what-postman-flow/
+  state:
+    id: '100746876247412_121113787544539'
+    url: https://www.facebook.com/100683012920950/posts/121113787544539
+ceb7302711fc3fdb135809f4779c5431:mastodon:
+  spec:
+    title: ได้เวลาลองเล่น Postman Flow แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/what-postman-flow/
+  state:
+    id: '109792951495575489'
+    url: https://mastodon.in.th/@webring/109792951495575489
+ceb7302711fc3fdb135809f4779c5431:shorturl:
+  spec:
+    url: https://www.somkiat.cc/what-postman-flow/
+  state:
+    shortLink: https://webring.page.link/DD8e
 cfd77637023899ca0b208faf0b85c341:facebook:
   spec:
     title: 'เรื่องราวอันน่าทึ่งเกี่ยวกับคอมพิวเตอร์: จากเครื่องคิดเลขโบราณสู่เครื่องจักรสมัยใหม่ [tinarskii.com]'
