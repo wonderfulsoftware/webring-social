@@ -1169,6 +1169,25 @@ baf704b0b87e964fb3c3e8c00cd27876:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-implement-a-secure-continuous-deployment-using-azure-pipelines/
   state:
     shortLink: https://webring.page.link/CCfC
+c11ccd22ab6cae47592c226711b462d6:facebook:
+  spec:
+    title: Unknow Path? เจอแบบนี้โดน hack แน่ๆ [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/unknow-path
+  state:
+    id: '100746876247412_121576770831574'
+    url: https://www.facebook.com/100683012920950/posts/121576770831574
+c11ccd22ab6cae47592c226711b462d6:mastodon:
+  spec:
+    title: Unknow Path? เจอแบบนี้โดน hack แน่ๆ [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/unknow-path
+  state:
+    id: '109798624331329187'
+    url: https://mastodon.in.th/@webring/109798624331329187
+c11ccd22ab6cae47592c226711b462d6:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/unknow-path
+  state:
+    shortLink: https://webring.page.link/2Vqw
 c25a1751edc8f9642937cb00ebca5982:facebook:
   spec:
     title: Building a Second Brain [garden.narze.live]
