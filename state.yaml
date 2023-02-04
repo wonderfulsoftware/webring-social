@@ -17,6 +17,25 @@
     url: https://thanapon.info/aws-iot-credential-provider/
   state:
     shortLink: https://webring.page.link/gvFA
+017b14ff94bdfdb28722f875fa3d6791:facebook:
+  spec:
+    title: มางาน Notion Meetup Thailand 2023 First Love with Notion ที่จัดครั้งแรกในไทย [mikkipastel.com]
+    url: https://www.mikkipastel.com/notion-meetup-thailand-2023-first-love-with-notion/
+  state:
+    id: '100746876247412_122110284111556'
+    url: https://www.facebook.com/100683012920950/posts/122110284111556
+017b14ff94bdfdb28722f875fa3d6791:mastodon:
+  spec:
+    title: มางาน Notion Meetup Thailand 2023 First Love with Notion ที่จัดครั้งแรกในไทย [mikkipastel.com]
+    url: https://www.mikkipastel.com/notion-meetup-thailand-2023-first-love-with-notion/
+  state:
+    id: '109804985527175151'
+    url: https://mastodon.in.th/@webring/109804985527175151
+017b14ff94bdfdb28722f875fa3d6791:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/notion-meetup-thailand-2023-first-love-with-notion/
+  state:
+    shortLink: https://webring.page.link/izwK
 049b791599c5a31533a5260873ea3523:facebook:
   spec:
     title: Happy New Year 2023 [blog.oatto.dev]
