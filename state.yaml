@@ -777,6 +777,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-design-and-implement-a-release-strategy/
   state:
     shortLink: https://webring.page.link/AGse
+7c626428278beae0a6634df545642dbf:facebook:
+  spec:
+    title: '[Azure] Azure Automation Step Note [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/02/azure-azure-automation-step-note/
+  state:
+    id: '100746876247412_122156650773586'
+    url: https://www.facebook.com/100683012920950/posts/122156650773586
+7c626428278beae0a6634df545642dbf:mastodon:
+  spec:
+    title: '[Azure] Azure Automation Step Note [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/02/azure-azure-automation-step-note/
+  state:
+    id: '109805681320164787'
+    url: https://mastodon.in.th/@webring/109805681320164787
+7c626428278beae0a6634df545642dbf:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/02/azure-azure-automation-step-note/
+  state:
+    shortLink: https://webring.page.link/FP7q
 81d84a9f29eb25ecd29b382c58ec5340:facebook:
   spec:
     title: Event-carried state transfer [boonsong.dev]
