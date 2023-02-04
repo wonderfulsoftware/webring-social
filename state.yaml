@@ -1169,6 +1169,25 @@ baf704b0b87e964fb3c3e8c00cd27876:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-implement-a-secure-continuous-deployment-using-azure-pipelines/
   state:
     shortLink: https://webring.page.link/CCfC
+bd23e1beee8056e729f25ba34b594968:facebook:
+  spec:
+    title: TDEA (3DES) ปลอดภัยกว่า AES-128 จริงไหม [suam.wtf]
+    url: https://suam.wtf/posts/tdea-vs-mitm/
+  state:
+    id: '100746876247412_122058507450067'
+    url: https://www.facebook.com/100683012920950/posts/122058507450067
+bd23e1beee8056e729f25ba34b594968:mastodon:
+  spec:
+    title: TDEA (3DES) ปลอดภัยกว่า AES-128 จริงไหม [suam.wtf]
+    url: https://suam.wtf/posts/tdea-vs-mitm/
+  state:
+    id: '109804272431346554'
+    url: https://mastodon.in.th/@webring/109804272431346554
+bd23e1beee8056e729f25ba34b594968:shorturl:
+  spec:
+    url: https://suam.wtf/posts/tdea-vs-mitm/
+  state:
+    shortLink: https://webring.page.link/Xzgf
 c11ccd22ab6cae47592c226711b462d6:facebook:
   spec:
     title: Unknow Path? เจอแบบนี้โดน hack แน่ๆ [tech.duckfollow.co]
