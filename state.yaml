@@ -454,6 +454,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%80%e0%b8%96%e0%b8%b2%e0%b8%b0%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%94%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%88%e0%b8%b5%e0%b9%89%e0%b8%a2/
   state:
     shortLink: https://webring.page.link/zbcm
+3500e398c0e68f68e5f4904af7493fc5:facebook:
+  spec:
+    title: A guide for realistic estimation of project timeline [heyfirst.co]
+    url: https://heyfirst.co/blog/realistic-time-estimation-for-project
+  state:
+    id: '100746876247412_122511400738111'
+    url: https://www.facebook.com/100683012920950/posts/122511400738111
+3500e398c0e68f68e5f4904af7493fc5:mastodon:
+  spec:
+    title: A guide for realistic estimation of project timeline [heyfirst.co]
+    url: https://heyfirst.co/blog/realistic-time-estimation-for-project
+  state:
+    id: '109809950608950317'
+    url: https://mastodon.in.th/@webring/109809950608950317
+3500e398c0e68f68e5f4904af7493fc5:shorturl:
+  spec:
+    url: https://heyfirst.co/blog/realistic-time-estimation-for-project
+  state:
+    shortLink: https://webring.page.link/EcSc
 35128330f3accd4827bca496f248e288:facebook:
   spec:
     title: VSCode Extension Pack [garden.narze.live]
