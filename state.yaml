@@ -549,6 +549,25 @@
     url: https://mesodiar.com/setting-up-kafka-with-kafka-connect-from-sql-server-to-cloud-storage-gcs-6b980437a926?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/F4RN
+4b80787b4ee3589b0b1f03f6f0a60356:facebook:
+  spec:
+    title: 'Go 1.20​ :: การใช้งาน multiple error [somkiat.cc]'
+    url: https://www.somkiat.cc/go-multiple-error/
+  state:
+    id: '100746876247412_123050770684174'
+    url: https://www.facebook.com/100683012920950/posts/123050770684174
+4b80787b4ee3589b0b1f03f6f0a60356:mastodon:
+  spec:
+    title: 'Go 1.20​ :: การใช้งาน multiple error [somkiat.cc]'
+    url: https://www.somkiat.cc/go-multiple-error/
+  state:
+    id: '109816314882620351'
+    url: https://mastodon.in.th/@webring/109816314882620351
+4b80787b4ee3589b0b1f03f6f0a60356:shorturl:
+  spec:
+    url: https://www.somkiat.cc/go-multiple-error/
+  state:
+    shortLink: https://webring.page.link/N4tA
 577af00a06b01e0f193daf5e4c105f52:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 2 - Card Flip [devahoy.com]
