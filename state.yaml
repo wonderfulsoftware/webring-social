@@ -1454,6 +1454,25 @@ dabdbb866900a20d47538ffe8e13d7a5:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/01/sonarqube-net6-net-core-note/
   state:
     shortLink: https://webring.page.link/sxR8
+e101590fcf2c113c902ecdebce745d7d:facebook:
+  spec:
+    title: '[AZ-400] Design and implement a dependency management strategy [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/02/az-400-design-and-implement-a-dependency-management-strategy/
+  state:
+    id: '100746876247412_123002917355626'
+    url: https://www.facebook.com/100683012920950/posts/123002917355626
+e101590fcf2c113c902ecdebce745d7d:mastodon:
+  spec:
+    title: '[AZ-400] Design and implement a dependency management strategy [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/02/az-400-design-and-implement-a-dependency-management-strategy/
+  state:
+    id: '109815597187355016'
+    url: https://mastodon.in.th/@webring/109815597187355016
+e101590fcf2c113c902ecdebce745d7d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/02/az-400-design-and-implement-a-dependency-management-strategy/
+  state:
+    shortLink: https://webring.page.link/aQBF
 e29c6f2358bde3729584684d4e296a57:facebook:
   spec:
     title: Art Trade - Papang_uvu [lucian.solutions]
