@@ -492,6 +492,25 @@
     url: https://garden.narze.live/VSCode-Extension-Pack/
   state:
     shortLink: https://webring.page.link/SiJ8
+3c081287f3fe4e1dee288e9ba9328de0:facebook:
+  spec:
+    title: MLflow 101 [edocstudio.info]
+    url: https://edocstudio.info/
+  state:
+    id: '100746876247412_123625177293400'
+    url: https://www.facebook.com/100683012920950/posts/123625177293400
+3c081287f3fe4e1dee288e9ba9328de0:mastodon:
+  spec:
+    title: MLflow 101 [edocstudio.info]
+    url: https://edocstudio.info/
+  state:
+    id: '109823415629696397'
+    url: https://mastodon.in.th/@webring/109823415629696397
+3c081287f3fe4e1dee288e9ba9328de0:shorturl:
+  spec:
+    url: https://edocstudio.info/
+  state:
+    shortLink: https://webring.page.link/s1pL
 3de5278b6c9ecfbb07e80c6440b820db:facebook:
   spec:
     title: 0256 | คำถามที่โดนถามบ่อยกับรถยนต์ไฟฟ้า [icez.net]
