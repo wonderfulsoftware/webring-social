@@ -1138,6 +1138,25 @@
     url: https://garden.narze.live/Why-I-use-Arc-Browser/
   state:
     shortLink: https://webring.page.link/XD65
+9ac5ae6b0dd3a8bca3e9f4010bb29b69:facebook:
+  spec:
+    title: ลองใช้งาน Virtual Thread ของ Java 19 ใน Spring Boot 3 [somkiat.cc]
+    url: https://www.somkiat.cc/virtual-thread-in-spring-boot-3/
+  state:
+    id: '100746876247412_124374203885164'
+    url: https://www.facebook.com/100683012920950/posts/124374203885164
+9ac5ae6b0dd3a8bca3e9f4010bb29b69:mastodon:
+  spec:
+    title: ลองใช้งาน Virtual Thread ของ Java 19 ใน Spring Boot 3 [somkiat.cc]
+    url: https://www.somkiat.cc/virtual-thread-in-spring-boot-3/
+  state:
+    id: '109833303557579477'
+    url: https://mastodon.in.th/@webring/109833303557579477
+9ac5ae6b0dd3a8bca3e9f4010bb29b69:shorturl:
+  spec:
+    url: https://www.somkiat.cc/virtual-thread-in-spring-boot-3/
+  state:
+    shortLink: https://webring.page.link/8Mwd
 9c363ddb48157779d09842df47fb6674:facebook:
   spec:
     title: อัพเดตโปรเจควงแหวนเว็บ, เปิดเพจ Facebook, Mastodon [dt.in.th]
