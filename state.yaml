@@ -245,6 +245,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%96%e0%b9%80%e0%b8%a1%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%83%e0%b8%ab%e0%b8%a1/
   state:
     shortLink: https://webring.page.link/Tbeh
+1aec5ab451de9f463f3d12f5ce9fc64d:facebook:
+  spec:
+    title: สร้างการแจ้งเตือนด้วย Node เข้า LINE ผ่าน LINE Notify [janescience.com]
+    url: https://janescience.com/blog/node-notify-line
+  state:
+    id: '100746876247412_124320470557204'
+    url: https://www.facebook.com/100683012920950/posts/124320470557204
+1aec5ab451de9f463f3d12f5ce9fc64d:mastodon:
+  spec:
+    title: สร้างการแจ้งเตือนด้วย Node เข้า LINE ผ่าน LINE Notify [janescience.com]
+    url: https://janescience.com/blog/node-notify-line
+  state:
+    id: '109832597471757491'
+    url: https://mastodon.in.th/@webring/109832597471757491
+1aec5ab451de9f463f3d12f5ce9fc64d:shorturl:
+  spec:
+    url: https://janescience.com/blog/node-notify-line
+  state:
+    shortLink: https://webring.page.link/7y8B
 1c0e929bc324968b44acb0ad6938f3a3:facebook:
   spec:
     title: จดบันทึกจากการฟังเรื่อง API Evolution without Versioning with Brandon Byars [somkiat.cc]
