@@ -777,6 +777,25 @@
     url: https://chameleontk.github.io/year-in-review-2022/
   state:
     shortLink: https://webring.page.link/ioKV
+6cd34025c7e18656806013b2e17fcc2a:facebook:
+  spec:
+    title: Rebuild COM Interop DLL ด้วย VS2022 เจอ Runtime Error 3001 แต่ VS2019 ทำงานได้ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/02/com-interop-is-broken-runtime-error-3001-when-using-visual-studio-2022/
+  state:
+    id: '100746876247412_124802407175677'
+    url: https://www.facebook.com/100683012920950/posts/124802407175677
+6cd34025c7e18656806013b2e17fcc2a:mastodon:
+  spec:
+    title: Rebuild COM Interop DLL ด้วย VS2022 เจอ Runtime Error 3001 แต่ VS2019 ทำงานได้ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/02/com-interop-is-broken-runtime-error-3001-when-using-visual-studio-2022/
+  state:
+    id: '109838277344656893'
+    url: https://mastodon.in.th/@webring/109838277344656893
+6cd34025c7e18656806013b2e17fcc2a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/02/com-interop-is-broken-runtime-error-3001-when-using-visual-studio-2022/
+  state:
+    shortLink: https://webring.page.link/oS2G
 74726a0b7d14c6034982c37265460c1c:facebook:
   spec:
     title: How to access NPM Private Registry [debuggingsoft.com]
