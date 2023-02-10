@@ -1214,6 +1214,25 @@ a1fc654eae8ca5c14e18da045946930c:shorturl:
     url: https://www.somkiat.cc/time-series-in-elasticsearch-8-6/
   state:
     shortLink: https://webring.page.link/WXu2
+a2ddaf898161aef37c0bc75f362600b0:facebook:
+  spec:
+    title: น่าสนใจกับ Observability-Driven Development (ODD) ด้วย TraceTest [somkiat.cc]
+    url: https://www.somkiat.cc/observability-driven-development/
+  state:
+    id: '100746876247412_124864557169462'
+    url: https://www.facebook.com/100683012920950/posts/124864557169462
+a2ddaf898161aef37c0bc75f362600b0:mastodon:
+  spec:
+    title: น่าสนใจกับ Observability-Driven Development (ODD) ด้วย TraceTest [somkiat.cc]
+    url: https://www.somkiat.cc/observability-driven-development/
+  state:
+    id: '109838966807731259'
+    url: https://mastodon.in.th/@webring/109838966807731259
+a2ddaf898161aef37c0bc75f362600b0:shorturl:
+  spec:
+    url: https://www.somkiat.cc/observability-driven-development/
+  state:
+    shortLink: https://webring.page.link/zsoA
 a4f45033b6dafefc4eedb1e9c8f10387:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 4 - Click Me! [devahoy.com]
