@@ -606,6 +606,25 @@
     url: https://www.somkiat.cc/go-multiple-error/
   state:
     shortLink: https://webring.page.link/N4tA
+4fce6918c26bdefa22fac2d298989678:facebook:
+  spec:
+    title: มาทำ Email Management ฉบับ Getting Thing Done กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/email-management-getting-thing-done/
+  state:
+    id: '100746876247412_125274570461794'
+    url: https://www.facebook.com/100683012920950/posts/125274570461794
+4fce6918c26bdefa22fac2d298989678:mastodon:
+  spec:
+    title: มาทำ Email Management ฉบับ Getting Thing Done กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/email-management-getting-thing-done/
+  state:
+    id: '109843908585610593'
+    url: https://mastodon.in.th/@webring/109843908585610593
+4fce6918c26bdefa22fac2d298989678:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/email-management-getting-thing-done/
+  state:
+    shortLink: https://webring.page.link/kkwe
 577af00a06b01e0f193daf5e4c105f52:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 2 - Card Flip [devahoy.com]
