@@ -1644,6 +1644,25 @@ d58f4ece6739487292947e77a14d2418:shorturl:
     url: https://www.poolsawat.com/docker-run-1line-command-about-databases/
   state:
     shortLink: https://webring.page.link/63Mf
+da99d414d91f720cbcc374cb410fccf0:facebook:
+  spec:
+    title: '[AZ-400] Implement continuous feedback [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/02/az-400-implement-continuous-feedback/
+  state:
+    id: '100746876247412_126321413690443'
+    url: https://www.facebook.com/100683012920950/posts/126321413690443
+da99d414d91f720cbcc374cb410fccf0:mastodon:
+  spec:
+    title: '[AZ-400] Implement continuous feedback [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/02/az-400-implement-continuous-feedback/
+  state:
+    id: '109856650564228027'
+    url: https://mastodon.in.th/@webring/109856650564228027
+da99d414d91f720cbcc374cb410fccf0:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/02/az-400-implement-continuous-feedback/
+  state:
+    shortLink: https://webring.page.link/2uTa
 dabdbb866900a20d47538ffe8e13d7a5:facebook:
   spec:
     title: บันทึก SonarQube กับ .NET6 [debuggingsoft.com]
