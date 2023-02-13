@@ -283,6 +283,25 @@
     url: https://www.somkiat.cc/note-from-api-evolution-without-versioning/
   state:
     shortLink: https://webring.page.link/7nzc
+1d14ec0ffc4ea9ee6e4cda7f4d2fed9c:facebook:
+  spec:
+    title: สร้าง Comments ให้กับ Website ด้วย Giscus [janescience.com]
+    url: https://janescience.com/blog/giscus
+  state:
+    id: '100746876247412_126221537033764'
+    url: https://www.facebook.com/100683012920950/posts/126221537033764
+1d14ec0ffc4ea9ee6e4cda7f4d2fed9c:mastodon:
+  spec:
+    title: สร้าง Comments ให้กับ Website ด้วย Giscus [janescience.com]
+    url: https://janescience.com/blog/giscus
+  state:
+    id: '109855254389352168'
+    url: https://mastodon.in.th/@webring/109855254389352168
+1d14ec0ffc4ea9ee6e4cda7f4d2fed9c:shorturl:
+  spec:
+    url: https://janescience.com/blog/giscus
+  state:
+    shortLink: https://webring.page.link/K4bx
 1dd2d690467a6d259caec3a18aa07500:facebook:
   spec:
     title: 'Event-driven architecture: Message queues, Commands, Events, และ Queries [boonsong.dev]'
