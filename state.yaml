@@ -644,6 +644,25 @@
     url: https://www.mikkipastel.com/email-management-getting-thing-done/
   state:
     shortLink: https://webring.page.link/kkwe
+50a74ac75b2887f6cf406afbe60b4d0a:facebook:
+  spec:
+    title: Tesla Thailand และ “กว่าจะส่งมอบ” [shayennn.com]
+    url: https://shayennn.com/tesla-thailand-delivery-process-so-suck/
+  state:
+    id: '100746876247412_126271187028799'
+    url: https://www.facebook.com/100683012920950/posts/126271187028799
+50a74ac75b2887f6cf406afbe60b4d0a:mastodon:
+  spec:
+    title: Tesla Thailand และ “กว่าจะส่งมอบ” [shayennn.com]
+    url: https://shayennn.com/tesla-thailand-delivery-process-so-suck/
+  state:
+    id: '109855952656271278'
+    url: https://mastodon.in.th/@webring/109855952656271278
+50a74ac75b2887f6cf406afbe60b4d0a:shorturl:
+  spec:
+    url: https://shayennn.com/tesla-thailand-delivery-process-so-suck/
+  state:
+    shortLink: https://webring.page.link/B8J1
 577af00a06b01e0f193daf5e4c105f52:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 2 - Card Flip [devahoy.com]
