@@ -1404,6 +1404,25 @@ afd1afebef5caf5636be6e145ec98f98:shorturl:
     url: https://mesodiar.com/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94-%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%B5-2022-7ffac94dd35f?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/tgzE
+b220dd9537e097e7bfe323aa295be7ef:facebook:
+  spec:
+    title: Mastodon timeline [llun.me]
+    url: https://www.llun.me/posts/dev/2023-02-12-mastodon-timeline
+  state:
+    id: '100746876247412_126456247010293'
+    url: https://www.facebook.com/100683012920950/posts/126456247010293
+b220dd9537e097e7bfe323aa295be7ef:mastodon:
+  spec:
+    title: Mastodon timeline [llun.me]
+    url: https://www.llun.me/posts/dev/2023-02-12-mastodon-timeline
+  state:
+    id: '109858066198258604'
+    url: https://mastodon.in.th/@webring/109858066198258604
+b220dd9537e097e7bfe323aa295be7ef:shorturl:
+  spec:
+    url: https://www.llun.me/posts/dev/2023-02-12-mastodon-timeline
+  state:
+    shortLink: https://webring.page.link/iL5t
 b7ed4ea6402e4dd022e2f8a43009eddb:mastodon:
   spec:
     title: 2022 [microbenz.in.th]
