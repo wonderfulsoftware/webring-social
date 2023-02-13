@@ -1606,6 +1606,25 @@ d1476b3d9dfba601ae992cbbfab93036:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-manage-infrastructure-as-code-using-azure-and-dsc/
   state:
     shortLink: https://webring.page.link/R5uc
+d2a211d2c6b8c66f3cf64aab9d5140c8:facebook:
+  spec:
+    title: Securing Kafka with TLS/SSL encryption [mesodiar.com]
+    url: https://mesodiar.com/securing-kafka-with-tls-ssl-encryption-87816a82d6ca?source=rss----698ac1e5dc8c---4
+  state:
+    id: '100746876247412_126375497018368'
+    url: https://www.facebook.com/100683012920950/posts/126375497018368
+d2a211d2c6b8c66f3cf64aab9d5140c8:mastodon:
+  spec:
+    title: Securing Kafka with TLS/SSL encryption [mesodiar.com]
+    url: https://mesodiar.com/securing-kafka-with-tls-ssl-encryption-87816a82d6ca?source=rss----698ac1e5dc8c---4
+  state:
+    id: '109857391006730256'
+    url: https://mastodon.in.th/@webring/109857391006730256
+d2a211d2c6b8c66f3cf64aab9d5140c8:shorturl:
+  spec:
+    url: https://mesodiar.com/securing-kafka-with-tls-ssl-encryption-87816a82d6ca?source=rss----698ac1e5dc8c---4
+  state:
+    shortLink: https://webring.page.link/b1UH
 d54ac0ea44f67cb41b090ad9a3b740cc:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 3 - Simple Hover [devahoy.com]
