@@ -929,6 +929,25 @@
     url: https://www.mikkipastel.com/creating-kick-ass-content-with-productive-thinking-method/
   state:
     shortLink: https://webring.page.link/JKzj
+7a61d125d31a83687d9b20aaa4acb3d2:facebook:
+  spec:
+    title: ตัวอย่าง Github Action สำหรับ Push Docker image ไปที่ Github Package (Kotlin + Spring) [taoisaman.com]
+    url: https://taoisaman.com/2023/02/07/%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87-github-action-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-push-docker-image-%e0%b9%84%e0%b8%9b%e0%b8%97%e0%b8%b5/
+  state:
+    id: '100746876247412_126697590319492'
+    url: https://www.facebook.com/100683012920950/posts/126697590319492
+7a61d125d31a83687d9b20aaa4acb3d2:mastodon:
+  spec:
+    title: ตัวอย่าง Github Action สำหรับ Push Docker image ไปที่ Github Package (Kotlin + Spring) [taoisaman.com]
+    url: https://taoisaman.com/2023/02/07/%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87-github-action-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-push-docker-image-%e0%b9%84%e0%b8%9b%e0%b8%97%e0%b8%b5/
+  state:
+    id: '109860910320340782'
+    url: https://mastodon.in.th/@webring/109860910320340782
+7a61d125d31a83687d9b20aaa4acb3d2:shorturl:
+  spec:
+    url: https://taoisaman.com/2023/02/07/%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87-github-action-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-push-docker-image-%e0%b9%84%e0%b8%9b%e0%b8%97%e0%b8%b5/
+  state:
+    shortLink: https://webring.page.link/FquR
 7aac97736fe3b735eb106080806fd92b:facebook:
   spec:
     title: '[AZ-400] Design and implement a release strategy [debuggingsoft.com]'
