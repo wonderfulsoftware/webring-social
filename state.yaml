@@ -1834,6 +1834,25 @@ e45e8be966d95d303e1a0c525d2c09af:shorturl:
     url: https://tech.duckfollow.co/view/sql
   state:
     shortLink: https://webring.page.link/M4Uz
+e51dab2a8e47c25c57be8e37f55973ba:facebook:
+  spec:
+    title: Postman ใน VS Code กำลังมา [somkiat.cc]
+    url: https://www.somkiat.cc/postman-in-vscode/
+  state:
+    id: '100746876247412_127124653610119'
+    url: https://www.facebook.com/100683012920950/posts/127124653610119
+e51dab2a8e47c25c57be8e37f55973ba:mastodon:
+  spec:
+    title: Postman ใน VS Code กำลังมา [somkiat.cc]
+    url: https://www.somkiat.cc/postman-in-vscode/
+  state:
+    id: '109866578022235783'
+    url: https://mastodon.in.th/@webring/109866578022235783
+e51dab2a8e47c25c57be8e37f55973ba:shorturl:
+  spec:
+    url: https://www.somkiat.cc/postman-in-vscode/
+  state:
+    shortLink: https://webring.page.link/ajmS
 e600a6d6806cce4cbce4774cdd30283c:facebook:
   spec:
     title: Recap 2022 [blog.oatto.dev]
