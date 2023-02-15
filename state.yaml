@@ -1366,6 +1366,25 @@ a800be5a22a696e7f90aa33fe2e5575b:shorturl:
     url: https://notes.dt.in.th/NextTrpcError
   state:
     shortLink: https://webring.page.link/vcWf
+a9219b54ffbacb453c42195b38473323:facebook:
+  spec:
+    title: '[CR] Starbucks-Chocolate Flourless Cake (Valentine Edition) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/02/cr-starbucks-chocolate-flourless-cake-valentine-edition/
+  state:
+    id: '100746876247412_127167236939194'
+    url: https://www.facebook.com/100683012920950/posts/127167236939194
+a9219b54ffbacb453c42195b38473323:mastodon:
+  spec:
+    title: '[CR] Starbucks-Chocolate Flourless Cake (Valentine Edition) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/02/cr-starbucks-chocolate-flourless-cake-valentine-edition/
+  state:
+    id: '109867277803052216'
+    url: https://mastodon.in.th/@webring/109867277803052216
+a9219b54ffbacb453c42195b38473323:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/02/cr-starbucks-chocolate-flourless-cake-valentine-edition/
+  state:
+    shortLink: https://webring.page.link/Ljo8
 aa9ba58effb188de9cf3cf14e931156f:facebook:
   spec:
     title: SDLC ขั้นตอนการทำซอฟต์แวร์ [tech.duckfollow.co]
