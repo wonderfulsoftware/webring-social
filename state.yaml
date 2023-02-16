@@ -1024,6 +1024,25 @@
     url: https://www.boonsong.dev/event-carried-state-transfer
   state:
     shortLink: https://webring.page.link/A5nF
+826b4654fdfbc8cc36227765c5316c49:facebook:
+  spec:
+    title: เที่ยว ฟุกุชิมะ ยามากาตะ อาคิตะ Tohoku x Japan Trip 2023 Chapter 2 [natdanai.me]
+    url: https://natdanai.me/tohoku-japan/
+  state:
+    id: '100746876247412_127549226900995'
+    url: https://www.facebook.com/100683012920950/posts/127549226900995
+826b4654fdfbc8cc36227765c5316c49:mastodon:
+  spec:
+    title: เที่ยว ฟุกุชิมะ ยามากาตะ อาคิตะ Tohoku x Japan Trip 2023 Chapter 2 [natdanai.me]
+    url: https://natdanai.me/tohoku-japan/
+  state:
+    id: '109872233357239806'
+    url: https://mastodon.in.th/@webring/109872233357239806
+826b4654fdfbc8cc36227765c5316c49:shorturl:
+  spec:
+    url: https://natdanai.me/tohoku-japan/
+  state:
+    shortLink: https://webring.page.link/1WYq
 85f66a0e7249d28ea4fa0e3d78347093:facebook:
   spec:
     title: J&T Express เหมือนจะดี แต่ทว่าช้าและของหาย [debuggingsoft.com]
