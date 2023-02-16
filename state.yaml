@@ -834,6 +834,25 @@
     url: https://www.poolsawat.com/golang-grpc-advantages/
   state:
     shortLink: https://webring.page.link/kod8
+693ff22c6f06930af0a99b66778b2337:facebook:
+  spec:
+    title: ปรับปรุง performance การทดสอบของ Cypress ให้เร็วขึ้น [somkiat.cc]
+    url: https://www.somkiat.cc/cypress-improve-performance/
+  state:
+    id: '100746876247412_127590793563505'
+    url: https://www.facebook.com/100683012920950/posts/127590793563505
+693ff22c6f06930af0a99b66778b2337:mastodon:
+  spec:
+    title: ปรับปรุง performance การทดสอบของ Cypress ให้เร็วขึ้น [somkiat.cc]
+    url: https://www.somkiat.cc/cypress-improve-performance/
+  state:
+    id: '109872938556320282'
+    url: https://mastodon.in.th/@webring/109872938556320282
+693ff22c6f06930af0a99b66778b2337:shorturl:
+  spec:
+    url: https://www.somkiat.cc/cypress-improve-performance/
+  state:
+    shortLink: https://webring.page.link/ntqD
 6cc15445234f9602e6eb761b26611894:facebook:
   spec:
     title: Year in Review 2022 [wp.curve.in.th]
