@@ -834,6 +834,25 @@
     url: https://www.poolsawat.com/golang-grpc-advantages/
   state:
     shortLink: https://webring.page.link/kod8
+67fe74d65f21a00cc2d92cb5d337445f:facebook:
+  spec:
+    title: Begin with the end in mind [myifew.com]
+    url: https://myifew.com/6487/begin-with-the-end-in-mind/
+  state:
+    id: '100746876247412_127638400225411'
+    url: https://www.facebook.com/100683012920950/posts/127638400225411
+67fe74d65f21a00cc2d92cb5d337445f:mastodon:
+  spec:
+    title: Begin with the end in mind [myifew.com]
+    url: https://myifew.com/6487/begin-with-the-end-in-mind/
+  state:
+    id: '109873635728827113'
+    url: https://mastodon.in.th/@webring/109873635728827113
+67fe74d65f21a00cc2d92cb5d337445f:shorturl:
+  spec:
+    url: https://myifew.com/6487/begin-with-the-end-in-mind/
+  state:
+    shortLink: https://webring.page.link/QRrR
 693ff22c6f06930af0a99b66778b2337:facebook:
   spec:
     title: ปรับปรุง performance การทดสอบของ Cypress ให้เร็วขึ้น [somkiat.cc]
