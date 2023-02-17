@@ -378,6 +378,25 @@
     url: https://www.somkiat.cc/bye-bye-atom/
   state:
     shortLink: https://webring.page.link/VXX6
+236954767bc9158e3586b9b5b78e6788:facebook:
+  spec:
+    title: '[NUGET] error NU1101 + warning NU1801 ตอน Build ผ่าน Jenkins Windows Service [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/02/nuget-error-nu1101-warning-nu1801-build-via-jenkins-windows-service/
+  state:
+    id: '100746876247412_127986526857265'
+    url: https://www.facebook.com/100683012920950/posts/127986526857265
+236954767bc9158e3586b9b5b78e6788:mastodon:
+  spec:
+    title: '[NUGET] error NU1101 + warning NU1801 ตอน Build ผ่าน Jenkins Windows Service [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/02/nuget-error-nu1101-warning-nu1801-build-via-jenkins-windows-service/
+  state:
+    id: '109877906011901505'
+    url: https://mastodon.in.th/@webring/109877906011901505
+236954767bc9158e3586b9b5b78e6788:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/02/nuget-error-nu1101-warning-nu1801-build-via-jenkins-windows-service/
+  state:
+    shortLink: https://webring.page.link/Zi9G
 2aa3e01408c05a47e59ef43642292402:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 6 - Card Game [devahoy.com]
