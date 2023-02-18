@@ -1100,6 +1100,25 @@
     url: https://natdanai.me/tohoku-japan/
   state:
     shortLink: https://webring.page.link/1WYq
+8471d89b1fceb3c1683c5224bc7dd2e5:facebook:
+  spec:
+    title: ลองใช้งาน Pythagora สำหรับการทำ integration test ของ Node.js และ Express [somkiat.cc]
+    url: https://www.somkiat.cc/pythagora-for-integration-test-with-express/
+  state:
+    id: '100746876247412_128393810149870'
+    url: https://www.facebook.com/100683012920950/posts/128393810149870
+8471d89b1fceb3c1683c5224bc7dd2e5:mastodon:
+  spec:
+    title: ลองใช้งาน Pythagora สำหรับการทำ integration test ของ Node.js และ Express [somkiat.cc]
+    url: https://www.somkiat.cc/pythagora-for-integration-test-with-express/
+  state:
+    id: '109883545821953249'
+    url: https://mastodon.in.th/@webring/109883545821953249
+8471d89b1fceb3c1683c5224bc7dd2e5:shorturl:
+  spec:
+    url: https://www.somkiat.cc/pythagora-for-integration-test-with-express/
+  state:
+    shortLink: https://webring.page.link/erg2
 85f66a0e7249d28ea4fa0e3d78347093:facebook:
   spec:
     title: J&T Express เหมือนจะดี แต่ทว่าช้าและของหาย [debuggingsoft.com]
