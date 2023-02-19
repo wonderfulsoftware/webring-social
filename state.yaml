@@ -397,6 +397,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/nuget-error-nu1101-warning-nu1801-build-via-jenkins-windows-service/
   state:
     shortLink: https://webring.page.link/Zi9G
+298873105333d3496c30815bb1b2bf39:facebook:
+  spec:
+    title: สรุป National Coding Day 2023#01 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-01/
+  state:
+    id: '100746876247412_128828633439721'
+    url: https://www.facebook.com/100683012920950/posts/128828633439721
+298873105333d3496c30815bb1b2bf39:mastodon:
+  spec:
+    title: สรุป National Coding Day 2023#01 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-01/
+  state:
+    id: '109889222901548464'
+    url: https://mastodon.in.th/@webring/109889222901548464
+298873105333d3496c30815bb1b2bf39:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-01/
+  state:
+    shortLink: https://webring.page.link/oCFY
 2aa3e01408c05a47e59ef43642292402:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 6 - Card Game [devahoy.com]
