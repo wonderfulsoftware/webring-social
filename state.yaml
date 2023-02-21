@@ -1537,6 +1537,25 @@ ac32b68bb4ebd11aa5bcf3ab81e80203:shorturl:
     url: https://www.somkiat.cc/coding-with-spring-modulith/
   state:
     shortLink: https://webring.page.link/hvGd
+aca5605a7c6d9434f9f9d8bee09eff8f:facebook:
+  spec:
+    title: ลองใช้งาน Go Vulnerability Management ในการตรวจสอบเรื่องความปลอดภัย [somkiat.cc]
+    url: https://www.somkiat.cc/go-vulnerability-management/
+  state:
+    id: '100746876247412_129629336692984'
+    url: https://www.facebook.com/100683012920950/posts/129629336692984
+aca5605a7c6d9434f9f9d8bee09eff8f:mastodon:
+  spec:
+    title: ลองใช้งาน Go Vulnerability Management ในการตรวจสอบเรื่องความปลอดภัย [somkiat.cc]
+    url: https://www.somkiat.cc/go-vulnerability-management/
+  state:
+    id: '109900553865540830'
+    url: https://mastodon.in.th/@webring/109900553865540830
+aca5605a7c6d9434f9f9d8bee09eff8f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/go-vulnerability-management/
+  state:
+    shortLink: https://webring.page.link/ySHH
 ae5f149932a0e44e0107545fac9144c1:facebook:
   spec:
     title: RediSearch อีกหนึ่งความสามารถของ Redis [somkiat.cc]
