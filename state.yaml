@@ -1758,6 +1758,25 @@ c860c0569cde5bd92e5079e8c396ff8e:shorturl:
     url: https://chrisza.me/not-simple/mistaken-simplicity/
   state:
     shortLink: https://webring.page.link/UWDE
+c933e277bd4b40830366b1f3ef12a5c5:facebook:
+  spec:
+    title: สรุป National Coding Day 2023#02 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-02/
+  state:
+    id: '100746876247412_130061513316433'
+    url: https://www.facebook.com/100683012920950/posts/130061513316433
+c933e277bd4b40830366b1f3ef12a5c5:mastodon:
+  spec:
+    title: สรุป National Coding Day 2023#02 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-02/
+  state:
+    id: '109906914259655718'
+    url: https://mastodon.in.th/@webring/109906914259655718
+c933e277bd4b40830366b1f3ef12a5c5:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-02/
+  state:
+    shortLink: https://webring.page.link/Jjch
 ce0b224af5ff522f907d8ef11f03cea1:facebook:
   spec:
     title: MongoDB testing [kajame.xyz]
