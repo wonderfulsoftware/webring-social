@@ -929,6 +929,25 @@
     url: https://www.somkiat.cc/cypress-improve-performance/
   state:
     shortLink: https://webring.page.link/ntqD
+6a3a97cb87f325c374bee1db2cbc6577:facebook:
+  spec:
+    title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 2 (Principles) [taoisaman.com]
+    url: https://taoisaman.com/2023/02/21/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-2/
+  state:
+    id: '100746876247412_130110313311553'
+    url: https://www.facebook.com/100683012920950/posts/130110313311553
+6a3a97cb87f325c374bee1db2cbc6577:mastodon:
+  spec:
+    title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 2 (Principles) [taoisaman.com]
+    url: https://taoisaman.com/2023/02/21/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-2/
+  state:
+    id: '109907610165486172'
+    url: https://mastodon.in.th/@webring/109907610165486172
+6a3a97cb87f325c374bee1db2cbc6577:shorturl:
+  spec:
+    url: https://taoisaman.com/2023/02/21/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-2/
+  state:
+    shortLink: https://webring.page.link/gK5X
 6cc15445234f9602e6eb761b26611894:facebook:
   spec:
     title: Year in Review 2022 [wp.curve.in.th]
