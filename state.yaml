@@ -568,6 +568,25 @@
     url: https://garden.narze.live/VSCode-Extension-Pack/
   state:
     shortLink: https://webring.page.link/SiJ8
+38dc10cca8ec00e60151ccf9effb8c9f:facebook:
+  spec:
+    title: สร้าง Excel Timesheet ด้วย Python กับ ChatGPT [janescience.com]
+    url: https://janescience.com/blog/timesheet-python-chatgpt
+  state:
+    id: '100746876247412_130016929987558'
+    url: https://www.facebook.com/100683012920950/posts/130016929987558
+38dc10cca8ec00e60151ccf9effb8c9f:mastodon:
+  spec:
+    title: สร้าง Excel Timesheet ด้วย Python กับ ChatGPT [janescience.com]
+    url: https://janescience.com/blog/timesheet-python-chatgpt
+  state:
+    id: '109906209056734968'
+    url: https://mastodon.in.th/@webring/109906209056734968
+38dc10cca8ec00e60151ccf9effb8c9f:shorturl:
+  spec:
+    url: https://janescience.com/blog/timesheet-python-chatgpt
+  state:
+    shortLink: https://webring.page.link/Ymue
 3c081287f3fe4e1dee288e9ba9328de0:facebook:
   spec:
     title: MLflow 101 [edocstudio.info]
