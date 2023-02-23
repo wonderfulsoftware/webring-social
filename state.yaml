@@ -2271,6 +2271,25 @@ f61ba76d8f875bace468dadcffe183d8:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day1-heart
   state:
     shortLink: https://webring.page.link/YArx
+f7553bdc711a78021430634f4a1a95e7:facebook:
+  spec:
+    title: บันทึกการแก้ปัญหา Cannot read properties of undefined (reading ‘REACT_APP_SC_ATTR’) [somkiat.cc]
+    url: https://www.somkiat.cc/problem-cannot-read-react-app-sc-attr/
+  state:
+    id: '100746876247412_130467426609175'
+    url: https://www.facebook.com/100683012920950/posts/130467426609175
+f7553bdc711a78021430634f4a1a95e7:mastodon:
+  spec:
+    title: บันทึกการแก้ปัญหา Cannot read properties of undefined (reading ‘REACT_APP_SC_ATTR’) [somkiat.cc]
+    url: https://www.somkiat.cc/problem-cannot-read-react-app-sc-attr/
+  state:
+    id: '109912574852303586'
+    url: https://mastodon.in.th/@webring/109912574852303586
+f7553bdc711a78021430634f4a1a95e7:shorturl:
+  spec:
+    url: https://www.somkiat.cc/problem-cannot-read-react-app-sc-attr/
+  state:
+    shortLink: https://webring.page.link/Hx55
 f78d5beacf5c6b4e71a51d75c3737765:mastodon:
   spec:
     title: บันทึกการพูดคุยเรื่อง tuning performance กันนิดหน่อย [somkiat.cc]
