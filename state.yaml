@@ -1663,6 +1663,25 @@ b7ed4ea6402e4dd022e2f8a43009eddb:shorturl:
     url: https://microbenz.in.th2022-review/
   state:
     shortLink: https://webring.page.link/76b1
+ba901617c7039c005602d1873810da5f:facebook:
+  spec:
+    title: 2023 [garden.narze.live]
+    url: https://garden.narze.live/Brag/2023/
+  state:
+    id: '100746876247412_130423256613592'
+    url: https://www.facebook.com/100683012920950/posts/130423256613592
+ba901617c7039c005602d1873810da5f:mastodon:
+  spec:
+    title: 2023 [garden.narze.live]
+    url: https://garden.narze.live/Brag/2023/
+  state:
+    id: '109911864197442005'
+    url: https://mastodon.in.th/@webring/109911864197442005
+ba901617c7039c005602d1873810da5f:shorturl:
+  spec:
+    url: https://garden.narze.live/Brag/2023/
+  state:
+    shortLink: https://webring.page.link/bCMD
 baf704b0b87e964fb3c3e8c00cd27876:facebook:
   spec:
     title: '[AZ-400] Implement a secure continuous deployment using Azure Pipelines [debuggingsoft.com]'
