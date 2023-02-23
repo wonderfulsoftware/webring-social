@@ -682,6 +682,25 @@
     url: https://www.somkiat.cc/go-multiple-error/
   state:
     shortLink: https://webring.page.link/N4tA
+4ea5b4abbec0633194c19529b4bb702e:facebook:
+  spec:
+    title: วิธีแก้ปัญหา unknown at rule ของ tailwind css [devahoy.com]
+    url: https://devahoy.com/blog/vscode-unknown-at-rules-css
+  state:
+    id: '100746876247412_130577256598192'
+    url: https://www.facebook.com/100683012920950/posts/130577256598192
+4ea5b4abbec0633194c19529b4bb702e:mastodon:
+  spec:
+    title: วิธีแก้ปัญหา unknown at rule ของ tailwind css [devahoy.com]
+    url: https://devahoy.com/blog/vscode-unknown-at-rules-css
+  state:
+    id: '109914019962607924'
+    url: https://mastodon.in.th/@webring/109914019962607924
+4ea5b4abbec0633194c19529b4bb702e:shorturl:
+  spec:
+    url: https://devahoy.com/blog/vscode-unknown-at-rules-css
+  state:
+    shortLink: https://webring.page.link/34Jq
 4fce6918c26bdefa22fac2d298989678:facebook:
   spec:
     title: มาทำ Email Management ฉบับ Getting Thing Done กัน [mikkipastel.com]
