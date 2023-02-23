@@ -1910,6 +1910,25 @@ d2a211d2c6b8c66f3cf64aab9d5140c8:shorturl:
     url: https://mesodiar.com/securing-kafka-with-tls-ssl-encryption-87816a82d6ca?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/b1UH
+d487b3b6419ebd755aa2d80b7dd8b5fe:facebook:
+  spec:
+    title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 3 (Product Owner) [taoisaman.com]
+    url: https://taoisaman.com/2023/02/22/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-3/
+  state:
+    id: '100746876247412_130517113270873'
+    url: https://www.facebook.com/100683012920950/posts/130517113270873
+d487b3b6419ebd755aa2d80b7dd8b5fe:mastodon:
+  spec:
+    title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 3 (Product Owner) [taoisaman.com]
+    url: https://taoisaman.com/2023/02/22/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-3/
+  state:
+    id: '109913271323692622'
+    url: https://mastodon.in.th/@webring/109913271323692622
+d487b3b6419ebd755aa2d80b7dd8b5fe:shorturl:
+  spec:
+    url: https://taoisaman.com/2023/02/22/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-3/
+  state:
+    shortLink: https://webring.page.link/MFWb
 d54ac0ea44f67cb41b090ad9a3b740cc:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 3 - Simple Hover [devahoy.com]
