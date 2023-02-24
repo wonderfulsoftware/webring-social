@@ -435,6 +435,25 @@
     url: https://devahoy.com/tutorials/learn-css-animations/day6-card-game
   state:
     shortLink: https://webring.page.link/o53j
+2bb7a2f1739d153ec80fb17ee5087399:facebook:
+  spec:
+    title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 4 (Teams) [taoisaman.com]
+    url: https://taoisaman.com/2023/02/23/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-4/
+  state:
+    id: '100746876247412_130900639899187'
+    url: https://www.facebook.com/100683012920950/posts/130900639899187
+2bb7a2f1739d153ec80fb17ee5087399:mastodon:
+  spec:
+    title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 4 (Teams) [taoisaman.com]
+    url: https://taoisaman.com/2023/02/23/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-4/
+  state:
+    id: '109917531852302930'
+    url: https://mastodon.in.th/@webring/109917531852302930
+2bb7a2f1739d153ec80fb17ee5087399:shorturl:
+  spec:
+    url: https://taoisaman.com/2023/02/23/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-4/
+  state:
+    shortLink: https://webring.page.link/cbhv
 2bc82a834f9c8250eb2d70d509a5c3f9:facebook:
   spec:
     title: How I memorize the morse code (without deliberate practice) [dt.in.th]
