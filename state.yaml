@@ -1081,6 +1081,25 @@
     url: https://www.mikkipastel.com/my-bio-website-by-glitch-in-bio/
   state:
     shortLink: https://webring.page.link/M6zS
+7659a33746f04257582d76202ecd03b6:facebook:
+  spec:
+    title: Node 19.7.0 สามารถสร้าง Single Executable Application (SEA) ของระบบได้แล้ว [experiment feature] [somkiat.cc]
+    url: https://www.somkiat.cc/single-executable-application-in-nodejs-19/
+  state:
+    id: '100746876247412_131496363172948'
+    url: https://www.facebook.com/100683012920950/posts/131496363172948
+7659a33746f04257582d76202ecd03b6:mastodon:
+  spec:
+    title: Node 19.7.0 สามารถสร้าง Single Executable Application (SEA) ของระบบได้แล้ว [experiment feature] [somkiat.cc]
+    url: https://www.somkiat.cc/single-executable-application-in-nodejs-19/
+  state:
+    id: '109923196337359558'
+    url: https://mastodon.in.th/@webring/109923196337359558
+7659a33746f04257582d76202ecd03b6:shorturl:
+  spec:
+    url: https://www.somkiat.cc/single-executable-application-in-nodejs-19/
+  state:
+    shortLink: https://webring.page.link/S47i
 76b65391d44572174157706578afa1cf:facebook:
   spec:
     title: ทำงานไม่มีเวลา แล้วจะทำ content ยังไงให้ปัง โดยคุณอิง ดาริน [mikkipastel.com]
