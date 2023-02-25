@@ -701,6 +701,25 @@
     url: https://www.somkiat.cc/go-multiple-error/
   state:
     shortLink: https://webring.page.link/N4tA
+4d49000de0cac82eb1e7a7299b15f23b:facebook:
+  spec:
+    title: แนะนำ Tripster ทำยังไงให้ mint out ใน 45 นาที [mikkipastel.com]
+    url: https://www.mikkipastel.com/introduction-tripster-travel-pass-nft-project/
+  state:
+    id: '100746876247412_131564529832798'
+    url: https://www.facebook.com/100683012920950/posts/131564529832798
+4d49000de0cac82eb1e7a7299b15f23b:mastodon:
+  spec:
+    title: แนะนำ Tripster ทำยังไงให้ mint out ใน 45 นาที [mikkipastel.com]
+    url: https://www.mikkipastel.com/introduction-tripster-travel-pass-nft-project/
+  state:
+    id: '109923896233106102'
+    url: https://mastodon.in.th/@webring/109923896233106102
+4d49000de0cac82eb1e7a7299b15f23b:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/introduction-tripster-travel-pass-nft-project/
+  state:
+    shortLink: https://webring.page.link/1hpM
 4ea5b4abbec0633194c19529b4bb702e:facebook:
   spec:
     title: วิธีแก้ปัญหา unknown at rule ของ tailwind css [devahoy.com]
