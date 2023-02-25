@@ -1423,6 +1423,25 @@
     url: https://www.llun.me/posts/2022-12-31-2022
   state:
     shortLink: https://webring.page.link/GfBB
+92fd9ef4fe49ca5369504f2e8cf0470b:facebook:
+  spec:
+    title: JWT ด้วย Node.js [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/jwt
+  state:
+    id: '100746876247412_131629973159587'
+    url: https://www.facebook.com/100683012920950/posts/131629973159587
+92fd9ef4fe49ca5369504f2e8cf0470b:mastodon:
+  spec:
+    title: JWT ด้วย Node.js [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/jwt
+  state:
+    id: '109924593614400695'
+    url: https://mastodon.in.th/@webring/109924593614400695
+92fd9ef4fe49ca5369504f2e8cf0470b:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/jwt
+  state:
+    shortLink: https://webring.page.link/sRtU
 96f7739f7435b2722c08ff63bcecad53:facebook:
   spec:
     title: ว่าด้วยเรื่อง cURL ใช้อย่างไรให้ Pro ใช้อย่างไรถึงจะ Cool [poolsawat.com]
