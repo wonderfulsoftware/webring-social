@@ -853,6 +853,25 @@
     url: https://kajame.xyz/blog/redis-testing
   state:
     shortLink: https://webring.page.link/U1Ty
+5c037e5d4f18df66b864d9f5c67dff04:facebook:
+  spec:
+    title: Dear Security, be a part of the solution [chrisza.me]
+    url: https://chrisza.me/security-part-of-solution/
+  state:
+    id: '100746876247412_132199459769305'
+    url: https://www.facebook.com/100683012920950/posts/132199459769305
+5c037e5d4f18df66b864d9f5c67dff04:mastodon:
+  spec:
+    title: Dear Security, be a part of the solution [chrisza.me]
+    url: https://chrisza.me/security-part-of-solution/
+  state:
+    id: '109930255389471429'
+    url: https://mastodon.in.th/@webring/109930255389471429
+5c037e5d4f18df66b864d9f5c67dff04:shorturl:
+  spec:
+    url: https://chrisza.me/security-part-of-solution/
+  state:
+    shortLink: https://webring.page.link/5ZoG
 5f43d4518c539e00a62a5f0c78c80fec:facebook:
   spec:
     title: บันทึกการเรียน Domain-Driven Design (DDD) by Roofimon 2023 [somkiat.cc]
