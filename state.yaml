@@ -720,6 +720,25 @@
     url: https://www.somkiat.cc/go-multiple-error/
   state:
     shortLink: https://webring.page.link/N4tA
+4c54748aa9f9ce0f01cb3b527f2b238a:facebook:
+  spec:
+    title: สรุปงาน Microsoft Thailand Developer Day 2023 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/02/microsoft-thailand-developer-day-2023-summay/
+  state:
+    id: '100746876247412_132133713109213'
+    url: https://www.facebook.com/100683012920950/posts/132133713109213
+4c54748aa9f9ce0f01cb3b527f2b238a:mastodon:
+  spec:
+    title: สรุปงาน Microsoft Thailand Developer Day 2023 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/02/microsoft-thailand-developer-day-2023-summay/
+  state:
+    id: '109929559994819021'
+    url: https://mastodon.in.th/@webring/109929559994819021
+4c54748aa9f9ce0f01cb3b527f2b238a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/02/microsoft-thailand-developer-day-2023-summay/
+  state:
+    shortLink: https://webring.page.link/DNhF
 4d49000de0cac82eb1e7a7299b15f23b:facebook:
   spec:
     title: แนะนำ Tripster ทำยังไงให้ mint out ใน 45 นาที [mikkipastel.com]
