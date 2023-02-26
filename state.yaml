@@ -397,6 +397,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/nuget-error-nu1101-warning-nu1801-build-via-jenkins-windows-service/
   state:
     shortLink: https://webring.page.link/Zi9G
+2650e7cad1f4a54abaf33411c0227748:facebook:
+  spec:
+    title: ลองใช้งาน Native AOT (Ahead of Time) ของ .NET [somkiat.cc]
+    url: https://www.somkiat.cc/dotnet-with-native-aot/
+  state:
+    id: '100746876247412_132064186449499'
+    url: https://www.facebook.com/100683012920950/posts/132064186449499
+2650e7cad1f4a54abaf33411c0227748:mastodon:
+  spec:
+    title: ลองใช้งาน Native AOT (Ahead of Time) ของ .NET [somkiat.cc]
+    url: https://www.somkiat.cc/dotnet-with-native-aot/
+  state:
+    id: '109928886683644546'
+    url: https://mastodon.in.th/@webring/109928886683644546
+2650e7cad1f4a54abaf33411c0227748:shorturl:
+  spec:
+    url: https://www.somkiat.cc/dotnet-with-native-aot/
+  state:
+    shortLink: https://webring.page.link/Qp7t
 298873105333d3496c30815bb1b2bf39:facebook:
   spec:
     title: สรุป National Coding Day 2023#01 [debuggingsoft.com]
