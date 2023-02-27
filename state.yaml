@@ -722,14 +722,14 @@
     shortLink: https://webring.page.link/N4tA
 4c54748aa9f9ce0f01cb3b527f2b238a:facebook:
   spec:
-    title: สรุปงาน Microsoft Thailand Developer Day 2023 [debuggingsoft.com]
+    title: สรุปงาน Thailand Developer Day 2023 [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2023/02/microsoft-thailand-developer-day-2023-summay/
   state:
     id: '100746876247412_132133713109213'
     url: https://www.facebook.com/100683012920950/posts/132133713109213
 4c54748aa9f9ce0f01cb3b527f2b238a:mastodon:
   spec:
-    title: สรุปงาน Microsoft Thailand Developer Day 2023 [debuggingsoft.com]
+    title: สรุปงาน Thailand Developer Day 2023 [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2023/02/microsoft-thailand-developer-day-2023-summay/
   state:
     id: '109929559994819021'
@@ -1746,6 +1746,25 @@ aca5605a7c6d9434f9f9d8bee09eff8f:shorturl:
     url: https://www.somkiat.cc/go-vulnerability-management/
   state:
     shortLink: https://webring.page.link/ySHH
+ae4a4da87c7ad5fbb2b27e66cfad5b12:facebook:
+  spec:
+    title: สรุปจากบทความเรื่อง Go back to coding, engineering leader [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-go-back-to-coding/
+  state:
+    id: '100746876247412_132670306388887'
+    url: https://www.facebook.com/100683012920950/posts/132670306388887
+ae4a4da87c7ad5fbb2b27e66cfad5b12:mastodon:
+  spec:
+    title: สรุปจากบทความเรื่อง Go back to coding, engineering leader [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-go-back-to-coding/
+  state:
+    id: '109934526980857184'
+    url: https://mastodon.in.th/@webring/109934526980857184
+ae4a4da87c7ad5fbb2b27e66cfad5b12:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-from-go-back-to-coding/
+  state:
+    shortLink: https://webring.page.link/XZv8
 ae5f149932a0e44e0107545fac9144c1:facebook:
   spec:
     title: RediSearch อีกหนึ่งความสามารถของ Redis [somkiat.cc]
