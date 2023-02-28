@@ -1986,6 +1986,25 @@ c933e277bd4b40830366b1f3ef12a5c5:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-02/
   state:
     shortLink: https://webring.page.link/Jjch
+cbf22d74bdf5a85bd8b44bc46fcb9435:facebook:
+  spec:
+    title: 'Flutter :: ปัญหา Unable to find bundled Java version [somkiat.cc]'
+    url: https://www.somkiat.cc/flutter-unable-to-find-bundled-java-version/
+  state:
+    id: '100746876247412_133257616330156'
+    url: https://www.facebook.com/100683012920950/posts/133257616330156
+cbf22d74bdf5a85bd8b44bc46fcb9435:mastodon:
+  spec:
+    title: 'Flutter :: ปัญหา Unable to find bundled Java version [somkiat.cc]'
+    url: https://www.somkiat.cc/flutter-unable-to-find-bundled-java-version/
+  state:
+    id: '109940185630455899'
+    url: https://mastodon.in.th/@webring/109940185630455899
+cbf22d74bdf5a85bd8b44bc46fcb9435:shorturl:
+  spec:
+    url: https://www.somkiat.cc/flutter-unable-to-find-bundled-java-version/
+  state:
+    shortLink: https://webring.page.link/xdDT
 ce0b224af5ff522f907d8ef11f03cea1:facebook:
   spec:
     title: MongoDB testing [kajame.xyz]
