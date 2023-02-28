@@ -682,6 +682,25 @@
     url: https://www.somkiat.cc/chatgpt-with-issue-bot/
   state:
     shortLink: https://webring.page.link/T8Ro
+3fedf1a9372b64f3d7e2c618237ea943:facebook:
+  spec:
+    title: KM มันควรสร้างตอนที่ยังอยู่ ไม่ใช่มาสร้างตอนที่จะลาออกไป [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/02/knowledge-note-it-should-be-created-immediately-not-to-create-when-you-plan-to-resign/
+  state:
+    id: '100746876247412_133335332989051'
+    url: https://www.facebook.com/100683012920950/posts/133335332989051
+3fedf1a9372b64f3d7e2c618237ea943:mastodon:
+  spec:
+    title: KM มันควรสร้างตอนที่ยังอยู่ ไม่ใช่มาสร้างตอนที่จะลาออกไป [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/02/knowledge-note-it-should-be-created-immediately-not-to-create-when-you-plan-to-resign/
+  state:
+    id: '109940888431594046'
+    url: https://mastodon.in.th/@webring/109940888431594046
+3fedf1a9372b64f3d7e2c618237ea943:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/02/knowledge-note-it-should-be-created-immediately-not-to-create-when-you-plan-to-resign/
+  state:
+    shortLink: https://webring.page.link/qhLV
 417142d1798f834f03b78608976aae71:facebook:
   spec:
     title: Setting up Kafka with Kafka connect from SQL server to Cloud storage (GCS) [mesodiar.com]
