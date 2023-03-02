@@ -1043,6 +1043,25 @@
     url: https://myifew.com/6487/begin-with-the-end-in-mind/
   state:
     shortLink: https://webring.page.link/QRrR
+68f7e1e2a856203b8a23952c314124f4:facebook:
+  spec:
+    title: สรุปการเปลี่ยนแปลงใน Spring Boot 3 ไว้นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/ready-with-spring-boot-3/
+  state:
+    id: '100746876247412_134771506178767'
+    url: https://www.facebook.com/100683012920950/posts/134771506178767
+68f7e1e2a856203b8a23952c314124f4:mastodon:
+  spec:
+    title: สรุปการเปลี่ยนแปลงใน Spring Boot 3 ไว้นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/ready-with-spring-boot-3/
+  state:
+    id: '109951526951667158'
+    url: https://mastodon.in.th/@webring/109951526951667158
+68f7e1e2a856203b8a23952c314124f4:shorturl:
+  spec:
+    url: https://www.somkiat.cc/ready-with-spring-boot-3/
+  state:
+    shortLink: https://webring.page.link/C5E9
 693ff22c6f06930af0a99b66778b2337:facebook:
   spec:
     title: ปรับปรุง performance การทดสอบของ Cypress ให้เร็วขึ้น [somkiat.cc]
