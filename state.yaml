@@ -1138,6 +1138,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/com-interop-is-broken-runtime-error-3001-when-using-visual-studio-2022/
   state:
     shortLink: https://webring.page.link/oS2G
+73fe2aaf265fa72a5d137b2c4aaa993e:facebook:
+  spec:
+    title: LTF 7 ปีปฏิทิน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/03/ltf-7-calendar-year/
+  state:
+    id: '100746876247412_135555956100322'
+    url: https://www.facebook.com/100683012920950/posts/135555956100322
+73fe2aaf265fa72a5d137b2c4aaa993e:mastodon:
+  spec:
+    title: LTF 7 ปีปฏิทิน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/03/ltf-7-calendar-year/
+  state:
+    id: '109957451032086802'
+    url: https://mastodon.in.th/@webring/109957451032086802
+73fe2aaf265fa72a5d137b2c4aaa993e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/03/ltf-7-calendar-year/
+  state:
+    shortLink: https://webring.page.link/vB5L
 74726a0b7d14c6034982c37265460c1c:facebook:
   spec:
     title: How to access NPM Private Registry [debuggingsoft.com]
