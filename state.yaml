@@ -188,6 +188,25 @@
     url: https://nitpum.com/post/edge-z-index-tool/
   state:
     shortLink: https://webring.page.link/Hv1E
+147f58ef6a5d7a13cce45ccf263b2183:facebook:
+  spec:
+    title: สรุปจาก Bangkok Elastic Meetup 2023 [somkiat.cc]
+    url: https://www.somkiat.cc/bangkok-elastic-meetup-2023/
+  state:
+    id: '100746876247412_136296622692922'
+    url: https://www.facebook.com/100683012920950/posts/136296622692922
+147f58ef6a5d7a13cce45ccf263b2183:mastodon:
+  spec:
+    title: สรุปจาก Bangkok Elastic Meetup 2023 [somkiat.cc]
+    url: https://www.somkiat.cc/bangkok-elastic-meetup-2023/
+  state:
+    id: '109962822724850174'
+    url: https://mastodon.in.th/@webring/109962822724850174
+147f58ef6a5d7a13cce45ccf263b2183:shorturl:
+  spec:
+    url: https://www.somkiat.cc/bangkok-elastic-meetup-2023/
+  state:
+    shortLink: https://webring.page.link/s9HX
 1539b9ee6a721f868c546c1bf79f0eb0:facebook:
   spec:
     title: Getting full Github URL of the latest commit [garden.narze.live]
