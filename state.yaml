@@ -2309,6 +2309,25 @@ dabdbb866900a20d47538ffe8e13d7a5:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/01/sonarqube-net6-net-core-note/
   state:
     shortLink: https://webring.page.link/sxR8
+dc9406027d9ba4a11c760c9a94512164:facebook:
+  spec:
+    title: ลอง vue –version เจอ windows บอก UnauthorizedAccess [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/03/%e0%b8%a5%e0%b8%ad%e0%b8%87-vue-version-on-windows-error-unauthorizedaccess/
+  state:
+    id: '100746876247412_136384326017485'
+    url: https://www.facebook.com/100683012920950/posts/136384326017485
+dc9406027d9ba4a11c760c9a94512164:mastodon:
+  spec:
+    title: ลอง vue –version เจอ windows บอก UnauthorizedAccess [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/03/%e0%b8%a5%e0%b8%ad%e0%b8%87-vue-version-on-windows-error-unauthorizedaccess/
+  state:
+    id: '109963532773485905'
+    url: https://mastodon.in.th/@webring/109963532773485905
+dc9406027d9ba4a11c760c9a94512164:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/03/%e0%b8%a5%e0%b8%ad%e0%b8%87-vue-version-on-windows-error-unauthorizedaccess/
+  state:
+    shortLink: https://webring.page.link/GVNd
 e101590fcf2c113c902ecdebce745d7d:facebook:
   spec:
     title: '[AZ-400] Design and implement a dependency management strategy [debuggingsoft.com]'
