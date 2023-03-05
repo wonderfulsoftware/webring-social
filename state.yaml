@@ -834,6 +834,25 @@
     url: https://devahoy.com/blog/vscode-unknown-at-rules-css
   state:
     shortLink: https://webring.page.link/34Jq
+4f858e655ae628b52d52175666612125:facebook:
+  spec:
+    title: สรุปงาน Global AI Bootcamp – Thailand 2023 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/03/global-ai-bootcamp-thailand-2023/
+  state:
+    id: '100746876247412_137441575911760'
+    url: https://www.facebook.com/100683012920950/posts/137441575911760
+4f858e655ae628b52d52175666612125:mastodon:
+  spec:
+    title: สรุปงาน Global AI Bootcamp – Thailand 2023 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/03/global-ai-bootcamp-thailand-2023/
+  state:
+    id: '109971306404455854'
+    url: https://mastodon.in.th/@webring/109971306404455854
+4f858e655ae628b52d52175666612125:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/03/global-ai-bootcamp-thailand-2023/
+  state:
+    shortLink: https://webring.page.link/jxX2
 4fce6918c26bdefa22fac2d298989678:facebook:
   spec:
     title: มาทำ Email Management ฉบับ Getting Thing Done กัน [mikkipastel.com]
