@@ -910,6 +910,25 @@
     url: https://chrisza.me/security-part-of-solution/
   state:
     shortLink: https://webring.page.link/5ZoG
+5f3599f0d48dfb9110b4bafdfdd9f32e:facebook:
+  spec:
+    title: วันในสัปดาห์ [neizod.dev]
+    url: https://neizod.dev/2023/03/03/day-of-week.html
+  state:
+    id: '100746876247412_137071049282146'
+    url: https://www.facebook.com/100683012920950/posts/137071049282146
+5f3599f0d48dfb9110b4bafdfdd9f32e:mastodon:
+  spec:
+    title: วันในสัปดาห์ [neizod.dev]
+    url: https://neizod.dev/2023/03/03/day-of-week.html
+  state:
+    id: '109968530134808058'
+    url: https://mastodon.in.th/@webring/109968530134808058
+5f3599f0d48dfb9110b4bafdfdd9f32e:shorturl:
+  spec:
+    url: https://neizod.dev/2023/03/03/day-of-week.html
+  state:
+    shortLink: https://webring.page.link/rT1P
 5f43d4518c539e00a62a5f0c78c80fec:facebook:
   spec:
     title: บันทึกการเรียน Domain-Driven Design (DDD) by Roofimon 2023 [somkiat.cc]
