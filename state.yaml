@@ -587,6 +587,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%80%e0%b8%96%e0%b8%b2%e0%b8%b0%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%94%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%88%e0%b8%b5%e0%b9%89%e0%b8%a2/
   state:
     shortLink: https://webring.page.link/zbcm
+30bbdc93a62aaf9fc2e31c4c650d9bb5:facebook:
+  spec:
+    title: มือสมัครเล่นเมธอด [yothinix.com]
+    url: https://yothinix.com/amateur-method/
+  state:
+    id: '100746876247412_137329049256346'
+    url: https://www.facebook.com/100683012920950/posts/137329049256346
+30bbdc93a62aaf9fc2e31c4c650d9bb5:mastodon:
+  spec:
+    title: มือสมัครเล่นเมธอด [yothinix.com]
+    url: https://yothinix.com/amateur-method/
+  state:
+    id: '109970631722719458'
+    url: https://mastodon.in.th/@webring/109970631722719458
+30bbdc93a62aaf9fc2e31c4c650d9bb5:shorturl:
+  spec:
+    url: https://yothinix.com/amateur-method/
+  state:
+    shortLink: https://webring.page.link/tpPi
 3500e398c0e68f68e5f4904af7493fc5:facebook:
   spec:
     title: A guide for realistic estimation of project timeline [heyfirst.co]
