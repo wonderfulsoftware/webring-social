@@ -1366,6 +1366,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/azure-azure-automation-step-note/
   state:
     shortLink: https://webring.page.link/FP7q
+7e3176c9b3e38999104cc113741f43fb:facebook:
+  spec:
+    title: Re-stream Twitch to Facebook Live [garden.narze.live]
+    url: https://garden.narze.live/Re-stream-Twitch-to-Facebook-Live/
+  state:
+    id: '100746876247412_137234589265792'
+    url: https://www.facebook.com/100683012920950/posts/137234589265792
+7e3176c9b3e38999104cc113741f43fb:mastodon:
+  spec:
+    title: Re-stream Twitch to Facebook Live [garden.narze.live]
+    url: https://garden.narze.live/Re-stream-Twitch-to-Facebook-Live/
+  state:
+    id: '109969891681703978'
+    url: https://mastodon.in.th/@webring/109969891681703978
+7e3176c9b3e38999104cc113741f43fb:shorturl:
+  spec:
+    url: https://garden.narze.live/Re-stream-Twitch-to-Facebook-Live/
+  state:
+    shortLink: https://webring.page.link/dsw1
 81d84a9f29eb25ecd29b382c58ec5340:facebook:
   spec:
     title: Event-carried state transfer [boonsong.dev]
