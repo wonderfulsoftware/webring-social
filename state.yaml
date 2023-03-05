@@ -1594,6 +1594,25 @@
     url: https://kajame.xyz/blog/learning-typescript-02
   state:
     shortLink: https://webring.page.link/5AUZ
+922eab48507881bb4f74d8d6d892809b:facebook:
+  spec:
+    title: VS Code REST Client snippets [dt.in.th]
+    url: https://notes.dt.in.th/20220907T163410Z4258
+  state:
+    id: '100746876247412_137150222607562'
+    url: https://www.facebook.com/100683012920950/posts/137150222607562
+922eab48507881bb4f74d8d6d892809b:mastodon:
+  spec:
+    title: VS Code REST Client snippets [dt.in.th]
+    url: https://notes.dt.in.th/20220907T163410Z4258
+  state:
+    id: '109969193977152363'
+    url: https://mastodon.in.th/@webring/109969193977152363
+922eab48507881bb4f74d8d6d892809b:shorturl:
+  spec:
+    url: https://notes.dt.in.th/20220907T163410Z4258
+  state:
+    shortLink: https://webring.page.link/Pnpn
 92549b8bf349a2a22d83de826f181ba1:facebook:
   spec:
     title: 2022 [llun.me]
