@@ -1233,6 +1233,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/com-interop-is-broken-runtime-error-3001-when-using-visual-studio-2022/
   state:
     shortLink: https://webring.page.link/oS2G
+710f0b3cca25e6e7d188ee519b80c362:facebook:
+  spec:
+    title: ทำความเข้าใจ “MQTT with TLS” ใน AWS IoT Core สักหน่อย [thanapon.info]
+    url: https://thanapon.info/mqtt-with-tls-on-aws-iot-core/
+  state:
+    id: '100746876247412_137887622533822'
+    url: https://www.facebook.com/100683012920950/posts/137887622533822
+710f0b3cca25e6e7d188ee519b80c362:mastodon:
+  spec:
+    title: ทำความเข้าใจ “MQTT with TLS” ใน AWS IoT Core สักหน่อย [thanapon.info]
+    url: https://thanapon.info/mqtt-with-tls-on-aws-iot-core/
+  state:
+    id: '109974862624421083'
+    url: https://mastodon.in.th/@webring/109974862624421083
+710f0b3cca25e6e7d188ee519b80c362:shorturl:
+  spec:
+    url: https://thanapon.info/mqtt-with-tls-on-aws-iot-core/
+  state:
+    shortLink: https://webring.page.link/2Lsm
 73fe2aaf265fa72a5d137b2c4aaa993e:facebook:
   spec:
     title: LTF 7 ปีปฏิทิน [debuggingsoft.com]
