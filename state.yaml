@@ -948,6 +948,25 @@
     url: https://chrisza.me/security-part-of-solution/
   state:
     shortLink: https://webring.page.link/5ZoG
+5c238235eed4cca2b6aaf8aa639ce5dc:facebook:
+  spec:
+    title: สรุปการอ่านเรื่อง How Levels.fyi scaled to millions of users with Google Sheets as a backend [somkiat.cc]
+    url: https://www.somkiat.cc/note-how-levels-fyi-scaled-to-millions-of-users/
+  state:
+    id: '100746876247412_137806142541970'
+    url: https://www.facebook.com/100683012920950/posts/137806142541970
+5c238235eed4cca2b6aaf8aa639ce5dc:mastodon:
+  spec:
+    title: สรุปการอ่านเรื่อง How Levels.fyi scaled to millions of users with Google Sheets as a backend [somkiat.cc]
+    url: https://www.somkiat.cc/note-how-levels-fyi-scaled-to-millions-of-users/
+  state:
+    id: '109974167811119266'
+    url: https://mastodon.in.th/@webring/109974167811119266
+5c238235eed4cca2b6aaf8aa639ce5dc:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-how-levels-fyi-scaled-to-millions-of-users/
+  state:
+    shortLink: https://webring.page.link/Dwcj
 5f3599f0d48dfb9110b4bafdfdd9f32e:facebook:
   spec:
     title: วันในสัปดาห์ [neizod.dev]
