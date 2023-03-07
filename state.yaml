@@ -2157,6 +2157,25 @@ c11ccd22ab6cae47592c226711b462d6:shorturl:
     url: https://tech.duckfollow.co/view/unknow-path
   state:
     shortLink: https://webring.page.link/2Vqw
+c1257fa0dcb6cbe73fb7a6cc3e8e9aef:facebook:
+  spec:
+    title: สรุปการเรียนคอร์สเจาะลึก NFT และ DeFi ปูพื้นฐานแบบจัดเต็ม ของ NFT360 [mikkipastel.com]
+    url: https://www.mikkipastel.com/online-course-nft-defi-foundametal-from-nft360/
+  state:
+    id: '100746876247412_138567372465847'
+    url: https://www.facebook.com/100683012920950/posts/138567372465847
+c1257fa0dcb6cbe73fb7a6cc3e8e9aef:mastodon:
+  spec:
+    title: สรุปการเรียนคอร์สเจาะลึก NFT และ DeFi ปูพื้นฐานแบบจัดเต็ม ของ NFT360 [mikkipastel.com]
+    url: https://www.mikkipastel.com/online-course-nft-defi-foundametal-from-nft360/
+  state:
+    id: '109979859226567906'
+    url: https://mastodon.in.th/@webring/109979859226567906
+c1257fa0dcb6cbe73fb7a6cc3e8e9aef:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/online-course-nft-defi-foundametal-from-nft360/
+  state:
+    shortLink: https://webring.page.link/mWep
 c25a1751edc8f9642937cb00ebca5982:facebook:
   spec:
     title: Building a Second Brain [garden.narze.live]
