@@ -2195,6 +2195,25 @@ c25a1751edc8f9642937cb00ebca5982:shorturl:
     url: https://garden.narze.live/Data-Sci-Bootcamp/Building-a-Second-Brain/
   state:
     shortLink: https://webring.page.link/RXsQ
+c3193ffcaffd320559c1a9a413e91abd:facebook:
+  spec:
+    title: ว่าด้วยเรื่องของ Law of Demeter ในการออกแบบ service [somkiat.cc]
+    url: https://www.somkiat.cc/law-of-demeter-with-service/
+  state:
+    id: '100746876247412_138648835791034'
+    url: https://www.facebook.com/100683012920950/posts/138648835791034
+c3193ffcaffd320559c1a9a413e91abd:mastodon:
+  spec:
+    title: ว่าด้วยเรื่องของ Law of Demeter ในการออกแบบ service [somkiat.cc]
+    url: https://www.somkiat.cc/law-of-demeter-with-service/
+  state:
+    id: '109980523188689521'
+    url: https://mastodon.in.th/@webring/109980523188689521
+c3193ffcaffd320559c1a9a413e91abd:shorturl:
+  spec:
+    url: https://www.somkiat.cc/law-of-demeter-with-service/
+  state:
+    shortLink: https://webring.page.link/ikAn
 c398c50193817b68dc475a64923a4c0d:facebook:
   spec:
     title: 'เรื่องราวอันน่าทึ่งเกี่ยวกับคอมพิวเตอร์: จากเครื่องคิดเลขโบราณสู่เครื่องจักรสมัยใหม่ [tinarskii.com]'
