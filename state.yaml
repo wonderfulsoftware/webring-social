@@ -1119,6 +1119,25 @@
     url: https://www.poolsawat.com/golang-grpc-advantages/
   state:
     shortLink: https://webring.page.link/kod8
+67deb859d6379ebb0377bcdb28d8cba0:facebook:
+  spec:
+    title: บันทึกการสั่ง Lenovo แบบ Build Your Own Laptop (Custom Spec) / Note ช๊อปดีมีคืน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/03/buy-lenovo-build-your-own-laptop-custom-spec/
+  state:
+    id: '100746876247412_139317579057493'
+    url: https://www.facebook.com/100683012920950/posts/139317579057493
+67deb859d6379ebb0377bcdb28d8cba0:mastodon:
+  spec:
+    title: บันทึกการสั่ง Lenovo แบบ Build Your Own Laptop (Custom Spec) / Note ช๊อปดีมีคืน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/03/buy-lenovo-build-your-own-laptop-custom-spec/
+  state:
+    id: '109985498137699890'
+    url: https://mastodon.in.th/@webring/109985498137699890
+67deb859d6379ebb0377bcdb28d8cba0:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/03/buy-lenovo-build-your-own-laptop-custom-spec/
+  state:
+    shortLink: https://webring.page.link/qsao
 67fe74d65f21a00cc2d92cb5d337445f:facebook:
   spec:
     title: Begin with the end in mind [myifew.com]
