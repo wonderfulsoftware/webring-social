@@ -1252,6 +1252,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/com-interop-is-broken-runtime-error-3001-when-using-visual-studio-2022/
   state:
     shortLink: https://webring.page.link/oS2G
+6ea664674e5299a96e34f7346ae67060:facebook:
+  spec:
+    title: Wishlist [garden.narze.live]
+    url: https://garden.narze.live/Wishlist/
+  state:
+    id: '100746876247412_140090995646818'
+    url: https://www.facebook.com/100683012920950/posts/140090995646818
+6ea664674e5299a96e34f7346ae67060:mastodon:
+  spec:
+    title: Wishlist [garden.narze.live]
+    url: https://garden.narze.live/Wishlist/
+  state:
+    id: '109991160939029711'
+    url: https://mastodon.in.th/@webring/109991160939029711
+6ea664674e5299a96e34f7346ae67060:shorturl:
+  spec:
+    url: https://garden.narze.live/Wishlist/
+  state:
+    shortLink: https://webring.page.link/ESDb
 710f0b3cca25e6e7d188ee519b80c362:facebook:
   spec:
     title: ทำความเข้าใจ “MQTT with TLS” ใน AWS IoT Core สักหน่อย [thanapon.info]
