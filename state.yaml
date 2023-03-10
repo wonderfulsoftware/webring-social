@@ -1461,6 +1461,25 @@
     url: https://www.mikkipastel.com/creating-kick-ass-content-with-productive-thinking-method/
   state:
     shortLink: https://webring.page.link/JKzj
+788b822f1d2bb7d0aa070b35a7c53d91:facebook:
+  spec:
+    title: '[Jenkins] Jenkins not able to fetch code from remote git [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/03/jenkins-jenkins-not-able-to-fetch-code-from-remote-git/
+  state:
+    id: '100746876247412_140984708890780'
+    url: https://www.facebook.com/100683012920950/posts/140984708890780
+788b822f1d2bb7d0aa070b35a7c53d91:mastodon:
+  spec:
+    title: '[Jenkins] Jenkins not able to fetch code from remote git [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/03/jenkins-jenkins-not-able-to-fetch-code-from-remote-git/
+  state:
+    id: '109998207899902802'
+    url: https://mastodon.in.th/@webring/109998207899902802
+788b822f1d2bb7d0aa070b35a7c53d91:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/03/jenkins-jenkins-not-able-to-fetch-code-from-remote-git/
+  state:
+    shortLink: https://webring.page.link/UCGv
 7a61d125d31a83687d9b20aaa4acb3d2:facebook:
   spec:
     title: ตัวอย่าง Github Action สำหรับ Push Docker image ไปที่ Github Package (Kotlin + Spring) [taoisaman.com]
