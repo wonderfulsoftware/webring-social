@@ -644,6 +644,25 @@
     url: https://garden.narze.live/VSCode-Extension-Pack/
   state:
     shortLink: https://webring.page.link/SiJ8
+3808dbfe4969925f92be092d2781b80f:facebook:
+  spec:
+    title: บันทึกปัญหา ./mvnw not found ใน Dockerfile [somkiat.cc]
+    url: https://www.somkiat.cc/problem-mvnw-not-found-with-docker-windows/
+  state:
+    id: '100746876247412_140905155565402'
+    url: https://www.facebook.com/100683012920950/posts/140905155565402
+3808dbfe4969925f92be092d2781b80f:mastodon:
+  spec:
+    title: บันทึกปัญหา ./mvnw not found ใน Dockerfile [somkiat.cc]
+    url: https://www.somkiat.cc/problem-mvnw-not-found-with-docker-windows/
+  state:
+    id: '109997512753998997'
+    url: https://mastodon.in.th/@webring/109997512753998997
+3808dbfe4969925f92be092d2781b80f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/problem-mvnw-not-found-with-docker-windows/
+  state:
+    shortLink: https://webring.page.link/NGjm
 38dc10cca8ec00e60151ccf9effb8c9f:facebook:
   spec:
     title: สร้าง Excel Timesheet ด้วย Python กับ ChatGPT [janescience.com]
