@@ -758,6 +758,25 @@
     url: https://mesodiar.com/setting-up-kafka-with-kafka-connect-from-sql-server-to-cloud-storage-gcs-6b980437a926?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/F4RN
+4a4b8e33434fe6a84aba6376e0ca985d:facebook:
+  spec:
+    title: วิธีสลับ Node.js หลายๆ version ในเครื่องเดียว โดยไม่ต้องลงใหม่ซ้ำๆ (วิธีใช้ n – Interactively Manage Your Node.js Versions) [toupawa.com]
+    url: https://toupawa.com/how-to-use-the-interactively-manage-your-nodejs-versions-library/
+  state:
+    id: '100746876247412_140826265573291'
+    url: https://www.facebook.com/100683012920950/posts/140826265573291
+4a4b8e33434fe6a84aba6376e0ca985d:mastodon:
+  spec:
+    title: วิธีสลับ Node.js หลายๆ version ในเครื่องเดียว โดยไม่ต้องลงใหม่ซ้ำๆ (วิธีใช้ n – Interactively Manage Your Node.js Versions) [toupawa.com]
+    url: https://toupawa.com/how-to-use-the-interactively-manage-your-nodejs-versions-library/
+  state:
+    id: '109996834552215036'
+    url: https://mastodon.in.th/@webring/109996834552215036
+4a4b8e33434fe6a84aba6376e0ca985d:shorturl:
+  spec:
+    url: https://toupawa.com/how-to-use-the-interactively-manage-your-nodejs-versions-library/
+  state:
+    shortLink: https://webring.page.link/akbp
 4b80787b4ee3589b0b1f03f6f0a60356:facebook:
   spec:
     title: 'Go 1.20​ :: การใช้งาน multiple error [somkiat.cc]'
