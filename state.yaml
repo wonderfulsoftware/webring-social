@@ -2746,6 +2746,25 @@ e600a6d6806cce4cbce4774cdd30283c:shorturl:
     url: https://blog.oatto.dev/2023/01/22/recap-2022.html
   state:
     shortLink: https://webring.page.link/w32e
+eb5e4a06a6444396d5198023c5e650dc:facebook:
+  spec:
+    title: สอนแคปจอบน macbook แบบจับมือทำ [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-capture-macbook-screen/
+  state:
+    id: '100746876247412_141628532159731'
+    url: https://www.facebook.com/100683012920950/posts/141628532159731
+eb5e4a06a6444396d5198023c5e650dc:mastodon:
+  spec:
+    title: สอนแคปจอบน macbook แบบจับมือทำ [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-capture-macbook-screen/
+  state:
+    id: '110003166790844379'
+    url: https://mastodon.in.th/@webring/110003166790844379
+eb5e4a06a6444396d5198023c5e650dc:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/how-to-capture-macbook-screen/
+  state:
+    shortLink: https://webring.page.link/hneJ
 ec58600cd82560a725f20b89864bd793:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 5 - Open 24 Hours [devahoy.com]
