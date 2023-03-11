@@ -777,6 +777,25 @@
     url: https://mesodiar.com/setting-up-kafka-with-kafka-connect-from-sql-server-to-cloud-storage-gcs-6b980437a926?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/F4RN
+4a1eae93004543cecb46f5fb9a7b73d2:facebook:
+  spec:
+    title: เปิดใช้งาน Navigating files with the new code view (beta) ใน GitHub [somkiat.cc]
+    url: https://www.somkiat.cc/github-view-code/
+  state:
+    id: '100746876247412_141706165485301'
+    url: https://www.facebook.com/100683012920950/posts/141706165485301
+4a1eae93004543cecb46f5fb9a7b73d2:mastodon:
+  spec:
+    title: เปิดใช้งาน Navigating files with the new code view (beta) ใน GitHub [somkiat.cc]
+    url: https://www.somkiat.cc/github-view-code/
+  state:
+    id: '110003862582970555'
+    url: https://mastodon.in.th/@webring/110003862582970555
+4a1eae93004543cecb46f5fb9a7b73d2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/github-view-code/
+  state:
+    shortLink: https://webring.page.link/7eu4
 4a4b8e33434fe6a84aba6376e0ca985d:facebook:
   spec:
     title: วิธีสลับ Node.js หลายๆ version ในเครื่องเดียว โดยไม่ต้องลงใหม่ซ้ำๆ (วิธีใช้ n – Interactively Manage Your Node.js Versions) [toupawa.com]
