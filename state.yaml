@@ -1480,6 +1480,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/jenkins-jenkins-not-able-to-fetch-code-from-remote-git/
   state:
     shortLink: https://webring.page.link/UCGv
+7949544f3efc0ccc9026ec651b6967cd:facebook:
+  spec:
+    title: Disappearing combining marks in Discord (ปัญหาสระกับวรรณยุกต์หาย) [dt.in.th]
+    url: https://notes.dt.in.th/DiscordThaiCombiningMarks
+  state:
+    id: '100746876247412_141546678834583'
+    url: https://www.facebook.com/100683012920950/posts/141546678834583
+7949544f3efc0ccc9026ec651b6967cd:mastodon:
+  spec:
+    title: Disappearing combining marks in Discord (ปัญหาสระกับวรรณยุกต์หาย) [dt.in.th]
+    url: https://notes.dt.in.th/DiscordThaiCombiningMarks
+  state:
+    id: '110002451873085020'
+    url: https://mastodon.in.th/@webring/110002451873085020
+7949544f3efc0ccc9026ec651b6967cd:shorturl:
+  spec:
+    url: https://notes.dt.in.th/DiscordThaiCombiningMarks
+  state:
+    shortLink: https://webring.page.link/HCj7
 7a61d125d31a83687d9b20aaa4acb3d2:facebook:
   spec:
     title: ตัวอย่าง Github Action สำหรับ Push Docker image ไปที่ Github Package (Kotlin + Spring) [taoisaman.com]
