@@ -1765,6 +1765,25 @@
     url: https://www.somkiat.cc/hello-dart-3/
   state:
     shortLink: https://webring.page.link/tcJ7
+8efbb17c7036b2abaf60c843510044a7:facebook:
+  spec:
+    title: Run Spring Boot ด้วย Docker Compose [janescience.com]
+    url: https://janescience.com/blog/springboot-docker
+  state:
+    id: '100746876247412_142270325428885'
+    url: https://www.facebook.com/100683012920950/posts/142270325428885
+8efbb17c7036b2abaf60c843510044a7:mastodon:
+  spec:
+    title: Run Spring Boot ด้วย Docker Compose [janescience.com]
+    url: https://janescience.com/blog/springboot-docker
+  state:
+    id: '110008120758963397'
+    url: https://mastodon.in.th/@webring/110008120758963397
+8efbb17c7036b2abaf60c843510044a7:shorturl:
+  spec:
+    url: https://janescience.com/blog/springboot-docker
+  state:
+    shortLink: https://webring.page.link/8CEX
 8fdbccf1e100abece85cb78ca94e3814:facebook:
   spec:
     title: Store git directory externally [garden.narze.live]
