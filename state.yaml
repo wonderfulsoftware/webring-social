@@ -2822,6 +2822,25 @@ e600a6d6806cce4cbce4774cdd30283c:shorturl:
     url: https://blog.oatto.dev/2023/01/22/recap-2022.html
   state:
     shortLink: https://webring.page.link/w32e
+e7ffbaa2fda5aefedc5070c362d68517:facebook:
+  spec:
+    title: เมื่อ DEV ลองไป Workshop Azure Cloud Adoption Framework [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/03/developer-take-workshop-cloud-adoption-framework/
+  state:
+    id: '100746876247412_143173105338607'
+    url: https://www.facebook.com/100683012920950/posts/143173105338607
+e7ffbaa2fda5aefedc5070c362d68517:mastodon:
+  spec:
+    title: เมื่อ DEV ลองไป Workshop Azure Cloud Adoption Framework [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/03/developer-take-workshop-cloud-adoption-framework/
+  state:
+    id: '110015194325026662'
+    url: https://mastodon.in.th/@webring/110015194325026662
+e7ffbaa2fda5aefedc5070c362d68517:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/03/developer-take-workshop-cloud-adoption-framework/
+  state:
+    shortLink: https://webring.page.link/kg2y
 eb5e4a06a6444396d5198023c5e650dc:facebook:
   spec:
     title: สอนแคปจอบน macbook แบบจับมือทำ [mikkipastel.com]
