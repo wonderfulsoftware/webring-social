@@ -2442,6 +2442,25 @@ c933e277bd4b40830366b1f3ef12a5c5:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-02/
   state:
     shortLink: https://webring.page.link/Jjch
+cbedb9317a83e62f89c145a9be52d5f9:facebook:
+  spec:
+    title: Feeds 2.5, bring back files database [llun.me]
+    url: https://www.llun.me/posts/dev/2023-03-12-feeds-2-5
+  state:
+    id: '100746876247412_143096565346261'
+    url: https://www.facebook.com/100683012920950/posts/143096565346261
+cbedb9317a83e62f89c145a9be52d5f9:mastodon:
+  spec:
+    title: Feeds 2.5, bring back files database [llun.me]
+    url: https://www.llun.me/posts/dev/2023-03-12-feeds-2-5
+  state:
+    id: '110014497795422174'
+    url: https://mastodon.in.th/@webring/110014497795422174
+cbedb9317a83e62f89c145a9be52d5f9:shorturl:
+  spec:
+    url: https://www.llun.me/posts/dev/2023-03-12-feeds-2-5
+  state:
+    shortLink: https://webring.page.link/zznM
 cbf22d74bdf5a85bd8b44bc46fcb9435:facebook:
   spec:
     title: 'Flutter :: ปัญหา Unable to find bundled Java version [somkiat.cc]'
