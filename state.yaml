@@ -1575,6 +1575,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/azure-azure-automation-step-note/
   state:
     shortLink: https://webring.page.link/FP7q
+7c658137813c3ecb6c211162468bc3ec:facebook:
+  spec:
+    title: Working how to work [yothinix.com]
+    url: https://yothinix.com/working-how-to-work/
+  state:
+    id: '100746876247412_142999212022663'
+    url: https://www.facebook.com/100683012920950/posts/142999212022663
+7c658137813c3ecb6c211162468bc3ec:mastodon:
+  spec:
+    title: Working how to work [yothinix.com]
+    url: https://yothinix.com/working-how-to-work/
+  state:
+    id: '110013779154760665'
+    url: https://mastodon.in.th/@webring/110013779154760665
+7c658137813c3ecb6c211162468bc3ec:shorturl:
+  spec:
+    url: https://yothinix.com/working-how-to-work/
+  state:
+    shortLink: https://webring.page.link/o1tu
 7e3176c9b3e38999104cc113741f43fb:facebook:
   spec:
     title: Re-stream Twitch to Facebook Live [garden.narze.live]
