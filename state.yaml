@@ -1347,6 +1347,25 @@
     url: https://thanapon.info/mqtt-with-tls-on-aws-iot-core/
   state:
     shortLink: https://webring.page.link/2Lsm
+719a52379b6e25e45b6784ba80e4ef9f:facebook:
+  spec:
+    title: อันตรายจากดอกเบี้ยบัตรเครดิต [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/credit-card
+  state:
+    id: '100746876247412_143261605329757'
+    url: https://www.facebook.com/100683012920950/posts/143261605329757
+719a52379b6e25e45b6784ba80e4ef9f:mastodon:
+  spec:
+    title: อันตรายจากดอกเบี้ยบัตรเครดิต [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/credit-card
+  state:
+    id: '110015938151023043'
+    url: https://mastodon.in.th/@webring/110015938151023043
+719a52379b6e25e45b6784ba80e4ef9f:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/credit-card
+  state:
+    shortLink: https://webring.page.link/KBGB
 73fe2aaf265fa72a5d137b2c4aaa993e:facebook:
   spec:
     title: LTF 7 ปีปฏิทิน [debuggingsoft.com]
