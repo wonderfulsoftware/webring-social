@@ -2765,6 +2765,25 @@ e101590fcf2c113c902ecdebce745d7d:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/02/az-400-design-and-implement-a-dependency-management-strategy/
   state:
     shortLink: https://webring.page.link/aQBF
+e26b1ce7725ecedcb308343064e4b7ae:facebook:
+  spec:
+    title: แบบจำลองหน้าคลื่น และเพื่อนบ้านในสวนผลไม้ [neizod.dev]
+    url: https://neizod.dev/2023/03/14/wavefront-simulation-and-neighbors-in-euclid-orchard.html
+  state:
+    id: '100746876247412_144652041857380'
+    url: https://www.facebook.com/100683012920950/posts/144652041857380
+e26b1ce7725ecedcb308343064e4b7ae:mastodon:
+  spec:
+    title: แบบจำลองหน้าคลื่น และเพื่อนบ้านในสวนผลไม้ [neizod.dev]
+    url: https://neizod.dev/2023/03/14/wavefront-simulation-and-neighbors-in-euclid-orchard.html
+  state:
+    id: '110026517228848393'
+    url: https://mastodon.in.th/@webring/110026517228848393
+e26b1ce7725ecedcb308343064e4b7ae:shorturl:
+  spec:
+    url: https://neizod.dev/2023/03/14/wavefront-simulation-and-neighbors-in-euclid-orchard.html
+  state:
+    shortLink: https://webring.page.link/bn1F
 e29c6f2358bde3729584684d4e296a57:facebook:
   spec:
     title: Art Trade - Papang_uvu [lucian.solutions]
