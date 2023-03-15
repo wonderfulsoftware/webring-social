@@ -568,6 +568,25 @@
     url: https://www.mikkipastel.com/review-blog-2022/
   state:
     shortLink: https://webring.page.link/PVwT
+2fc2c1104cbd7ff88b764194c7be9017:facebook:
+  spec:
+    title: เปิดใช้งาน Device mirroring ใน Android Studio [somkiat.cc]
+    url: https://www.somkiat.cc/device-mirroring-in-android-studio/
+  state:
+    id: '100746876247412_144741528515098'
+    url: https://www.facebook.com/100683012920950/posts/144741528515098
+2fc2c1104cbd7ff88b764194c7be9017:mastodon:
+  spec:
+    title: เปิดใช้งาน Device mirroring ใน Android Studio [somkiat.cc]
+    url: https://www.somkiat.cc/device-mirroring-in-android-studio/
+  state:
+    id: '110027259239855181'
+    url: https://mastodon.in.th/@webring/110027259239855181
+2fc2c1104cbd7ff88b764194c7be9017:shorturl:
+  spec:
+    url: https://www.somkiat.cc/device-mirroring-in-android-studio/
+  state:
+    shortLink: https://webring.page.link/6P4M
 308d6911f2a8f3c648cb15aaecd28812:facebook:
   spec:
     title: '#แก้ชงปีเถาะ ที่ดันเจี้ยนวัดมังกรกมลาวาส และวัดทิพยวารีวิหาร [debuggingsoft.com]'
