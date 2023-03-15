@@ -2860,6 +2860,25 @@ e7ffbaa2fda5aefedc5070c362d68517:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/03/developer-take-workshop-cloud-adoption-framework/
   state:
     shortLink: https://webring.page.link/kg2y
+eb0790c64e191757d86fea5fd81b597a:facebook:
+  spec:
+    title: เพิ่มการป้องกัน CSRF ให้กับ Spring Security [janescience.com]
+    url: https://janescience.com/blog/csrf-spring-security
+  state:
+    id: '100746876247412_144488951873689'
+    url: https://www.facebook.com/100683012920950/posts/144488951873689
+eb0790c64e191757d86fea5fd81b597a:mastodon:
+  spec:
+    title: เพิ่มการป้องกัน CSRF ให้กับ Spring Security [janescience.com]
+    url: https://janescience.com/blog/csrf-spring-security
+  state:
+    id: '110025102647867490'
+    url: https://mastodon.in.th/@webring/110025102647867490
+eb0790c64e191757d86fea5fd81b597a:shorturl:
+  spec:
+    url: https://janescience.com/blog/csrf-spring-security
+  state:
+    shortLink: https://webring.page.link/BJsn
 eb5e4a06a6444396d5198023c5e650dc:facebook:
   spec:
     title: สอนแคปจอบน macbook แบบจับมือทำ [mikkipastel.com]
