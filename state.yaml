@@ -701,6 +701,25 @@
     url: https://edocstudio.info/
   state:
     shortLink: https://webring.page.link/s1pL
+3d31ebc1f0a724147625510543a4a7f5:facebook:
+  spec:
+    title: Riffy's trip across Southern Japan within 1 week [rayriffy.com]
+    url: https://blog.rayriffy.com/riffy-japan-idolmaster-trip-2023/
+  state:
+    id: '100746876247412_144571541865430'
+    url: https://www.facebook.com/100683012920950/posts/144571541865430
+3d31ebc1f0a724147625510543a4a7f5:mastodon:
+  spec:
+    title: Riffy's trip across Southern Japan within 1 week [rayriffy.com]
+    url: https://blog.rayriffy.com/riffy-japan-idolmaster-trip-2023/
+  state:
+    id: '110025820290757960'
+    url: https://mastodon.in.th/@webring/110025820290757960
+3d31ebc1f0a724147625510543a4a7f5:shorturl:
+  spec:
+    url: https://blog.rayriffy.com/riffy-japan-idolmaster-trip-2023/
+  state:
+    shortLink: https://webring.page.link/gyds
 3de5278b6c9ecfbb07e80c6440b820db:facebook:
   spec:
     title: 0256 | คำถามที่โดนถามบ่อยกับรถยนต์ไฟฟ้า [icez.net]
