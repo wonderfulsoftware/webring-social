@@ -872,6 +872,25 @@
     url: https://toupawa.com/how-to-use-the-interactively-manage-your-nodejs-versions-library/
   state:
     shortLink: https://webring.page.link/akbp
+4b0a5c5fa7c02874dd7b8e71a8901ffa:facebook:
+  spec:
+    title: Book highlights - The Staff Engineer's Path by Tanya Reilly [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/03/book-highlights---the-staff-engineers-path/
+  state:
+    id: '100746876247412_145267605129157'
+    url: https://www.facebook.com/100683012920950/posts/145267605129157
+4b0a5c5fa7c02874dd7b8e71a8901ffa:mastodon:
+  spec:
+    title: Book highlights - The Staff Engineer's Path by Tanya Reilly [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/03/book-highlights---the-staff-engineers-path/
+  state:
+    id: '110031482892872590'
+    url: https://mastodon.in.th/@webring/110031482892872590
+4b0a5c5fa7c02874dd7b8e71a8901ffa:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/03/book-highlights---the-staff-engineers-path/
+  state:
+    shortLink: https://webring.page.link/rhFG
 4b80787b4ee3589b0b1f03f6f0a60356:facebook:
   spec:
     title: 'Go 1.20​ :: การใช้งาน multiple error [somkiat.cc]'
