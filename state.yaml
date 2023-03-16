@@ -530,6 +530,25 @@
     url: https://notes.dt.in.th/20230109T134032Z1877
   state:
     shortLink: https://webring.page.link/rQcE
+2de1312d1b14253e8d3bced8809d6cdc:facebook:
+  spec:
+    title: มาแล้วนะ OWASP Kubernetes Top 10 [somkiat.cc]
+    url: https://www.somkiat.cc/owasp-kubernetes-top-10/
+  state:
+    id: '100746876247412_145180105137907'
+    url: https://www.facebook.com/100683012920950/posts/145180105137907
+2de1312d1b14253e8d3bced8809d6cdc:mastodon:
+  spec:
+    title: มาแล้วนะ OWASP Kubernetes Top 10 [somkiat.cc]
+    url: https://www.somkiat.cc/owasp-kubernetes-top-10/
+  state:
+    id: '110030765171871013'
+    url: https://mastodon.in.th/@webring/110030765171871013
+2de1312d1b14253e8d3bced8809d6cdc:shorturl:
+  spec:
+    url: https://www.somkiat.cc/owasp-kubernetes-top-10/
+  state:
+    shortLink: https://webring.page.link/EAw9
 2e36d527a9401e8f93378cd517afca1d:facebook:
   spec:
     title: Firestore [llun.me]
