@@ -1404,6 +1404,25 @@
     url: https://garden.narze.live/Wishlist/
   state:
     shortLink: https://webring.page.link/ESDb
+6f9d5af493ea79179ca0a007f1c5595e:facebook:
+  spec:
+    title: Book highlights - Engineering Management for the Rest of Us by Sarah Drasner [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/03/book-highlights---engineering-management-for-the-rest-of-us-by-sarah-drasner/
+  state:
+    id: '100746876247412_145897215066196'
+    url: https://www.facebook.com/100683012920950/posts/145897215066196
+6f9d5af493ea79179ca0a007f1c5595e:mastodon:
+  spec:
+    title: Book highlights - Engineering Management for the Rest of Us by Sarah Drasner [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/03/book-highlights---engineering-management-for-the-rest-of-us-by-sarah-drasner/
+  state:
+    id: '110036427347670856'
+    url: https://mastodon.in.th/@webring/110036427347670856
+6f9d5af493ea79179ca0a007f1c5595e:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/03/book-highlights---engineering-management-for-the-rest-of-us-by-sarah-drasner/
+  state:
+    shortLink: https://webring.page.link/LVc9
 710f0b3cca25e6e7d188ee519b80c362:facebook:
   spec:
     title: ทำความเข้าใจ “MQTT with TLS” ใน AWS IoT Core สักหน่อย [thanapon.info]
