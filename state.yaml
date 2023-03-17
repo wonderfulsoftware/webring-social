@@ -2575,6 +2575,25 @@ c933e277bd4b40830366b1f3ef12a5c5:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-02/
   state:
     shortLink: https://webring.page.link/Jjch
+c99b1e9def970c889ddda3b38c595c56:facebook:
+  spec:
+    title: '[SonarQube] Fixed Exception in thread “Report about progress of Java XML analyzer” java.lang.OutOfMemoryError: Java heap space [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/03/sonarqube-fixed-exception-in-thread-report-about-progress-of-java-xml-analyzer-java-lang-outofmemoryerror-java-heap-space/
+  state:
+    id: '100746876247412_145986285057289'
+    url: https://www.facebook.com/100683012920950/posts/145986285057289
+c99b1e9def970c889ddda3b38c595c56:mastodon:
+  spec:
+    title: '[SonarQube] Fixed Exception in thread “Report about progress of Java XML analyzer” java.lang.OutOfMemoryError: Java heap space [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/03/sonarqube-fixed-exception-in-thread-report-about-progress-of-java-xml-analyzer-java-lang-outofmemoryerror-java-heap-space/
+  state:
+    id: '110037139169213402'
+    url: https://mastodon.in.th/@webring/110037139169213402
+c99b1e9def970c889ddda3b38c595c56:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/03/sonarqube-fixed-exception-in-thread-report-about-progress-of-java-xml-analyzer-java-lang-outofmemoryerror-java-heap-space/
+  state:
+    shortLink: https://webring.page.link/12D1
 cbedb9317a83e62f89c145a9be52d5f9:facebook:
   spec:
     title: Feeds 2.5, bring back files database [llun.me]
