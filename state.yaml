@@ -2183,6 +2183,25 @@ a2ddaf898161aef37c0bc75f362600b0:shorturl:
     url: https://www.somkiat.cc/observability-driven-development/
   state:
     shortLink: https://webring.page.link/zsoA
+a474c8fc55f6da5107eba26e954e282b:facebook:
+  spec:
+    title: สอนแคปจอจาก Google Chrome แบบจับมือทำ [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-capture-website-from-google-chrome/
+  state:
+    id: '100746876247412_146730221649562'
+    url: https://www.facebook.com/100683012920950/posts/146730221649562
+a474c8fc55f6da5107eba26e954e282b:mastodon:
+  spec:
+    title: สอนแคปจอจาก Google Chrome แบบจับมือทำ [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-capture-website-from-google-chrome/
+  state:
+    id: '110042803032733824'
+    url: https://mastodon.in.th/@webring/110042803032733824
+a474c8fc55f6da5107eba26e954e282b:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/how-to-capture-website-from-google-chrome/
+  state:
+    shortLink: https://webring.page.link/QVgK
 a4f45033b6dafefc4eedb1e9c8f10387:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 4 - Click Me! [devahoy.com]
