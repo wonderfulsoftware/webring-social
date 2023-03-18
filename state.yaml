@@ -1784,6 +1784,25 @@
     url: https://www.somkiat.cc/pythagora-for-integration-test-with-express/
   state:
     shortLink: https://webring.page.link/erg2
+84fcb6eb24e640f662b8df6ab6c9e0f0:facebook:
+  spec:
+    title: Terraform RDS module with DNS setup [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/03/terraform-rds-module-with-dns-setup/
+  state:
+    id: '100746876247412_146646824991235'
+    url: https://www.facebook.com/100683012920950/posts/146646824991235
+84fcb6eb24e640f662b8df6ab6c9e0f0:mastodon:
+  spec:
+    title: Terraform RDS module with DNS setup [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/03/terraform-rds-module-with-dns-setup/
+  state:
+    id: '110042088067774222'
+    url: https://mastodon.in.th/@webring/110042088067774222
+84fcb6eb24e640f662b8df6ab6c9e0f0:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/03/terraform-rds-module-with-dns-setup/
+  state:
+    shortLink: https://webring.page.link/smFS
 857ae34cca990010e7d961fdf61ac9eb:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 6 (Product Backlog Refinement) [taoisaman.com]
