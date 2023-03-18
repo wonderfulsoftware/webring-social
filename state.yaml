@@ -2974,6 +2974,25 @@ e4197f4a991b29b7c76210f790551be8:shorturl:
     url: https://www.somkiat.cc/how-to-email-testing/
   state:
     shortLink: https://webring.page.link/bLSX
+e449fb0997ca630fabe01dcd6d6a45d2:facebook:
+  spec:
+    title: ว่าง ๆ ลองไปถาม ChatGPT ว่า ใน Software development ถามอะไรได้บ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/chatgpt-prompt-in-software-development/
+  state:
+    id: '100746876247412_146807418308509'
+    url: https://www.facebook.com/100683012920950/posts/146807418308509
+e449fb0997ca630fabe01dcd6d6a45d2:mastodon:
+  spec:
+    title: ว่าง ๆ ลองไปถาม ChatGPT ว่า ใน Software development ถามอะไรได้บ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/chatgpt-prompt-in-software-development/
+  state:
+    id: '110043498831840615'
+    url: https://mastodon.in.th/@webring/110043498831840615
+e449fb0997ca630fabe01dcd6d6a45d2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/chatgpt-prompt-in-software-development/
+  state:
+    shortLink: https://webring.page.link/ZD1y
 e45e8be966d95d303e1a0c525d2c09af:facebook:
   spec:
     title: SQL Cheatsheet [tech.duckfollow.co]
