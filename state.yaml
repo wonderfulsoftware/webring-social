@@ -2411,6 +2411,25 @@ b220dd9537e097e7bfe323aa295be7ef:shorturl:
     url: https://www.llun.me/posts/dev/2023-02-12-mastodon-timeline
   state:
     shortLink: https://webring.page.link/iL5t
+b79a1c96750fcb3f4c8bf911d46384f6:facebook:
+  spec:
+    title: ปัญหา Vue.js เรียก API แล้วค้างไปเลย บน Cloud Server ขึ้นสถานะ Pending ตลอด [janescience.com]
+    url: https://janescience.com/blog/vue-warning
+  state:
+    id: '100746876247412_147356931586891'
+    url: https://www.facebook.com/100683012920950/posts/147356931586891
+b79a1c96750fcb3f4c8bf911d46384f6:mastodon:
+  spec:
+    title: ปัญหา Vue.js เรียก API แล้วค้างไปเลย บน Cloud Server ขึ้นสถานะ Pending ตลอด [janescience.com]
+    url: https://janescience.com/blog/vue-warning
+  state:
+    id: '110047758753137498'
+    url: https://mastodon.in.th/@webring/110047758753137498
+b79a1c96750fcb3f4c8bf911d46384f6:shorturl:
+  spec:
+    url: https://janescience.com/blog/vue-warning
+  state:
+    shortLink: https://webring.page.link/eWZT
 b7ed4ea6402e4dd022e2f8a43009eddb:mastodon:
   spec:
     title: 2022 [microbenz.in.th]
