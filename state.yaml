@@ -1252,6 +1252,25 @@
     url: https://www.poolsawat.com/golang-grpc-advantages/
   state:
     shortLink: https://webring.page.link/kod8
+667f6c455933e98472d5bc55ee2d5e0c:facebook:
+  spec:
+    title: SecretOps with teller [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/03/secretops-with-teller/
+  state:
+    id: '100746876247412_147526618236589'
+    url: https://www.facebook.com/100683012920950/posts/147526618236589
+667f6c455933e98472d5bc55ee2d5e0c:mastodon:
+  spec:
+    title: SecretOps with teller [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/03/secretops-with-teller/
+  state:
+    id: '110049162554502008'
+    url: https://mastodon.in.th/@webring/110049162554502008
+667f6c455933e98472d5bc55ee2d5e0c:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/03/secretops-with-teller/
+  state:
+    shortLink: https://webring.page.link/yJDS
 67deb859d6379ebb0377bcdb28d8cba0:facebook:
   spec:
     title: บันทึกการสั่ง Lenovo แบบ Build Your Own Laptop (Custom Spec) / Note ช๊อปดีมีคืน [debuggingsoft.com]
