@@ -93,6 +93,25 @@
     url: https://lucian.solutions/blog/happy-new-year-2023
   state:
     shortLink: https://webring.page.link/xXgp
+0b6b5210b72bf25f93c1e92d1943e83c:facebook:
+  spec:
+    title: Illustration - クルミ隊 💛❤️💙 [lucian.solutions]
+    url: https://lucian.solutions/blog/kurumi-tai-2023
+  state:
+    id: '100746876247412_147612524894665'
+    url: https://www.facebook.com/100683012920950/posts/147612524894665
+0b6b5210b72bf25f93c1e92d1943e83c:mastodon:
+  spec:
+    title: Illustration - クルミ隊 💛❤️💙 [lucian.solutions]
+    url: https://lucian.solutions/blog/kurumi-tai-2023
+  state:
+    id: '110049900325865203'
+    url: https://mastodon.in.th/@webring/110049900325865203
+0b6b5210b72bf25f93c1e92d1943e83c:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/kurumi-tai-2023
+  state:
+    shortLink: https://webring.page.link/We7t
 0c0656e4b47f6ff1a13511b3f3a1e346:facebook:
   spec:
     title: '[CR] Starbucks-Milk Pudding [debuggingsoft.com]'
