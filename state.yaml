@@ -2392,6 +2392,25 @@ afd1afebef5caf5636be6e145ec98f98:shorturl:
     url: https://mesodiar.com/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94-%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%B5-2022-7ffac94dd35f?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/tgzE
+b1414e295ee1b03de271abe597428804:facebook:
+  spec:
+    title: มาดูความสามารถใหม่ ๆ ใน Robot Framework 6.1 alpha 1 [somkiat.cc]
+    url: https://www.somkiat.cc/robot-framework-6-1-alpha-1/
+  state:
+    id: '100746876247412_147440844911833'
+    url: https://www.facebook.com/100683012920950/posts/147440844911833
+b1414e295ee1b03de271abe597428804:mastodon:
+  spec:
+    title: มาดูความสามารถใหม่ ๆ ใน Robot Framework 6.1 alpha 1 [somkiat.cc]
+    url: https://www.somkiat.cc/robot-framework-6-1-alpha-1/
+  state:
+    id: '110048469182985767'
+    url: https://mastodon.in.th/@webring/110048469182985767
+b1414e295ee1b03de271abe597428804:shorturl:
+  spec:
+    url: https://www.somkiat.cc/robot-framework-6-1-alpha-1/
+  state:
+    shortLink: https://webring.page.link/orFG
 b220dd9537e097e7bfe323aa295be7ef:facebook:
   spec:
     title: Mastodon timeline [llun.me]
