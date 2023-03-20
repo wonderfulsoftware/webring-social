@@ -853,6 +853,25 @@
     url: https://mesodiar.com/setting-up-kafka-with-kafka-connect-from-sql-server-to-cloud-storage-gcs-6b980437a926?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/F4RN
+44a91a881d7ed4ed0cb168ecffcab507:facebook:
+  spec:
+    title: Google Analytics v4 ingestion via BigQuery [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/03/google-analytics-v4-ingestion-via-bigquery/
+  state:
+    id: '100746876247412_148055398183711'
+    url: https://www.facebook.com/100683012920950/posts/148055398183711
+44a91a881d7ed4ed0cb168ecffcab507:mastodon:
+  spec:
+    title: Google Analytics v4 ingestion via BigQuery [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/03/google-analytics-v4-ingestion-via-bigquery/
+  state:
+    id: '110053414438623821'
+    url: https://mastodon.in.th/@webring/110053414438623821
+44a91a881d7ed4ed0cb168ecffcab507:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/03/google-analytics-v4-ingestion-via-bigquery/
+  state:
+    shortLink: https://webring.page.link/Y7yB
 4a1eae93004543cecb46f5fb9a7b73d2:facebook:
   spec:
     title: เปิดใช้งาน Navigating files with the new code view (beta) ใน GitHub [somkiat.cc]
