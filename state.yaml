@@ -454,6 +454,25 @@
     url: https://www.somkiat.cc/dotnet-with-native-aot/
   state:
     shortLink: https://webring.page.link/Qp7t
+27632b8758a243693f7af421e4e6f668:facebook:
+  spec:
+    title: เปิดใช้ Auto Detect Workout บน Huawei Watch FIT [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/03/enable-auto-detect-workout-on-huawei-watch-fit/
+  state:
+    id: '100746876247412_148138171508767'
+    url: https://www.facebook.com/100683012920950/posts/148138171508767
+27632b8758a243693f7af421e4e6f668:mastodon:
+  spec:
+    title: เปิดใช้ Auto Detect Workout บน Huawei Watch FIT [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/03/enable-auto-detect-workout-on-huawei-watch-fit/
+  state:
+    id: '110054134542387026'
+    url: https://mastodon.in.th/@webring/110054134542387026
+27632b8758a243693f7af421e4e6f668:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/03/enable-auto-detect-workout-on-huawei-watch-fit/
+  state:
+    shortLink: https://webring.page.link/JfHF
 298873105333d3496c30815bb1b2bf39:facebook:
   spec:
     title: สรุป National Coding Day 2023#01 [debuggingsoft.com]
