@@ -2221,6 +2221,25 @@
     url: https://notes.dt.in.th/20230103T095819Z9158
   state:
     shortLink: https://webring.page.link/ADpo
+9cf16e935406f6b3f6a030cee3c7bdfb:facebook:
+  spec:
+    title: Resistor Color Code Utility [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/resistor-color-code-utility
+  state:
+    id: '100746876247412_148739521448632'
+    url: https://www.facebook.com/100683012920950/posts/148739521448632
+9cf16e935406f6b3f6a030cee3c7bdfb:mastodon:
+  spec:
+    title: Resistor Color Code Utility [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/resistor-color-code-utility
+  state:
+    id: '110059074205440035'
+    url: https://mastodon.in.th/@webring/110059074205440035
+9cf16e935406f6b3f6a030cee3c7bdfb:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/resistor-color-code-utility
+  state:
+    shortLink: https://webring.page.link/CHwf
 a1fc654eae8ca5c14e18da045946930c:facebook:
   spec:
     title: Time series data streams ใน Elasticsearch 8.6.0 [somkiat.cc]
