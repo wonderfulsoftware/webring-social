@@ -1803,6 +1803,25 @@
     url: https://yothinix.com/working-how-to-work/
   state:
     shortLink: https://webring.page.link/o1tu
+7e1fc65cd228d5c0ab15d794117710de:facebook:
+  spec:
+    title: Java 20 GA มาแล้วนะ [somkiat.cc]
+    url: https://www.somkiat.cc/hello-java-20/
+  state:
+    id: '100746876247412_150290291293555'
+    url: https://www.facebook.com/100683012920950/posts/150290291293555
+7e1fc65cd228d5c0ab15d794117710de:mastodon:
+  spec:
+    title: Java 20 GA มาแล้วนะ [somkiat.cc]
+    url: https://www.somkiat.cc/hello-java-20/
+  state:
+    id: '110071813796782227'
+    url: https://mastodon.in.th/@webring/110071813796782227
+7e1fc65cd228d5c0ab15d794117710de:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-java-20/
+  state:
+    shortLink: https://webring.page.link/Mvr6
 7e3176c9b3e38999104cc113741f43fb:facebook:
   spec:
     title: Re-stream Twitch to Facebook Live [garden.narze.live]
