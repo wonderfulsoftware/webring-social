@@ -1423,6 +1423,25 @@
     url: https://taoisaman.com/2023/02/21/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-2/
   state:
     shortLink: https://webring.page.link/gK5X
+6abc63a22e7384ece4efc051a1e15a3d:facebook:
+  spec:
+    title: '[CR] Starbucks-Lychee Rose Mixed with Pomegranate Juice [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/03/cr-starbucks-lychee-rose-mixed-with-pomegranate-juice/
+  state:
+    id: '100746876247412_150216947967556'
+    url: https://www.facebook.com/100683012920950/posts/150216947967556
+6abc63a22e7384ece4efc051a1e15a3d:mastodon:
+  spec:
+    title: '[CR] Starbucks-Lychee Rose Mixed with Pomegranate Juice [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/03/cr-starbucks-lychee-rose-mixed-with-pomegranate-juice/
+  state:
+    id: '110071116144195299'
+    url: https://mastodon.in.th/@webring/110071116144195299
+6abc63a22e7384ece4efc051a1e15a3d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/03/cr-starbucks-lychee-rose-mixed-with-pomegranate-juice/
+  state:
+    shortLink: https://webring.page.link/Hg5r
 6cc15445234f9602e6eb761b26611894:facebook:
   spec:
     title: Year in Review 2022 [wp.curve.in.th]
