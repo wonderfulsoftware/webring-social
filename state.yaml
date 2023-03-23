@@ -2974,6 +2974,25 @@ d58f4ece6739487292947e77a14d2418:shorturl:
     url: https://www.poolsawat.com/docker-run-1line-command-about-databases/
   state:
     shortLink: https://webring.page.link/63Mf
+d6a35221f6cfb34ebfb9500385db369c:facebook:
+  spec:
+    title: The HustleGPT challenge [dt.in.th]
+    url: https://notes.dt.in.th/20230321T132222Z8523
+  state:
+    id: '100746876247412_150139014642016'
+    url: https://www.facebook.com/100683012920950/posts/150139014642016
+d6a35221f6cfb34ebfb9500385db369c:mastodon:
+  spec:
+    title: The HustleGPT challenge [dt.in.th]
+    url: https://notes.dt.in.th/20230321T132222Z8523
+  state:
+    id: '110070399354122540'
+    url: https://mastodon.in.th/@webring/110070399354122540
+d6a35221f6cfb34ebfb9500385db369c:shorturl:
+  spec:
+    url: https://notes.dt.in.th/20230321T132222Z8523
+  state:
+    shortLink: https://webring.page.link/mK2W
 da99d414d91f720cbcc374cb410fccf0:facebook:
   spec:
     title: '[AZ-400] Implement continuous feedback [debuggingsoft.com]'
