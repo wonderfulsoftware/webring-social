@@ -3259,6 +3259,25 @@ e7ffbaa2fda5aefedc5070c362d68517:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/03/developer-take-workshop-cloud-adoption-framework/
   state:
     shortLink: https://webring.page.link/kg2y
+ea9638a9deb06fc8e202af81323651e5:facebook:
+  spec:
+    title: '[Write-up] Cyber Apocalypse 2023 - UnEarthly Shop (hard) [suam.wtf]'
+    url: https://suam.wtf/posts/write-up-cyber-apocalypse-2023-unearthly-shop/
+  state:
+    id: '100746876247412_150809144575003'
+    url: https://www.facebook.com/100683012920950/posts/150809144575003
+ea9638a9deb06fc8e202af81323651e5:mastodon:
+  spec:
+    title: '[Write-up] Cyber Apocalypse 2023 - UnEarthly Shop (hard) [suam.wtf]'
+    url: https://suam.wtf/posts/write-up-cyber-apocalypse-2023-unearthly-shop/
+  state:
+    id: '110076062002697926'
+    url: https://mastodon.in.th/@webring/110076062002697926
+ea9638a9deb06fc8e202af81323651e5:shorturl:
+  spec:
+    url: https://suam.wtf/posts/write-up-cyber-apocalypse-2023-unearthly-shop/
+  state:
+    shortLink: https://webring.page.link/3FD7
 eb0790c64e191757d86fea5fd81b597a:facebook:
   spec:
     title: เพิ่มการป้องกัน CSRF ให้กับ Spring Security [janescience.com]
