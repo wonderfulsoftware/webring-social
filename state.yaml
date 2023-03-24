@@ -3145,6 +3145,25 @@ e29c6f2358bde3729584684d4e296a57:shorturl:
     url: https://lucian.solutions/blog/papang-uvu-art-trade
   state:
     shortLink: https://webring.page.link/bJXc
+e3da53994cc5cd25dc503476c8b16e92:facebook:
+  spec:
+    title: ทำไม SeleniumLibrary 6 ถึงปิด browser ให้อัตโนมัติ ? [somkiat.cc]
+    url: https://www.somkiat.cc/robotframework-auto-close-browser/
+  state:
+    id: '100746876247412_150885311234053'
+    url: https://www.facebook.com/100683012920950/posts/150885311234053
+e3da53994cc5cd25dc503476c8b16e92:mastodon:
+  spec:
+    title: ทำไม SeleniumLibrary 6 ถึงปิด browser ให้อัตโนมัติ ? [somkiat.cc]
+    url: https://www.somkiat.cc/robotframework-auto-close-browser/
+  state:
+    id: '110076777979915006'
+    url: https://mastodon.in.th/@webring/110076777979915006
+e3da53994cc5cd25dc503476c8b16e92:shorturl:
+  spec:
+    url: https://www.somkiat.cc/robotframework-auto-close-browser/
+  state:
+    shortLink: https://webring.page.link/c5Na
 e4197f4a991b29b7c76210f790551be8:facebook:
   spec:
     title: ตอบคำถามเรื่อง Email testing [somkiat.cc]
