@@ -188,6 +188,25 @@
     url: https://microbenz.in.th/2022-review/
   state:
     shortLink: https://webring.page.link/sqCH
+0fe22d8feab2db12f62c96988aa881c3:facebook:
+  spec:
+    title: สรุปสิ่งที่น่าสนใจในการย้ายระบบของ 37signals จาก cloud มาใช้ server ของตัวเอง [somkiat.cc]
+    url: https://www.somkiat.cc/move-from-cloud-to-on-premise/
+  state:
+    id: '100746876247412_151478021174782'
+    url: https://www.facebook.com/100683012920950/posts/151478021174782
+0fe22d8feab2db12f62c96988aa881c3:mastodon:
+  spec:
+    title: สรุปสิ่งที่น่าสนใจในการย้ายระบบของ 37signals จาก cloud มาใช้ server ของตัวเอง [somkiat.cc]
+    url: https://www.somkiat.cc/move-from-cloud-to-on-premise/
+  state:
+    id: '110081722985936491'
+    url: https://mastodon.in.th/@webring/110081722985936491
+0fe22d8feab2db12f62c96988aa881c3:shorturl:
+  spec:
+    url: https://www.somkiat.cc/move-from-cloud-to-on-premise/
+  state:
+    shortLink: https://webring.page.link/SPm5
 0ff4650849368daf44e8a8bfacfba07f:facebook:
   spec:
     title: ดู z-index ง่ายๆ ด้วย 3D View [nitpum.com]
