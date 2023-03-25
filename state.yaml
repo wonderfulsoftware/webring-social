@@ -1214,6 +1214,25 @@
     url: https://www.somkiat.cc/domain-driven-design-by-roofimon-2023/
   state:
     shortLink: https://webring.page.link/37mR
+5faf7ad34aa6db043f6f5afa001b1378:facebook:
+  spec:
+    title: ทดลองทำเว็บวาดรูปเป็น pixel art ด้วย Svelte แบบง่าย ๆ กันเถอะ [mikkipastel.com]
+    url: https://www.mikkipastel.com/drawing-pixel-art-svelte-website/
+  state:
+    id: '100746876247412_151555667833684'
+    url: https://www.facebook.com/100683012920950/posts/151555667833684
+5faf7ad34aa6db043f6f5afa001b1378:mastodon:
+  spec:
+    title: ทดลองทำเว็บวาดรูปเป็น pixel art ด้วย Svelte แบบง่าย ๆ กันเถอะ [mikkipastel.com]
+    url: https://www.mikkipastel.com/drawing-pixel-art-svelte-website/
+  state:
+    id: '110082438311073737'
+    url: https://mastodon.in.th/@webring/110082438311073737
+5faf7ad34aa6db043f6f5afa001b1378:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/drawing-pixel-art-svelte-website/
+  state:
+    shortLink: https://webring.page.link/d4HR
 6093ef23fc852e94bd4da1ca3d3ef91c:facebook:
   spec:
     title: Zero-ETL คืออะไร [somkiat.cc]
