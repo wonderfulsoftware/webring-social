@@ -986,6 +986,25 @@
     url: https://www.somkiat.cc/go-multiple-error/
   state:
     shortLink: https://webring.page.link/N4tA
+4bcaba537517f8f713cf3d43b086b454:facebook:
+  spec:
+    title: Bare metal works, until it doesn't. Hello, cloud. [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/03/bare-metal-works-until-it-doesnt-hello-cloud/
+  state:
+    id: '100746876247412_151625514493366'
+    url: https://www.facebook.com/100683012920950/posts/151625514493366
+4bcaba537517f8f713cf3d43b086b454:mastodon:
+  spec:
+    title: Bare metal works, until it doesn't. Hello, cloud. [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/03/bare-metal-works-until-it-doesnt-hello-cloud/
+  state:
+    id: '110083133482661438'
+    url: https://mastodon.in.th/@webring/110083133482661438
+4bcaba537517f8f713cf3d43b086b454:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/03/bare-metal-works-until-it-doesnt-hello-cloud/
+  state:
+    shortLink: https://webring.page.link/VbD1
 4c54748aa9f9ce0f01cb3b527f2b238a:facebook:
   spec:
     title: สรุปงาน Thailand Developer Day 2023 [debuggingsoft.com]
