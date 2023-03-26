@@ -2316,6 +2316,25 @@
     url: https://www.somkiat.cc/virtual-thread-in-spring-boot-3/
   state:
     shortLink: https://webring.page.link/8Mwd
+9c0c2a2834c4c40e9ddf391031e09d63:facebook:
+  spec:
+    title: NVM คืออะไร แชร์เทคนิคการใช้งาน [poolsawat.com]
+    url: https://www.poolsawat.com/nvm-useful-js-developer/
+  state:
+    id: '100746876247412_152218067767444'
+    url: https://www.facebook.com/100683012920950/posts/152218067767444
+9c0c2a2834c4c40e9ddf391031e09d63:mastodon:
+  spec:
+    title: NVM คืออะไร แชร์เทคนิคการใช้งาน [poolsawat.com]
+    url: https://www.poolsawat.com/nvm-useful-js-developer/
+  state:
+    id: '110088099534539281'
+    url: https://mastodon.in.th/@webring/110088099534539281
+9c0c2a2834c4c40e9ddf391031e09d63:shorturl:
+  spec:
+    url: https://www.poolsawat.com/nvm-useful-js-developer/
+  state:
+    shortLink: https://webring.page.link/DqEJ
 9c363ddb48157779d09842df47fb6674:facebook:
   spec:
     title: อัพเดตโปรเจควงแหวนเว็บ, เปิดเพจ Facebook, Mastodon [dt.in.th]
