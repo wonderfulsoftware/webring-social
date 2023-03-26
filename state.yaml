@@ -264,6 +264,25 @@
     url: https://garden.narze.live/Getting-full-Github-URL-of-the-latest-commit/
   state:
     shortLink: https://webring.page.link/zSGL
+17529e04b2d115ba1f3816c7cc43cb4f:facebook:
+  spec:
+    title: บันทึก Humanistic Software Architecture [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/03/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81-humanistic-software-architecture/
+  state:
+    id: '100746876247412_152286831093901'
+    url: https://www.facebook.com/100683012920950/posts/152286831093901
+17529e04b2d115ba1f3816c7cc43cb4f:mastodon:
+  spec:
+    title: บันทึก Humanistic Software Architecture [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/03/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81-humanistic-software-architecture/
+  state:
+    id: '110088796585441520'
+    url: https://mastodon.in.th/@webring/110088796585441520
+17529e04b2d115ba1f3816c7cc43cb4f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/03/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81-humanistic-software-architecture/
+  state:
+    shortLink: https://webring.page.link/5aDL
 199609ef0b42ebf9b39cf0f4c3a01a06:facebook:
   spec:
     title: มาทำความรู้จักกับ Ephemeral Environment [somkiat.cc]
