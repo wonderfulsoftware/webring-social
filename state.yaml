@@ -1575,6 +1575,25 @@
     url: https://garden.narze.live/Wishlist/
   state:
     shortLink: https://webring.page.link/ESDb
+6ecee6421f5566a1e5fae2e6df56cd6e:facebook:
+  spec:
+    title: หนึ่งปีที่ผ่านมาใน Netherlands [llun.me]
+    url: https://www.llun.me/posts/2023-03-25-a-year-in-the-netherlands
+  state:
+    id: '100746876247412_152364551086129'
+    url: https://www.facebook.com/100683012920950/posts/152364551086129
+6ecee6421f5566a1e5fae2e6df56cd6e:mastodon:
+  spec:
+    title: หนึ่งปีที่ผ่านมาใน Netherlands [llun.me]
+    url: https://www.llun.me/posts/2023-03-25-a-year-in-the-netherlands
+  state:
+    id: '110089533454359722'
+    url: https://mastodon.in.th/@webring/110089533454359722
+6ecee6421f5566a1e5fae2e6df56cd6e:shorturl:
+  spec:
+    url: https://www.llun.me/posts/2023-03-25-a-year-in-the-netherlands
+  state:
+    shortLink: https://webring.page.link/X9h9
 6f9d5af493ea79179ca0a007f1c5595e:facebook:
   spec:
     title: Book highlights - Engineering Management for the Rest of Us by Sarah Drasner [karnwong.me]
