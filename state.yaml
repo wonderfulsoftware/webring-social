@@ -1062,6 +1062,25 @@
     url: https://www.mikkipastel.com/introduction-tripster-travel-pass-nft-project/
   state:
     shortLink: https://webring.page.link/1hpM
+4e438d4fd15f1f5d90fae0d343c30121:facebook:
+  spec:
+    title: สรุปจากบทความการเปลี่ยนแปลง database ของ Discord [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-database-journey-at-discord/
+  state:
+    id: '100746876247412_152777297711521'
+    url: https://www.facebook.com/100683012920950/posts/152777297711521
+4e438d4fd15f1f5d90fae0d343c30121:mastodon:
+  spec:
+    title: สรุปจากบทความการเปลี่ยนแปลง database ของ Discord [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-database-journey-at-discord/
+  state:
+    id: '110093048920177101'
+    url: https://mastodon.in.th/@webring/110093048920177101
+4e438d4fd15f1f5d90fae0d343c30121:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-from-database-journey-at-discord/
+  state:
+    shortLink: https://webring.page.link/xU6T
 4ea5b4abbec0633194c19529b4bb702e:facebook:
   spec:
     title: วิธีแก้ปัญหา unknown at rule ของ tailwind css [devahoy.com]
