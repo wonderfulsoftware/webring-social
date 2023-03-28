@@ -815,6 +815,25 @@
     url: https://edocstudio.info/
   state:
     shortLink: https://webring.page.link/s1pL
+3cea4ef330c99603adf00102b2bb25c5:facebook:
+  spec:
+    title: เรียนรู้ และใช้งาน ThaiBuddhistDate บน Java [poolsawat.com]
+    url: https://www.poolsawat.com/learning-using-thaibuddhistdate-java/
+  state:
+    id: '100746876247412_153529007636350'
+    url: https://www.facebook.com/100683012920950/posts/153529007636350
+3cea4ef330c99603adf00102b2bb25c5:mastodon:
+  spec:
+    title: เรียนรู้ และใช้งาน ThaiBuddhistDate บน Java [poolsawat.com]
+    url: https://www.poolsawat.com/learning-using-thaibuddhistdate-java/
+  state:
+    id: '110099429138514533'
+    url: https://mastodon.in.th/@webring/110099429138514533
+3cea4ef330c99603adf00102b2bb25c5:shorturl:
+  spec:
+    url: https://www.poolsawat.com/learning-using-thaibuddhistdate-java/
+  state:
+    shortLink: https://webring.page.link/wzRZ
 3d31ebc1f0a724147625510543a4a7f5:facebook:
   spec:
     title: Riffy's trip across Southern Japan within 1 week [rayriffy.com]
