@@ -815,6 +815,25 @@
     url: https://edocstudio.info/
   state:
     shortLink: https://webring.page.link/s1pL
+3ca712d57af0869fde01f356de02f3f1:facebook:
+  spec:
+    title: แนวคิดการสร้างระบบ Ranking ของ Reddit [somkiat.cc]
+    url: https://www.somkiat.cc/note-ranking-system-from-reddit/
+  state:
+    id: '100746876247412_154128464243071'
+    url: https://www.facebook.com/100683012920950/posts/154128464243071
+3ca712d57af0869fde01f356de02f3f1:mastodon:
+  spec:
+    title: แนวคิดการสร้างระบบ Ranking ของ Reddit [somkiat.cc]
+    url: https://www.somkiat.cc/note-ranking-system-from-reddit/
+  state:
+    id: '110104371749262961'
+    url: https://mastodon.in.th/@webring/110104371749262961
+3ca712d57af0869fde01f356de02f3f1:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-ranking-system-from-reddit/
+  state:
+    shortLink: https://webring.page.link/Axjg
 3cea4ef330c99603adf00102b2bb25c5:facebook:
   spec:
     title: เรียนรู้ และใช้งาน ThaiBuddhistDate บน Java [poolsawat.com]
