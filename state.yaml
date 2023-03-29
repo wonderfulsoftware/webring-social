@@ -758,6 +758,25 @@
     url: https://garden.narze.live/VSCode-Extension-Pack/
   state:
     shortLink: https://webring.page.link/SiJ8
+36521a47e5099dd12aa41ad7af79dd32:facebook:
+  spec:
+    title: วิธีการแก้ไขปัญหา Asynchronous Function บน React.js Hook (useEfffect) ด้วยวิธี IIFE [toupawa.com]
+    url: https://toupawa.com/fix-async-function-error-on-react-useeffect-with-iife/
+  state:
+    id: '100746876247412_154275627561688'
+    url: https://www.facebook.com/100683012920950/posts/154275627561688
+36521a47e5099dd12aa41ad7af79dd32:mastodon:
+  spec:
+    title: วิธีการแก้ไขปัญหา Asynchronous Function บน React.js Hook (useEfffect) ด้วยวิธี IIFE [toupawa.com]
+    url: https://toupawa.com/fix-async-function-error-on-react-useeffect-with-iife/
+  state:
+    id: '110105788483479606'
+    url: https://mastodon.in.th/@webring/110105788483479606
+36521a47e5099dd12aa41ad7af79dd32:shorturl:
+  spec:
+    url: https://toupawa.com/fix-async-function-error-on-react-useeffect-with-iife/
+  state:
+    shortLink: https://webring.page.link/b5nM
 3808dbfe4969925f92be092d2781b80f:facebook:
   spec:
     title: บันทึกปัญหา ./mvnw not found ใน Dockerfile [somkiat.cc]
