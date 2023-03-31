@@ -2259,6 +2259,25 @@
     url: https://www.somkiat.cc/hello-dart-3/
   state:
     shortLink: https://webring.page.link/tcJ7
+8e47d07ca87d7f71510e78ae1787da0d:facebook:
+  spec:
+    title: 'Review Course: Humanistic Software Architecture [knowlats.dev]'
+    url: https://knowlats.dev/review-course-humanistic-software-architecture/
+  state:
+    id: '100746876247412_155484884107429'
+    url: https://www.facebook.com/100683012920950/posts/155484884107429
+8e47d07ca87d7f71510e78ae1787da0d:mastodon:
+  spec:
+    title: 'Review Course: Humanistic Software Architecture [knowlats.dev]'
+    url: https://knowlats.dev/review-course-humanistic-software-architecture/
+  state:
+    id: '110116415774468833'
+    url: https://mastodon.in.th/@webring/110116415774468833
+8e47d07ca87d7f71510e78ae1787da0d:shorturl:
+  spec:
+    url: https://knowlats.dev/review-course-humanistic-software-architecture/
+  state:
+    shortLink: https://webring.page.link/GMfx
 8efbb17c7036b2abaf60c843510044a7:facebook:
   spec:
     title: Run Spring Boot ด้วย Docker Compose [janescience.com]
