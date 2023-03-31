@@ -1005,6 +1005,25 @@
     url: https://www.karnwong.me/posts/2023/03/google-analytics-v4-ingestion-via-bigquery/
   state:
     shortLink: https://webring.page.link/Y7yB
+45560dec23746f948a3a62e355f408f4:facebook:
+  spec:
+    title: GraphQL คืออะไร หลักการใช้งานที่ควรคำนึง ตัวอย่างการใช้งานกับ Apollo Client [poolsawat.com]
+    url: https://www.poolsawat.com/graphql-10awarenesses-integrate-apolla-client/
+  state:
+    id: '100746876247412_155555394100378'
+    url: https://www.facebook.com/100683012920950/posts/155555394100378
+45560dec23746f948a3a62e355f408f4:mastodon:
+  spec:
+    title: GraphQL คืออะไร หลักการใช้งานที่ควรคำนึง ตัวอย่างการใช้งานกับ Apollo Client [poolsawat.com]
+    url: https://www.poolsawat.com/graphql-10awarenesses-integrate-apolla-client/
+  state:
+    id: '110117110808589515'
+    url: https://mastodon.in.th/@webring/110117110808589515
+45560dec23746f948a3a62e355f408f4:shorturl:
+  spec:
+    url: https://www.poolsawat.com/graphql-10awarenesses-integrate-apolla-client/
+  state:
+    shortLink: https://webring.page.link/9hRY
 4a1eae93004543cecb46f5fb9a7b73d2:facebook:
   spec:
     title: เปิดใช้งาน Navigating files with the new code view (beta) ใน GitHub [somkiat.cc]
