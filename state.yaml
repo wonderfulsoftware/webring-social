@@ -2563,6 +2563,25 @@
     url: https://tech.duckfollow.co/view/resistor-color-code-utility
   state:
     shortLink: https://webring.page.link/CHwf
+9ff6714c31d9573f7ab389657b90089a:facebook:
+  spec:
+    title: '[WP] สรุป Meetup สร้างรายได้จาก การเขียนบทความ แบบไม่ต้องรอลูกค้าลงโฆษณา [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/03/wp-meetup-how-to-make-money-blogging/
+  state:
+    id: '100746876247412_155639884091929'
+    url: https://www.facebook.com/100683012920950/posts/155639884091929
+9ff6714c31d9573f7ab389657b90089a:mastodon:
+  spec:
+    title: '[WP] สรุป Meetup สร้างรายได้จาก การเขียนบทความ แบบไม่ต้องรอลูกค้าลงโฆษณา [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/03/wp-meetup-how-to-make-money-blogging/
+  state:
+    id: '110117850832850344'
+    url: https://mastodon.in.th/@webring/110117850832850344
+9ff6714c31d9573f7ab389657b90089a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/03/wp-meetup-how-to-make-money-blogging/
+  state:
+    shortLink: https://webring.page.link/4b5Y
 a1fc654eae8ca5c14e18da045946930c:facebook:
   spec:
     title: Time series data streams ใน Elasticsearch 8.6.0 [somkiat.cc]
