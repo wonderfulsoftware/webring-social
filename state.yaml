@@ -3879,3 +3879,22 @@ f96b66b7a30e22623fc55c95fed9bb21:shorturl:
     url: https://toupawa.com/review-a-worker-man-who-become-to-be-a-programmer/
   state:
     shortLink: https://webring.page.link/Fpyg
+ffc5905ef4b2cad1b9e89f4554eac71b:facebook:
+  spec:
+    title: MongoDB คืออะไร? ติดตั้งและเริ่มต้นใช้งาน MongoDB เบื้องต้น [poolsawat.com]
+    url: https://www.poolsawat.com/what-is-mongodb-and-how-to-using-it/
+  state:
+    id: '100746876247412_156075780715006'
+    url: https://www.facebook.com/100683012920950/posts/156075780715006
+ffc5905ef4b2cad1b9e89f4554eac71b:mastodon:
+  spec:
+    title: MongoDB คืออะไร? ติดตั้งและเริ่มต้นใช้งาน MongoDB เบื้องต้น [poolsawat.com]
+    url: https://www.poolsawat.com/what-is-mongodb-and-how-to-using-it/
+  state:
+    id: '110121358002601496'
+    url: https://mastodon.in.th/@webring/110121358002601496
+ffc5905ef4b2cad1b9e89f4554eac71b:shorturl:
+  spec:
+    url: https://www.poolsawat.com/what-is-mongodb-and-how-to-using-it/
+  state:
+    shortLink: https://webring.page.link/SHSg
