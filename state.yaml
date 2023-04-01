@@ -1252,6 +1252,25 @@
     url: https://shayennn.com/tesla-thailand-delivery-process-so-suck/
   state:
     shortLink: https://webring.page.link/B8J1
+5196ad8f95df7d8dd9e01e3d7972d001:facebook:
+  spec:
+    title: รวมเว็บขอ Testnet Faucet สำหรับ developer และนักล่า airdrop [mikkipastel.com]
+    url: https://www.mikkipastel.com/list-of-testnet-faucet-for-developer-and-airdrop-hunter/
+  state:
+    id: '100746876247412_156151007374150'
+    url: https://www.facebook.com/100683012920950/posts/156151007374150
+5196ad8f95df7d8dd9e01e3d7972d001:mastodon:
+  spec:
+    title: รวมเว็บขอ Testnet Faucet สำหรับ developer และนักล่า airdrop [mikkipastel.com]
+    url: https://www.mikkipastel.com/list-of-testnet-faucet-for-developer-and-airdrop-hunter/
+  state:
+    id: '110122072140106688'
+    url: https://mastodon.in.th/@webring/110122072140106688
+5196ad8f95df7d8dd9e01e3d7972d001:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/list-of-testnet-faucet-for-developer-and-airdrop-hunter/
+  state:
+    shortLink: https://webring.page.link/ue7Y
 577af00a06b01e0f193daf5e4c105f52:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 2 - Card Flip [devahoy.com]
