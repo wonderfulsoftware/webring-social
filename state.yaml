@@ -2164,6 +2164,25 @@
     url: https://www.somkiat.cc/pythagora-for-integration-test-with-express/
   state:
     shortLink: https://webring.page.link/erg2
+84cdc475bfbd491ccec5bbfd71705f4a:facebook:
+  spec:
+    title: Kubernetes with Grafana Cloud [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/04/kubernetes-with-grafana-cloud/
+  state:
+    id: '100746876247412_156916047297646'
+    url: https://www.facebook.com/100683012920950/posts/156916047297646
+84cdc475bfbd491ccec5bbfd71705f4a:mastodon:
+  spec:
+    title: Kubernetes with Grafana Cloud [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/04/kubernetes-with-grafana-cloud/
+  state:
+    id: '110128430310312902'
+    url: https://mastodon.in.th/@webring/110128430310312902
+84cdc475bfbd491ccec5bbfd71705f4a:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/04/kubernetes-with-grafana-cloud/
+  state:
+    shortLink: https://webring.page.link/BfLw
 84fcb6eb24e640f662b8df6ab6c9e0f0:facebook:
   spec:
     title: Terraform RDS module with DNS setup [karnwong.me]
