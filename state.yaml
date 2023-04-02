@@ -2487,6 +2487,25 @@
     url: https://www.poolsawat.com/recommended-curl-commands/
   state:
     shortLink: https://webring.page.link/j1Kv
+985a9928afb39cdb17736a2949470344:facebook:
+  spec:
+    title: dockerfile สำหรับ .NET6 + DB2 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/04/dockerfile-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-net6-db2/
+  state:
+    id: '100746876247412_157000247289226'
+    url: https://www.facebook.com/100683012920950/posts/157000247289226
+985a9928afb39cdb17736a2949470344:mastodon:
+  spec:
+    title: dockerfile สำหรับ .NET6 + DB2 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/04/dockerfile-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-net6-db2/
+  state:
+    id: '110129167355620118'
+    url: https://mastodon.in.th/@webring/110129167355620118
+985a9928afb39cdb17736a2949470344:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/04/dockerfile-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-net6-db2/
+  state:
+    shortLink: https://webring.page.link/2vpC
 9939010afca0c28547967a6705ec783e:facebook:
   spec:
     title: My wrong assumptions with ActivityPub [llun.me]
