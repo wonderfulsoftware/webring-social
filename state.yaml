@@ -2677,6 +2677,25 @@ a4f45033b6dafefc4eedb1e9c8f10387:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day4-click-me
   state:
     shortLink: https://webring.page.link/KCtb
+a77c479113e1a5a4f26f405c82af56f3:facebook:
+  spec:
+    title: บันทึกเรื่อง Building more efficient Firestore web app [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-building-a-more-efficient-firestore/
+  state:
+    id: '100746876247412_156768313979086'
+    url: https://www.facebook.com/100683012920950/posts/156768313979086
+a77c479113e1a5a4f26f405c82af56f3:mastodon:
+  spec:
+    title: บันทึกเรื่อง Building more efficient Firestore web app [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-building-a-more-efficient-firestore/
+  state:
+    id: '110127018633555712'
+    url: https://mastodon.in.th/@webring/110127018633555712
+a77c479113e1a5a4f26f405c82af56f3:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-from-building-a-more-efficient-firestore/
+  state:
+    shortLink: https://webring.page.link/tG6L
 a800be5a22a696e7f90aa33fe2e5575b:facebook:
   spec:
     title: Configuring tRPC error logging in T3 apps [dt.in.th]
