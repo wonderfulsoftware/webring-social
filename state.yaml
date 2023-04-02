@@ -3867,6 +3867,25 @@ f61ba76d8f875bace468dadcffe183d8:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day1-heart
   state:
     shortLink: https://webring.page.link/YArx
+f71e908eceea50140926bf688bf08369:facebook:
+  spec:
+    title: เมื่อ Twitter เปิด Open Source ให้เห็น Algorithms น่าสนใจมากๆ [myifew.com]
+    url: https://myifew.com/6533/twitter-open-source-algorithm/
+  state:
+    id: '100746876247412_156844460638138'
+    url: https://www.facebook.com/100683012920950/posts/156844460638138
+f71e908eceea50140926bf688bf08369:mastodon:
+  spec:
+    title: เมื่อ Twitter เปิด Open Source ให้เห็น Algorithms น่าสนใจมากๆ [myifew.com]
+    url: https://myifew.com/6533/twitter-open-source-algorithm/
+  state:
+    id: '110127734650033828'
+    url: https://mastodon.in.th/@webring/110127734650033828
+f71e908eceea50140926bf688bf08369:shorturl:
+  spec:
+    url: https://myifew.com/6533/twitter-open-source-algorithm/
+  state:
+    shortLink: https://webring.page.link/jFyE
 f7553bdc711a78021430634f4a1a95e7:facebook:
   spec:
     title: บันทึกการแก้ปัญหา Cannot read properties of undefined (reading ‘REACT_APP_SC_ATTR’) [somkiat.cc]
