@@ -511,6 +511,25 @@
     url: https://www.somkiat.cc/dotnet-with-native-aot/
   state:
     shortLink: https://webring.page.link/Qp7t
+2714c8ba1294f731eee9aab0813a47ac:facebook:
+  spec:
+    title: สิ่งที่น่าสนใจจากการเปลี่ยนแปลงของ Microsoft Teams [somkiat.cc]
+    url: https://www.somkiat.cc/new-from-microsoft-teams/
+  state:
+    id: '100746876247412_157463847242866'
+    url: https://www.facebook.com/100683012920950/posts/157463847242866
+2714c8ba1294f731eee9aab0813a47ac:mastodon:
+  spec:
+    title: สิ่งที่น่าสนใจจากการเปลี่ยนแปลงของ Microsoft Teams [somkiat.cc]
+    url: https://www.somkiat.cc/new-from-microsoft-teams/
+  state:
+    id: '110132683105029819'
+    url: https://mastodon.in.th/@webring/110132683105029819
+2714c8ba1294f731eee9aab0813a47ac:shorturl:
+  spec:
+    url: https://www.somkiat.cc/new-from-microsoft-teams/
+  state:
+    shortLink: https://webring.page.link/m1yK
 27632b8758a243693f7af421e4e6f668:facebook:
   spec:
     title: เปิดใช้ Auto Detect Workout บน Huawei Watch FIT [debuggingsoft.com]
