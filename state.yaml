@@ -1138,6 +1138,25 @@
     url: https://www.somkiat.cc/go-multiple-error/
   state:
     shortLink: https://webring.page.link/N4tA
+4b944d71e9e71de52290cc55cc5992b8:facebook:
+  spec:
+    title: Microservices March 2023 by NGINX [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/04/microservices-march-2023-by-nginx/
+  state:
+    id: '100746876247412_158195017169749'
+    url: https://www.facebook.com/100683012920950/posts/158195017169749
+4b944d71e9e71de52290cc55cc5992b8:mastodon:
+  spec:
+    title: Microservices March 2023 by NGINX [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/04/microservices-march-2023-by-nginx/
+  state:
+    id: '110139063088708469'
+    url: https://mastodon.in.th/@webring/110139063088708469
+4b944d71e9e71de52290cc55cc5992b8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/04/microservices-march-2023-by-nginx/
+  state:
+    shortLink: https://webring.page.link/F5sq
 4bcaba537517f8f713cf3d43b086b454:facebook:
   spec:
     title: Bare metal works, until it doesn't. Hello, cloud. [karnwong.me]
