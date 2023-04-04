@@ -1043,6 +1043,25 @@
     url: https://www.poolsawat.com/graphql-10awarenesses-integrate-apolla-client/
   state:
     shortLink: https://webring.page.link/9hRY
+45de470934ed955f541fa953067d73c2:facebook:
+  spec:
+    title: สรุป Culture & Methods Trends Report March 2023 จาก InfoQ [somkiat.cc]
+    url: https://www.somkiat.cc/infoq-culture-methods-trends-2023/
+  state:
+    id: '100746876247412_158111600511424'
+    url: https://www.facebook.com/100683012920950/posts/158111600511424
+45de470934ed955f541fa953067d73c2:mastodon:
+  spec:
+    title: สรุป Culture & Methods Trends Report March 2023 จาก InfoQ [somkiat.cc]
+    url: https://www.somkiat.cc/infoq-culture-methods-trends-2023/
+  state:
+    id: '110138345122933417'
+    url: https://mastodon.in.th/@webring/110138345122933417
+45de470934ed955f541fa953067d73c2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/infoq-culture-methods-trends-2023/
+  state:
+    shortLink: https://webring.page.link/iKWG
 4a1eae93004543cecb46f5fb9a7b73d2:facebook:
   spec:
     title: เปิดใช้งาน Navigating files with the new code view (beta) ใน GitHub [somkiat.cc]
