@@ -2126,6 +2126,25 @@
     url: https://garden.narze.live/Re-stream-Twitch-to-Facebook-Live/
   state:
     shortLink: https://webring.page.link/dsw1
+7ecae6c76a549bfe827330cd0297a7b4:facebook:
+  spec:
+    title: Building Firebase Realtime Database Security Rules with GPT-4 [dt.in.th]
+    url: https://notes.dt.in.th/20230403T162555Z1842
+  state:
+    id: '100746876247412_158866983769219'
+    url: https://www.facebook.com/100683012920950/posts/158866983769219
+7ecae6c76a549bfe827330cd0297a7b4:mastodon:
+  spec:
+    title: Building Firebase Realtime Database Security Rules with GPT-4 [dt.in.th]
+    url: https://notes.dt.in.th/20230403T162555Z1842
+  state:
+    id: '110144725693385353'
+    url: https://mastodon.in.th/@webring/110144725693385353
+7ecae6c76a549bfe827330cd0297a7b4:shorturl:
+  spec:
+    url: https://notes.dt.in.th/20230403T162555Z1842
+  state:
+    shortLink: https://webring.page.link/axFq
 7f29f691ea533f4876e12772003f354f:facebook:
   spec:
     title: ทำการจำลอง API server ใน JavaScript ด้วย MirageJS [somkiat.cc]
