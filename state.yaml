@@ -207,6 +207,25 @@
     url: https://www.somkiat.cc/move-from-cloud-to-on-premise/
   state:
     shortLink: https://webring.page.link/SPm5
+0fe46c38f7eec7d421b96db1d1b8be21:facebook:
+  spec:
+    title: มาดูพี่ตี๋วิดพื้น เอ้ยย มาอัพเดตของใหม่ ๆ กันในงาน Firebase Dev Day 2023 [mikkipastel.com]
+    url: https://www.mikkipastel.com/firebase-dev-day-2023/
+  state:
+    id: '100746876247412_158939160428668'
+    url: https://www.facebook.com/100683012920950/posts/158939160428668
+0fe46c38f7eec7d421b96db1d1b8be21:mastodon:
+  spec:
+    title: มาดูพี่ตี๋วิดพื้น เอ้ยย มาอัพเดตของใหม่ ๆ กันในงาน Firebase Dev Day 2023 [mikkipastel.com]
+    url: https://www.mikkipastel.com/firebase-dev-day-2023/
+  state:
+    id: '110145425772250604'
+    url: https://mastodon.in.th/@webring/110145425772250604
+0fe46c38f7eec7d421b96db1d1b8be21:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/firebase-dev-day-2023/
+  state:
+    shortLink: https://webring.page.link/NmJD
 0ff4650849368daf44e8a8bfacfba07f:facebook:
   spec:
     title: ดู z-index ง่ายๆ ด้วย 3D View [nitpum.com]
