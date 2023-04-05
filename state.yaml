@@ -169,6 +169,25 @@
     url: https://garden.narze.live/Reduce-sound-and-speed-of-the-fan-on-Raspberry-Pi-case-or-heatsink/
   state:
     shortLink: https://webring.page.link/QsCG
+0fa6b1fd40cb2b4d1aba735ac3f84fad:facebook:
+  spec:
+    title: Zero-Shot Prompting การทำให้ LLMs (ChatGPT) ตอบเราได้คำตอบสั้น ๆ ชัด ๆ และ ตรงประเด็น [taoisaman.com]
+    url: https://taoisaman.com/2023/04/05/zero-shot-prompting-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b3%e0%b9%83%e0%b8%ab%e0%b9%89-llms-chatgpt-%e0%b8%95%e0%b8%ad%e0%b8%9a%e0%b9%80%e0%b8%a3%e0%b8%b2%e0%b9%84%e0%b8%94%e0%b9%89/
+  state:
+    id: '100746876247412_159023653753552'
+    url: https://www.facebook.com/100683012920950/posts/159023653753552
+0fa6b1fd40cb2b4d1aba735ac3f84fad:mastodon:
+  spec:
+    title: Zero-Shot Prompting การทำให้ LLMs (ChatGPT) ตอบเราได้คำตอบสั้น ๆ ชัด ๆ และ ตรงประเด็น [taoisaman.com]
+    url: https://taoisaman.com/2023/04/05/zero-shot-prompting-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b3%e0%b9%83%e0%b8%ab%e0%b9%89-llms-chatgpt-%e0%b8%95%e0%b8%ad%e0%b8%9a%e0%b9%80%e0%b8%a3%e0%b8%b2%e0%b9%84%e0%b8%94%e0%b9%89/
+  state:
+    id: '110146177290678076'
+    url: https://mastodon.in.th/@webring/110146177290678076
+0fa6b1fd40cb2b4d1aba735ac3f84fad:shorturl:
+  spec:
+    url: https://taoisaman.com/2023/04/05/zero-shot-prompting-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b3%e0%b9%83%e0%b8%ab%e0%b9%89-llms-chatgpt-%e0%b8%95%e0%b8%ad%e0%b8%9a%e0%b9%80%e0%b8%a3%e0%b8%b2%e0%b9%84%e0%b8%94%e0%b9%89/
+  state:
+    shortLink: https://webring.page.link/RkzT
 0fb4961b1f063f1e07338a8ec0eff1c0:facebook:
   spec:
     title: 2022 [microbenz.in.th]
