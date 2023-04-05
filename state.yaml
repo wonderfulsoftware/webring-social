@@ -3544,6 +3544,25 @@ dc9406027d9ba4a11c760c9a94512164:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/03/%e0%b8%a5%e0%b8%ad%e0%b8%87-vue-version-on-windows-error-unauthorizedaccess/
   state:
     shortLink: https://webring.page.link/GVNd
+de5432ed497ce622a0289f8f8d90cc4f:facebook:
+  spec:
+    title: มาลองเป็น Public Speaker เรื่อง OOAD [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/04/my-first-public-speaker-ooad-in-my-work/
+  state:
+    id: '100746876247412_158783110444273'
+    url: https://www.facebook.com/100683012920950/posts/158783110444273
+de5432ed497ce622a0289f8f8d90cc4f:mastodon:
+  spec:
+    title: มาลองเป็น Public Speaker เรื่อง OOAD [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/04/my-first-public-speaker-ooad-in-my-work/
+  state:
+    id: '110144008526008077'
+    url: https://mastodon.in.th/@webring/110144008526008077
+de5432ed497ce622a0289f8f8d90cc4f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/04/my-first-public-speaker-ooad-in-my-work/
+  state:
+    shortLink: https://webring.page.link/EdQR
 e101590fcf2c113c902ecdebce745d7d:facebook:
   spec:
     title: '[AZ-400] Design and implement a dependency management strategy [debuggingsoft.com]'
