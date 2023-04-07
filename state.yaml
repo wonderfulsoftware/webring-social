@@ -2449,6 +2449,25 @@
     url: https://www.poolsawat.com/converting-images-to-webp/
   state:
     shortLink: https://webring.page.link/YBDR
+8c1155234a00fe26d3ba740362fad770:facebook:
+  spec:
+    title: ว่าด้วยเรื่องของ Observability บน Grafana + Loki + Tempo [somkiat.cc]
+    url: https://www.somkiat.cc/observability-with-grafana-platform/
+  state:
+    id: '100746876247412_160452253610692'
+    url: https://www.facebook.com/100683012920950/posts/160452253610692
+8c1155234a00fe26d3ba740362fad770:mastodon:
+  spec:
+    title: ว่าด้วยเรื่องของ Observability บน Grafana + Loki + Tempo [somkiat.cc]
+    url: https://www.somkiat.cc/observability-with-grafana-platform/
+  state:
+    id: '110158160448634434'
+    url: https://mastodon.in.th/@webring/110158160448634434
+8c1155234a00fe26d3ba740362fad770:shorturl:
+  spec:
+    url: https://www.somkiat.cc/observability-with-grafana-platform/
+  state:
+    shortLink: https://webring.page.link/8Hxo
 8d358a61c15c2566d49455b36443637b:facebook:
   spec:
     title: สวัสดี Dart 3 [somkiat.cc]
