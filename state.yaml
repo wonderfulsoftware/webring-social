@@ -3107,6 +3107,25 @@ b7ed4ea6402e4dd022e2f8a43009eddb:shorturl:
     url: https://microbenz.in.th2022-review/
   state:
     shortLink: https://webring.page.link/76b1
+b9d19f43cf76cd1b1e3cf24dd3f46818:facebook:
+  spec:
+    title: Port number randomizer [dt.in.th]
+    url: https://notes.dt.in.th/RandomPort
+  state:
+    id: '100746876247412_160112146978036'
+    url: https://www.facebook.com/100683012920950/posts/160112146978036
+b9d19f43cf76cd1b1e3cf24dd3f46818:mastodon:
+  spec:
+    title: Port number randomizer [dt.in.th]
+    url: https://notes.dt.in.th/RandomPort
+  state:
+    id: '110155332136665050'
+    url: https://mastodon.in.th/@webring/110155332136665050
+b9d19f43cf76cd1b1e3cf24dd3f46818:shorturl:
+  spec:
+    url: https://notes.dt.in.th/RandomPort
+  state:
+    shortLink: https://webring.page.link/UKhw
 ba901617c7039c005602d1873810da5f:facebook:
   spec:
     title: 2023 [garden.narze.live]
