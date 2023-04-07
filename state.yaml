@@ -55,6 +55,25 @@
     url: https://blog.oatto.dev/2023/01/01/happy-new-year-2023.html
   state:
     shortLink: https://webring.page.link/DfSf
+04f73bef92fc97d4c1e334d487563df9:facebook:
+  spec:
+    title: เมื่อเป็ดไปงาน FirebaseDevDay2023 [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/duck-x-firebasedevday2023
+  state:
+    id: '100746876247412_160259020296682'
+    url: https://www.facebook.com/100683012920950/posts/160259020296682
+04f73bef92fc97d4c1e334d487563df9:mastodon:
+  spec:
+    title: เมื่อเป็ดไปงาน FirebaseDevDay2023 [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/duck-x-firebasedevday2023
+  state:
+    id: '110156745565890460'
+    url: https://mastodon.in.th/@webring/110156745565890460
+04f73bef92fc97d4c1e334d487563df9:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/duck-x-firebasedevday2023
+  state:
+    shortLink: https://webring.page.link/hU2G
 07b570f18a69ca2e2f65c8de4ce9c07f:facebook:
   spec:
     title: dotnet start webapi error failed to load the dll hostfxr.dll or api-ms-win-crt-runtime-l1-1-0.dll is missing from your computer [debuggingsoft.com]
