@@ -1499,6 +1499,25 @@
     url: https://www.somkiat.cc/domain-driven-design-by-roofimon-2023/
   state:
     shortLink: https://webring.page.link/37mR
+5fa036d23bd8b34dcf0b9855c36d16cb:facebook:
+  spec:
+    title: หนึ่งปีที่ผ่านมาใน Netherlands [llun.me]
+    url: https://www.llun.me//posts/2023-03-25-a-year-in-the-netherlands
+  state:
+    id: '100746876247412_160781446911106'
+    url: https://www.facebook.com/100683012920950/posts/160781446911106
+5fa036d23bd8b34dcf0b9855c36d16cb:mastodon:
+  spec:
+    title: หนึ่งปีที่ผ่านมาใน Netherlands [llun.me]
+    url: https://www.llun.me//posts/2023-03-25-a-year-in-the-netherlands
+  state:
+    id: '110160993902660365'
+    url: https://mastodon.in.th/@webring/110160993902660365
+5fa036d23bd8b34dcf0b9855c36d16cb:shorturl:
+  spec:
+    url: https://www.llun.me//posts/2023-03-25-a-year-in-the-netherlands
+  state:
+    shortLink: https://webring.page.link/oQup
 5faf7ad34aa6db043f6f5afa001b1378:facebook:
   spec:
     title: ทดลองทำเว็บวาดรูปเป็น pixel art ด้วย Svelte แบบง่าย ๆ กันเถอะ [mikkipastel.com]
