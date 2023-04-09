@@ -2297,6 +2297,25 @@
     url: https://natdanai.me/tohoku-japan/
   state:
     shortLink: https://webring.page.link/1WYq
+839384dd4c1a9c237f8984ea146a698e:facebook:
+  spec:
+    title: รู้ยัง Notion มีส่วนลดจาก Credit อยู่นะ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/04/%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%a2%e0%b8%b1%e0%b8%87-notion-%e0%b8%a1%e0%b8%b5%e0%b8%aa%e0%b9%88%e0%b8%a7%e0%b8%99%e0%b8%a5%e0%b8%94%e0%b8%88%e0%b8%b2%e0%b8%81-credit-%e0%b8%ad%e0%b8%a2%e0%b8%b9/
+  state:
+    id: '100746876247412_161447640177820'
+    url: https://www.facebook.com/100683012920950/posts/161447640177820
+839384dd4c1a9c237f8984ea146a698e:mastodon:
+  spec:
+    title: รู้ยัง Notion มีส่วนลดจาก Credit อยู่นะ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/04/%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%a2%e0%b8%b1%e0%b8%87-notion-%e0%b8%a1%e0%b8%b5%e0%b8%aa%e0%b9%88%e0%b8%a7%e0%b8%99%e0%b8%a5%e0%b8%94%e0%b8%88%e0%b8%b2%e0%b8%81-credit-%e0%b8%ad%e0%b8%a2%e0%b8%b9/
+  state:
+    id: '110166654757051496'
+    url: https://mastodon.in.th/@webring/110166654757051496
+839384dd4c1a9c237f8984ea146a698e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/04/%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%a2%e0%b8%b1%e0%b8%87-notion-%e0%b8%a1%e0%b8%b5%e0%b8%aa%e0%b9%88%e0%b8%a7%e0%b8%99%e0%b8%a5%e0%b8%94%e0%b8%88%e0%b8%b2%e0%b8%81-credit-%e0%b8%ad%e0%b8%a2%e0%b8%b9/
+  state:
+    shortLink: https://webring.page.link/zwbX
 8471d89b1fceb3c1683c5224bc7dd2e5:facebook:
   spec:
     title: ลองใช้งาน Pythagora สำหรับการทำ integration test ของ Node.js และ Express [somkiat.cc]
