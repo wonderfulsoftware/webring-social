@@ -815,6 +815,25 @@
     url: https://yothinix.com/amateur-method/
   state:
     shortLink: https://webring.page.link/tpPi
+342f7eddd66c5582137d612950428c73:facebook:
+  spec:
+    title: การตั้งค่า dockerfile และ docker-compose เพื่อรัน Node.js และ MongoDB บน Docker Container [toupawa.com]
+    url: https://toupawa.com/how-to-run-node-js-and-mongodb-as-docker-container/
+  state:
+    id: '100746876247412_162180360104548'
+    url: https://www.facebook.com/100683012920950/posts/162180360104548
+342f7eddd66c5582137d612950428c73:mastodon:
+  spec:
+    title: การตั้งค่า dockerfile และ docker-compose เพื่อรัน Node.js และ MongoDB บน Docker Container [toupawa.com]
+    url: https://toupawa.com/how-to-run-node-js-and-mongodb-as-docker-container/
+  state:
+    id: '110173036312879670'
+    url: https://mastodon.in.th/@webring/110173036312879670
+342f7eddd66c5582137d612950428c73:shorturl:
+  spec:
+    url: https://toupawa.com/how-to-run-node-js-and-mongodb-as-docker-container/
+  state:
+    shortLink: https://webring.page.link/Kqkj
 3500e398c0e68f68e5f4904af7493fc5:facebook:
   spec:
     title: A guide for realistic estimation of project timeline [heyfirst.co]
