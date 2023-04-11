@@ -3620,6 +3620,25 @@ d1476b3d9dfba601ae992cbbfab93036:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-manage-infrastructure-as-code-using-azure-and-dsc/
   state:
     shortLink: https://webring.page.link/R5uc
+d23ad7216ab2ab504908abcf7dbab652:facebook:
+  spec:
+    title: 'เล่าเรื่องงาน NFT Square Meetup #1 และ GASSED UP [mikkipastel.com]'
+    url: https://www.mikkipastel.com/nft-square-meetup-1-and-gassed-up/
+  state:
+    id: '100746876247412_162734136715837'
+    url: https://www.facebook.com/100683012920950/posts/162734136715837
+d23ad7216ab2ab504908abcf7dbab652:mastodon:
+  spec:
+    title: 'เล่าเรื่องงาน NFT Square Meetup #1 และ GASSED UP [mikkipastel.com]'
+    url: https://www.mikkipastel.com/nft-square-meetup-1-and-gassed-up/
+  state:
+    id: '110177982133240400'
+    url: https://mastodon.in.th/@webring/110177982133240400
+d23ad7216ab2ab504908abcf7dbab652:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/nft-square-meetup-1-and-gassed-up/
+  state:
+    shortLink: https://webring.page.link/BWd9
 d2a211d2c6b8c66f3cf64aab9d5140c8:facebook:
   spec:
     title: Securing Kafka with TLS/SSL encryption [mesodiar.com]
