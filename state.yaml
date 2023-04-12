@@ -758,6 +758,25 @@
     url: https://www.mikkipastel.com/review-blog-2022/
   state:
     shortLink: https://webring.page.link/PVwT
+2e9f462ed10f60f548f68ee347455396:facebook:
+  spec:
+    title: '[CR] Starbucks-Raspberry Black Current Frappuccino [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/04/cr-starbucks-raspberry-black-current-frappuccino/
+  state:
+    id: '100746876247412_163467836642467'
+    url: https://www.facebook.com/100683012920950/posts/163467836642467
+2e9f462ed10f60f548f68ee347455396:mastodon:
+  spec:
+    title: '[CR] Starbucks-Raspberry Black Current Frappuccino [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/04/cr-starbucks-raspberry-black-current-frappuccino/
+  state:
+    id: '110183643507462192'
+    url: https://mastodon.in.th/@webring/110183643507462192
+2e9f462ed10f60f548f68ee347455396:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/04/cr-starbucks-raspberry-black-current-frappuccino/
+  state:
+    shortLink: https://webring.page.link/gcaY
 2fc2c1104cbd7ff88b764194c7be9017:facebook:
   spec:
     title: เปิดใช้งาน Device mirroring ใน Android Studio [somkiat.cc]
