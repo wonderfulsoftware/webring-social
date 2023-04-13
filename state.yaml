@@ -1442,6 +1442,25 @@
     url: https://devahoy.com/tutorials/learn-css-animations/day2-card-flip
   state:
     shortLink: https://webring.page.link/2zz5
+5a1b59219b935759a4f09013fd0e0e94:facebook:
+  spec:
+    title: เรื่องของ Noise หรือสิ่งรบกวนที่ส่งผลต่อ Productivity [somkiat.cc]
+    url: https://www.somkiat.cc/noise-is-problem-for-productivity/
+  state:
+    id: '100746876247412_164262246563026'
+    url: https://www.facebook.com/100683012920950/posts/164262246563026
+5a1b59219b935759a4f09013fd0e0e94:mastodon:
+  spec:
+    title: เรื่องของ Noise หรือสิ่งรบกวนที่ส่งผลต่อ Productivity [somkiat.cc]
+    url: https://www.somkiat.cc/noise-is-problem-for-productivity/
+  state:
+    id: '110190721314330339'
+    url: https://mastodon.in.th/@webring/110190721314330339
+5a1b59219b935759a4f09013fd0e0e94:shorturl:
+  spec:
+    url: https://www.somkiat.cc/noise-is-problem-for-productivity/
+  state:
+    shortLink: https://webring.page.link/mymH
 5bad2dfa27f5bf49a7c24d0f0bc933b2:facebook:
   spec:
     title: Redis testing [kajame.xyz]
