@@ -36,6 +36,25 @@
     url: https://www.mikkipastel.com/notion-meetup-thailand-2023-first-love-with-notion/
   state:
     shortLink: https://webring.page.link/izwK
+032d7ad7ea1d8dac652641e39b8c321c:facebook:
+  spec:
+    title: '[Vue3] vue-multiselect TypeError: Cannot read properties of undefined (reading ‘_c’) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/04/vue-multiselect-typeerror-cannot-read-properties-of-undefined-reading-_cvue3/
+  state:
+    id: '100746876247412_165546609767923'
+    url: https://www.facebook.com/100683012920950/posts/165546609767923
+032d7ad7ea1d8dac652641e39b8c321c:mastodon:
+  spec:
+    title: '[Vue3] vue-multiselect TypeError: Cannot read properties of undefined (reading ‘_c’) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/04/vue-multiselect-typeerror-cannot-read-properties-of-undefined-reading-_cvue3/
+  state:
+    id: '110201344578457333'
+    url: https://mastodon.in.th/@webring/110201344578457333
+032d7ad7ea1d8dac652641e39b8c321c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/04/vue-multiselect-typeerror-cannot-read-properties-of-undefined-reading-_cvue3/
+  state:
+    shortLink: https://webring.page.link/qMY5
 049b791599c5a31533a5260873ea3523:facebook:
   spec:
     title: Happy New Year 2023 [blog.oatto.dev]
