@@ -1347,6 +1347,25 @@
     url: https://devahoy.com/blog/vscode-unknown-at-rules-css
   state:
     shortLink: https://webring.page.link/34Jq
+4f7868cf5e500bb12890c48efbe6dde7:facebook:
+  spec:
+    title: 'Docker Desktop 4.18 :: watch ใน Docker compose [somkiat.cc]'
+    url: https://www.somkiat.cc/docker-compose-watcher/
+  state:
+    id: '100746876247412_165467879775796'
+    url: https://www.facebook.com/100683012920950/posts/165467879775796
+4f7868cf5e500bb12890c48efbe6dde7:mastodon:
+  spec:
+    title: 'Docker Desktop 4.18 :: watch ใน Docker compose [somkiat.cc]'
+    url: https://www.somkiat.cc/docker-compose-watcher/
+  state:
+    id: '110200629767160026'
+    url: https://mastodon.in.th/@webring/110200629767160026
+4f7868cf5e500bb12890c48efbe6dde7:shorturl:
+  spec:
+    url: https://www.somkiat.cc/docker-compose-watcher/
+  state:
+    shortLink: https://webring.page.link/6NCh
 4f858e655ae628b52d52175666612125:facebook:
   spec:
     title: สรุปงาน Global AI Bootcamp – Thailand 2023 [debuggingsoft.com]
