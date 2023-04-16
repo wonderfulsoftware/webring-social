@@ -1917,6 +1917,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/com-interop-is-broken-runtime-error-3001-when-using-visual-studio-2022/
   state:
     shortLink: https://webring.page.link/oS2G
+6d2a9ed1af5a32091e1aa71122c2fcef:facebook:
+  spec:
+    title: มาลองใช้งาน Docker init กัน (beta version) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-docker-init/
+  state:
+    id: '100746876247412_166139653041952'
+    url: https://www.facebook.com/100683012920950/posts/166139653041952
+6d2a9ed1af5a32091e1aa71122c2fcef:mastodon:
+  spec:
+    title: มาลองใช้งาน Docker init กัน (beta version) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-docker-init/
+  state:
+    id: '110206292139353546'
+    url: https://mastodon.in.th/@webring/110206292139353546
+6d2a9ed1af5a32091e1aa71122c2fcef:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-docker-init/
+  state:
+    shortLink: https://webring.page.link/ERhx
 6ea664674e5299a96e34f7346ae67060:facebook:
   spec:
     title: Wishlist [garden.narze.live]
