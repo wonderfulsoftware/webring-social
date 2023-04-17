@@ -1176,6 +1176,25 @@
     url: https://www.somkiat.cc/infoq-culture-methods-trends-2023/
   state:
     shortLink: https://webring.page.link/iKWG
+47a8664ebd1b6a6891f48cf8ff95250f:facebook:
+  spec:
+    title: บันทึกเกี่ยวกับ Prompt Injection [somkiat.cc]
+    url: https://www.somkiat.cc/note-prompt-injection/
+  state:
+    id: '100746876247412_166880052967912'
+    url: https://www.facebook.com/100683012920950/posts/166880052967912
+47a8664ebd1b6a6891f48cf8ff95250f:mastodon:
+  spec:
+    title: บันทึกเกี่ยวกับ Prompt Injection [somkiat.cc]
+    url: https://www.somkiat.cc/note-prompt-injection/
+  state:
+    id: '110211956494180763'
+    url: https://mastodon.in.th/@webring/110211956494180763
+47a8664ebd1b6a6891f48cf8ff95250f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-prompt-injection/
+  state:
+    shortLink: https://webring.page.link/rj8b
 4a1eae93004543cecb46f5fb9a7b73d2:facebook:
   spec:
     title: เปิดใช้งาน Navigating files with the new code view (beta) ใน GitHub [somkiat.cc]
