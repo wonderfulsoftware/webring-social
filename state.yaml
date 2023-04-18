@@ -1480,6 +1480,25 @@
     url: https://www.mikkipastel.com/list-of-testnet-faucet-for-developer-and-airdrop-hunter/
   state:
     shortLink: https://webring.page.link/ue7Y
+53421a8f5a6f8ce1ffe357014a815a94:facebook:
+  spec:
+    title: Fixed Node ‘ERR_OSSL_EVP_UNSUPPORTED (0308010C:digital envelope routines::unsupported) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/04/fixed-node-error-err_ossl_evp_unsupported-0308010cdigital-envelope-routinesunsupported/
+  state:
+    id: '100746876247412_167601389562445'
+    url: https://www.facebook.com/100683012920950/posts/167601389562445
+53421a8f5a6f8ce1ffe357014a815a94:mastodon:
+  spec:
+    title: Fixed Node ‘ERR_OSSL_EVP_UNSUPPORTED (0308010C:digital envelope routines::unsupported) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/04/fixed-node-error-err_ossl_evp_unsupported-0308010cdigital-envelope-routinesunsupported/
+  state:
+    id: '110218335982341557'
+    url: https://mastodon.in.th/@webring/110218335982341557
+53421a8f5a6f8ce1ffe357014a815a94:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/04/fixed-node-error-err_ossl_evp_unsupported-0308010cdigital-envelope-routinesunsupported/
+  state:
+    shortLink: https://webring.page.link/1DWX
 577af00a06b01e0f193daf5e4c105f52:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 2 - Card Flip [devahoy.com]
