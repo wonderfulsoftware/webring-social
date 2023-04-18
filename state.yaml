@@ -3228,6 +3228,25 @@ aca5605a7c6d9434f9f9d8bee09eff8f:shorturl:
     url: https://www.somkiat.cc/go-vulnerability-management/
   state:
     shortLink: https://webring.page.link/ySHH
+ad99701907b20392b15bb3d9e84b9777:facebook:
+  spec:
+    title: สวัสดี Auto-GPT มันเป็นอย่างไร ? [somkiat.cc]
+    url: https://www.somkiat.cc/hello-auto-gpt/
+  state:
+    id: '100746876247412_167528839569700'
+    url: https://www.facebook.com/100683012920950/posts/167528839569700
+ad99701907b20392b15bb3d9e84b9777:mastodon:
+  spec:
+    title: สวัสดี Auto-GPT มันเป็นอย่างไร ? [somkiat.cc]
+    url: https://www.somkiat.cc/hello-auto-gpt/
+  state:
+    id: '110217617959672188'
+    url: https://mastodon.in.th/@webring/110217617959672188
+ad99701907b20392b15bb3d9e84b9777:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-auto-gpt/
+  state:
+    shortLink: https://webring.page.link/LShA
 ae4a4da87c7ad5fbb2b27e66cfad5b12:facebook:
   spec:
     title: สรุปจากบทความเรื่อง Go back to coding, engineering leader [somkiat.cc]
