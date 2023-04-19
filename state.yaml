@@ -796,6 +796,18 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/cr-starbucks-raspberry-black-current-frappuccino/
   state:
     shortLink: https://webring.page.link/gcaY
+2fb9595072963e079bc77714d61720e0:mastodon:
+  spec:
+    title: สรุปชนิดของ Technical Debt จาก Towards an Ontology of Terms on Technical Debt [somkiat.cc]
+    url: https://www.somkiat.cc/note-types-of-technical-debt/
+  state:
+    id: '110223999143530011'
+    url: https://mastodon.in.th/@webring/110223999143530011
+2fb9595072963e079bc77714d61720e0:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-types-of-technical-debt/
+  state:
+    shortLink: https://webring.page.link/Q3F3
 2fc2c1104cbd7ff88b764194c7be9017:facebook:
   spec:
     title: เปิดใช้งาน Device mirroring ใน Android Studio [somkiat.cc]
