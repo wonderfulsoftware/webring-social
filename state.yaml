@@ -2031,6 +2031,25 @@
     url: https://www.karnwong.me/posts/2023/03/book-highlights---engineering-management-for-the-rest-of-us-by-sarah-drasner/
   state:
     shortLink: https://webring.page.link/LVc9
+700b9672cf4f092e63fd53f41847a58e:facebook:
+  spec:
+    title: The mythical ChatOps in action [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/04/the-mythical-chatops-in-action/
+  state:
+    id: '100746876247412_168169312838986'
+    url: https://www.facebook.com/100683012920950/posts/168169312838986
+700b9672cf4f092e63fd53f41847a58e:mastodon:
+  spec:
+    title: The mythical ChatOps in action [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/04/the-mythical-chatops-in-action/
+  state:
+    id: '110223280659397107'
+    url: https://mastodon.in.th/@webring/110223280659397107
+700b9672cf4f092e63fd53f41847a58e:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/04/the-mythical-chatops-in-action/
+  state:
+    shortLink: https://webring.page.link/n5cb
 710f0b3cca25e6e7d188ee519b80c362:facebook:
   spec:
     title: ทำความเข้าใจ “MQTT with TLS” ใน AWS IoT Core สักหน่อย [thanapon.info]
