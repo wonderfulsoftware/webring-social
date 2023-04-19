@@ -796,6 +796,13 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/cr-starbucks-raspberry-black-current-frappuccino/
   state:
     shortLink: https://webring.page.link/gcaY
+2fb9595072963e079bc77714d61720e0:facebook:
+  spec:
+    title: สรุปชนิดของ Technical Debt จาก Towards an Ontology of Terms on Technical Debt [somkiat.cc]
+    url: https://www.somkiat.cc/note-types-of-technical-debt/
+  state:
+    id: '100746876247412_168312762824641'
+    url: https://www.facebook.com/100683012920950/posts/168312762824641
 2fb9595072963e079bc77714d61720e0:mastodon:
   spec:
     title: สรุปชนิดของ Technical Debt จาก Towards an Ontology of Terms on Technical Debt [somkiat.cc]
