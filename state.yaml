@@ -3582,6 +3582,25 @@ c25a1751edc8f9642937cb00ebca5982:shorturl:
     url: https://garden.narze.live/Data-Sci-Bootcamp/Building-a-Second-Brain/
   state:
     shortLink: https://webring.page.link/RXsQ
+c2d3929a3f056069d93c1f9a62db95e2:facebook:
+  spec:
+    title: มาแล้ว Node.js 20 !! [somkiat.cc]
+    url: https://www.somkiat.cc/hello-nodejs-20/
+  state:
+    id: '100746876247412_168795819443002'
+    url: https://www.facebook.com/100683012920950/posts/168795819443002
+c2d3929a3f056069d93c1f9a62db95e2:mastodon:
+  spec:
+    title: มาแล้ว Node.js 20 !! [somkiat.cc]
+    url: https://www.somkiat.cc/hello-nodejs-20/
+  state:
+    id: '110228942564836190'
+    url: https://mastodon.in.th/@webring/110228942564836190
+c2d3929a3f056069d93c1f9a62db95e2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-nodejs-20/
+  state:
+    shortLink: https://webring.page.link/ZpNP
 c3193ffcaffd320559c1a9a413e91abd:facebook:
   spec:
     title: ว่าด้วยเรื่องของ Law of Demeter ในการออกแบบ service [somkiat.cc]
