@@ -1727,6 +1727,25 @@
     url: https://www.somkiat.cc/what-zero-etl/
   state:
     shortLink: https://webring.page.link/vzkr
+6246e695e01f50a8bb3312b54045c8af:facebook:
+  spec:
+    title: สร้าง Web Application ด้วย Vite + React และ TypeScript [toupawa.com]
+    url: https://toupawa.com/create-an-web-application-with-vite-and-react-and-typescript/
+  state:
+    id: '100746876247412_169696106019640'
+    url: https://www.facebook.com/100683012920950/posts/169696106019640
+6246e695e01f50a8bb3312b54045c8af:mastodon:
+  spec:
+    title: สร้าง Web Application ด้วย Vite + React และ TypeScript [toupawa.com]
+    url: https://toupawa.com/create-an-web-application-with-vite-and-react-and-typescript/
+  state:
+    id: '110236754887143575'
+    url: https://mastodon.in.th/@webring/110236754887143575
+6246e695e01f50a8bb3312b54045c8af:shorturl:
+  spec:
+    url: https://toupawa.com/create-an-web-application-with-vite-and-react-and-typescript/
+  state:
+    shortLink: https://webring.page.link/WMv2
 62749a9ef46ab59fac2782eff4fb73c3:facebook:
   spec:
     title: 'VSCode :: แนะนำ CodeGPT extension [somkiat.cc]'
