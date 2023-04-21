@@ -625,6 +625,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/enable-auto-detect-workout-on-huawei-watch-fit/
   state:
     shortLink: https://webring.page.link/JfHF
+283a2af73e4faebd04c76907b2ba9124:facebook:
+  spec:
+    title: npm checkmark [dt.in.th]
+    url: https://notes.dt.in.th/NpmCheckmark
+  state:
+    id: '100746876247412_169447216044529'
+    url: https://www.facebook.com/100683012920950/posts/169447216044529
+283a2af73e4faebd04c76907b2ba9124:mastodon:
+  spec:
+    title: npm checkmark [dt.in.th]
+    url: https://notes.dt.in.th/NpmCheckmark
+  state:
+    id: '110234604984654178'
+    url: https://mastodon.in.th/@webring/110234604984654178
+283a2af73e4faebd04c76907b2ba9124:shorturl:
+  spec:
+    url: https://notes.dt.in.th/NpmCheckmark
+  state:
+    shortLink: https://webring.page.link/eLXa
 298873105333d3496c30815bb1b2bf39:facebook:
   spec:
     title: สรุป National Coding Day 2023#01 [debuggingsoft.com]
