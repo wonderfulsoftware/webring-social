@@ -3658,6 +3658,25 @@ c398c50193817b68dc475a64923a4c0d:shorturl:
     url: https://tinarskii.com/articles/undefined
   state:
     shortLink: https://webring.page.link/PNAf
+c4ce3508a892bcc9d9d65de4a37c7603:facebook:
+  spec:
+    title: '[AZ-400] Implement security and validate code bases for compliance [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/04/az-400-implement-security-and-validate-code-bases-for-compliance/
+  state:
+    id: '100746876247412_169528166036434'
+    url: https://www.facebook.com/100683012920950/posts/169528166036434
+c4ce3508a892bcc9d9d65de4a37c7603:mastodon:
+  spec:
+    title: '[AZ-400] Implement security and validate code bases for compliance [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/04/az-400-implement-security-and-validate-code-bases-for-compliance/
+  state:
+    id: '110235323538577213'
+    url: https://mastodon.in.th/@webring/110235323538577213
+c4ce3508a892bcc9d9d65de4a37c7603:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/04/az-400-implement-security-and-validate-code-bases-for-compliance/
+  state:
+    shortLink: https://webring.page.link/pK9F
 c860c0569cde5bd92e5079e8c396ff8e:facebook:
   spec:
     title: Simplicity fallacy of "Just use X (for everything)" [chrisza.me]
