@@ -4380,6 +4380,25 @@ ed74f69731cdc86dfaf7181e9889b17c:shorturl:
     url: https://tech.duckfollow.co/view/gitflow-workflow
   state:
     shortLink: https://webring.page.link/ywy8
+ef83bc2fa4075609c9b4cc4e91ac2644:facebook:
+  spec:
+    title: แนะนำ React => visualized สำหรับการเรียนรู้ ReactJS [somkiat.cc]
+    url: https://www.somkiat.cc/react-visualized/
+  state:
+    id: '100746876247412_169610249361559'
+    url: https://www.facebook.com/100683012920950/posts/169610249361559
+ef83bc2fa4075609c9b4cc4e91ac2644:mastodon:
+  spec:
+    title: แนะนำ React => visualized สำหรับการเรียนรู้ ReactJS [somkiat.cc]
+    url: https://www.somkiat.cc/react-visualized/
+  state:
+    id: '110236018581298471'
+    url: https://mastodon.in.th/@webring/110236018581298471
+ef83bc2fa4075609c9b4cc4e91ac2644:shorturl:
+  spec:
+    url: https://www.somkiat.cc/react-visualized/
+  state:
+    shortLink: https://webring.page.link/zUrm
 f09c3739636c28f5df703812b2b95e57:facebook:
   spec:
     title: 2022 [yothinix.com]
