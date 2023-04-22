@@ -1841,6 +1841,25 @@
     url: https://www.poolsawat.com/golang-grpc-advantages/
   state:
     shortLink: https://webring.page.link/kod8
+655fe23ff25ac2f9c9ad613f2d446fc2:facebook:
+  spec:
+    title: ESP32 Series รุ่นต่างๆ [thiti.dev]
+    url: https://thiti.dev/blog/66/
+  state:
+    id: '100746876247412_170102265979024'
+    url: https://www.facebook.com/100683012920950/posts/170102265979024
+655fe23ff25ac2f9c9ad613f2d446fc2:mastodon:
+  spec:
+    title: ESP32 Series รุ่นต่างๆ [thiti.dev]
+    url: https://thiti.dev/blog/66/
+  state:
+    id: '110240266653683393'
+    url: https://mastodon.in.th/@webring/110240266653683393
+655fe23ff25ac2f9c9ad613f2d446fc2:shorturl:
+  spec:
+    url: https://thiti.dev/blog/66/
+  state:
+    shortLink: https://webring.page.link/Ybic
 667f6c455933e98472d5bc55ee2d5e0c:facebook:
   spec:
     title: SecretOps with teller [karnwong.me]
