@@ -1708,6 +1708,25 @@
     url: https://www.mikkipastel.com/drawing-pixel-art-svelte-website/
   state:
     shortLink: https://webring.page.link/d4HR
+604ad30663fbb8e2104c6f38ba4e63e4:facebook:
+  spec:
+    title: บันทึกเรื่อง Architecture ของระบบ Twitch [somkiat.cc]
+    url: https://www.somkiat.cc/note-architecture-journey-from-twitch/
+  state:
+    id: '100746876247412_170949792560938'
+    url: https://www.facebook.com/100683012920950/posts/170949792560938
+604ad30663fbb8e2104c6f38ba4e63e4:mastodon:
+  spec:
+    title: บันทึกเรื่อง Architecture ของระบบ Twitch [somkiat.cc]
+    url: https://www.somkiat.cc/note-architecture-journey-from-twitch/
+  state:
+    id: '110247339404475916'
+    url: https://mastodon.in.th/@webring/110247339404475916
+604ad30663fbb8e2104c6f38ba4e63e4:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-architecture-journey-from-twitch/
+  state:
+    shortLink: https://webring.page.link/bHN6
 6093ef23fc852e94bd4da1ca3d3ef91c:facebook:
   spec:
     title: Zero-ETL คืออะไร [somkiat.cc]
