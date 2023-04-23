@@ -3848,6 +3848,25 @@ ceb7302711fc3fdb135809f4779c5431:shorturl:
     url: https://www.somkiat.cc/what-postman-flow/
   state:
     shortLink: https://webring.page.link/DD8e
+cf004268c1f804efce2054d967803f66:facebook:
+  spec:
+    title: DevX starts at your local machine [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/04/devx-starts-at-your-local-machine/
+  state:
+    id: '100746876247412_170868695902381'
+    url: https://www.facebook.com/100683012920950/posts/170868695902381
+cf004268c1f804efce2054d967803f66:mastodon:
+  spec:
+    title: DevX starts at your local machine [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/04/devx-starts-at-your-local-machine/
+  state:
+    id: '110246643896828946'
+    url: https://mastodon.in.th/@webring/110246643896828946
+cf004268c1f804efce2054d967803f66:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/04/devx-starts-at-your-local-machine/
+  state:
+    shortLink: https://webring.page.link/CM6L
 cfc88ef93dd09336b78321933c2bfeb2:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 5 (Scrum Master) [taoisaman.com]
