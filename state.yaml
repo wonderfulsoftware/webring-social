@@ -4380,6 +4380,25 @@ ec93c6f51edcaae54b0804a94d816822:shorturl:
     url: https://www.somkiat.cc/go-1-20-convert-from-slice-to-array/
   state:
     shortLink: https://webring.page.link/HYCY
+ece90ea8e02c36b89c8401ec96c6c72e:facebook:
+  spec:
+    title: Storybook 7.0 ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/storybook-7/
+  state:
+    id: '100746876247412_170787739243810'
+    url: https://www.facebook.com/100683012920950/posts/170787739243810
+ece90ea8e02c36b89c8401ec96c6c72e:mastodon:
+  spec:
+    title: Storybook 7.0 ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/storybook-7/
+  state:
+    id: '110245929991016073'
+    url: https://mastodon.in.th/@webring/110245929991016073
+ece90ea8e02c36b89c8401ec96c6c72e:shorturl:
+  spec:
+    url: https://www.somkiat.cc/storybook-7/
+  state:
+    shortLink: https://webring.page.link/f3zG
 ed3318e18af6b576baa479fe876ebec1:facebook:
   spec:
     title: 1 เว็บไซต์ต้องทำอะไรบ้าง? [tech.duckfollow.co]
