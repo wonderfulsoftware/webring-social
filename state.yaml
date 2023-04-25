@@ -3342,6 +3342,25 @@ ac32b68bb4ebd11aa5bcf3ab81e80203:shorturl:
     url: https://www.somkiat.cc/coding-with-spring-modulith/
   state:
     shortLink: https://webring.page.link/hvGd
+ac457515ee5e956d70f4ab6c93ee4ab4:facebook:
+  spec:
+    title: How to fix the error “host key verification failed” [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/04/how-to-fix-the-error-host-key-verification-failed/
+  state:
+    id: '100746876247412_172113505777900'
+    url: https://www.facebook.com/100683012920950/posts/172113505777900
+ac457515ee5e956d70f4ab6c93ee4ab4:mastodon:
+  spec:
+    title: How to fix the error “host key verification failed” [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/04/how-to-fix-the-error-host-key-verification-failed/
+  state:
+    id: '110257254788534357'
+    url: https://mastodon.in.th/@webring/110257254788534357
+ac457515ee5e956d70f4ab6c93ee4ab4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/04/how-to-fix-the-error-host-key-verification-failed/
+  state:
+    shortLink: https://webring.page.link/HscE
 aca5605a7c6d9434f9f9d8bee09eff8f:facebook:
   spec:
     title: ลองใช้งาน Go Vulnerability Management ในการตรวจสอบเรื่องความปลอดภัย [somkiat.cc]
