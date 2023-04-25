@@ -720,6 +720,25 @@
     url: https://notes.dt.in.th/Morse
   state:
     shortLink: https://webring.page.link/rZdN
+2d5074053e3175acf551175b9db713dd:facebook:
+  spec:
+    title: ว่าด้วยเรื่องของ Vector Database [somkiat.cc]
+    url: https://www.somkiat.cc/what-vector-database/
+  state:
+    id: '100746876247412_172184419104142'
+    url: https://www.facebook.com/100683012920950/posts/172184419104142
+2d5074053e3175acf551175b9db713dd:mastodon:
+  spec:
+    title: ว่าด้วยเรื่องของ Vector Database [somkiat.cc]
+    url: https://www.somkiat.cc/what-vector-database/
+  state:
+    id: '110257971327211300'
+    url: https://mastodon.in.th/@webring/110257971327211300
+2d5074053e3175acf551175b9db713dd:shorturl:
+  spec:
+    url: https://www.somkiat.cc/what-vector-database/
+  state:
+    shortLink: https://webring.page.link/qTLp
 2da10cd920f2bd2db8f07473d25dfd57:facebook:
   spec:
     title: UDP hole punching in Jamulus [dt.in.th]
