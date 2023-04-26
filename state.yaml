@@ -2981,6 +2981,25 @@
     url: https://tech.duckfollow.co/view/jwt
   state:
     shortLink: https://webring.page.link/sRtU
+936b100d8ff467020a89cc0978f8494d:facebook:
+  spec:
+    title: Use SQL against CSV (or other hard files) without CLI [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/04/use-sql-against-csv-or-other-hard-files-without-cli/
+  state:
+    id: '100746876247412_172748462381071'
+    url: https://www.facebook.com/100683012920950/posts/172748462381071
+936b100d8ff467020a89cc0978f8494d:mastodon:
+  spec:
+    title: Use SQL against CSV (or other hard files) without CLI [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/04/use-sql-against-csv-or-other-hard-files-without-cli/
+  state:
+    id: '110262916589963639'
+    url: https://mastodon.in.th/@webring/110262916589963639
+936b100d8ff467020a89cc0978f8494d:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/04/use-sql-against-csv-or-other-hard-files-without-cli/
+  state:
+    shortLink: https://webring.page.link/TLuC
 96f7739f7435b2722c08ff63bcecad53:facebook:
   spec:
     title: ว่าด้วยเรื่อง cURL ใช้อย่างไรให้ Pro ใช้อย่างไรถึงจะ Cool [poolsawat.com]
