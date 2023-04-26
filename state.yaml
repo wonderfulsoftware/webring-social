@@ -2145,6 +2145,25 @@
     url: https://www.karnwong.me/posts/2023/03/book-highlights---engineering-management-for-the-rest-of-us-by-sarah-drasner/
   state:
     shortLink: https://webring.page.link/LVc9
+6fc5638deae1e0269daf6422b680139d:facebook:
+  spec:
+    title: 'IWD 2023: Protect sensitive data in pipeline with Tink and Cloud KMS as Envelope Encryption [mesodiar.com]'
+    url: https://mesodiar.com/iwd-2023-protect-sensitive-data-in-pipeline-with-tink-and-cloud-kms-as-envelope-encryption-70b87b755ba1?source=rss----698ac1e5dc8c---4
+  state:
+    id: '100746876247412_172818655707385'
+    url: https://www.facebook.com/100683012920950/posts/172818655707385
+6fc5638deae1e0269daf6422b680139d:mastodon:
+  spec:
+    title: 'IWD 2023: Protect sensitive data in pipeline with Tink and Cloud KMS as Envelope Encryption [mesodiar.com]'
+    url: https://mesodiar.com/iwd-2023-protect-sensitive-data-in-pipeline-with-tink-and-cloud-kms-as-envelope-encryption-70b87b755ba1?source=rss----698ac1e5dc8c---4
+  state:
+    id: '110263633942332822'
+    url: https://mastodon.in.th/@webring/110263633942332822
+6fc5638deae1e0269daf6422b680139d:shorturl:
+  spec:
+    url: https://mesodiar.com/iwd-2023-protect-sensitive-data-in-pipeline-with-tink-and-cloud-kms-as-envelope-encryption-70b87b755ba1?source=rss----698ac1e5dc8c---4
+  state:
+    shortLink: https://webring.page.link/arg9
 700b9672cf4f092e63fd53f41847a58e:facebook:
   spec:
     title: The mythical ChatOps in action [karnwong.me]
