@@ -3601,6 +3601,25 @@ b7ed4ea6402e4dd022e2f8a43009eddb:shorturl:
     url: https://microbenz.in.th2022-review/
   state:
     shortLink: https://webring.page.link/76b1
+b8b3e22bc05f0ee8b6fc3cebad82d187:facebook:
+  spec:
+    title: 'Book highlights - Managing Transitions: Making the Most of Change by William Bridges [karnwong.me]'
+    url: https://www.karnwong.me/posts/2023/04/book-highlights---managing-transitions-making-the-most-of-change-by-william-bridges/
+  state:
+    id: '100746876247412_173392822316635'
+    url: https://www.facebook.com/100683012920950/posts/173392822316635
+b8b3e22bc05f0ee8b6fc3cebad82d187:mastodon:
+  spec:
+    title: 'Book highlights - Managing Transitions: Making the Most of Change by William Bridges [karnwong.me]'
+    url: https://www.karnwong.me/posts/2023/04/book-highlights---managing-transitions-making-the-most-of-change-by-william-bridges/
+  state:
+    id: '110268579717839474'
+    url: https://mastodon.in.th/@webring/110268579717839474
+b8b3e22bc05f0ee8b6fc3cebad82d187:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/04/book-highlights---managing-transitions-making-the-most-of-change-by-william-bridges/
+  state:
+    shortLink: https://webring.page.link/SjVn
 b9d19f43cf76cd1b1e3cf24dd3f46818:facebook:
   spec:
     title: Port number randomizer [dt.in.th]
