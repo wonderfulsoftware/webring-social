@@ -3962,6 +3962,25 @@ cbf22d74bdf5a85bd8b44bc46fcb9435:shorturl:
     url: https://www.somkiat.cc/flutter-unable-to-find-bundled-java-version/
   state:
     shortLink: https://webring.page.link/xdDT
+cdd4e6d11a1eea1d0484785081befc37:facebook:
+  spec:
+    title: Postman เปิดให้ลองใช้งาน API performance testing [somkiat.cc]
+    url: https://www.somkiat.cc/postman-with-api-performance-testing/
+  state:
+    id: '100746876247412_174853672170550'
+    url: https://www.facebook.com/100683012920950/posts/174853672170550
+cdd4e6d11a1eea1d0484785081befc37:mastodon:
+  spec:
+    title: Postman เปิดให้ลองใช้งาน API performance testing [somkiat.cc]
+    url: https://www.somkiat.cc/postman-with-api-performance-testing/
+  state:
+    id: '110280616922200550'
+    url: https://mastodon.in.th/@webring/110280616922200550
+cdd4e6d11a1eea1d0484785081befc37:shorturl:
+  spec:
+    url: https://www.somkiat.cc/postman-with-api-performance-testing/
+  state:
+    shortLink: https://webring.page.link/jXJD
 ce0b224af5ff522f907d8ef11f03cea1:facebook:
   spec:
     title: MongoDB testing [kajame.xyz]
