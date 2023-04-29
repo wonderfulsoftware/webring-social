@@ -1651,6 +1651,25 @@
     url: https://www.somkiat.cc/note-how-levels-fyi-scaled-to-millions-of-users/
   state:
     shortLink: https://webring.page.link/Dwcj
+5dc6b85d89c764f53044a5675ecccd05:facebook:
+  spec:
+    title: ทำบล็อกแบบง่าย ๆ แบบไม่ต้องใช้ CMS ผ่าน Glitch กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/create-blog-maskdown-without-cms-by-glitch/
+  state:
+    id: '100746876247412_174763262179591'
+    url: https://www.facebook.com/100683012920950/posts/174763262179591
+5dc6b85d89c764f53044a5675ecccd05:mastodon:
+  spec:
+    title: ทำบล็อกแบบง่าย ๆ แบบไม่ต้องใช้ CMS ผ่าน Glitch กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/create-blog-maskdown-without-cms-by-glitch/
+  state:
+    id: '110279902493249731'
+    url: https://mastodon.in.th/@webring/110279902493249731
+5dc6b85d89c764f53044a5675ecccd05:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/create-blog-maskdown-without-cms-by-glitch/
+  state:
+    shortLink: https://webring.page.link/n476
 5f3599f0d48dfb9110b4bafdfdd9f32e:facebook:
   spec:
     title: วันในสัปดาห์ [neizod.dev]
