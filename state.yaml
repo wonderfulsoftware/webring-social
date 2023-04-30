@@ -131,6 +131,25 @@
     url: https://lucian.solutions/blog/happy-new-year-2023
   state:
     shortLink: https://webring.page.link/xXgp
+090fdc97c4cd40b204d8b1453ecec8a2:facebook:
+  spec:
+    title: แก้ Error "xcodebuild" command but it exited with error code 65 [kajame.xyz]
+    url: https://kajame.xyz/blog/%E0%B9%81%E0%B8%81%E0%B9%89%20Error%20%22xcodebuild%22%20command%20but%20it%20exited%20with%20error%20code%2065
+  state:
+    id: '100746876247412_175492858773298'
+    url: https://www.facebook.com/100683012920950/posts/175492858773298
+090fdc97c4cd40b204d8b1453ecec8a2:mastodon:
+  spec:
+    title: แก้ Error "xcodebuild" command but it exited with error code 65 [kajame.xyz]
+    url: https://kajame.xyz/blog/%E0%B9%81%E0%B8%81%E0%B9%89%20Error%20%22xcodebuild%22%20command%20but%20it%20exited%20with%20error%20code%2065
+  state:
+    id: '110285564029041259'
+    url: https://mastodon.in.th/@webring/110285564029041259
+090fdc97c4cd40b204d8b1453ecec8a2:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/%E0%B9%81%E0%B8%81%E0%B9%89%20Error%20%22xcodebuild%22%20command%20but%20it%20exited%20with%20error%20code%2065
+  state:
+    shortLink: https://webring.page.link/ZZUH
 0b6b5210b72bf25f93c1e92d1943e83c:facebook:
   spec:
     title: Illustration - クルミ隊 💛❤️💙 [lucian.solutions]
