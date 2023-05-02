@@ -3228,6 +3228,25 @@
     url: https://notes.dt.in.th/20230103T095819Z9158
   state:
     shortLink: https://webring.page.link/ADpo
+9ce5def91cf4f48b46948ebf5155ad2c:facebook:
+  spec:
+    title: การ Custom font ใน React Native [kajame.xyz]
+    url: https://kajame.xyz/blog/%E0%B8%81%E0%B8%B2%E0%B8%A3%20Custom%20font%20%E0%B9%83%E0%B8%99%20React%20Native
+  state:
+    id: '100746876247412_176915661964351'
+    url: https://www.facebook.com/100683012920950/posts/176915661964351
+9ce5def91cf4f48b46948ebf5155ad2c:mastodon:
+  spec:
+    title: การ Custom font ใน React Native [kajame.xyz]
+    url: https://kajame.xyz/blog/%E0%B8%81%E0%B8%B2%E0%B8%A3%20Custom%20font%20%E0%B9%83%E0%B8%99%20React%20Native
+  state:
+    id: '110296888546151487'
+    url: https://mastodon.in.th/@webring/110296888546151487
+9ce5def91cf4f48b46948ebf5155ad2c:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/%E0%B8%81%E0%B8%B2%E0%B8%A3%20Custom%20font%20%E0%B9%83%E0%B8%99%20React%20Native
+  state:
+    shortLink: https://webring.page.link/X2EK
 9cf16e935406f6b3f6a030cee3c7bdfb:facebook:
   spec:
     title: Resistor Color Code Utility [tech.duckfollow.co]
