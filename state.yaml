@@ -1043,6 +1043,25 @@
     url: https://toupawa.com/fix-async-function-error-on-react-useeffect-with-iife/
   state:
     shortLink: https://webring.page.link/b5nM
+36aca89b0011d02bfec663e857d3fe1f:facebook:
+  spec:
+    title: '[CR] ฮั่วเซ่งฮง ซาลาเปาเผือกแปะก๊วย [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/05/cr-hua-seng-hong-taro-paste-with-ginkgo-bun/
+  state:
+    id: '100746876247412_177744261881491'
+    url: https://www.facebook.com/100683012920950/posts/177744261881491
+36aca89b0011d02bfec663e857d3fe1f:mastodon:
+  spec:
+    title: '[CR] ฮั่วเซ่งฮง ซาลาเปาเผือกแปะก๊วย [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/05/cr-hua-seng-hong-taro-paste-with-ginkgo-bun/
+  state:
+    id: '110303964557406627'
+    url: https://mastodon.in.th/@webring/110303964557406627
+36aca89b0011d02bfec663e857d3fe1f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/05/cr-hua-seng-hong-taro-paste-with-ginkgo-bun/
+  state:
+    shortLink: https://webring.page.link/wV1N
 3808dbfe4969925f92be092d2781b80f:facebook:
   spec:
     title: บันทึกปัญหา ./mvnw not found ใน Dockerfile [somkiat.cc]
