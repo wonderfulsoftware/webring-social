@@ -340,6 +340,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/cr-starbucks-skinny-banana-muffin/
   state:
     shortLink: https://webring.page.link/5yCp
+128c0bc2d33436e2cd2c9e67aa9a66ff:facebook:
+  spec:
+    title: น่าสนใจมาก ๆ Vercel Storage [somkiat.cc]
+    url: https://www.somkiat.cc/hello-vercel-storage/
+  state:
+    id: '100746876247412_177663955222855'
+    url: https://www.facebook.com/100683012920950/posts/177663955222855
+128c0bc2d33436e2cd2c9e67aa9a66ff:mastodon:
+  spec:
+    title: น่าสนใจมาก ๆ Vercel Storage [somkiat.cc]
+    url: https://www.somkiat.cc/hello-vercel-storage/
+  state:
+    id: '110303268512041294'
+    url: https://mastodon.in.th/@webring/110303268512041294
+128c0bc2d33436e2cd2c9e67aa9a66ff:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-vercel-storage/
+  state:
+    shortLink: https://webring.page.link/WNNx
 147f58ef6a5d7a13cce45ccf263b2183:facebook:
   spec:
     title: สรุปจาก Bangkok Elastic Meetup 2023 [somkiat.cc]
