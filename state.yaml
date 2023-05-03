@@ -3228,6 +3228,25 @@
     url: https://notes.dt.in.th/20230103T095819Z9158
   state:
     shortLink: https://webring.page.link/ADpo
+9ce085c9970487071b7c877936fd20f7:facebook:
+  spec:
+    title: Typing Guide [garden.narze.live]
+    url: https://garden.narze.live/2-Areas/Keyboard-Typing/Typing-Guide/
+  state:
+    id: '100746876247412_177582215231029'
+    url: https://www.facebook.com/100683012920950/posts/177582215231029
+9ce085c9970487071b7c877936fd20f7:mastodon:
+  spec:
+    title: Typing Guide [garden.narze.live]
+    url: https://garden.narze.live/2-Areas/Keyboard-Typing/Typing-Guide/
+  state:
+    id: '110302553940624964'
+    url: https://mastodon.in.th/@webring/110302553940624964
+9ce085c9970487071b7c877936fd20f7:shorturl:
+  spec:
+    url: https://garden.narze.live/2-Areas/Keyboard-Typing/Typing-Guide/
+  state:
+    shortLink: https://webring.page.link/xBfc
 9ce5def91cf4f48b46948ebf5155ad2c:facebook:
   spec:
     title: การ Custom font ใน React Native [kajame.xyz]
