@@ -1651,6 +1651,25 @@
     url: https://www.somkiat.cc/sharing-about-chatgpt-and-usecase/
   state:
     shortLink: https://webring.page.link/RgzX
+55f96c5edd8ce52d4fc3f0e55ab00f14:facebook:
+  spec:
+    title: Update ทุก Dependency ของ Package.json [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/update-each-dependency-in-package-dot-json-to-lasted-version/
+  state:
+    id: '100746876247412_179197378402846'
+    url: https://www.facebook.com/100683012920950/posts/179197378402846
+55f96c5edd8ce52d4fc3f0e55ab00f14:mastodon:
+  spec:
+    title: Update ทุก Dependency ของ Package.json [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/update-each-dependency-in-package-dot-json-to-lasted-version/
+  state:
+    id: '110315289994357826'
+    url: https://mastodon.in.th/@webring/110315289994357826
+55f96c5edd8ce52d4fc3f0e55ab00f14:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/05/update-each-dependency-in-package-dot-json-to-lasted-version/
+  state:
+    shortLink: https://webring.page.link/bXAy
 577af00a06b01e0f193daf5e4c105f52:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 2 - Card Flip [devahoy.com]
