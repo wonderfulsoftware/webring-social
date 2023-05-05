@@ -1632,6 +1632,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/fixed-node-error-err_ossl_evp_unsupported-0308010cdigital-envelope-routinesunsupported/
   state:
     shortLink: https://webring.page.link/1DWX
+55592834aab2585489609dbc395fe826:facebook:
+  spec:
+    title: สรุปการแบ่งปันเรื่อง ChatGPT ในการทำงานสาย Developer [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-about-chatgpt-and-usecase/
+  state:
+    id: '100746876247412_179120755077175'
+    url: https://www.facebook.com/100683012920950/posts/179120755077175
+55592834aab2585489609dbc395fe826:mastodon:
+  spec:
+    title: สรุปการแบ่งปันเรื่อง ChatGPT ในการทำงานสาย Developer [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-about-chatgpt-and-usecase/
+  state:
+    id: '110314594099675283'
+    url: https://mastodon.in.th/@webring/110314594099675283
+55592834aab2585489609dbc395fe826:shorturl:
+  spec:
+    url: https://www.somkiat.cc/sharing-about-chatgpt-and-usecase/
+  state:
+    shortLink: https://webring.page.link/RgzX
 577af00a06b01e0f193daf5e4c105f52:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 2 - Card Flip [devahoy.com]
