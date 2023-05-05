@@ -4855,6 +4855,25 @@ f61ba76d8f875bace468dadcffe183d8:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day1-heart
   state:
     shortLink: https://webring.page.link/YArx
+f695c7098433ca6b3d6e691638eb73b4:facebook:
+  spec:
+    title: Refinance คอนโดครั้งแรก [kusumotolab.com]
+    url: https://kusumotolab.com/first-time-condo-refinance/
+  state:
+    id: '100746876247412_179031961752721'
+    url: https://www.facebook.com/100683012920950/posts/179031961752721
+f695c7098433ca6b3d6e691638eb73b4:mastodon:
+  spec:
+    title: Refinance คอนโดครั้งแรก [kusumotolab.com]
+    url: https://kusumotolab.com/first-time-condo-refinance/
+  state:
+    id: '110313877068530520'
+    url: https://mastodon.in.th/@webring/110313877068530520
+f695c7098433ca6b3d6e691638eb73b4:shorturl:
+  spec:
+    url: https://kusumotolab.com/first-time-condo-refinance/
+  state:
+    shortLink: https://webring.page.link/AqGB
 f71e908eceea50140926bf688bf08369:facebook:
   spec:
     title: เมื่อ Twitter เปิด Open Source ให้เห็น Algorithms น่าสนใจมากๆ [myifew.com]
