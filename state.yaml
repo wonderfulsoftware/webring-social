@@ -397,6 +397,25 @@
     url: https://garden.narze.live/Getting-full-Github-URL-of-the-latest-commit/
   state:
     shortLink: https://webring.page.link/zSGL
+169cbce5953d60fb21cec9f1cabcdfe2:facebook:
+  spec:
+    title: COVID-19 First Time [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/covid-19-first-time/
+  state:
+    id: '100746876247412_179848635004387'
+    url: https://www.facebook.com/100683012920950/posts/179848635004387
+169cbce5953d60fb21cec9f1cabcdfe2:mastodon:
+  spec:
+    title: COVID-19 First Time [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/covid-19-first-time/
+  state:
+    id: '110320251892189971'
+    url: https://mastodon.in.th/@webring/110320251892189971
+169cbce5953d60fb21cec9f1cabcdfe2:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/05/covid-19-first-time/
+  state:
+    shortLink: https://webring.page.link/M12p
 17529e04b2d115ba1f3816c7cc43cb4f:facebook:
   spec:
     title: บันทึก Humanistic Software Architecture [debuggingsoft.com]
