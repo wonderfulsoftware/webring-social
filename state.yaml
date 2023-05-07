@@ -2563,6 +2563,25 @@
     url: https://notes.dt.in.th/DiscordThaiCombiningMarks
   state:
     shortLink: https://webring.page.link/HCj7
+79519c2d8413490b821d183d085ea699:facebook:
+  spec:
+    title: บันทึก VSCode Day 2023 TH [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/vscode-day-th/
+  state:
+    id: '100746876247412_180445421611375'
+    url: https://www.facebook.com/100683012920950/posts/180445421611375
+79519c2d8413490b821d183d085ea699:mastodon:
+  spec:
+    title: บันทึก VSCode Day 2023 TH [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/vscode-day-th/
+  state:
+    id: '110325201384240549'
+    url: https://mastodon.in.th/@webring/110325201384240549
+79519c2d8413490b821d183d085ea699:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/05/vscode-day-th/
+  state:
+    shortLink: https://webring.page.link/9Zcz
 7a61d125d31a83687d9b20aaa4acb3d2:facebook:
   spec:
     title: ตัวอย่าง Github Action สำหรับ Push Docker image ไปที่ Github Package (Kotlin + Spring) [taoisaman.com]
