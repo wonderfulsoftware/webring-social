@@ -3228,6 +3228,25 @@
     url: https://notes.dt.in.th/20220907T163410Z4258
   state:
     shortLink: https://webring.page.link/Pnpn
+924b8c65940e95cddec539fec0ac41aa:facebook:
+  spec:
+    title: Illustration - Lucian Solutions 01 - Lucian & Thanik [lucian.solutions]
+    url: https://lucian.solutions/blog/lucian-thanik
+  state:
+    id: '100746876247412_181291141526803'
+    url: https://www.facebook.com/100683012920950/posts/181291141526803
+924b8c65940e95cddec539fec0ac41aa:mastodon:
+  spec:
+    title: Illustration - Lucian Solutions 01 - Lucian & Thanik [lucian.solutions]
+    url: https://lucian.solutions/blog/lucian-thanik
+  state:
+    id: '110332279907884777'
+    url: https://mastodon.in.th/@webring/110332279907884777
+924b8c65940e95cddec539fec0ac41aa:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/lucian-thanik
+  state:
+    shortLink: https://webring.page.link/tTve
 92549b8bf349a2a22d83de826f181ba1:facebook:
   spec:
     title: 2022 [llun.me]
