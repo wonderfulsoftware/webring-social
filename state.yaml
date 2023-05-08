@@ -1480,6 +1480,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/microsoft-thailand-developer-day-2023-summay/
   state:
     shortLink: https://webring.page.link/DNhF
+4d00e812ceed16823eed9e2aa5fdc01e:facebook:
+  spec:
+    title: Migrate from CRA to Vite.js [blog.oatto.dev]
+    url: https://blog.oatto.dev/2023/05/07/migrate-from-cra-to-vitejs.html
+  state:
+    id: '100746876247412_181125834876667'
+    url: https://www.facebook.com/100683012920950/posts/181125834876667
+4d00e812ceed16823eed9e2aa5fdc01e:mastodon:
+  spec:
+    title: Migrate from CRA to Vite.js [blog.oatto.dev]
+    url: https://blog.oatto.dev/2023/05/07/migrate-from-cra-to-vitejs.html
+  state:
+    id: '110330863151069961'
+    url: https://mastodon.in.th/@webring/110330863151069961
+4d00e812ceed16823eed9e2aa5fdc01e:shorturl:
+  spec:
+    url: https://blog.oatto.dev/2023/05/07/migrate-from-cra-to-vitejs.html
+  state:
+    shortLink: https://webring.page.link/PGRP
 4d49000de0cac82eb1e7a7299b15f23b:facebook:
   spec:
     title: แนะนำ Tripster ทำยังไงให้ mint out ใน 45 นาที [mikkipastel.com]
