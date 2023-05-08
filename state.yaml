@@ -4133,6 +4133,25 @@ c398c50193817b68dc475a64923a4c0d:shorturl:
     url: https://tinarskii.com/articles/undefined
   state:
     shortLink: https://webring.page.link/PNAf
+c4bc6a941df1a17cd83aea42714f85aa:facebook:
+  spec:
+    title: 'เรื่องที่น่าสนใจจาก Prime Video​ :: สำหรับการ Rearchitecture ของระบบ VDO monitoring [somkiat.cc]'
+    url: https://www.somkiat.cc/prime-video-rearchitecture/
+  state:
+    id: '100746876247412_181378141518103'
+    url: https://www.facebook.com/100683012920950/posts/181378141518103
+c4bc6a941df1a17cd83aea42714f85aa:mastodon:
+  spec:
+    title: 'เรื่องที่น่าสนใจจาก Prime Video​ :: สำหรับการ Rearchitecture ของระบบ VDO monitoring [somkiat.cc]'
+    url: https://www.somkiat.cc/prime-video-rearchitecture/
+  state:
+    id: '110333018754087764'
+    url: https://mastodon.in.th/@webring/110333018754087764
+c4bc6a941df1a17cd83aea42714f85aa:shorturl:
+  spec:
+    url: https://www.somkiat.cc/prime-video-rearchitecture/
+  state:
+    shortLink: https://webring.page.link/jaVN
 c4ce3508a892bcc9d9d65de4a37c7603:facebook:
   spec:
     title: '[AZ-400] Implement security and validate code bases for compliance [debuggingsoft.com]'
