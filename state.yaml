@@ -207,6 +207,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/cr-starbucks-milk-pudding/
   state:
     shortLink: https://webring.page.link/sBWC
+0cdb03c8f1254d1d1234102ef34f2e95:facebook:
+  spec:
+    title: เมื่อพยายามจะ Migrate Data จาก MongoDB (DocumentDB) ไปยัง On-Premise MongoDB โดยบังคับต้องมี Condition ในการ Migrate [kusumotolab.com]
+    url: https://kusumotolab.com/try-to-migrate-document-db-to-mongodb-with-condition/
+  state:
+    id: '100746876247412_181880101467907'
+    url: https://www.facebook.com/100683012920950/posts/181880101467907
+0cdb03c8f1254d1d1234102ef34f2e95:mastodon:
+  spec:
+    title: เมื่อพยายามจะ Migrate Data จาก MongoDB (DocumentDB) ไปยัง On-Premise MongoDB โดยบังคับต้องมี Condition ในการ Migrate [kusumotolab.com]
+    url: https://kusumotolab.com/try-to-migrate-document-db-to-mongodb-with-condition/
+  state:
+    id: '110337243192292476'
+    url: https://mastodon.in.th/@webring/110337243192292476
+0cdb03c8f1254d1d1234102ef34f2e95:shorturl:
+  spec:
+    url: https://kusumotolab.com/try-to-migrate-document-db-to-mongodb-with-condition/
+  state:
+    shortLink: https://webring.page.link/esR8
 0d4e0cd9d6cbddc90b2fb1086ed5220a:facebook:
   spec:
     title: น่าสนใจกับ Top 10 CI/CD Security Risks จาก OWASP [somkiat.cc]
