@@ -1955,6 +1955,25 @@
     url: https://www.mikkipastel.com/drawing-pixel-art-svelte-website/
   state:
     shortLink: https://webring.page.link/d4HR
+60097ae9fc94e109a754a3b72fb70a4d:facebook:
+  spec:
+    title: How to declare PowerShell variable in Jenkins Pipeline [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/how-to-declare-powershell-variable-in-jenkins-pipeline/
+  state:
+    id: '100746876247412_181955794793671'
+    url: https://www.facebook.com/100683012920950/posts/181955794793671
+60097ae9fc94e109a754a3b72fb70a4d:mastodon:
+  spec:
+    title: How to declare PowerShell variable in Jenkins Pipeline [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/how-to-declare-powershell-variable-in-jenkins-pipeline/
+  state:
+    id: '110337940967771209'
+    url: https://mastodon.in.th/@webring/110337940967771209
+60097ae9fc94e109a754a3b72fb70a4d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/05/how-to-declare-powershell-variable-in-jenkins-pipeline/
+  state:
+    shortLink: https://webring.page.link/mxjV
 604ad30663fbb8e2104c6f38ba4e63e4:facebook:
   spec:
     title: บันทึกเรื่อง Architecture ของระบบ Twitch [somkiat.cc]
