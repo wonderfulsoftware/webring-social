@@ -150,6 +150,25 @@
     url: https://kajame.xyz/blog/%E0%B9%81%E0%B8%81%E0%B9%89%20Error%20%22xcodebuild%22%20command%20but%20it%20exited%20with%20error%20code%2065
   state:
     shortLink: https://webring.page.link/ZZUH
+0a2b0c5c6d3a86e26c366b07c9c40e4f:facebook:
+  spec:
+    title: Docker scan ถูกเอาออกไปแล้ว แทนที่ด้วย Docker Scout [somkiat.cc]
+    url: https://www.somkiat.cc/docker-scout/
+  state:
+    id: '100746876247412_181792498143334'
+    url: https://www.facebook.com/100683012920950/posts/181792498143334
+0a2b0c5c6d3a86e26c366b07c9c40e4f:mastodon:
+  spec:
+    title: Docker scan ถูกเอาออกไปแล้ว แทนที่ด้วย Docker Scout [somkiat.cc]
+    url: https://www.somkiat.cc/docker-scout/
+  state:
+    id: '110336527833864404'
+    url: https://mastodon.in.th/@webring/110336527833864404
+0a2b0c5c6d3a86e26c366b07c9c40e4f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/docker-scout/
+  state:
+    shortLink: https://webring.page.link/DYym
 0b6b5210b72bf25f93c1e92d1943e83c:facebook:
   spec:
     title: Illustration - クルミ隊 💛❤️💙 [lucian.solutions]
