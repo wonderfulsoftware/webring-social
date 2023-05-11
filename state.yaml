@@ -2392,6 +2392,25 @@
     url: https://garden.narze.live/uses/
   state:
     shortLink: https://webring.page.link/s73p
+6f56eb113e092be8425418b21d360525:facebook:
+  spec:
+    title: VS Code Shortcuts in 15 minutes [garden.narze.live]
+    url: https://garden.narze.live/VS-Code-Shortcuts-in-15-minutes/
+  state:
+    id: '100746876247412_183102418012342'
+    url: https://www.facebook.com/100683012920950/posts/183102418012342
+6f56eb113e092be8425418b21d360525:mastodon:
+  spec:
+    title: VS Code Shortcuts in 15 minutes [garden.narze.live]
+    url: https://garden.narze.live/VS-Code-Shortcuts-in-15-minutes/
+  state:
+    id: '110347850332826778'
+    url: https://mastodon.in.th/@webring/110347850332826778
+6f56eb113e092be8425418b21d360525:shorturl:
+  spec:
+    url: https://garden.narze.live/VS-Code-Shortcuts-in-15-minutes/
+  state:
+    shortLink: https://webring.page.link/ifkk
 6f9d5af493ea79179ca0a007f1c5595e:facebook:
   spec:
     title: Book highlights - Engineering Management for the Rest of Us by Sarah Drasner [karnwong.me]
