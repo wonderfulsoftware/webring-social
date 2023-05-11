@@ -2506,6 +2506,25 @@
     url: https://tech.duckfollow.co/view/credit-card
   state:
     shortLink: https://webring.page.link/KBGB
+7323903c80c8d85a2914c258cb1d46c5:facebook:
+  spec:
+    title: โกยซีหมี่ ตลาดวงเวียนใหญ่ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/%e0%b9%82%e0%b8%81%e0%b8%a2%e0%b8%8b%e0%b8%b5%e0%b8%ab%e0%b8%a1%e0%b8%b5%e0%b9%88-%e0%b8%95%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%a7%e0%b8%87%e0%b9%80%e0%b8%a7%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b9%83%e0%b8%ab/
+  state:
+    id: '100746876247412_183173251338592'
+    url: https://www.facebook.com/100683012920950/posts/183173251338592
+7323903c80c8d85a2914c258cb1d46c5:mastodon:
+  spec:
+    title: โกยซีหมี่ ตลาดวงเวียนใหญ่ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/%e0%b9%82%e0%b8%81%e0%b8%a2%e0%b8%8b%e0%b8%b5%e0%b8%ab%e0%b8%a1%e0%b8%b5%e0%b9%88-%e0%b8%95%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%a7%e0%b8%87%e0%b9%80%e0%b8%a7%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b9%83%e0%b8%ab/
+  state:
+    id: '110348568970764917'
+    url: https://mastodon.in.th/@webring/110348568970764917
+7323903c80c8d85a2914c258cb1d46c5:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/05/%e0%b9%82%e0%b8%81%e0%b8%a2%e0%b8%8b%e0%b8%b5%e0%b8%ab%e0%b8%a1%e0%b8%b5%e0%b9%88-%e0%b8%95%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%a7%e0%b8%87%e0%b9%80%e0%b8%a7%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b9%83%e0%b8%ab/
+  state:
+    shortLink: https://webring.page.link/F6Jv
 73fe2aaf265fa72a5d137b2c4aaa993e:facebook:
   spec:
     title: LTF 7 ปีปฏิทิน [debuggingsoft.com]
