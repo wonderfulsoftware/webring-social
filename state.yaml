@@ -3475,6 +3475,25 @@
     url: https://garden.narze.live/Why-I-use-Arc-Browser/
   state:
     shortLink: https://webring.page.link/XD65
+99a395c9356cf0646c65136c3e45c7e4:facebook:
+  spec:
+    title: ตั้งชื่อ Unit Test กันยังไงนะ ? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/unit-test-naming-conventions/
+  state:
+    id: '100746876247412_184395307883053'
+    url: https://www.facebook.com/100683012920950/posts/184395307883053
+99a395c9356cf0646c65136c3e45c7e4:mastodon:
+  spec:
+    title: ตั้งชื่อ Unit Test กันยังไงนะ ? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/unit-test-naming-conventions/
+  state:
+    id: '110359173685615981'
+    url: https://mastodon.in.th/@webring/110359173685615981
+99a395c9356cf0646c65136c3e45c7e4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/05/unit-test-naming-conventions/
+  state:
+    shortLink: https://webring.page.link/EVJy
 9ac5ae6b0dd3a8bca3e9f4010bb29b69:facebook:
   spec:
     title: ลองใช้งาน Virtual Thread ของ Java 19 ใน Spring Boot 3 [somkiat.cc]
