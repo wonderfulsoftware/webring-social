@@ -2658,6 +2658,25 @@
     url: https://www.mikkipastel.com/creating-kick-ass-content-with-productive-thinking-method/
   state:
     shortLink: https://webring.page.link/JKzj
+77a178b7def9371f93f634102ec37cec:facebook:
+  spec:
+    title: สรุปสิ่งที่น่าสนใจกับ Technology Radar Vol. 28 [somkiat.cc]
+    url: https://www.somkiat.cc/technology-radar-vol-28/
+  state:
+    id: '100746876247412_185087641147153'
+    url: https://www.facebook.com/100683012920950/posts/185087641147153
+77a178b7def9371f93f634102ec37cec:mastodon:
+  spec:
+    title: สรุปสิ่งที่น่าสนใจกับ Technology Radar Vol. 28 [somkiat.cc]
+    url: https://www.somkiat.cc/technology-radar-vol-28/
+  state:
+    id: '110364834512537078'
+    url: https://mastodon.in.th/@webring/110364834512537078
+77a178b7def9371f93f634102ec37cec:shorturl:
+  spec:
+    url: https://www.somkiat.cc/technology-radar-vol-28/
+  state:
+    shortLink: https://webring.page.link/a2cC
 788b822f1d2bb7d0aa070b35a7c53d91:facebook:
   spec:
     title: '[Jenkins] Jenkins not able to fetch code from remote git [debuggingsoft.com]'
