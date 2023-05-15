@@ -4779,6 +4779,25 @@ e29c6f2358bde3729584684d4e296a57:shorturl:
     url: https://lucian.solutions/blog/papang-uvu-art-trade
   state:
     shortLink: https://webring.page.link/bJXc
+e3c7ac2201ce2dd77fabcb72e3d1f9d7:facebook:
+  spec:
+    title: ไปส่องดูโครงสร้างของระบบ ectreport.com กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/review-ectreport/
+  state:
+    id: '100746876247412_185754517747132'
+    url: https://www.facebook.com/100683012920950/posts/185754517747132
+e3c7ac2201ce2dd77fabcb72e3d1f9d7:mastodon:
+  spec:
+    title: ไปส่องดูโครงสร้างของระบบ ectreport.com กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/review-ectreport/
+  state:
+    id: '110370500830748268'
+    url: https://mastodon.in.th/@webring/110370500830748268
+e3c7ac2201ce2dd77fabcb72e3d1f9d7:shorturl:
+  spec:
+    url: https://www.somkiat.cc/review-ectreport/
+  state:
+    shortLink: https://webring.page.link/vmYr
 e3da53994cc5cd25dc503476c8b16e92:facebook:
   spec:
     title: ทำไม SeleniumLibrary 6 ถึงปิด browser ให้อัตโนมัติ ? [somkiat.cc]
