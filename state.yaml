@@ -4475,6 +4475,25 @@ cf004268c1f804efce2054d967803f66:shorturl:
     url: https://www.karnwong.me/posts/2023/04/devx-starts-at-your-local-machine/
   state:
     shortLink: https://webring.page.link/CM6L
+cf3157c32f26ecac1bca43bb5edcfc81:facebook:
+  spec:
+    title: 'Robot framework :: ปิดการ capture หน้าจอเมื่อเกิด failure ในการทดสอบ สำหรับ Selenium Library [somkiat.cc]'
+    url: https://www.somkiat.cc/robot-framework-disable-capture-screen/
+  state:
+    id: '100746876247412_186379177684666'
+    url: https://www.facebook.com/100683012920950/posts/186379177684666
+cf3157c32f26ecac1bca43bb5edcfc81:mastodon:
+  spec:
+    title: 'Robot framework :: ปิดการ capture หน้าจอเมื่อเกิด failure ในการทดสอบ สำหรับ Selenium Library [somkiat.cc]'
+    url: https://www.somkiat.cc/robot-framework-disable-capture-screen/
+  state:
+    id: '110376162799396819'
+    url: https://mastodon.in.th/@webring/110376162799396819
+cf3157c32f26ecac1bca43bb5edcfc81:shorturl:
+  spec:
+    url: https://www.somkiat.cc/robot-framework-disable-capture-screen/
+  state:
+    shortLink: https://webring.page.link/sKs9
 cfc88ef93dd09336b78321933c2bfeb2:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 5 (Scrum Master) [taoisaman.com]
