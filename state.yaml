@@ -4152,6 +4152,25 @@ bd23e1beee8056e729f25ba34b594968:shorturl:
     url: https://suam.wtf/posts/tdea-vs-mitm/
   state:
     shortLink: https://webring.page.link/Xzgf
+c04dfe0b554c94ec9d09046503f2cd9b:facebook:
+  spec:
+    title: '[CR] สมหมายข้าวมันไก่ [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/05/cr-%e0%b8%aa%e0%b8%a1%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b9%84%e0%b8%81%e0%b9%88/
+  state:
+    id: '100746876247412_186992720956645'
+    url: https://www.facebook.com/100683012920950/posts/186992720956645
+c04dfe0b554c94ec9d09046503f2cd9b:mastodon:
+  spec:
+    title: '[CR] สมหมายข้าวมันไก่ [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/05/cr-%e0%b8%aa%e0%b8%a1%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b9%84%e0%b8%81%e0%b9%88/
+  state:
+    id: '110381825557108624'
+    url: https://mastodon.in.th/@webring/110381825557108624
+c04dfe0b554c94ec9d09046503f2cd9b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/05/cr-%e0%b8%aa%e0%b8%a1%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b9%84%e0%b8%81%e0%b9%88/
+  state:
+    shortLink: https://webring.page.link/MAuK
 c11ccd22ab6cae47592c226711b462d6:facebook:
   spec:
     title: Unknow Path? เจอแบบนี้โดน hack แน่ๆ [tech.duckfollow.co]
