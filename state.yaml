@@ -1024,6 +1024,25 @@
     url: https://yothinix.com/amateur-method/
   state:
     shortLink: https://webring.page.link/tpPi
+3310ca25418d424b059b5805051094ba:facebook:
+  spec:
+    title: AirPlay, HomeKit ข้าม VLAN [nuttdam.com]
+    url: https://www.nuttdam.com/2023/05/airplay-homekit-across-vlan/
+  state:
+    id: '100746876247412_187662960889621'
+    url: https://www.facebook.com/100683012920950/posts/187662960889621
+3310ca25418d424b059b5805051094ba:mastodon:
+  spec:
+    title: AirPlay, HomeKit ข้าม VLAN [nuttdam.com]
+    url: https://www.nuttdam.com/2023/05/airplay-homekit-across-vlan/
+  state:
+    id: '110387486695474369'
+    url: https://mastodon.in.th/@webring/110387486695474369
+3310ca25418d424b059b5805051094ba:shorturl:
+  spec:
+    url: https://www.nuttdam.com/2023/05/airplay-homekit-across-vlan/
+  state:
+    shortLink: https://webring.page.link/7GS7
 342f7eddd66c5582137d612950428c73:facebook:
   spec:
     title: การตั้งค่า dockerfile และ docker-compose เพื่อรัน Node.js และ MongoDB บน Docker Container [toupawa.com]
