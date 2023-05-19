@@ -4836,6 +4836,25 @@ e29c6f2358bde3729584684d4e296a57:shorturl:
     url: https://lucian.solutions/blog/papang-uvu-art-trade
   state:
     shortLink: https://webring.page.link/bJXc
+e387e1e62a27db5dc3c2ce0a2a983f57:facebook:
+  spec:
+    title: '[CR] Starbucks-Emperor’s Clouds & Mist Tea [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/05/cr-starbucks-emperors-clouds-mist-tea/
+  state:
+    id: '100746876247412_188312720824645'
+    url: https://www.facebook.com/100683012920950/posts/188312720824645
+e387e1e62a27db5dc3c2ce0a2a983f57:mastodon:
+  spec:
+    title: '[CR] Starbucks-Emperor’s Clouds & Mist Tea [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/05/cr-starbucks-emperors-clouds-mist-tea/
+  state:
+    id: '110393148394928045'
+    url: https://mastodon.in.th/@webring/110393148394928045
+e387e1e62a27db5dc3c2ce0a2a983f57:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/05/cr-starbucks-emperors-clouds-mist-tea/
+  state:
+    shortLink: https://webring.page.link/8keT
 e3c7ac2201ce2dd77fabcb72e3d1f9d7:facebook:
   spec:
     title: ไปส่องดูโครงสร้างของระบบ ectreport.com กันหน่อย [somkiat.cc]
