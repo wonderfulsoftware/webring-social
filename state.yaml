@@ -1860,6 +1860,25 @@
     url: https://kajame.xyz/blog/redis-testing
   state:
     shortLink: https://webring.page.link/U1Ty
+5be94a0823fcda3a6cb799e8edd58e1f:facebook:
+  spec:
+    title: ChatGPT app บน iOS มาแล้ว (US only) [somkiat.cc]
+    url: https://www.somkiat.cc/chatgpt-app-for-ios/
+  state:
+    id: '100746876247412_189108357411748'
+    url: https://www.facebook.com/100683012920950/posts/189108357411748
+5be94a0823fcda3a6cb799e8edd58e1f:mastodon:
+  spec:
+    title: ChatGPT app บน iOS มาแล้ว (US only) [somkiat.cc]
+    url: https://www.somkiat.cc/chatgpt-app-for-ios/
+  state:
+    id: '110399524902922205'
+    url: https://mastodon.in.th/@webring/110399524902922205
+5be94a0823fcda3a6cb799e8edd58e1f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/chatgpt-app-for-ios/
+  state:
+    shortLink: https://webring.page.link/zDCt
 5c037e5d4f18df66b864d9f5c67dff04:facebook:
   spec:
     title: Dear Security, be a part of the solution [chrisza.me]
