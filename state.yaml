@@ -549,6 +549,25 @@
     url: https://janescience.com/blog/node-notify-line
   state:
     shortLink: https://webring.page.link/7y8B
+1b29531860f4d216f54f02201192460f:facebook:
+  spec:
+    title: 'ERROR: CreateProcessEntryCommon:347: getpwuid(0) failed 2 when access wsl [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/05/error-createprocessentrycommon347-getpwuid0-failed-2-when-access-wsl/
+  state:
+    id: '100746876247412_189010354088215'
+    url: https://www.facebook.com/100683012920950/posts/189010354088215
+1b29531860f4d216f54f02201192460f:mastodon:
+  spec:
+    title: 'ERROR: CreateProcessEntryCommon:347: getpwuid(0) failed 2 when access wsl [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/05/error-createprocessentrycommon347-getpwuid0-failed-2-when-access-wsl/
+  state:
+    id: '110398810260780585'
+    url: https://mastodon.in.th/@webring/110398810260780585
+1b29531860f4d216f54f02201192460f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/05/error-createprocessentrycommon347-getpwuid0-failed-2-when-access-wsl/
+  state:
+    shortLink: https://webring.page.link/o4UU
 1c0e929bc324968b44acb0ad6938f3a3:facebook:
   spec:
     title: จดบันทึกจากการฟังเรื่อง API Evolution without Versioning with Brandon Byars [somkiat.cc]
@@ -1026,14 +1045,14 @@
     shortLink: https://webring.page.link/tpPi
 3310ca25418d424b059b5805051094ba:facebook:
   spec:
-    title: AirPlay, HomeKit ข้าม VLAN [nuttdam.com]
+    title: AirPlay, HomeKit ข้าม VLAN ด้วย Avahi [nuttdam.com]
     url: https://www.nuttdam.com/2023/05/airplay-homekit-across-vlan/
   state:
     id: '100746876247412_187662960889621'
     url: https://www.facebook.com/100683012920950/posts/187662960889621
 3310ca25418d424b059b5805051094ba:mastodon:
   spec:
-    title: AirPlay, HomeKit ข้าม VLAN [nuttdam.com]
+    title: AirPlay, HomeKit ข้าม VLAN ด้วย Avahi [nuttdam.com]
     url: https://www.nuttdam.com/2023/05/airplay-homekit-across-vlan/
   state:
     id: '110387486695474369'
