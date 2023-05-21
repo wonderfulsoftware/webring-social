@@ -4083,6 +4083,25 @@ b1414e295ee1b03de271abe597428804:shorturl:
     url: https://www.somkiat.cc/robot-framework-6-1-alpha-1/
   state:
     shortLink: https://webring.page.link/orFG
+b165f831210fbe2d2fc78d93a5969c29:facebook:
+  spec:
+    title: Flutter project structure with Clean Architechture [taoisaman.com]
+    url: https://taoisaman.com/2023/05/20/flutter-project-structure-with-clean-architechture/
+  state:
+    id: '100746876247412_189874604001790'
+    url: https://www.facebook.com/100683012920950/posts/189874604001790
+b165f831210fbe2d2fc78d93a5969c29:mastodon:
+  spec:
+    title: Flutter project structure with Clean Architechture [taoisaman.com]
+    url: https://taoisaman.com/2023/05/20/flutter-project-structure-with-clean-architechture/
+  state:
+    id: '110405186184624149'
+    url: https://mastodon.in.th/@webring/110405186184624149
+b165f831210fbe2d2fc78d93a5969c29:shorturl:
+  spec:
+    url: https://taoisaman.com/2023/05/20/flutter-project-structure-with-clean-architechture/
+  state:
+    shortLink: https://webring.page.link/KjC6
 b220dd9537e097e7bfe323aa295be7ef:facebook:
   spec:
     title: Mastodon timeline [llun.me]
