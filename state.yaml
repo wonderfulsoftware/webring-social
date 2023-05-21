@@ -2506,6 +2506,25 @@
     url: https://mesodiar.com/iwd-2023-protect-sensitive-data-in-pipeline-with-tink-and-cloud-kms-as-envelope-encryption-70b87b755ba1?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/arg9
+6fedf8efbe977271312b04558c4a8631:facebook:
+  spec:
+    title: ข้อความภาษาไทยใน Discord ยาวเท่าไหร่ วรรณยุกต์ถึงไม่หาย [dt.in.th]
+    url: https://notes.dt.in.th/DiscordThaiMessage
+  state:
+    id: '100746876247412_189758564013394'
+    url: https://www.facebook.com/100683012920950/posts/189758564013394
+6fedf8efbe977271312b04558c4a8631:mastodon:
+  spec:
+    title: ข้อความภาษาไทยใน Discord ยาวเท่าไหร่ วรรณยุกต์ถึงไม่หาย [dt.in.th]
+    url: https://notes.dt.in.th/DiscordThaiMessage
+  state:
+    id: '110404474294140670'
+    url: https://mastodon.in.th/@webring/110404474294140670
+6fedf8efbe977271312b04558c4a8631:shorturl:
+  spec:
+    url: https://notes.dt.in.th/DiscordThaiMessage
+  state:
+    shortLink: https://webring.page.link/k1ue
 700b9672cf4f092e63fd53f41847a58e:facebook:
   spec:
     title: The mythical ChatOps in action [karnwong.me]
