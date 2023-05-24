@@ -3038,6 +3038,25 @@
     url: https://natdanai.me/tohoku-japan/
   state:
     shortLink: https://webring.page.link/1WYq
+8338a5461b042a047e471f2060b18a1c:facebook:
+  spec:
+    title: มาดูว่ามีอะไรที่น่าสนใจใน Spring Boot 3.1.0 [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-3-1-0/
+  state:
+    id: '100746876247412_192058790450038'
+    url: https://www.facebook.com/100683012920950/posts/192058790450038
+8338a5461b042a047e471f2060b18a1c:mastodon:
+  spec:
+    title: มาดูว่ามีอะไรที่น่าสนใจใน Spring Boot 3.1.0 [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-3-1-0/
+  state:
+    id: '110422874247069955'
+    url: https://mastodon.in.th/@webring/110422874247069955
+8338a5461b042a047e471f2060b18a1c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/spring-boot-3-1-0/
+  state:
+    shortLink: https://webring.page.link/2AV3
 839384dd4c1a9c237f8984ea146a698e:facebook:
   spec:
     title: รู้ยัง Notion มีส่วนลดจาก Credit อยู่นะ [debuggingsoft.com]
