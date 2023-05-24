@@ -3703,6 +3703,25 @@
     url: https://tech.duckfollow.co/view/resistor-color-code-utility
   state:
     shortLink: https://webring.page.link/CHwf
+9f15012fc09ed744463910d08b51f67d:facebook:
+  spec:
+    title: CPU / GPU / TPU คืออะไร [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/cpu-gpu-tpu-comparison/
+  state:
+    id: '100746876247412_191908870465030'
+    url: https://www.facebook.com/100683012920950/posts/191908870465030
+9f15012fc09ed744463910d08b51f67d:mastodon:
+  spec:
+    title: CPU / GPU / TPU คืออะไร [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/cpu-gpu-tpu-comparison/
+  state:
+    id: '110421462825745462'
+    url: https://mastodon.in.th/@webring/110421462825745462
+9f15012fc09ed744463910d08b51f67d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/05/cpu-gpu-tpu-comparison/
+  state:
+    shortLink: https://webring.page.link/fHMk
 9ff6714c31d9573f7ab389657b90089a:facebook:
   spec:
     title: '[WP] สรุป Meetup สร้างรายได้จาก การเขียนบทความ แบบไม่ต้องรอลูกค้าลงโฆษณา [debuggingsoft.com]'
