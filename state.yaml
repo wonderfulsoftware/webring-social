@@ -1746,6 +1746,25 @@
     url: https://www.mikkipastel.com/list-of-testnet-faucet-for-developer-and-airdrop-hunter/
   state:
     shortLink: https://webring.page.link/ue7Y
+522633e6094255c02b59d1af11272897:facebook:
+  spec:
+    title: บันทึกจากการเรียน ChatGPT Prompt Engineering for Developers [somkiat.cc]
+    url: https://www.somkiat.cc/note-chatgpt-prompt-engineering-for-developers/
+  state:
+    id: '100746876247412_193173467005237'
+    url: https://www.facebook.com/100683012920950/posts/193173467005237
+522633e6094255c02b59d1af11272897:mastodon:
+  spec:
+    title: บันทึกจากการเรียน ChatGPT Prompt Engineering for Developers [somkiat.cc]
+    url: https://www.somkiat.cc/note-chatgpt-prompt-engineering-for-developers/
+  state:
+    id: '110432785201953253'
+    url: https://mastodon.in.th/@webring/110432785201953253
+522633e6094255c02b59d1af11272897:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-chatgpt-prompt-engineering-for-developers/
+  state:
+    shortLink: https://webring.page.link/iQLk
 53421a8f5a6f8ce1ffe357014a815a94:facebook:
   spec:
     title: Fixed Node ‘ERR_OSSL_EVP_UNSUPPORTED (0308010C:digital envelope routines::unsupported) [debuggingsoft.com]
