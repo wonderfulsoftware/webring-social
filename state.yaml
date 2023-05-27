@@ -3893,6 +3893,25 @@ a4f45033b6dafefc4eedb1e9c8f10387:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day4-click-me
   state:
     shortLink: https://webring.page.link/KCtb
+a51a992373d4e0f28f1e84418320f43c:facebook:
+  spec:
+    title: Optimize Container image size [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/optimize-container-image-size/
+  state:
+    id: '100746876247412_193897423599508'
+    url: https://www.facebook.com/100683012920950/posts/193897423599508
+a51a992373d4e0f28f1e84418320f43c:mastodon:
+  spec:
+    title: Optimize Container image size [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/optimize-container-image-size/
+  state:
+    id: '110439161618814017'
+    url: https://mastodon.in.th/@webring/110439161618814017
+a51a992373d4e0f28f1e84418320f43c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/05/optimize-container-image-size/
+  state:
+    shortLink: https://webring.page.link/EvQH
 a77c479113e1a5a4f26f405c82af56f3:facebook:
   spec:
     title: บันทึกเรื่อง Building more efficient Firestore web app [somkiat.cc]
