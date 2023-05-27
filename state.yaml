@@ -1442,6 +1442,25 @@
     url: https://www.somkiat.cc/note-prompt-injection/
   state:
     shortLink: https://webring.page.link/rj8b
+49aab119dce1f8700889951156c52cce:facebook:
+  spec:
+    title: 'Java 21 :: รูปแบบการเขียนที่ง่ายต่อคนเริ่มต้น [somkiat.cc]'
+    url: https://www.somkiat.cc/java-21-improve-syntax/
+  state:
+    id: '100746876247412_193808423608408'
+    url: https://www.facebook.com/100683012920950/posts/193808423608408
+49aab119dce1f8700889951156c52cce:mastodon:
+  spec:
+    title: 'Java 21 :: รูปแบบการเขียนที่ง่ายต่อคนเริ่มต้น [somkiat.cc]'
+    url: https://www.somkiat.cc/java-21-improve-syntax/
+  state:
+    id: '110438446301885479'
+    url: https://mastodon.in.th/@webring/110438446301885479
+49aab119dce1f8700889951156c52cce:shorturl:
+  spec:
+    url: https://www.somkiat.cc/java-21-improve-syntax/
+  state:
+    shortLink: https://webring.page.link/kuHS
 4a1eae93004543cecb46f5fb9a7b73d2:facebook:
   spec:
     title: เปิดใช้งาน Navigating files with the new code view (beta) ใน GitHub [somkiat.cc]
