@@ -4180,14 +4180,14 @@ b1414e295ee1b03de271abe597428804:shorturl:
     shortLink: https://webring.page.link/orFG
 b165f831210fbe2d2fc78d93a5969c29:facebook:
   spec:
-    title: Flutter project structure with Clean Architechture [taoisaman.com]
+    title: Flutter project structure with Clean Architecture [taoisaman.com]
     url: https://taoisaman.com/2023/05/20/flutter-project-structure-with-clean-architechture/
   state:
     id: '100746876247412_189874604001790'
     url: https://www.facebook.com/100683012920950/posts/189874604001790
 b165f831210fbe2d2fc78d93a5969c29:mastodon:
   spec:
-    title: Flutter project structure with Clean Architechture [taoisaman.com]
+    title: Flutter project structure with Clean Architecture [taoisaman.com]
     url: https://taoisaman.com/2023/05/20/flutter-project-structure-with-clean-architechture/
   state:
     id: '110405186184624149'
@@ -4361,6 +4361,25 @@ c04dfe0b554c94ec9d09046503f2cd9b:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/05/cr-%e0%b8%aa%e0%b8%a1%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b9%84%e0%b8%81%e0%b9%88/
   state:
     shortLink: https://webring.page.link/MAuK
+c06480cfcd8692f5cc8bc4ed79782aa8:facebook:
+  spec:
+    title: Note VMware ESXi on Windows [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/note-vmware-esxi-on-windows/
+  state:
+    id: '100746876247412_194504536872130'
+    url: https://www.facebook.com/100683012920950/posts/194504536872130
+c06480cfcd8692f5cc8bc4ed79782aa8:mastodon:
+  spec:
+    title: Note VMware ESXi on Windows [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/note-vmware-esxi-on-windows/
+  state:
+    id: '110444111510788142'
+    url: https://mastodon.in.th/@webring/110444111510788142
+c06480cfcd8692f5cc8bc4ed79782aa8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/05/note-vmware-esxi-on-windows/
+  state:
+    shortLink: https://webring.page.link/rfPF
 c11ccd22ab6cae47592c226711b462d6:facebook:
   spec:
     title: Unknow Path? เจอแบบนี้โดน hack แน่ๆ [tech.duckfollow.co]
