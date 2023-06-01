@@ -568,6 +568,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/error-createprocessentrycommon347-getpwuid0-failed-2-when-access-wsl/
   state:
     shortLink: https://webring.page.link/o4UU
+1c08f2e62df712524cbf57e51ce847e3:facebook:
+  spec:
+    title: ใช้ Cron Jobs บน Vercel ด้วย Node [janescience.com]
+    url: https://janescience.com/blog/cron-job-vercel
+  state:
+    id: '100746876247412_197235879932329'
+    url: https://www.facebook.com/100683012920950/posts/197235879932329
+1c08f2e62df712524cbf57e51ce847e3:mastodon:
+  spec:
+    title: ใช้ Cron Jobs บน Vercel ด้วย Node [janescience.com]
+    url: https://janescience.com/blog/cron-job-vercel
+  state:
+    id: '110466829489742068'
+    url: https://mastodon.in.th/@webring/110466829489742068
+1c08f2e62df712524cbf57e51ce847e3:shorturl:
+  spec:
+    url: https://janescience.com/blog/cron-job-vercel
+  state:
+    shortLink: https://webring.page.link/1NJ1
 1c0e929bc324968b44acb0ad6938f3a3:facebook:
   spec:
     title: จดบันทึกจากการฟังเรื่อง API Evolution without Versioning with Brandon Byars [somkiat.cc]
