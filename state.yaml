@@ -4646,6 +4646,25 @@ c99b1e9def970c889ddda3b38c595c56:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/03/sonarqube-fixed-exception-in-thread-report-about-progress-of-java-xml-analyzer-java-lang-outofmemoryerror-java-heap-space/
   state:
     shortLink: https://webring.page.link/12D1
+cb2ed3a464a2b5ff06f6d013580a5351:facebook:
+  spec:
+    title: Rust ถูก fork ออกมาในชื่อว่า CrabLang [somkiat.cc]
+    url: https://www.somkiat.cc/rust-forked-to-crablang/
+  state:
+    id: '100746876247412_197482933240957'
+    url: https://www.facebook.com/100683012920950/posts/197482933240957
+cb2ed3a464a2b5ff06f6d013580a5351:mastodon:
+  spec:
+    title: Rust ถูก fork ออกมาในชื่อว่า CrabLang [somkiat.cc]
+    url: https://www.somkiat.cc/rust-forked-to-crablang/
+  state:
+    id: '110468915236680838'
+    url: https://mastodon.in.th/@webring/110468915236680838
+cb2ed3a464a2b5ff06f6d013580a5351:shorturl:
+  spec:
+    url: https://www.somkiat.cc/rust-forked-to-crablang/
+  state:
+    shortLink: https://webring.page.link/ZU8c
 cbedb9317a83e62f89c145a9be52d5f9:facebook:
   spec:
     title: Feeds 2.5, bring back files database [llun.me]
