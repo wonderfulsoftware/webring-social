@@ -4254,6 +4254,25 @@ b220dd9537e097e7bfe323aa295be7ef:shorturl:
     url: https://www.llun.me/posts/dev/2023-02-12-mastodon-timeline
   state:
     shortLink: https://webring.page.link/iL5t
+b67c68ab72b1009cf2e73735c84dba8a:facebook:
+  spec:
+    title: ทดลองใช้ AI generate ภาพ แบบ text-to-image จากเว็บไซต์ต่าง ๆ [mikkipastel.com]
+    url: https://www.mikkipastel.com/trial-generate-ai-text-to-image-website/
+  state:
+    id: '100746876247412_197393019916615'
+    url: https://www.facebook.com/100683012920950/posts/197393019916615
+b67c68ab72b1009cf2e73735c84dba8a:mastodon:
+  spec:
+    title: ทดลองใช้ AI generate ภาพ แบบ text-to-image จากเว็บไซต์ต่าง ๆ [mikkipastel.com]
+    url: https://www.mikkipastel.com/trial-generate-ai-text-to-image-website/
+  state:
+    id: '110468174146409637'
+    url: https://mastodon.in.th/@webring/110468174146409637
+b67c68ab72b1009cf2e73735c84dba8a:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/trial-generate-ai-text-to-image-website/
+  state:
+    shortLink: https://webring.page.link/QuAE
 b79a1c96750fcb3f4c8bf911d46384f6:facebook:
   spec:
     title: ปัญหา Vue.js เรียก API แล้วค้างไปเลย บน Cloud Server ขึ้นสถานะ Pending ตลอด [janescience.com]
