@@ -549,6 +549,25 @@
     url: https://janescience.com/blog/node-notify-line
   state:
     shortLink: https://webring.page.link/7y8B
+1afe12e648f28c69660f04cda7cea9d9:facebook:
+  spec:
+    title: เปลี่ยน docker มาใช้ ubuntu wsl แทน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/%e0%b9%80%e0%b8%9b%e0%b8%a5%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%99-docker-%e0%b8%a1%e0%b8%b2%e0%b9%83%e0%b8%8a%e0%b9%89-ubuntu-wsl-%e0%b9%81%e0%b8%97%e0%b8%99/
+  state:
+    id: '100746876247412_197313046591279'
+    url: https://www.facebook.com/100683012920950/posts/197313046591279
+1afe12e648f28c69660f04cda7cea9d9:mastodon:
+  spec:
+    title: เปลี่ยน docker มาใช้ ubuntu wsl แทน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/05/%e0%b9%80%e0%b8%9b%e0%b8%a5%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%99-docker-%e0%b8%a1%e0%b8%b2%e0%b9%83%e0%b8%8a%e0%b9%89-ubuntu-wsl-%e0%b9%81%e0%b8%97%e0%b8%99/
+  state:
+    id: '110467476881050849'
+    url: https://mastodon.in.th/@webring/110467476881050849
+1afe12e648f28c69660f04cda7cea9d9:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/05/%e0%b9%80%e0%b8%9b%e0%b8%a5%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%99-docker-%e0%b8%a1%e0%b8%b2%e0%b9%83%e0%b8%8a%e0%b9%89-ubuntu-wsl-%e0%b9%81%e0%b8%97%e0%b8%99/
+  state:
+    shortLink: https://webring.page.link/nyY3
 1b29531860f4d216f54f02201192460f:facebook:
   spec:
     title: 'ERROR: CreateProcessEntryCommon:347: getpwuid(0) failed 2 when access wsl [debuggingsoft.com]'
