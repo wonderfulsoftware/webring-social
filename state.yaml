@@ -5292,6 +5292,25 @@ e600a6d6806cce4cbce4774cdd30283c:shorturl:
     url: https://blog.oatto.dev/2023/01/22/recap-2022.html
   state:
     shortLink: https://webring.page.link/w32e
+e6e6490ab81ce963083760091dd30b46:facebook:
+  spec:
+    title: ว่าด้วยเรื่อง Project CRaC กับ Spring framework [somkiat.cc]
+    url: https://www.somkiat.cc/project-crac-with-spring-framework/
+  state:
+    id: '100746876247412_197888599867057'
+    url: https://www.facebook.com/100683012920950/posts/197888599867057
+e6e6490ab81ce963083760091dd30b46:mastodon:
+  spec:
+    title: ว่าด้วยเรื่อง Project CRaC กับ Spring framework [somkiat.cc]
+    url: https://www.somkiat.cc/project-crac-with-spring-framework/
+  state:
+    id: '110472425006236105'
+    url: https://mastodon.in.th/@webring/110472425006236105
+e6e6490ab81ce963083760091dd30b46:shorturl:
+  spec:
+    url: https://www.somkiat.cc/project-crac-with-spring-framework/
+  state:
+    shortLink: https://webring.page.link/e8Ge
 e7ffbaa2fda5aefedc5070c362d68517:facebook:
   spec:
     title: เมื่อ DEV ลองไป Workshop Azure Cloud Adoption Framework [debuggingsoft.com]
