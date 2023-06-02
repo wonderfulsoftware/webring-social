@@ -4551,6 +4551,25 @@ c398c50193817b68dc475a64923a4c0d:shorturl:
     url: https://tinarskii.com/articles/undefined
   state:
     shortLink: https://webring.page.link/PNAf
+c3da7a07f3a14049fe1ad27366faad33:facebook:
+  spec:
+    title: Jenkins-Git Parameter Filter Branch Name [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/jenkins-git-parameter-filter-branch-name/
+  state:
+    id: '100746876247412_197964596526124'
+    url: https://www.facebook.com/100683012920950/posts/197964596526124
+c3da7a07f3a14049fe1ad27366faad33:mastodon:
+  spec:
+    title: Jenkins-Git Parameter Filter Branch Name [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/jenkins-git-parameter-filter-branch-name/
+  state:
+    id: '110473137516446892'
+    url: https://mastodon.in.th/@webring/110473137516446892
+c3da7a07f3a14049fe1ad27366faad33:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/06/jenkins-git-parameter-filter-branch-name/
+  state:
+    shortLink: https://webring.page.link/oLsG
 c4bc6a941df1a17cd83aea42714f85aa:facebook:
   spec:
     title: 'เรื่องที่น่าสนใจจาก Prime Video​ :: สำหรับการ Rearchitecture ของระบบ VDO monitoring [somkiat.cc]'
