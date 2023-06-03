@@ -1670,6 +1670,25 @@
     url: https://www.mikkipastel.com/introduction-tripster-travel-pass-nft-project/
   state:
     shortLink: https://webring.page.link/1hpM
+4e0967fe2a5489597e0860dfc2352242:facebook:
+  spec:
+    title: 'Robot framework​ :: การจัดการ notificationใน browser [somkiat.cc]'
+    url: https://www.somkiat.cc/robot-framework-disabled-notification-in-web-browser/
+  state:
+    id: '100746876247412_198540923135158'
+    url: https://www.facebook.com/100683012920950/posts/198540923135158
+4e0967fe2a5489597e0860dfc2352242:mastodon:
+  spec:
+    title: 'Robot framework​ :: การจัดการ notificationใน browser [somkiat.cc]'
+    url: https://www.somkiat.cc/robot-framework-disabled-notification-in-web-browser/
+  state:
+    id: '110478080111104665'
+    url: https://mastodon.in.th/@webring/110478080111104665
+4e0967fe2a5489597e0860dfc2352242:shorturl:
+  spec:
+    url: https://www.somkiat.cc/robot-framework-disabled-notification-in-web-browser/
+  state:
+    shortLink: https://webring.page.link/yX5h
 4e438d4fd15f1f5d90fae0d343c30121:facebook:
   spec:
     title: สรุปจากบทความการเปลี่ยนแปลง database ของ Discord [somkiat.cc]
