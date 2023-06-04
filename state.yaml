@@ -5159,6 +5159,25 @@ de5432ed497ce622a0289f8f8d90cc4f:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/04/my-first-public-speaker-ooad-in-my-work/
   state:
     shortLink: https://webring.page.link/EdQR
+de5a01ad313c46a7ced7e4944b43cd08:facebook:
+  spec:
+    title: รู้จัก Stable Diffusion เบื้องต้น ฉบับยังไม่ลองทำ [mikkipastel.com]
+    url: https://www.mikkipastel.com/introduction-stable-diffusion-101/
+  state:
+    id: '100746876247412_199553283033922'
+    url: https://www.facebook.com/100683012920950/posts/199553283033922
+de5a01ad313c46a7ced7e4944b43cd08:mastodon:
+  spec:
+    title: รู้จัก Stable Diffusion เบื้องต้น ฉบับยังไม่ลองทำ [mikkipastel.com]
+    url: https://www.mikkipastel.com/introduction-stable-diffusion-101/
+  state:
+    id: '110486570564784483'
+    url: https://mastodon.in.th/@webring/110486570564784483
+de5a01ad313c46a7ced7e4944b43cd08:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/introduction-stable-diffusion-101/
+  state:
+    shortLink: https://webring.page.link/JpDR
 e101590fcf2c113c902ecdebce745d7d:facebook:
   spec:
     title: '[AZ-400] Design and implement a dependency management strategy [debuggingsoft.com]'
