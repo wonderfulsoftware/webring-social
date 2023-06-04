@@ -4684,6 +4684,25 @@ c99b1e9def970c889ddda3b38c595c56:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/03/sonarqube-fixed-exception-in-thread-report-about-progress-of-java-xml-analyzer-java-lang-outofmemoryerror-java-heap-space/
   state:
     shortLink: https://webring.page.link/12D1
+c9c25b647853b0f69a16ce356ff174eb:facebook:
+  spec:
+    title: 'มาฟังงาน Level Up with GitHub Codespaces and Copilot: Thailand [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/06/level-up-with-github-codespaces-and-copilot-thailand/
+  state:
+    id: '100746876247412_199207456401838'
+    url: https://www.facebook.com/100683012920950/posts/199207456401838
+c9c25b647853b0f69a16ce356ff174eb:mastodon:
+  spec:
+    title: 'มาฟังงาน Level Up with GitHub Codespaces and Copilot: Thailand [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/06/level-up-with-github-codespaces-and-copilot-thailand/
+  state:
+    id: '110483802211886134'
+    url: https://mastodon.in.th/@webring/110483802211886134
+c9c25b647853b0f69a16ce356ff174eb:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/06/level-up-with-github-codespaces-and-copilot-thailand/
+  state:
+    shortLink: https://webring.page.link/ke3s
 cb2ed3a464a2b5ff06f6d013580a5351:facebook:
   spec:
     title: Rust ถูก fork ออกมาในชื่อว่า CrabLang [somkiat.cc]
