@@ -2354,6 +2354,25 @@
     url: https://myifew.com/6487/begin-with-the-end-in-mind/
   state:
     shortLink: https://webring.page.link/QRrR
+68212bd97447ae5d0e7ff5ba27c13b14:facebook:
+  spec:
+    title: สรุปเรื่อง Domain Driven Design ที่ AWS Thailand [kusumotolab.com]
+    url: https://kusumotolab.com/recap-domain-driven-design-from-aws-thailand/
+  state:
+    id: '100746876247412_199284143060836'
+    url: https://www.facebook.com/100683012920950/posts/199284143060836
+68212bd97447ae5d0e7ff5ba27c13b14:mastodon:
+  spec:
+    title: สรุปเรื่อง Domain Driven Design ที่ AWS Thailand [kusumotolab.com]
+    url: https://kusumotolab.com/recap-domain-driven-design-from-aws-thailand/
+  state:
+    id: '110484458769600300'
+    url: https://mastodon.in.th/@webring/110484458769600300
+68212bd97447ae5d0e7ff5ba27c13b14:shorturl:
+  spec:
+    url: https://kusumotolab.com/recap-domain-driven-design-from-aws-thailand/
+  state:
+    shortLink: https://webring.page.link/YFeA
 68f7e1e2a856203b8a23952c314124f4:facebook:
   spec:
     title: สรุปการเปลี่ยนแปลงใน Spring Boot 3 ไว้นิดหน่อย [somkiat.cc]
