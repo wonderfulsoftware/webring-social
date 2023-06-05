@@ -4779,6 +4779,25 @@ cbf22d74bdf5a85bd8b44bc46fcb9435:shorturl:
     url: https://www.somkiat.cc/flutter-unable-to-find-bundled-java-version/
   state:
     shortLink: https://webring.page.link/xdDT
+cc517b61b7971c78564e452569512568:facebook:
+  spec:
+    title: ผมว่ามันน่าจะขาดอะไรไปนะ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/high-cost-of-requirement-error-but-i-dont-think-it-something-missing/
+  state:
+    id: '100746876247412_199885259667391'
+    url: https://www.facebook.com/100683012920950/posts/199885259667391
+cc517b61b7971c78564e452569512568:mastodon:
+  spec:
+    title: ผมว่ามันน่าจะขาดอะไรไปนะ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/high-cost-of-requirement-error-but-i-dont-think-it-something-missing/
+  state:
+    id: '110489418440269190'
+    url: https://mastodon.in.th/@webring/110489418440269190
+cc517b61b7971c78564e452569512568:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/06/high-cost-of-requirement-error-but-i-dont-think-it-something-missing/
+  state:
+    shortLink: https://webring.page.link/CTHp
 cdd4e6d11a1eea1d0484785081befc37:facebook:
   spec:
     title: Postman เปิดให้ลองใช้งาน API performance testing [somkiat.cc]
