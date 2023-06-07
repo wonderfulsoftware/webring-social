@@ -663,6 +663,25 @@
     url: https://www.boonsong.dev/pattern-event-driven-architecture-1
   state:
     shortLink: https://webring.page.link/dhgB
+1f93fdb2aec0a23db2624253e995e8e1:facebook:
+  spec:
+    title: สรุปจากบทความเรื่อง The SPACE of Developer Productivity [somkiat.cc]
+    url: https://www.somkiat.cc/note-the-space-of-developer-productivity/
+  state:
+    id: '100746876247412_201178299538087'
+    url: https://www.facebook.com/100683012920950/posts/201178299538087
+1f93fdb2aec0a23db2624253e995e8e1:mastodon:
+  spec:
+    title: สรุปจากบทความเรื่อง The SPACE of Developer Productivity [somkiat.cc]
+    url: https://www.somkiat.cc/note-the-space-of-developer-productivity/
+  state:
+    id: '110500751676332855'
+    url: https://mastodon.in.th/@webring/110500751676332855
+1f93fdb2aec0a23db2624253e995e8e1:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-the-space-of-developer-productivity/
+  state:
+    shortLink: https://webring.page.link/mfrg
 204940a951c79034131359b7280d27d8:facebook:
   spec:
     title: '[Container] แก้ปัญหา docker image โต [debuggingsoft.com]'
