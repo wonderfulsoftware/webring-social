@@ -5026,6 +5026,25 @@ d2a211d2c6b8c66f3cf64aab9d5140c8:shorturl:
     url: https://mesodiar.com/securing-kafka-with-tls-ssl-encryption-87816a82d6ca?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/b1UH
+d384f899f92a93ab0815513af2e6e3e0:facebook:
+  spec:
+    title: Line Stickers - Lucian Solutions [lucian.solutions]
+    url: https://lucian.solutions/blog/line-stickers-lucian-solutions
+  state:
+    id: '100746876247412_201962726126311'
+    url: https://www.facebook.com/100683012920950/posts/201962726126311
+d384f899f92a93ab0815513af2e6e3e0:mastodon:
+  spec:
+    title: Line Stickers - Lucian Solutions [lucian.solutions]
+    url: https://lucian.solutions/blog/line-stickers-lucian-solutions
+  state:
+    id: '110507111654301563'
+    url: https://mastodon.in.th/@webring/110507111654301563
+d384f899f92a93ab0815513af2e6e3e0:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/line-stickers-lucian-solutions
+  state:
+    shortLink: https://webring.page.link/MDjC
 d487b3b6419ebd755aa2d80b7dd8b5fe:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 3 (Product Owner) [taoisaman.com]
