@@ -4494,6 +4494,25 @@ c04dfe0b554c94ec9d09046503f2cd9b:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/05/cr-%e0%b8%aa%e0%b8%a1%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b9%84%e0%b8%81%e0%b9%88/
   state:
     shortLink: https://webring.page.link/MAuK
+c055b3e0b9b3853ddfa3d54a62bac60a:facebook:
+  spec:
+    title: '[VS2022] แก้ไขปัญหา There is no project properties provider for “Persistence = ProjectFileWithInterceptionViaSnapshot”. Projects are not loaded [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/06/vs2022-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b8%ab%e0%b8%b2-there-is-no-project-properties-provider-for-persistence-projectfilewithinterceptionviasnapshot/
+  state:
+    id: '100746876247412_202042546118329'
+    url: https://www.facebook.com/100683012920950/posts/202042546118329
+c055b3e0b9b3853ddfa3d54a62bac60a:mastodon:
+  spec:
+    title: '[VS2022] แก้ไขปัญหา There is no project properties provider for “Persistence = ProjectFileWithInterceptionViaSnapshot”. Projects are not loaded [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/06/vs2022-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b8%ab%e0%b8%b2-there-is-no-project-properties-provider-for-persistence-projectfilewithinterceptionviasnapshot/
+  state:
+    id: '110507807801287680'
+    url: https://mastodon.in.th/@webring/110507807801287680
+c055b3e0b9b3853ddfa3d54a62bac60a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/06/vs2022-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b8%ab%e0%b8%b2-there-is-no-project-properties-provider-for-persistence-projectfilewithinterceptionviasnapshot/
+  state:
+    shortLink: https://webring.page.link/T9Wu
 c06480cfcd8692f5cc8bc4ed79782aa8:facebook:
   spec:
     title: Note VMware ESXi on Windows [debuggingsoft.com]
