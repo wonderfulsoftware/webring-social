@@ -3931,6 +3931,25 @@ a2ddaf898161aef37c0bc75f362600b0:shorturl:
     url: https://www.somkiat.cc/observability-driven-development/
   state:
     shortLink: https://webring.page.link/zsoA
+a4031221ddd4f040891463067c4b004e:facebook:
+  spec:
+    title: Robot Framework 6.1 rc 1 ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/robot-framework-6-1-rc-1/
+  state:
+    id: '100746876247412_201879579467959'
+    url: https://www.facebook.com/100683012920950/posts/201879579467959
+a4031221ddd4f040891463067c4b004e:mastodon:
+  spec:
+    title: Robot Framework 6.1 rc 1 ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/robot-framework-6-1-rc-1/
+  state:
+    id: '110506411644916920'
+    url: https://mastodon.in.th/@webring/110506411644916920
+a4031221ddd4f040891463067c4b004e:shorturl:
+  spec:
+    url: https://www.somkiat.cc/robot-framework-6-1-rc-1/
+  state:
+    shortLink: https://webring.page.link/6bTW
 a474c8fc55f6da5107eba26e954e282b:facebook:
   spec:
     title: สอนแคปจอจาก Google Chrome แบบจับมือทำ [mikkipastel.com]
