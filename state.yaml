@@ -4349,6 +4349,25 @@ b67c68ab72b1009cf2e73735c84dba8a:shorturl:
     url: https://www.mikkipastel.com/trial-generate-ai-text-to-image-website/
   state:
     shortLink: https://webring.page.link/QuAE
+b72ce9e655fbc75368504332eba85ca6:facebook:
+  spec:
+    title: ปัญหา Robot Framework + Selenium 4.10 [somkiat.cc]
+    url: https://www.somkiat.cc/problem-robot-framework-with-selenium-library/
+  state:
+    id: '100746876247412_202627832726467'
+    url: https://www.facebook.com/100683012920950/posts/202627832726467
+b72ce9e655fbc75368504332eba85ca6:mastodon:
+  spec:
+    title: ปัญหา Robot Framework + Selenium 4.10 [somkiat.cc]
+    url: https://www.somkiat.cc/problem-robot-framework-with-selenium-library/
+  state:
+    id: '110512085011142821'
+    url: https://mastodon.in.th/@webring/110512085011142821
+b72ce9e655fbc75368504332eba85ca6:shorturl:
+  spec:
+    url: https://www.somkiat.cc/problem-robot-framework-with-selenium-library/
+  state:
+    shortLink: https://webring.page.link/cvYX
 b79a1c96750fcb3f4c8bf911d46384f6:facebook:
   spec:
     title: ปัญหา Vue.js เรียก API แล้วค้างไปเลย บน Cloud Server ขึ้นสถานะ Pending ตลอด [janescience.com]
