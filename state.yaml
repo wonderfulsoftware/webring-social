@@ -3703,6 +3703,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/dockerfile-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-net6-db2/
   state:
     shortLink: https://webring.page.link/2vpC
+99009d41dfb8c36858a412ee871a43b0:facebook:
+  spec:
+    title: Hassle-free Kubernetes monitoring with Coroot [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/06/hassle-free-kubernetes-monitoring-with-coroot/
+  state:
+    id: '100746876247412_203441912645059'
+    url: https://www.facebook.com/100683012920950/posts/203441912645059
+99009d41dfb8c36858a412ee871a43b0:mastodon:
+  spec:
+    title: Hassle-free Kubernetes monitoring with Coroot [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/06/hassle-free-kubernetes-monitoring-with-coroot/
+  state:
+    id: '110518434104426893'
+    url: https://mastodon.in.th/@webring/110518434104426893
+99009d41dfb8c36858a412ee871a43b0:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/06/hassle-free-kubernetes-monitoring-with-coroot/
+  state:
+    shortLink: https://webring.page.link/dvgJ
 9939010afca0c28547967a6705ec783e:facebook:
   spec:
     title: My wrong assumptions with ActivityPub [llun.me]
