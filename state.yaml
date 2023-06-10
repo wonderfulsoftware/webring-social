@@ -3342,6 +3342,25 @@
     url: https://www.karnwong.me/posts/2023/04/duckdb-vs-polars-vs-spark/
   state:
     shortLink: https://webring.page.link/9nvM
+889df44cb70dd2e9c5ba5a35a254477b:facebook:
+  spec:
+    title: Access AlmaLinux 9 via RDP [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/access-almalinux-9-via-rdp/
+  state:
+    id: '100746876247412_203354802653770'
+    url: https://www.facebook.com/100683012920950/posts/203354802653770
+889df44cb70dd2e9c5ba5a35a254477b:mastodon:
+  spec:
+    title: Access AlmaLinux 9 via RDP [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/access-almalinux-9-via-rdp/
+  state:
+    id: '110517717199809667'
+    url: https://mastodon.in.th/@webring/110517717199809667
+889df44cb70dd2e9c5ba5a35a254477b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/06/access-almalinux-9-via-rdp/
+  state:
+    shortLink: https://webring.page.link/S7cX
 8a11096b6f1264ff832be3e82977504f:facebook:
   spec:
     title: TP-Link MR600 - LTE Router [blog.kpping.me]
