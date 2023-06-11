@@ -3665,6 +3665,25 @@
     url: https://www.karnwong.me/posts/2023/04/use-sql-against-csv-or-other-hard-files-without-cli/
   state:
     shortLink: https://webring.page.link/TLuC
+93d3fb644f0138ac5b2d0c2c959d2c86:facebook:
+  spec:
+    title: Using Google Cloud Service Accounts to authenticate between your own services [dt.in.th]
+    url: https://notes.dt.in.th/GoogleCloudServiceAccountIdToken
+  state:
+    id: '100746876247412_204083799247537'
+    url: https://www.facebook.com/100683012920950/posts/204083799247537
+93d3fb644f0138ac5b2d0c2c959d2c86:mastodon:
+  spec:
+    title: Using Google Cloud Service Accounts to authenticate between your own services [dt.in.th]
+    url: https://notes.dt.in.th/GoogleCloudServiceAccountIdToken
+  state:
+    id: '110523427696020833'
+    url: https://mastodon.in.th/@webring/110523427696020833
+93d3fb644f0138ac5b2d0c2c959d2c86:shorturl:
+  spec:
+    url: https://notes.dt.in.th/GoogleCloudServiceAccountIdToken
+  state:
+    shortLink: https://webring.page.link/VuzM
 96f7739f7435b2722c08ff63bcecad53:facebook:
   spec:
     title: ว่าด้วยเรื่อง cURL ใช้อย่างไรให้ Pro ใช้อย่างไรถึงจะ Cool [poolsawat.com]
