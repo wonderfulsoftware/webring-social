@@ -1917,6 +1917,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/update-each-dependency-in-package-dot-json-to-lasted-version/
   state:
     shortLink: https://webring.page.link/bXAy
+576a7bf830594822c6b76cfa7049d9ed:facebook:
+  spec:
+    title: ลองมาฟัง AWS Auto Scaling EC2 & Spot Instance [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/aws-auto-scaling-ec2-spot-instance/
+  state:
+    id: '100746876247412_204166472572603'
+    url: https://www.facebook.com/100683012920950/posts/204166472572603
+576a7bf830594822c6b76cfa7049d9ed:mastodon:
+  spec:
+    title: ลองมาฟัง AWS Auto Scaling EC2 & Spot Instance [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/aws-auto-scaling-ec2-spot-instance/
+  state:
+    id: '110524094224086319'
+    url: https://mastodon.in.th/@webring/110524094224086319
+576a7bf830594822c6b76cfa7049d9ed:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/06/aws-auto-scaling-ec2-spot-instance/
+  state:
+    shortLink: https://webring.page.link/Qk95
 577af00a06b01e0f193daf5e4c105f52:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 2 - Card Flip [devahoy.com]
