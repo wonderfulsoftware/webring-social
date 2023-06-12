@@ -5881,6 +5881,25 @@ f52e6cc105cd38ba08ddb80ada7f1b01:shorturl:
     url: https://blog.rayriffy.com/choke-in-japan-2022/
   state:
     shortLink: https://webring.page.link/co4n
+f618f1957e7524a2ecf1fad8fc51e978:facebook:
+  spec:
+    title: นายเองก็ใช้ markdown บน discord ได้นะ! [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-use-markdown-on-discord/
+  state:
+    id: '100746876247412_204804005842183'
+    url: https://www.facebook.com/100683012920950/posts/204804005842183
+f618f1957e7524a2ecf1fad8fc51e978:mastodon:
+  spec:
+    title: นายเองก็ใช้ markdown บน discord ได้นะ! [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-use-markdown-on-discord/
+  state:
+    id: '110529068768490435'
+    url: https://mastodon.in.th/@webring/110529068768490435
+f618f1957e7524a2ecf1fad8fc51e978:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/how-to-use-markdown-on-discord/
+  state:
+    shortLink: https://webring.page.link/D9WE
 f61ba76d8f875bace468dadcffe183d8:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 1 - Heart [devahoy.com]
