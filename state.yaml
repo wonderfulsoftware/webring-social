@@ -3418,6 +3418,25 @@
     url: https://heyfirst.co/blog/micro-dollar
   state:
     shortLink: https://webring.page.link/hL6F
+8bd65c49226cdc3883ce30123d73038e:facebook:
+  spec:
+    title: เมื่อ DEV ลองไป Workshop Azure monitoring, security and compliance [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/developer-take-workshop-azure-monitoring-security-and-compliance/
+  state:
+    id: '100746876247412_205509509104966'
+    url: https://www.facebook.com/100683012920950/posts/205509509104966
+8bd65c49226cdc3883ce30123d73038e:mastodon:
+  spec:
+    title: เมื่อ DEV ลองไป Workshop Azure monitoring, security and compliance [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/developer-take-workshop-azure-monitoring-security-and-compliance/
+  state:
+    id: '110534708573495666'
+    url: https://mastodon.in.th/@webring/110534708573495666
+8bd65c49226cdc3883ce30123d73038e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/06/developer-take-workshop-azure-monitoring-security-and-compliance/
+  state:
+    shortLink: https://webring.page.link/5CGt
 8bf1b6173eb347412656420bce46fc52:facebook:
   spec:
     title: วิธีการแปลงไฟล์ภาพ JPEG, PNG, GIF เป็น WEBP (brew install) [poolsawat.com]
