@@ -5121,6 +5121,25 @@ d1476b3d9dfba601ae992cbbfab93036:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-manage-infrastructure-as-code-using-azure-and-dsc/
   state:
     shortLink: https://webring.page.link/R5uc
+d1f1286767c1824cb98620b0a30c03f2:facebook:
+  spec:
+    title: Robot Framework 6.1 ตัวเต็มออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/robot-framework-6-1-released/
+  state:
+    id: '100746876247412_205598075762776'
+    url: https://www.facebook.com/100683012920950/posts/205598075762776
+d1f1286767c1824cb98620b0a30c03f2:mastodon:
+  spec:
+    title: Robot Framework 6.1 ตัวเต็มออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/robot-framework-6-1-released/
+  state:
+    id: '110535423454037020'
+    url: https://mastodon.in.th/@webring/110535423454037020
+d1f1286767c1824cb98620b0a30c03f2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/robot-framework-6-1-released/
+  state:
+    shortLink: https://webring.page.link/XYkn
 d23ad7216ab2ab504908abcf7dbab652:facebook:
   spec:
     title: 'เล่าเรื่องงาน NFT Square Meetup #1 และ GASSED UP [mikkipastel.com]'
