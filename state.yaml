@@ -2050,6 +2050,25 @@
     url: https://www.somkiat.cc/note-how-levels-fyi-scaled-to-millions-of-users/
   state:
     shortLink: https://webring.page.link/Dwcj
+5dbc2e6aba68ab9800bdbf543201c5a9:facebook:
+  spec:
+    title: How to change/redirect Apache Tomcat port number [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/how-to-change-redirect-apache-tomcat-port-number/
+  state:
+    id: '100746876247412_206830342306216'
+    url: https://www.facebook.com/100683012920950/posts/206830342306216
+5dbc2e6aba68ab9800bdbf543201c5a9:mastodon:
+  spec:
+    title: How to change/redirect Apache Tomcat port number [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/how-to-change-redirect-apache-tomcat-port-number/
+  state:
+    id: '110546032041613005'
+    url: https://mastodon.in.th/@webring/110546032041613005
+5dbc2e6aba68ab9800bdbf543201c5a9:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/06/how-to-change-redirect-apache-tomcat-port-number/
+  state:
+    shortLink: https://webring.page.link/xoM5
 5dc6b85d89c764f53044a5675ecccd05:facebook:
   spec:
     title: ทำบล็อกแบบง่าย ๆ แบบไม่ต้องใช้ CMS ผ่าน Glitch กัน [mikkipastel.com]
