@@ -5672,6 +5672,25 @@ e7ffbaa2fda5aefedc5070c362d68517:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/03/developer-take-workshop-cloud-adoption-framework/
   state:
     shortLink: https://webring.page.link/kg2y
+ea76f03f757ad52190797ef9bc193f55:facebook:
+  spec:
+    title: 'ThursTech #17: คณิตศาสตร์ในการรีดประสิทธิภาพโค้ด [neizod.dev]'
+    url: https://neizod.dev/2023/06/01/thurstech-math-in-code-optimization.html
+  state:
+    id: '100746876247412_207543712234879'
+    url: https://www.facebook.com/100683012920950/posts/207543712234879
+ea76f03f757ad52190797ef9bc193f55:mastodon:
+  spec:
+    title: 'ThursTech #17: คณิตศาสตร์ในการรีดประสิทธิภาพโค้ด [neizod.dev]'
+    url: https://neizod.dev/2023/06/01/thurstech-math-in-code-optimization.html
+  state:
+    id: '110551695259697302'
+    url: https://mastodon.in.th/@webring/110551695259697302
+ea76f03f757ad52190797ef9bc193f55:shorturl:
+  spec:
+    url: https://neizod.dev/2023/06/01/thurstech-math-in-code-optimization.html
+  state:
+    shortLink: https://webring.page.link/WgKv
 ea9638a9deb06fc8e202af81323651e5:facebook:
   spec:
     title: '[Write-up] Cyber Apocalypse 2023 - UnEarthly Shop (hard) [suam.wtf]'
