@@ -5938,6 +5938,25 @@ f3ff98ffe6527d7fe3795a4c0c9a45d5:shorturl:
     url: https://www.karnwong.me/posts/2022/12/load-balancers-101-thou-shalt-not-be-alone/
   state:
     shortLink: https://webring.page.link/7d3G
+f40fc96c5154db25f74916355973cbed:facebook:
+  spec:
+    title: น่าสนใจกับ Chrome for Testing (CfT) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-chrome-for-testing/
+  state:
+    id: '100746876247412_207628468893070'
+    url: https://www.facebook.com/100683012920950/posts/207628468893070
+f40fc96c5154db25f74916355973cbed:mastodon:
+  spec:
+    title: น่าสนใจกับ Chrome for Testing (CfT) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-chrome-for-testing/
+  state:
+    id: '110552410983733940'
+    url: https://mastodon.in.th/@webring/110552410983733940
+f40fc96c5154db25f74916355973cbed:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-chrome-for-testing/
+  state:
+    shortLink: https://webring.page.link/wt7k
 f52e6cc105cd38ba08ddb80ada7f1b01:facebook:
   spec:
     title: Riffy's adventure to Northern Japan and choked along the way [rayriffy.com]
