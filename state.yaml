@@ -758,6 +758,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/nuget-error-nu1101-warning-nu1801-build-via-jenkins-windows-service/
   state:
     shortLink: https://webring.page.link/Zi9G
+262affe6e7a9e08bedfb4cbe1f689ed8:facebook:
+  spec:
+    title: 'เล่าให้ฟัง FinOps: BigQuery Query Cost Monitoring [mesodiar.com]'
+    url: https://mesodiar.com/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9F%E0%B8%B1%E0%B8%87-finops-bigquery-query-cost-monitoring-3b9d5e685d5?source=rss----698ac1e5dc8c---4
+  state:
+    id: '100746876247412_208799728775944'
+    url: https://www.facebook.com/100683012920950/posts/208799728775944
+262affe6e7a9e08bedfb4cbe1f689ed8:mastodon:
+  spec:
+    title: 'เล่าให้ฟัง FinOps: BigQuery Query Cost Monitoring [mesodiar.com]'
+    url: https://mesodiar.com/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9F%E0%B8%B1%E0%B8%87-finops-bigquery-query-cost-monitoring-3b9d5e685d5?source=rss----698ac1e5dc8c---4
+  state:
+    id: '110563035467491088'
+    url: https://mastodon.in.th/@webring/110563035467491088
+262affe6e7a9e08bedfb4cbe1f689ed8:shorturl:
+  spec:
+    url: https://mesodiar.com/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9F%E0%B8%B1%E0%B8%87-finops-bigquery-query-cost-monitoring-3b9d5e685d5?source=rss----698ac1e5dc8c---4
+  state:
+    shortLink: https://webring.page.link/Awk8
 2650e7cad1f4a54abaf33411c0227748:facebook:
   spec:
     title: ลองใช้งาน Native AOT (Ahead of Time) ของ .NET [somkiat.cc]
