@@ -1271,6 +1271,25 @@
     url: https://janescience.com/blog/timesheet-python-chatgpt
   state:
     shortLink: https://webring.page.link/Ymue
+3a28a47007fceec38b474db799ceb5c7:facebook:
+  spec:
+    title: 'มาฟัง Agile Thailand 2023 #ATH2023 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/06/agile-thailand-2023-ath2023/
+  state:
+    id: '100746876247412_208964428759474'
+    url: https://www.facebook.com/100683012920950/posts/208964428759474
+3a28a47007fceec38b474db799ceb5c7:mastodon:
+  spec:
+    title: 'มาฟัง Agile Thailand 2023 #ATH2023 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/06/agile-thailand-2023-ath2023/
+  state:
+    id: '110564429714028838'
+    url: https://mastodon.in.th/@webring/110564429714028838
+3a28a47007fceec38b474db799ceb5c7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/06/agile-thailand-2023-ath2023/
+  state:
+    shortLink: https://webring.page.link/vSxp
 3c081287f3fe4e1dee288e9ba9328de0:facebook:
   spec:
     title: MLflow 101 [edocstudio.info]
