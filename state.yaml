@@ -5140,6 +5140,25 @@ cf3157c32f26ecac1bca43bb5edcfc81:shorturl:
     url: https://www.somkiat.cc/robot-framework-disable-capture-screen/
   state:
     shortLink: https://webring.page.link/sKs9
+cf64c16e9b8712becfa47eb06525d851:facebook:
+  spec:
+    title: HDR QR Code [dt.in.th]
+    url: https://notes.dt.in.th/HDRQRCode
+  state:
+    id: '100746876247412_209048155417768'
+    url: https://www.facebook.com/100683012920950/posts/209048155417768
+cf64c16e9b8712becfa47eb06525d851:mastodon:
+  spec:
+    title: HDR QR Code [dt.in.th]
+    url: https://notes.dt.in.th/HDRQRCode
+  state:
+    id: '110565167904949669'
+    url: https://mastodon.in.th/@webring/110565167904949669
+cf64c16e9b8712becfa47eb06525d851:shorturl:
+  spec:
+    url: https://notes.dt.in.th/HDRQRCode
+  state:
+    shortLink: https://webring.page.link/sMUn
 cfc88ef93dd09336b78321933c2bfeb2:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 5 (Scrum Master) [taoisaman.com]
