@@ -1290,6 +1290,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/06/agile-thailand-2023-ath2023/
   state:
     shortLink: https://webring.page.link/vSxp
+3becd5718c24f558952e5eb7ee93d81c:facebook:
+  spec:
+    title: ผลจากการ review code ในภาษา Go [somkiat.cc]
+    url: https://www.somkiat.cc/note-review-code-with-go/
+  state:
+    id: '100746876247412_209433925379191'
+    url: https://www.facebook.com/100683012920950/posts/209433925379191
+3becd5718c24f558952e5eb7ee93d81c:mastodon:
+  spec:
+    title: ผลจากการ review code ในภาษา Go [somkiat.cc]
+    url: https://www.somkiat.cc/note-review-code-with-go/
+  state:
+    id: '110568681846162086'
+    url: https://mastodon.in.th/@webring/110568681846162086
+3becd5718c24f558952e5eb7ee93d81c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-review-code-with-go/
+  state:
+    shortLink: https://webring.page.link/GKsn
 3c081287f3fe4e1dee288e9ba9328de0:facebook:
   spec:
     title: MLflow 101 [edocstudio.info]
