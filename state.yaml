@@ -3570,6 +3570,25 @@
     url: https://www.somkiat.cc/observability-with-grafana-platform/
   state:
     shortLink: https://webring.page.link/8Hxo
+8c975a367fd4e47d2acbf01f0c21855a:facebook:
+  spec:
+    title: '[AZURE] ลองมาใช้ Translation Service [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/06/try-azure-translation-service/
+  state:
+    id: '100746876247412_210645815258002'
+    url: https://www.facebook.com/100683012920950/posts/210645815258002
+8c975a367fd4e47d2acbf01f0c21855a:mastodon:
+  spec:
+    title: '[AZURE] ลองมาใช้ Translation Service [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/06/try-azure-translation-service/
+  state:
+    id: '110580006064994769'
+    url: https://mastodon.in.th/@webring/110580006064994769
+8c975a367fd4e47d2acbf01f0c21855a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/06/try-azure-translation-service/
+  state:
+    shortLink: https://webring.page.link/9Rby
 8d358a61c15c2566d49455b36443637b:facebook:
   spec:
     title: สวัสดี Dart 3 [somkiat.cc]
