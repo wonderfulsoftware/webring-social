@@ -6147,6 +6147,25 @@ f695c7098433ca6b3d6e691638eb73b4:shorturl:
     url: https://kusumotolab.com/first-time-condo-refinance/
   state:
     shortLink: https://webring.page.link/AqGB
+f7197d2c6189b3d52ea1f58f592e2c7d:facebook:
+  spec:
+    title: ลองใช้งาน Structured Logging ใน Go 1.21 rc1 [somkiat.cc]
+    url: https://www.somkiat.cc/structured-logging-in-go-1-21-rc1/
+  state:
+    id: '100746876247412_210750568580860'
+    url: https://www.facebook.com/100683012920950/posts/210750568580860
+f7197d2c6189b3d52ea1f58f592e2c7d:mastodon:
+  spec:
+    title: ลองใช้งาน Structured Logging ใน Go 1.21 rc1 [somkiat.cc]
+    url: https://www.somkiat.cc/structured-logging-in-go-1-21-rc1/
+  state:
+    id: '110580723193664677'
+    url: https://mastodon.in.th/@webring/110580723193664677
+f7197d2c6189b3d52ea1f58f592e2c7d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/structured-logging-in-go-1-21-rc1/
+  state:
+    shortLink: https://webring.page.link/4sQF
 f71e908eceea50140926bf688bf08369:facebook:
   spec:
     title: เมื่อ Twitter เปิด Open Source ให้เห็น Algorithms น่าสนใจมากๆ [myifew.com]
