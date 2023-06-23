@@ -4741,6 +4741,25 @@ c04dfe0b554c94ec9d09046503f2cd9b:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/05/cr-%e0%b8%aa%e0%b8%a1%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b9%84%e0%b8%81%e0%b9%88/
   state:
     shortLink: https://webring.page.link/MAuK
+c0519e3bf27db32f7c4db96c31a64f8f:facebook:
+  spec:
+    title: ลองใช้ Headless Chrome ทำ ScreenShot [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89-chrome-headless-%e0%b8%97%e0%b8%b3-screenshot/
+  state:
+    id: '100746876247412_211914798464437'
+    url: https://www.facebook.com/100683012920950/posts/211914798464437
+c0519e3bf27db32f7c4db96c31a64f8f:mastodon:
+  spec:
+    title: ลองใช้ Headless Chrome ทำ ScreenShot [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89-chrome-headless-%e0%b8%97%e0%b8%b3-screenshot/
+  state:
+    id: '110591392035631184'
+    url: https://mastodon.in.th/@webring/110591392035631184
+c0519e3bf27db32f7c4db96c31a64f8f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/06/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89-chrome-headless-%e0%b8%97%e0%b8%b3-screenshot/
+  state:
+    shortLink: https://webring.page.link/u62J
 c055b3e0b9b3853ddfa3d54a62bac60a:facebook:
   spec:
     title: '[VS2022] แก้ไขปัญหา There is no project properties provider for “Persistence = ProjectFileWithInterceptionViaSnapshot”. Projects are not loaded [debuggingsoft.com]'
