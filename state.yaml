@@ -2411,6 +2411,25 @@
     url: https://www.poolsawat.com/golang-grpc-advantages/
   state:
     shortLink: https://webring.page.link/kod8
+643f1092012d32822aedf4a3a832f962:facebook:
+  spec:
+    title: นกแอร์เลานจ์ (NokAir Lounge) หมุดหมายที่นั่งรอขึ้นเครื่องใหม่ ที่ไม่ได้มีดีแค่ความสบาย [dmg.st]
+    url: https://dmg.st/nokair-lounge/
+  state:
+    id: '100746876247412_211982398457677'
+    url: https://www.facebook.com/100683012920950/posts/211982398457677
+643f1092012d32822aedf4a3a832f962:mastodon:
+  spec:
+    title: นกแอร์เลานจ์ (NokAir Lounge) หมุดหมายที่นั่งรอขึ้นเครื่องใหม่ ที่ไม่ได้มีดีแค่ความสบาย [dmg.st]
+    url: https://dmg.st/nokair-lounge/
+  state:
+    id: '110592056043071549'
+    url: https://mastodon.in.th/@webring/110592056043071549
+643f1092012d32822aedf4a3a832f962:shorturl:
+  spec:
+    url: https://dmg.st/nokair-lounge/
+  state:
+    shortLink: https://webring.page.link/VZxr
 655fe23ff25ac2f9c9ad613f2d446fc2:facebook:
   spec:
     title: ESP32 Series รุ่นต่างๆ [thiti.dev]
