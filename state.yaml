@@ -6273,6 +6273,25 @@ f78d5beacf5c6b4e71a51d75c3737765:shorturl:
     url: https://www.somkiat.cc/note-tuning-performance-2/
   state:
     shortLink: https://webring.page.link/c2Sd
+f8e049c5ebee8c93763ff7aaa624257f:facebook:
+  spec:
+    title: 'MongoDB in Docker: ‘Authentication Failed’ when logging in to a non-default database name [dt.in.th]'
+    url: https://notes.dt.in.th/MongoDBAuthSource
+  state:
+    id: '100746876247412_212567588399158'
+    url: https://www.facebook.com/100683012920950/posts/212567588399158
+f8e049c5ebee8c93763ff7aaa624257f:mastodon:
+  spec:
+    title: 'MongoDB in Docker: ‘Authentication Failed’ when logging in to a non-default database name [dt.in.th]'
+    url: https://notes.dt.in.th/MongoDBAuthSource
+  state:
+    id: '110597043992624899'
+    url: https://mastodon.in.th/@webring/110597043992624899
+f8e049c5ebee8c93763ff7aaa624257f:shorturl:
+  spec:
+    url: https://notes.dt.in.th/MongoDBAuthSource
+  state:
+    shortLink: https://webring.page.link/jRDn
 f96b66b7a30e22623fc55c95fed9bb21:facebook:
   spec:
     title: '[รีวิว]เมื่อหนุ่มโรงงาน ย้ายสายไปทำงานเป็นโปรแกรมเมอร์ [toupawa.com]'
