@@ -2905,6 +2905,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/ltf-7-calendar-year/
   state:
     shortLink: https://webring.page.link/vB5L
+742d0a08aa296868d85e6d966bdc5436:facebook:
+  spec:
+    title: มาดู feature ใหม่ ๆ ใน Docker 24.0.2 [somkiat.cc]
+    url: https://www.somkiat.cc/new-features-in-docker-24-0-2/
+  state:
+    id: '100746876247412_212633058392611'
+    url: https://www.facebook.com/100683012920950/posts/212633058392611
+742d0a08aa296868d85e6d966bdc5436:mastodon:
+  spec:
+    title: มาดู feature ใหม่ ๆ ใน Docker 24.0.2 [somkiat.cc]
+    url: https://www.somkiat.cc/new-features-in-docker-24-0-2/
+  state:
+    id: '110597712593192026'
+    url: https://mastodon.in.th/@webring/110597712593192026
+742d0a08aa296868d85e6d966bdc5436:shorturl:
+  spec:
+    url: https://www.somkiat.cc/new-features-in-docker-24-0-2/
+  state:
+    shortLink: https://webring.page.link/BXN7
 74726a0b7d14c6034982c37265460c1c:facebook:
   spec:
     title: How to access NPM Private Registry [debuggingsoft.com]
