@@ -492,6 +492,25 @@
     url: https://kajame.xyz/blog/%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B3%20Scroll%20%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2
   state:
     shortLink: https://webring.page.link/sHdn
+182f0fd70d07e9508e2070d815c8b2f6:facebook:
+  spec:
+    title: สรุปจากงาน Web 3.0, The Future of Decentralization [mikkipastel.com]
+    url: https://www.mikkipastel.com/web-3-0-the-future-of-decentralization/
+  state:
+    id: '100746876247412_212705105052073'
+    url: https://www.facebook.com/100683012920950/posts/212705105052073
+182f0fd70d07e9508e2070d815c8b2f6:mastodon:
+  spec:
+    title: สรุปจากงาน Web 3.0, The Future of Decentralization [mikkipastel.com]
+    url: https://www.mikkipastel.com/web-3-0-the-future-of-decentralization/
+  state:
+    id: '110598406921047322'
+    url: https://mastodon.in.th/@webring/110598406921047322
+182f0fd70d07e9508e2070d815c8b2f6:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/web-3-0-the-future-of-decentralization/
+  state:
+    shortLink: https://webring.page.link/5oFr
 199609ef0b42ebf9b39cf0f4c3a01a06:facebook:
   spec:
     title: มาทำความรู้จักกับ Ephemeral Environment [somkiat.cc]
