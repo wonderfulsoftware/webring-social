@@ -2050,6 +2050,25 @@
     url: https://devahoy.com/tutorials/learn-css-animations/day2-card-flip
   state:
     shortLink: https://webring.page.link/2zz5
+5829f1f8eb7a1686aa479bb27d08b5ea:facebook:
+  spec:
+    title: ปัญหา port = 5000 ใน MacOS Ventura [somkiat.cc]
+    url: https://www.somkiat.cc/macos-problem-with-port-5000-airdrop/
+  state:
+    id: '100746876247412_213829114939672'
+    url: https://www.facebook.com/100683012920950/posts/213829114939672
+5829f1f8eb7a1686aa479bb27d08b5ea:mastodon:
+  spec:
+    title: ปัญหา port = 5000 ใน MacOS Ventura [somkiat.cc]
+    url: https://www.somkiat.cc/macos-problem-with-port-5000-airdrop/
+  state:
+    id: '110608388255428434'
+    url: https://mastodon.in.th/@webring/110608388255428434
+5829f1f8eb7a1686aa479bb27d08b5ea:shorturl:
+  spec:
+    url: https://www.somkiat.cc/macos-problem-with-port-5000-airdrop/
+  state:
+    shortLink: https://webring.page.link/igoR
 5a1b59219b935759a4f09013fd0e0e94:facebook:
   spec:
     title: เรื่องของ Noise หรือสิ่งรบกวนที่ส่งผลต่อ Productivity [somkiat.cc]
