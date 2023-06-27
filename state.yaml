@@ -1290,6 +1290,25 @@
     url: https://janescience.com/blog/timesheet-python-chatgpt
   state:
     shortLink: https://webring.page.link/Ymue
+39c8b7672c846d8654aed5ca06b78122:facebook:
+  spec:
+    title: มางาน Apetimism 1st Anniversary แล้วได้อะไรบ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/apetimism-1st-anniversary/
+  state:
+    id: '100746876247412_214597818196135'
+    url: https://www.facebook.com/100683012920950/posts/214597818196135
+39c8b7672c846d8654aed5ca06b78122:mastodon:
+  spec:
+    title: มางาน Apetimism 1st Anniversary แล้วได้อะไรบ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/apetimism-1st-anniversary/
+  state:
+    id: '110615398021451424'
+    url: https://mastodon.in.th/@webring/110615398021451424
+39c8b7672c846d8654aed5ca06b78122:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/apetimism-1st-anniversary/
+  state:
+    shortLink: https://webring.page.link/a4o3
 3a28a47007fceec38b474db799ceb5c7:facebook:
   spec:
     title: 'มาฟัง Agile Thailand 2023 #ATH2023 [debuggingsoft.com]'
