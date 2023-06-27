@@ -2164,6 +2164,25 @@
     url: https://www.somkiat.cc/note-how-levels-fyi-scaled-to-millions-of-users/
   state:
     shortLink: https://webring.page.link/Dwcj
+5d71fd935583184a602d1b94ef4cc613:facebook:
+  spec:
+    title: ยังคงโง่และบัดซบ กับงาน Stupid Hackathon in Thailand 7 [tinarskii.com]
+    url: https://tinarskii.com/articles/shit7
+  state:
+    id: '100746876247412_214438668212050'
+    url: https://www.facebook.com/100683012920950/posts/214438668212050
+5d71fd935583184a602d1b94ef4cc613:mastodon:
+  spec:
+    title: ยังคงโง่และบัดซบ กับงาน Stupid Hackathon in Thailand 7 [tinarskii.com]
+    url: https://tinarskii.com/articles/shit7
+  state:
+    id: '110614035015304335'
+    url: https://mastodon.in.th/@webring/110614035015304335
+5d71fd935583184a602d1b94ef4cc613:shorturl:
+  spec:
+    url: https://tinarskii.com/articles/shit7
+  state:
+    shortLink: https://webring.page.link/Fn4C
 5dbc2e6aba68ab9800bdbf543201c5a9:facebook:
   spec:
     title: How to change/redirect Apache Tomcat port number [debuggingsoft.com]
