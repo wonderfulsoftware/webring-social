@@ -2753,6 +2753,25 @@
     url: https://www.somkiat.cc/hello-docker-init/
   state:
     shortLink: https://webring.page.link/ERhx
+6de8c3e7dbfba578923ff45f8adfe9da:facebook:
+  spec:
+    title: 'น่าสนใจสำหรับ KIP-932: Queues for Kafka [somkiat.cc]'
+    url: https://www.somkiat.cc/kip-932-queues-for-kafka/
+  state:
+    id: '100746876247412_215136031475647'
+    url: https://www.facebook.com/100683012920950/posts/215136031475647
+6de8c3e7dbfba578923ff45f8adfe9da:mastodon:
+  spec:
+    title: 'น่าสนใจสำหรับ KIP-932: Queues for Kafka [somkiat.cc]'
+    url: https://www.somkiat.cc/kip-932-queues-for-kafka/
+  state:
+    id: '110619690795369921'
+    url: https://mastodon.in.th/@webring/110619690795369921
+6de8c3e7dbfba578923ff45f8adfe9da:shorturl:
+  spec:
+    url: https://www.somkiat.cc/kip-932-queues-for-kafka/
+  state:
+    shortLink: https://webring.page.link/N8HQ
 6ea664674e5299a96e34f7346ae67060:facebook:
   spec:
     title: Wishlist [garden.narze.live]
