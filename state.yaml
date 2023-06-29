@@ -815,6 +815,25 @@
     url: https://www.somkiat.cc/dotnet-with-native-aot/
   state:
     shortLink: https://webring.page.link/Qp7t
+2709bac1ed9e04cf0749bbf01e1048cf:facebook:
+  spec:
+    title: 'PoC :: ลองจัดการรูปแบบข้อมูลชนิด Floating-point [somkiat.cc]'
+    url: https://www.somkiat.cc/poc-floating-format-with-json/
+  state:
+    id: '100746876247412_215873761401874'
+    url: https://www.facebook.com/100683012920950/posts/215873761401874
+2709bac1ed9e04cf0749bbf01e1048cf:mastodon:
+  spec:
+    title: 'PoC :: ลองจัดการรูปแบบข้อมูลชนิด Floating-point [somkiat.cc]'
+    url: https://www.somkiat.cc/poc-floating-format-with-json/
+  state:
+    id: '110625340037295343'
+    url: https://mastodon.in.th/@webring/110625340037295343
+2709bac1ed9e04cf0749bbf01e1048cf:shorturl:
+  spec:
+    url: https://www.somkiat.cc/poc-floating-format-with-json/
+  state:
+    shortLink: https://webring.page.link/vbLK
 2714c8ba1294f731eee9aab0813a47ac:facebook:
   spec:
     title: สิ่งที่น่าสนใจจากการเปลี่ยนแปลงของ Microsoft Teams [somkiat.cc]
