@@ -2753,6 +2753,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/com-interop-is-broken-runtime-error-3001-when-using-visual-studio-2022/
   state:
     shortLink: https://webring.page.link/oS2G
+6cfeeba4f314d83a89ffd4837502f1ec:facebook:
+  spec:
+    title: Coverage คือ อะไร และสำคัญยังไง ? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/what-is-code-coverage/
+  state:
+    id: '100746876247412_215952974727286'
+    url: https://www.facebook.com/100683012920950/posts/215952974727286
+6cfeeba4f314d83a89ffd4837502f1ec:mastodon:
+  spec:
+    title: Coverage คือ อะไร และสำคัญยังไง ? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/06/what-is-code-coverage/
+  state:
+    id: '110626028190430083'
+    url: https://mastodon.in.th/@webring/110626028190430083
+6cfeeba4f314d83a89ffd4837502f1ec:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/06/what-is-code-coverage/
+  state:
+    shortLink: https://webring.page.link/s87W
 6d2a9ed1af5a32091e1aa71122c2fcef:facebook:
   spec:
     title: มาลองใช้งาน Docker init กัน (beta version) [somkiat.cc]
