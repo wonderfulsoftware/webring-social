@@ -2755,14 +2755,14 @@
     shortLink: https://webring.page.link/oS2G
 6cfeeba4f314d83a89ffd4837502f1ec:facebook:
   spec:
-    title: Coverage คือ อะไร และสำคัญยังไง ? [debuggingsoft.com]
+    title: Code Coverage คือ อะไร และสำคัญยังไง ? [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2023/06/what-is-code-coverage/
   state:
     id: '100746876247412_215952974727286'
     url: https://www.facebook.com/100683012920950/posts/215952974727286
 6cfeeba4f314d83a89ffd4837502f1ec:mastodon:
   spec:
-    title: Coverage คือ อะไร และสำคัญยังไง ? [debuggingsoft.com]
+    title: Code Coverage คือ อะไร และสำคัญยังไง ? [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2023/06/what-is-code-coverage/
   state:
     id: '110626028190430083'
@@ -2772,6 +2772,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/06/what-is-code-coverage/
   state:
     shortLink: https://webring.page.link/s87W
+6d1c40c0fac8e65d5faf44da7f939eb6:facebook:
+  spec:
+    title: เป็ดไปงาน React Meetup มาด้วยนะ [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/react-meetup
+  state:
+    id: '100746876247412_216508988005018'
+    url: https://www.facebook.com/100683012920950/posts/216508988005018
+6d1c40c0fac8e65d5faf44da7f939eb6:mastodon:
+  spec:
+    title: เป็ดไปงาน React Meetup มาด้วยนะ [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/react-meetup
+  state:
+    id: '110630988959360811'
+    url: https://mastodon.in.th/@webring/110630988959360811
+6d1c40c0fac8e65d5faf44da7f939eb6:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/react-meetup
+  state:
+    shortLink: https://webring.page.link/GATo
 6d2a9ed1af5a32091e1aa71122c2fcef:facebook:
   spec:
     title: มาลองใช้งาน Docker init กัน (beta version) [somkiat.cc]
