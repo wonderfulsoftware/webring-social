@@ -4710,6 +4710,25 @@ afd1afebef5caf5636be6e145ec98f98:shorturl:
     url: https://mesodiar.com/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94-%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%B5-2022-7ffac94dd35f?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/tgzE
+b0bab9c6fb19f66e158e3667ac1fefa2:facebook:
+  spec:
+    title: '[CR] Starbucks-green tea red bean cake [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/06/cr-starbucks-green-tea-red-bean-cake/
+  state:
+    id: '100746876247412_217139827941934'
+    url: https://www.facebook.com/100683012920950/posts/217139827941934
+b0bab9c6fb19f66e158e3667ac1fefa2:mastodon:
+  spec:
+    title: '[CR] Starbucks-green tea red bean cake [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/06/cr-starbucks-green-tea-red-bean-cake/
+  state:
+    id: '110636704196242560'
+    url: https://mastodon.in.th/@webring/110636704196242560
+b0bab9c6fb19f66e158e3667ac1fefa2:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/06/cr-starbucks-green-tea-red-bean-cake/
+  state:
+    shortLink: https://webring.page.link/7pUY
 b1414e295ee1b03de271abe597428804:facebook:
   spec:
     title: มาดูความสามารถใหม่ ๆ ใน Robot Framework 6.1 alpha 1 [somkiat.cc]
