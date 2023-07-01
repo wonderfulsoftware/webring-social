@@ -5862,6 +5862,25 @@ e29c6f2358bde3729584684d4e296a57:shorturl:
     url: https://lucian.solutions/blog/papang-uvu-art-trade
   state:
     shortLink: https://webring.page.link/bJXc
+e2b9454591bd41eb9cdeea3a0a83b0c8:facebook:
+  spec:
+    title: แก้ระบบสมการเชิงเส้นด้วยดีเทอร์มิแนนต์ [neizod.dev]
+    url: https://neizod.dev/2023/06/30/solve-system-of-linear-equation-with-determinant.html
+  state:
+    id: '100746876247412_217216977934219'
+    url: https://www.facebook.com/100683012920950/posts/217216977934219
+e2b9454591bd41eb9cdeea3a0a83b0c8:mastodon:
+  spec:
+    title: แก้ระบบสมการเชิงเส้นด้วยดีเทอร์มิแนนต์ [neizod.dev]
+    url: https://neizod.dev/2023/06/30/solve-system-of-linear-equation-with-determinant.html
+  state:
+    id: '110637348444521358'
+    url: https://mastodon.in.th/@webring/110637348444521358
+e2b9454591bd41eb9cdeea3a0a83b0c8:shorturl:
+  spec:
+    url: https://neizod.dev/2023/06/30/solve-system-of-linear-equation-with-determinant.html
+  state:
+    shortLink: https://webring.page.link/4G2p
 e387e1e62a27db5dc3c2ce0a2a983f57:facebook:
   spec:
     title: '[CR] Starbucks-Emperor’s Clouds & Mist Tea [debuggingsoft.com]'
