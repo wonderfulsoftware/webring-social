@@ -4482,6 +4482,25 @@ a51a992373d4e0f28f1e84418320f43c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/05/optimize-container-image-size/
   state:
     shortLink: https://webring.page.link/EvQH
+a6f00d04c1278fbafdc08a775d1da62a:facebook:
+  spec:
+    title: 'Fixed Jenkins build error MSB4018: System.InvalidOperationException: Unable to set permission while creating /tmp/NuGetScratch [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/07/fixed-jenkin-build-error-msb4018-system-invalidoperationexception-unable-to-set-permission-while-creating-tmp-nugetscratch/
+  state:
+    id: '100746876247412_218006734521910'
+    url: https://www.facebook.com/100683012920950/posts/218006734521910
+a6f00d04c1278fbafdc08a775d1da62a:mastodon:
+  spec:
+    title: 'Fixed Jenkins build error MSB4018: System.InvalidOperationException: Unable to set permission while creating /tmp/NuGetScratch [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/07/fixed-jenkin-build-error-msb4018-system-invalidoperationexception-unable-to-set-permission-while-creating-tmp-nugetscratch/
+  state:
+    id: '110643704219008820'
+    url: https://mastodon.in.th/@webring/110643704219008820
+a6f00d04c1278fbafdc08a775d1da62a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/07/fixed-jenkin-build-error-msb4018-system-invalidoperationexception-unable-to-set-permission-while-creating-tmp-nugetscratch/
+  state:
+    shortLink: https://webring.page.link/u4p4
 a77c479113e1a5a4f26f405c82af56f3:facebook:
   spec:
     title: บันทึกเรื่อง Building more efficient Firestore web app [somkiat.cc]
