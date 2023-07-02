@@ -4197,6 +4197,25 @@
     url: https://www.somkiat.cc/virtual-thread-in-spring-boot-3/
   state:
     shortLink: https://webring.page.link/8Mwd
+9b224caac1c9a49d497284b5b134ee3a:facebook:
+  spec:
+    title: Backing up a Linux cloud server with Restic [dt.in.th]
+    url: https://notes.dt.in.th/ResticBackup
+  state:
+    id: '100746876247412_217846507871266'
+    url: https://www.facebook.com/100683012920950/posts/217846507871266
+9b224caac1c9a49d497284b5b134ee3a:mastodon:
+  spec:
+    title: Backing up a Linux cloud server with Restic [dt.in.th]
+    url: https://notes.dt.in.th/ResticBackup
+  state:
+    id: '110642344536112912'
+    url: https://mastodon.in.th/@webring/110642344536112912
+9b224caac1c9a49d497284b5b134ee3a:shorturl:
+  spec:
+    url: https://notes.dt.in.th/ResticBackup
+  state:
+    shortLink: https://webring.page.link/PkpM
 9c0c2a2834c4c40e9ddf391031e09d63:facebook:
   spec:
     title: NVM คืออะไร แชร์เทคนิคการใช้งาน [poolsawat.com]
