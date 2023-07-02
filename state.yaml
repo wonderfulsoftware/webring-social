@@ -5729,6 +5729,25 @@ d8e331caff1bc9bc60a18e5d768ff2c6:shorturl:
     url: https://www.somkiat.cc/newman-error-with-localhost/
   state:
     shortLink: https://webring.page.link/bZUU
+d9efbdce1358663c882dabc04d53db9b:facebook:
+  spec:
+    title: เราไป Google I/O Connect 2023 ที่ Bengaluru ประเทศอินเดียมา [mesodiar.com]
+    url: https://mesodiar.com/%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%9B-google-i-o-connect-2023-%E0%B8%97%E0%B8%B5%E0%B9%88-bengaluru-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%B2-219b534c374d?source=rss----698ac1e5dc8c---4
+  state:
+    id: '100746876247412_217924291196821'
+    url: https://www.facebook.com/100683012920950/posts/217924291196821
+d9efbdce1358663c882dabc04d53db9b:mastodon:
+  spec:
+    title: เราไป Google I/O Connect 2023 ที่ Bengaluru ประเทศอินเดียมา [mesodiar.com]
+    url: https://mesodiar.com/%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%9B-google-i-o-connect-2023-%E0%B8%97%E0%B8%B5%E0%B9%88-bengaluru-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%B2-219b534c374d?source=rss----698ac1e5dc8c---4
+  state:
+    id: '110643008361112358'
+    url: https://mastodon.in.th/@webring/110643008361112358
+d9efbdce1358663c882dabc04d53db9b:shorturl:
+  spec:
+    url: https://mesodiar.com/%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%9B-google-i-o-connect-2023-%E0%B8%97%E0%B8%B5%E0%B9%88-bengaluru-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%B2-219b534c374d?source=rss----698ac1e5dc8c---4
+  state:
+    shortLink: https://webring.page.link/z7RB
 da99d414d91f720cbcc374cb410fccf0:facebook:
   spec:
     title: '[AZ-400] Implement continuous feedback [debuggingsoft.com]'
