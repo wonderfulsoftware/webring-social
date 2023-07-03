@@ -3152,6 +3152,25 @@
     url: https://www.mikkipastel.com/my-bio-website-by-glitch-in-bio/
   state:
     shortLink: https://webring.page.link/M6zS
+7654afdf021ba7f28df607298af47725:facebook:
+  spec:
+    title: Setting up CORS in Caddy [dt.in.th]
+    url: https://notes.dt.in.th/CaddyCORS
+  state:
+    id: '100746876247412_218548364467747'
+    url: https://www.facebook.com/100683012920950/posts/218548364467747
+7654afdf021ba7f28df607298af47725:mastodon:
+  spec:
+    title: Setting up CORS in Caddy [dt.in.th]
+    url: https://notes.dt.in.th/CaddyCORS
+  state:
+    id: '110647996289001241'
+    url: https://mastodon.in.th/@webring/110647996289001241
+7654afdf021ba7f28df607298af47725:shorturl:
+  spec:
+    url: https://notes.dt.in.th/CaddyCORS
+  state:
+    shortLink: https://webring.page.link/kfUP
 7659a33746f04257582d76202ecd03b6:facebook:
   spec:
     title: Node 19.7.0 สามารถสร้าง Single Executable Application (SEA) ของระบบได้แล้ว [experiment feature] [somkiat.cc]
