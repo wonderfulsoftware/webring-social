@@ -1860,6 +1860,25 @@
     url: https://www.somkiat.cc/note-from-database-journey-at-discord/
   state:
     shortLink: https://webring.page.link/xU6T
+4e8a82e54d67a5b37902f549fa90a52a:facebook:
+  spec:
+    title: 56 - puppeteer rabbit hole [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-56-puppeteer-rabbit-hole/
+  state:
+    id: '100746876247412_220614744261109'
+    url: https://www.facebook.com/100683012920950/posts/220614744261109
+4e8a82e54d67a5b37902f549fa90a52a:mastodon:
+  spec:
+    title: 56 - puppeteer rabbit hole [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-56-puppeteer-rabbit-hole/
+  state:
+    id: '110665001898180235'
+    url: https://mastodon.in.th/@webring/110665001898180235
+4e8a82e54d67a5b37902f549fa90a52a:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-56-puppeteer-rabbit-hole/
+  state:
+    shortLink: https://webring.page.link/f5YY
 4ea5b4abbec0633194c19529b4bb702e:facebook:
   spec:
     title: วิธีแก้ปัญหา unknown at rule ของ tailwind css [devahoy.com]
