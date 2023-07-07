@@ -6147,6 +6147,25 @@ e51dab2a8e47c25c57be8e37f55973ba:shorturl:
     url: https://www.somkiat.cc/postman-in-vscode/
   state:
     shortLink: https://webring.page.link/ajmS
+e599a4a02f9215c9e43ba6de04c373fe:facebook:
+  spec:
+    title: Fallback fonts in VSCode [garden.narze.live]
+    url: https://garden.narze.live/fallback-fonts-in-vscode/
+  state:
+    id: '100746876247412_221390410850209'
+    url: https://www.facebook.com/100683012920950/posts/221390410850209
+e599a4a02f9215c9e43ba6de04c373fe:mastodon:
+  spec:
+    title: Fallback fonts in VSCode [garden.narze.live]
+    url: https://garden.narze.live/fallback-fonts-in-vscode/
+  state:
+    id: '110671326441838346'
+    url: https://mastodon.in.th/@webring/110671326441838346
+e599a4a02f9215c9e43ba6de04c373fe:shorturl:
+  spec:
+    url: https://garden.narze.live/fallback-fonts-in-vscode/
+  state:
+    shortLink: https://webring.page.link/beno
 e600a6d6806cce4cbce4774cdd30283c:facebook:
   spec:
     title: Recap 2022 [blog.oatto.dev]
