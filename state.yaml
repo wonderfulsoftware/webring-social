@@ -4007,6 +4007,25 @@
     url: https://kajame.xyz/blog/learning-typescript-02
   state:
     shortLink: https://webring.page.link/5AUZ
+92051a88851fafb3ad63bcc418fdb505:facebook:
+  spec:
+    title: Book Highlights - Build by Tony Fadell [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/07/book-highlights---build--by-tony-fadell/
+  state:
+    id: '100746876247412_221568544165729'
+    url: https://www.facebook.com/100683012920950/posts/221568544165729
+92051a88851fafb3ad63bcc418fdb505:mastodon:
+  spec:
+    title: Book Highlights - Build by Tony Fadell [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/07/book-highlights---build--by-tony-fadell/
+  state:
+    id: '110672769603696329'
+    url: https://mastodon.in.th/@webring/110672769603696329
+92051a88851fafb3ad63bcc418fdb505:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/07/book-highlights---build--by-tony-fadell/
+  state:
+    shortLink: https://webring.page.link/WPVo
 922eab48507881bb4f74d8d6d892809b:facebook:
   spec:
     title: VS Code REST Client snippets [dt.in.th]
