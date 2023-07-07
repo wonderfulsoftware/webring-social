@@ -5672,6 +5672,25 @@ d23ad7216ab2ab504908abcf7dbab652:shorturl:
     url: https://www.mikkipastel.com/nft-square-meetup-1-and-gassed-up/
   state:
     shortLink: https://webring.page.link/BWd9
+d278fe492fcabd7db6e344f9d68acc72:facebook:
+  spec:
+    title: ทำให้ตัว ICONV support TIS-620 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/make-iconv-support-tis-620/
+  state:
+    id: '100746876247412_221472600841990'
+    url: https://www.facebook.com/100683012920950/posts/221472600841990
+d278fe492fcabd7db6e344f9d68acc72:mastodon:
+  spec:
+    title: ทำให้ตัว ICONV support TIS-620 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/make-iconv-support-tis-620/
+  state:
+    id: '110672021022837160'
+    url: https://mastodon.in.th/@webring/110672021022837160
+d278fe492fcabd7db6e344f9d68acc72:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/07/make-iconv-support-tis-620/
+  state:
+    shortLink: https://webring.page.link/iZKK
 d2a211d2c6b8c66f3cf64aab9d5140c8:facebook:
   spec:
     title: Securing Kafka with TLS/SSL encryption [mesodiar.com]
