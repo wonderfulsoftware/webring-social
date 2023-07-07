@@ -4368,6 +4368,25 @@
     url: https://tech.duckfollow.co/view/resistor-color-code-utility
   state:
     shortLink: https://webring.page.link/CHwf
+9e5a1a3c5164f77e740a5156074bb49d:facebook:
+  spec:
+    title: Persistent store for Cross-platform React applications with Recoil and Capacitor Preferences [ntsd.dev]
+    url: https://ntsd.dev/recoil-persistent-with-capacitor-preferences/
+  state:
+    id: '100746876247412_221311400858110'
+    url: https://www.facebook.com/100683012920950/posts/221311400858110
+9e5a1a3c5164f77e740a5156074bb49d:mastodon:
+  spec:
+    title: Persistent store for Cross-platform React applications with Recoil and Capacitor Preferences [ntsd.dev]
+    url: https://ntsd.dev/recoil-persistent-with-capacitor-preferences/
+  state:
+    id: '110670651507283688'
+    url: https://mastodon.in.th/@webring/110670651507283688
+9e5a1a3c5164f77e740a5156074bb49d:shorturl:
+  spec:
+    url: https://ntsd.dev/recoil-persistent-with-capacitor-preferences/
+  state:
+    shortLink: https://webring.page.link/g3Hb
 9f15012fc09ed744463910d08b51f67d:facebook:
   spec:
     title: CPU / GPU / TPU คืออะไร [debuggingsoft.com]
