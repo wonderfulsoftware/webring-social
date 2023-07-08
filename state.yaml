@@ -4482,6 +4482,25 @@ a1fc654eae8ca5c14e18da045946930c:shorturl:
     url: https://www.somkiat.cc/time-series-in-elasticsearch-8-6/
   state:
     shortLink: https://webring.page.link/WXu2
+a287ccf56f08a1618741153a1d056e95:facebook:
+  spec:
+    title: ซ่อมบ้าน-ทาสีกันซึมดาดฟ้า [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/fixed-water-leak-in-my-house/
+  state:
+    id: '100746876247412_222177534104830'
+    url: https://www.facebook.com/100683012920950/posts/222177534104830
+a287ccf56f08a1618741153a1d056e95:mastodon:
+  spec:
+    title: ซ่อมบ้าน-ทาสีกันซึมดาดฟ้า [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/fixed-water-leak-in-my-house/
+  state:
+    id: '110677677780057735'
+    url: https://mastodon.in.th/@webring/110677677780057735
+a287ccf56f08a1618741153a1d056e95:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/07/fixed-water-leak-in-my-house/
+  state:
+    shortLink: https://webring.page.link/LzKS
 a2ddaf898161aef37c0bc75f362600b0:facebook:
   spec:
     title: น่าสนใจกับ Observability-Driven Development (ODD) ด้วย TraceTest [somkiat.cc]
