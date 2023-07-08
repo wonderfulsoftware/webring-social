@@ -1347,6 +1347,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/06/agile-thailand-2023-ath2023/
   state:
     shortLink: https://webring.page.link/vSxp
+3b0184741116daafd17265ad598f6814:facebook:
+  spec:
+    title: อย่าเพิ่งทำ ... ถ้ายังไม่ได้วิเคราะห์ 3C Analysis [mikkipastel.com]
+    url: https://www.mikkipastel.com/3c-analysis/
+  state:
+    id: '100746876247412_222098090779441'
+    url: https://www.facebook.com/100683012920950/posts/222098090779441
+3b0184741116daafd17265ad598f6814:mastodon:
+  spec:
+    title: อย่าเพิ่งทำ ... ถ้ายังไม่ได้วิเคราะห์ 3C Analysis [mikkipastel.com]
+    url: https://www.mikkipastel.com/3c-analysis/
+  state:
+    id: '110676982563002511'
+    url: https://mastodon.in.th/@webring/110676982563002511
+3b0184741116daafd17265ad598f6814:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/3c-analysis/
+  state:
+    shortLink: https://webring.page.link/rkLv
 3becd5718c24f558952e5eb7ee93d81c:facebook:
   spec:
     title: ผลจากการ review code ในภาษา Go [somkiat.cc]
