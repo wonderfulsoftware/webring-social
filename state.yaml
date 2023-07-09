@@ -17,6 +17,25 @@
     url: https://thanapon.info/aws-iot-credential-provider/
   state:
     shortLink: https://webring.page.link/gvFA
+0134991cf99b866ee2c727ebb3e87ff3:facebook:
+  spec:
+    title: ลอง Clone ChatGPT ด้วย ChatGPT [taoisaman.com]
+    url: https://taoisaman.com/2023/07/08/%e0%b8%a5%e0%b8%ad%e0%b8%87-clone-chatgpt-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-chatgpt/
+  state:
+    id: '100746876247412_222884810700769'
+    url: https://www.facebook.com/100683012920950/posts/222884810700769
+0134991cf99b866ee2c727ebb3e87ff3:mastodon:
+  spec:
+    title: ลอง Clone ChatGPT ด้วย ChatGPT [taoisaman.com]
+    url: https://taoisaman.com/2023/07/08/%e0%b8%a5%e0%b8%ad%e0%b8%87-clone-chatgpt-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-chatgpt/
+  state:
+    id: '110683340752810083'
+    url: https://mastodon.in.th/@webring/110683340752810083
+0134991cf99b866ee2c727ebb3e87ff3:shorturl:
+  spec:
+    url: https://taoisaman.com/2023/07/08/%e0%b8%a5%e0%b8%ad%e0%b8%87-clone-chatgpt-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-chatgpt/
+  state:
+    shortLink: https://webring.page.link/7fME
 017b14ff94bdfdb28722f875fa3d6791:facebook:
   spec:
     title: มางาน Notion Meetup Thailand 2023 First Love with Notion ที่จัดครั้งแรกในไทย [mikkipastel.com]
