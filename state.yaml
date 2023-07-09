@@ -2354,6 +2354,25 @@
     url: https://www.somkiat.cc/domain-driven-design-by-roofimon-2023/
   state:
     shortLink: https://webring.page.link/37mR
+5f7af807a03a029959d668b8ba80afc5:facebook:
+  spec:
+    title: สรุปการแบ่งปันเรื่อง Microservices ตั้งแต่ design -> develop -> testing -> deploy [somkiat.cc]
+    url: https://www.somkiat.cc/note-microservices-sharing-at-skooldio-13/
+  state:
+    id: '100746876247412_222796157376301'
+    url: https://www.facebook.com/100683012920950/posts/222796157376301
+5f7af807a03a029959d668b8ba80afc5:mastodon:
+  spec:
+    title: สรุปการแบ่งปันเรื่อง Microservices ตั้งแต่ design -> develop -> testing -> deploy [somkiat.cc]
+    url: https://www.somkiat.cc/note-microservices-sharing-at-skooldio-13/
+  state:
+    id: '110682645995121549'
+    url: https://mastodon.in.th/@webring/110682645995121549
+5f7af807a03a029959d668b8ba80afc5:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-microservices-sharing-at-skooldio-13/
+  state:
+    shortLink: https://webring.page.link/hukJ
 5fa036d23bd8b34dcf0b9855c36d16cb:facebook:
   spec:
     title: หนึ่งปีที่ผ่านมาใน Netherlands [llun.me]
