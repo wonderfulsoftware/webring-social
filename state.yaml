@@ -2544,6 +2544,25 @@
     url: https://garden.narze.live/Change-League-of-Legends-macOS-language-from-Thai-to-English/
   state:
     shortLink: https://webring.page.link/upmQ
+62f7f2bf4041d86b6c0a3ae0428115d1:facebook:
+  spec:
+    title: 58 - garden-astro - use hashtags [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-58-garden-astro-use-hashtags/
+  state:
+    id: '100746876247412_223413907314526'
+    url: https://www.facebook.com/100683012920950/posts/223413907314526
+62f7f2bf4041d86b6c0a3ae0428115d1:mastodon:
+  spec:
+    title: 58 - garden-astro - use hashtags [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-58-garden-astro-use-hashtags/
+  state:
+    id: '110687648630438250'
+    url: https://mastodon.in.th/@webring/110687648630438250
+62f7f2bf4041d86b6c0a3ae0428115d1:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-58-garden-astro-use-hashtags/
+  state:
+    shortLink: https://webring.page.link/eKZ9
 639c11c08aeb3f30f0258dd9db600772:facebook:
   spec:
     title: เมื่อปี 2022 เราเจอกับคำว่าอะไรบ้างนะ ? [somkiat.cc]
