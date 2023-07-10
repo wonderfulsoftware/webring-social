@@ -6660,6 +6660,25 @@ f2c2df3dbfc439a1bc5ead97f83d7be1:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/05/global-azure-2023-thailand/
   state:
     shortLink: https://webring.page.link/Nbzv
+f3b594fe7c052e69a8a41d1810b7767b:facebook:
+  spec:
+    title: '[NET] บันทึกการจัดการ NuGet ที่ต้องแยกเฉพาะตาม Platform ครับ [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/07/dotnet-how-to-handle-different-nuget-package-based-on-operating-system-platform/
+  state:
+    id: '100746876247412_223490087306908'
+    url: https://www.facebook.com/100683012920950/posts/223490087306908
+f3b594fe7c052e69a8a41d1810b7767b:mastodon:
+  spec:
+    title: '[NET] บันทึกการจัดการ NuGet ที่ต้องแยกเฉพาะตาม Platform ครับ [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/07/dotnet-how-to-handle-different-nuget-package-based-on-operating-system-platform/
+  state:
+    id: '110688314935578661'
+    url: https://mastodon.in.th/@webring/110688314935578661
+f3b594fe7c052e69a8a41d1810b7767b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/07/dotnet-how-to-handle-different-nuget-package-based-on-operating-system-platform/
+  state:
+    shortLink: https://webring.page.link/ptUN
 f3ff98ffe6527d7fe3795a4c0c9a45d5:facebook:
   spec:
     title: Load balancer 101, thou shalt not be alone [karnwong.me]
