@@ -2069,6 +2069,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/fixed-node-error-err_ossl_evp_unsupported-0308010cdigital-envelope-routinesunsupported/
   state:
     shortLink: https://webring.page.link/1DWX
+550abfa4b80cdbbd4fc5218ada90f14d:facebook:
+  spec:
+    title: 'แก้ปัญหาเมื่อ Flash stock ROM มือถือ Xiaomi แล้วเจอปัญหา "remote: ''Check CRC failed''" [kusumotolab.com]'
+    url: https://kusumotolab.com/how-to-resolve-flash-xiaomi-stock-rom-error-remove-check-crc-failed/
+  state:
+    id: '100746876247412_223565440632706'
+    url: https://www.facebook.com/100683012920950/posts/223565440632706
+550abfa4b80cdbbd4fc5218ada90f14d:mastodon:
+  spec:
+    title: 'แก้ปัญหาเมื่อ Flash stock ROM มือถือ Xiaomi แล้วเจอปัญหา "remote: ''Check CRC failed''" [kusumotolab.com]'
+    url: https://kusumotolab.com/how-to-resolve-flash-xiaomi-stock-rom-error-remove-check-crc-failed/
+  state:
+    id: '110689010183840683'
+    url: https://mastodon.in.th/@webring/110689010183840683
+550abfa4b80cdbbd4fc5218ada90f14d:shorturl:
+  spec:
+    url: https://kusumotolab.com/how-to-resolve-flash-xiaomi-stock-rom-error-remove-check-crc-failed/
+  state:
+    shortLink: https://webring.page.link/yjCC
 55592834aab2585489609dbc395fe826:facebook:
   spec:
     title: สรุปการแบ่งปันเรื่อง ChatGPT ในการทำงานสาย Developer [somkiat.cc]
