@@ -5482,6 +5482,25 @@ c4bc6a941df1a17cd83aea42714f85aa:shorturl:
     url: https://www.somkiat.cc/prime-video-rearchitecture/
   state:
     shortLink: https://webring.page.link/jaVN
+c4c50c7a4f7c1744980fbb0db224e761:facebook:
+  spec:
+    title: 59 - ChatOS [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-59-chatos/
+  state:
+    id: '100746876247412_224136587242258'
+    url: https://www.facebook.com/100683012920950/posts/224136587242258
+c4c50c7a4f7c1744980fbb0db224e761:mastodon:
+  spec:
+    title: 59 - ChatOS [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-59-chatos/
+  state:
+    id: '110693975335169049'
+    url: https://mastodon.in.th/@webring/110693975335169049
+c4c50c7a4f7c1744980fbb0db224e761:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-59-chatos/
+  state:
+    shortLink: https://webring.page.link/YNR2
 c4ce3508a892bcc9d9d65de4a37c7603:facebook:
   spec:
     title: '[AZ-400] Implement security and validate code bases for compliance [debuggingsoft.com]'
