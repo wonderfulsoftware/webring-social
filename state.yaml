@@ -435,6 +435,25 @@
     url: https://www.somkiat.cc/hello-vercel-storage/
   state:
     shortLink: https://webring.page.link/WNNx
+145337c4af48548e2997ce44e6aa6546:facebook:
+  spec:
+    title: จดบันทึกเรื่องของ การเขียน Automated Test [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-sharing-automated-test/
+  state:
+    id: '100746876247412_224218640567386'
+    url: https://www.facebook.com/100683012920950/posts/224218640567386
+145337c4af48548e2997ce44e6aa6546:mastodon:
+  spec:
+    title: จดบันทึกเรื่องของ การเขียน Automated Test [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-sharing-automated-test/
+  state:
+    id: '110694670440135653'
+    url: https://mastodon.in.th/@webring/110694670440135653
+145337c4af48548e2997ce44e6aa6546:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-from-sharing-automated-test/
+  state:
+    shortLink: https://webring.page.link/JPwN
 147f58ef6a5d7a13cce45ccf263b2183:facebook:
   spec:
     title: สรุปจาก Bangkok Elastic Meetup 2023 [somkiat.cc]
