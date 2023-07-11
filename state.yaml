@@ -188,6 +188,25 @@
     url: https://www.somkiat.cc/docker-scout/
   state:
     shortLink: https://webring.page.link/DYym
+0ab0e635acdcc54ec533091109729386:facebook:
+  spec:
+    title: Accessing user ID in NextAuth.js with JWT session [dt.in.th]
+    url: https://notes.dt.in.th/NextAuthUserIdInSession
+  state:
+    id: '100746876247412_224059827249934'
+    url: https://www.facebook.com/100683012920950/posts/224059827249934
+0ab0e635acdcc54ec533091109729386:mastodon:
+  spec:
+    title: Accessing user ID in NextAuth.js with JWT session [dt.in.th]
+    url: https://notes.dt.in.th/NextAuthUserIdInSession
+  state:
+    id: '110693275666664846'
+    url: https://mastodon.in.th/@webring/110693275666664846
+0ab0e635acdcc54ec533091109729386:shorturl:
+  spec:
+    url: https://notes.dt.in.th/NextAuthUserIdInSession
+  state:
+    shortLink: https://webring.page.link/kXss
 0b6b5210b72bf25f93c1e92d1943e83c:facebook:
   spec:
     title: Illustration - クルミ隊 💛❤️💙 [lucian.solutions]
@@ -6681,14 +6700,14 @@ f2c2df3dbfc439a1bc5ead97f83d7be1:shorturl:
     shortLink: https://webring.page.link/Nbzv
 f3b594fe7c052e69a8a41d1810b7767b:facebook:
   spec:
-    title: '[NET] บันทึกการจัดการ NuGet ที่ต้องแยกเฉพาะตาม Platform ครับ [debuggingsoft.com]'
+    title: '[.NET] บันทึกการจัดการ NuGet ที่ต้องแยกเฉพาะตาม Platform ครับ [debuggingsoft.com]'
     url: https://naiwaen.debuggingsoft.com/2023/07/dotnet-how-to-handle-different-nuget-package-based-on-operating-system-platform/
   state:
     id: '100746876247412_223490087306908'
     url: https://www.facebook.com/100683012920950/posts/223490087306908
 f3b594fe7c052e69a8a41d1810b7767b:mastodon:
   spec:
-    title: '[NET] บันทึกการจัดการ NuGet ที่ต้องแยกเฉพาะตาม Platform ครับ [debuggingsoft.com]'
+    title: '[.NET] บันทึกการจัดการ NuGet ที่ต้องแยกเฉพาะตาม Platform ครับ [debuggingsoft.com]'
     url: https://naiwaen.debuggingsoft.com/2023/07/dotnet-how-to-handle-different-nuget-package-based-on-operating-system-platform/
   state:
     id: '110688314935578661'
