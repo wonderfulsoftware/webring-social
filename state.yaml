@@ -2981,6 +2981,25 @@
     url: https://www.somkiat.cc/hello-docker-init/
   state:
     shortLink: https://webring.page.link/ERhx
+6d4496748220d287b40cb6a96efb3cd3:facebook:
+  spec:
+    title: 60 - Setup Linux VM on Digitalocean [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-60-setup-linux-vm-on-digitalocean/
+  state:
+    id: '100746876247412_224700267185890'
+    url: https://www.facebook.com/100683012920950/posts/224700267185890
+6d4496748220d287b40cb6a96efb3cd3:mastodon:
+  spec:
+    title: 60 - Setup Linux VM on Digitalocean [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-60-setup-linux-vm-on-digitalocean/
+  state:
+    id: '110698953698084970'
+    url: https://mastodon.in.th/@webring/110698953698084970
+6d4496748220d287b40cb6a96efb3cd3:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-60-setup-linux-vm-on-digitalocean/
+  state:
+    shortLink: https://webring.page.link/88CH
 6de8c3e7dbfba578923ff45f8adfe9da:facebook:
   spec:
     title: 'น่าสนใจสำหรับ KIP-932: Queues for Kafka [somkiat.cc]'
