@@ -302,6 +302,25 @@
     url: https://garden.narze.live/Reduce-sound-and-speed-of-the-fan-on-Raspberry-Pi-case-or-heatsink/
   state:
     shortLink: https://webring.page.link/QsCG
+0dcdc8ae5a87dac7fb2b4e009e2e8cf8:facebook:
+  spec:
+    title: Install OpenSSH Server on Windows 11/10 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/install-openssh-server-on-windows-11-10/
+  state:
+    id: '100746876247412_225394690449781'
+    url: https://www.facebook.com/100683012920950/posts/225394690449781
+0dcdc8ae5a87dac7fb2b4e009e2e8cf8:mastodon:
+  spec:
+    title: Install OpenSSH Server on Windows 11/10 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/install-openssh-server-on-windows-11-10/
+  state:
+    id: '110705298833694849'
+    url: https://mastodon.in.th/@webring/110705298833694849
+0dcdc8ae5a87dac7fb2b4e009e2e8cf8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/07/install-openssh-server-on-windows-11-10/
+  state:
+    shortLink: https://webring.page.link/Hrph
 0fa6b1fd40cb2b4d1aba735ac3f84fad:facebook:
   spec:
     title: Zero-Shot Prompting การทำให้ LLMs (ChatGPT) ตอบเราได้คำตอบสั้น ๆ ชัด ๆ และ ตรงประเด็น [taoisaman.com]
