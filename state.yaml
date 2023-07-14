@@ -1309,6 +1309,25 @@
     url: https://garden.narze.live/VSCode-Extension-Pack/
   state:
     shortLink: https://webring.page.link/SiJ8
+360b975088e620e44a3a020629fcff05:facebook:
+  spec:
+    title: MockTimers ใน NodeJS 20.4.0 [somkiat.cc]
+    url: https://www.somkiat.cc/mocktimers-in-nodejs-20-4-0/
+  state:
+    id: '100746876247412_225953837060533'
+    url: https://www.facebook.com/100683012920950/posts/225953837060533
+360b975088e620e44a3a020629fcff05:mastodon:
+  spec:
+    title: MockTimers ใน NodeJS 20.4.0 [somkiat.cc]
+    url: https://www.somkiat.cc/mocktimers-in-nodejs-20-4-0/
+  state:
+    id: '110710286423503734'
+    url: https://mastodon.in.th/@webring/110710286423503734
+360b975088e620e44a3a020629fcff05:shorturl:
+  spec:
+    url: https://www.somkiat.cc/mocktimers-in-nodejs-20-4-0/
+  state:
+    shortLink: https://webring.page.link/M8PP
 36521a47e5099dd12aa41ad7af79dd32:facebook:
   spec:
     title: วิธีการแก้ไขปัญหา Asynchronous Function บน React.js Hook (useEfffect) ด้วยวิธี IIFE [toupawa.com]
