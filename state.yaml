@@ -5349,6 +5349,25 @@ bd23e1beee8056e729f25ba34b594968:shorturl:
     url: https://suam.wtf/posts/tdea-vs-mitm/
   state:
     shortLink: https://webring.page.link/Xzgf
+bde97e16d926c30e48a01a38e424bee1:facebook:
+  spec:
+    title: 62 - garden-astro - add tests [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-62-garden-astro-add-tests/
+  state:
+    id: '100746876247412_226611613661422'
+    url: https://www.facebook.com/100683012920950/posts/226611613661422
+bde97e16d926c30e48a01a38e424bee1:mastodon:
+  spec:
+    title: 62 - garden-astro - add tests [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-62-garden-astro-add-tests/
+  state:
+    id: '110715964316769030'
+    url: https://mastodon.in.th/@webring/110715964316769030
+bde97e16d926c30e48a01a38e424bee1:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-62-garden-astro-add-tests/
+  state:
+    shortLink: https://webring.page.link/Tqoh
 c04dfe0b554c94ec9d09046503f2cd9b:facebook:
   spec:
     title: '[CR] สมหมายข้าวมันไก่ [debuggingsoft.com]'
