@@ -4520,6 +4520,25 @@
     url: https://www.somkiat.cc/virtual-thread-in-spring-boot-3/
   state:
     shortLink: https://webring.page.link/8Mwd
+9afb2b5c8e740a4b294a025255ce9f05:facebook:
+  spec:
+    title: สรุปจาก The Way Of Testivus [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-the-way-of-testivus/
+  state:
+    id: '100746876247412_226684800320770'
+    url: https://www.facebook.com/100683012920950/posts/226684800320770
+9afb2b5c8e740a4b294a025255ce9f05:mastodon:
+  spec:
+    title: สรุปจาก The Way Of Testivus [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-the-way-of-testivus/
+  state:
+    id: '110716620907490226'
+    url: https://mastodon.in.th/@webring/110716620907490226
+9afb2b5c8e740a4b294a025255ce9f05:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-from-the-way-of-testivus/
+  state:
+    shortLink: https://webring.page.link/cLy7
 9b224caac1c9a49d497284b5b134ee3a:facebook:
   spec:
     title: Backing up a Linux cloud server with Restic [dt.in.th]
