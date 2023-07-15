@@ -5748,6 +5748,25 @@ cb2ed3a464a2b5ff06f6d013580a5351:shorturl:
     url: https://www.somkiat.cc/rust-forked-to-crablang/
   state:
     shortLink: https://webring.page.link/ZU8c
+cbad40833b0865bf6319124c0d563fa1:facebook:
+  spec:
+    title: สุ่มผู้โชคดีในโลก web3 ด้วย Chainlink VRF [mikkipastel.com]
+    url: https://www.mikkipastel.com/random-lucky-winners-web3-chainlink-vrf/
+  state:
+    id: '100746876247412_226757690313481'
+    url: https://www.facebook.com/100683012920950/posts/226757690313481
+cbad40833b0865bf6319124c0d563fa1:mastodon:
+  spec:
+    title: สุ่มผู้โชคดีในโลก web3 ด้วย Chainlink VRF [mikkipastel.com]
+    url: https://www.mikkipastel.com/random-lucky-winners-web3-chainlink-vrf/
+  state:
+    id: '110717315132781450'
+    url: https://mastodon.in.th/@webring/110717315132781450
+cbad40833b0865bf6319124c0d563fa1:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/random-lucky-winners-web3-chainlink-vrf/
+  state:
+    shortLink: https://webring.page.link/Sw7x
 cbedb9317a83e62f89c145a9be52d5f9:facebook:
   spec:
     title: Feeds 2.5, bring back files database [llun.me]
