@@ -1252,6 +1252,25 @@
     url: https://yothinix.com/amateur-method/
   state:
     shortLink: https://webring.page.link/tpPi
+3224cb65073c4a1ee3f95d94fd387aa2:facebook:
+  spec:
+    title: Illustration - ❌ Uncaught TypeError [lucian.solutions]
+    url: https://lucian.solutions/blog/lucia-uncaught-typeerror
+  state:
+    id: '100746876247412_227466303575953'
+    url: https://www.facebook.com/100683012920950/posts/227466303575953
+3224cb65073c4a1ee3f95d94fd387aa2:mastodon:
+  spec:
+    title: Illustration - ❌ Uncaught TypeError [lucian.solutions]
+    url: https://lucian.solutions/blog/lucia-uncaught-typeerror
+  state:
+    id: '110723717316260271'
+    url: https://mastodon.in.th/@webring/110723717316260271
+3224cb65073c4a1ee3f95d94fd387aa2:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/lucia-uncaught-typeerror
+  state:
+    shortLink: https://webring.page.link/DFxT
 3310ca25418d424b059b5805051094ba:facebook:
   spec:
     title: AirPlay, HomeKit ข้าม VLAN ด้วย Avahi [nuttdam.com]
