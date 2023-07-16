@@ -682,6 +682,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/error-createprocessentrycommon347-getpwuid0-failed-2-when-access-wsl/
   state:
     shortLink: https://webring.page.link/o4UU
+1bfa736cdb54bee8a82306a953478b8c:facebook:
+  spec:
+    title: 63 - Linux VM - Deploy containers on MicroK8s [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-63-linux-vm-deploy-containers-on-microk8s/
+  state:
+    id: '100746876247412_227236980265552'
+    url: https://www.facebook.com/100683012920950/posts/227236980265552
+1bfa736cdb54bee8a82306a953478b8c:mastodon:
+  spec:
+    title: 63 - Linux VM - Deploy containers on MicroK8s [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-63-linux-vm-deploy-containers-on-microk8s/
+  state:
+    id: '110721638900531694'
+    url: https://mastodon.in.th/@webring/110721638900531694
+1bfa736cdb54bee8a82306a953478b8c:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-63-linux-vm-deploy-containers-on-microk8s/
+  state:
+    shortLink: https://webring.page.link/17V6
 1c08f2e62df712524cbf57e51ce847e3:facebook:
   spec:
     title: ใช้ Cron Jobs บน Vercel ด้วย Node [janescience.com]
