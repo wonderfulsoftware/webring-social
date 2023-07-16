@@ -4178,6 +4178,25 @@
     url: https://knowlats.dev/review-course-humanistic-software-architecture/
   state:
     shortLink: https://webring.page.link/GMfx
+8ede20fac39495150c5ee667c66964f9:facebook:
+  spec:
+    title: Format code via GitHub Actions [blog.oatto.dev]
+    url: https://blog.oatto.dev/2023/07/15/format-code-via-github-actions.html
+  state:
+    id: '100746876247412_227308630258387'
+    url: https://www.facebook.com/100683012920950/posts/227308630258387
+8ede20fac39495150c5ee667c66964f9:mastodon:
+  spec:
+    title: Format code via GitHub Actions [blog.oatto.dev]
+    url: https://blog.oatto.dev/2023/07/15/format-code-via-github-actions.html
+  state:
+    id: '110722283749015932'
+    url: https://mastodon.in.th/@webring/110722283749015932
+8ede20fac39495150c5ee667c66964f9:shorturl:
+  spec:
+    url: https://blog.oatto.dev/2023/07/15/format-code-via-github-actions.html
+  state:
+    shortLink: https://webring.page.link/VvXz
 8efbb17c7036b2abaf60c843510044a7:facebook:
   spec:
     title: Run Spring Boot ด้วย Docker Compose [janescience.com]
