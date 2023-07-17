@@ -5071,6 +5071,25 @@ aa9ba58effb188de9cf3cf14e931156f:shorturl:
     url: https://tech.duckfollow.co/view/sdlc
   state:
     shortLink: https://webring.page.link/nKor
+ab7279ac3fb2c468cb3702240d9f5fb7:facebook:
+  spec:
+    title: 'Bkk.js #18 [tech.duckfollow.co]'
+    url: https://tech.duckfollow.co/view/bkkjs-18
+  state:
+    id: '100746876247412_227986710190579'
+    url: https://www.facebook.com/100683012920950/posts/227986710190579
+ab7279ac3fb2c468cb3702240d9f5fb7:mastodon:
+  spec:
+    title: 'Bkk.js #18 [tech.duckfollow.co]'
+    url: https://tech.duckfollow.co/view/bkkjs-18
+  state:
+    id: '110728646254297774'
+    url: https://mastodon.in.th/@webring/110728646254297774
+ab7279ac3fb2c468cb3702240d9f5fb7:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/bkkjs-18
+  state:
+    shortLink: https://webring.page.link/xZeV
 ac32b68bb4ebd11aa5bcf3ab81e80203:facebook:
   spec:
     title: มาเขียน code กับ Spring Modulith กันบ้าง [somkiat.cc]
