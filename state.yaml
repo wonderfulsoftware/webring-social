@@ -5824,6 +5824,25 @@ c9c25b647853b0f69a16ce356ff174eb:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/06/level-up-with-github-codespaces-and-copilot-thailand/
   state:
     shortLink: https://webring.page.link/ke3s
+ca7481ec9c7c70e4edc5d7c73d473a8e:facebook:
+  spec:
+    title: ลองมาเรียน The Cloud Camp รอบ Audition [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-the-cloud-camp-%e0%b8%a3%e0%b8%ad%e0%b8%9a-audition/
+  state:
+    id: '100746876247412_227918410197409'
+    url: https://www.facebook.com/100683012920950/posts/227918410197409
+ca7481ec9c7c70e4edc5d7c73d473a8e:mastodon:
+  spec:
+    title: ลองมาเรียน The Cloud Camp รอบ Audition [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-the-cloud-camp-%e0%b8%a3%e0%b8%ad%e0%b8%9a-audition/
+  state:
+    id: '110727951145578060'
+    url: https://mastodon.in.th/@webring/110727951145578060
+ca7481ec9c7c70e4edc5d7c73d473a8e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/07/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-the-cloud-camp-%e0%b8%a3%e0%b8%ad%e0%b8%9a-audition/
+  state:
+    shortLink: https://webring.page.link/XEjq
 cb2ed3a464a2b5ff06f6d013580a5351:facebook:
   spec:
     title: Rust ถูก fork ออกมาในชื่อว่า CrabLang [somkiat.cc]
