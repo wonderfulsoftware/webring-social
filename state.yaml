@@ -17,6 +17,25 @@
     url: https://thanapon.info/aws-iot-credential-provider/
   state:
     shortLink: https://webring.page.link/gvFA
+00b4d94934b5d1091671eae421f436f3:facebook:
+  spec:
+    title: 64 - live-guestbook [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-64-live-guestbook/
+  state:
+    id: '100746876247412_227852670203983'
+    url: https://www.facebook.com/100683012920950/posts/227852670203983
+00b4d94934b5d1091671eae421f436f3:mastodon:
+  spec:
+    title: 64 - live-guestbook [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-64-live-guestbook/
+  state:
+    id: '110727288312422775'
+    url: https://mastodon.in.th/@webring/110727288312422775
+00b4d94934b5d1091671eae421f436f3:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-64-live-guestbook/
+  state:
+    shortLink: https://webring.page.link/54wK
 0134991cf99b866ee2c727ebb3e87ff3:facebook:
   spec:
     title: ลอง Clone ChatGPT ด้วย ChatGPT [taoisaman.com]
