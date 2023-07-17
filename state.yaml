@@ -5501,6 +5501,25 @@ bde97e16d926c30e48a01a38e424bee1:shorturl:
     url: https://garden.narze.live/100daysofcode-r3-62-garden-astro-add-tests/
   state:
     shortLink: https://webring.page.link/Tqoh
+bfbd4d16a2bd8a4101de54bf5dbc949c:facebook:
+  spec:
+    title: มาลองใช้งาน TTL.sh สำหรับจัดการ Ephemeral Docker image registry [somkiat.cc]
+    url: https://www.somkiat.cc/ephemeral-docker-image-registry/
+  state:
+    id: '100746876247412_228067430182507'
+    url: https://www.facebook.com/100683012920950/posts/228067430182507
+bfbd4d16a2bd8a4101de54bf5dbc949c:mastodon:
+  spec:
+    title: มาลองใช้งาน TTL.sh สำหรับจัดการ Ephemeral Docker image registry [somkiat.cc]
+    url: https://www.somkiat.cc/ephemeral-docker-image-registry/
+  state:
+    id: '110729394118584203'
+    url: https://mastodon.in.th/@webring/110729394118584203
+bfbd4d16a2bd8a4101de54bf5dbc949c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/ephemeral-docker-image-registry/
+  state:
+    shortLink: https://webring.page.link/qKFf
 c04dfe0b554c94ec9d09046503f2cd9b:facebook:
   spec:
     title: '[CR] สมหมายข้าวมันไก่ [debuggingsoft.com]'
