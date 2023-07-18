@@ -1005,6 +1005,25 @@
     url: https://notes.dt.in.th/NpmCheckmark
   state:
     shortLink: https://webring.page.link/eLXa
+285bcef7ea615d9222bfa55f1e0f8d2f:facebook:
+  spec:
+    title: การใช้งาน EventPublisher ใน Spring Boot app [somkiat.cc]
+    url: https://www.somkiat.cc/note-event-publisher-spring-boot-app/
+  state:
+    id: '100746876247412_228546306801286'
+    url: https://www.facebook.com/100683012920950/posts/228546306801286
+285bcef7ea615d9222bfa55f1e0f8d2f:mastodon:
+  spec:
+    title: การใช้งาน EventPublisher ใน Spring Boot app [somkiat.cc]
+    url: https://www.somkiat.cc/note-event-publisher-spring-boot-app/
+  state:
+    id: '110733608353691554'
+    url: https://mastodon.in.th/@webring/110733608353691554
+285bcef7ea615d9222bfa55f1e0f8d2f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-event-publisher-spring-boot-app/
+  state:
+    shortLink: https://webring.page.link/Jqak
 298873105333d3496c30815bb1b2bf39:facebook:
   spec:
     title: สรุป National Coding Day 2023#01 [debuggingsoft.com]
