@@ -7318,6 +7318,25 @@ f96b66b7a30e22623fc55c95fed9bb21:shorturl:
     url: https://toupawa.com/review-a-worker-man-who-become-to-be-a-programmer/
   state:
     shortLink: https://webring.page.link/Fpyg
+f9b8af3565b0c92ec88fc0adf128e0e5:facebook:
+  spec:
+    title: Glob import modules with Vite [garden.narze.live]
+    url: https://garden.narze.live/glob-import-modules-with-vite/
+  state:
+    id: '100746876247412_229168533405730'
+    url: https://www.facebook.com/100683012920950/posts/229168533405730
+f9b8af3565b0c92ec88fc0adf128e0e5:mastodon:
+  spec:
+    title: Glob import modules with Vite [garden.narze.live]
+    url: https://garden.narze.live/glob-import-modules-with-vite/
+  state:
+    id: '110739267352506439'
+    url: https://mastodon.in.th/@webring/110739267352506439
+f9b8af3565b0c92ec88fc0adf128e0e5:shorturl:
+  spec:
+    url: https://garden.narze.live/glob-import-modules-with-vite/
+  state:
+    shortLink: https://webring.page.link/vwKX
 fb59631bc212db49aa6b847609fff173:facebook:
   spec:
     title: Separate critical CSS and non-critical CSS for faster page load [ntsd.dev]
