@@ -758,6 +758,25 @@
     url: https://www.somkiat.cc/note-from-api-evolution-without-versioning/
   state:
     shortLink: https://webring.page.link/7nzc
+1cd21d8b0fa974479227ff21b6e8448f:facebook:
+  spec:
+    title: DB2 Driver งงไปหมดด [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/db2-driver/
+  state:
+    id: '100746876247412_229111326744784'
+    url: https://www.facebook.com/100683012920950/posts/229111326744784
+1cd21d8b0fa974479227ff21b6e8448f:mastodon:
+  spec:
+    title: DB2 Driver งงไปหมดด [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/db2-driver/
+  state:
+    id: '110738712151025385'
+    url: https://mastodon.in.th/@webring/110738712151025385
+1cd21d8b0fa974479227ff21b6e8448f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/07/db2-driver/
+  state:
+    shortLink: https://webring.page.link/R7if
 1d14ec0ffc4ea9ee6e4cda7f4d2fed9c:facebook:
   spec:
     title: สร้าง Comments ให้กับ Website ด้วย Giscus [janescience.com]
