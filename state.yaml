@@ -549,6 +549,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/covid-19-first-time/
   state:
     shortLink: https://webring.page.link/M12p
+16dfa75a3b79a9b61231002edb38c67f:facebook:
+  spec:
+    title: สรุปเรื่องที่น่าสนใจจาก DevOps and Cloud Trend July 2023 จาก InfoQ [somkiat.cc]
+    url: https://www.somkiat.cc/note-devops-and-cloud-trend-july-2023-from-infoq/
+  state:
+    id: '100746876247412_229778943344689'
+    url: https://www.facebook.com/100683012920950/posts/229778943344689
+16dfa75a3b79a9b61231002edb38c67f:mastodon:
+  spec:
+    title: สรุปเรื่องที่น่าสนใจจาก DevOps and Cloud Trend July 2023 จาก InfoQ [somkiat.cc]
+    url: https://www.somkiat.cc/note-devops-and-cloud-trend-july-2023-from-infoq/
+  state:
+    id: '110744931324782967'
+    url: https://mastodon.in.th/@webring/110744931324782967
+16dfa75a3b79a9b61231002edb38c67f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-devops-and-cloud-trend-july-2023-from-infoq/
+  state:
+    shortLink: https://webring.page.link/GZoZ
 17529e04b2d115ba1f3816c7cc43cb4f:facebook:
   spec:
     title: บันทึก Humanistic Software Architecture [debuggingsoft.com]
