@@ -6546,6 +6546,25 @@ e101590fcf2c113c902ecdebce745d7d:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/02/az-400-design-and-implement-a-dependency-management-strategy/
   state:
     shortLink: https://webring.page.link/aQBF
+e17fce2e30aeb2102e99245725340871:facebook:
+  spec:
+    title: ปัญหาดิสก์ปิดครอบเล็กที่สุด [neizod.dev]
+    url: https://neizod.dev/2023/07/19/smallest-enclosing-disk.html
+  state:
+    id: '100746876247412_229704193352164'
+    url: https://www.facebook.com/100683012920950/posts/229704193352164
+e17fce2e30aeb2102e99245725340871:mastodon:
+  spec:
+    title: ปัญหาดิสก์ปิดครอบเล็กที่สุด [neizod.dev]
+    url: https://neizod.dev/2023/07/19/smallest-enclosing-disk.html
+  state:
+    id: '110744213690575814'
+    url: https://mastodon.in.th/@webring/110744213690575814
+e17fce2e30aeb2102e99245725340871:shorturl:
+  spec:
+    url: https://neizod.dev/2023/07/19/smallest-enclosing-disk.html
+  state:
+    shortLink: https://webring.page.link/s3Ay
 e26b1ce7725ecedcb308343064e4b7ae:facebook:
   spec:
     title: แบบจำลองหน้าคลื่น และเพื่อนบ้านในสวนผลไม้ [neizod.dev]
