@@ -4311,6 +4311,25 @@
     url: https://www.somkiat.cc/hello-dart-3/
   state:
     shortLink: https://webring.page.link/tcJ7
+8d7a2a196563c09937df73be25c166c6:facebook:
+  spec:
+    title: 'K6 :: ว่าด้วยเรื่องของ Result output ของการทดสอบ [somkiat.cc]'
+    url: https://www.somkiat.cc/k6-with-result-output/
+  state:
+    id: '100746876247412_230371769952073'
+    url: https://www.facebook.com/100683012920950/posts/230371769952073
+8d7a2a196563c09937df73be25c166c6:mastodon:
+  spec:
+    title: 'K6 :: ว่าด้วยเรื่องของ Result output ของการทดสอบ [somkiat.cc]'
+    url: https://www.somkiat.cc/k6-with-result-output/
+  state:
+    id: '110750592422477945'
+    url: https://mastodon.in.th/@webring/110750592422477945
+8d7a2a196563c09937df73be25c166c6:shorturl:
+  spec:
+    url: https://www.somkiat.cc/k6-with-result-output/
+  state:
+    shortLink: https://webring.page.link/4RBj
 8e47d07ca87d7f71510e78ae1787da0d:facebook:
   spec:
     title: 'Review Course: Humanistic Software Architecture [knowlats.dev]'
