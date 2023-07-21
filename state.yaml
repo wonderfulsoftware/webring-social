@@ -5033,6 +5033,25 @@ a4a402da58b6a08d45144a0ae25feca7:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/04/windows-11-change-hot-key-between-language/
   state:
     shortLink: https://webring.page.link/sCb3
+a4dd24e81fb1239145f1d059a8a5eda6:facebook:
+  spec:
+    title: pglogical setup [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/07/pglogical-setup/
+  state:
+    id: '100746876247412_230442346611682'
+    url: https://www.facebook.com/100683012920950/posts/230442346611682
+a4dd24e81fb1239145f1d059a8a5eda6:mastodon:
+  spec:
+    title: pglogical setup [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/07/pglogical-setup/
+  state:
+    id: '110751288394729201'
+    url: https://mastodon.in.th/@webring/110751288394729201
+a4dd24e81fb1239145f1d059a8a5eda6:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/07/pglogical-setup/
+  state:
+    shortLink: https://webring.page.link/PTtB
 a4f45033b6dafefc4eedb1e9c8f10387:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 4 - Click Me! [devahoy.com]
