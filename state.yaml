@@ -1290,6 +1290,25 @@
     url: https://www.somkiat.cc/device-mirroring-in-android-studio/
   state:
     shortLink: https://webring.page.link/6P4M
+2fe178d95edb6c7f33948b6d2f17b0ab:facebook:
+  spec:
+    title: Side Projects [garden.narze.live]
+    url: https://garden.narze.live/projects/
+  state:
+    id: '100746876247412_230297576626159'
+    url: https://www.facebook.com/100683012920950/posts/230297576626159
+2fe178d95edb6c7f33948b6d2f17b0ab:mastodon:
+  spec:
+    title: Side Projects [garden.narze.live]
+    url: https://garden.narze.live/projects/
+  state:
+    id: '110749873670016190'
+    url: https://mastodon.in.th/@webring/110749873670016190
+2fe178d95edb6c7f33948b6d2f17b0ab:shorturl:
+  spec:
+    url: https://garden.narze.live/projects/
+  state:
+    shortLink: https://webring.page.link/92sv
 308d6911f2a8f3c648cb15aaecd28812:facebook:
   spec:
     title: '#แก้ชงปีเถาะ ที่ดันเจี้ยนวัดมังกรกมลาวาส และวัดทิพยวารีวิหาร [debuggingsoft.com]'
