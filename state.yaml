@@ -1062,6 +1062,25 @@
     url: https://www.somkiat.cc/note-event-publisher-spring-boot-app/
   state:
     shortLink: https://webring.page.link/Jqak
+29013b818305686632b0fcd2a943d251:facebook:
+  spec:
+    title: ทำความรู้จัก Progressive Web Apps [mikkipastel.com]
+    url: https://www.mikkipastel.com/what-is-progressive-web-apps/
+  state:
+    id: '100746876247412_230956423226941'
+    url: https://www.facebook.com/100683012920950/posts/230956423226941
+29013b818305686632b0fcd2a943d251:mastodon:
+  spec:
+    title: ทำความรู้จัก Progressive Web Apps [mikkipastel.com]
+    url: https://www.mikkipastel.com/what-is-progressive-web-apps/
+  state:
+    id: '110756249717679887'
+    url: https://mastodon.in.th/@webring/110756249717679887
+29013b818305686632b0fcd2a943d251:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/what-is-progressive-web-apps/
+  state:
+    shortLink: https://webring.page.link/tr8V
 298873105333d3496c30815bb1b2bf39:facebook:
   spec:
     title: สรุป National Coding Day 2023#01 [debuggingsoft.com]
