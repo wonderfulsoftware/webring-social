@@ -2031,6 +2031,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/microsoft-thailand-developer-day-2023-summay/
   state:
     shortLink: https://webring.page.link/DNhF
+4cd3a125ff570cac1a897923b73a3cc3:facebook:
+  spec:
+    title: Side Projects Talk [garden.narze.live]
+    url: https://garden.narze.live/side-projects-talk/
+  state:
+    id: '100746876247412_230881616567755'
+    url: https://www.facebook.com/100683012920950/posts/230881616567755
+4cd3a125ff570cac1a897923b73a3cc3:mastodon:
+  spec:
+    title: Side Projects Talk [garden.narze.live]
+    url: https://garden.narze.live/side-projects-talk/
+  state:
+    id: '110755536038049364'
+    url: https://mastodon.in.th/@webring/110755536038049364
+4cd3a125ff570cac1a897923b73a3cc3:shorturl:
+  spec:
+    url: https://garden.narze.live/side-projects-talk/
+  state:
+    shortLink: https://webring.page.link/ugBN
 4d00e812ceed16823eed9e2aa5fdc01e:facebook:
   spec:
     title: Migrate from CRA to Vite.js [blog.oatto.dev]
