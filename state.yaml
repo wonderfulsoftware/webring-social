@@ -1366,6 +1366,25 @@
     url: https://yothinix.com/amateur-method/
   state:
     shortLink: https://webring.page.link/tpPi
+30e56b1fd3b002216e1084d65b4850fd:facebook:
+  spec:
+    title: สรุป OWASP Top 10 CI/CD Security Risks [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/owasp-top-10-ci-cd-security-risks/
+  state:
+    id: '100746876247412_231465846509332'
+    url: https://www.facebook.com/100683012920950/posts/231465846509332
+30e56b1fd3b002216e1084d65b4850fd:mastodon:
+  spec:
+    title: สรุป OWASP Top 10 CI/CD Security Risks [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/owasp-top-10-ci-cd-security-risks/
+  state:
+    id: '110761198788951331'
+    url: https://mastodon.in.th/@webring/110761198788951331
+30e56b1fd3b002216e1084d65b4850fd:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/07/owasp-top-10-ci-cd-security-risks/
+  state:
+    shortLink: https://webring.page.link/BkGT
 3224cb65073c4a1ee3f95d94fd387aa2:facebook:
   spec:
     title: Illustration - ❌ Uncaught TypeError [lucian.solutions]
