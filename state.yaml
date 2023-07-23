@@ -5261,6 +5261,25 @@ aa9ba58effb188de9cf3cf14e931156f:shorturl:
     url: https://tech.duckfollow.co/view/sdlc
   state:
     shortLink: https://webring.page.link/nKor
+aab344661da8a53a3aac248bfedc54d3:facebook:
+  spec:
+    title: 69 - garden-astro - Replace Degit with Octokit [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-69-garden-astro-replace-degit-with-octokit/
+  state:
+    id: '100746876247412_231540763168507'
+    url: https://www.facebook.com/100683012920950/posts/231540763168507
+aab344661da8a53a3aac248bfedc54d3:mastodon:
+  spec:
+    title: 69 - garden-astro - Replace Degit with Octokit [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-69-garden-astro-replace-degit-with-octokit/
+  state:
+    id: '110761914730766790'
+    url: https://mastodon.in.th/@webring/110761914730766790
+aab344661da8a53a3aac248bfedc54d3:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-69-garden-astro-replace-degit-with-octokit/
+  state:
+    shortLink: https://webring.page.link/5XFi
 ab7279ac3fb2c468cb3702240d9f5fb7:facebook:
   spec:
     title: 'Bkk.js #18 [tech.duckfollow.co]'
