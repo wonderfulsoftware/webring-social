@@ -1176,6 +1176,25 @@
     url: https://notes.dt.in.th/Morse
   state:
     shortLink: https://webring.page.link/rZdN
+2cb8f6c4ae3b8766ca11cad56867976b:facebook:
+  spec:
+    title: SEO คืออะไร ? และจะทำ SEO ได้อย่างไร [taoisaman.com]
+    url: https://taoisaman.com/2023/07/23/seo-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%88%e0%b8%b0%e0%b8%97%e0%b8%b3-seo-%e0%b9%84%e0%b8%94%e0%b9%89%e0%b8%ad%e0%b8%a2%e0%b9%88/
+  state:
+    id: '100746876247412_232123013110282'
+    url: https://www.facebook.com/100683012920950/posts/232123013110282
+2cb8f6c4ae3b8766ca11cad56867976b:mastodon:
+  spec:
+    title: SEO คืออะไร ? และจะทำ SEO ได้อย่างไร [taoisaman.com]
+    url: https://taoisaman.com/2023/07/23/seo-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%88%e0%b8%b0%e0%b8%97%e0%b8%b3-seo-%e0%b9%84%e0%b8%94%e0%b9%89%e0%b8%ad%e0%b8%a2%e0%b9%88/
+  state:
+    id: '110767582268236738'
+    url: https://mastodon.in.th/@webring/110767582268236738
+2cb8f6c4ae3b8766ca11cad56867976b:shorturl:
+  spec:
+    url: https://taoisaman.com/2023/07/23/seo-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%88%e0%b8%b0%e0%b8%97%e0%b8%b3-seo-%e0%b9%84%e0%b8%94%e0%b9%89%e0%b8%ad%e0%b8%a2%e0%b9%88/
+  state:
+    shortLink: https://webring.page.link/ibZF
 2d5074053e3175acf551175b9db713dd:facebook:
   spec:
     title: ว่าด้วยเรื่องของ Vector Database [somkiat.cc]
