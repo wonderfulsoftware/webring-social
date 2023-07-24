@@ -549,6 +549,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/covid-19-first-time/
   state:
     shortLink: https://webring.page.link/M12p
+16d4be6aa12f4d82dd27beb3f137c649:facebook:
+  spec:
+    title: มาเรียนรู้ "Content 3.0 การใช้ Ai เขียนคอนเทนต์แบบมือโปร" กันจ้า [mikkipastel.com]
+    url: https://www.mikkipastel.com/content-3-0-ai-for-content-creator/
+  state:
+    id: '100746876247412_232049373117646'
+    url: https://www.facebook.com/100683012920950/posts/232049373117646
+16d4be6aa12f4d82dd27beb3f137c649:mastodon:
+  spec:
+    title: มาเรียนรู้ "Content 3.0 การใช้ Ai เขียนคอนเทนต์แบบมือโปร" กันจ้า [mikkipastel.com]
+    url: https://www.mikkipastel.com/content-3-0-ai-for-content-creator/
+  state:
+    id: '110766863745871048'
+    url: https://mastodon.in.th/@webring/110766863745871048
+16d4be6aa12f4d82dd27beb3f137c649:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/content-3-0-ai-for-content-creator/
+  state:
+    shortLink: https://webring.page.link/mGkG
 16dfa75a3b79a9b61231002edb38c67f:facebook:
   spec:
     title: สรุปเรื่องที่น่าสนใจจาก DevOps and Cloud Trend July 2023 จาก InfoQ [somkiat.cc]
