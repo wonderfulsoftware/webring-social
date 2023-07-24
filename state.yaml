@@ -1594,6 +1594,25 @@
     url: https://www.somkiat.cc/problem-mvnw-not-found-with-docker-windows/
   state:
     shortLink: https://webring.page.link/NGjm
+3855b574765ad0ebdd57bd97bf918d5c:facebook:
+  spec:
+    title: 70 - garden-astro - Test image links [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-70-garden-astro-test-image-links/
+  state:
+    id: '100746876247412_232196476436269'
+    url: https://www.facebook.com/100683012920950/posts/232196476436269
+3855b574765ad0ebdd57bd97bf918d5c:mastodon:
+  spec:
+    title: 70 - garden-astro - Test image links [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-70-garden-astro-test-image-links/
+  state:
+    id: '110768278559984739'
+    url: https://mastodon.in.th/@webring/110768278559984739
+3855b574765ad0ebdd57bd97bf918d5c:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-70-garden-astro-test-image-links/
+  state:
+    shortLink: https://webring.page.link/qk1L
 38dc10cca8ec00e60151ccf9effb8c9f:facebook:
   spec:
     title: สร้าง Excel Timesheet ด้วย Python กับ ChatGPT [janescience.com]
