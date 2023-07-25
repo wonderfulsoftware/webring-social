@@ -1841,6 +1841,25 @@
     url: https://kajame.xyz/blog/react-native-using-login-with-facebook
   state:
     shortLink: https://webring.page.link/uZyQ
+3fb62e2ce3266561b8c48a32e2561455:facebook:
+  spec:
+    title: 71 - ChatOS - Setup Firebase Emulator [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-71-chatos-setup-firebase-emulator/
+  state:
+    id: '100746876247412_232627309726519'
+    url: https://www.facebook.com/100683012920950/posts/232627309726519
+3fb62e2ce3266561b8c48a32e2561455:mastodon:
+  spec:
+    title: 71 - ChatOS - Setup Firebase Emulator [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-71-chatos-setup-firebase-emulator/
+  state:
+    id: '110772524503077447'
+    url: https://mastodon.in.th/@webring/110772524503077447
+3fb62e2ce3266561b8c48a32e2561455:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-71-chatos-setup-firebase-emulator/
+  state:
+    shortLink: https://webring.page.link/EDLU
 3fedf1a9372b64f3d7e2c618237ea943:facebook:
   spec:
     title: KM มันควรสร้างตอนที่ยังอยู่ ไม่ใช่มาสร้างตอนที่จะลาออกไป [debuggingsoft.com]
