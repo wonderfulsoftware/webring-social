@@ -7584,6 +7584,25 @@ f78d5beacf5c6b4e71a51d75c3737765:shorturl:
     url: https://www.somkiat.cc/note-tuning-performance-2/
   state:
     shortLink: https://webring.page.link/c2Sd
+f7e0a3ae316be3ad0712cdbc92667819:facebook:
+  spec:
+    title: ถอดเคล็ดลับ Futures Trader เทรดยังไงให้มีเงินกินหมูกระทะ [mikkipastel.com]
+    url: https://www.mikkipastel.com/bittoon-dao-learning-cryptoteller-tips-from-futures-trader-take/
+  state:
+    id: '100746876247412_233323879656862'
+    url: https://www.facebook.com/100683012920950/posts/233323879656862
+f7e0a3ae316be3ad0712cdbc92667819:mastodon:
+  spec:
+    title: ถอดเคล็ดลับ Futures Trader เทรดยังไงให้มีเงินกินหมูกระทะ [mikkipastel.com]
+    url: https://www.mikkipastel.com/bittoon-dao-learning-cryptoteller-tips-from-futures-trader-take/
+  state:
+    id: '110779599363035405'
+    url: https://mastodon.in.th/@webring/110779599363035405
+f7e0a3ae316be3ad0712cdbc92667819:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/bittoon-dao-learning-cryptoteller-tips-from-futures-trader-take/
+  state:
+    shortLink: https://webring.page.link/UXx4
 f8e049c5ebee8c93763ff7aaa624257f:facebook:
   spec:
     title: 'MongoDB in Docker: ‘Authentication Failed’ when logging in to a non-default database name [dt.in.th]'
