@@ -6831,6 +6831,25 @@ e17fce2e30aeb2102e99245725340871:shorturl:
     url: https://neizod.dev/2023/07/19/smallest-enclosing-disk.html
   state:
     shortLink: https://webring.page.link/s3Ay
+e2363c48a771b82327a8229d7b848aac:facebook:
+  spec:
+    title: ทรงกลมในมิติสูง และการย่อ/ขยายมิติดีเทอร์มิแนนต์ [neizod.dev]
+    url: https://neizod.dev/2023/07/25/hypersphere-and-resizing-determinant-dimension.html
+  state:
+    id: '100746876247412_233255689663681'
+    url: https://www.facebook.com/100683012920950/posts/233255689663681
+e2363c48a771b82327a8229d7b848aac:mastodon:
+  spec:
+    title: ทรงกลมในมิติสูง และการย่อ/ขยายมิติดีเทอร์มิแนนต์ [neizod.dev]
+    url: https://neizod.dev/2023/07/25/hypersphere-and-resizing-determinant-dimension.html
+  state:
+    id: '110778901800893668'
+    url: https://mastodon.in.th/@webring/110778901800893668
+e2363c48a771b82327a8229d7b848aac:shorturl:
+  spec:
+    url: https://neizod.dev/2023/07/25/hypersphere-and-resizing-determinant-dimension.html
+  state:
+    shortLink: https://webring.page.link/R4fr
 e26b1ce7725ecedcb308343064e4b7ae:facebook:
   spec:
     title: แบบจำลองหน้าคลื่น และเพื่อนบ้านในสวนผลไม้ [neizod.dev]
