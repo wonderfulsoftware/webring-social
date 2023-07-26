@@ -3760,6 +3760,25 @@
     url: https://www.somkiat.cc/technology-radar-vol-28/
   state:
     shortLink: https://webring.page.link/a2cC
+783bfaa545f36a7ccbd33d412ac9d28f:facebook:
+  spec:
+    title: '*.localhost subdomains [garden.narze.live]'
+    url: https://garden.narze.live/star-dot-localhost-subdomains/
+  state:
+    id: '100746876247412_233191683003415'
+    url: https://www.facebook.com/100683012920950/posts/233191683003415
+783bfaa545f36a7ccbd33d412ac9d28f:mastodon:
+  spec:
+    title: '*.localhost subdomains [garden.narze.live]'
+    url: https://garden.narze.live/star-dot-localhost-subdomains/
+  state:
+    id: '110778185117958631'
+    url: https://mastodon.in.th/@webring/110778185117958631
+783bfaa545f36a7ccbd33d412ac9d28f:shorturl:
+  spec:
+    url: https://garden.narze.live/star-dot-localhost-subdomains/
+  state:
+    shortLink: https://webring.page.link/aFfc
 788b822f1d2bb7d0aa070b35a7c53d91:facebook:
   spec:
     title: '[Jenkins] Jenkins not able to fetch code from remote git [debuggingsoft.com]'
