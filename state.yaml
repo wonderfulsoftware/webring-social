@@ -6679,6 +6679,25 @@ d8e331caff1bc9bc60a18e5d768ff2c6:shorturl:
     url: https://www.somkiat.cc/newman-error-with-localhost/
   state:
     shortLink: https://webring.page.link/bZUU
+d97ede9157bfaf3f331249d86b0e86a7:facebook:
+  spec:
+    title: ghq - Remote repo management tool [garden.narze.live]
+    url: https://garden.narze.live/ghq-remote-repo-management-tool/
+  state:
+    id: '100746876247412_233761129613137'
+    url: https://www.facebook.com/100683012920950/posts/233761129613137
+d97ede9157bfaf3f331249d86b0e86a7:mastodon:
+  spec:
+    title: ghq - Remote repo management tool [garden.narze.live]
+    url: https://garden.narze.live/ghq-remote-repo-management-tool/
+  state:
+    id: '110783845872630202'
+    url: https://mastodon.in.th/@webring/110783845872630202
+d97ede9157bfaf3f331249d86b0e86a7:shorturl:
+  spec:
+    url: https://garden.narze.live/ghq-remote-repo-management-tool/
+  state:
+    shortLink: https://webring.page.link/s4Yv
 d9efbdce1358663c882dabc04d53db9b:facebook:
   spec:
     title: เราไป Google I/O Connect 2023 ที่ Bengaluru ประเทศอินเดียมา [mesodiar.com]
