@@ -1879,6 +1879,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/knowledge-note-it-should-be-created-immediately-not-to-create-when-you-plan-to-resign/
   state:
     shortLink: https://webring.page.link/qhLV
+413249c4d675278cecff171431098cf5:facebook:
+  spec:
+    title: Configuring Network between Host and Guest VM in VirtualBox [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/configuring-network-between-host-and-guest-vm-in-virtualbox/
+  state:
+    id: '100746876247412_233831312939452'
+    url: https://www.facebook.com/100683012920950/posts/233831312939452
+413249c4d675278cecff171431098cf5:mastodon:
+  spec:
+    title: Configuring Network between Host and Guest VM in VirtualBox [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/configuring-network-between-host-and-guest-vm-in-virtualbox/
+  state:
+    id: '110784564793614119'
+    url: https://mastodon.in.th/@webring/110784564793614119
+413249c4d675278cecff171431098cf5:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/07/configuring-network-between-host-and-guest-vm-in-virtualbox/
+  state:
+    shortLink: https://webring.page.link/M31o
 417142d1798f834f03b78608976aae71:facebook:
   spec:
     title: Setting up Kafka with Kafka connect from SQL server to Cloud storage (GCS) [mesodiar.com]
