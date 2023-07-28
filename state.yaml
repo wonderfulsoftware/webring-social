@@ -5071,6 +5071,25 @@
     url: https://ntsd.dev/recoil-persistent-with-capacitor-preferences/
   state:
     shortLink: https://webring.page.link/g3Hb
+9eaf114814ccb48601983661fbba0095:facebook:
+  spec:
+    title: ทำความรู้จักกับ NativePHP กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/hello-nativephp/
+  state:
+    id: '100746876247412_234451282877455'
+    url: https://www.facebook.com/100683012920950/posts/234451282877455
+9eaf114814ccb48601983661fbba0095:mastodon:
+  spec:
+    title: ทำความรู้จักกับ NativePHP กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/hello-nativephp/
+  state:
+    id: '110790227983274327'
+    url: https://mastodon.in.th/@webring/110790227983274327
+9eaf114814ccb48601983661fbba0095:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-nativephp/
+  state:
+    shortLink: https://webring.page.link/8rgG
 9f15012fc09ed744463910d08b51f67d:facebook:
   spec:
     title: CPU / GPU / TPU คืออะไร [debuggingsoft.com]
