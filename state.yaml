@@ -511,6 +511,25 @@
     url: https://www.somkiat.cc/bangkok-elastic-meetup-2023/
   state:
     shortLink: https://webring.page.link/s9HX
+1500f6b8f9e81edc4b4044c8bad5edf3:facebook:
+  spec:
+    title: สวัสดี Hono [somkiat.cc]
+    url: https://www.somkiat.cc/hello-hono/
+  state:
+    id: '100746876247412_234972542825329'
+    url: https://www.facebook.com/100683012920950/posts/234972542825329
+1500f6b8f9e81edc4b4044c8bad5edf3:mastodon:
+  spec:
+    title: สวัสดี Hono [somkiat.cc]
+    url: https://www.somkiat.cc/hello-hono/
+  state:
+    id: '110795169814056293'
+    url: https://mastodon.in.th/@webring/110795169814056293
+1500f6b8f9e81edc4b4044c8bad5edf3:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-hono/
+  state:
+    shortLink: https://webring.page.link/oHdh
 1539b9ee6a721f868c546c1bf79f0eb0:facebook:
   spec:
     title: Getting full Github URL of the latest commit [garden.narze.live]
