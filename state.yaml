@@ -169,6 +169,25 @@
     url: https://lucian.solutions/blog/happy-new-year-2023
   state:
     shortLink: https://webring.page.link/xXgp
+080ea5823acca2c0f436360417812804:facebook:
+  spec:
+    title: ทำโปรเจกต์ PWA แบบไม่ต้อง setup project เยอะ โดยใช้ Glitch [mikkipastel.com]
+    url: https://www.mikkipastel.com/create-new-pwa-project-by-glitch/
+  state:
+    id: '100746876247412_235046832817900'
+    url: https://www.facebook.com/100683012920950/posts/235046832817900
+080ea5823acca2c0f436360417812804:mastodon:
+  spec:
+    title: ทำโปรเจกต์ PWA แบบไม่ต้อง setup project เยอะ โดยใช้ Glitch [mikkipastel.com]
+    url: https://www.mikkipastel.com/create-new-pwa-project-by-glitch/
+  state:
+    id: '110795885365989040'
+    url: https://mastodon.in.th/@webring/110795885365989040
+080ea5823acca2c0f436360417812804:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/create-new-pwa-project-by-glitch/
+  state:
+    shortLink: https://webring.page.link/zQb1
 090fdc97c4cd40b204d8b1453ecec8a2:facebook:
   spec:
     title: แก้ Error "xcodebuild" command but it exited with error code 65 [kajame.xyz]
