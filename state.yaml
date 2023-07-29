@@ -7097,6 +7097,25 @@ e4197f4a991b29b7c76210f790551be8:shorturl:
     url: https://www.somkiat.cc/how-to-email-testing/
   state:
     shortLink: https://webring.page.link/bLSX
+e43970a1314a21a49eb56b03f32926c9:facebook:
+  spec:
+    title: ลองมาเพิ่ม Merge Request Template ใน GitLab กันครับ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/try-merge-request-template-in-gitlab/
+  state:
+    id: '100746876247412_235112022811381'
+    url: https://www.facebook.com/100683012920950/posts/235112022811381
+e43970a1314a21a49eb56b03f32926c9:mastodon:
+  spec:
+    title: ลองมาเพิ่ม Merge Request Template ใน GitLab กันครับ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/07/try-merge-request-template-in-gitlab/
+  state:
+    id: '110796581424522074'
+    url: https://mastodon.in.th/@webring/110796581424522074
+e43970a1314a21a49eb56b03f32926c9:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/07/try-merge-request-template-in-gitlab/
+  state:
+    shortLink: https://webring.page.link/nHAu
 e449fb0997ca630fabe01dcd6d6a45d2:facebook:
   spec:
     title: ว่าง ๆ ลองไปถาม ChatGPT ว่า ใน Software development ถามอะไรได้บ้าง ? [somkiat.cc]
