@@ -6641,6 +6641,25 @@ d278fe492fcabd7db6e344f9d68acc72:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/07/make-iconv-support-tis-620/
   state:
     shortLink: https://webring.page.link/iZKK
+d27fafc22ed9cd0309e5c413ffe9cb2b:facebook:
+  spec:
+    title: 73 - ChatOS - Firestore (cont.) [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-73-chatos-firestore-cont/
+  state:
+    id: '100746876247412_236728609316389'
+    url: https://www.facebook.com/100683012920950/posts/236728609316389
+d27fafc22ed9cd0309e5c413ffe9cb2b:mastodon:
+  spec:
+    title: 73 - ChatOS - Firestore (cont.) [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-73-chatos-firestore-cont/
+  state:
+    id: '110812160687001396'
+    url: https://mastodon.in.th/@webring/110812160687001396
+d27fafc22ed9cd0309e5c413ffe9cb2b:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-73-chatos-firestore-cont/
+  state:
+    shortLink: https://webring.page.link/fhRf
 d2a211d2c6b8c66f3cf64aab9d5140c8:facebook:
   spec:
     title: Securing Kafka with TLS/SSL encryption [mesodiar.com]
