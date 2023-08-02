@@ -3019,6 +3019,25 @@
     url: https://garden.narze.live/100daysofcode-r3-58-garden-astro-use-hashtags/
   state:
     shortLink: https://webring.page.link/eKZ9
+636c08d0b49b5da19bfe0eb7d2202307:facebook:
+  spec:
+    title: ลองใช้งาน gonew สำหรับการสร้าง project ของภาษา Go [somkiat.cc]
+    url: https://www.somkiat.cc/try-gonew/
+  state:
+    id: '100746876247412_237565932565990'
+    url: https://www.facebook.com/100683012920950/posts/237565932565990
+636c08d0b49b5da19bfe0eb7d2202307:mastodon:
+  spec:
+    title: ลองใช้งาน gonew สำหรับการสร้าง project ของภาษา Go [somkiat.cc]
+    url: https://www.somkiat.cc/try-gonew/
+  state:
+    id: '110819974642397690'
+    url: https://mastodon.in.th/@webring/110819974642397690
+636c08d0b49b5da19bfe0eb7d2202307:shorturl:
+  spec:
+    url: https://www.somkiat.cc/try-gonew/
+  state:
+    shortLink: https://webring.page.link/WSiA
 639c11c08aeb3f30f0258dd9db600772:facebook:
   spec:
     title: เมื่อปี 2022 เราเจอกับคำว่าอะไรบ้างนะ ? [somkiat.cc]
