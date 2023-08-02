@@ -1252,6 +1252,25 @@
     url: https://www.somkiat.cc/what-vector-database/
   state:
     shortLink: https://webring.page.link/qTLp
+2d5b38d2e7ad2ff6bf80401221df90a4:facebook:
+  spec:
+    title: บันทึกการแก้ไขปัญหา SonarQube C# ทำงานนานน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/08/csharp-sonar-scanner-has-started-to-take-too-much-time-to-run-analysis/
+  state:
+    id: '100746876247412_237383345917582'
+    url: https://www.facebook.com/100683012920950/posts/237383345917582
+2d5b38d2e7ad2ff6bf80401221df90a4:mastodon:
+  spec:
+    title: บันทึกการแก้ไขปัญหา SonarQube C# ทำงานนานน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/08/csharp-sonar-scanner-has-started-to-take-too-much-time-to-run-analysis/
+  state:
+    id: '110818539569582946'
+    url: https://mastodon.in.th/@webring/110818539569582946
+2d5b38d2e7ad2ff6bf80401221df90a4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/08/csharp-sonar-scanner-has-started-to-take-too-much-time-to-run-analysis/
+  state:
+    shortLink: https://webring.page.link/bpam
 2da10cd920f2bd2db8f07473d25dfd57:facebook:
   spec:
     title: UDP hole punching in Jamulus [dt.in.th]
