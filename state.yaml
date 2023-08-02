@@ -7496,6 +7496,25 @@ ed74f69731cdc86dfaf7181e9889b17c:shorturl:
     url: https://tech.duckfollow.co/view/gitflow-workflow
   state:
     shortLink: https://webring.page.link/ywy8
+edeb94abe2f98a95e84818306238de37:facebook:
+  spec:
+    title: Create Kubernetes service accounts with Terraform [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/08/create-kubernetes-service-accounts-with-terraform/
+  state:
+    id: '100746876247412_237464755909441'
+    url: https://www.facebook.com/100683012920950/posts/237464755909441
+edeb94abe2f98a95e84818306238de37:mastodon:
+  spec:
+    title: Create Kubernetes service accounts with Terraform [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/08/create-kubernetes-service-accounts-with-terraform/
+  state:
+    id: '110819235827519050'
+    url: https://mastodon.in.th/@webring/110819235827519050
+edeb94abe2f98a95e84818306238de37:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/08/create-kubernetes-service-accounts-with-terraform/
+  state:
+    shortLink: https://webring.page.link/ieeR
 ef83bc2fa4075609c9b4cc4e91ac2644:facebook:
   spec:
     title: แนะนำ React => visualized สำหรับการเรียนรู้ ReactJS [somkiat.cc]
