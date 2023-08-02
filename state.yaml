@@ -5786,6 +5786,25 @@ b7ed4ea6402e4dd022e2f8a43009eddb:shorturl:
     url: https://microbenz.in.th2022-review/
   state:
     shortLink: https://webring.page.link/76b1
+b80293172a4a4a01810f23686a154ae3:facebook:
+  spec:
+    title: 74 - ChatOS - Merge guest chat logs [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-74-chatos-merge-guest-chat-logs/
+  state:
+    id: '100746876247412_237311832591400'
+    url: https://www.facebook.com/100683012920950/posts/237311832591400
+b80293172a4a4a01810f23686a154ae3:mastodon:
+  spec:
+    title: 74 - ChatOS - Merge guest chat logs [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-74-chatos-merge-guest-chat-logs/
+  state:
+    id: '110817821848790610'
+    url: https://mastodon.in.th/@webring/110817821848790610
+b80293172a4a4a01810f23686a154ae3:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-74-chatos-merge-guest-chat-logs/
+  state:
+    shortLink: https://webring.page.link/gQRx
 b8b3e22bc05f0ee8b6fc3cebad82d187:facebook:
   spec:
     title: 'Book highlights - Managing Transitions: Making the Most of Change by William Bridges [karnwong.me]'
