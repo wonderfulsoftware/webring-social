@@ -7869,6 +7869,25 @@ f7e0a3ae316be3ad0712cdbc92667819:shorturl:
     url: https://www.mikkipastel.com/bittoon-dao-learning-cryptoteller-tips-from-futures-trader-take/
   state:
     shortLink: https://webring.page.link/UXx4
+f7f811db7157f7c89dbaae51eb20c3cf:facebook:
+  spec:
+    title: Technical Debt กับ Scrum Teams [boonsong.dev]
+    url: https://www.boonsong.dev/technical-debt-and-scrum-teams
+  state:
+    id: '100746876247412_238015645854352'
+    url: https://www.facebook.com/100683012920950/posts/238015645854352
+f7f811db7157f7c89dbaae51eb20c3cf:mastodon:
+  spec:
+    title: Technical Debt กับ Scrum Teams [boonsong.dev]
+    url: https://www.boonsong.dev/technical-debt-and-scrum-teams
+  state:
+    id: '110824201235464141'
+    url: https://mastodon.in.th/@webring/110824201235464141
+f7f811db7157f7c89dbaae51eb20c3cf:shorturl:
+  spec:
+    url: https://www.boonsong.dev/technical-debt-and-scrum-teams
+  state:
+    shortLink: https://webring.page.link/rVwR
 f8e049c5ebee8c93763ff7aaa624257f:facebook:
   spec:
     title: 'MongoDB in Docker: ‘Authentication Failed’ when logging in to a non-default database name [dt.in.th]'
