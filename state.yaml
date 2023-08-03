@@ -2449,6 +2449,25 @@
     url: https://www.mikkipastel.com/list-of-testnet-faucet-for-developer-and-airdrop-hunter/
   state:
     shortLink: https://webring.page.link/ue7Y
+51b11668b365c174562f4bbc869d6108:facebook:
+  spec:
+    title: 75 - ChatOS - Debug app on iPad [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-75-chatos-debug-app-on-ipad/
+  state:
+    id: '100746876247412_237937855862131'
+    url: https://www.facebook.com/100683012920950/posts/237937855862131
+51b11668b365c174562f4bbc869d6108:mastodon:
+  spec:
+    title: 75 - ChatOS - Debug app on iPad [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-75-chatos-debug-app-on-ipad/
+  state:
+    id: '110823483461518192'
+    url: https://mastodon.in.th/@webring/110823483461518192
+51b11668b365c174562f4bbc869d6108:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-75-chatos-debug-app-on-ipad/
+  state:
+    shortLink: https://webring.page.link/3REC
 522633e6094255c02b59d1af11272897:facebook:
   spec:
     title: บันทึกจากการเรียน ChatGPT Prompt Engineering for Developers [somkiat.cc]
