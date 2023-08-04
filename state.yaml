@@ -853,6 +853,25 @@
     url: https://www.somkiat.cc/note-from-api-evolution-without-versioning/
   state:
     shortLink: https://webring.page.link/7nzc
+1c20e9ad6ae4de81bbc8c3006075872c:facebook:
+  spec:
+    title: แนะนำ Postbot เป็น AI assistant สำหรับการเขียน test ใน Postman [somkiat.cc]
+    url: https://www.somkiat.cc/hello-postbot-in-postman/
+  state:
+    id: '100746876247412_238891682433415'
+    url: https://www.facebook.com/100683012920950/posts/238891682433415
+1c20e9ad6ae4de81bbc8c3006075872c:mastodon:
+  spec:
+    title: แนะนำ Postbot เป็น AI assistant สำหรับการเขียน test ใน Postman [somkiat.cc]
+    url: https://www.somkiat.cc/hello-postbot-in-postman/
+  state:
+    id: '110831976144597422'
+    url: https://mastodon.in.th/@webring/110831976144597422
+1c20e9ad6ae4de81bbc8c3006075872c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-postbot-in-postman/
+  state:
+    shortLink: https://webring.page.link/UzgP
 1cd21d8b0fa974479227ff21b6e8448f:facebook:
   spec:
     title: DB2 Driver งงไปหมดด [debuggingsoft.com]
