@@ -701,6 +701,25 @@
     url: https://www.somkiat.cc/ephemeral-environment/
   state:
     shortLink: https://webring.page.link/ETja
+19be785ee625b30a7ebcde2854458d1d:facebook:
+  spec:
+    title: 76 - garden-astro - Setup Giscus [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-76-garden-astro-setup-giscus/
+  state:
+    id: '100746876247412_238579842464599'
+    url: https://www.facebook.com/100683012920950/posts/238579842464599
+19be785ee625b30a7ebcde2854458d1d:mastodon:
+  spec:
+    title: 76 - garden-astro - Setup Giscus [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-76-garden-astro-setup-giscus/
+  state:
+    id: '110829145469134093'
+    url: https://mastodon.in.th/@webring/110829145469134093
+19be785ee625b30a7ebcde2854458d1d:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-76-garden-astro-setup-giscus/
+  state:
+    shortLink: https://webring.page.link/LFxN
 1a2d9dc90ce4d3cc8688d0ab30d25029:facebook:
   spec:
     title: นั่งรถเมล์ฟรีช่วงปีใหม่สาย 4-41 (57) วงกลมตลิ่งชัน-ธนบุรี [debuggingsoft.com]
