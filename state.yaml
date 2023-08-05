@@ -7021,6 +7021,25 @@ dabdbb866900a20d47538ffe8e13d7a5:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/01/sonarqube-net6-net-core-note/
   state:
     shortLink: https://webring.page.link/sxR8
+dafd0c656c643a4ac13439e9cdc50ced:facebook:
+  spec:
+    title: '[CR]ลิ้มอ่วงซุย (Linn) เจริญรัถ-ลาดหญ้า [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/08/cr%e0%b8%a5%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%ad%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%8b%e0%b8%b8%e0%b8%a2-linn-%e0%b9%80%e0%b8%88%e0%b8%a3%e0%b8%b4%e0%b8%8d%e0%b8%a3%e0%b8%b1%e0%b8%96-%e0%b8%a5/
+  state:
+    id: '100746876247412_239259099063340'
+    url: https://www.facebook.com/100683012920950/posts/239259099063340
+dafd0c656c643a4ac13439e9cdc50ced:mastodon:
+  spec:
+    title: '[CR]ลิ้มอ่วงซุย (Linn) เจริญรัถ-ลาดหญ้า [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/08/cr%e0%b8%a5%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%ad%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%8b%e0%b8%b8%e0%b8%a2-linn-%e0%b9%80%e0%b8%88%e0%b8%a3%e0%b8%b4%e0%b8%8d%e0%b8%a3%e0%b8%b1%e0%b8%96-%e0%b8%a5/
+  state:
+    id: '110835520285363230'
+    url: https://mastodon.in.th/@webring/110835520285363230
+dafd0c656c643a4ac13439e9cdc50ced:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/08/cr%e0%b8%a5%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%ad%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%8b%e0%b8%b8%e0%b8%a2-linn-%e0%b9%80%e0%b8%88%e0%b8%a3%e0%b8%b4%e0%b8%8d%e0%b8%a3%e0%b8%b1%e0%b8%96-%e0%b8%a5/
+  state:
+    shortLink: https://webring.page.link/Q6Wz
 dc9406027d9ba4a11c760c9a94512164:facebook:
   spec:
     title: ลอง vue –version เจอ windows บอก UnauthorizedAccess [debuggingsoft.com]
