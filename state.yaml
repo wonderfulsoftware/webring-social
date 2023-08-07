@@ -3513,6 +3513,25 @@
     url: https://garden.narze.live/100daysofcode-r3-60-setup-linux-vm-on-digitalocean/
   state:
     shortLink: https://webring.page.link/88CH
+6db2c3e242cea9d5dce6743a7ed572c6:facebook:
+  spec:
+    title: 78 - ChatOS - Encrypt message with TweetNaCl.js [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-78-chatos-encrypt-message-with-tweetnacl-js/
+  state:
+    id: '100746876247412_240422085613708'
+    url: https://www.facebook.com/100683012920950/posts/240422085613708
+6db2c3e242cea9d5dce6743a7ed572c6:mastodon:
+  spec:
+    title: 78 - ChatOS - Encrypt message with TweetNaCl.js [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-78-chatos-encrypt-message-with-tweetnacl-js/
+  state:
+    id: '110846133648660801'
+    url: https://mastodon.in.th/@webring/110846133648660801
+6db2c3e242cea9d5dce6743a7ed572c6:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-78-chatos-encrypt-message-with-tweetnacl-js/
+  state:
+    shortLink: https://webring.page.link/ZFcY
 6de8c3e7dbfba578923ff45f8adfe9da:facebook:
   spec:
     title: 'น่าสนใจสำหรับ KIP-932: Queues for Kafka [somkiat.cc]'
