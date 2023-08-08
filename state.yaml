@@ -1803,6 +1803,25 @@
     url: https://www.somkiat.cc/note-review-code-with-go/
   state:
     shortLink: https://webring.page.link/GKsn
+3c02cff2d27dd270e2edfb1fea73edc5:facebook:
+  spec:
+    title: 79 - ChatOS - Generate encryption key with PBKDF2 [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-79-chatos-generate-encryption-key-with-pbkdf2/
+  state:
+    id: '100746876247412_241037588885491'
+    url: https://www.facebook.com/100683012920950/posts/241037588885491
+3c02cff2d27dd270e2edfb1fea73edc5:mastodon:
+  spec:
+    title: 79 - ChatOS - Generate encryption key with PBKDF2 [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-79-chatos-generate-encryption-key-with-pbkdf2/
+  state:
+    id: '110851795668500281'
+    url: https://mastodon.in.th/@webring/110851795668500281
+3c02cff2d27dd270e2edfb1fea73edc5:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-79-chatos-generate-encryption-key-with-pbkdf2/
+  state:
+    shortLink: https://webring.page.link/ezT8
 3c081287f3fe4e1dee288e9ba9328de0:facebook:
   spec:
     title: MLflow 101 [edocstudio.info]
