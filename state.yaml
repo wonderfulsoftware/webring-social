@@ -682,6 +682,25 @@
     url: https://www.mikkipastel.com/web-3-0-the-future-of-decentralization/
   state:
     shortLink: https://webring.page.link/5oFr
+18fcc495ea7b49a95cc38ea91ce27c0a:facebook:
+  spec:
+    title: TCP + JSON บน Windows7 แล้ว JSON แหว่งง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/08/tcp-json-incomplete-when-test-on-windows7/
+  state:
+    id: '100746876247412_241652412157342'
+    url: https://www.facebook.com/100683012920950/posts/241652412157342
+18fcc495ea7b49a95cc38ea91ce27c0a:mastodon:
+  spec:
+    title: TCP + JSON บน Windows7 แล้ว JSON แหว่งง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/08/tcp-json-incomplete-when-test-on-windows7/
+  state:
+    id: '110857457388231261'
+    url: https://mastodon.in.th/@webring/110857457388231261
+18fcc495ea7b49a95cc38ea91ce27c0a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/08/tcp-json-incomplete-when-test-on-windows7/
+  state:
+    shortLink: https://webring.page.link/pRZN
 199609ef0b42ebf9b39cf0f4c3a01a06:facebook:
   spec:
     title: มาทำความรู้จักกับ Ephemeral Environment [somkiat.cc]
