@@ -2354,6 +2354,25 @@
     url: https://www.mikkipastel.com/introduction-tripster-travel-pass-nft-project/
   state:
     shortLink: https://webring.page.link/1hpM
+4dcd1aa18f82b9fd6423afda3b4aa6ef:facebook:
+  spec:
+    title: '[Atlas] ทำการสร้าง ER diagram จาก GORM model [somkiat.cc]'
+    url: https://www.somkiat.cc/gorm-er-diagram-with-atlas/
+  state:
+    id: '100746876247412_241728085483108'
+    url: https://www.facebook.com/100683012920950/posts/241728085483108
+4dcd1aa18f82b9fd6423afda3b4aa6ef:mastodon:
+  spec:
+    title: '[Atlas] ทำการสร้าง ER diagram จาก GORM model [somkiat.cc]'
+    url: https://www.somkiat.cc/gorm-er-diagram-with-atlas/
+  state:
+    id: '110858176018941535'
+    url: https://mastodon.in.th/@webring/110858176018941535
+4dcd1aa18f82b9fd6423afda3b4aa6ef:shorturl:
+  spec:
+    url: https://www.somkiat.cc/gorm-er-diagram-with-atlas/
+  state:
+    shortLink: https://webring.page.link/yQ5L
 4e0967fe2a5489597e0860dfc2352242:facebook:
   spec:
     title: 'Robot framework​ :: การจัดการ notificationใน browser [somkiat.cc]'
