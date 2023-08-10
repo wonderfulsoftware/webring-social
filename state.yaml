@@ -7002,6 +7002,25 @@ d6a35221f6cfb34ebfb9500385db369c:shorturl:
     url: https://notes.dt.in.th/20230321T132222Z8523
   state:
     shortLink: https://webring.page.link/mK2W
+d70dfad0a66593f28662eb0eea706a43:facebook:
+  spec:
+    title: ความเร็วแบบ polylog [neizod.dev]
+    url: https://neizod.dev/2023/08/08/polylog-complexity.html
+  state:
+    id: '100746876247412_242303932092190'
+    url: https://www.facebook.com/100683012920950/posts/242303932092190
+d70dfad0a66593f28662eb0eea706a43:mastodon:
+  spec:
+    title: ความเร็วแบบ polylog [neizod.dev]
+    url: https://neizod.dev/2023/08/08/polylog-complexity.html
+  state:
+    id: '110863120394151368'
+    url: https://mastodon.in.th/@webring/110863120394151368
+d70dfad0a66593f28662eb0eea706a43:shorturl:
+  spec:
+    url: https://neizod.dev/2023/08/08/polylog-complexity.html
+  state:
+    shortLink: https://webring.page.link/W8C2
 d8e331caff1bc9bc60a18e5d768ff2c6:facebook:
   spec:
     title: ปัญหา newman กับ localhost [somkiat.cc]
