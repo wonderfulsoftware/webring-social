@@ -4235,6 +4235,25 @@
     url: https://yothinix.com/working-how-to-work/
   state:
     shortLink: https://webring.page.link/o1tu
+7dfb10f317ef92fba30c628cbebbf8d3:facebook:
+  spec:
+    title: การเปลี่ยนแปลงของ Chrome Driver สำหรับ Google Chrome 115 ขึ้นไป [somkiat.cc]
+    url: https://www.somkiat.cc/update-chrome-driver/
+  state:
+    id: '100746876247412_242552695400647'
+    url: https://www.facebook.com/100683012920950/posts/242552695400647
+7dfb10f317ef92fba30c628cbebbf8d3:mastodon:
+  spec:
+    title: การเปลี่ยนแปลงของ Chrome Driver สำหรับ Google Chrome 115 ขึ้นไป [somkiat.cc]
+    url: https://www.somkiat.cc/update-chrome-driver/
+  state:
+    id: '110865279335440812'
+    url: https://mastodon.in.th/@webring/110865279335440812
+7dfb10f317ef92fba30c628cbebbf8d3:shorturl:
+  spec:
+    url: https://www.somkiat.cc/update-chrome-driver/
+  state:
+    shortLink: https://webring.page.link/CSDK
 7e1fc65cd228d5c0ab15d794117710de:facebook:
   spec:
     title: Java 20 GA มาแล้วนะ [somkiat.cc]
