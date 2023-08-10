@@ -2107,6 +2107,25 @@
     url: https://www.somkiat.cc/infoq-culture-methods-trends-2023/
   state:
     shortLink: https://webring.page.link/iKWG
+46c7cb10169fd3f3b7874273d54012d5:facebook:
+  spec:
+    title: 81 - garden-astro - Update front page [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-81-garden-astro-update-front-page/
+  state:
+    id: '100746876247412_242387905417126'
+    url: https://www.facebook.com/100683012920950/posts/242387905417126
+46c7cb10169fd3f3b7874273d54012d5:mastodon:
+  spec:
+    title: 81 - garden-astro - Update front page [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-81-garden-astro-update-front-page/
+  state:
+    id: '110863838818825807'
+    url: https://mastodon.in.th/@webring/110863838818825807
+46c7cb10169fd3f3b7874273d54012d5:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-81-garden-astro-update-front-page/
+  state:
+    shortLink: https://webring.page.link/YunS
 4748dbb3467b1eed6a45a67064284e03:facebook:
   spec:
     title: สรุปเรื่องที่เข้าฟังในงาน Agile Thailand 2023 ช่วงเช้านิดหน่อย [somkiat.cc]
