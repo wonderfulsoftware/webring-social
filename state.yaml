@@ -1746,6 +1746,25 @@
     url: https://janescience.com/blog/timesheet-python-chatgpt
   state:
     shortLink: https://webring.page.link/Ymue
+38dd10369a6d753b5b8a9fdb945f7da5:facebook:
+  spec:
+    title: Tip! การใช้ ssh โดยใช้ชื่อ host [kajame.xyz]
+    url: https://kajame.xyz/blog/ssh-with-host
+  state:
+    id: '100746876247412_242471692075414'
+    url: https://www.facebook.com/100683012920950/posts/242471692075414
+38dd10369a6d753b5b8a9fdb945f7da5:mastodon:
+  spec:
+    title: Tip! การใช้ ssh โดยใช้ชื่อ host [kajame.xyz]
+    url: https://kajame.xyz/blog/ssh-with-host
+  state:
+    id: '110864537193079536'
+    url: https://mastodon.in.th/@webring/110864537193079536
+38dd10369a6d753b5b8a9fdb945f7da5:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/ssh-with-host
+  state:
+    shortLink: https://webring.page.link/B5Pu
 39c8b7672c846d8654aed5ca06b78122:facebook:
   spec:
     title: มางาน Apetimism 1st Anniversary แล้วได้อะไรบ้าง? [mikkipastel.com]
