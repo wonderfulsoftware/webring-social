@@ -188,6 +188,25 @@
     url: https://www.mikkipastel.com/create-new-pwa-project-by-glitch/
   state:
     shortLink: https://webring.page.link/zQb1
+08bde39c0e7e24b15a09b686006c2193:facebook:
+  spec:
+    title: 1-Year Anniversary Gift สำหรับคนที่ Subscribe ช่อง Twitch ครบปี [lucian.solutions]
+    url: https://lucian.solutions/blog/1-year-sub-stand
+  state:
+    id: '100746876247412_242936342028949'
+    url: https://www.facebook.com/100683012920950/posts/242936342028949
+08bde39c0e7e24b15a09b686006c2193:mastodon:
+  spec:
+    title: 1-Year Anniversary Gift สำหรับคนที่ Subscribe ช่อง Twitch ครบปี [lucian.solutions]
+    url: https://lucian.solutions/blog/1-year-sub-stand
+  state:
+    id: '110868781146724874'
+    url: https://mastodon.in.th/@webring/110868781146724874
+08bde39c0e7e24b15a09b686006c2193:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/1-year-sub-stand
+  state:
+    shortLink: https://webring.page.link/bcms
 090fdc97c4cd40b204d8b1453ecec8a2:facebook:
   spec:
     title: แก้ Error "xcodebuild" command but it exited with error code 65 [kajame.xyz]
