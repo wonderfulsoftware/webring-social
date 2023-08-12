@@ -6128,6 +6128,25 @@ baf704b0b87e964fb3c3e8c00cd27876:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-implement-a-secure-continuous-deployment-using-azure-pipelines/
   state:
     shortLink: https://webring.page.link/CCfC
+bb758d935884c1fe7250341f8ac048f2:facebook:
+  spec:
+    title: Relative Path Note [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/08/relative-path-note/
+  state:
+    id: '100746876247412_243561788633071'
+    url: https://www.facebook.com/100683012920950/posts/243561788633071
+bb758d935884c1fe7250341f8ac048f2:mastodon:
+  spec:
+    title: Relative Path Note [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/08/relative-path-note/
+  state:
+    id: '110874440952027419'
+    url: https://mastodon.in.th/@webring/110874440952027419
+bb758d935884c1fe7250341f8ac048f2:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/08/relative-path-note/
+  state:
+    shortLink: https://webring.page.link/Mjqy
 bd23e1beee8056e729f25ba34b594968:facebook:
   spec:
     title: TDEA (3DES) ปลอดภัยกว่า AES-128 จริงไหม [suam.wtf]
