@@ -2259,6 +2259,25 @@
     url: https://toupawa.com/how-to-use-the-interactively-manage-your-nodejs-versions-library/
   state:
     shortLink: https://webring.page.link/akbp
+4b07b4990059066df6cf4d6f52f1c604:facebook:
+  spec:
+    title: แชร์วิธีการเทส deeplink สำหรับ Android Developer [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-test-deeplink-for-android-developer/
+  state:
+    id: '100746876247412_243637128625537'
+    url: https://www.facebook.com/100683012920950/posts/243637128625537
+4b07b4990059066df6cf4d6f52f1c604:mastodon:
+  spec:
+    title: แชร์วิธีการเทส deeplink สำหรับ Android Developer [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-test-deeplink-for-android-developer/
+  state:
+    id: '110875155549989424'
+    url: https://mastodon.in.th/@webring/110875155549989424
+4b07b4990059066df6cf4d6f52f1c604:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/how-to-test-deeplink-for-android-developer/
+  state:
+    shortLink: https://webring.page.link/TQ6j
 4b0a5c5fa7c02874dd7b8e71a8901ffa:facebook:
   spec:
     title: Book highlights - The Staff Engineer's Path by Tanya Reilly [karnwong.me]
