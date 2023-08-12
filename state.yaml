@@ -8192,6 +8192,25 @@ f7f811db7157f7c89dbaae51eb20c3cf:shorturl:
     url: https://www.boonsong.dev/technical-debt-and-scrum-teams
   state:
     shortLink: https://webring.page.link/rVwR
+f8c980f78371aba5d2ea95a62f4e05ec:facebook:
+  spec:
+    title: มาลองใช้งาน Podman compose เล่นดูหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/hello-podman-compose/
+  state:
+    id: '100746876247412_243703418618908'
+    url: https://www.facebook.com/100683012920950/posts/243703418618908
+f8c980f78371aba5d2ea95a62f4e05ec:mastodon:
+  spec:
+    title: มาลองใช้งาน Podman compose เล่นดูหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/hello-podman-compose/
+  state:
+    id: '110875853630337524'
+    url: https://mastodon.in.th/@webring/110875853630337524
+f8c980f78371aba5d2ea95a62f4e05ec:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-podman-compose/
+  state:
+    shortLink: https://webring.page.link/cnkj
 f8e049c5ebee8c93763ff7aaa624257f:facebook:
   spec:
     title: 'MongoDB in Docker: ‘Authentication Failed’ when logging in to a non-default database name [dt.in.th]'
