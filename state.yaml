@@ -7230,6 +7230,25 @@ dabdbb866900a20d47538ffe8e13d7a5:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/01/sonarqube-net6-net-core-note/
   state:
     shortLink: https://webring.page.link/sxR8
+daee15494ee0f644a84b3adbdc30dced:facebook:
+  spec:
+    title: ลองสร้าง project php หลายตัวใส่ใน nginx ใน docker [kajame.xyz]
+    url: https://kajame.xyz/blog/how-to-create-docker-container-nginx-and-php-multiple-project
+  state:
+    id: '100746876247412_244172835238633'
+    url: https://www.facebook.com/100683012920950/posts/244172835238633
+daee15494ee0f644a84b3adbdc30dced:mastodon:
+  spec:
+    title: ลองสร้าง project php หลายตัวใส่ใน nginx ใน docker [kajame.xyz]
+    url: https://kajame.xyz/blog/how-to-create-docker-container-nginx-and-php-multiple-project
+  state:
+    id: '110880103979483462'
+    url: https://mastodon.in.th/@webring/110880103979483462
+daee15494ee0f644a84b3adbdc30dced:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/how-to-create-docker-container-nginx-and-php-multiple-project
+  state:
+    shortLink: https://webring.page.link/Safw
 dafd0c656c643a4ac13439e9cdc50ced:facebook:
   spec:
     title: '[CR]ลิ้มอ่วงซุย (Linn) เจริญรัถ-ลาดหญ้า [debuggingsoft.com]'
