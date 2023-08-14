@@ -948,6 +948,25 @@
     url: https://janescience.com/blog/giscus
   state:
     shortLink: https://webring.page.link/K4bx
+1dd2626ad790e1d2e73e8e2831b8ae6d:facebook:
+  spec:
+    title: การใช้งาน Generic type ใน TypeScript [thiti.dev]
+    url: https://thiti.dev/blog/99/
+  state:
+    id: '100746876247412_244781415177775'
+    url: https://www.facebook.com/100683012920950/posts/244781415177775
+1dd2626ad790e1d2e73e8e2831b8ae6d:mastodon:
+  spec:
+    title: การใช้งาน Generic type ใน TypeScript [thiti.dev]
+    url: https://thiti.dev/blog/99/
+  state:
+    id: '110885768311958378'
+    url: https://mastodon.in.th/@webring/110885768311958378
+1dd2626ad790e1d2e73e8e2831b8ae6d:shorturl:
+  spec:
+    url: https://thiti.dev/blog/99/
+  state:
+    shortLink: https://webring.page.link/dSDJ
 1dd2d690467a6d259caec3a18aa07500:facebook:
   spec:
     title: 'Event-driven architecture: Message queues, Commands, Events, และ Queries [boonsong.dev]'
