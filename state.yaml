@@ -5679,6 +5679,25 @@ a800be5a22a696e7f90aa33fe2e5575b:shorturl:
     url: https://notes.dt.in.th/NextTrpcError
   state:
     shortLink: https://webring.page.link/vcWf
+a801dd49b8d3a9e85e11bffe46059660:facebook:
+  spec:
+    title: '[Tutorial] Setting up Budget Alert in GCP [mesodiar.com]'
+    url: https://mesodiar.com/setting-up-budget-alert-in-gcp-22e0b6b7bd92?source=rss----698ac1e5dc8c---4
+  state:
+    id: '100746876247412_244853765170540'
+    url: https://www.facebook.com/100683012920950/posts/244853765170540
+a801dd49b8d3a9e85e11bffe46059660:mastodon:
+  spec:
+    title: '[Tutorial] Setting up Budget Alert in GCP [mesodiar.com]'
+    url: https://mesodiar.com/setting-up-budget-alert-in-gcp-22e0b6b7bd92?source=rss----698ac1e5dc8c---4
+  state:
+    id: '110886486720917250'
+    url: https://mastodon.in.th/@webring/110886486720917250
+a801dd49b8d3a9e85e11bffe46059660:shorturl:
+  spec:
+    url: https://mesodiar.com/setting-up-budget-alert-in-gcp-22e0b6b7bd92?source=rss----698ac1e5dc8c---4
+  state:
+    shortLink: https://webring.page.link/VyTz
 a9219b54ffbacb453c42195b38473323:facebook:
   spec:
     title: '[CR] Starbucks-Chocolate Flourless Cake (Valentine Edition) [debuggingsoft.com]'
