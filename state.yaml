@@ -8382,6 +8382,25 @@ fb59631bc212db49aa6b847609fff173:shorturl:
     url: https://ntsd.dev/extract-cricital-css/
   state:
     shortLink: https://webring.page.link/3MJK
+ff1a08452a4f002b3d483fa32639fb1d:facebook:
+  spec:
+    title: ข้อมูลการใช้งานของ Stack Overflow [somkiat.cc]
+    url: https://www.somkiat.cc/stack-overflow-with-ai/
+  state:
+    id: '100746876247412_245554881767095'
+    url: https://www.facebook.com/100683012920950/posts/245554881767095
+ff1a08452a4f002b3d483fa32639fb1d:mastodon:
+  spec:
+    title: ข้อมูลการใช้งานของ Stack Overflow [somkiat.cc]
+    url: https://www.somkiat.cc/stack-overflow-with-ai/
+  state:
+    id: '110892844778755648'
+    url: https://mastodon.in.th/@webring/110892844778755648
+ff1a08452a4f002b3d483fa32639fb1d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/stack-overflow-with-ai/
+  state:
+    shortLink: https://webring.page.link/5Bce
 ffc5905ef4b2cad1b9e89f4554eac71b:facebook:
   spec:
     title: MongoDB คืออะไร? ติดตั้งและเริ่มต้นใช้งาน MongoDB เบื้องต้น [poolsawat.com]
