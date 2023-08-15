@@ -1271,6 +1271,25 @@
     url: https://devahoy.com/tutorials/learn-css-animations/day6-card-game
   state:
     shortLink: https://webring.page.link/o53j
+2b2ea360e89d2db18887bcc5824c41e4:facebook:
+  spec:
+    title: 85 - Update narze/resume [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-85-update-narze-resume/
+  state:
+    id: '100746876247412_245392121783371'
+    url: https://www.facebook.com/100683012920950/posts/245392121783371
+2b2ea360e89d2db18887bcc5824c41e4:mastodon:
+  spec:
+    title: 85 - Update narze/resume [garden.narze.live]
+    url: https://garden.narze.live/100daysofcode-r3-85-update-narze-resume/
+  state:
+    id: '110891430110260619'
+    url: https://mastodon.in.th/@webring/110891430110260619
+2b2ea360e89d2db18887bcc5824c41e4:shorturl:
+  spec:
+    url: https://garden.narze.live/100daysofcode-r3-85-update-narze-resume/
+  state:
+    shortLink: https://webring.page.link/jfYe
 2bb7a2f1739d153ec80fb17ee5087399:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 4 (Teams) [taoisaman.com]
