@@ -6983,6 +6983,25 @@ d1476b3d9dfba601ae992cbbfab93036:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-manage-infrastructure-as-code-using-azure-and-dsc/
   state:
     shortLink: https://webring.page.link/R5uc
+d1555f71e97f3f0541e49accb83fc3a5:facebook:
+  spec:
+    title: ลองนั่งรถเมล์ที่ผ่านถนนราชพฤกษ์ [สาย 2-19(127)] [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/08/try-ratchapruek-bus-2-19-old-127/
+  state:
+    id: '100746876247412_245673845088532'
+    url: https://www.facebook.com/100683012920950/posts/245673845088532
+d1555f71e97f3f0541e49accb83fc3a5:mastodon:
+  spec:
+    title: ลองนั่งรถเมล์ที่ผ่านถนนราชพฤกษ์ [สาย 2-19(127)] [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/08/try-ratchapruek-bus-2-19-old-127/
+  state:
+    id: '110893580694744988'
+    url: https://mastodon.in.th/@webring/110893580694744988
+d1555f71e97f3f0541e49accb83fc3a5:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/08/try-ratchapruek-bus-2-19-old-127/
+  state:
+    shortLink: https://webring.page.link/XR9X
 d1f1286767c1824cb98620b0a30c03f2:facebook:
   spec:
     title: Robot Framework 6.1 ตัวเต็มออกมาแล้ว [somkiat.cc]
