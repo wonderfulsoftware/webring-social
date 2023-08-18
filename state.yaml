@@ -5147,6 +5147,25 @@
     url: https://notes.dt.in.th/GoogleCloudServiceAccountIdToken
   state:
     shortLink: https://webring.page.link/VuzM
+94a270ac8c07fae1199dffa42c069ddd:facebook:
+  spec:
+    title: Install Samsung notes on Windows 10/11 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/08/install-samsung-notes-on-windows-10-11/
+  state:
+    id: '100746876247412_247193668269883'
+    url: https://www.facebook.com/100683012920950/posts/247193668269883
+94a270ac8c07fae1199dffa42c069ddd:mastodon:
+  spec:
+    title: Install Samsung notes on Windows 10/11 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/08/install-samsung-notes-on-windows-10-11/
+  state:
+    id: '110908418034195628'
+    url: https://mastodon.in.th/@webring/110908418034195628
+94a270ac8c07fae1199dffa42c069ddd:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/08/install-samsung-notes-on-windows-10-11/
+  state:
+    shortLink: https://webring.page.link/x7gt
 96f7739f7435b2722c08ff63bcecad53:facebook:
   spec:
     title: ว่าด้วยเรื่อง cURL ใช้อย่างไรให้ Pro ใช้อย่างไรถึงจะ Cool [poolsawat.com]
