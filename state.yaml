@@ -5850,6 +5850,25 @@ ab7279ac3fb2c468cb3702240d9f5fb7:shorturl:
     url: https://tech.duckfollow.co/view/bkkjs-18
   state:
     shortLink: https://webring.page.link/xZeV
+abe6aac73aa7ba984244fd20f79e09f7:facebook:
+  spec:
+    title: Google Chrome 117 สามารถทำการ mock XHR/fetch request ได้แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/google-chrome-117-mock-api/
+  state:
+    id: '100746876247412_247261061596477'
+    url: https://www.facebook.com/100683012920950/posts/247261061596477
+abe6aac73aa7ba984244fd20f79e09f7:mastodon:
+  spec:
+    title: Google Chrome 117 สามารถทำการ mock XHR/fetch request ได้แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/google-chrome-117-mock-api/
+  state:
+    id: '110909133765714813'
+    url: https://mastodon.in.th/@webring/110909133765714813
+abe6aac73aa7ba984244fd20f79e09f7:shorturl:
+  spec:
+    url: https://www.somkiat.cc/google-chrome-117-mock-api/
+  state:
+    shortLink: https://webring.page.link/qCNB
 ac32b68bb4ebd11aa5bcf3ab81e80203:facebook:
   spec:
     title: มาเขียน code กับ Spring Modulith กันบ้าง [somkiat.cc]
