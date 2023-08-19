@@ -3133,6 +3133,25 @@
     url: https://garden.narze.live/extract-saved-wifi-password-on-macos/
   state:
     shortLink: https://webring.page.link/7oEJ
+5ffd0bf793fac26558c83def799a470e:facebook:
+  spec:
+    title: Hint the Hidden Heirloom [neizod.dev]
+    url: https://neizod.dev/2023/08/19/hint-hidden-heirloom.html
+  state:
+    id: '100746876247412_247829498206300'
+    url: https://www.facebook.com/100683012920950/posts/247829498206300
+5ffd0bf793fac26558c83def799a470e:mastodon:
+  spec:
+    title: Hint the Hidden Heirloom [neizod.dev]
+    url: https://neizod.dev/2023/08/19/hint-hidden-heirloom.html
+  state:
+    id: '110914791365618889'
+    url: https://mastodon.in.th/@webring/110914791365618889
+5ffd0bf793fac26558c83def799a470e:shorturl:
+  spec:
+    url: https://neizod.dev/2023/08/19/hint-hidden-heirloom.html
+  state:
+    shortLink: https://webring.page.link/AR7B
 60097ae9fc94e109a754a3b72fb70a4d:facebook:
   spec:
     title: How to declare PowerShell variable in Jenkins Pipeline [debuggingsoft.com]
