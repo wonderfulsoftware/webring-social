@@ -7838,6 +7838,25 @@ ea76f03f757ad52190797ef9bc193f55:shorturl:
     url: https://neizod.dev/2023/06/01/thurstech-math-in-code-optimization.html
   state:
     shortLink: https://webring.page.link/WgKv
+ea7d88ef6a14ef0e18dd121fd1bd5743:facebook:
+  spec:
+    title: ดึง transaction ของ contract ลง Google Sheet แบบง่าย ๆ ใคร ๆ ก็ทำได้ ไม่ต้องโค้ดเอง [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-get-transaction-from-contract-to-google-sheet/
+  state:
+    id: '100746876247412_247758408213409'
+    url: https://www.facebook.com/100683012920950/posts/247758408213409
+ea7d88ef6a14ef0e18dd121fd1bd5743:mastodon:
+  spec:
+    title: ดึง transaction ของ contract ลง Google Sheet แบบง่าย ๆ ใคร ๆ ก็ทำได้ ไม่ต้องโค้ดเอง [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-get-transaction-from-contract-to-google-sheet/
+  state:
+    id: '110914080711412350'
+    url: https://mastodon.in.th/@webring/110914080711412350
+ea7d88ef6a14ef0e18dd121fd1bd5743:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/how-to-get-transaction-from-contract-to-google-sheet/
+  state:
+    shortLink: https://webring.page.link/wKQo
 ea9638a9deb06fc8e202af81323651e5:facebook:
   spec:
     title: '[Write-up] Cyber Apocalypse 2023 - UnEarthly Shop (hard) [suam.wtf]'
