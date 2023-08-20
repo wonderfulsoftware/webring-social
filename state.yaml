@@ -5014,6 +5014,13 @@
     url: https://garden.narze.live/Store-git-directory-externally/
   state:
     shortLink: https://webring.page.link/L2PD
+90c33c5e707e0c808f6e15d080c0d79f:facebook:
+  spec:
+    title: 'SOPS: Secrets OPerationS [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-16-sops/
+  state:
+    id: '100746876247412_248713288117921'
+    url: https://www.facebook.com/100683012920950/posts/248713288117921
 90c33c5e707e0c808f6e15d080c0d79f:mastodon:
   spec:
     title: 'SOPS: Secrets OPerationS [jitrak.dev]'
