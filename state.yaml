@@ -3399,6 +3399,13 @@
     url: https://thiti.dev/blog/66/
   state:
     shortLink: https://webring.page.link/Ybic
+65ec20c562ebba0ab094d89bc86f8d1d:facebook:
+  spec:
+    title: บันทึกการปรับ format data ที่ใช้รับส่งผ่าน TCP จาก BinaryFormatter มาเป็น JSON แทน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/08/change-data-format-binaryformatter-to-json-via-tcp-protocal/
+  state:
+    id: '100746876247412_248628748126375'
+    url: https://www.facebook.com/100683012920950/posts/248628748126375
 65ec20c562ebba0ab094d89bc86f8d1d:mastodon:
   spec:
     title: บันทึกการปรับ format data ที่ใช้รับส่งผ่าน TCP จาก BinaryFormatter มาเป็น JSON แทน [debuggingsoft.com]
@@ -5007,6 +5014,18 @@
     url: https://garden.narze.live/Store-git-directory-externally/
   state:
     shortLink: https://webring.page.link/L2PD
+90c33c5e707e0c808f6e15d080c0d79f:mastodon:
+  spec:
+    title: 'SOPS: Secrets OPerationS [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-16-sops/
+  state:
+    id: '110921884979862315'
+    url: https://mastodon.in.th/@webring/110921884979862315
+90c33c5e707e0c808f6e15d080c0d79f:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-16-sops/
+  state:
+    shortLink: https://webring.page.link/sdNG
 913fbdd71169fbb105899d7bb9623f92:facebook:
   spec:
     title: 'Domain-driven design: Business domain and Subdomain [boonsong.dev]'
