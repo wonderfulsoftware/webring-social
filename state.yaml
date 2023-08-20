@@ -7477,6 +7477,18 @@ de5a01ad313c46a7ced7e4944b43cd08:shorturl:
     url: https://www.mikkipastel.com/introduction-stable-diffusion-101/
   state:
     shortLink: https://webring.page.link/JpDR
+e0f506a10531efb666b4b0eb2de91e2f:mastodon:
+  spec:
+    title: OKLCH Color Scale Plotter [dt.in.th]
+    url: https://notes.dt.in.th/OklchPlot
+  state:
+    id: '110919740637236450'
+    url: https://mastodon.in.th/@webring/110919740637236450
+e0f506a10531efb666b4b0eb2de91e2f:shorturl:
+  spec:
+    url: https://notes.dt.in.th/OklchPlot
+  state:
+    shortLink: https://webring.page.link/RY6a
 e101590fcf2c113c902ecdebce745d7d:facebook:
   spec:
     title: '[AZ-400] Design and implement a dependency management strategy [debuggingsoft.com]'
