@@ -7477,6 +7477,13 @@ de5a01ad313c46a7ced7e4944b43cd08:shorturl:
     url: https://www.mikkipastel.com/introduction-stable-diffusion-101/
   state:
     shortLink: https://webring.page.link/JpDR
+e0f506a10531efb666b4b0eb2de91e2f:facebook:
+  spec:
+    title: OKLCH Color Scale Plotter [dt.in.th]
+    url: https://notes.dt.in.th/OklchPlot
+  state:
+    id: '100746876247412_248416781480905'
+    url: https://www.facebook.com/100683012920950/posts/248416781480905
 e0f506a10531efb666b4b0eb2de91e2f:mastodon:
   spec:
     title: OKLCH Color Scale Plotter [dt.in.th]
@@ -8451,6 +8458,18 @@ f96b66b7a30e22623fc55c95fed9bb21:shorturl:
     url: https://toupawa.com/review-a-worker-man-who-become-to-be-a-programmer/
   state:
     shortLink: https://webring.page.link/Fpyg
+f98e852599842fc5400e4daddd9f1cfb:mastodon:
+  spec:
+    title: ลองสร้าง Project Laravel ใส่ใน Nginx ใน Docker [kajame.xyz]
+    url: https://kajame.xyz/blog/how-to-create-docker-container-nginx-and-laravel-project
+  state:
+    id: '110920455279409826'
+    url: https://mastodon.in.th/@webring/110920455279409826
+f98e852599842fc5400e4daddd9f1cfb:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/how-to-create-docker-container-nginx-and-laravel-project
+  state:
+    shortLink: https://webring.page.link/vo2m
 f9b8af3565b0c92ec88fc0adf128e0e5:facebook:
   spec:
     title: Glob import modules with Vite [garden.narze.live]
