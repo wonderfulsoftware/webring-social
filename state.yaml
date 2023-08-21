@@ -511,6 +511,25 @@
     url: https://www.somkiat.cc/hello-vercel-storage/
   state:
     shortLink: https://webring.page.link/WNNx
+12ddba1a3c632b9ccb885ea8a287a184:facebook:
+  spec:
+    title: สรุปจากการอ่านบทความ How Quora scaled MySQL to 100k+ Queries Per Second ? [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-how-quora-scaled-mysql/
+  state:
+    id: '100746876247412_249055288083721'
+    url: https://www.facebook.com/100683012920950/posts/249055288083721
+12ddba1a3c632b9ccb885ea8a287a184:mastodon:
+  spec:
+    title: สรุปจากการอ่านบทความ How Quora scaled MySQL to 100k+ Queries Per Second ? [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-how-quora-scaled-mysql/
+  state:
+    id: '110926123613645846'
+    url: https://mastodon.in.th/@webring/110926123613645846
+12ddba1a3c632b9ccb885ea8a287a184:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-from-how-quora-scaled-mysql/
+  state:
+    shortLink: https://webring.page.link/3Hab
 145337c4af48548e2997ce44e6aa6546:facebook:
   spec:
     title: จดบันทึกเรื่องของ การเขียน Automated Test [somkiat.cc]
