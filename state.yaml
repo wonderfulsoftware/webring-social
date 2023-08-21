@@ -2145,6 +2145,25 @@
     url: https://mesodiar.com/setting-up-kafka-with-kafka-connect-from-sql-server-to-cloud-storage-gcs-6b980437a926?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/F4RN
+41882112f70186188c25cceecf1c5c3c:facebook:
+  spec:
+    title: How to launch Chrome for Testing [dt.in.th]
+    url: https://notes.dt.in.th/LaunchingChromeForTesting
+  state:
+    id: '100746876247412_248987231423860'
+    url: https://www.facebook.com/100683012920950/posts/248987231423860
+41882112f70186188c25cceecf1c5c3c:mastodon:
+  spec:
+    title: How to launch Chrome for Testing [dt.in.th]
+    url: https://notes.dt.in.th/LaunchingChromeForTesting
+  state:
+    id: '110925405182612336'
+    url: https://mastodon.in.th/@webring/110925405182612336
+41882112f70186188c25cceecf1c5c3c:shorturl:
+  spec:
+    url: https://notes.dt.in.th/LaunchingChromeForTesting
+  state:
+    shortLink: https://webring.page.link/MoSW
 44a91a881d7ed4ed0cb168ecffcab507:facebook:
   spec:
     title: Google Analytics v4 ingestion via BigQuery [karnwong.me]
