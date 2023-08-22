@@ -7572,6 +7572,25 @@ de5a01ad313c46a7ced7e4944b43cd08:shorturl:
     url: https://www.mikkipastel.com/introduction-stable-diffusion-101/
   state:
     shortLink: https://webring.page.link/JpDR
+df26428cab55c1f18af83f3b63409444:facebook:
+  spec:
+    title: การใช้งาน Spring Reactive ร่วมกับ WebClient พร้อมทำ Request, Response Logging [poolsawat.com]
+    url: https://www.poolsawat.com/how-to-configuration-spring-webclient-request-response-logging/
+  state:
+    id: '100746876247412_249615211361062'
+    url: https://www.facebook.com/100683012920950/posts/249615211361062
+df26428cab55c1f18af83f3b63409444:mastodon:
+  spec:
+    title: การใช้งาน Spring Reactive ร่วมกับ WebClient พร้อมทำ Request, Response Logging [poolsawat.com]
+    url: https://www.poolsawat.com/how-to-configuration-spring-webclient-request-response-logging/
+  state:
+    id: '110931783106613779'
+    url: https://mastodon.in.th/@webring/110931783106613779
+df26428cab55c1f18af83f3b63409444:shorturl:
+  spec:
+    url: https://www.poolsawat.com/how-to-configuration-spring-webclient-request-response-logging/
+  state:
+    shortLink: https://webring.page.link/Pcni
 e0f506a10531efb666b4b0eb2de91e2f:facebook:
   spec:
     title: OKLCH Color Scale Plotter [dt.in.th]
