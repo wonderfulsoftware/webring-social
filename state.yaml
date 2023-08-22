@@ -1366,6 +1366,25 @@
     url: https://notes.dt.in.th/Morse
   state:
     shortLink: https://webring.page.link/rZdN
+2c4c8305226914c35d28c3d98e393df2:facebook:
+  spec:
+    title: สรุปการใช้งาน Structured Log ของ Go กัน [somkiat.cc]
+    url: https://www.somkiat.cc/go-with-slog/
+  state:
+    id: '100746876247412_249544328034817'
+    url: https://www.facebook.com/100683012920950/posts/249544328034817
+2c4c8305226914c35d28c3d98e393df2:mastodon:
+  spec:
+    title: สรุปการใช้งาน Structured Log ของ Go กัน [somkiat.cc]
+    url: https://www.somkiat.cc/go-with-slog/
+  state:
+    id: '110931067259295213'
+    url: https://mastodon.in.th/@webring/110931067259295213
+2c4c8305226914c35d28c3d98e393df2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/go-with-slog/
+  state:
+    shortLink: https://webring.page.link/4VZF
 2cb8f6c4ae3b8766ca11cad56867976b:facebook:
   spec:
     title: SEO คืออะไร ? และจะทำ SEO ได้อย่างไร [taoisaman.com]
