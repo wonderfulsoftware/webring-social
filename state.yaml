@@ -8237,6 +8237,25 @@ f13b09c1a35a790628c25ea8d312742c:shorturl:
     url: https://mesodiar.com/what-is-apache-iceberg-iceberg-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B8%97%E0%B8%B3%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%87-19e5ba6edcae?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/miVq
+f156f4cc6c4bfd9b8b3d21edbd21263d:facebook:
+  spec:
+    title: Getting a long-lived access token for a Facebook page [dt.in.th]
+    url: https://notes.dt.in.th/FacebookPageLongLivedAccessToken
+  state:
+    id: '100746876247412_250103031312280'
+    url: https://www.facebook.com/100683012920950/posts/250103031312280
+f156f4cc6c4bfd9b8b3d21edbd21263d:mastodon:
+  spec:
+    title: Getting a long-lived access token for a Facebook page [dt.in.th]
+    url: https://notes.dt.in.th/FacebookPageLongLivedAccessToken
+  state:
+    id: '110936729759201671'
+    url: https://mastodon.in.th/@webring/110936729759201671
+f156f4cc6c4bfd9b8b3d21edbd21263d:shorturl:
+  spec:
+    url: https://notes.dt.in.th/FacebookPageLongLivedAccessToken
+  state:
+    shortLink: https://webring.page.link/uha4
 f20083070e84071ac58c3eefa3bce0fe:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 1 (System Thinking) [taoisaman.com]
