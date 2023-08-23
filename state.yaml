@@ -2373,6 +2373,25 @@
     url: https://toupawa.com/how-to-use-the-interactively-manage-your-nodejs-versions-library/
   state:
     shortLink: https://webring.page.link/akbp
+4a8e1f5a13736045ed051f0e23303230:facebook:
+  spec:
+    title: เปิดประสบการณ์ใหม่ กับงานเทคในโรงหนัง กับ Google IO Extended 2023 [mikkipastel.com]
+    url: https://www.mikkipastel.com/google-io-extended-2023/
+  state:
+    id: '100746876247412_250249554630961'
+    url: https://www.facebook.com/100683012920950/posts/250249554630961
+4a8e1f5a13736045ed051f0e23303230:mastodon:
+  spec:
+    title: เปิดประสบการณ์ใหม่ กับงานเทคในโรงหนัง กับ Google IO Extended 2023 [mikkipastel.com]
+    url: https://www.mikkipastel.com/google-io-extended-2023/
+  state:
+    id: '110938143753953780'
+    url: https://mastodon.in.th/@webring/110938143753953780
+4a8e1f5a13736045ed051f0e23303230:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/google-io-extended-2023/
+  state:
+    shortLink: https://webring.page.link/h1NH
 4b07b4990059066df6cf4d6f52f1c604:facebook:
   spec:
     title: แชร์วิธีการเทส deeplink สำหรับ Android Developer [mikkipastel.com]
