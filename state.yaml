@@ -4387,6 +4387,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-design-and-implement-a-release-strategy/
   state:
     shortLink: https://webring.page.link/AGse
+7be05bfb4c8518000d8160fb462cd2b5:facebook:
+  spec:
+    title: ทาง GitHub บังคับให้ต้องใช้งาน Two-factor authentication (2FA) ก่อนสิ้นปี 2023 [somkiat.cc]
+    url: https://www.somkiat.cc/github-two-factor-authentication/
+  state:
+    id: '100746876247412_250671067922143'
+    url: https://www.facebook.com/100683012920950/posts/250671067922143
+7be05bfb4c8518000d8160fb462cd2b5:mastodon:
+  spec:
+    title: ทาง GitHub บังคับให้ต้องใช้งาน Two-factor authentication (2FA) ก่อนสิ้นปี 2023 [somkiat.cc]
+    url: https://www.somkiat.cc/github-two-factor-authentication/
+  state:
+    id: '110942392211386704'
+    url: https://mastodon.in.th/@webring/110942392211386704
+7be05bfb4c8518000d8160fb462cd2b5:shorturl:
+  spec:
+    url: https://www.somkiat.cc/github-two-factor-authentication/
+  state:
+    shortLink: https://webring.page.link/Beva
 7bee0296ac4dca7d277cff504e0fc797:facebook:
   spec:
     title: สรุปการแบ่งปันเรื่อง API-First development (Design-First) [somkiat.cc]
