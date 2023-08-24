@@ -7420,6 +7420,25 @@ d6a35221f6cfb34ebfb9500385db369c:shorturl:
     url: https://notes.dt.in.th/20230321T132222Z8523
   state:
     shortLink: https://webring.page.link/mK2W
+d6bae60a5f48c31eeae767affbecd98b:facebook:
+  spec:
+    title: บันทึกหลังดู Live QA Meetup @LSEG [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/08/qa-meetup-at-lseg-note/
+  state:
+    id: '100746876247412_250737417915508'
+    url: https://www.facebook.com/100683012920950/posts/250737417915508
+d6bae60a5f48c31eeae767affbecd98b:mastodon:
+  spec:
+    title: บันทึกหลังดู Live QA Meetup @LSEG [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/08/qa-meetup-at-lseg-note/
+  state:
+    id: '110943107882884271'
+    url: https://mastodon.in.th/@webring/110943107882884271
+d6bae60a5f48c31eeae767affbecd98b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/08/qa-meetup-at-lseg-note/
+  state:
+    shortLink: https://webring.page.link/27jV
 d70dfad0a66593f28662eb0eea706a43:facebook:
   spec:
     title: ความเร็วแบบ polylog [neizod.dev]
