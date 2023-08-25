@@ -1157,6 +1157,25 @@
     url: https://www.somkiat.cc/dotnet-with-native-aot/
   state:
     shortLink: https://webring.page.link/Qp7t
+2654928716a31b458090d1ae8e45e7ed:facebook:
+  spec:
+    title: รีวิวงาน Bitcoin Addict Meetup 2023 ที่เมืองมังกรกัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/bitcoin-addict-meetup-2023/
+  state:
+    id: '100746876247412_251304011192182'
+    url: https://www.facebook.com/100683012920950/posts/251304011192182
+2654928716a31b458090d1ae8e45e7ed:mastodon:
+  spec:
+    title: รีวิวงาน Bitcoin Addict Meetup 2023 ที่เมืองมังกรกัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/bitcoin-addict-meetup-2023/
+  state:
+    id: '110948770520349169'
+    url: https://mastodon.in.th/@webring/110948770520349169
+2654928716a31b458090d1ae8e45e7ed:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/bitcoin-addict-meetup-2023/
+  state:
+    shortLink: https://webring.page.link/i62f
 2709bac1ed9e04cf0749bbf01e1048cf:facebook:
   spec:
     title: 'PoC :: ลองจัดการรูปแบบข้อมูลชนิด Floating-point [somkiat.cc]'
