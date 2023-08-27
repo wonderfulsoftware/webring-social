@@ -3760,6 +3760,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/cr-starbucks-lychee-rose-mixed-with-pomegranate-juice/
   state:
     shortLink: https://webring.page.link/Hg5r
+6c8b2768ba42e99bf0aecb8053e009eb:facebook:
+  spec:
+    title: Illustration - 2023のゆきみさん ❄ [lucian.solutions]
+    url: https://lucian.solutions/blog/yukimi-satsuki-2023
+  state:
+    id: '100746876247412_252559954399921'
+    url: https://www.facebook.com/100683012920950/posts/252559954399921
+6c8b2768ba42e99bf0aecb8053e009eb:mastodon:
+  spec:
+    title: Illustration - 2023のゆきみさん ❄ [lucian.solutions]
+    url: https://lucian.solutions/blog/yukimi-satsuki-2023
+  state:
+    id: '110960788135890582'
+    url: https://mastodon.in.th/@webring/110960788135890582
+6c8b2768ba42e99bf0aecb8053e009eb:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/yukimi-satsuki-2023
+  state:
+    shortLink: https://webring.page.link/avyL
 6cc15445234f9602e6eb761b26611894:facebook:
   spec:
     title: Year in Review 2022 [wp.curve.in.th]
