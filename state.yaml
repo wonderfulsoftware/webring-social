@@ -4995,6 +4995,25 @@
     url: https://heyfirst.co/blog/micro-dollar
   state:
     shortLink: https://webring.page.link/hL6F
+8babbbc0b10abcb53c2b5cd0fabd36ae:facebook:
+  spec:
+    title: 'A Networking God Tale: All I Want is to Run a Speedtest Behind a Firewall [karnwong.me]'
+    url: https://www.karnwong.me/posts/2023/08/a-networking-god-tale--all-i-want-is-to-run-a-speedtest-behind-a-firewall/
+  state:
+    id: '100746876247412_253075714348345'
+    url: https://www.facebook.com/100683012920950/posts/253075714348345
+8babbbc0b10abcb53c2b5cd0fabd36ae:mastodon:
+  spec:
+    title: 'A Networking God Tale: All I Want is to Run a Speedtest Behind a Firewall [karnwong.me]'
+    url: https://www.karnwong.me/posts/2023/08/a-networking-god-tale--all-i-want-is-to-run-a-speedtest-behind-a-firewall/
+  state:
+    id: '110965759902843121'
+    url: https://mastodon.in.th/@webring/110965759902843121
+8babbbc0b10abcb53c2b5cd0fabd36ae:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/08/a-networking-god-tale--all-i-want-is-to-run-a-speedtest-behind-a-firewall/
+  state:
+    shortLink: https://webring.page.link/UkAV
 8bd65c49226cdc3883ce30123d73038e:facebook:
   spec:
     title: เมื่อ DEV ลองไป Workshop Azure monitoring, security and compliance [debuggingsoft.com]
