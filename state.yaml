@@ -530,6 +530,25 @@
     url: https://www.somkiat.cc/hello-vercel-storage/
   state:
     shortLink: https://webring.page.link/WNNx
+12ccc66a880a6822e0971d69e8211d41:facebook:
+  spec:
+    title: Mermaid [jitrak.dev]
+    url: https://jitrak.dev/posts/post-18-mermaid/
+  state:
+    id: '100746876247412_253227287666521'
+    url: https://www.facebook.com/100683012920950/posts/253227287666521
+12ccc66a880a6822e0971d69e8211d41:mastodon:
+  spec:
+    title: Mermaid [jitrak.dev]
+    url: https://jitrak.dev/posts/post-18-mermaid/
+  state:
+    id: '110967195765971737'
+    url: https://mastodon.in.th/@webring/110967195765971737
+12ccc66a880a6822e0971d69e8211d41:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-18-mermaid/
+  state:
+    shortLink: https://webring.page.link/hrRC
 12ddba1a3c632b9ccb885ea8a287a184:facebook:
   spec:
     title: สรุปจากการอ่านบทความ How Quora scaled MySQL to 100k+ Queries Per Second ? [somkiat.cc]
