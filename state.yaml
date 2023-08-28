@@ -1119,6 +1119,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/nuget-error-nu1101-warning-nu1801-build-via-jenkins-windows-service/
   state:
     shortLink: https://webring.page.link/Zi9G
+245a1a179712fe246423c166c20f1568:facebook:
+  spec:
+    title: Spring Modulith 1.0 GA ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/spring-modulith-1-ga/
+  state:
+    id: '100746876247412_253147977674452'
+    url: https://www.facebook.com/100683012920950/posts/253147977674452
+245a1a179712fe246423c166c20f1568:mastodon:
+  spec:
+    title: Spring Modulith 1.0 GA ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/spring-modulith-1-ga/
+  state:
+    id: '110966456930589497'
+    url: https://mastodon.in.th/@webring/110966456930589497
+245a1a179712fe246423c166c20f1568:shorturl:
+  spec:
+    url: https://www.somkiat.cc/spring-modulith-1-ga/
+  state:
+    shortLink: https://webring.page.link/sXEd
 258dd02be79326fe72db78b3e7a8eb53:facebook:
   spec:
     title: Conditional types ใน TypeScript [thiti.dev]
