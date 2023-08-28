@@ -8800,6 +8800,25 @@ f9b8af3565b0c92ec88fc0adf128e0e5:shorturl:
     url: https://garden.narze.live/glob-import-modules-with-vite/
   state:
     shortLink: https://webring.page.link/vwKX
+fb3e62dd48c32791c83984c91eb98dc3:facebook:
+  spec:
+    title: สรุปงาน Azure Develop Day 2023 @SEVEN PEAKS [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/08/azure-develop-day-2023/
+  state:
+    id: '100746876247412_253003824355534'
+    url: https://www.facebook.com/100683012920950/posts/253003824355534
+fb3e62dd48c32791c83984c91eb98dc3:mastodon:
+  spec:
+    title: สรุปงาน Azure Develop Day 2023 @SEVEN PEAKS [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/08/azure-develop-day-2023/
+  state:
+    id: '110965041922758265'
+    url: https://mastodon.in.th/@webring/110965041922758265
+fb3e62dd48c32791c83984c91eb98dc3:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/08/azure-develop-day-2023/
+  state:
+    shortLink: https://webring.page.link/NRCc
 fb59631bc212db49aa6b847609fff173:facebook:
   spec:
     title: Separate critical CSS and non-critical CSS for faster page load [ntsd.dev]
