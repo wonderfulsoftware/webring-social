@@ -606,6 +606,25 @@
     url: https://www.somkiat.cc/bangkok-elastic-meetup-2023/
   state:
     shortLink: https://webring.page.link/s9HX
+14c882fd3f005232715e70cd237e0c9f:facebook:
+  spec:
+    title: 0258 | EV FAQ [icez.net]
+    url: https://www.icez.net/blog/167533/0258-ev-faq
+  state:
+    id: '100746876247412_253654654290451'
+    url: https://www.facebook.com/100683012920950/posts/253654654290451
+14c882fd3f005232715e70cd237e0c9f:mastodon:
+  spec:
+    title: 0258 | EV FAQ [icez.net]
+    url: https://www.icez.net/blog/167533/0258-ev-faq
+  state:
+    id: '110971421682321501'
+    url: https://mastodon.in.th/@webring/110971421682321501
+14c882fd3f005232715e70cd237e0c9f:shorturl:
+  spec:
+    url: https://www.icez.net/blog/167533/0258-ev-faq
+  state:
+    shortLink: https://webring.page.link/oUMT
 1500f6b8f9e81edc4b4044c8bad5edf3:facebook:
   spec:
     title: สวัสดี Hono [somkiat.cc]
