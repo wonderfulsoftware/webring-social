@@ -4691,6 +4691,25 @@
     url: https://www.somkiat.cc/mocking-api-server-with-miragejs/
   state:
     shortLink: https://webring.page.link/qq4Y
+80b1b0297849e166ecf8d913e0dbe055:facebook:
+  spec:
+    title: Git reset only unstaged changes [garden.narze.live]
+    url: https://garden.narze.live/git-reset-only-unstaged-changes/
+  state:
+    id: '100746876247412_253587814297135'
+    url: https://www.facebook.com/100683012920950/posts/253587814297135
+80b1b0297849e166ecf8d913e0dbe055:mastodon:
+  spec:
+    title: Git reset only unstaged changes [garden.narze.live]
+    url: https://garden.narze.live/git-reset-only-unstaged-changes/
+  state:
+    id: '110970708019709473'
+    url: https://mastodon.in.th/@webring/110970708019709473
+80b1b0297849e166ecf8d913e0dbe055:shorturl:
+  spec:
+    url: https://garden.narze.live/git-reset-only-unstaged-changes/
+  state:
+    shortLink: https://webring.page.link/87dP
 81bec684aff8a5e6d35d1eb7124989d8:facebook:
   spec:
     title: Playwright 1.32 มาพร้อมกับ UI Mode (preview) [somkiat.cc]
