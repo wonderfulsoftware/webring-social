@@ -1081,6 +1081,25 @@
     url: https://www.somkiat.cc/note-the-space-of-developer-productivity/
   state:
     shortLink: https://webring.page.link/mfrg
+1f9eba39f36140208ab59c23a30e6575:facebook:
+  spec:
+    title: สวัสดี Redis 7.2 มี feature ใหม่ ๆ เพียบ [somkiat.cc]
+    url: https://www.somkiat.cc/hello-redis-7-2/
+  state:
+    id: '100746876247412_254144017574848'
+    url: https://www.facebook.com/100683012920950/posts/254144017574848
+1f9eba39f36140208ab59c23a30e6575:mastodon:
+  spec:
+    title: สวัสดี Redis 7.2 มี feature ใหม่ ๆ เพียบ [somkiat.cc]
+    url: https://www.somkiat.cc/hello-redis-7-2/
+  state:
+    id: '110976366343133931'
+    url: https://mastodon.in.th/@webring/110976366343133931
+1f9eba39f36140208ab59c23a30e6575:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-redis-7-2/
+  state:
+    shortLink: https://webring.page.link/z2fW
 204940a951c79034131359b7280d27d8:facebook:
   spec:
     title: '[Container] แก้ปัญหา docker image โต [debuggingsoft.com]'
