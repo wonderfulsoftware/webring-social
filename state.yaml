@@ -7667,6 +7667,25 @@ d70dfad0a66593f28662eb0eea706a43:shorturl:
     url: https://neizod.dev/2023/08/08/polylog-complexity.html
   state:
     shortLink: https://webring.page.link/W8C2
+d88ec1838395c9e02567d69bd73b9f1b:facebook:
+  spec:
+    title: Review การใช้งาน Postman ใน VSCode แบบเร็ว ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/review-postman-in-vscode/
+  state:
+    id: '100746876247412_254749807514269'
+    url: https://www.facebook.com/100683012920950/posts/254749807514269
+d88ec1838395c9e02567d69bd73b9f1b:mastodon:
+  spec:
+    title: Review การใช้งาน Postman ใน VSCode แบบเร็ว ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/review-postman-in-vscode/
+  state:
+    id: '110982028296055061'
+    url: https://mastodon.in.th/@webring/110982028296055061
+d88ec1838395c9e02567d69bd73b9f1b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/review-postman-in-vscode/
+  state:
+    shortLink: https://webring.page.link/kddt
 d8e331caff1bc9bc60a18e5d768ff2c6:facebook:
   spec:
     title: ปัญหา newman กับ localhost [somkiat.cc]
