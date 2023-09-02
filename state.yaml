@@ -606,6 +606,25 @@
     url: https://www.somkiat.cc/bangkok-elastic-meetup-2023/
   state:
     shortLink: https://webring.page.link/s9HX
+1489a6637b7299dddcb3654678f892fb:facebook:
+  spec:
+    title: content stack 2023- ทำ content ต้องใช้เครี่องมืออะไรบ้าง [mikkipastel.com]
+    url: https://www.mikkipastel.com/content-stack-2023/
+  state:
+    id: '100746876247412_255949470727636'
+    url: https://www.facebook.com/100683012920950/posts/255949470727636
+1489a6637b7299dddcb3654678f892fb:mastodon:
+  spec:
+    title: content stack 2023- ทำ content ต้องใช้เครี่องมืออะไรบ้าง [mikkipastel.com]
+    url: https://www.mikkipastel.com/content-stack-2023/
+  state:
+    id: '110993351678473575'
+    url: https://mastodon.in.th/@webring/110993351678473575
+1489a6637b7299dddcb3654678f892fb:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/content-stack-2023/
+  state:
+    shortLink: https://webring.page.link/BuFH
 14c882fd3f005232715e70cd237e0c9f:facebook:
   spec:
     title: 0258 | EV FAQ [icez.net]
