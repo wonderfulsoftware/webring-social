@@ -1081,6 +1081,25 @@
     url: https://www.boonsong.dev/pattern-event-driven-architecture-1
   state:
     shortLink: https://webring.page.link/dhgB
+1e6d5d7ac2671688361333c8235f9e31:facebook:
+  spec:
+    title: เพิ่งเห็น Resource Saver Mode ใน Docker Destop [somkiat.cc]
+    url: https://www.somkiat.cc/resource-saver-mode-in-docker-destop/
+  state:
+    id: '100746876247412_256090597380190'
+    url: https://www.facebook.com/100683012920950/posts/256090597380190
+1e6d5d7ac2671688361333c8235f9e31:mastodon:
+  spec:
+    title: เพิ่งเห็น Resource Saver Mode ใน Docker Destop [somkiat.cc]
+    url: https://www.somkiat.cc/resource-saver-mode-in-docker-destop/
+  state:
+    id: '110994762279484263'
+    url: https://mastodon.in.th/@webring/110994762279484263
+1e6d5d7ac2671688361333c8235f9e31:shorturl:
+  spec:
+    url: https://www.somkiat.cc/resource-saver-mode-in-docker-destop/
+  state:
+    shortLink: https://webring.page.link/bySb
 1f93fdb2aec0a23db2624253e995e8e1:facebook:
   spec:
     title: สรุปจากบทความเรื่อง The SPACE of Developer Productivity [somkiat.cc]
