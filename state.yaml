@@ -5280,6 +5280,25 @@
     url: https://www.somkiat.cc/k6-with-result-output/
   state:
     shortLink: https://webring.page.link/4RBj
+8df86ba058b181b3a251b38aa69721ab:facebook:
+  spec:
+    title: ลบ Line ข้อมูล Chat พวกรูป/วิดีโอ/ไฟล์ เพื่อคืนพื้นที่ให้เครื่อง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/09/reclaim-your-smartphone-space-by-delete-line-chat/
+  state:
+    id: '100746876247412_256018567387393'
+    url: https://www.facebook.com/100683012920950/posts/256018567387393
+8df86ba058b181b3a251b38aa69721ab:mastodon:
+  spec:
+    title: ลบ Line ข้อมูล Chat พวกรูป/วิดีโอ/ไฟล์ เพื่อคืนพื้นที่ให้เครื่อง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/09/reclaim-your-smartphone-space-by-delete-line-chat/
+  state:
+    id: '110994065845449649'
+    url: https://mastodon.in.th/@webring/110994065845449649
+8df86ba058b181b3a251b38aa69721ab:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/09/reclaim-your-smartphone-space-by-delete-line-chat/
+  state:
+    shortLink: https://webring.page.link/gzYP
 8e47d07ca87d7f71510e78ae1787da0d:facebook:
   spec:
     title: 'Review Course: Humanistic Software Architecture [knowlats.dev]'
