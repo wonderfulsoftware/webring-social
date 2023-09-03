@@ -6306,6 +6306,25 @@ aab344661da8a53a3aac248bfedc54d3:shorturl:
     url: https://garden.narze.live/100daysofcode-r3-69-garden-astro-replace-degit-with-octokit/
   state:
     shortLink: https://webring.page.link/5XFi
+ab4df5526e56d1472f72d0ed3efb9755:facebook:
+  spec:
+    title: '[CR] ข้าวหมูย่างเกลือของดีประจำ 711 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/09/cr-%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%94%e0%b8%b5/
+  state:
+    id: '100746876247412_256593340663249'
+    url: https://www.facebook.com/100683012920950/posts/256593340663249
+ab4df5526e56d1472f72d0ed3efb9755:mastodon:
+  spec:
+    title: '[CR] ข้าวหมูย่างเกลือของดีประจำ 711 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/09/cr-%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%94%e0%b8%b5/
+  state:
+    id: '110999729237970774'
+    url: https://mastodon.in.th/@webring/110999729237970774
+ab4df5526e56d1472f72d0ed3efb9755:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/09/cr-%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%94%e0%b8%b5/
+  state:
+    shortLink: https://webring.page.link/FrT7
 ab7279ac3fb2c468cb3702240d9f5fb7:facebook:
   spec:
     title: 'Bkk.js #18 [tech.duckfollow.co]'
