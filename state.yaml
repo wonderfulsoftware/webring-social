@@ -3722,6 +3722,25 @@
     url: https://www.icez.net/blog/167530/local-peering-with-global-content-provider-in-thailand-on-internet-exchange
   state:
     shortLink: https://webring.page.link/PJ1q
+6648a46ba14f5da775e5a22c3719f477:facebook:
+  spec:
+    title: คำถาม fmt.Println() ต่างจาก println() อย่างไร ? [somkiat.cc]
+    url: https://www.somkiat.cc/go-print-vs-fmt-print/
+  state:
+    id: '100746876247412_257087103947206'
+    url: https://www.facebook.com/100683012920950/posts/257087103947206
+6648a46ba14f5da775e5a22c3719f477:mastodon:
+  spec:
+    title: คำถาม fmt.Println() ต่างจาก println() อย่างไร ? [somkiat.cc]
+    url: https://www.somkiat.cc/go-print-vs-fmt-print/
+  state:
+    id: '111004677492227005'
+    url: https://mastodon.in.th/@webring/111004677492227005
+6648a46ba14f5da775e5a22c3719f477:shorturl:
+  spec:
+    url: https://www.somkiat.cc/go-print-vs-fmt-print/
+  state:
+    shortLink: https://webring.page.link/3QSS
 667f6c455933e98472d5bc55ee2d5e0c:facebook:
   spec:
     title: SecretOps with teller [karnwong.me]
