@@ -2449,6 +2449,25 @@
     url: https://garden.narze.live/100daysofcode-r3-81-garden-astro-update-front-page/
   state:
     shortLink: https://webring.page.link/YunS
+46e38f60b88fd0da16c41ab42f4b0dfc:facebook:
+  spec:
+    title: เพิ่ม Performance ให้หน้าเว็บโหลดเร็วด้วย Partytown [anuwong.com]
+    url: https://www.anuwong.com/blog/increase-page-speed-with-partytown/
+  state:
+    id: '100746876247412_257870320535551'
+    url: https://www.facebook.com/100683012920950/posts/257870320535551
+46e38f60b88fd0da16c41ab42f4b0dfc:mastodon:
+  spec:
+    title: เพิ่ม Performance ให้หน้าเว็บโหลดเร็วด้วย Partytown [anuwong.com]
+    url: https://www.anuwong.com/blog/increase-page-speed-with-partytown/
+  state:
+    id: '111012492072031807'
+    url: https://mastodon.in.th/@webring/111012492072031807
+46e38f60b88fd0da16c41ab42f4b0dfc:shorturl:
+  spec:
+    url: https://www.anuwong.com/blog/increase-page-speed-with-partytown/
+  state:
+    shortLink: https://webring.page.link/1E32
 4748dbb3467b1eed6a45a67064284e03:facebook:
   spec:
     title: สรุปเรื่องที่เข้าฟังในงาน Agile Thailand 2023 ช่วงเช้านิดหน่อย [somkiat.cc]
