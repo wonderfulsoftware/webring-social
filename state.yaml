@@ -6774,6 +6774,25 @@ baf704b0b87e964fb3c3e8c00cd27876:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-implement-a-secure-continuous-deployment-using-azure-pipelines/
   state:
     shortLink: https://webring.page.link/CCfC
+bb4e0d7afc761421e60fc3f8fca60214:facebook:
+  spec:
+    title: เมื่ออยากมี Tools ส่วนตัวใช้ในชีวิตประจำวันผ่าน LINE [janescience.com]
+    url: https://janescience.com/blog/personal-tool-line
+  state:
+    id: '100746876247412_257715390551044'
+    url: https://www.facebook.com/100683012920950/posts/257715390551044
+bb4e0d7afc761421e60fc3f8fca60214:mastodon:
+  spec:
+    title: เมื่ออยากมี Tools ส่วนตัวใช้ในชีวิตประจำวันผ่าน LINE [janescience.com]
+    url: https://janescience.com/blog/personal-tool-line
+  state:
+    id: '111011057472600032'
+    url: https://mastodon.in.th/@webring/111011057472600032
+bb4e0d7afc761421e60fc3f8fca60214:shorturl:
+  spec:
+    url: https://janescience.com/blog/personal-tool-line
+  state:
+    shortLink: https://webring.page.link/rM9b
 bb758d935884c1fe7250341f8ac048f2:facebook:
   spec:
     title: Relative Path Note [debuggingsoft.com]
