@@ -4805,6 +4805,25 @@
     url: https://www.somkiat.cc/mocking-api-server-with-miragejs/
   state:
     shortLink: https://webring.page.link/qq4Y
+80982e4f445113b743523b0eb0d7368f:facebook:
+  spec:
+    title: มาเรียนรู้ NFT บน Internet Computer Protocol กัน กับงาน ICP World NFT [mikkipastel.com]
+    url: https://www.mikkipastel.com/icp_world_nft_gm_club/
+  state:
+    id: '100746876247412_257783323877584'
+    url: https://www.facebook.com/100683012920950/posts/257783323877584
+80982e4f445113b743523b0eb0d7368f:mastodon:
+  spec:
+    title: มาเรียนรู้ NFT บน Internet Computer Protocol กัน กับงาน ICP World NFT [mikkipastel.com]
+    url: https://www.mikkipastel.com/icp_world_nft_gm_club/
+  state:
+    id: '111011758162010480'
+    url: https://mastodon.in.th/@webring/111011758162010480
+80982e4f445113b743523b0eb0d7368f:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/icp_world_nft_gm_club/
+  state:
+    shortLink: https://webring.page.link/LhK5
 80b1b0297849e166ecf8d913e0dbe055:facebook:
   spec:
     title: Git reset only unstaged changes [garden.narze.live]
