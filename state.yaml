@@ -3304,6 +3304,25 @@
     url: https://www.mikkipastel.com/create-blog-maskdown-without-cms-by-glitch/
   state:
     shortLink: https://webring.page.link/n476
+5dee2b53afe71923dd5e6d5eb3cb8c39:facebook:
+  spec:
+    title: หาไฟล์และโฟลเดอร์แบบโคตรแรงด้วย fd ⚡️ [anuwong.com]
+    url: https://www.anuwong.com/blog/how-to-find-files-with-fd/
+  state:
+    id: '100746876247412_258245513831365'
+    url: https://www.facebook.com/100683012920950/posts/258245513831365
+5dee2b53afe71923dd5e6d5eb3cb8c39:mastodon:
+  spec:
+    title: หาไฟล์และโฟลเดอร์แบบโคตรแรงด้วย fd ⚡️ [anuwong.com]
+    url: https://www.anuwong.com/blog/how-to-find-files-with-fd/
+  state:
+    id: '111016001884755436'
+    url: https://mastodon.in.th/@webring/111016001884755436
+5dee2b53afe71923dd5e6d5eb3cb8c39:shorturl:
+  spec:
+    url: https://www.anuwong.com/blog/how-to-find-files-with-fd/
+  state:
+    shortLink: https://webring.page.link/n9x7
 5f3599f0d48dfb9110b4bafdfdd9f32e:facebook:
   spec:
     title: วันในสัปดาห์ [neizod.dev]
