@@ -3513,6 +3513,25 @@
     url: https://www.somkiat.cc/what-zero-etl/
   state:
     shortLink: https://webring.page.link/vzkr
+60ae45446e40e35760f115ba436e5419:facebook:
+  spec:
+    title: สร้างแอป Android รับข้อมูลจากการแจ้งเตือน [janescience.com]
+    url: https://janescience.com/blog/android-trigger-notification
+  state:
+    id: '100746876247412_258834687105781'
+    url: https://www.facebook.com/100683012920950/posts/258834687105781
+60ae45446e40e35760f115ba436e5419:mastodon:
+  spec:
+    title: สร้างแอป Android รับข้อมูลจากการแจ้งเตือน [janescience.com]
+    url: https://janescience.com/blog/android-trigger-notification
+  state:
+    id: '111021664903228065'
+    url: https://mastodon.in.th/@webring/111021664903228065
+60ae45446e40e35760f115ba436e5419:shorturl:
+  spec:
+    url: https://janescience.com/blog/android-trigger-notification
+  state:
+    shortLink: https://webring.page.link/Qyvz
 6246e695e01f50a8bb3312b54045c8af:facebook:
   spec:
     title: สร้าง Web Application ด้วย Vite + React และ TypeScript [toupawa.com]
