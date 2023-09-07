@@ -3494,6 +3494,25 @@
     url: https://www.somkiat.cc/note-architecture-journey-from-twitch/
   state:
     shortLink: https://webring.page.link/bHN6
+6088778003c1d3e9a4eee2bf67276987:facebook:
+  spec:
+    title: How to show hidden files in WinSCP [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/09/how-to-show-hidden-files-in-winscp/
+  state:
+    id: '100746876247412_258904513765465'
+    url: https://www.facebook.com/100683012920950/posts/258904513765465
+6088778003c1d3e9a4eee2bf67276987:mastodon:
+  spec:
+    title: How to show hidden files in WinSCP [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/09/how-to-show-hidden-files-in-winscp/
+  state:
+    id: '111022381833845858'
+    url: https://mastodon.in.th/@webring/111022381833845858
+6088778003c1d3e9a4eee2bf67276987:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/09/how-to-show-hidden-files-in-winscp/
+  state:
+    shortLink: https://webring.page.link/ZaHH
 6093ef23fc852e94bd4da1ca3d3ef91c:facebook:
   spec:
     title: Zero-ETL คืออะไร [somkiat.cc]
