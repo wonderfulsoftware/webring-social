@@ -131,6 +131,25 @@
     url: https://tech.duckfollow.co/view/duck-x-firebasedevday2023
   state:
     shortLink: https://webring.page.link/hU2G
+0562a6cb16bb3ea71137c4f5045e6cbc:facebook:
+  spec:
+    title: ทำเข้าใจง่ายดี Go 1.21 All You Need to Know [somkiat.cc]
+    url: https://www.somkiat.cc/go-1-21-all-you-need-to-know/
+  state:
+    id: '100746876247412_259528693703047'
+    url: https://www.facebook.com/100683012920950/posts/259528693703047
+0562a6cb16bb3ea71137c4f5045e6cbc:mastodon:
+  spec:
+    title: ทำเข้าใจง่ายดี Go 1.21 All You Need to Know [somkiat.cc]
+    url: https://www.somkiat.cc/go-1-21-all-you-need-to-know/
+  state:
+    id: '111028044862429250'
+    url: https://mastodon.in.th/@webring/111028044862429250
+0562a6cb16bb3ea71137c4f5045e6cbc:shorturl:
+  spec:
+    url: https://www.somkiat.cc/go-1-21-all-you-need-to-know/
+  state:
+    shortLink: https://webring.page.link/yT5e
 07b570f18a69ca2e2f65c8de4ce9c07f:facebook:
   spec:
     title: dotnet start webapi error failed to load the dll hostfxr.dll or api-ms-win-crt-runtime-l1-1-0.dll is missing from your computer [debuggingsoft.com]
