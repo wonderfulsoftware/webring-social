@@ -4653,6 +4653,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/vscode-day-th/
   state:
     shortLink: https://webring.page.link/9Zcz
+7a4a33dc3dff526ab328ec215cc18959:facebook:
+  spec:
+    title: Winget [jitrak.dev]
+    url: https://jitrak.dev/posts/post-19-winget/
+  state:
+    id: '100746876247412_259458600376723'
+    url: https://www.facebook.com/100683012920950/posts/259458600376723
+7a4a33dc3dff526ab328ec215cc18959:mastodon:
+  spec:
+    title: Winget [jitrak.dev]
+    url: https://jitrak.dev/posts/post-19-winget/
+  state:
+    id: '111027326416579063'
+    url: https://mastodon.in.th/@webring/111027326416579063
+7a4a33dc3dff526ab328ec215cc18959:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-19-winget/
+  state:
+    shortLink: https://webring.page.link/pY9Q
 7a61d125d31a83687d9b20aaa4acb3d2:facebook:
   spec:
     title: ตัวอย่าง Github Action สำหรับ Push Docker image ไปที่ Github Package (Kotlin + Spring) [taoisaman.com]
