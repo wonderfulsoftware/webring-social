@@ -321,6 +321,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/cr-starbucks-milk-pudding/
   state:
     shortLink: https://webring.page.link/sBWC
+0cbda8cf028fdba0f3a493c2ec41b5c5:facebook:
+  spec:
+    title: Moving data from one PostgreSQL database to another [dt.in.th]
+    url: https://notes.dt.in.th/PostgresMigrate
+  state:
+    id: '100746876247412_260043943651522'
+    url: https://www.facebook.com/100683012920950/posts/260043943651522
+0cbda8cf028fdba0f3a493c2ec41b5c5:mastodon:
+  spec:
+    title: Moving data from one PostgreSQL database to another [dt.in.th]
+    url: https://notes.dt.in.th/PostgresMigrate
+  state:
+    id: '111032987681885665'
+    url: https://mastodon.in.th/@webring/111032987681885665
+0cbda8cf028fdba0f3a493c2ec41b5c5:shorturl:
+  spec:
+    url: https://notes.dt.in.th/PostgresMigrate
+  state:
+    shortLink: https://webring.page.link/WJRD
 0cdb03c8f1254d1d1234102ef34f2e95:facebook:
   spec:
     title: เมื่อพยายามจะ Migrate Data จาก MongoDB (DocumentDB) ไปยัง On-Premise MongoDB โดยบังคับต้องมี Condition ในการ Migrate [kusumotolab.com]
