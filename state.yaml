@@ -530,6 +530,25 @@
     url: https://mesodiar.com/tutorial-setting-up-budget-alert-in-gcp-english-ver-f134bf21da92?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/FCna
+11ca6f63b70af5dd3b88182821293e2e:facebook:
+  spec:
+    title: เพิ่งเห็นว่า Mojo เป็นให้ Download แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/mojo-locally/
+  state:
+    id: '100746876247412_260195896969660'
+    url: https://www.facebook.com/100683012920950/posts/260195896969660
+11ca6f63b70af5dd3b88182821293e2e:mastodon:
+  spec:
+    title: เพิ่งเห็นว่า Mojo เป็นให้ Download แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/mojo-locally/
+  state:
+    id: '111034398454860155'
+    url: https://mastodon.in.th/@webring/111034398454860155
+11ca6f63b70af5dd3b88182821293e2e:shorturl:
+  spec:
+    url: https://www.somkiat.cc/mojo-locally/
+  state:
+    shortLink: https://webring.page.link/J5KL
 11d48c2e9ea5837e557f464265e68160:facebook:
   spec:
     title: '[CR] Starbucks-Skinny Banana Muffin [debuggingsoft.com]'
