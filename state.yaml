@@ -6945,6 +6945,25 @@ ba901617c7039c005602d1873810da5f:shorturl:
     url: https://garden.narze.live/Brag/2023/
   state:
     shortLink: https://webring.page.link/bCMD
+baf1cba73bc55b67215298059cbe5fc9:facebook:
+  spec:
+    title: หัดเขียน iOS App ด้วย SwiftUI ตอนที่ 1 [anuwong.com]
+    url: https://www.anuwong.com/blog/swiftui-101/
+  state:
+    id: '100746876247412_260295603626356'
+    url: https://www.facebook.com/100683012920950/posts/260295603626356
+baf1cba73bc55b67215298059cbe5fc9:mastodon:
+  spec:
+    title: หัดเขียน iOS App ด้วย SwiftUI ตอนที่ 1 [anuwong.com]
+    url: https://www.anuwong.com/blog/swiftui-101/
+  state:
+    id: '111035132334639834'
+    url: https://mastodon.in.th/@webring/111035132334639834
+baf1cba73bc55b67215298059cbe5fc9:shorturl:
+  spec:
+    url: https://www.anuwong.com/blog/swiftui-101/
+  state:
+    shortLink: https://webring.page.link/CdXV
 baf704b0b87e964fb3c3e8c00cd27876:facebook:
   spec:
     title: '[AZ-400] Implement a secure continuous deployment using Azure Pipelines [debuggingsoft.com]'
