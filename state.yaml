@@ -8693,6 +8693,25 @@ eb0790c64e191757d86fea5fd81b597a:shorturl:
     url: https://janescience.com/blog/csrf-spring-security
   state:
     shortLink: https://webring.page.link/BJsn
+eb090d348a1401b932c60cd629469cbe:facebook:
+  spec:
+    title: 'OpenSSH: Set ChrootDirectory for specific user on windows [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/09/openssh-set-chrootdirectory-for-specific-user-on-windows/
+  state:
+    id: '100746876247412_260123693643547'
+    url: https://www.facebook.com/100683012920950/posts/260123693643547
+eb090d348a1401b932c60cd629469cbe:mastodon:
+  spec:
+    title: 'OpenSSH: Set ChrootDirectory for specific user on windows [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/09/openssh-set-chrootdirectory-for-specific-user-on-windows/
+  state:
+    id: '111033701883683445'
+    url: https://mastodon.in.th/@webring/111033701883683445
+eb090d348a1401b932c60cd629469cbe:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/09/openssh-set-chrootdirectory-for-specific-user-on-windows/
+  state:
+    shortLink: https://webring.page.link/Yxv3
 eb5e4a06a6444396d5198023c5e650dc:facebook:
   spec:
     title: สอนแคปจอบน macbook แบบจับมือทำ [mikkipastel.com]
