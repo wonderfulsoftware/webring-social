@@ -9092,6 +9092,25 @@ f40fc96c5154db25f74916355973cbed:shorturl:
     url: https://www.somkiat.cc/hello-chrome-for-testing/
   state:
     shortLink: https://webring.page.link/wt7k
+f4a9daa208c333c61a97a0457c8e8137:facebook:
+  spec:
+    title: 'VSCode :: ใช้งาน Built-in port forwarding [somkiat.cc]'
+    url: https://www.somkiat.cc/vscode-built-in-port-forwarding/
+  state:
+    id: '100746876247412_260841923571724'
+    url: https://www.facebook.com/100683012920950/posts/260841923571724
+f4a9daa208c333c61a97a0457c8e8137:mastodon:
+  spec:
+    title: 'VSCode :: ใช้งาน Built-in port forwarding [somkiat.cc]'
+    url: https://www.somkiat.cc/vscode-built-in-port-forwarding/
+  state:
+    id: '111040062500036941'
+    url: https://mastodon.in.th/@webring/111040062500036941
+f4a9daa208c333c61a97a0457c8e8137:shorturl:
+  spec:
+    url: https://www.somkiat.cc/vscode-built-in-port-forwarding/
+  state:
+    shortLink: https://webring.page.link/MtNj
 f52e6cc105cd38ba08ddb80ada7f1b01:facebook:
   spec:
     title: Riffy's adventure to Northern Japan and choked along the way [rayriffy.com]
