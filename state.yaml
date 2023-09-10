@@ -4045,6 +4045,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/cr-starbucks-lychee-rose-mixed-with-pomegranate-juice/
   state:
     shortLink: https://webring.page.link/Hg5r
+6bb174c5e8118ec8fb34cdb4fddd8a3e:facebook:
+  spec:
+    title: Data Engineering Resources [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/09/data-engineering-resources/
+  state:
+    id: '100746876247412_260766026912647'
+    url: https://www.facebook.com/100683012920950/posts/260766026912647
+6bb174c5e8118ec8fb34cdb4fddd8a3e:mastodon:
+  spec:
+    title: Data Engineering Resources [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/09/data-engineering-resources/
+  state:
+    id: '111039364374390854'
+    url: https://mastodon.in.th/@webring/111039364374390854
+6bb174c5e8118ec8fb34cdb4fddd8a3e:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/09/data-engineering-resources/
+  state:
+    shortLink: https://webring.page.link/H21p
 6c8b2768ba42e99bf0aecb8053e009eb:facebook:
   spec:
     title: Illustration - 2023のゆきみさん ❄ [lucian.solutions]
