@@ -4406,6 +4406,25 @@
     url: https://tech.duckfollow.co/view/credit-card
   state:
     shortLink: https://webring.page.link/KBGB
+72768184c51657927356c238e101729e:facebook:
+  spec:
+    title: How to retag a Docker image on a remote registry without pulling the image to local machine [dt.in.th]
+    url: https://notes.dt.in.th/DockerRetagImage
+  state:
+    id: '100746876247412_260678633588053'
+    url: https://www.facebook.com/100683012920950/posts/260678633588053
+72768184c51657927356c238e101729e:mastodon:
+  spec:
+    title: How to retag a Docker image on a remote registry without pulling the image to local machine [dt.in.th]
+    url: https://notes.dt.in.th/DockerRetagImage
+  state:
+    id: '111038649766472960'
+    url: https://mastodon.in.th/@webring/111038649766472960
+72768184c51657927356c238e101729e:shorturl:
+  spec:
+    url: https://notes.dt.in.th/DockerRetagImage
+  state:
+    shortLink: https://webring.page.link/bSpD
 7323903c80c8d85a2914c258cb1d46c5:facebook:
   spec:
     title: โกยซีหมี่ ตลาดวงเวียนใหญ่ [debuggingsoft.com]
