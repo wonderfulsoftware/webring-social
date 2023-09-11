@@ -5375,6 +5375,25 @@
     url: https://blog.kpping.me/posts/tp-link-mr-600/
   state:
     shortLink: https://webring.page.link/8etY
+8a4c7719f577f1af3b188aa8c289cba8:facebook:
+  spec:
+    title: A URL to a blank file on IPFS [dt.in.th]
+    url: https://notes.dt.in.th/IpfsBlankFileUrl
+  state:
+    id: '100746876247412_261292386860011'
+    url: https://www.facebook.com/100683012920950/posts/261292386860011
+8a4c7719f577f1af3b188aa8c289cba8:mastodon:
+  spec:
+    title: A URL to a blank file on IPFS [dt.in.th]
+    url: https://notes.dt.in.th/IpfsBlankFileUrl
+  state:
+    id: '111044314440756529'
+    url: https://mastodon.in.th/@webring/111044314440756529
+8a4c7719f577f1af3b188aa8c289cba8:shorturl:
+  spec:
+    url: https://notes.dt.in.th/IpfsBlankFileUrl
+  state:
+    shortLink: https://webring.page.link/TXYo
 8b0b4d57c6becd229669be95a30ae031:facebook:
   spec:
     title: 'micro-dollar: a way to deals with decimal numbers or monetary values [heyfirst.co]'
