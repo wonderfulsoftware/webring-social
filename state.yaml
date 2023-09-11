@@ -853,6 +853,25 @@
     url: https://www.mikkipastel.com/web-3-0-the-future-of-decentralization/
   state:
     shortLink: https://webring.page.link/5oFr
+189d52a654ceede4b6f4c5df0d2e6d13:facebook:
+  spec:
+    title: สรุปจากการแบ่งปันใน Tester’s Day 2023 – Everything You Can Test [somkiat.cc]
+    url: https://www.somkiat.cc/tester-day-2023-everything-you-can-test/
+  state:
+    id: '100746876247412_261520680170515'
+    url: https://www.facebook.com/100683012920950/posts/261520680170515
+189d52a654ceede4b6f4c5df0d2e6d13:mastodon:
+  spec:
+    title: สรุปจากการแบ่งปันใน Tester’s Day 2023 – Everything You Can Test [somkiat.cc]
+    url: https://www.somkiat.cc/tester-day-2023-everything-you-can-test/
+  state:
+    id: '111046467010456087'
+    url: https://mastodon.in.th/@webring/111046467010456087
+189d52a654ceede4b6f4c5df0d2e6d13:shorturl:
+  spec:
+    url: https://www.somkiat.cc/tester-day-2023-everything-you-can-test/
+  state:
+    shortLink: https://webring.page.link/dd67
 18fcc495ea7b49a95cc38ea91ce27c0a:facebook:
   spec:
     title: TCP + JSON บน Windows7 แล้ว JSON แหว่งง [debuggingsoft.com]
