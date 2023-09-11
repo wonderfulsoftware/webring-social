@@ -5052,6 +5052,25 @@
     url: https://garden.narze.live/git-reset-only-unstaged-changes/
   state:
     shortLink: https://webring.page.link/87dP
+80e4e617e8547066b987f303dfb3b0b7:facebook:
+  spec:
+    title: สร้างเลขาส่วนตัวด้วย Telegram Bot API และ Notion [anuwong.com]
+    url: https://www.anuwong.com/blog/personal-assistant-bot-with-telegram-and-notion/
+  state:
+    id: '100746876247412_261437640178819'
+    url: https://www.facebook.com/100683012920950/posts/261437640178819
+80e4e617e8547066b987f303dfb3b0b7:mastodon:
+  spec:
+    title: สร้างเลขาส่วนตัวด้วย Telegram Bot API และ Notion [anuwong.com]
+    url: https://www.anuwong.com/blog/personal-assistant-bot-with-telegram-and-notion/
+  state:
+    id: '111045731939607687'
+    url: https://mastodon.in.th/@webring/111045731939607687
+80e4e617e8547066b987f303dfb3b0b7:shorturl:
+  spec:
+    url: https://www.anuwong.com/blog/personal-assistant-bot-with-telegram-and-notion/
+  state:
+    shortLink: https://webring.page.link/LnqZ
 81bec684aff8a5e6d35d1eb7124989d8:facebook:
   spec:
     title: Playwright 1.32 มาพร้อมกับ UI Mode (preview) [somkiat.cc]
