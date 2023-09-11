@@ -3494,6 +3494,25 @@
     url: https://garden.narze.live/extract-saved-wifi-password-on-macos/
   state:
     shortLink: https://webring.page.link/7oEJ
+5fdcf66675a09a713cba10841388ccab:facebook:
+  spec:
+    title: What I learned from GDG SEA SUMMIT 2023 — Eng ver. [mesodiar.com]
+    url: https://mesodiar.com/what-i-learned-from-gdg-sea-summit-2023-eng-ver-f1f9dc1d8310?source=rss----698ac1e5dc8c---4
+  state:
+    id: '100746876247412_261366610185922'
+    url: https://www.facebook.com/100683012920950/posts/261366610185922
+5fdcf66675a09a713cba10841388ccab:mastodon:
+  spec:
+    title: What I learned from GDG SEA SUMMIT 2023 — Eng ver. [mesodiar.com]
+    url: https://mesodiar.com/what-i-learned-from-gdg-sea-summit-2023-eng-ver-f1f9dc1d8310?source=rss----698ac1e5dc8c---4
+  state:
+    id: '111045031727976462'
+    url: https://mastodon.in.th/@webring/111045031727976462
+5fdcf66675a09a713cba10841388ccab:shorturl:
+  spec:
+    url: https://mesodiar.com/what-i-learned-from-gdg-sea-summit-2023-eng-ver-f1f9dc1d8310?source=rss----698ac1e5dc8c---4
+  state:
+    shortLink: https://webring.page.link/cUXZ
 5ffd0bf793fac26558c83def799a470e:facebook:
   spec:
     title: Hint the Hidden Heirloom [neizod.dev]
