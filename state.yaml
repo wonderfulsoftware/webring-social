@@ -2297,6 +2297,25 @@
     url: https://blog.rayriffy.com/riffy-japan-idolmaster-trip-2023/
   state:
     shortLink: https://webring.page.link/gyds
+3d55a2ae2c727ecfa8a5b6e5e35c6d89:facebook:
+  spec:
+    title: Test double [jitrak.dev]
+    url: https://jitrak.dev/posts/post-20-test-double/
+  state:
+    id: '100746876247412_262097123446204'
+    url: https://www.facebook.com/100683012920950/posts/262097123446204
+3d55a2ae2c727ecfa8a5b6e5e35c6d89:mastodon:
+  spec:
+    title: Test double [jitrak.dev]
+    url: https://jitrak.dev/posts/post-20-test-double/
+  state:
+    id: '111051390712010760'
+    url: https://mastodon.in.th/@webring/111051390712010760
+3d55a2ae2c727ecfa8a5b6e5e35c6d89:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-20-test-double/
+  state:
+    shortLink: https://webring.page.link/DtK7
 3de5278b6c9ecfbb07e80c6440b820db:facebook:
   spec:
     title: 0256 | คำถามที่โดนถามบ่อยกับรถยนต์ไฟฟ้า [icez.net]
