@@ -568,6 +568,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/cr-starbucks-skinny-banana-muffin/
   state:
     shortLink: https://webring.page.link/5yCp
+1218403ac66de1efcfacf4718fa380e4:facebook:
+  spec:
+    title: Oracle VirtualBox Licensed [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/09/virtualbox-licensed/
+  state:
+    id: '100746876247412_261943313461585'
+    url: https://www.facebook.com/100683012920950/posts/261943313461585
+1218403ac66de1efcfacf4718fa380e4:mastodon:
+  spec:
+    title: Oracle VirtualBox Licensed [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/09/virtualbox-licensed/
+  state:
+    id: '111049975614663755'
+    url: https://mastodon.in.th/@webring/111049975614663755
+1218403ac66de1efcfacf4718fa380e4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/09/virtualbox-licensed/
+  state:
+    shortLink: https://webring.page.link/VMtb
 128c0bc2d33436e2cd2c9e67aa9a66ff:facebook:
   spec:
     title: น่าสนใจมาก ๆ Vercel Storage [somkiat.cc]
