@@ -2753,6 +2753,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/microservices-march-2023-by-nginx/
   state:
     shortLink: https://webring.page.link/F5sq
+4ba5089844aa5de9a3b99c20ab54d010:facebook:
+  spec:
+    title: การ convert จาก Postman Collections มาเป็น K6 script [somkiat.cc]
+    url: https://www.somkiat.cc/convert-from-postman-to-k6-script/
+  state:
+    id: '100746876247412_262021003453816'
+    url: https://www.facebook.com/100683012920950/posts/262021003453816
+4ba5089844aa5de9a3b99c20ab54d010:mastodon:
+  spec:
+    title: การ convert จาก Postman Collections มาเป็น K6 script [somkiat.cc]
+    url: https://www.somkiat.cc/convert-from-postman-to-k6-script/
+  state:
+    id: '111050693197934089'
+    url: https://mastodon.in.th/@webring/111050693197934089
+4ba5089844aa5de9a3b99c20ab54d010:shorturl:
+  spec:
+    url: https://www.somkiat.cc/convert-from-postman-to-k6-script/
+  state:
+    shortLink: https://webring.page.link/jiFC
 4bcaba537517f8f713cf3d43b086b454:facebook:
   spec:
     title: Bare metal works, until it doesn't. Hello, cloud. [karnwong.me]
