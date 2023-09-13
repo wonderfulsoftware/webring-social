@@ -1518,6 +1518,25 @@
     url: https://www.mikkipastel.com/what-is-progressive-web-apps/
   state:
     shortLink: https://webring.page.link/tr8V
+2942650739e345cea56c06d9eae95fd2:facebook:
+  spec:
+    title: สรุปการใช้งาน Bun ในการพัฒนาระบบงาน [somkiat.cc]
+    url: https://www.somkiat.cc/bun-development-tools/
+  state:
+    id: '100746876247412_262596136729636'
+    url: https://www.facebook.com/100683012920950/posts/262596136729636
+2942650739e345cea56c06d9eae95fd2:mastodon:
+  spec:
+    title: สรุปการใช้งาน Bun ในการพัฒนาระบบงาน [somkiat.cc]
+    url: https://www.somkiat.cc/bun-development-tools/
+  state:
+    id: '111055638734172885'
+    url: https://mastodon.in.th/@webring/111055638734172885
+2942650739e345cea56c06d9eae95fd2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/bun-development-tools/
+  state:
+    shortLink: https://webring.page.link/5qjx
 298873105333d3496c30815bb1b2bf39:facebook:
   spec:
     title: สรุป National Coding Day 2023#01 [debuggingsoft.com]
