@@ -7952,6 +7952,25 @@ cfd77637023899ca0b208faf0b85c341:shorturl:
     url: https://tinarskii.com/articles/computer
   state:
     shortLink: https://webring.page.link/uxzB
+d09e362befe037c0c29309df5304b501:facebook:
+  spec:
+    title: '[Presentation] Universal Motor [siravijbb.me]'
+    url: https://siravijbb.me/blog/universal-motor-presentation/
+  state:
+    id: '100746876247412_262860280036555'
+    url: https://www.facebook.com/100683012920950/posts/262860280036555
+d09e362befe037c0c29309df5304b501:mastodon:
+  spec:
+    title: '[Presentation] Universal Motor [siravijbb.me]'
+    url: https://siravijbb.me/blog/universal-motor-presentation/
+  state:
+    id: '111057792604943030'
+    url: https://mastodon.in.th/@webring/111057792604943030
+d09e362befe037c0c29309df5304b501:shorturl:
+  spec:
+    url: https://siravijbb.me/blog/universal-motor-presentation/
+  state:
+    shortLink: https://webring.page.link/qpfF
 d1476b3d9dfba601ae992cbbfab93036:facebook:
   spec:
     title: '[AZ-400] Manage infrastructure as code using Azure and DSC [debuggingsoft.com]'
