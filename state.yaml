@@ -2050,6 +2050,25 @@
     url: https://toupawa.com/fix-async-function-error-on-react-useeffect-with-iife/
   state:
     shortLink: https://webring.page.link/b5nM
+36741875d9734d016f7794265004cd44:facebook:
+  spec:
+    title: Spark on Kubernetes [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/09/spark-on-kubernetes/
+  state:
+    id: '100746876247412_262778320044751'
+    url: https://www.facebook.com/100683012920950/posts/262778320044751
+36741875d9734d016f7794265004cd44:mastodon:
+  spec:
+    title: Spark on Kubernetes [karnwong.me]
+    url: https://www.karnwong.me/posts/2023/09/spark-on-kubernetes/
+  state:
+    id: '111057053025951738'
+    url: https://mastodon.in.th/@webring/111057053025951738
+36741875d9734d016f7794265004cd44:shorturl:
+  spec:
+    url: https://www.karnwong.me/posts/2023/09/spark-on-kubernetes/
+  state:
+    shortLink: https://webring.page.link/xgpR
 36aca89b0011d02bfec663e857d3fe1f:facebook:
   spec:
     title: '[CR] ฮั่วเซ่งฮง ซาลาเปาเผือกแปะก๊วย [debuggingsoft.com]'
