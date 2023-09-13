@@ -9149,6 +9149,25 @@ f156f4cc6c4bfd9b8b3d21edbd21263d:shorturl:
     url: https://notes.dt.in.th/FacebookPageLongLivedAccessToken
   state:
     shortLink: https://webring.page.link/uha4
+f1c5165867c774257acfde73e1ec6b5e:facebook:
+  spec:
+    title: '[MS Cert] บันทึกการสอบ AZ-104 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/09/microsoft-certification-exam-az-104-note/
+  state:
+    id: '100746876247412_262670670055516'
+    url: https://www.facebook.com/100683012920950/posts/262670670055516
+f1c5165867c774257acfde73e1ec6b5e:mastodon:
+  spec:
+    title: '[MS Cert] บันทึกการสอบ AZ-104 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/09/microsoft-certification-exam-az-104-note/
+  state:
+    id: '111056357113527892'
+    url: https://mastodon.in.th/@webring/111056357113527892
+f1c5165867c774257acfde73e1ec6b5e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/09/microsoft-certification-exam-az-104-note/
+  state:
+    shortLink: https://webring.page.link/pBw5
 f20083070e84071ac58c3eefa3bce0fe:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 1 (System Thinking) [taoisaman.com]
