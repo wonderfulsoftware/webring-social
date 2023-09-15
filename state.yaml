@@ -2582,6 +2582,25 @@
     url: https://www.somkiat.cc/infoq-culture-methods-trends-2023/
   state:
     shortLink: https://webring.page.link/iKWG
+46237783a49193dfe197e08f1e0ac3d4:facebook:
+  spec:
+    title: '[CR] ข้าวหมูทอด เฮียวงค์ (BTS วงเวียนใหญ่) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/09/deep-fried-pork-here-wong-bts-wongwian-yai/
+  state:
+    id: '100746876247412_263860049936578'
+    url: https://www.facebook.com/100683012920950/posts/263860049936578
+46237783a49193dfe197e08f1e0ac3d4:mastodon:
+  spec:
+    title: '[CR] ข้าวหมูทอด เฮียวงค์ (BTS วงเวียนใหญ่) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/09/deep-fried-pork-here-wong-bts-wongwian-yai/
+  state:
+    id: '111066962734659658'
+    url: https://mastodon.in.th/@webring/111066962734659658
+46237783a49193dfe197e08f1e0ac3d4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/09/deep-fried-pork-here-wong-bts-wongwian-yai/
+  state:
+    shortLink: https://webring.page.link/wjBS
 46c7cb10169fd3f3b7874273d54012d5:facebook:
   spec:
     title: 81 - garden-astro - Update front page [garden.narze.live]
