@@ -6933,6 +6933,25 @@ aedd782525d4406fc0085e094e96b1ea:shorturl:
     url: https://myifew.com/6501/why-we-should-back-to-waterfall/
   state:
     shortLink: https://webring.page.link/RB5n
+aefe69ca45a3c3bd519aefe0b9e6eda0:facebook:
+  spec:
+    title: มาดู Spring Boot 3.2 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-3-2-m2/
+  state:
+    id: '100746876247412_264554273200489'
+    url: https://www.facebook.com/100683012920950/posts/264554273200489
+aefe69ca45a3c3bd519aefe0b9e6eda0:mastodon:
+  spec:
+    title: มาดู Spring Boot 3.2 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-3-2-m2/
+  state:
+    id: '111072623828509655'
+    url: https://mastodon.in.th/@webring/111072623828509655
+aefe69ca45a3c3bd519aefe0b9e6eda0:shorturl:
+  spec:
+    url: https://www.somkiat.cc/spring-boot-3-2-m2/
+  state:
+    shortLink: https://webring.page.link/RGvV
 afd1afebef5caf5636be6e145ec98f98:facebook:
   spec:
     title: บันทึกเที่ยวญี่ปุ่นหลังโควิด ปลายปี 2022 [mesodiar.com]
