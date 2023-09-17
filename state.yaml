@@ -1632,6 +1632,25 @@
     url: https://notes.dt.in.th/Morse
   state:
     shortLink: https://webring.page.link/rZdN
+2c005f5892f7212f35ecd2529143e051:facebook:
+  spec:
+    title: Go Testing Part 3 - จัดระเบียบ Test Case ด้วย testify/suite [anuwong.com]
+    url: https://www.anuwong.com/blog/golang-testing-part-3-test-suite/
+  state:
+    id: '100746876247412_265397346449515'
+    url: https://www.facebook.com/100683012920950/posts/265397346449515
+2c005f5892f7212f35ecd2529143e051:mastodon:
+  spec:
+    title: Go Testing Part 3 - จัดระเบียบ Test Case ด้วย testify/suite [anuwong.com]
+    url: https://www.anuwong.com/blog/golang-testing-part-3-test-suite/
+  state:
+    id: '111079698345427073'
+    url: https://mastodon.in.th/@webring/111079698345427073
+2c005f5892f7212f35ecd2529143e051:shorturl:
+  spec:
+    url: https://www.anuwong.com/blog/golang-testing-part-3-test-suite/
+  state:
+    shortLink: https://webring.page.link/FJwZ
 2c4c8305226914c35d28c3d98e393df2:facebook:
   spec:
     title: สรุปการใช้งาน Structured Log ของ Go กัน [somkiat.cc]
