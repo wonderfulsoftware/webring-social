@@ -5280,6 +5280,25 @@
     url: https://natdanai.me/tohoku-japan/
   state:
     shortLink: https://webring.page.link/1WYq
+82ad6b0ab8b4b97380f2cea4edb9b66b:facebook:
+  spec:
+    title: แชร์ประสบการณ์ การเรียนรู้เกือบทุกสิ่ง ฉบับนอกห้องเรียน [tinarskii.com]
+    url: https://tinarskii.com/articles/learn/
+  state:
+    id: '100746876247412_265317816457468'
+    url: https://www.facebook.com/100683012920950/posts/265317816457468
+82ad6b0ab8b4b97380f2cea4edb9b66b:mastodon:
+  spec:
+    title: แชร์ประสบการณ์ การเรียนรู้เกือบทุกสิ่ง ฉบับนอกห้องเรียน [tinarskii.com]
+    url: https://tinarskii.com/articles/learn/
+  state:
+    id: '111079001117762784'
+    url: https://mastodon.in.th/@webring/111079001117762784
+82ad6b0ab8b4b97380f2cea4edb9b66b:shorturl:
+  spec:
+    url: https://tinarskii.com/articles/learn/
+  state:
+    shortLink: https://webring.page.link/sAuP
 82b5f379c644d055b863815dd8e4c5cc:facebook:
   spec:
     title: 65 - ChatOS - Add Firebase Auth [garden.narze.live]
