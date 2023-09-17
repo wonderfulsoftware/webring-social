@@ -4045,6 +4045,25 @@
     url: https://www.karnwong.me/posts/2023/03/secretops-with-teller/
   state:
     shortLink: https://webring.page.link/yJDS
+67dde2125dda4c4d8df9ef498a918527:facebook:
+  spec:
+    title: How to install HoloCure on Apple Silicon MacBook [garden.narze.live]
+    url: https://garden.narze.live/how-to-install-holocure-on-apple-silicon-macbook/
+  state:
+    id: '100746876247412_265229839799599'
+    url: https://www.facebook.com/100683012920950/posts/265229839799599
+67dde2125dda4c4d8df9ef498a918527:mastodon:
+  spec:
+    title: How to install HoloCure on Apple Silicon MacBook [garden.narze.live]
+    url: https://garden.narze.live/how-to-install-holocure-on-apple-silicon-macbook/
+  state:
+    id: '111078286620931521'
+    url: https://mastodon.in.th/@webring/111078286620931521
+67dde2125dda4c4d8df9ef498a918527:shorturl:
+  spec:
+    url: https://garden.narze.live/how-to-install-holocure-on-apple-silicon-macbook/
+  state:
+    shortLink: https://webring.page.link/v5PD
 67deb859d6379ebb0377bcdb28d8cba0:facebook:
   spec:
     title: บันทึกการสั่ง Lenovo แบบ Build Your Own Laptop (Custom Spec) / Note ช๊อปดีมีคืน [debuggingsoft.com]
