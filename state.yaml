@@ -1727,6 +1727,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/08/csharp-sonar-scanner-has-started-to-take-too-much-time-to-run-analysis/
   state:
     shortLink: https://webring.page.link/bpam
+2d74423bfb90310a8f0c150fcd28f8be:facebook:
+  spec:
+    title: ใช้ Honojs กับ Cloudflare Pages Functions [anuwong.com]
+    url: https://www.anuwong.com/blog/honojs-with-cloudflare-pages-functions/
+  state:
+    id: '100746876247412_265967989725784'
+    url: https://www.facebook.com/100683012920950/posts/265967989725784
+2d74423bfb90310a8f0c150fcd28f8be:mastodon:
+  spec:
+    title: ใช้ Honojs กับ Cloudflare Pages Functions [anuwong.com]
+    url: https://www.anuwong.com/blog/honojs-with-cloudflare-pages-functions/
+  state:
+    id: '111084670291133191'
+    url: https://mastodon.in.th/@webring/111084670291133191
+2d74423bfb90310a8f0c150fcd28f8be:shorturl:
+  spec:
+    url: https://www.anuwong.com/blog/honojs-with-cloudflare-pages-functions/
+  state:
+    shortLink: https://webring.page.link/43qy
 2da10cd920f2bd2db8f07473d25dfd57:facebook:
   spec:
     title: UDP hole punching in Jamulus [dt.in.th]
