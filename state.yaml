@@ -8560,6 +8560,25 @@ dafd0c656c643a4ac13439e9cdc50ced:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/08/cr%e0%b8%a5%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%ad%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%8b%e0%b8%b8%e0%b8%a2-linn-%e0%b9%80%e0%b8%88%e0%b8%a3%e0%b8%b4%e0%b8%8d%e0%b8%a3%e0%b8%b1%e0%b8%96-%e0%b8%a5/
   state:
     shortLink: https://webring.page.link/Q6Wz
+dbfdd18387cc7595596a1d631761d697:facebook:
+  spec:
+    title: Postman สนับสนุน MQTT แล้ว (open beta) [somkiat.cc]
+    url: https://www.somkiat.cc/postman-suppport-mqtt/
+  state:
+    id: '100746876247412_266596542996262'
+    url: https://www.facebook.com/100683012920950/posts/266596542996262
+dbfdd18387cc7595596a1d631761d697:mastodon:
+  spec:
+    title: Postman สนับสนุน MQTT แล้ว (open beta) [somkiat.cc]
+    url: https://www.somkiat.cc/postman-suppport-mqtt/
+  state:
+    id: '111090331222451847'
+    url: https://mastodon.in.th/@webring/111090331222451847
+dbfdd18387cc7595596a1d631761d697:shorturl:
+  spec:
+    url: https://www.somkiat.cc/postman-suppport-mqtt/
+  state:
+    shortLink: https://webring.page.link/uP4i
 dc612d03fc7d7dbc6a2306d6adef4600:facebook:
   spec:
     title: สร้างระบบ Monitoring Springboot + Prometheus + Grafana ด้วย Docker [poolsawat.com]
