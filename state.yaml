@@ -5128,6 +5128,25 @@
     url: https://yothinix.com/working-how-to-work/
   state:
     shortLink: https://webring.page.link/o1tu
+7ccc9fcac6f06c75d1fb5aa38590a1cd:facebook:
+  spec:
+    title: Skincare Routine ฉบับเรียบง่ายสไตล์โปรแกรมเมอร์ [anuwong.com]
+    url: https://www.anuwong.com/blog/simple-skincare-routine/
+  state:
+    id: '100746876247412_267181312937785'
+    url: https://www.facebook.com/100683012920950/posts/267181312937785
+7ccc9fcac6f06c75d1fb5aa38590a1cd:mastodon:
+  spec:
+    title: Skincare Routine ฉบับเรียบง่ายสไตล์โปรแกรมเมอร์ [anuwong.com]
+    url: https://www.anuwong.com/blog/simple-skincare-routine/
+  state:
+    id: '111095275277340289'
+    url: https://mastodon.in.th/@webring/111095275277340289
+7ccc9fcac6f06c75d1fb5aa38590a1cd:shorturl:
+  spec:
+    url: https://www.anuwong.com/blog/simple-skincare-routine/
+  state:
+    shortLink: https://webring.page.link/tnXy
 7dfb10f317ef92fba30c628cbebbf8d3:facebook:
   spec:
     title: การเปลี่ยนแปลงของ Chrome Driver สำหรับ Google Chrome 115 ขึ้นไป [somkiat.cc]
