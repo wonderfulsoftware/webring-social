@@ -6078,6 +6078,25 @@
     url: https://www.llun.me/posts/2022-12-31-2022
   state:
     shortLink: https://webring.page.link/GfBB
+92cdc727254daccc84b0381ac073b6db:facebook:
+  spec:
+    title: อีก 10 ชั่วโมง ไปร่วมฟัง Java 21 Launch Event [somkiat.cc]
+    url: https://www.somkiat.cc/java-21-launch-event/
+  state:
+    id: '100746876247412_267264412929475'
+    url: https://www.facebook.com/100683012920950/posts/267264412929475
+92cdc727254daccc84b0381ac073b6db:mastodon:
+  spec:
+    title: อีก 10 ชั่วโมง ไปร่วมฟัง Java 21 Launch Event [somkiat.cc]
+    url: https://www.somkiat.cc/java-21-launch-event/
+  state:
+    id: '111095994656041659'
+    url: https://mastodon.in.th/@webring/111095994656041659
+92cdc727254daccc84b0381ac073b6db:shorturl:
+  spec:
+    url: https://www.somkiat.cc/java-21-launch-event/
+  state:
+    shortLink: https://webring.page.link/jBKC
 92fd9ef4fe49ca5369504f2e8cf0470b:facebook:
   spec:
     title: JWT ด้วย Node.js [tech.duckfollow.co]
