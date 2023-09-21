@@ -2031,6 +2031,25 @@
     url: https://toupawa.com/how-to-run-node-js-and-mongodb-as-docker-container/
   state:
     shortLink: https://webring.page.link/Kqkj
+34a070ed97c84d7230b780ca709c2744:facebook:
+  spec:
+    title: ลองทำ Performance Testing ด้วย JMeter [janescience.com]
+    url: https://janescience.com/blog/jmeter
+  state:
+    id: '100746876247412_267840479538535'
+    url: https://www.facebook.com/100683012920950/posts/267840479538535
+34a070ed97c84d7230b780ca709c2744:mastodon:
+  spec:
+    title: ลองทำ Performance Testing ด้วย JMeter [janescience.com]
+    url: https://janescience.com/blog/jmeter
+  state:
+    id: '111100936217639068'
+    url: https://mastodon.in.th/@webring/111100936217639068
+34a070ed97c84d7230b780ca709c2744:shorturl:
+  spec:
+    url: https://janescience.com/blog/jmeter
+  state:
+    shortLink: https://webring.page.link/BMte
 3500e398c0e68f68e5f4904af7493fc5:facebook:
   spec:
     title: A guide for realistic estimation of project timeline [heyfirst.co]
