@@ -2639,6 +2639,25 @@
     url: https://www.poolsawat.com/create-gateway-service-with-spring-cloud-gateway-and-using-mockoon-basic/
   state:
     shortLink: https://webring.page.link/maZJ
+4592a56f383fb49b38974ab4413b59ee:facebook:
+  spec:
+    title: Optimize Container image size [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/09/optimize-container-image-size/
+  state:
+    id: '100746876247412_267912326198017'
+    url: https://www.facebook.com/100683012920950/posts/267912326198017
+4592a56f383fb49b38974ab4413b59ee:mastodon:
+  spec:
+    title: Optimize Container image size [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/09/optimize-container-image-size/
+  state:
+    id: '111101655575877820'
+    url: https://mastodon.in.th/@webring/111101655575877820
+4592a56f383fb49b38974ab4413b59ee:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/09/optimize-container-image-size/
+  state:
+    shortLink: https://webring.page.link/2bJK
 45de470934ed955f541fa953067d73c2:facebook:
   spec:
     title: สรุป Culture & Methods Trends Report March 2023 จาก InfoQ [somkiat.cc]
