@@ -1271,6 +1271,25 @@
     url: https://neizod.dev/2022/12/31/cantor-ternary-set.html
   state:
     shortLink: https://webring.page.link/qHki
+2149c50f7177f5b102df0b25df690ae5:facebook:
+  spec:
+    title: สรุปจากการดู SQL Query Optimization! [somkiat.cc]
+    url: https://www.somkiat.cc/note-sql-query-optimization/
+  state:
+    id: '100746876247412_268392682816648'
+    url: https://www.facebook.com/100683012920950/posts/268392682816648
+2149c50f7177f5b102df0b25df690ae5:mastodon:
+  spec:
+    title: สรุปจากการดู SQL Query Optimization! [somkiat.cc]
+    url: https://www.somkiat.cc/note-sql-query-optimization/
+  state:
+    id: '111106599362386021'
+    url: https://mastodon.in.th/@webring/111106599362386021
+2149c50f7177f5b102df0b25df690ae5:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-sql-query-optimization/
+  state:
+    shortLink: https://webring.page.link/X7sW
 21f4a335030a5b27bc78206536bc4d24:facebook:
   spec:
     title: เพิ่งเห็นว่า Text Editor ชื่อ Atom นั้นหยุดพัฒนาไปแล้ว [somkiat.cc]
