@@ -150,6 +150,25 @@
     url: https://www.somkiat.cc/go-1-21-all-you-need-to-know/
   state:
     shortLink: https://webring.page.link/yT5e
+06a756c7005f75135bcc853d14a732af:facebook:
+  spec:
+    title: รู้จักคนด้วยหลักการ DISC [mikkipastel.com]
+    url: https://www.mikkipastel.com/disc-people-personally-assessment-tool/
+  state:
+    id: '100746876247412_269018572754059'
+    url: https://www.facebook.com/100683012920950/posts/269018572754059
+06a756c7005f75135bcc853d14a732af:mastodon:
+  spec:
+    title: รู้จักคนด้วยหลักการ DISC [mikkipastel.com]
+    url: https://www.mikkipastel.com/disc-people-personally-assessment-tool/
+  state:
+    id: '111112260204576052'
+    url: https://mastodon.in.th/@webring/111112260204576052
+06a756c7005f75135bcc853d14a732af:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/disc-people-personally-assessment-tool/
+  state:
+    shortLink: https://webring.page.link/xaKQ
 07b570f18a69ca2e2f65c8de4ce9c07f:facebook:
   spec:
     title: dotnet start webapi error failed to load the dll hostfxr.dll or api-ms-win-crt-runtime-l1-1-0.dll is missing from your computer [debuggingsoft.com]
