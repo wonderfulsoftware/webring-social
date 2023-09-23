@@ -36,6 +36,25 @@
     url: https://garden.narze.live/100daysofcode-r3-64-live-guestbook/
   state:
     shortLink: https://webring.page.link/54wK
+012ecd06453446424f397aad94276356:facebook:
+  spec:
+    title: ว่าด้วยเรื่อง DevOops !! [somkiat.cc]
+    url: https://www.somkiat.cc/hello-devoops/
+  state:
+    id: '100746876247412_269130459409537'
+    url: https://www.facebook.com/100683012920950/posts/269130459409537
+012ecd06453446424f397aad94276356:mastodon:
+  spec:
+    title: ว่าด้วยเรื่อง DevOops !! [somkiat.cc]
+    url: https://www.somkiat.cc/hello-devoops/
+  state:
+    id: '111112975443047999'
+    url: https://mastodon.in.th/@webring/111112975443047999
+012ecd06453446424f397aad94276356:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-devoops/
+  state:
+    shortLink: https://webring.page.link/F9Hb
 0134991cf99b866ee2c727ebb3e87ff3:facebook:
   spec:
     title: ลอง Clone ChatGPT ด้วย ChatGPT [taoisaman.com]
