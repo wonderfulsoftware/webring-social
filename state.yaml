@@ -6249,6 +6249,25 @@
     url: https://notes.dt.in.th/GoogleCloudServiceAccountIdToken
   state:
     shortLink: https://webring.page.link/VuzM
+93e258279b09baf6beb86cd102f43747:facebook:
+  spec:
+    title: 'สรุปจากการแบ่งปันเรื่อง Postman in the right way #1 [somkiat.cc]'
+    url: https://www.somkiat.cc/course-postman-in-the-right-way-1/
+  state:
+    id: '100746876247412_270438009278782'
+    url: https://www.facebook.com/100683012920950/posts/270438009278782
+93e258279b09baf6beb86cd102f43747:mastodon:
+  spec:
+    title: 'สรุปจากการแบ่งปันเรื่อง Postman in the right way #1 [somkiat.cc]'
+    url: https://www.somkiat.cc/course-postman-in-the-right-way-1/
+  state:
+    id: '111124306911698488'
+    url: https://mastodon.in.th/@webring/111124306911698488
+93e258279b09baf6beb86cd102f43747:shorturl:
+  spec:
+    url: https://www.somkiat.cc/course-postman-in-the-right-way-1/
+  state:
+    shortLink: https://webring.page.link/apCp
 94a270ac8c07fae1199dffa42c069ddd:facebook:
   spec:
     title: Install Samsung notes on Windows 10/11 [debuggingsoft.com]
