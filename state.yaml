@@ -8845,6 +8845,25 @@ e101590fcf2c113c902ecdebce745d7d:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/02/az-400-design-and-implement-a-dependency-management-strategy/
   state:
     shortLink: https://webring.page.link/aQBF
+e150e4a5487779c75ec30d4996e3058d:facebook:
+  spec:
+    title: Bun คืออะไร? [thiti.dev]
+    url: https://thiti.dev/blog/105/
+  state:
+    id: '100746876247412_270358822620034'
+    url: https://www.facebook.com/100683012920950/posts/270358822620034
+e150e4a5487779c75ec30d4996e3058d:mastodon:
+  spec:
+    title: Bun คืออะไร? [thiti.dev]
+    url: https://thiti.dev/blog/105/
+  state:
+    id: '111123587458569957'
+    url: https://mastodon.in.th/@webring/111123587458569957
+e150e4a5487779c75ec30d4996e3058d:shorturl:
+  spec:
+    url: https://thiti.dev/blog/105/
+  state:
+    shortLink: https://webring.page.link/EXPc
 e17fce2e30aeb2102e99245725340871:facebook:
   spec:
     title: ปัญหาดิสก์ปิดครอบเล็กที่สุด [neizod.dev]
