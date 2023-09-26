@@ -5736,6 +5736,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/06/access-almalinux-9-via-rdp/
   state:
     shortLink: https://webring.page.link/S7cX
+891c31713f1d8640adf27821239d2acc:facebook:
+  spec:
+    title: The Cloud Camp Week#02 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/09/the-cloud-camp-week02/
+  state:
+    id: '100746876247412_270993212556595'
+    url: https://www.facebook.com/100683012920950/posts/270993212556595
+891c31713f1d8640adf27821239d2acc:mastodon:
+  spec:
+    title: The Cloud Camp Week#02 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/09/the-cloud-camp-week02/
+  state:
+    id: '111129249790708253'
+    url: https://mastodon.in.th/@webring/111129249790708253
+891c31713f1d8640adf27821239d2acc:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/09/the-cloud-camp-week02/
+  state:
+    shortLink: https://webring.page.link/UeGv
 8979abb70690c9cba4d0fbe733d2d812:facebook:
   spec:
     title: 'Git - fatal: detected dubious ownership in repository [garden.narze.live]'
