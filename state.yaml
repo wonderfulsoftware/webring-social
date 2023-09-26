@@ -9997,6 +9997,25 @@ f9b8af3565b0c92ec88fc0adf128e0e5:shorturl:
     url: https://garden.narze.live/glob-import-modules-with-vite/
   state:
     shortLink: https://webring.page.link/vwKX
+fb195ce46fb3fa2e8954f2f1b9d0241d:facebook:
+  spec:
+    title: มาดู feature ที่น่าสนใจใน Java 21 GA ที่เพิ่งปล่อยออกมา [somkiat.cc]
+    url: https://www.somkiat.cc/feature-in-java-21-ga/
+  state:
+    id: '100746876247412_271069305882319'
+    url: https://www.facebook.com/100683012920950/posts/271069305882319
+fb195ce46fb3fa2e8954f2f1b9d0241d:mastodon:
+  spec:
+    title: มาดู feature ที่น่าสนใจใน Java 21 GA ที่เพิ่งปล่อยออกมา [somkiat.cc]
+    url: https://www.somkiat.cc/feature-in-java-21-ga/
+  state:
+    id: '111129968219915351'
+    url: https://mastodon.in.th/@webring/111129968219915351
+fb195ce46fb3fa2e8954f2f1b9d0241d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/feature-in-java-21-ga/
+  state:
+    shortLink: https://webring.page.link/skvq
 fb3e62dd48c32791c83984c91eb98dc3:facebook:
   spec:
     title: สรุปงาน Azure Develop Day 2023 @SEVEN PEAKS [debuggingsoft.com]
