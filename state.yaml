@@ -9225,6 +9225,25 @@ e6e6490ab81ce963083760091dd30b46:shorturl:
     url: https://www.somkiat.cc/project-crac-with-spring-framework/
   state:
     shortLink: https://webring.page.link/e8Ge
+e708470a2975e5b696cd986ace5b9348:facebook:
+  spec:
+    title: สรุปจากงาน LINE Conference Thailand 2023 (LCT23) [somkiat.cc]
+    url: https://www.somkiat.cc/note-line-conference-thailand-2023/
+  state:
+    id: '100746876247412_271649812490935'
+    url: https://www.facebook.com/100683012920950/posts/271649812490935
+e708470a2975e5b696cd986ace5b9348:mastodon:
+  spec:
+    title: สรุปจากงาน LINE Conference Thailand 2023 (LCT23) [somkiat.cc]
+    url: https://www.somkiat.cc/note-line-conference-thailand-2023/
+  state:
+    id: '111134913018705715'
+    url: https://mastodon.in.th/@webring/111134913018705715
+e708470a2975e5b696cd986ace5b9348:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-line-conference-thailand-2023/
+  state:
+    shortLink: https://webring.page.link/hwtu
 e7ffbaa2fda5aefedc5070c362d68517:facebook:
   spec:
     title: เมื่อ DEV ลองไป Workshop Azure Cloud Adoption Framework [debuggingsoft.com]
