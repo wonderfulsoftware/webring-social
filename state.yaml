@@ -5567,14 +5567,14 @@
     shortLink: https://webring.page.link/erg2
 84c741a6ac2a29c94c27e12bc06125cf:facebook:
   spec:
-    title: 'The Common Mistakes When Using Quarkus: Why are your reactive codes not executed? [guitarpawat.me]'
+    title: Why your Quarkus reactive codes are not executing? [guitarpawat.me]
     url: https://guitarpawat.me/posts/the-quarkus-mistakes-pt-1/
   state:
     id: '100746876247412_270690852586831'
     url: https://www.facebook.com/100683012920950/posts/270690852586831
 84c741a6ac2a29c94c27e12bc06125cf:mastodon:
   spec:
-    title: 'The Common Mistakes When Using Quarkus: Why are your reactive codes not executed? [guitarpawat.me]'
+    title: Why your Quarkus reactive codes are not executing? [guitarpawat.me]
     url: https://guitarpawat.me/posts/the-quarkus-mistakes-pt-1/
   state:
     id: '111126419173511630'
