@@ -8617,6 +8617,25 @@ d88ec1838395c9e02567d69bd73b9f1b:shorturl:
     url: https://www.somkiat.cc/review-postman-in-vscode/
   state:
     shortLink: https://webring.page.link/kddt
+d8ab5dfeadf62f197812da3e36c828a4:facebook:
+  spec:
+    title: น่าสนใจดีนะ Unit Tests Generator น่าสนใจดีนะ [somkiat.cc]
+    url: https://www.somkiat.cc/unit-tests-generator-from-ai/
+  state:
+    id: '100746876247412_272918512364065'
+    url: https://www.facebook.com/100683012920950/posts/272918512364065
+d8ab5dfeadf62f197812da3e36c828a4:mastodon:
+  spec:
+    title: น่าสนใจดีนะ Unit Tests Generator น่าสนใจดีนะ [somkiat.cc]
+    url: https://www.somkiat.cc/unit-tests-generator-from-ai/
+  state:
+    id: '111146235672576510'
+    url: https://mastodon.in.th/@webring/111146235672576510
+d8ab5dfeadf62f197812da3e36c828a4:shorturl:
+  spec:
+    url: https://www.somkiat.cc/unit-tests-generator-from-ai/
+  state:
+    shortLink: https://webring.page.link/7kQp
 d8e331caff1bc9bc60a18e5d768ff2c6:facebook:
   spec:
     title: ปัญหา newman กับ localhost [somkiat.cc]
