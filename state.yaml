@@ -9415,6 +9415,25 @@ eb5e4a06a6444396d5198023c5e650dc:shorturl:
     url: https://www.mikkipastel.com/how-to-capture-macbook-screen/
   state:
     shortLink: https://webring.page.link/hneJ
+eba0071a589487ca0ea39b0e43921ab1:facebook:
+  spec:
+    title: XConf Thailand 2023 [garden.narze.live]
+    url: https://garden.narze.live/xconf-thailand-2023/
+  state:
+    id: '100746876247412_273523852303531'
+    url: https://www.facebook.com/100683012920950/posts/273523852303531
+eba0071a589487ca0ea39b0e43921ab1:mastodon:
+  spec:
+    title: XConf Thailand 2023 [garden.narze.live]
+    url: https://garden.narze.live/xconf-thailand-2023/
+  state:
+    id: '111151896368740178'
+    url: https://mastodon.in.th/@webring/111151896368740178
+eba0071a589487ca0ea39b0e43921ab1:shorturl:
+  spec:
+    url: https://garden.narze.live/xconf-thailand-2023/
+  state:
+    shortLink: https://webring.page.link/8Xaw
 ec58600cd82560a725f20b89864bd793:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 5 - Open 24 Hours [devahoy.com]
