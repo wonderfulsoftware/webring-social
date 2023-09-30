@@ -4273,6 +4273,25 @@
     url: https://kusumotolab.com/recap-domain-driven-design-from-aws-thailand/
   state:
     shortLink: https://webring.page.link/YFeA
+68df5b2f3d6e91139a7eb38835072fa3:facebook:
+  spec:
+    title: DB2 fixed an unpredictable hang/take a lot of time when create a DB Connection. [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/09/db2-fixed-an-unpredictable-hang-take-a-lot-of-time-when-create-a-db-connection/
+  state:
+    id: '100746876247412_273596035629646'
+    url: https://www.facebook.com/100683012920950/posts/273596035629646
+68df5b2f3d6e91139a7eb38835072fa3:mastodon:
+  spec:
+    title: DB2 fixed an unpredictable hang/take a lot of time when create a DB Connection. [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/09/db2-fixed-an-unpredictable-hang-take-a-lot-of-time-when-create-a-db-connection/
+  state:
+    id: '111152613465522026'
+    url: https://mastodon.in.th/@webring/111152613465522026
+68df5b2f3d6e91139a7eb38835072fa3:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/09/db2-fixed-an-unpredictable-hang-take-a-lot-of-time-when-create-a-db-connection/
+  state:
+    shortLink: https://webring.page.link/P7Q2
 68f7e1e2a856203b8a23952c314124f4:facebook:
   spec:
     title: สรุปการเปลี่ยนแปลงใน Spring Boot 3 ไว้นิดหน่อย [somkiat.cc]
