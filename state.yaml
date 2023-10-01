@@ -3380,6 +3380,25 @@
     url: https://www.somkiat.cc/sharing-about-chatgpt-and-usecase/
   state:
     shortLink: https://webring.page.link/RgzX
+55e84e9cfb9801dac16ecc9334b1af84:facebook:
+  spec:
+    title: ทำ API ให้แสดงไฟล์ PDF บน Express [kajame.xyz]
+    url: https://kajame.xyz/blog/create-an-api-to-display-pdf-files-with-express
+  state:
+    id: '100746876247412_274119598910623'
+    url: https://www.facebook.com/100683012920950/posts/274119598910623
+55e84e9cfb9801dac16ecc9334b1af84:mastodon:
+  spec:
+    title: ทำ API ให้แสดงไฟล์ PDF บน Express [kajame.xyz]
+    url: https://kajame.xyz/blog/create-an-api-to-display-pdf-files-with-express
+  state:
+    id: '111157560958393413'
+    url: https://mastodon.in.th/@webring/111157560958393413
+55e84e9cfb9801dac16ecc9334b1af84:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/create-an-api-to-display-pdf-files-with-express
+  state:
+    shortLink: https://webring.page.link/zFFu
 55f96c5edd8ce52d4fc3f0e55ab00f14:facebook:
   spec:
     title: Update ทุก Dependency ของ Package.json [debuggingsoft.com]
