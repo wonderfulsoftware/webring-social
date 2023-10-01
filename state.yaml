@@ -1518,6 +1518,25 @@
     url: https://www.somkiat.cc/new-from-microsoft-teams/
   state:
     shortLink: https://webring.page.link/m1yK
+2731398e6f9aee63f28f6f48fde053b6:facebook:
+  spec:
+    title: Git Command 101 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/09/git-command-101/
+  state:
+    id: '100746876247412_274278718894711'
+    url: https://www.facebook.com/100683012920950/posts/274278718894711
+2731398e6f9aee63f28f6f48fde053b6:mastodon:
+  spec:
+    title: Git Command 101 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/09/git-command-101/
+  state:
+    id: '111158971520062776'
+    url: https://mastodon.in.th/@webring/111158971520062776
+2731398e6f9aee63f28f6f48fde053b6:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/09/git-command-101/
+  state:
+    shortLink: https://webring.page.link/Kh6f
 27632b8758a243693f7af421e4e6f668:facebook:
   spec:
     title: เปิดใช้ Auto Detect Workout บน Huawei Watch FIT [debuggingsoft.com]
