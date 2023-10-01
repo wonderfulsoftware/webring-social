@@ -3950,6 +3950,25 @@
     url: https://janescience.com/blog/android-trigger-notification
   state:
     shortLink: https://webring.page.link/Qyvz
+6162f137d0f82014810d981b274bf502:facebook:
+  spec:
+    title: Npm package for write jest easy [jitrak.dev]
+    url: https://jitrak.dev/posts/post-21-npm-package-for-write-jest-easy/
+  state:
+    id: '100746876247412_274358362220080'
+    url: https://www.facebook.com/100683012920950/posts/274358362220080
+6162f137d0f82014810d981b274bf502:mastodon:
+  spec:
+    title: Npm package for write jest easy [jitrak.dev]
+    url: https://jitrak.dev/posts/post-21-npm-package-for-write-jest-easy/
+  state:
+    id: '111159708075683406'
+    url: https://mastodon.in.th/@webring/111159708075683406
+6162f137d0f82014810d981b274bf502:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-21-npm-package-for-write-jest-easy/
+  state:
+    shortLink: https://webring.page.link/faL6
 6246e695e01f50a8bb3312b54045c8af:facebook:
   spec:
     title: สร้าง Web Application ด้วย Vite + React และ TypeScript [toupawa.com]
