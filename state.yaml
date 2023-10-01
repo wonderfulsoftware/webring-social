@@ -7427,6 +7427,25 @@ b79a1c96750fcb3f4c8bf911d46384f6:shorturl:
     url: https://janescience.com/blog/vue-warning
   state:
     shortLink: https://webring.page.link/eWZT
+b7a3782c4914148dba5e693b17fbdf87:facebook:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง Mobile testing ด้วย Appium [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-mobile-testing-with-appium/
+  state:
+    id: '100746876247412_274212698901313'
+    url: https://www.facebook.com/100683012920950/posts/274212698901313
+b7a3782c4914148dba5e693b17fbdf87:mastodon:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง Mobile testing ด้วย Appium [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-mobile-testing-with-appium/
+  state:
+    id: '111158276320897060'
+    url: https://mastodon.in.th/@webring/111158276320897060
+b7a3782c4914148dba5e693b17fbdf87:shorturl:
+  spec:
+    url: https://www.somkiat.cc/sharing-mobile-testing-with-appium/
+  state:
+    shortLink: https://webring.page.link/kMMf
 b7ed4ea6402e4dd022e2f8a43009eddb:mastodon:
   spec:
     title: 2022 [microbenz.in.th]
