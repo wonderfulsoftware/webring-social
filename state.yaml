@@ -8674,6 +8674,25 @@ d60a8308ade9890b6a7aa988d257c208:shorturl:
     url: https://kusumotolab.com/network-diagram-in-my-condo-2023/
   state:
     shortLink: https://webring.page.link/9b5E
+d656bec609fc7f1e7c0dcb206c9dacff:facebook:
+  spec:
+    title: The Cloud Camp Week#03 (Container 101) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week03/
+  state:
+    id: '100746876247412_274973445491905'
+    url: https://www.facebook.com/100683012920950/posts/274973445491905
+d656bec609fc7f1e7c0dcb206c9dacff:mastodon:
+  spec:
+    title: The Cloud Camp Week#03 (Container 101) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week03/
+  state:
+    id: '111164639921660260'
+    url: https://mastodon.in.th/@webring/111164639921660260
+d656bec609fc7f1e7c0dcb206c9dacff:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week03/
+  state:
+    shortLink: https://webring.page.link/6nh9
 d6a35221f6cfb34ebfb9500385db369c:facebook:
   spec:
     title: The HustleGPT challenge [dt.in.th]
