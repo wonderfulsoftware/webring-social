@@ -6002,6 +6002,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/06/try-azure-translation-service/
   state:
     shortLink: https://webring.page.link/9Rby
+8cb084029ca9628c9d288e11cabb11f1:facebook:
+  spec:
+    title: งาน LINE Conference Thailand 2023 มีอะไรบ้าง ไปดูกัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/line-conference-thailand-2023/
+  state:
+    id: '100746876247412_274837235505526'
+    url: https://www.facebook.com/100683012920950/posts/274837235505526
+8cb084029ca9628c9d288e11cabb11f1:mastodon:
+  spec:
+    title: งาน LINE Conference Thailand 2023 มีอะไรบ้าง ไปดูกัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/line-conference-thailand-2023/
+  state:
+    id: '111163223797931308'
+    url: https://mastodon.in.th/@webring/111163223797931308
+8cb084029ca9628c9d288e11cabb11f1:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/line-conference-thailand-2023/
+  state:
+    shortLink: https://webring.page.link/gVWg
 8d358a61c15c2566d49455b36443637b:facebook:
   spec:
     title: สวัสดี Dart 3 [somkiat.cc]
