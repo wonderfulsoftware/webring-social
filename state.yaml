@@ -492,6 +492,25 @@
     url: https://microbenz.in.th/2022-review/
   state:
     shortLink: https://webring.page.link/sqCH
+0fdefb38a01cf021d4d717b6bf19446a:facebook:
+  spec:
+    title: Manage multiple Git account in machine [jitrak.dev]
+    url: https://jitrak.dev/posts/post-22-manage-multiple-git-account-in-machine/
+  state:
+    id: '100746876247412_274908098831773'
+    url: https://www.facebook.com/100683012920950/posts/274908098831773
+0fdefb38a01cf021d4d717b6bf19446a:mastodon:
+  spec:
+    title: Manage multiple Git account in machine [jitrak.dev]
+    url: https://jitrak.dev/posts/post-22-manage-multiple-git-account-in-machine/
+  state:
+    id: '111163942481452356'
+    url: https://mastodon.in.th/@webring/111163942481452356
+0fdefb38a01cf021d4d717b6bf19446a:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-22-manage-multiple-git-account-in-machine/
+  state:
+    shortLink: https://webring.page.link/bWC5
 0fe22d8feab2db12f62c96988aa881c3:facebook:
   spec:
     title: สรุปสิ่งที่น่าสนใจในการย้ายระบบของ 37signals จาก cloud มาใช้ server ของตัวเอง [somkiat.cc]
