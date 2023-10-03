@@ -1594,6 +1594,25 @@
     url: https://notes.dt.in.th/NpmCheckmark
   state:
     shortLink: https://webring.page.link/eLXa
+285448231fcac3421538c2e83d98be2a:facebook:
+  spec:
+    title: XConf Thailand 2023 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/xconf-thailand-2023/
+  state:
+    id: '100746876247412_275447265444523'
+    url: https://www.facebook.com/100683012920950/posts/275447265444523
+285448231fcac3421538c2e83d98be2a:mastodon:
+  spec:
+    title: XConf Thailand 2023 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/xconf-thailand-2023/
+  state:
+    id: '111168885926846124'
+    url: https://mastodon.in.th/@webring/111168885926846124
+285448231fcac3421538c2e83d98be2a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/10/xconf-thailand-2023/
+  state:
+    shortLink: https://webring.page.link/F85v
 285bcef7ea615d9222bfa55f1e0f8d2f:facebook:
   spec:
     title: การใช้งาน EventPublisher ใน Spring Boot app [somkiat.cc]
