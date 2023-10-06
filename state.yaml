@@ -10244,6 +10244,25 @@ f9b8af3565b0c92ec88fc0adf128e0e5:shorturl:
     url: https://garden.narze.live/glob-import-modules-with-vite/
   state:
     shortLink: https://webring.page.link/vwKX
+fa6cc51098bb916e09966214732aa018:facebook:
+  spec:
+    title: 'AZ-104: Prerequisites for Azure administrators [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/10/az-104-prerequisites-for-azure-administrators/
+  state:
+    id: '100746876247412_277234431932473'
+    url: https://www.facebook.com/100683012920950/posts/277234431932473
+fa6cc51098bb916e09966214732aa018:mastodon:
+  spec:
+    title: 'AZ-104: Prerequisites for Azure administrators [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/10/az-104-prerequisites-for-azure-administrators/
+  state:
+    id: '111186591517154154'
+    url: https://mastodon.in.th/@webring/111186591517154154
+fa6cc51098bb916e09966214732aa018:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/10/az-104-prerequisites-for-azure-administrators/
+  state:
+    shortLink: https://webring.page.link/rDdQ
 fb195ce46fb3fa2e8954f2f1b9d0241d:facebook:
   spec:
     title: มาดู feature ที่น่าสนใจใน Java 21 GA ที่เพิ่งปล่อยออกมา [somkiat.cc]
