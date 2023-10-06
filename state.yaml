@@ -3551,6 +3551,25 @@
     url: https://www.somkiat.cc/noise-is-problem-for-productivity/
   state:
     shortLink: https://webring.page.link/mymH
+5ae4135f977d34743a80e1b96592778e:facebook:
+  spec:
+    title: มาลองใช้งาน Generative AI with MongoDB Atlas [somkiat.cc]
+    url: https://www.somkiat.cc/generative-api-with-mongodb-atlas/
+  state:
+    id: '100746876247412_277295971926319'
+    url: https://www.facebook.com/100683012920950/posts/277295971926319
+5ae4135f977d34743a80e1b96592778e:mastodon:
+  spec:
+    title: มาลองใช้งาน Generative AI with MongoDB Atlas [somkiat.cc]
+    url: https://www.somkiat.cc/generative-api-with-mongodb-atlas/
+  state:
+    id: '111187287938398454'
+    url: https://mastodon.in.th/@webring/111187287938398454
+5ae4135f977d34743a80e1b96592778e:shorturl:
+  spec:
+    url: https://www.somkiat.cc/generative-api-with-mongodb-atlas/
+  state:
+    shortLink: https://webring.page.link/LZNu
 5bad2dfa27f5bf49a7c24d0f0bc933b2:facebook:
   spec:
     title: Redis testing [kajame.xyz]
