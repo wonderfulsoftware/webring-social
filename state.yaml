@@ -6686,6 +6686,25 @@
     url: https://notes.dt.in.th/20230103T095819Z9158
   state:
     shortLink: https://webring.page.link/ADpo
+9c94eee33916f3e63f2633545813e587:facebook:
+  spec:
+    title: มาเรียนรู้ mindset การทำ graphic แบบเริ่มต้น ก่อนทำงานจริง [mikkipastel.com]
+    url: https://www.mikkipastel.com/basic-graphic-before-advance-level/
+  state:
+    id: '100746876247412_277169315272318'
+    url: https://www.facebook.com/100683012920950/posts/277169315272318
+9c94eee33916f3e63f2633545813e587:mastodon:
+  spec:
+    title: มาเรียนรู้ mindset การทำ graphic แบบเริ่มต้น ก่อนทำงานจริง [mikkipastel.com]
+    url: https://www.mikkipastel.com/basic-graphic-before-advance-level/
+  state:
+    id: '111185872729528957'
+    url: https://mastodon.in.th/@webring/111185872729528957
+9c94eee33916f3e63f2633545813e587:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/basic-graphic-before-advance-level/
+  state:
+    shortLink: https://webring.page.link/3kLo
 9ce085c9970487071b7c877936fd20f7:facebook:
   spec:
     title: Typing Guide [garden.narze.live]
