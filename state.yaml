@@ -4444,6 +4444,25 @@
     url: https://www.somkiat.cc/cypress-improve-performance/
   state:
     shortLink: https://webring.page.link/ntqD
+6962a1972c53ae1a3e0d1cbd7a2fe7c4:facebook:
+  spec:
+    title: Commit GitHub with signature verification with Keybase [jitrak.dev]
+    url: https://jitrak.dev/posts/post-23-commit-github-with-signature-verification-with-keybase/
+  state:
+    id: '100746876247412_277754045213845'
+    url: https://www.facebook.com/100683012920950/posts/277754045213845
+6962a1972c53ae1a3e0d1cbd7a2fe7c4:mastodon:
+  spec:
+    title: Commit GitHub with signature verification with Keybase [jitrak.dev]
+    url: https://jitrak.dev/posts/post-23-commit-github-with-signature-verification-with-keybase/
+  state:
+    id: '111191532818005442'
+    url: https://mastodon.in.th/@webring/111191532818005442
+6962a1972c53ae1a3e0d1cbd7a2fe7c4:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-23-commit-github-with-signature-verification-with-keybase/
+  state:
+    shortLink: https://webring.page.link/1Xfy
 6a3a97cb87f325c374bee1db2cbc6577:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 2 (Principles) [taoisaman.com]
