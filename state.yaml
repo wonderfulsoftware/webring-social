@@ -1404,6 +1404,25 @@
     url: https://www.somkiat.cc/spring-modulith-1-ga/
   state:
     shortLink: https://webring.page.link/sXEd
+253a7115306a60032c6562f77c7986a6:facebook:
+  spec:
+    title: Windows11/10 OpenSSH Server Public Key authentication [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/windows11-10-openssh-server-public-key-authentication/
+  state:
+    id: '100746876247412_277901321865784'
+    url: https://www.facebook.com/100683012920950/posts/277901321865784
+253a7115306a60032c6562f77c7986a6:mastodon:
+  spec:
+    title: Windows11/10 OpenSSH Server Public Key authentication [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/windows11-10-openssh-server-public-key-authentication/
+  state:
+    id: '111192943705559520'
+    url: https://mastodon.in.th/@webring/111192943705559520
+253a7115306a60032c6562f77c7986a6:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/10/windows11-10-openssh-server-public-key-authentication/
+  state:
+    shortLink: https://webring.page.link/QeVy
 257d7de477b006b3340359149803d448:facebook:
   spec:
     title: The Cloud Camp Week 01 [debuggingsoft.com]
