@@ -9510,6 +9510,25 @@ e7ffbaa2fda5aefedc5070c362d68517:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/03/developer-take-workshop-cloud-adoption-framework/
   state:
     shortLink: https://webring.page.link/kg2y
+e80eb92dca2ac81ed848aea0444a1294:facebook:
+  spec:
+    title: ตอนนี้ Google Chrome แสดงการใช้งาน memory ในแต่ละ tab ให้แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/google-chrome-show-memory-in-tab/
+  state:
+    id: '100746876247412_277830211872895'
+    url: https://www.facebook.com/100683012920950/posts/277830211872895
+e80eb92dca2ac81ed848aea0444a1294:mastodon:
+  spec:
+    title: ตอนนี้ Google Chrome แสดงการใช้งาน memory ในแต่ละ tab ให้แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/google-chrome-show-memory-in-tab/
+  state:
+    id: '111192249440299872'
+    url: https://mastodon.in.th/@webring/111192249440299872
+e80eb92dca2ac81ed848aea0444a1294:shorturl:
+  spec:
+    url: https://www.somkiat.cc/google-chrome-show-memory-in-tab/
+  state:
+    shortLink: https://webring.page.link/nwK7
 e8ea24902eaa1a6b8ab90bef703fb0fb:facebook:
   spec:
     title: Spatial data to QGIS server playbook (yes, this is for prod) [karnwong.me]
