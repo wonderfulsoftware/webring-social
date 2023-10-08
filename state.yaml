@@ -5508,6 +5508,25 @@
     url: https://www.somkiat.cc/mocking-api-server-with-miragejs/
   state:
     shortLink: https://webring.page.link/qq4Y
+7fee71deec17169280f6837f28ac7a60:facebook:
+  spec:
+    title: RubyConf TH 2023 [garden.narze.live]
+    url: https://garden.narze.live/rubyconf-th-2023/
+  state:
+    id: '100746876247412_278364605152789'
+    url: https://www.facebook.com/100683012920950/posts/278364605152789
+7fee71deec17169280f6837f28ac7a60:mastodon:
+  spec:
+    title: RubyConf TH 2023 [garden.narze.live]
+    url: https://garden.narze.live/rubyconf-th-2023/
+  state:
+    id: '111197194384102498'
+    url: https://mastodon.in.th/@webring/111197194384102498
+7fee71deec17169280f6837f28ac7a60:shorturl:
+  spec:
+    url: https://garden.narze.live/rubyconf-th-2023/
+  state:
+    shortLink: https://webring.page.link/ZR7F
 80982e4f445113b743523b0eb0d7368f:facebook:
   spec:
     title: มาเรียนรู้ NFT บน Internet Computer Protocol กัน กับงาน ICP World NFT [mikkipastel.com]
