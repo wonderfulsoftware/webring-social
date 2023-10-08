@@ -8731,6 +8731,25 @@ d384f899f92a93ab0815513af2e6e3e0:shorturl:
     url: https://lucian.solutions/blog/line-stickers-lucian-solutions
   state:
     shortLink: https://webring.page.link/MDjC
+d43d61f3576e738bae612abd09c7d2a2:facebook:
+  spec:
+    title: WSL alias suggestion [jitrak.dev]
+    url: https://jitrak.dev/posts/post-24-wsl-alias-suggestion/
+  state:
+    id: '100746876247412_278598555129394'
+    url: https://www.facebook.com/100683012920950/posts/278598555129394
+d43d61f3576e738bae612abd09c7d2a2:mastodon:
+  spec:
+    title: WSL alias suggestion [jitrak.dev]
+    url: https://jitrak.dev/posts/post-24-wsl-alias-suggestion/
+  state:
+    id: '111199343542396273'
+    url: https://mastodon.in.th/@webring/111199343542396273
+d43d61f3576e738bae612abd09c7d2a2:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-24-wsl-alias-suggestion/
+  state:
+    shortLink: https://webring.page.link/y4cY
 d487b3b6419ebd755aa2d80b7dd8b5fe:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 3 (Product Owner) [taoisaman.com]
