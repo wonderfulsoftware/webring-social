@@ -112,6 +112,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/vue-multiselect-typeerror-cannot-read-properties-of-undefined-reading-_cvue3/
   state:
     shortLink: https://webring.page.link/qMY5
+049b55ed62933d057af490c406ed59de:facebook:
+  spec:
+    title: วิธีฟังดนตรีคลาสสิก ฉบับมือใหม่ [thammarith.dev]
+    url: https://thammarith.dev/blog/classical-music-concert-guide/
+  state:
+    id: '100746876247412_278442945144955'
+    url: https://www.facebook.com/100683012920950/posts/278442945144955
+049b55ed62933d057af490c406ed59de:mastodon:
+  spec:
+    title: วิธีฟังดนตรีคลาสสิก ฉบับมือใหม่ [thammarith.dev]
+    url: https://thammarith.dev/blog/classical-music-concert-guide/
+  state:
+    id: '111197911701739827'
+    url: https://mastodon.in.th/@webring/111197911701739827
+049b55ed62933d057af490c406ed59de:shorturl:
+  spec:
+    url: https://thammarith.dev/blog/classical-music-concert-guide/
+  state:
+    shortLink: https://webring.page.link/enLZ
 049b791599c5a31533a5260873ea3523:facebook:
   spec:
     title: Happy New Year 2023 [blog.oatto.dev]
