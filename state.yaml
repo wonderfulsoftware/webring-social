@@ -8541,6 +8541,25 @@ cfd77637023899ca0b208faf0b85c341:shorturl:
     url: https://tinarskii.com/articles/computer
   state:
     shortLink: https://webring.page.link/uxzB
+d05009833641cb3e21217d95badab7e2:facebook:
+  spec:
+    title: ตอบคำถามเกี่ยวกับ Selinium Grid 4 และ Appium [somkiat.cc]
+    url: https://www.somkiat.cc/selinium-grid-4-and-appium/
+  state:
+    id: '100746876247412_278518978470685'
+    url: https://www.facebook.com/100683012920950/posts/278518978470685
+d05009833641cb3e21217d95badab7e2:mastodon:
+  spec:
+    title: ตอบคำถามเกี่ยวกับ Selinium Grid 4 และ Appium [somkiat.cc]
+    url: https://www.somkiat.cc/selinium-grid-4-and-appium/
+  state:
+    id: '111198607025563225'
+    url: https://mastodon.in.th/@webring/111198607025563225
+d05009833641cb3e21217d95badab7e2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/selinium-grid-4-and-appium/
+  state:
+    shortLink: https://webring.page.link/pLXJ
 d09e362befe037c0c29309df5304b501:facebook:
   spec:
     title: '[Presentation] Universal Motor [siravijbb.me]'
