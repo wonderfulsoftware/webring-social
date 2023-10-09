@@ -3513,6 +3513,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/update-each-dependency-in-package-dot-json-to-lasted-version/
   state:
     shortLink: https://webring.page.link/bXAy
+575d39c8dd1fefc9c3f12bc4987283ee:facebook:
+  spec:
+    title: อยาก Re-Install OS เครื่องบน Cloud ใหม่ แต่ไม่อยาก Terminate เครื่องทิ้ง ทำไงดี [kusumotolab.com]
+    url: https://kusumotolab.com/how-to-re-install-os-on-cloub-without-terminate-instance/
+  state:
+    id: '100746876247412_279069288415654'
+    url: https://www.facebook.com/100683012920950/posts/279069288415654
+575d39c8dd1fefc9c3f12bc4987283ee:mastodon:
+  spec:
+    title: อยาก Re-Install OS เครื่องบน Cloud ใหม่ แต่ไม่อยาก Terminate เครื่องทิ้ง ทำไงดี [kusumotolab.com]
+    url: https://kusumotolab.com/how-to-re-install-os-on-cloub-without-terminate-instance/
+  state:
+    id: '111203580440560738'
+    url: https://mastodon.in.th/@webring/111203580440560738
+575d39c8dd1fefc9c3f12bc4987283ee:shorturl:
+  spec:
+    url: https://kusumotolab.com/how-to-re-install-os-on-cloub-without-terminate-instance/
+  state:
+    shortLink: https://webring.page.link/KJqR
 576a7bf830594822c6b76cfa7049d9ed:facebook:
   spec:
     title: ลองมาฟัง AWS Auto Scaling EC2 & Spot Instance [debuggingsoft.com]
