@@ -7028,6 +7028,25 @@ a474c8fc55f6da5107eba26e954e282b:shorturl:
     url: https://www.mikkipastel.com/how-to-capture-website-from-google-chrome/
   state:
     shortLink: https://webring.page.link/QVgK
+a491716d589e8e9b334735131fca8ad6:facebook:
+  spec:
+    title: 'Docker Tips :: การสร้าง image แบบ multi-architecture [somkiat.cc]'
+    url: https://www.somkiat.cc/docker-tips-multi-architecture-image/
+  state:
+    id: '100746876247412_278993058423277'
+    url: https://www.facebook.com/100683012920950/posts/278993058423277
+a491716d589e8e9b334735131fca8ad6:mastodon:
+  spec:
+    title: 'Docker Tips :: การสร้าง image แบบ multi-architecture [somkiat.cc]'
+    url: https://www.somkiat.cc/docker-tips-multi-architecture-image/
+  state:
+    id: '111202859966229700'
+    url: https://mastodon.in.th/@webring/111202859966229700
+a491716d589e8e9b334735131fca8ad6:shorturl:
+  spec:
+    url: https://www.somkiat.cc/docker-tips-multi-architecture-image/
+  state:
+    shortLink: https://webring.page.link/WWRV
 a4a402da58b6a08d45144a0ae25feca7:facebook:
   spec:
     title: เปลี่ยนภาษาใน Windows 11 [debuggingsoft.com]
