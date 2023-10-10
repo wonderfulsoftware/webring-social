@@ -1670,6 +1670,25 @@
     url: https://www.somkiat.cc/note-event-publisher-spring-boot-app/
   state:
     shortLink: https://webring.page.link/Jqak
+28d2c858435ac6b7a37fcd3e58b00bfc:facebook:
+  spec:
+    title: “ความลับที่คนประสบความสำเร็จไม่เคยบอกคุณ” ที่รู้แล้ว ย่นเวลาให้เราประสบความสำเร็จเร็วขึ้น [mikkipastel.com]
+    url: https://www.mikkipastel.com/the-secret-of-enterpreneurial-success/
+  state:
+    id: '100746876247412_279614778361105'
+    url: https://www.facebook.com/100683012920950/posts/279614778361105
+28d2c858435ac6b7a37fcd3e58b00bfc:mastodon:
+  spec:
+    title: “ความลับที่คนประสบความสำเร็จไม่เคยบอกคุณ” ที่รู้แล้ว ย่นเวลาให้เราประสบความสำเร็จเร็วขึ้น [mikkipastel.com]
+    url: https://www.mikkipastel.com/the-secret-of-enterpreneurial-success/
+  state:
+    id: '111208521891686813'
+    url: https://mastodon.in.th/@webring/111208521891686813
+28d2c858435ac6b7a37fcd3e58b00bfc:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/the-secret-of-enterpreneurial-success/
+  state:
+    shortLink: https://webring.page.link/J6CH
 29013b818305686632b0fcd2a943d251:facebook:
   spec:
     title: ทำความรู้จัก Progressive Web Apps [mikkipastel.com]
