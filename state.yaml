@@ -1271,6 +1271,25 @@
     url: https://www.somkiat.cc/resource-saver-mode-in-docker-destop/
   state:
     shortLink: https://webring.page.link/bySb
+1f1fd6c136e3be021ea09978deb73d81:facebook:
+  spec:
+    title: The Cloud Camp Week#04 (Agile) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week04-agile/
+  state:
+    id: '100746876247412_279696581686258'
+    url: https://www.facebook.com/100683012920950/posts/279696581686258
+1f1fd6c136e3be021ea09978deb73d81:mastodon:
+  spec:
+    title: The Cloud Camp Week#04 (Agile) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week04-agile/
+  state:
+    id: '111209241545606239'
+    url: https://mastodon.in.th/@webring/111209241545606239
+1f1fd6c136e3be021ea09978deb73d81:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week04-agile/
+  state:
+    shortLink: https://webring.page.link/CVz3
 1f93fdb2aec0a23db2624253e995e8e1:facebook:
   spec:
     title: สรุปจากบทความเรื่อง The SPACE of Developer Productivity [somkiat.cc]
