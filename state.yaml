@@ -1385,6 +1385,25 @@
     url: https://www.somkiat.cc/note-sql-query-optimization/
   state:
     shortLink: https://webring.page.link/X7sW
+216d062a540f0e351a69b726e1aeb6b8:facebook:
+  spec:
+    title: How to fix cannot boot when change EC2 instance type from Xen to Nitro for SUSE Linux Enterprise for SAP 15 [kusumotolab.com]
+    url: https://kusumotolab.com/how-to-fix-cannot-boot-when-change-ec2-instance-type-from-xen-to-nitro-for-suse-linux-enterprise-for-sap-15/
+  state:
+    id: '100746876247412_280951594894090'
+    url: https://www.facebook.com/100683012920950/posts/280951594894090
+216d062a540f0e351a69b726e1aeb6b8:mastodon:
+  spec:
+    title: How to fix cannot boot when change EC2 instance type from Xen to Nitro for SUSE Linux Enterprise for SAP 15 [kusumotolab.com]
+    url: https://kusumotolab.com/how-to-fix-cannot-boot-when-change-ec2-instance-type-from-xen-to-nitro-for-suse-linux-enterprise-for-sap-15/
+  state:
+    id: '111220566249406350'
+    url: https://mastodon.in.th/@webring/111220566249406350
+216d062a540f0e351a69b726e1aeb6b8:shorturl:
+  spec:
+    url: https://kusumotolab.com/how-to-fix-cannot-boot-when-change-ec2-instance-type-from-xen-to-nitro-for-suse-linux-enterprise-for-sap-15/
+  state:
+    shortLink: https://webring.page.link/6wT2
 21f4a335030a5b27bc78206536bc4d24:facebook:
   spec:
     title: เพิ่งเห็นว่า Text Editor ชื่อ Atom นั้นหยุดพัฒนาไปแล้ว [somkiat.cc]
