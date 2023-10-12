@@ -4938,6 +4938,25 @@
     url: https://notes.dt.in.th/DiscordThaiMessage
   state:
     shortLink: https://webring.page.link/k1ue
+700431565a45478c7d9a2553f01f3fc1:facebook:
+  spec:
+    title: Software Telemetry คือ อะไร [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/software-telemetry-%e0%b8%84%e0%b8%b7%e0%b8%ad-%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/
+  state:
+    id: '100746876247412_280874488235134'
+    url: https://www.facebook.com/100683012920950/posts/280874488235134
+700431565a45478c7d9a2553f01f3fc1:mastodon:
+  spec:
+    title: Software Telemetry คือ อะไร [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/software-telemetry-%e0%b8%84%e0%b8%b7%e0%b8%ad-%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/
+  state:
+    id: '111219846237203311'
+    url: https://mastodon.in.th/@webring/111219846237203311
+700431565a45478c7d9a2553f01f3fc1:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/10/software-telemetry-%e0%b8%84%e0%b8%b7%e0%b8%ad-%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/
+  state:
+    shortLink: https://webring.page.link/bdLx
 700b9672cf4f092e63fd53f41847a58e:facebook:
   spec:
     title: The mythical ChatOps in action [karnwong.me]
