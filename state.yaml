@@ -6002,6 +6002,25 @@
     url: https://garden.narze.live/100daysofcode-r3-55-garden-astro/
   state:
     shortLink: https://webring.page.link/Kdsu
+86cb341bc728530227f0e3dc22703b27:facebook:
+  spec:
+    title: '[C#] ลองใช้งานตัว DebuggerDisplayAttribute [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/10/customize-object-displays-in-the-visual-studio-by-usingdebuggerdisplayattribute/
+  state:
+    id: '100746876247412_281521231503793'
+    url: https://www.facebook.com/100683012920950/posts/281521231503793
+86cb341bc728530227f0e3dc22703b27:mastodon:
+  spec:
+    title: '[C#] ลองใช้งานตัว DebuggerDisplayAttribute [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/10/customize-object-displays-in-the-visual-studio-by-usingdebuggerdisplayattribute/
+  state:
+    id: '111225510409948496'
+    url: https://mastodon.in.th/@webring/111225510409948496
+86cb341bc728530227f0e3dc22703b27:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/10/customize-object-displays-in-the-visual-studio-by-usingdebuggerdisplayattribute/
+  state:
+    shortLink: https://webring.page.link/MdS6
 881587e2256b9d1c4719cf8c68b96993:facebook:
   spec:
     title: DuckDB vs Polars vs Spark! [karnwong.me]
