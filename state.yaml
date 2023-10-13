@@ -10156,6 +10156,25 @@ f20083070e84071ac58c3eefa3bce0fe:shorturl:
     url: https://taoisaman.com/2023/02/20/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99/
   state:
     shortLink: https://webring.page.link/Wk3P
+f2b9369bda9bd459936470f4a1f49544:facebook:
+  spec:
+    title: ใช้งาน Go Toolchains สำหรับจัดการ version ของ Go [somkiat.cc]
+    url: https://www.somkiat.cc/go-toolchains/
+  state:
+    id: '100746876247412_281605091495407'
+    url: https://www.facebook.com/100683012920950/posts/281605091495407
+f2b9369bda9bd459936470f4a1f49544:mastodon:
+  spec:
+    title: ใช้งาน Go Toolchains สำหรับจัดการ version ของ Go [somkiat.cc]
+    url: https://www.somkiat.cc/go-toolchains/
+  state:
+    id: '111226228668639988'
+    url: https://mastodon.in.th/@webring/111226228668639988
+f2b9369bda9bd459936470f4a1f49544:shorturl:
+  spec:
+    url: https://www.somkiat.cc/go-toolchains/
+  state:
+    shortLink: https://webring.page.link/3tC4
 f2c2df3dbfc439a1bc5ead97f83d7be1:facebook:
   spec:
     title: สรุปงาน Global Azure 2023 Thailand [debuggingsoft.com]
