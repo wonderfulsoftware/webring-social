@@ -302,6 +302,25 @@
     url: https://kajame.xyz/blog/%E0%B9%81%E0%B8%81%E0%B9%89%20Error%20%22xcodebuild%22%20command%20but%20it%20exited%20with%20error%20code%2065
   state:
     shortLink: https://webring.page.link/ZZUH
+09c65794dfa1c89342d8b389466ba359:facebook:
+  spec:
+    title: สิ่งที่มักเจอบ่อย ๆ ใน CI/CD [somkiat.cc]
+    url: https://www.somkiat.cc/mistakes-in-ci-cd/
+  state:
+    id: '100746876247412_282942584694991'
+    url: https://www.facebook.com/100683012920950/posts/282942584694991
+09c65794dfa1c89342d8b389466ba359:mastodon:
+  spec:
+    title: สิ่งที่มักเจอบ่อย ๆ ใน CI/CD [somkiat.cc]
+    url: https://www.somkiat.cc/mistakes-in-ci-cd/
+  state:
+    id: '111237548326705637'
+    url: https://mastodon.in.th/@webring/111237548326705637
+09c65794dfa1c89342d8b389466ba359:shorturl:
+  spec:
+    url: https://www.somkiat.cc/mistakes-in-ci-cd/
+  state:
+    shortLink: https://webring.page.link/dqf5
 0a2b0c5c6d3a86e26c366b07c9c40e4f:facebook:
   spec:
     title: Docker scan ถูกเอาออกไปแล้ว แทนที่ด้วย Docker Scout [somkiat.cc]
