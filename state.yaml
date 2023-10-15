@@ -3665,6 +3665,25 @@
     url: https://www.somkiat.cc/noise-is-problem-for-productivity/
   state:
     shortLink: https://webring.page.link/mymH
+5ab590d9b1bdad1dd4d601a1acb06ec7:facebook:
+  spec:
+    title: ทำความรู้จัก .pipe() ใน Node.js [kajame.xyz]
+    url: https://kajame.xyz/blog/what-is-pipe-in-node-js
+  state:
+    id: '100746876247412_282860991369817'
+    url: https://www.facebook.com/100683012920950/posts/282860991369817
+5ab590d9b1bdad1dd4d601a1acb06ec7:mastodon:
+  spec:
+    title: ทำความรู้จัก .pipe() ใน Node.js [kajame.xyz]
+    url: https://kajame.xyz/blog/what-is-pipe-in-node-js
+  state:
+    id: '111236831393098705'
+    url: https://mastodon.in.th/@webring/111236831393098705
+5ab590d9b1bdad1dd4d601a1acb06ec7:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/what-is-pipe-in-node-js
+  state:
+    shortLink: https://webring.page.link/LUXK
 5ae4135f977d34743a80e1b96592778e:facebook:
   spec:
     title: มาลองใช้งาน Generative AI with MongoDB Atlas [somkiat.cc]
