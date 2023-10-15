@@ -10080,6 +10080,25 @@ ef83bc2fa4075609c9b4cc4e91ac2644:shorturl:
     url: https://www.somkiat.cc/react-visualized/
   state:
     shortLink: https://webring.page.link/zUrm
+f04ab2c55ae499df3dd8c21ad0de623c:facebook:
+  spec:
+    title: '[CR] MOM’S TOUCH @ICS [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/10/cr-moms-touch-ics/
+  state:
+    id: '100746876247412_283024898020093'
+    url: https://www.facebook.com/100683012920950/posts/283024898020093
+f04ab2c55ae499df3dd8c21ad0de623c:mastodon:
+  spec:
+    title: '[CR] MOM’S TOUCH @ICS [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/10/cr-moms-touch-ics/
+  state:
+    id: '111238243294446455'
+    url: https://mastodon.in.th/@webring/111238243294446455
+f04ab2c55ae499df3dd8c21ad0de623c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/10/cr-moms-touch-ics/
+  state:
+    shortLink: https://webring.page.link/ndq8
 f09c3739636c28f5df703812b2b95e57:facebook:
   spec:
     title: 2022 [yothinix.com]
