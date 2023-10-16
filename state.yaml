@@ -3000,6 +3000,25 @@
     url: https://www.somkiat.cc/note-prompt-injection/
   state:
     shortLink: https://webring.page.link/rj8b
+48c868a890766b59f38728d1b46e0def:facebook:
+  spec:
+    title: The Cloud Camp Week#05 (docker compose) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week05-docker-compose/
+  state:
+    id: '100746876247412_283570691298847'
+    url: https://www.facebook.com/100683012920950/posts/283570691298847
+48c868a890766b59f38728d1b46e0def:mastodon:
+  spec:
+    title: The Cloud Camp Week#05 (docker compose) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week05-docker-compose/
+  state:
+    id: '111242496602509548'
+    url: https://mastodon.in.th/@webring/111242496602509548
+48c868a890766b59f38728d1b46e0def:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week05-docker-compose/
+  state:
+    shortLink: https://webring.page.link/QgkH
 49aab119dce1f8700889951156c52cce:facebook:
   spec:
     title: 'Java 21 :: รูปแบบการเขียนที่ง่ายต่อคนเริ่มต้น [somkiat.cc]'
