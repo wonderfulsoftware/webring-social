@@ -9529,6 +9529,25 @@ e29c6f2358bde3729584684d4e296a57:shorturl:
     url: https://lucian.solutions/blog/papang-uvu-art-trade
   state:
     shortLink: https://webring.page.link/bJXc
+e2a6b625c0c28bed7c6604d33272d829:facebook:
+  spec:
+    title: Distroless Container Images [jitrak.dev]
+    url: https://jitrak.dev/posts/post-25-distroless-container-images/
+  state:
+    id: '100746876247412_284803471175569'
+    url: https://www.facebook.com/100683012920950/posts/284803471175569
+e2a6b625c0c28bed7c6604d33272d829:mastodon:
+  spec:
+    title: Distroless Container Images [jitrak.dev]
+    url: https://jitrak.dev/posts/post-25-distroless-container-images/
+  state:
+    id: '111253821262375891'
+    url: https://mastodon.in.th/@webring/111253821262375891
+e2a6b625c0c28bed7c6604d33272d829:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-25-distroless-container-images/
+  state:
+    shortLink: https://webring.page.link/DGbF
 e2b9454591bd41eb9cdeea3a0a83b0c8:facebook:
   spec:
     title: แก้ระบบสมการเชิงเส้นด้วยดีเทอร์มิแนนต์ [neizod.dev]
