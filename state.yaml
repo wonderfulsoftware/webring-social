@@ -9301,6 +9301,25 @@ dbfdd18387cc7595596a1d631761d697:shorturl:
     url: https://www.somkiat.cc/postman-suppport-mqtt/
   state:
     shortLink: https://webring.page.link/uP4i
+dc28e0b375bb5aa2b9fc5f69db58b059:facebook:
+  spec:
+    title: '.NET 8 :: Native AOT ใช้ได้ใน ASP.NET Core แล้ว [somkiat.cc]'
+    url: https://www.somkiat.cc/net-8-native-aot-with-aspnet-core/
+  state:
+    id: '100746876247412_285454534443796'
+    url: https://www.facebook.com/100683012920950/posts/285454534443796
+dc28e0b375bb5aa2b9fc5f69db58b059:mastodon:
+  spec:
+    title: '.NET 8 :: Native AOT ใช้ได้ใน ASP.NET Core แล้ว [somkiat.cc]'
+    url: https://www.somkiat.cc/net-8-native-aot-with-aspnet-core/
+  state:
+    id: '111259483156915340'
+    url: https://mastodon.in.th/@webring/111259483156915340
+dc28e0b375bb5aa2b9fc5f69db58b059:shorturl:
+  spec:
+    url: https://www.somkiat.cc/net-8-native-aot-with-aspnet-core/
+  state:
+    shortLink: https://webring.page.link/5j3F
 dc612d03fc7d7dbc6a2306d6adef4600:facebook:
   spec:
     title: สร้างระบบ Monitoring Springboot + Prometheus + Grafana ด้วย Docker [poolsawat.com]
