@@ -3095,6 +3095,25 @@
     url: https://toupawa.com/how-to-use-the-interactively-manage-your-nodejs-versions-library/
   state:
     shortLink: https://webring.page.link/akbp
+4a5a399c84906a20b95505385f8b6f7a:facebook:
+  spec:
+    title: เข้าค่าย Compose Camp ชาว Android Developer กัน (ช่วงเช้า) [mikkipastel.com]
+    url: https://www.mikkipastel.com/th-compose-camp-first-half/
+  state:
+    id: '100746876247412_286262271029689'
+    url: https://www.facebook.com/100683012920950/posts/286262271029689
+4a5a399c84906a20b95505385f8b6f7a:mastodon:
+  spec:
+    title: เข้าค่าย Compose Camp ชาว Android Developer กัน (ช่วงเช้า) [mikkipastel.com]
+    url: https://www.mikkipastel.com/th-compose-camp-first-half/
+  state:
+    id: '111267298190509147'
+    url: https://mastodon.in.th/@webring/111267298190509147
+4a5a399c84906a20b95505385f8b6f7a:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/th-compose-camp-first-half/
+  state:
+    shortLink: https://webring.page.link/YpiY
 4a8e1f5a13736045ed051f0e23303230:facebook:
   spec:
     title: เปิดประสบการณ์ใหม่ กับงานเทคในโรงหนัง กับ Google IO Extended 2023 [mikkipastel.com]
