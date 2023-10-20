@@ -8294,6 +8294,25 @@ c398c50193817b68dc475a64923a4c0d:shorturl:
     url: https://tinarskii.com/articles/undefined
   state:
     shortLink: https://webring.page.link/PNAf
+c3b9fa1e422624b1444e8bb4dc146ddc:facebook:
+  spec:
+    title: '[micro-learning] สรุป Verbal to Visual Note Taking [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/10/verbal-to-visual/
+  state:
+    id: '100746876247412_286114347711148'
+    url: https://www.facebook.com/100683012920950/posts/286114347711148
+c3b9fa1e422624b1444e8bb4dc146ddc:mastodon:
+  spec:
+    title: '[micro-learning] สรุป Verbal to Visual Note Taking [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/10/verbal-to-visual/
+  state:
+    id: '111265863777964459'
+    url: https://mastodon.in.th/@webring/111265863777964459
+c3b9fa1e422624b1444e8bb4dc146ddc:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/10/verbal-to-visual/
+  state:
+    shortLink: https://webring.page.link/xeLc
 c3da7a07f3a14049fe1ad27366faad33:facebook:
   spec:
     title: Jenkins-Git Parameter Filter Branch Name [debuggingsoft.com]
