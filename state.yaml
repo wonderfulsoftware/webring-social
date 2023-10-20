@@ -1442,6 +1442,25 @@
     url: https://www.somkiat.cc/bye-bye-atom/
   state:
     shortLink: https://webring.page.link/VXX6
+2296f43a5331978eebc81d7f7ee8e48a:facebook:
+  spec:
+    title: สวัสดี Node.js 21 [somkiat.cc]
+    url: https://www.somkiat.cc/nodejs-21/
+  state:
+    id: '100746876247412_286178501038066'
+    url: https://www.facebook.com/100683012920950/posts/286178501038066
+2296f43a5331978eebc81d7f7ee8e48a:mastodon:
+  spec:
+    title: สวัสดี Node.js 21 [somkiat.cc]
+    url: https://www.somkiat.cc/nodejs-21/
+  state:
+    id: '111266558759911954'
+    url: https://mastodon.in.th/@webring/111266558759911954
+2296f43a5331978eebc81d7f7ee8e48a:shorturl:
+  spec:
+    url: https://www.somkiat.cc/nodejs-21/
+  state:
+    shortLink: https://webring.page.link/q3au
 236954767bc9158e3586b9b5b78e6788:facebook:
   spec:
     title: '[NUGET] error NU1101 + warning NU1801 ตอน Build ผ่าน Jenkins Windows Service [debuggingsoft.com]'
