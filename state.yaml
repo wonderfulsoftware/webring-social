@@ -2772,6 +2772,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/knowledge-note-it-should-be-created-immediately-not-to-create-when-you-plan-to-resign/
   state:
     shortLink: https://webring.page.link/qhLV
+4076586879161786b0fd6c1e88b05af3:facebook:
+  spec:
+    title: Keyboard [llun.me]
+    url: https://www.llun.me/posts/2023-10-20-keyboard
+  state:
+    id: '100746876247412_286635117659071'
+    url: https://www.facebook.com/100683012920950/posts/286635117659071
+4076586879161786b0fd6c1e88b05af3:mastodon:
+  spec:
+    title: Keyboard [llun.me]
+    url: https://www.llun.me/posts/2023-10-20-keyboard
+  state:
+    id: '111270805495299026'
+    url: https://mastodon.in.th/@webring/111270805495299026
+4076586879161786b0fd6c1e88b05af3:shorturl:
+  spec:
+    url: https://www.llun.me/posts/2023-10-20-keyboard
+  state:
+    shortLink: https://webring.page.link/As2G
 413249c4d675278cecff171431098cf5:facebook:
   spec:
     title: Configuring Network between Host and Guest VM in VirtualBox [debuggingsoft.com]
