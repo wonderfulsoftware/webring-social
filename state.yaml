@@ -8826,6 +8826,25 @@ cfd77637023899ca0b208faf0b85c341:shorturl:
     url: https://tinarskii.com/articles/computer
   state:
     shortLink: https://webring.page.link/uxzB
+d01a321743a082aac7f03c8107fad21e:facebook:
+  spec:
+    title: การสร้าง Coroutine Task in Python [poolsawat.com]
+    url: https://www.poolsawat.com/how-to-create-coroutine-task-in-python/
+  state:
+    id: '100746876247412_287201497602433'
+    url: https://www.facebook.com/100683012920950/posts/287201497602433
+d01a321743a082aac7f03c8107fad21e:mastodon:
+  spec:
+    title: การสร้าง Coroutine Task in Python [poolsawat.com]
+    url: https://www.poolsawat.com/how-to-create-coroutine-task-in-python/
+  state:
+    id: '111276468677266523'
+    url: https://mastodon.in.th/@webring/111276468677266523
+d01a321743a082aac7f03c8107fad21e:shorturl:
+  spec:
+    url: https://www.poolsawat.com/how-to-create-coroutine-task-in-python/
+  state:
+    shortLink: https://webring.page.link/RSzo
 d05009833641cb3e21217d95badab7e2:facebook:
   spec:
     title: ตอบคำถามเกี่ยวกับ Selinium Grid 4 และ Appium [somkiat.cc]
