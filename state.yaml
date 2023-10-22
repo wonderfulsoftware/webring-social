@@ -7826,6 +7826,25 @@ b220dd9537e097e7bfe323aa295be7ef:shorturl:
     url: https://www.llun.me/posts/dev/2023-02-12-mastodon-timeline
   state:
     shortLink: https://webring.page.link/iL5t
+b292aa949ae42c9620ef7b7a939c7426:facebook:
+  spec:
+    title: ลองใช้ GitLab REST API [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89-gitlab-rest-api/
+  state:
+    id: '100746876247412_287273210928595'
+    url: https://www.facebook.com/100683012920950/posts/287273210928595
+b292aa949ae42c9620ef7b7a939c7426:mastodon:
+  spec:
+    title: ลองใช้ GitLab REST API [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89-gitlab-rest-api/
+  state:
+    id: '111277183767226113'
+    url: https://mastodon.in.th/@webring/111277183767226113
+b292aa949ae42c9620ef7b7a939c7426:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/10/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89-gitlab-rest-api/
+  state:
+    shortLink: https://webring.page.link/v7nE
 b67c68ab72b1009cf2e73735c84dba8a:facebook:
   spec:
     title: ทดลองใช้ AI generate ภาพ แบบ text-to-image จากเว็บไซต์ต่าง ๆ [mikkipastel.com]
