@@ -7864,6 +7864,25 @@ b292aa949ae42c9620ef7b7a939c7426:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/10/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89-gitlab-rest-api/
   state:
     shortLink: https://webring.page.link/v7nE
+b534a5d73bd624f67b27fe8cd0bde7d6:facebook:
+  spec:
+    title: ลองใช้ Built-in env file ใน Node 20 [anuwong.com]
+    url: https://www.anuwong.com/blog/node-20-env-with-confident/
+  state:
+    id: '100746876247412_287422597580323'
+    url: https://www.facebook.com/100683012920950/posts/287422597580323
+b534a5d73bd624f67b27fe8cd0bde7d6:mastodon:
+  spec:
+    title: ลองใช้ Built-in env file ใน Node 20 [anuwong.com]
+    url: https://www.anuwong.com/blog/node-20-env-with-confident/
+  state:
+    id: '111278615364901397'
+    url: https://mastodon.in.th/@webring/111278615364901397
+b534a5d73bd624f67b27fe8cd0bde7d6:shorturl:
+  spec:
+    url: https://www.anuwong.com/blog/node-20-env-with-confident/
+  state:
+    shortLink: https://webring.page.link/Mr91
 b67c68ab72b1009cf2e73735c84dba8a:facebook:
   spec:
     title: ทดลองใช้ AI generate ภาพ แบบ text-to-image จากเว็บไซต์ต่าง ๆ [mikkipastel.com]
