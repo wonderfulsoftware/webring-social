@@ -5109,6 +5109,25 @@
     url: https://www.karnwong.me/posts/2023/04/the-mythical-chatops-in-action/
   state:
     shortLink: https://webring.page.link/n5cb
+7085995af569ce4037214bb176ecfd7f:facebook:
+  spec:
+    title: 'Robot Framework :: SeleniumLibrary 6.1.3 แก้ไขการ ใช้งาน remote url แล้ว [somkiat.cc]'
+    url: https://www.somkiat.cc/seleniumlibrary-6-1-3/
+  state:
+    id: '100746876247412_287339737588609'
+    url: https://www.facebook.com/100683012920950/posts/287339737588609
+7085995af569ce4037214bb176ecfd7f:mastodon:
+  spec:
+    title: 'Robot Framework :: SeleniumLibrary 6.1.3 แก้ไขการ ใช้งาน remote url แล้ว [somkiat.cc]'
+    url: https://www.somkiat.cc/seleniumlibrary-6-1-3/
+  state:
+    id: '111277879171068933'
+    url: https://mastodon.in.th/@webring/111277879171068933
+7085995af569ce4037214bb176ecfd7f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/seleniumlibrary-6-1-3/
+  state:
+    shortLink: https://webring.page.link/sfv6
 710f0b3cca25e6e7d188ee519b80c362:facebook:
   spec:
     title: ทำความเข้าใจ “MQTT with TLS” ใน AWS IoT Core สักหน่อย [thanapon.info]
