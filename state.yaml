@@ -1442,6 +1442,25 @@
     url: https://www.somkiat.cc/bye-bye-atom/
   state:
     shortLink: https://webring.page.link/VXX6
+22831b3aad446be3ca103c999b7231d3:facebook:
+  spec:
+    title: The Cloud Camp Week#06 (K8S Part1) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week06-k8s-p1/
+  state:
+    id: '100746876247412_287885057534077'
+    url: https://www.facebook.com/100683012920950/posts/287885057534077
+22831b3aad446be3ca103c999b7231d3:mastodon:
+  spec:
+    title: The Cloud Camp Week#06 (K8S Part1) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week06-k8s-p1/
+  state:
+    id: '111282853037478279'
+    url: https://mastodon.in.th/@webring/111282853037478279
+22831b3aad446be3ca103c999b7231d3:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week06-k8s-p1/
+  state:
+    shortLink: https://webring.page.link/4uab
 2296f43a5331978eebc81d7f7ee8e48a:facebook:
   spec:
     title: สวัสดี Node.js 21 [somkiat.cc]
