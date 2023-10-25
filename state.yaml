@@ -1195,6 +1195,25 @@
     url: https://www.somkiat.cc/hello-postbot-in-postman/
   state:
     shortLink: https://webring.page.link/UzgP
+1c8662a8f933bfebc549b1fdf2d465cb:facebook:
+  spec:
+    title: Short note from book "metamorphosis" [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/short-note-from-book-metamorphosis/
+  state:
+    id: '100746876247412_289065140749402'
+    url: https://www.facebook.com/100683012920950/posts/289065140749402
+1c8662a8f933bfebc549b1fdf2d465cb:mastodon:
+  spec:
+    title: Short note from book "metamorphosis" [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/short-note-from-book-metamorphosis/
+  state:
+    id: '111293457133669077'
+    url: https://mastodon.in.th/@webring/111293457133669077
+1c8662a8f933bfebc549b1fdf2d465cb:shorturl:
+  spec:
+    url: https://yuttakhanb.dev/posts/short-note-from-book-metamorphosis/
+  state:
+    shortLink: https://webring.page.link/d2VQ
 1cd21d8b0fa974479227ff21b6e8448f:facebook:
   spec:
     title: DB2 Driver งงไปหมดด [debuggingsoft.com]
