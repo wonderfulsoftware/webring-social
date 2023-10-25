@@ -10871,6 +10871,25 @@ f8e049c5ebee8c93763ff7aaa624257f:shorturl:
     url: https://notes.dt.in.th/MongoDBAuthSource
   state:
     shortLink: https://webring.page.link/jRDn
+f95260ea32c3b591957690ea58296d2c:facebook:
+  spec:
+    title: ตอบคำถามเรื่อง การทดสอบ Mobile app กับระบบ network [somkiat.cc]
+    url: https://www.somkiat.cc/mock-api-server-in-mobile-testing/
+  state:
+    id: '100746876247412_289144954074754'
+    url: https://www.facebook.com/100683012920950/posts/289144954074754
+f95260ea32c3b591957690ea58296d2c:mastodon:
+  spec:
+    title: ตอบคำถามเรื่อง การทดสอบ Mobile app กับระบบ network [somkiat.cc]
+    url: https://www.somkiat.cc/mock-api-server-in-mobile-testing/
+  state:
+    id: '111294175132301470'
+    url: https://mastodon.in.th/@webring/111294175132301470
+f95260ea32c3b591957690ea58296d2c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/mock-api-server-in-mobile-testing/
+  state:
+    shortLink: https://webring.page.link/tvGj
 f96b66b7a30e22623fc55c95fed9bb21:facebook:
   spec:
     title: '[รีวิว]เมื่อหนุ่มโรงงาน ย้ายสายไปทำงานเป็นโปรแกรมเมอร์ [toupawa.com]'
