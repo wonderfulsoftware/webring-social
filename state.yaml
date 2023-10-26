@@ -8826,6 +8826,25 @@ cdd4e6d11a1eea1d0484785081befc37:shorturl:
     url: https://www.somkiat.cc/postman-with-api-performance-testing/
   state:
     shortLink: https://webring.page.link/jXJD
+ce06de73e3209c44a60c731ffb955d09:facebook:
+  spec:
+    title: ทำความรู้จักกับ Kamal หรือ MRSK ของ 37Signals [somkiat.cc]
+    url: https://www.somkiat.cc/hello-kamal/
+  state:
+    id: '100746876247412_289769760678940'
+    url: https://www.facebook.com/100683012920950/posts/289769760678940
+ce06de73e3209c44a60c731ffb955d09:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Kamal หรือ MRSK ของ 37Signals [somkiat.cc]
+    url: https://www.somkiat.cc/hello-kamal/
+  state:
+    id: '111299836572977106'
+    url: https://mastodon.in.th/@webring/111299836572977106
+ce06de73e3209c44a60c731ffb955d09:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-kamal/
+  state:
+    shortLink: https://webring.page.link/DXLc
 ce0b224af5ff522f907d8ef11f03cea1:facebook:
   spec:
     title: MongoDB testing [kajame.xyz]
