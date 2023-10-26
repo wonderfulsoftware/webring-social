@@ -7066,6 +7066,25 @@
     url: https://notes.dt.in.th/20230103T095819Z9158
   state:
     shortLink: https://webring.page.link/ADpo
+9c6b52fec298f4c29f7d86fc4a20b33c:facebook:
+  spec:
+    title: Workstation Popcorn [garden.narze.live]
+    url: https://garden.narze.live/workstation-popcorn/
+  state:
+    id: '100746876247412_289684577354125'
+    url: https://www.facebook.com/100683012920950/posts/289684577354125
+9c6b52fec298f4c29f7d86fc4a20b33c:mastodon:
+  spec:
+    title: Workstation Popcorn [garden.narze.live]
+    url: https://garden.narze.live/workstation-popcorn/
+  state:
+    id: '111299118319991546'
+    url: https://mastodon.in.th/@webring/111299118319991546
+9c6b52fec298f4c29f7d86fc4a20b33c:shorturl:
+  spec:
+    url: https://garden.narze.live/workstation-popcorn/
+  state:
+    shortLink: https://webring.page.link/ju6K
 9c94eee33916f3e63f2633545813e587:facebook:
   spec:
     title: มาเรียนรู้ mindset การทำ graphic แบบเริ่มต้น ก่อนทำงานจริง [mikkipastel.com]
