@@ -8712,6 +8712,25 @@ ca7481ec9c7c70e4edc5d7c73d473a8e:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/07/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-the-cloud-camp-%e0%b8%a3%e0%b8%ad%e0%b8%9a-audition/
   state:
     shortLink: https://webring.page.link/XEjq
+cac1bc35b5b13f8ec50018f199b9aff1:facebook:
+  spec:
+    title: LVM คือ อะไร ? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/what-is-logical-volume-manager-lvm/
+  state:
+    id: '100746876247412_289839004005349'
+    url: https://www.facebook.com/100683012920950/posts/289839004005349
+cac1bc35b5b13f8ec50018f199b9aff1:mastodon:
+  spec:
+    title: LVM คือ อะไร ? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/what-is-logical-volume-manager-lvm/
+  state:
+    id: '111300532490462564'
+    url: https://mastodon.in.th/@webring/111300532490462564
+cac1bc35b5b13f8ec50018f199b9aff1:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/10/what-is-logical-volume-manager-lvm/
+  state:
+    shortLink: https://webring.page.link/2Fzz
 cb2ed3a464a2b5ff06f6d013580a5351:facebook:
   spec:
     title: Rust ถูก fork ออกมาในชื่อว่า CrabLang [somkiat.cc]
