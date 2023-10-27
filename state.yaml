@@ -6838,6 +6838,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/08/install-samsung-notes-on-windows-10-11/
   state:
     shortLink: https://webring.page.link/x7gt
+95207831176b2d6539a3fb71cfc10f86:facebook:
+  spec:
+    title: How to setup GIT with SSH Authenication [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/how-to-setup-git-with-ssh-authenication/
+  state:
+    id: '100746876247412_290295633959686'
+    url: https://www.facebook.com/100683012920950/posts/290295633959686
+95207831176b2d6539a3fb71cfc10f86:mastodon:
+  spec:
+    title: How to setup GIT with SSH Authenication [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/how-to-setup-git-with-ssh-authenication/
+  state:
+    id: '111304780919779428'
+    url: https://mastodon.in.th/@webring/111304780919779428
+95207831176b2d6539a3fb71cfc10f86:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/10/how-to-setup-git-with-ssh-authenication/
+  state:
+    shortLink: https://webring.page.link/mFpo
 952a2aedbdecb88bf4c0cd33c8e20da7:facebook:
   spec:
     title: สิ่งที่ฉันเรียนรู้จาก GDG SEA SUMMIT 2023 — Thai ver. [mesodiar.com]
