@@ -1689,6 +1689,25 @@
     url: https://www.somkiat.cc/new-from-microsoft-teams/
   state:
     shortLink: https://webring.page.link/m1yK
+27164157570124744f85094064861d98:facebook:
+  spec:
+    title: Cloud services for my personal projects in 2023 [llun.me]
+    url: https://www.llun.me/posts/dev/2023-10-27-cloud-services-in-2023
+  state:
+    id: '100746876247412_290869233902326'
+    url: https://www.facebook.com/100683012920950/posts/290869233902326
+27164157570124744f85094064861d98:mastodon:
+  spec:
+    title: Cloud services for my personal projects in 2023 [llun.me]
+    url: https://www.llun.me/posts/dev/2023-10-27-cloud-services-in-2023
+  state:
+    id: '111310441729681579'
+    url: https://mastodon.in.th/@webring/111310441729681579
+27164157570124744f85094064861d98:shorturl:
+  spec:
+    url: https://www.llun.me/posts/dev/2023-10-27-cloud-services-in-2023
+  state:
+    shortLink: https://webring.page.link/i3Ck
 2731398e6f9aee63f28f6f48fde053b6:facebook:
   spec:
     title: Git Command 101 [debuggingsoft.com]
