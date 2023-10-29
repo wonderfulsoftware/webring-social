@@ -3608,6 +3608,25 @@
     url: https://garden.narze.live/100daysofcode-r3-75-chatos-debug-app-on-ipad/
   state:
     shortLink: https://webring.page.link/3REC
+51d2f923ecbcc1916c546929b21c19e1:facebook:
+  spec:
+    title: สร้างเว็บด้วย Laravel 9 + Vue 3 + Inertiajs + bootstrap5 ทำงานได้ดีเยี่ยม [poolsawat.com]
+    url: https://www.poolsawat.com/create-spa-web-app-with-laravel9-vue3-inertiajs-bootstrap5/
+  state:
+    id: '100746876247412_291469593842290'
+    url: https://www.facebook.com/100683012920950/posts/291469593842290
+51d2f923ecbcc1916c546929b21c19e1:mastodon:
+  spec:
+    title: สร้างเว็บด้วย Laravel 9 + Vue 3 + Inertiajs + bootstrap5 ทำงานได้ดีเยี่ยม [poolsawat.com]
+    url: https://www.poolsawat.com/create-spa-web-app-with-laravel9-vue3-inertiajs-bootstrap5/
+  state:
+    id: '111316104446252562'
+    url: https://mastodon.in.th/@webring/111316104446252562
+51d2f923ecbcc1916c546929b21c19e1:shorturl:
+  spec:
+    url: https://www.poolsawat.com/create-spa-web-app-with-laravel9-vue3-inertiajs-bootstrap5/
+  state:
+    shortLink: https://webring.page.link/q1NE
 522633e6094255c02b59d1af11272897:facebook:
   spec:
     title: บันทึกจากการเรียน ChatGPT Prompt Engineering for Developers [somkiat.cc]
