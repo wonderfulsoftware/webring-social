@@ -967,6 +967,25 @@
     url: https://www.mikkipastel.com/web-3-0-the-future-of-decentralization/
   state:
     shortLink: https://webring.page.link/5oFr
+1865e468dca3a8ecaf233401839608ca:facebook:
+  spec:
+    title: มาลองสร้าง Cloud Workstations โดยใช้ gcloud CLI กัน [anewlife.dev]
+    url: https://www.anewlife.dev/post/lets-create-cloud-workstations/
+  state:
+    id: '100746876247412_292115203777729'
+    url: https://www.facebook.com/100683012920950/posts/292115203777729
+1865e468dca3a8ecaf233401839608ca:mastodon:
+  spec:
+    title: มาลองสร้าง Cloud Workstations โดยใช้ gcloud CLI กัน [anewlife.dev]
+    url: https://www.anewlife.dev/post/lets-create-cloud-workstations/
+  state:
+    id: '111321769941523230'
+    url: https://mastodon.in.th/@webring/111321769941523230
+1865e468dca3a8ecaf233401839608ca:shorturl:
+  spec:
+    url: https://www.anewlife.dev/post/lets-create-cloud-workstations/
+  state:
+    shortLink: https://webring.page.link/ExEj
 189d52a654ceede4b6f4c5df0d2e6d13:facebook:
   spec:
     title: สรุปจากการแบ่งปันใน Tester’s Day 2023 – Everything You Can Test [somkiat.cc]
