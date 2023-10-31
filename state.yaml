@@ -4007,6 +4007,25 @@
     url: https://www.somkiat.cc/goodbye-visual-studio-for-mac/
   state:
     shortLink: https://webring.page.link/jt9f
+5c5eff6eafbd94fa3e6a566b6a65d6d2:facebook:
+  spec:
+    title: The Cloud Camp Week#07 (K8S Part2) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week07-k8s-part2/
+  state:
+    id: '100746876247412_292747850381131'
+    url: https://www.facebook.com/100683012920950/posts/292747850381131
+5c5eff6eafbd94fa3e6a566b6a65d6d2:mastodon:
+  spec:
+    title: The Cloud Camp Week#07 (K8S Part2) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week07-k8s-part2/
+  state:
+    id: '111328148949465661'
+    url: https://mastodon.in.th/@webring/111328148949465661
+5c5eff6eafbd94fa3e6a566b6a65d6d2:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week07-k8s-part2/
+  state:
+    shortLink: https://webring.page.link/N9yk
 5d719068376edd19f96fa8863cff2d5f:facebook:
   spec:
     title: ปัญหาของ WebClient ใน Spring Boot 3 [somkiat.cc]
