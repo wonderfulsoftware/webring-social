@@ -1328,6 +1328,25 @@
     url: https://www.somkiat.cc/resource-saver-mode-in-docker-destop/
   state:
     shortLink: https://webring.page.link/bySb
+1ea3c61aaf4e1f231dbb4bde7b7d5b71:facebook:
+  spec:
+    title: แหกแล้วได้เสื้อ กับการแชร์ประสบการณ์ Hacktoberfest Thailand 2023 [tinarskii.com]
+    url: https://tinarskii.com/articles/htbf2023/
+  state:
+    id: '100746876247412_292683830387533'
+    url: https://www.facebook.com/100683012920950/posts/292683830387533
+1ea3c61aaf4e1f231dbb4bde7b7d5b71:mastodon:
+  spec:
+    title: แหกแล้วได้เสื้อ กับการแชร์ประสบการณ์ Hacktoberfest Thailand 2023 [tinarskii.com]
+    url: https://tinarskii.com/articles/htbf2023/
+  state:
+    id: '111327430195237054'
+    url: https://mastodon.in.th/@webring/111327430195237054
+1ea3c61aaf4e1f231dbb4bde7b7d5b71:shorturl:
+  spec:
+    url: https://tinarskii.com/articles/htbf2023/
+  state:
+    shortLink: https://webring.page.link/aDRp
 1f1fd6c136e3be021ea09978deb73d81:facebook:
   spec:
     title: The Cloud Camp Week#04 (Agile) [debuggingsoft.com]
