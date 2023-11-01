@@ -1081,6 +1081,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%96%e0%b9%80%e0%b8%a1%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%83%e0%b8%ab%e0%b8%a1/
   state:
     shortLink: https://webring.page.link/Tbeh
+1a4e124ca9d6ef82b573483002b28e31:facebook:
+  spec:
+    title: Illustration - Thanks for playing DPC2023! [lucian.solutions]
+    url: https://lucian.solutions/blog/thanks-for-playing-dpc2023
+  state:
+    id: '100746876247412_293328583656391'
+    url: https://www.facebook.com/100683012920950/posts/293328583656391
+1a4e124ca9d6ef82b573483002b28e31:mastodon:
+  spec:
+    title: Illustration - Thanks for playing DPC2023! [lucian.solutions]
+    url: https://lucian.solutions/blog/thanks-for-playing-dpc2023
+  state:
+    id: '111333811611879704'
+    url: https://mastodon.in.th/@webring/111333811611879704
+1a4e124ca9d6ef82b573483002b28e31:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/thanks-for-playing-dpc2023
+  state:
+    shortLink: https://webring.page.link/HRQb
 1aec5ab451de9f463f3d12f5ce9fc64d:facebook:
   spec:
     title: สร้างการแจ้งเตือนด้วย Node เข้า LINE ผ่าน LINE Notify [janescience.com]
