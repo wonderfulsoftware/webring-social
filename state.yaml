@@ -7028,6 +7028,25 @@
     url: https://www.poolsawat.com/recommended-curl-commands/
   state:
     shortLink: https://webring.page.link/j1Kv
+9719609adaba5b9bffe6fbdac71a237c:facebook:
+  spec:
+    title: Deploy Astro Hybrid rendering site on Clouldflare Pages [ntsd.dev]
+    url: https://ntsd.dev/deploy-astro-on-clouflare-page/
+  state:
+    id: '100746876247412_293472190308697'
+    url: https://www.facebook.com/100683012920950/posts/293472190308697
+9719609adaba5b9bffe6fbdac71a237c:mastodon:
+  spec:
+    title: Deploy Astro Hybrid rendering site on Clouldflare Pages [ntsd.dev]
+    url: https://ntsd.dev/deploy-astro-on-clouflare-page/
+  state:
+    id: '111335245362645737'
+    url: https://mastodon.in.th/@webring/111335245362645737
+9719609adaba5b9bffe6fbdac71a237c:shorturl:
+  spec:
+    url: https://ntsd.dev/deploy-astro-on-clouflare-page/
+  state:
+    shortLink: https://webring.page.link/hPwh
 985a9928afb39cdb17736a2949470344:facebook:
   spec:
     title: dockerfile สำหรับ .NET6 + DB2 [debuggingsoft.com]
