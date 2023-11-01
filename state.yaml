@@ -473,6 +473,25 @@
     url: https://garden.narze.live/Reduce-sound-and-speed-of-the-fan-on-Raspberry-Pi-case-or-heatsink/
   state:
     shortLink: https://webring.page.link/QsCG
+0d950e3e3a4c8694e549d74c1f1e474b:facebook:
+  spec:
+    title: Connect SSH hostname with different address [rayriffy.com]
+    url: https://rayriffy.com/garden/ssh-hostname-multi-address/
+  state:
+    id: '100746876247412_293577633631486'
+    url: https://www.facebook.com/100683012920950/posts/293577633631486
+0d950e3e3a4c8694e549d74c1f1e474b:mastodon:
+  spec:
+    title: Connect SSH hostname with different address [rayriffy.com]
+    url: https://rayriffy.com/garden/ssh-hostname-multi-address/
+  state:
+    id: '111335922839268153'
+    url: https://mastodon.in.th/@webring/111335922839268153
+0d950e3e3a4c8694e549d74c1f1e474b:shorturl:
+  spec:
+    url: https://rayriffy.com/garden/ssh-hostname-multi-address/
+  state:
+    shortLink: https://webring.page.link/Geg5
 0dcdc8ae5a87dac7fb2b4e009e2e8cf8:facebook:
   spec:
     title: Install OpenSSH Server on Windows 11/10 [debuggingsoft.com]
