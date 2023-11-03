@@ -4634,6 +4634,25 @@
     url: https://thiti.dev/blog/66/
   state:
     shortLink: https://webring.page.link/Ybic
+65b21feff8f3a6f1fa0a3ff884883911:facebook:
+  spec:
+    title: bcdedit enum options [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/bcdedit-enum-options/
+  state:
+    id: '100746876247412_294737790182137'
+    url: https://www.facebook.com/100683012920950/posts/294737790182137
+65b21feff8f3a6f1fa0a3ff884883911:mastodon:
+  spec:
+    title: bcdedit enum options [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/bcdedit-enum-options/
+  state:
+    id: '111346570611901444'
+    url: https://mastodon.in.th/@webring/111346570611901444
+65b21feff8f3a6f1fa0a3ff884883911:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/11/bcdedit-enum-options/
+  state:
+    shortLink: https://webring.page.link/zPEQ
 65ec20c562ebba0ab094d89bc86f8d1d:facebook:
   spec:
     title: บันทึกการปรับ format data ที่ใช้รับส่งผ่าน TCP จาก BinaryFormatter มาเป็น JSON แทน [debuggingsoft.com]
