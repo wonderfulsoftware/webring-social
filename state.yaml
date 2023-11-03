@@ -5565,6 +5565,25 @@
     url: https://www.mikkipastel.com/creating-kick-ass-content-with-productive-thinking-method/
   state:
     shortLink: https://webring.page.link/JKzj
+76ec39a6c6dc087d2fe77fec9ce81736:facebook:
+  spec:
+    title: ระบบติดตามพัสดุของบริษัทขนส่งทั่วประเทศ [poolsawat.com]
+    url: https://www.poolsawat.com/parcel-tracking/
+  state:
+    id: '100746876247412_294657673523482'
+    url: https://www.facebook.com/100683012920950/posts/294657673523482
+76ec39a6c6dc087d2fe77fec9ce81736:mastodon:
+  spec:
+    title: ระบบติดตามพัสดุของบริษัทขนส่งทั่วประเทศ [poolsawat.com]
+    url: https://www.poolsawat.com/parcel-tracking/
+  state:
+    id: '111345831598563957'
+    url: https://mastodon.in.th/@webring/111345831598563957
+76ec39a6c6dc087d2fe77fec9ce81736:shorturl:
+  spec:
+    url: https://www.poolsawat.com/parcel-tracking/
+  state:
+    shortLink: https://webring.page.link/oct8
 775b3a0aeebfb7e382283f3feb99469a:facebook:
   spec:
     title: API Architecture Styles [tech.duckfollow.co]
