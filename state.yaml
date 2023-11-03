@@ -2848,6 +2848,25 @@
     url: https://www.somkiat.cc/chatgpt-with-issue-bot/
   state:
     shortLink: https://webring.page.link/T8Ro
+3ed1deb392712fc97d0d89e384e4367b:facebook:
+  spec:
+    title: สวัสดี Playwright 1.39 !! [somkiat.cc]
+    url: https://www.somkiat.cc/hello-playwright-1-39/
+  state:
+    id: '100746876247412_294595253529724'
+    url: https://www.facebook.com/100683012920950/posts/294595253529724
+3ed1deb392712fc97d0d89e384e4367b:mastodon:
+  spec:
+    title: สวัสดี Playwright 1.39 !! [somkiat.cc]
+    url: https://www.somkiat.cc/hello-playwright-1-39/
+  state:
+    id: '111345135099091564'
+    url: https://mastodon.in.th/@webring/111345135099091564
+3ed1deb392712fc97d0d89e384e4367b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-playwright-1-39/
+  state:
+    shortLink: https://webring.page.link/8jUc
 3f093c98be3ada1966ab0a563f35f8ba:facebook:
   spec:
     title: ทำ Login with Facebook ใน React Native (ios) [kajame.xyz]
