@@ -1480,6 +1480,25 @@
     url: https://neizod.dev/2022/12/31/cantor-ternary-set.html
   state:
     shortLink: https://webring.page.link/qHki
+20f0ca4296e445ab9ea0a0e0a5c5d565:facebook:
+  spec:
+    title: DB2 Data Type DECFLOAT แล้ว SQL Server ใช้อะไร ? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/db2-decfloat-data-type-mapping-to-azure-sql-server/
+  state:
+    id: '100746876247412_295086060147310'
+    url: https://www.facebook.com/100683012920950/posts/295086060147310
+20f0ca4296e445ab9ea0a0e0a5c5d565:mastodon:
+  spec:
+    title: DB2 Data Type DECFLOAT แล้ว SQL Server ใช้อะไร ? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/db2-decfloat-data-type-mapping-to-azure-sql-server/
+  state:
+    id: '111350078960575444'
+    url: https://mastodon.in.th/@webring/111350078960575444
+20f0ca4296e445ab9ea0a0e0a5c5d565:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/11/db2-decfloat-data-type-mapping-to-azure-sql-server/
+  state:
+    shortLink: https://webring.page.link/kywC
 2149c50f7177f5b102df0b25df690ae5:facebook:
   spec:
     title: สรุปจากการดู SQL Query Optimization! [somkiat.cc]
