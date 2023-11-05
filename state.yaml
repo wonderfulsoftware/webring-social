@@ -359,6 +359,25 @@
     url: https://notes.dt.in.th/NextAuthUserIdInSession
   state:
     shortLink: https://webring.page.link/kXss
+0abdd738d427b12713878bb67101b1b2:facebook:
+  spec:
+    title: Sine/cosine to the odd powers [neizod.dev]
+    url: https://neizod.dev/2023/11/04/sine-cosine-to-the-odd-power.html
+  state:
+    id: '100746876247412_295701560085760'
+    url: https://www.facebook.com/100683012920950/posts/295701560085760
+0abdd738d427b12713878bb67101b1b2:mastodon:
+  spec:
+    title: Sine/cosine to the odd powers [neizod.dev]
+    url: https://neizod.dev/2023/11/04/sine-cosine-to-the-odd-power.html
+  state:
+    id: '111356456024606516'
+    url: https://mastodon.in.th/@webring/111356456024606516
+0abdd738d427b12713878bb67101b1b2:shorturl:
+  spec:
+    url: https://neizod.dev/2023/11/04/sine-cosine-to-the-odd-power.html
+  state:
+    shortLink: https://webring.page.link/Bg9D
 0b6b5210b72bf25f93c1e92d1943e83c:facebook:
   spec:
     title: Illustration - クルミ隊 💛❤️💙 [lucian.solutions]
