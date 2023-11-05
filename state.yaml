@@ -8864,6 +8864,25 @@ c4ce3508a892bcc9d9d65de4a37c7603:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/04/az-400-implement-security-and-validate-code-bases-for-compliance/
   state:
     shortLink: https://webring.page.link/pK9F
+c4ff1386abb8c0745cb58032ae85937a:facebook:
+  spec:
+    title: ตอบคำถามการนำ Redis มาใช้งาน [somkiat.cc]
+    url: https://www.somkiat.cc/redis-usecase/
+  state:
+    id: '100746876247412_295621646760418'
+    url: https://www.facebook.com/100683012920950/posts/295621646760418
+c4ff1386abb8c0745cb58032ae85937a:mastodon:
+  spec:
+    title: ตอบคำถามการนำ Redis มาใช้งาน [somkiat.cc]
+    url: https://www.somkiat.cc/redis-usecase/
+  state:
+    id: '111355745407194030'
+    url: https://mastodon.in.th/@webring/111355745407194030
+c4ff1386abb8c0745cb58032ae85937a:shorturl:
+  spec:
+    url: https://www.somkiat.cc/redis-usecase/
+  state:
+    shortLink: https://webring.page.link/j5Zo
 c61f556811d24860e7a0b033c789f726:facebook:
   spec:
     title: ลองใช้งาน Atlas สำหรับทำ Database migration [somkiat.cc]
