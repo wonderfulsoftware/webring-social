@@ -10878,6 +10878,25 @@ f1c5165867c774257acfde73e1ec6b5e:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/09/microsoft-certification-exam-az-104-note/
   state:
     shortLink: https://webring.page.link/pBw5
+f1fa46c7a74daef8db39789aeb01d989:facebook:
+  spec:
+    title: Reduce operational costs with terraform [karnwong.me]
+    url: https://karnwong.me/posts/2023/11/reduce-operational-costs-with-terraform/
+  state:
+    id: '100746876247412_295842416738341'
+    url: https://www.facebook.com/100683012920950/posts/295842416738341
+f1fa46c7a74daef8db39789aeb01d989:mastodon:
+  spec:
+    title: Reduce operational costs with terraform [karnwong.me]
+    url: https://karnwong.me/posts/2023/11/reduce-operational-costs-with-terraform/
+  state:
+    id: '111357888125212904'
+    url: https://mastodon.in.th/@webring/111357888125212904
+f1fa46c7a74daef8db39789aeb01d989:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2023/11/reduce-operational-costs-with-terraform/
+  state:
+    shortLink: https://webring.page.link/bYoE
 f20083070e84071ac58c3eefa3bce0fe:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 1 (System Thinking) [taoisaman.com]
