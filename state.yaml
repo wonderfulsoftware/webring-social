@@ -9510,6 +9510,25 @@ d2a211d2c6b8c66f3cf64aab9d5140c8:shorturl:
     url: https://mesodiar.com/securing-kafka-with-tls-ssl-encryption-87816a82d6ca?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/b1UH
+d2e2a9796695714e3c9782f96ead83fc:facebook:
+  spec:
+    title: Illustration - City of Light 2024 🌃 [lucian.solutions]
+    url: https://lucian.solutions/blog/city-of-light-2024
+  state:
+    id: '100746876247412_295922233397026'
+    url: https://www.facebook.com/100683012920950/posts/295922233397026
+d2e2a9796695714e3c9782f96ead83fc:mastodon:
+  spec:
+    title: Illustration - City of Light 2024 🌃 [lucian.solutions]
+    url: https://lucian.solutions/blog/city-of-light-2024
+  state:
+    id: '111358567469805975'
+    url: https://mastodon.in.th/@webring/111358567469805975
+d2e2a9796695714e3c9782f96ead83fc:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/city-of-light-2024
+  state:
+    shortLink: https://webring.page.link/6L7P
 d384f899f92a93ab0815513af2e6e3e0:facebook:
   spec:
     title: Line Stickers - Lucian Solutions [lucian.solutions]
