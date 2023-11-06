@@ -7731,6 +7731,25 @@ a51a992373d4e0f28f1e84418320f43c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/05/optimize-container-image-size/
   state:
     shortLink: https://webring.page.link/EvQH
+a5c0bfee23562431810f8fa395169ac4:facebook:
+  spec:
+    title: การทดสอบ Flutter app [somkiat.cc]
+    url: https://www.somkiat.cc/testing-your-flutter-app/
+  state:
+    id: '100746876247412_296184430037473'
+    url: https://www.facebook.com/100683012920950/posts/296184430037473
+a5c0bfee23562431810f8fa395169ac4:mastodon:
+  spec:
+    title: การทดสอบ Flutter app [somkiat.cc]
+    url: https://www.somkiat.cc/testing-your-flutter-app/
+  state:
+    id: '111361406585792047'
+    url: https://mastodon.in.th/@webring/111361406585792047
+a5c0bfee23562431810f8fa395169ac4:shorturl:
+  spec:
+    url: https://www.somkiat.cc/testing-your-flutter-app/
+  state:
+    shortLink: https://webring.page.link/F2rX
 a6f00d04c1278fbafdc08a775d1da62a:facebook:
   spec:
     title: 'Fixed Jenkins build error MSB4018: System.InvalidOperationException: Unable to set permission while creating /tmp/NuGetScratch [debuggingsoft.com]'
