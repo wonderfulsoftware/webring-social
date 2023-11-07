@@ -10270,6 +10270,25 @@ e387e1e62a27db5dc3c2ce0a2a983f57:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/05/cr-starbucks-emperors-clouds-mist-tea/
   state:
     shortLink: https://webring.page.link/8keT
+e3a3804bf209ddc0b48d8a75c6125e94:facebook:
+  spec:
+    title: 'The Cloud Camp Week#08 (K8S Part3: Store Data) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week08-k8s-part3/
+  state:
+    id: '100746876247412_296718276650755'
+    url: https://www.facebook.com/100683012920950/posts/296718276650755
+e3a3804bf209ddc0b48d8a75c6125e94:mastodon:
+  spec:
+    title: 'The Cloud Camp Week#08 (K8S Part3: Store Data) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week08-k8s-part3/
+  state:
+    id: '111367066945605499'
+    url: https://mastodon.in.th/@webring/111367066945605499
+e3a3804bf209ddc0b48d8a75c6125e94:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week08-k8s-part3/
+  state:
+    shortLink: https://webring.page.link/3xyR
 e3c7ac2201ce2dd77fabcb72e3d1f9d7:facebook:
   spec:
     title: ไปส่องดูโครงสร้างของระบบ ectreport.com กันหน่อย [somkiat.cc]
