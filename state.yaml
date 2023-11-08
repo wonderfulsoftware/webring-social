@@ -5432,6 +5432,25 @@
     url: https://notes.dt.in.th/DockerRetagImage
   state:
     shortLink: https://webring.page.link/bSpD
+72ce6a11d2da2e203e5600bd552ce1b5:facebook:
+  spec:
+    title: มาอัพเดตเทคกับงาน DevFest Bangkok 2023 [mikkipastel.com]
+    url: https://www.mikkipastel.com/devfest-bangkok-2023/
+  state:
+    id: '100746876247412_297311883258061'
+    url: https://www.facebook.com/100683012920950/posts/297311883258061
+72ce6a11d2da2e203e5600bd552ce1b5:mastodon:
+  spec:
+    title: มาอัพเดตเทคกับงาน DevFest Bangkok 2023 [mikkipastel.com]
+    url: https://www.mikkipastel.com/devfest-bangkok-2023/
+  state:
+    id: '111372729509705426'
+    url: https://mastodon.in.th/@webring/111372729509705426
+72ce6a11d2da2e203e5600bd552ce1b5:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/devfest-bangkok-2023/
+  state:
+    shortLink: https://webring.page.link/LR78
 7323903c80c8d85a2914c258cb1d46c5:facebook:
   spec:
     title: โกยซีหมี่ ตลาดวงเวียนใหญ่ [debuggingsoft.com]
