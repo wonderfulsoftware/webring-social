@@ -7807,6 +7807,25 @@ a77c479113e1a5a4f26f405c82af56f3:shorturl:
     url: https://www.somkiat.cc/note-from-building-a-more-efficient-firestore/
   state:
     shortLink: https://webring.page.link/tG6L
+a790c8006047cca342b2362d0a92b0d9:facebook:
+  spec:
+    title: XRLabel ตัดคำไทยผิดเมื่อ Export PDF [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/devexpress-xrlabel-thai-problem-when-export-pdf/
+  state:
+    id: '100746876247412_297845559871360'
+    url: https://www.facebook.com/100683012920950/posts/297845559871360
+a790c8006047cca342b2362d0a92b0d9:mastodon:
+  spec:
+    title: XRLabel ตัดคำไทยผิดเมื่อ Export PDF [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/devexpress-xrlabel-thai-problem-when-export-pdf/
+  state:
+    id: '111378391463157518'
+    url: https://mastodon.in.th/@webring/111378391463157518
+a790c8006047cca342b2362d0a92b0d9:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/11/devexpress-xrlabel-thai-problem-when-export-pdf/
+  state:
+    shortLink: https://webring.page.link/1cWa
 a800be5a22a696e7f90aa33fe2e5575b:facebook:
   spec:
     title: Configuring tRPC error logging in T3 apps [dt.in.th]
