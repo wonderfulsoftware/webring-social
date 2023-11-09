@@ -2848,6 +2848,25 @@
     url: https://jitrak.dev/posts/post-20-test-double/
   state:
     shortLink: https://webring.page.link/DtK7
+3ddec234708692efd41a6b8811fed6cb:facebook:
+  spec:
+    title: 'Go :: Gorilla Mux กลับมาแล้ว [somkiat.cc]'
+    url: https://www.somkiat.cc/go-gorilla-mux-is-back/
+  state:
+    id: '100746876247412_297908159865100'
+    url: https://www.facebook.com/100683012920950/posts/297908159865100
+3ddec234708692efd41a6b8811fed6cb:mastodon:
+  spec:
+    title: 'Go :: Gorilla Mux กลับมาแล้ว [somkiat.cc]'
+    url: https://www.somkiat.cc/go-gorilla-mux-is-back/
+  state:
+    id: '111379109084433975'
+    url: https://mastodon.in.th/@webring/111379109084433975
+3ddec234708692efd41a6b8811fed6cb:shorturl:
+  spec:
+    url: https://www.somkiat.cc/go-gorilla-mux-is-back/
+  state:
+    shortLink: https://webring.page.link/shbS
 3de5278b6c9ecfbb07e80c6440b820db:facebook:
   spec:
     title: 0256 | คำถามที่โดนถามบ่อยกับรถยนต์ไฟฟ้า [icez.net]
