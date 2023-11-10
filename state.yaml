@@ -1860,6 +1860,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/enable-auto-detect-workout-on-huawei-watch-fit/
   state:
     shortLink: https://webring.page.link/JfHF
+27e564a14ea6e84f723b674f4bcb680e:facebook:
+  spec:
+    title: 'Ubuntu: Extend your LVM (Disk) space [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/11/ubuntu-extend-your-lvm-disk-space/
+  state:
+    id: '100746876247412_298420119813904'
+    url: https://www.facebook.com/100683012920950/posts/298420119813904
+27e564a14ea6e84f723b674f4bcb680e:mastodon:
+  spec:
+    title: 'Ubuntu: Extend your LVM (Disk) space [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/11/ubuntu-extend-your-lvm-disk-space/
+  state:
+    id: '111384053743671123'
+    url: https://mastodon.in.th/@webring/111384053743671123
+27e564a14ea6e84f723b674f4bcb680e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/11/ubuntu-extend-your-lvm-disk-space/
+  state:
+    shortLink: https://webring.page.link/QFAp
 283a2af73e4faebd04c76907b2ba9124:facebook:
   spec:
     title: npm checkmark [dt.in.th]
