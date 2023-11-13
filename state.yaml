@@ -3855,6 +3855,25 @@
     url: https://kusumotolab.com/how-to-resolve-flash-xiaomi-stock-rom-error-remove-check-crc-failed/
   state:
     shortLink: https://webring.page.link/yjCC
+553aad41528a38a15909eff06a8f3f48:facebook:
+  spec:
+    title: 'The Cloud Camp Week#09 (K8S Part4: Resource/Health/Scale/Scheduler) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week09-k8s-part4/
+  state:
+    id: '100746876247412_300173516305231'
+    url: https://www.facebook.com/100683012920950/posts/300173516305231
+553aad41528a38a15909eff06a8f3f48:mastodon:
+  spec:
+    title: 'The Cloud Camp Week#09 (K8S Part4: Resource/Health/Scale/Scheduler) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week09-k8s-part4/
+  state:
+    id: '111401042548654675'
+    url: https://mastodon.in.th/@webring/111401042548654675
+553aad41528a38a15909eff06a8f3f48:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week09-k8s-part4/
+  state:
+    shortLink: https://webring.page.link/eA4U
 55592834aab2585489609dbc395fe826:facebook:
   spec:
     title: สรุปการแบ่งปันเรื่อง ChatGPT ในการทำงานสาย Developer [somkiat.cc]
