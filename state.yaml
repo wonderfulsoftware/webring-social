@@ -7161,6 +7161,25 @@
     url: https://www.somkiat.cc/course-postman-in-the-right-way-1/
   state:
     shortLink: https://webring.page.link/apCp
+94527e1a71871a806d1cbdbf9c26ab3a:facebook:
+  spec:
+    title: '[AWS EKS] ลองใช้ Cluster autoscaler สำหรับ Scale K8s [thanapon.info]'
+    url: https://thanapon.info/aws-eks-cluster-autoscaler/
+  state:
+    id: '100746876247412_300244646298118'
+    url: https://www.facebook.com/100683012920950/posts/300244646298118
+94527e1a71871a806d1cbdbf9c26ab3a:mastodon:
+  spec:
+    title: '[AWS EKS] ลองใช้ Cluster autoscaler สำหรับ Scale K8s [thanapon.info]'
+    url: https://thanapon.info/aws-eks-cluster-autoscaler/
+  state:
+    id: '111401760087199713'
+    url: https://mastodon.in.th/@webring/111401760087199713
+94527e1a71871a806d1cbdbf9c26ab3a:shorturl:
+  spec:
+    url: https://thanapon.info/aws-eks-cluster-autoscaler/
+  state:
+    shortLink: https://webring.page.link/p9CB
 94a270ac8c07fae1199dffa42c069ddd:facebook:
   spec:
     title: Install Samsung notes on Windows 10/11 [debuggingsoft.com]
