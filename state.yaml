@@ -9434,6 +9434,25 @@ cf64c16e9b8712becfa47eb06525d851:shorturl:
     url: https://notes.dt.in.th/HDRQRCode
   state:
     shortLink: https://webring.page.link/sMUn
+cfb5c25a951291bb40f94b5fe3a3b0e1:facebook:
+  spec:
+    title: การใช้งาน Docker compose watch สำหรับ Vite [somkiat.cc]
+    url: https://www.somkiat.cc/docker-compose-watch-with-vite/
+  state:
+    id: '100746876247412_300796052909644'
+    url: https://www.facebook.com/100683012920950/posts/300796052909644
+cfb5c25a951291bb40f94b5fe3a3b0e1:mastodon:
+  spec:
+    title: การใช้งาน Docker compose watch สำหรับ Vite [somkiat.cc]
+    url: https://www.somkiat.cc/docker-compose-watch-with-vite/
+  state:
+    id: '111407421935297899'
+    url: https://mastodon.in.th/@webring/111407421935297899
+cfb5c25a951291bb40f94b5fe3a3b0e1:shorturl:
+  spec:
+    url: https://www.somkiat.cc/docker-compose-watch-with-vite/
+  state:
+    shortLink: https://webring.page.link/WVw1
 cfc88ef93dd09336b78321933c2bfeb2:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 5 (Scrum Master) [taoisaman.com]
