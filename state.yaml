@@ -3857,14 +3857,14 @@
     shortLink: https://webring.page.link/yjCC
 553aad41528a38a15909eff06a8f3f48:facebook:
   spec:
-    title: 'The Cloud Camp Week#09 (K8S Part4: Resource/Health/Scale/Scheduler) [debuggingsoft.com]'
+    title: 'The Cloud Camp Week#09 (K8S Part4: Resource/HealthCheck/Scale/Scheduler) [debuggingsoft.com]'
     url: https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week09-k8s-part4/
   state:
     id: '100746876247412_300173516305231'
     url: https://www.facebook.com/100683012920950/posts/300173516305231
 553aad41528a38a15909eff06a8f3f48:mastodon:
   spec:
-    title: 'The Cloud Camp Week#09 (K8S Part4: Resource/Health/Scale/Scheduler) [debuggingsoft.com]'
+    title: 'The Cloud Camp Week#09 (K8S Part4: Resource/HealthCheck/Scale/Scheduler) [debuggingsoft.com]'
     url: https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week09-k8s-part4/
   state:
     id: '111401042548654675'
@@ -10042,6 +10042,25 @@ dabdbb866900a20d47538ffe8e13d7a5:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/01/sonarqube-net6-net-core-note/
   state:
     shortLink: https://webring.page.link/sxR8
+dae78c8e30afdbd7d3042bcebe76aee2:facebook:
+  spec:
+    title: $\exists V {\subseteq} \lbrace v_1, \dots, v_n \rbrace \colon \sum V \equiv 0 \pmod{n}$ [neizod.dev]
+    url: https://neizod.dev/2023/11/13/subset-sum-on-modular-arithmetic.html
+  state:
+    id: '100746876247412_300731239582792'
+    url: https://www.facebook.com/100683012920950/posts/300731239582792
+dae78c8e30afdbd7d3042bcebe76aee2:mastodon:
+  spec:
+    title: $\exists V {\subseteq} \lbrace v_1, \dots, v_n \rbrace \colon \sum V \equiv 0 \pmod{n}$ [neizod.dev]
+    url: https://neizod.dev/2023/11/13/subset-sum-on-modular-arithmetic.html
+  state:
+    id: '111406703976792486'
+    url: https://mastodon.in.th/@webring/111406703976792486
+dae78c8e30afdbd7d3042bcebe76aee2:shorturl:
+  spec:
+    url: https://neizod.dev/2023/11/13/subset-sum-on-modular-arithmetic.html
+  state:
+    shortLink: https://webring.page.link/yWxA
 daee15494ee0f644a84b3adbdc30dced:facebook:
   spec:
     title: ลองสร้าง project php หลายตัวใส่ใน nginx ใน docker [kajame.xyz]
