@@ -11353,6 +11353,25 @@ f61ba76d8f875bace468dadcffe183d8:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day1-heart
   state:
     shortLink: https://webring.page.link/YArx
+f637cd1da2d6871b3f8e301ce4dbfb30:facebook:
+  spec:
+    title: บันทึก Migrate .NET Framework > .NET6 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/migrate-net-framework-to-net-core-net6-note/
+  state:
+    id: '100746876247412_301278252861424'
+    url: https://www.facebook.com/100683012920950/posts/301278252861424
+f637cd1da2d6871b3f8e301ce4dbfb30:mastodon:
+  spec:
+    title: บันทึก Migrate .NET Framework > .NET6 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/migrate-net-framework-to-net-core-net6-note/
+  state:
+    id: '111412366662895269'
+    url: https://mastodon.in.th/@webring/111412366662895269
+f637cd1da2d6871b3f8e301ce4dbfb30:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/11/migrate-net-framework-to-net-core-net6-note/
+  state:
+    shortLink: https://webring.page.link/KWde
 f695c7098433ca6b3d6e691638eb73b4:facebook:
   spec:
     title: Refinance คอนโดครั้งแรก [kusumotolab.com]
