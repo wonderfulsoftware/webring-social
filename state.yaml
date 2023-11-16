@@ -6154,6 +6154,25 @@
     url: https://garden.narze.live/rubyconf-th-2023/
   state:
     shortLink: https://webring.page.link/ZR7F
+8057ca8dfc31aae5cc0187e4e24b3ba9:facebook:
+  spec:
+    title: Using Apache Iceberg to reduce data lake operations overhead [karnwong.me]
+    url: https://karnwong.me/posts/2023/11/using-apache-iceberg-to-reduce-data-lake-operations-overhead/
+  state:
+    id: '100746876247412_301845482804701'
+    url: https://www.facebook.com/100683012920950/posts/301845482804701
+8057ca8dfc31aae5cc0187e4e24b3ba9:mastodon:
+  spec:
+    title: Using Apache Iceberg to reduce data lake operations overhead [karnwong.me]
+    url: https://karnwong.me/posts/2023/11/using-apache-iceberg-to-reduce-data-lake-operations-overhead/
+  state:
+    id: '111418029136553000'
+    url: https://mastodon.in.th/@webring/111418029136553000
+8057ca8dfc31aae5cc0187e4e24b3ba9:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2023/11/using-apache-iceberg-to-reduce-data-lake-operations-overhead/
+  state:
+    shortLink: https://webring.page.link/Jnrr
 80982e4f445113b743523b0eb0d7368f:facebook:
   spec:
     title: มาเรียนรู้ NFT บน Internet Computer Protocol กัน กับงาน ICP World NFT [mikkipastel.com]
