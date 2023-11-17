@@ -4881,6 +4881,25 @@
     url: https://www.karnwong.me/posts/2023/03/secretops-with-teller/
   state:
     shortLink: https://webring.page.link/yJDS
+675d7c891c7dbec361d55d4ab061d568:facebook:
+  spec:
+    title: สรุป Backend Meetup 2023 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/summary-backend-meetup-2023/
+  state:
+    id: '100746876247412_302440296078553'
+    url: https://www.facebook.com/100683012920950/posts/302440296078553
+675d7c891c7dbec361d55d4ab061d568:mastodon:
+  spec:
+    title: สรุป Backend Meetup 2023 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/summary-backend-meetup-2023/
+  state:
+    id: '111423691231654190'
+    url: https://mastodon.in.th/@webring/111423691231654190
+675d7c891c7dbec361d55d4ab061d568:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/11/summary-backend-meetup-2023/
+  state:
+    shortLink: https://webring.page.link/HvpQ
 67dde2125dda4c4d8df9ef498a918527:facebook:
   spec:
     title: How to install HoloCure on Apple Silicon MacBook [garden.narze.live]
