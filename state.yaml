@@ -7769,6 +7769,25 @@ a287ccf56f08a1618741153a1d056e95:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/07/fixed-water-leak-in-my-house/
   state:
     shortLink: https://webring.page.link/LzKS
+a2c0d3f0bb97b5bd0b8bca08f04f5521:facebook:
+  spec:
+    title: The Cloud Camp Week#10 (CI/CD – GitHub Action) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week10-ci-cd/
+  state:
+    id: '100746876247412_304214719234444'
+    url: https://www.facebook.com/100683012920950/posts/304214719234444
+a2c0d3f0bb97b5bd0b8bca08f04f5521:mastodon:
+  spec:
+    title: The Cloud Camp Week#10 (CI/CD – GitHub Action) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week10-ci-cd/
+  state:
+    id: '111440679159547283'
+    url: https://mastodon.in.th/@webring/111440679159547283
+a2c0d3f0bb97b5bd0b8bca08f04f5521:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week10-ci-cd/
+  state:
+    shortLink: https://webring.page.link/MZ9g
 a2ddaf898161aef37c0bc75f362600b0:facebook:
   spec:
     title: น่าสนใจกับ Observability-Driven Development (ODD) ด้วย TraceTest [somkiat.cc]
