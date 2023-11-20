@@ -7978,6 +7978,25 @@ a6f00d04c1278fbafdc08a775d1da62a:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/07/fixed-jenkin-build-error-msb4018-system-invalidoperationexception-unable-to-set-permission-while-creating-tmp-nugetscratch/
   state:
     shortLink: https://webring.page.link/u4p4
+a740f526fae14fcf82172a69c8948e48:facebook:
+  spec:
+    title: ว่าด้วยเรื่องของ EventCatalog [somkiat.cc]
+    url: https://www.somkiat.cc/hello-eventcatalog/
+  state:
+    id: '100746876247412_304300915892491'
+    url: https://www.facebook.com/100683012920950/posts/304300915892491
+a740f526fae14fcf82172a69c8948e48:mastodon:
+  spec:
+    title: ว่าด้วยเรื่องของ EventCatalog [somkiat.cc]
+    url: https://www.somkiat.cc/hello-eventcatalog/
+  state:
+    id: '111441398957707164'
+    url: https://mastodon.in.th/@webring/111441398957707164
+a740f526fae14fcf82172a69c8948e48:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-eventcatalog/
+  state:
+    shortLink: https://webring.page.link/3d2D
 a77c479113e1a5a4f26f405c82af56f3:facebook:
   spec:
     title: บันทึกเรื่อง Building more efficient Firestore web app [somkiat.cc]
