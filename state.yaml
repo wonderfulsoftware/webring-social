@@ -5489,6 +5489,25 @@
     url: https://www.somkiat.cc/seleniumlibrary-6-1-3/
   state:
     shortLink: https://webring.page.link/sfv6
+710a4db542c82388b4b6a3af4e30de4c:facebook:
+  spec:
+    title: Vendor code splitting in Vite [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/vendor-code-splitting-vite/
+  state:
+    id: '100746876247412_304380015884581'
+    url: https://www.facebook.com/100683012920950/posts/304380015884581
+710a4db542c82388b4b6a3af4e30de4c:mastodon:
+  spec:
+    title: Vendor code splitting in Vite [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/vendor-code-splitting-vite/
+  state:
+    id: '111442096060878435'
+    url: https://mastodon.in.th/@webring/111442096060878435
+710a4db542c82388b4b6a3af4e30de4c:shorturl:
+  spec:
+    url: https://yuttakhanb.dev/posts/vendor-code-splitting-vite/
+  state:
+    shortLink: https://webring.page.link/A346
 710f0b3cca25e6e7d188ee519b80c362:facebook:
   spec:
     title: ทำความเข้าใจ “MQTT with TLS” ใน AWS IoT Core สักหน่อย [thanapon.info]
