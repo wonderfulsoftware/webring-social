@@ -8301,6 +8301,25 @@ aca5605a7c6d9434f9f9d8bee09eff8f:shorturl:
     url: https://www.somkiat.cc/go-vulnerability-management/
   state:
     shortLink: https://webring.page.link/ySHH
+ad854103055b99bd1095a99ddb655ade:facebook:
+  spec:
+    title: My First Hiking at Phu Soi Dao [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/my-first-hiking/
+  state:
+    id: '100746876247412_305388102450439'
+    url: https://www.facebook.com/100683012920950/posts/305388102450439
+ad854103055b99bd1095a99ddb655ade:mastodon:
+  spec:
+    title: My First Hiking at Phu Soi Dao [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/my-first-hiking/
+  state:
+    id: '111452004204718168'
+    url: https://mastodon.in.th/@webring/111452004204718168
+ad854103055b99bd1095a99ddb655ade:shorturl:
+  spec:
+    url: https://tantatorn.xyz/posts/my-first-hiking/
+  state:
+    shortLink: https://webring.page.link/Stzu
 ad99701907b20392b15bb3d9e84b9777:facebook:
   spec:
     title: สวัสดี Auto-GPT มันเป็นอย่างไร ? [somkiat.cc]
