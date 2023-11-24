@@ -8674,6 +8674,25 @@ b80293172a4a4a01810f23686a154ae3:shorturl:
     url: https://garden.narze.live/100daysofcode-r3-74-chatos-merge-guest-chat-logs/
   state:
     shortLink: https://webring.page.link/gQRx
+b878507b32358ac312da8df6c23db94c:facebook:
+  spec:
+    title: C# Return multiple values from method [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/c-return-multiple-values-from-method/
+  state:
+    id: '100746876247412_306643658991550'
+    url: https://www.facebook.com/100683012920950/posts/306643658991550
+b878507b32358ac312da8df6c23db94c:mastodon:
+  spec:
+    title: C# Return multiple values from method [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/c-return-multiple-values-from-method/
+  state:
+    id: '111464045623363021'
+    url: https://mastodon.in.th/@webring/111464045623363021
+b878507b32358ac312da8df6c23db94c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/11/c-return-multiple-values-from-method/
+  state:
+    shortLink: https://webring.page.link/VJVk
 b8b3e22bc05f0ee8b6fc3cebad82d187:facebook:
   spec:
     title: 'Book highlights - Managing Transitions: Making the Most of Change by William Bridges [karnwong.me]'
