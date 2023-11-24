@@ -2544,6 +2544,25 @@
     url: https://garden.narze.live/VSCode-Extension-Pack/
   state:
     shortLink: https://webring.page.link/SiJ8
+3579ff1000c4f633fb7162a348325832:facebook:
+  spec:
+    title: อัพเดตข่าวสารอาชีพประจำปี กับงาน Android Bangkok Conference 2023 [mikkipastel.com]
+    url: https://www.mikkipastel.com/android-bangkok-conference-2023/
+  state:
+    id: '100746876247412_306571542332095'
+    url: https://www.facebook.com/100683012920950/posts/306571542332095
+3579ff1000c4f633fb7162a348325832:mastodon:
+  spec:
+    title: อัพเดตข่าวสารอาชีพประจำปี กับงาน Android Bangkok Conference 2023 [mikkipastel.com]
+    url: https://www.mikkipastel.com/android-bangkok-conference-2023/
+  state:
+    id: '111463327490404868'
+    url: https://mastodon.in.th/@webring/111463327490404868
+3579ff1000c4f633fb7162a348325832:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/android-bangkok-conference-2023/
+  state:
+    shortLink: https://webring.page.link/dQMy
 360b975088e620e44a3a020629fcff05:facebook:
   spec:
     title: MockTimers ใน NodeJS 20.4.0 [somkiat.cc]
