@@ -6002,6 +6002,25 @@
     url: https://www.somkiat.cc/redisearch-with-geolocation/
   state:
     shortLink: https://webring.page.link/49P6
+7a7c57a61f62f5b4c566a02526f231b4:facebook:
+  spec:
+    title: Some problems can be solved with workflows [karnwong.me]
+    url: https://karnwong.me/posts/2023/11/some-problems-can-be-solved-with-workflows/
+  state:
+    id: '100746876247412_307198432269406'
+    url: https://www.facebook.com/100683012920950/posts/307198432269406
+7a7c57a61f62f5b4c566a02526f231b4:mastodon:
+  spec:
+    title: Some problems can be solved with workflows [karnwong.me]
+    url: https://karnwong.me/posts/2023/11/some-problems-can-be-solved-with-workflows/
+  state:
+    id: '111469703233988692'
+    url: https://mastodon.in.th/@webring/111469703233988692
+7a7c57a61f62f5b4c566a02526f231b4:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2023/11/some-problems-can-be-solved-with-workflows/
+  state:
+    shortLink: https://webring.page.link/Dj4a
 7aac97736fe3b735eb106080806fd92b:facebook:
   spec:
     title: '[AZ-400] Design and implement a release strategy [debuggingsoft.com]'
