@@ -9339,6 +9339,25 @@ c860c0569cde5bd92e5079e8c396ff8e:shorturl:
     url: https://chrisza.me/not-simple/mistaken-simplicity/
   state:
     shortLink: https://webring.page.link/UWDE
+c91a9d44eb025f3eb497bcb1d8e15078:facebook:
+  spec:
+    title: Summary of hacktoberfest 2023 [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/summary-hacktoberfest-2023/
+  state:
+    id: '100746876247412_307261165596466'
+    url: https://www.facebook.com/100683012920950/posts/307261165596466
+c91a9d44eb025f3eb497bcb1d8e15078:mastodon:
+  spec:
+    title: Summary of hacktoberfest 2023 [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/summary-hacktoberfest-2023/
+  state:
+    id: '111470398514004965'
+    url: https://mastodon.in.th/@webring/111470398514004965
+c91a9d44eb025f3eb497bcb1d8e15078:shorturl:
+  spec:
+    url: https://yuttakhanb.dev/posts/summary-hacktoberfest-2023/
+  state:
+    shortLink: https://webring.page.link/5dCh
 c933e277bd4b40830366b1f3ef12a5c5:facebook:
   spec:
     title: สรุป National Coding Day 2023#02 [debuggingsoft.com]
