@@ -11619,6 +11619,25 @@ f637cd1da2d6871b3f8e301ce4dbfb30:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/11/migrate-net-framework-to-net-core-net6-note/
   state:
     shortLink: https://webring.page.link/KWde
+f67aa6ca8b843e8176838e2cb35d0baa:facebook:
+  spec:
+    title: เรียนรู้การใช้งาน migrate-mongo [kajame.xyz]
+    url: https://kajame.xyz/blog/migration-mongo
+  state:
+    id: '100746876247412_308247595497823'
+    url: https://www.facebook.com/100683012920950/posts/308247595497823
+f67aa6ca8b843e8176838e2cb35d0baa:mastodon:
+  spec:
+    title: เรียนรู้การใช้งาน migrate-mongo [kajame.xyz]
+    url: https://kajame.xyz/blog/migration-mongo
+  state:
+    id: '111480314906185789'
+    url: https://mastodon.in.th/@webring/111480314906185789
+f67aa6ca8b843e8176838e2cb35d0baa:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/migration-mongo
+  state:
+    shortLink: https://webring.page.link/XPx9
 f695c7098433ca6b3d6e691638eb73b4:facebook:
   spec:
     title: Refinance คอนโดครั้งแรก [kusumotolab.com]
