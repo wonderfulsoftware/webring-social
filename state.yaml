@@ -9092,6 +9092,25 @@ c1257fa0dcb6cbe73fb7a6cc3e8e9aef:shorturl:
     url: https://www.mikkipastel.com/online-course-nft-defi-foundametal-from-nft360/
   state:
     shortLink: https://webring.page.link/mWep
+c17082f763f2e844e8afd34a9069afdd:facebook:
+  spec:
+    title: รีวิวคอร์สสาย Tech ที่เราเรียนของ Skooldio กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/review-skooldio-tech-course/
+  state:
+    id: '100746876247412_308820695440513'
+    url: https://www.facebook.com/100683012920950/posts/308820695440513
+c17082f763f2e844e8afd34a9069afdd:mastodon:
+  spec:
+    title: รีวิวคอร์สสาย Tech ที่เราเรียนของ Skooldio กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/review-skooldio-tech-course/
+  state:
+    id: '111485976457255831'
+    url: https://mastodon.in.th/@webring/111485976457255831
+c17082f763f2e844e8afd34a9069afdd:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/review-skooldio-tech-course/
+  state:
+    shortLink: https://webring.page.link/q6si
 c25a1751edc8f9642937cb00ebca5982:facebook:
   spec:
     title: Building a Second Brain [garden.narze.live]
