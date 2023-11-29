@@ -5337,6 +5337,25 @@
     url: https://www.somkiat.cc/kip-932-queues-for-kafka/
   state:
     shortLink: https://webring.page.link/N8HQ
+6e07b92da4269c29507c1c1c4df5f2e5:facebook:
+  spec:
+    title: เรื่องวุ่นๆของเงื่อนไขใน Jenkins Pipeline [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/condition-in-jenkins-pipeline/
+  state:
+    id: '100746876247412_309378708718045'
+    url: https://www.facebook.com/100683012920950/posts/309378708718045
+6e07b92da4269c29507c1c1c4df5f2e5:mastodon:
+  spec:
+    title: เรื่องวุ่นๆของเงื่อนไขใน Jenkins Pipeline [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/11/condition-in-jenkins-pipeline/
+  state:
+    id: '111491639315397126'
+    url: https://mastodon.in.th/@webring/111491639315397126
+6e07b92da4269c29507c1c1c4df5f2e5:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/11/condition-in-jenkins-pipeline/
+  state:
+    shortLink: https://webring.page.link/wuKc
 6ea664674e5299a96e34f7346ae67060:facebook:
   spec:
     title: Wishlist [garden.narze.live]
