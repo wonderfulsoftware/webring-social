@@ -12049,6 +12049,25 @@ fb59631bc212db49aa6b847609fff173:shorturl:
     url: https://ntsd.dev/extract-cricital-css/
   state:
     shortLink: https://webring.page.link/3MJK
+fd4b806a1ef371b85bf738f4a8699837:facebook:
+  spec:
+    title: Serverless real-time machine learning inference with AWS [karnwong.me]
+    url: https://karnwong.me/posts/2023/11/serverless-real-time-machine-learning-inference-with-aws/
+  state:
+    id: '100746876247412_309514412037808'
+    url: https://www.facebook.com/100683012920950/posts/309514412037808
+fd4b806a1ef371b85bf738f4a8699837:mastodon:
+  spec:
+    title: Serverless real-time machine learning inference with AWS [karnwong.me]
+    url: https://karnwong.me/posts/2023/11/serverless-real-time-machine-learning-inference-with-aws/
+  state:
+    id: '111493053371493991'
+    url: https://mastodon.in.th/@webring/111493053371493991
+fd4b806a1ef371b85bf738f4a8699837:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2023/11/serverless-real-time-machine-learning-inference-with-aws/
+  state:
+    shortLink: https://webring.page.link/RM8m
 ff1a08452a4f002b3d483fa32639fb1d:facebook:
   spec:
     title: ข้อมูลการใช้งานของ Stack Overflow [somkiat.cc]
