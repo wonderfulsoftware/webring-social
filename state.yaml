@@ -8548,6 +8548,25 @@ b0bab9c6fb19f66e158e3667ac1fefa2:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/06/cr-starbucks-green-tea-red-bean-cake/
   state:
     shortLink: https://webring.page.link/7pUY
+b10d7bfd6306f0511a614aa30c257531:facebook:
+  spec:
+    title: 'Postman :: ถ้าต้องการ skip request ทำอย่างไร ? [somkiat.cc]'
+    url: https://www.somkiat.cc/postman-skip-request/
+  state:
+    id: '100746876247412_309446162044633'
+    url: https://www.facebook.com/100683012920950/posts/309446162044633
+b10d7bfd6306f0511a614aa30c257531:mastodon:
+  spec:
+    title: 'Postman :: ถ้าต้องการ skip request ทำอย่างไร ? [somkiat.cc]'
+    url: https://www.somkiat.cc/postman-skip-request/
+  state:
+    id: '111492356446438115'
+    url: https://mastodon.in.th/@webring/111492356446438115
+b10d7bfd6306f0511a614aa30c257531:shorturl:
+  spec:
+    url: https://www.somkiat.cc/postman-skip-request/
+  state:
+    shortLink: https://webring.page.link/AGgZ
 b1414e295ee1b03de271abe597428804:facebook:
   spec:
     title: มาดูความสามารถใหม่ ๆ ใน Robot Framework 6.1 alpha 1 [somkiat.cc]
