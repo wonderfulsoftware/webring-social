@@ -5527,6 +5527,25 @@
     url: https://www.karnwong.me/posts/2023/04/the-mythical-chatops-in-action/
   state:
     shortLink: https://webring.page.link/n5cb
+705d3959f69b2a1e2c1902173cf9a239:facebook:
+  spec:
+    title: ทวิภาวะ จุด-เส้นตรง [neizod.dev]
+    url: https://neizod.dev/2023/11/30/point-line-duality.html
+  state:
+    id: '100746876247412_310656015256981'
+    url: https://www.facebook.com/100683012920950/posts/310656015256981
+705d3959f69b2a1e2c1902173cf9a239:mastodon:
+  spec:
+    title: ทวิภาวะ จุด-เส้นตรง [neizod.dev]
+    url: https://neizod.dev/2023/11/30/point-line-duality.html
+  state:
+    id: '111503683719852736'
+    url: https://mastodon.in.th/@webring/111503683719852736
+705d3959f69b2a1e2c1902173cf9a239:shorturl:
+  spec:
+    url: https://neizod.dev/2023/11/30/point-line-duality.html
+  state:
+    shortLink: https://webring.page.link/sBY3
 7085995af569ce4037214bb176ecfd7f:facebook:
   spec:
     title: 'Robot Framework :: SeleniumLibrary 6.1.3 แก้ไขการ ใช้งาน remote url แล้ว [somkiat.cc]'
