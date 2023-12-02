@@ -3988,6 +3988,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/update-each-dependency-in-package-dot-json-to-lasted-version/
   state:
     shortLink: https://webring.page.link/bXAy
+5607a85b0ecde54f7403ac811dec1781:facebook:
+  spec:
+    title: มาเรียนรู้การเทรดเบื้องต้น กับ Bittoon Trading Club [mikkipastel.com]
+    url: https://www.mikkipastel.com/beginner-trading-bittoon-trading-club/
+  state:
+    id: '100746876247412_311171371872112'
+    url: https://www.facebook.com/100683012920950/posts/311171371872112
+5607a85b0ecde54f7403ac811dec1781:mastodon:
+  spec:
+    title: มาเรียนรู้การเทรดเบื้องต้น กับ Bittoon Trading Club [mikkipastel.com]
+    url: https://www.mikkipastel.com/beginner-trading-bittoon-trading-club/
+  state:
+    id: '111508625231793005'
+    url: https://mastodon.in.th/@webring/111508625231793005
+5607a85b0ecde54f7403ac811dec1781:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/beginner-trading-bittoon-trading-club/
+  state:
+    shortLink: https://webring.page.link/Ms3H
 575d39c8dd1fefc9c3f12bc4987283ee:facebook:
   spec:
     title: อยาก Re-Install OS เครื่องบน Cloud ใหม่ แต่ไม่อยาก Terminate เครื่องทิ้ง ทำไงดี [kusumotolab.com]
