@@ -8434,6 +8434,25 @@ aca5605a7c6d9434f9f9d8bee09eff8f:shorturl:
     url: https://www.somkiat.cc/go-vulnerability-management/
   state:
     shortLink: https://webring.page.link/ySHH
+ace02453c1ce428b12a46216b9176556:facebook:
+  spec:
+    title: '[CR] Starbucks-Xmas Tree Brownie [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/12/cr-starbucks-xmas-tree-brownie/
+  state:
+    id: '100746876247412_311238018532114'
+    url: https://www.facebook.com/100683012920950/posts/311238018532114
+ace02453c1ce428b12a46216b9176556:mastodon:
+  spec:
+    title: '[CR] Starbucks-Xmas Tree Brownie [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/12/cr-starbucks-xmas-tree-brownie/
+  state:
+    id: '111509340543409984'
+    url: https://mastodon.in.th/@webring/111509340543409984
+ace02453c1ce428b12a46216b9176556:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/12/cr-starbucks-xmas-tree-brownie/
+  state:
+    shortLink: https://webring.page.link/9a7x
 ad854103055b99bd1095a99ddb655ade:facebook:
   spec:
     title: My First Hiking at Phu Soi Dao [tantatorn.xyz]
