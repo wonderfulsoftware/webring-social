@@ -1879,6 +1879,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/enable-auto-detect-workout-on-huawei-watch-fit/
   state:
     shortLink: https://webring.page.link/JfHF
+27d57d3b6ac37fc13173d25e3ee58caf:facebook:
+  spec:
+    title: Illustration - ランデブー・コースト🏝 [lucian.solutions]
+    url: https://lucian.solutions/blog/rendezvous-coast-ez2on-art
+  state:
+    id: '100746876247412_311855065137076'
+    url: https://www.facebook.com/100683012920950/posts/311855065137076
+27d57d3b6ac37fc13173d25e3ee58caf:mastodon:
+  spec:
+    title: Illustration - ランデブー・コースト🏝 [lucian.solutions]
+    url: https://lucian.solutions/blog/rendezvous-coast-ez2on-art
+  state:
+    id: '111515001493656527'
+    url: https://mastodon.in.th/@webring/111515001493656527
+27d57d3b6ac37fc13173d25e3ee58caf:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/rendezvous-coast-ez2on-art
+  state:
+    shortLink: https://webring.page.link/PN8S
 27e564a14ea6e84f723b674f4bcb680e:facebook:
   spec:
     title: 'Ubuntu: Extend your LVM (Disk) space [debuggingsoft.com]'
