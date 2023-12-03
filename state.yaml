@@ -10650,6 +10650,25 @@ df26428cab55c1f18af83f3b63409444:shorturl:
     url: https://www.poolsawat.com/how-to-configuration-spring-webclient-request-response-logging/
   state:
     shortLink: https://webring.page.link/Pcni
+df6af564246bc5294aa7438f9791a096:facebook:
+  spec:
+    title: ตอนนี้ Spring Initializr มีแต่ Spring Boot 3 แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/spring-initializr-with-spring-boot-3/
+  state:
+    id: '100746876247412_311774845145098'
+    url: https://www.facebook.com/100683012920950/posts/311774845145098
+df6af564246bc5294aa7438f9791a096:mastodon:
+  spec:
+    title: ตอนนี้ Spring Initializr มีแต่ Spring Boot 3 แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/spring-initializr-with-spring-boot-3/
+  state:
+    id: '111514287098037180'
+    url: https://mastodon.in.th/@webring/111514287098037180
+df6af564246bc5294aa7438f9791a096:shorturl:
+  spec:
+    url: https://www.somkiat.cc/spring-initializr-with-spring-boot-3/
+  state:
+    shortLink: https://webring.page.link/4M9o
 e0a3c08ad94aab3c6b11e3bff2cdc31d:facebook:
   spec:
     title: Docker Compose Watch ตัวเต็ม ๆ ออกมาแล้ว [somkiat.cc]
