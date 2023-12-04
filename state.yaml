@@ -10650,6 +10650,25 @@ de5a01ad313c46a7ced7e4944b43cd08:shorturl:
     url: https://www.mikkipastel.com/introduction-stable-diffusion-101/
   state:
     shortLink: https://webring.page.link/JpDR
+df0814156257b3dbcc2b23506138f3f6:facebook:
+  spec:
+    title: มา install ArgoCD บน GKE Cluster กัน [anewlife.dev]
+    url: https://www.anewlife.dev/post/install-argocd-on-gke-cluster/
+  state:
+    id: '100746876247412_312368195085763'
+    url: https://www.facebook.com/100683012920950/posts/312368195085763
+df0814156257b3dbcc2b23506138f3f6:mastodon:
+  spec:
+    title: มา install ArgoCD บน GKE Cluster กัน [anewlife.dev]
+    url: https://www.anewlife.dev/post/install-argocd-on-gke-cluster/
+  state:
+    id: '111519951671702217'
+    url: https://mastodon.in.th/@webring/111519951671702217
+df0814156257b3dbcc2b23506138f3f6:shorturl:
+  spec:
+    url: https://www.anewlife.dev/post/install-argocd-on-gke-cluster/
+  state:
+    shortLink: https://webring.page.link/uEgw
 df26428cab55c1f18af83f3b63409444:facebook:
   spec:
     title: การใช้งาน Spring Reactive ร่วมกับ WebClient พร้อมทำ Request, Response Logging [poolsawat.com]
