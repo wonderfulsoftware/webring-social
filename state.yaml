@@ -7598,6 +7598,25 @@
     url: https://www.llun.me/posts/dev/2023-01-07-my-wrong-assumptions-with-activity-pub
   state:
     shortLink: https://webring.page.link/fudd
+99594e4ed27b6077502ea8bac3cb4640:facebook:
+  spec:
+    title: ว่าด้วยเรื่องของ Distroless image [somkiat.cc]
+    url: https://www.somkiat.cc/distroless-image/
+  state:
+    id: '100746876247412_312513761737873'
+    url: https://www.facebook.com/100683012920950/posts/312513761737873
+99594e4ed27b6077502ea8bac3cb4640:mastodon:
+  spec:
+    title: ว่าด้วยเรื่องของ Distroless image [somkiat.cc]
+    url: https://www.somkiat.cc/distroless-image/
+  state:
+    id: '111521368479964998'
+    url: https://mastodon.in.th/@webring/111521368479964998
+99594e4ed27b6077502ea8bac3cb4640:shorturl:
+  spec:
+    url: https://www.somkiat.cc/distroless-image/
+  state:
+    shortLink: https://webring.page.link/jZYN
 996d1e0e34687bc03e599589a39068ec:facebook:
   spec:
     title: Why I use Arc Browser [garden.narze.live]
