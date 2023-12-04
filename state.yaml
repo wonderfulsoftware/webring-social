@@ -9054,6 +9054,25 @@ bde97e16d926c30e48a01a38e424bee1:shorturl:
     url: https://garden.narze.live/100daysofcode-r3-62-garden-astro-add-tests/
   state:
     shortLink: https://webring.page.link/Tqoh
+be58e3aec3a9a98c2dea8cf7235004f8:facebook:
+  spec:
+    title: The Cloud Camp Week#12 (Observability#1) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week12-observability-part1/
+  state:
+    id: '100746876247412_312446101744639'
+    url: https://www.facebook.com/100683012920950/posts/312446101744639
+be58e3aec3a9a98c2dea8cf7235004f8:mastodon:
+  spec:
+    title: The Cloud Camp Week#12 (Observability#1) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week12-observability-part1/
+  state:
+    id: '111520671194372215'
+    url: https://mastodon.in.th/@webring/111520671194372215
+be58e3aec3a9a98c2dea8cf7235004f8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week12-observability-part1/
+  state:
+    shortLink: https://webring.page.link/t1mW
 bf1e2f5ed632fa45a543935b8ce5d4e1:facebook:
   spec:
     title: 77 - ChatOS - Trying encryption libraries [garden.narze.live]
