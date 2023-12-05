@@ -7864,6 +7864,25 @@
     url: https://tech.duckfollow.co/view/resistor-color-code-utility
   state:
     shortLink: https://webring.page.link/CHwf
+9dd372d9894958f226807a0c2c999118:facebook:
+  spec:
+    title: New Blog | บ้านใหม่ [p4perf4ce.me]
+    url: https://p4perf4ce.me/articles/23/new-home
+  state:
+    id: '100746876247412_313029791686270'
+    url: https://www.facebook.com/100683012920950/posts/313029791686270
+9dd372d9894958f226807a0c2c999118:mastodon:
+  spec:
+    title: New Blog | บ้านใหม่ [p4perf4ce.me]
+    url: https://p4perf4ce.me/articles/23/new-home
+  state:
+    id: '111526331613868418'
+    url: https://mastodon.in.th/@webring/111526331613868418
+9dd372d9894958f226807a0c2c999118:shorturl:
+  spec:
+    url: https://p4perf4ce.me/articles/23/new-home
+  state:
+    shortLink: https://webring.page.link/2NHj
 9e5a1a3c5164f77e740a5156074bb49d:facebook:
   spec:
     title: Persistent store for Cross-platform React applications with Recoil and Capacitor Preferences [ntsd.dev]
