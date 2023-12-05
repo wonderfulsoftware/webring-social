@@ -10270,6 +10270,25 @@ d43d61f3576e738bae612abd09c7d2a2:shorturl:
     url: https://jitrak.dev/posts/post-24-wsl-alias-suggestion/
   state:
     shortLink: https://webring.page.link/y4cY
+d44c9ec0dcffb1617db79dc483e97645:facebook:
+  spec:
+    title: สวัสดี Chiselled Ubuntu containers [somkiat.cc]
+    url: https://www.somkiat.cc/hello-chiselled-ubuntu-containers/
+  state:
+    id: '100746876247412_313166265005956'
+    url: https://www.facebook.com/100683012920950/posts/313166265005956
+d44c9ec0dcffb1617db79dc483e97645:mastodon:
+  spec:
+    title: สวัสดี Chiselled Ubuntu containers [somkiat.cc]
+    url: https://www.somkiat.cc/hello-chiselled-ubuntu-containers/
+  state:
+    id: '111527766075050441'
+    url: https://mastodon.in.th/@webring/111527766075050441
+d44c9ec0dcffb1617db79dc483e97645:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-chiselled-ubuntu-containers/
+  state:
+    shortLink: https://webring.page.link/irZz
 d487b3b6419ebd755aa2d80b7dd8b5fe:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 3 (Product Owner) [taoisaman.com]
