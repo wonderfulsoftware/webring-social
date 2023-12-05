@@ -9586,6 +9586,25 @@ c860c0569cde5bd92e5079e8c396ff8e:shorturl:
     url: https://chrisza.me/not-simple/mistaken-simplicity/
   state:
     shortLink: https://webring.page.link/UWDE
+c8dc3bb0686e3750b4fe768c991dee53:facebook:
+  spec:
+    title: Robocopy ERROR 3 (0x00000003) Accessing Source Directory C:\172.1.0.56\gen\ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/robocopy-error-3-0x00000003-accessing-source-directory-c172-1-0-56gen/
+  state:
+    id: '100746876247412_313089538346962'
+    url: https://www.facebook.com/100683012920950/posts/313089538346962
+c8dc3bb0686e3750b4fe768c991dee53:mastodon:
+  spec:
+    title: Robocopy ERROR 3 (0x00000003) Accessing Source Directory C:\172.1.0.56\gen\ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/robocopy-error-3-0x00000003-accessing-source-directory-c172-1-0-56gen/
+  state:
+    id: '111527029099088781'
+    url: https://mastodon.in.th/@webring/111527029099088781
+c8dc3bb0686e3750b4fe768c991dee53:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/12/robocopy-error-3-0x00000003-accessing-source-directory-c172-1-0-56gen/
+  state:
+    shortLink: https://webring.page.link/mToZ
 c91a9d44eb025f3eb497bcb1d8e15078:facebook:
   spec:
     title: Summary of hacktoberfest 2023 [yuttakhanb.dev]
