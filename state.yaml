@@ -5242,6 +5242,25 @@
     url: https://chameleontk.github.io/year-in-review-2022/
   state:
     shortLink: https://webring.page.link/ioKV
+6cd263f9347be52ead84c8936da5b3ca:facebook:
+  spec:
+    title: Short note from DevFest Bangkok 2023 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2023/11/04/short-note-devfest-2023.html
+  state:
+    id: '100746876247412_312962215026361'
+    url: https://www.facebook.com/100683012920950/posts/312962215026361
+6cd263f9347be52ead84c8936da5b3ca:mastodon:
+  spec:
+    title: Short note from DevFest Bangkok 2023 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2023/11/04/short-note-devfest-2023.html
+  state:
+    id: '111525615293096531'
+    url: https://mastodon.in.th/@webring/111525615293096531
+6cd263f9347be52ead84c8936da5b3ca:shorturl:
+  spec:
+    url: https://blog.oatto.dev/2023/11/04/short-note-devfest-2023.html
+  state:
+    shortLink: https://webring.page.link/ZhXe
 6cd34025c7e18656806013b2e17fcc2a:facebook:
   spec:
     title: Rebuild COM Interop DLL ด้วย VS2022 เจอ Runtime Error 3001 แต่ VS2019 ทำงานได้ [debuggingsoft.com]
