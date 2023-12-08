@@ -5584,6 +5584,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/10/software-telemetry-%e0%b8%84%e0%b8%b7%e0%b8%ad-%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/
   state:
     shortLink: https://webring.page.link/bdLx
+70078faba49aa1e5fde5882a06c88875:facebook:
+  spec:
+    title: มุมมองของ Dev อยากได้อะไรจาก Support [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/what-is-useful-data-for-developer-to-support-an-incident/
+  state:
+    id: '100746876247412_314679558187960'
+    url: https://www.facebook.com/100683012920950/posts/314679558187960
+70078faba49aa1e5fde5882a06c88875:mastodon:
+  spec:
+    title: มุมมองของ Dev อยากได้อะไรจาก Support [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/what-is-useful-data-for-developer-to-support-an-incident/
+  state:
+    id: '111542600319804285'
+    url: https://mastodon.in.th/@webring/111542600319804285
+70078faba49aa1e5fde5882a06c88875:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/12/what-is-useful-data-for-developer-to-support-an-incident/
+  state:
+    shortLink: https://webring.page.link/Y15c
 700b9672cf4f092e63fd53f41847a58e:facebook:
   spec:
     title: The mythical ChatOps in action [karnwong.me]
