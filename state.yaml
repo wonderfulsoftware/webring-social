@@ -11904,6 +11904,25 @@ f4a9daa208c333c61a97a0457c8e8137:shorturl:
     url: https://www.somkiat.cc/vscode-built-in-port-forwarding/
   state:
     shortLink: https://webring.page.link/MtNj
+f4b516ab02686d39d28034af5c439d23:facebook:
+  spec:
+    title: 'Git error: src refspec master does not match any [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-git-error-src-refspec-master-does-not-match-any/
+  state:
+    id: '100746876247412_315320458123870'
+    url: https://www.facebook.com/100683012920950/posts/315320458123870
+f4b516ab02686d39d28034af5c439d23:mastodon:
+  spec:
+    title: 'Git error: src refspec master does not match any [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-git-error-src-refspec-master-does-not-match-any/
+  state:
+    id: '111548260992710916'
+    url: https://mastodon.in.th/@webring/111548260992710916
+f4b516ab02686d39d28034af5c439d23:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-git-error-src-refspec-master-does-not-match-any/
+  state:
+    shortLink: https://webring.page.link/a8bK
 f52e6cc105cd38ba08ddb80ada7f1b01:facebook:
   spec:
     title: Riffy's adventure to Northern Japan and choked along the way [rayriffy.com]
