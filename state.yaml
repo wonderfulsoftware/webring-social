@@ -397,6 +397,25 @@
     url: https://lucian.solutions/blog/kurumi-tai-2023
   state:
     shortLink: https://webring.page.link/We7t
+0b90a32af2f18073c9c44f413e41731a:facebook:
+  spec:
+    title: How to hide Qwerty layout from macOS [garden.narze.live]
+    url: https://garden.narze.live/how-to-hide-qwerty-layout-from-macos/
+  state:
+    id: '100746876247412_315911494731433'
+    url: https://www.facebook.com/100683012920950/posts/315911494731433
+0b90a32af2f18073c9c44f413e41731a:mastodon:
+  spec:
+    title: How to hide Qwerty layout from macOS [garden.narze.live]
+    url: https://garden.narze.live/how-to-hide-qwerty-layout-from-macos/
+  state:
+    id: '111553925516638535'
+    url: https://mastodon.in.th/@webring/111553925516638535
+0b90a32af2f18073c9c44f413e41731a:shorturl:
+  spec:
+    url: https://garden.narze.live/how-to-hide-qwerty-layout-from-macos/
+  state:
+    shortLink: https://webring.page.link/Nqnn
 0c0656e4b47f6ff1a13511b3f3a1e346:facebook:
   spec:
     title: '[CR] Starbucks-Milk Pudding [debuggingsoft.com]'
