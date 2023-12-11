@@ -2069,6 +2069,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-01/
   state:
     shortLink: https://webring.page.link/oCFY
+2a070226061fe63312601a6c7163b94a:facebook:
+  spec:
+    title: ตัวอย่างการใช้งาน Coordinated Restore at Checkpoint (CRaC) ใน Spring Boot [somkiat.cc]
+    url: https://www.somkiat.cc/demo-spring-boot-and-crac/
+  state:
+    id: '100746876247412_316496101339639'
+    url: https://www.facebook.com/100683012920950/posts/316496101339639
+2a070226061fe63312601a6c7163b94a:mastodon:
+  spec:
+    title: ตัวอย่างการใช้งาน Coordinated Restore at Checkpoint (CRaC) ใน Spring Boot [somkiat.cc]
+    url: https://www.somkiat.cc/demo-spring-boot-and-crac/
+  state:
+    id: '111559589261211050'
+    url: https://mastodon.in.th/@webring/111559589261211050
+2a070226061fe63312601a6c7163b94a:shorturl:
+  spec:
+    url: https://www.somkiat.cc/demo-spring-boot-and-crac/
+  state:
+    shortLink: https://webring.page.link/UWK2
 2aa3e01408c05a47e59ef43642292402:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 6 - Card Game [devahoy.com]
