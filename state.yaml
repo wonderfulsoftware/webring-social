@@ -8035,6 +8035,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/wp-meetup-how-to-make-money-blogging/
   state:
     shortLink: https://webring.page.link/4b5Y
+a05881d3256ddc47df22016c2c07e6c4:facebook:
+  spec:
+    title: The Cloud Camp Week#13 (Observability#2) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week13-observability-part2/
+  state:
+    id: '100746876247412_316563164666266'
+    url: https://www.facebook.com/100683012920950/posts/316563164666266
+a05881d3256ddc47df22016c2c07e6c4:mastodon:
+  spec:
+    title: The Cloud Camp Week#13 (Observability#2) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week13-observability-part2/
+  state:
+    id: '111560307136237022'
+    url: https://mastodon.in.th/@webring/111560307136237022
+a05881d3256ddc47df22016c2c07e6c4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week13-observability-part2/
+  state:
+    shortLink: https://webring.page.link/HLnN
 a1fc654eae8ca5c14e18da045946930c:facebook:
   spec:
     title: Time series data streams ใน Elasticsearch 8.6.0 [somkiat.cc]
