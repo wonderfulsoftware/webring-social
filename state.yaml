@@ -6857,6 +6857,25 @@
     url: https://garden.narze.live/100daysofcode-r3-55-garden-astro/
   state:
     shortLink: https://webring.page.link/Kdsu
+86be171e9c13d54d7f6f00c883907b91:facebook:
+  spec:
+    title: ลบชื่อ Server ออกจาก response header (Nginx) [trwkc.dev]
+    url: https://trwkc.dev/remove-server-detail-nginx/
+  state:
+    id: '100746876247412_316707307985185'
+    url: https://www.facebook.com/100683012920950/posts/316707307985185
+86be171e9c13d54d7f6f00c883907b91:mastodon:
+  spec:
+    title: ลบชื่อ Server ออกจาก response header (Nginx) [trwkc.dev]
+    url: https://trwkc.dev/remove-server-detail-nginx/
+  state:
+    id: '111561743250307536'
+    url: https://mastodon.in.th/@webring/111561743250307536
+86be171e9c13d54d7f6f00c883907b91:shorturl:
+  spec:
+    url: https://trwkc.dev/remove-server-detail-nginx/
+  state:
+    shortLink: https://webring.page.link/hTzM
 86cb341bc728530227f0e3dc22703b27:facebook:
   spec:
     title: '[C#] ลองใช้งานตัว DebuggerDisplayAttribute [debuggingsoft.com]'
