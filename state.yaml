@@ -3798,6 +3798,25 @@
     url: https://devahoy.com/blog/vscode-unknown-at-rules-css
   state:
     shortLink: https://webring.page.link/34Jq
+4f3b194e31f46d0addcd8330e1887310:facebook:
+  spec:
+    title: ทำ Strapi ให้อยู่บน Docker [kajame.xyz]
+    url: https://kajame.xyz/blog/strapi-on-docker
+  state:
+    id: '100746876247412_317066024615980'
+    url: https://www.facebook.com/100683012920950/posts/317066024615980
+4f3b194e31f46d0addcd8330e1887310:mastodon:
+  spec:
+    title: ทำ Strapi ให้อยู่บน Docker [kajame.xyz]
+    url: https://kajame.xyz/blog/strapi-on-docker
+  state:
+    id: '111565251431220562'
+    url: https://mastodon.in.th/@webring/111565251431220562
+4f3b194e31f46d0addcd8330e1887310:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/strapi-on-docker
+  state:
+    shortLink: https://webring.page.link/7daj
 4f7868cf5e500bb12890c48efbe6dde7:facebook:
   spec:
     title: 'Docker Desktop 4.18 :: watch ใน Docker compose [somkiat.cc]'
