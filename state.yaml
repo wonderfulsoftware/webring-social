@@ -8092,6 +8092,25 @@ a05881d3256ddc47df22016c2c07e6c4:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week13-observability-part2/
   state:
     shortLink: https://webring.page.link/HLnN
+a08da8f7b9e6c96514d514a6ed395e0c:facebook:
+  spec:
+    title: 'Alfresco: Edit in Microsoft Office problem not working [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/12/alfresco-edit-in-microsoft-office-not-working/
+  state:
+    id: '100746876247412_317632574559325'
+    url: https://www.facebook.com/100683012920950/posts/317632574559325
+a08da8f7b9e6c96514d514a6ed395e0c:mastodon:
+  spec:
+    title: 'Alfresco: Edit in Microsoft Office problem not working [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/12/alfresco-edit-in-microsoft-office-not-working/
+  state:
+    id: '111570913279739440'
+    url: https://mastodon.in.th/@webring/111570913279739440
+a08da8f7b9e6c96514d514a6ed395e0c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/12/alfresco-edit-in-microsoft-office-not-working/
+  state:
+    shortLink: https://webring.page.link/86Hz
 a1fc654eae8ca5c14e18da045946930c:facebook:
   spec:
     title: Time series data streams ใน Elasticsearch 8.6.0 [somkiat.cc]
