@@ -7617,6 +7617,25 @@
     url: https://mesodiar.com/%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B2%E0%B8%81-gdg-sea-summit-2023-thai-ver-2a96946e6703?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/eBpo
+961df37c27144e7aa34705f2921a1df2:facebook:
+  spec:
+    title: แนะนำการใช้งาน Distributed Tracing ใน Spring Boot 3.2 [somkiat.cc]
+    url: https://www.somkiat.cc/distributed-tracing-in-spring-boot-3-2/
+  state:
+    id: '100746876247412_318173137838602'
+    url: https://www.facebook.com/100683012920950/posts/318173137838602
+961df37c27144e7aa34705f2921a1df2:mastodon:
+  spec:
+    title: แนะนำการใช้งาน Distributed Tracing ใน Spring Boot 3.2 [somkiat.cc]
+    url: https://www.somkiat.cc/distributed-tracing-in-spring-boot-3-2/
+  state:
+    id: '111576574919622109'
+    url: https://mastodon.in.th/@webring/111576574919622109
+961df37c27144e7aa34705f2921a1df2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/distributed-tracing-in-spring-boot-3-2/
+  state:
+    shortLink: https://webring.page.link/o5qM
 96f7739f7435b2722c08ff63bcecad53:facebook:
   spec:
     title: ว่าด้วยเรื่อง cURL ใช้อย่างไรให้ Pro ใช้อย่างไรถึงจะ Cool [poolsawat.com]
