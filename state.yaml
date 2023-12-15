@@ -9700,6 +9700,25 @@ c4ff1386abb8c0745cb58032ae85937a:shorturl:
     url: https://www.somkiat.cc/redis-usecase/
   state:
     shortLink: https://webring.page.link/j5Zo
+c56e5547bb9ae969baa17ee2f8911eda:facebook:
+  spec:
+    title: 'How to Fixed: Feature ‘raw string literals’ is not available. Please use language version 11.0 or greater [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-feature-raw-string-literals-is-not-available-please-use-language-version-11-0-or-greater/
+  state:
+    id: '100746876247412_318891324433450'
+    url: https://www.facebook.com/100683012920950/posts/318891324433450
+c56e5547bb9ae969baa17ee2f8911eda:mastodon:
+  spec:
+    title: 'How to Fixed: Feature ‘raw string literals’ is not available. Please use language version 11.0 or greater [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-feature-raw-string-literals-is-not-available-please-use-language-version-11-0-or-greater/
+  state:
+    id: '111582955096306006'
+    url: https://mastodon.in.th/@webring/111582955096306006
+c56e5547bb9ae969baa17ee2f8911eda:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-feature-raw-string-literals-is-not-available-please-use-language-version-11-0-or-greater/
+  state:
+    shortLink: https://webring.page.link/kct9
 c61f556811d24860e7a0b033c789f726:facebook:
   spec:
     title: ลองใช้งาน Atlas สำหรับทำ Database migration [somkiat.cc]
