@@ -1233,6 +1233,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/error-createprocessentrycommon347-getpwuid0-failed-2-when-access-wsl/
   state:
     shortLink: https://webring.page.link/o4UU
+1bbd5d0e1884e3c73690f8bfb3453391:facebook:
+  spec:
+    title: วิธีการสร้าง SSL Certificate โดยใช้ Cert Manager [anewlife.dev]
+    url: https://www.anewlife.dev/post/create-a-ssl-certificate-with-cert-manager/
+  state:
+    id: '100746876247412_318973237758592'
+    url: https://www.facebook.com/100683012920950/posts/318973237758592
+1bbd5d0e1884e3c73690f8bfb3453391:mastodon:
+  spec:
+    title: วิธีการสร้าง SSL Certificate โดยใช้ Cert Manager [anewlife.dev]
+    url: https://www.anewlife.dev/post/create-a-ssl-certificate-with-cert-manager/
+  state:
+    id: '111583650784484826'
+    url: https://mastodon.in.th/@webring/111583650784484826
+1bbd5d0e1884e3c73690f8bfb3453391:shorturl:
+  spec:
+    url: https://www.anewlife.dev/post/create-a-ssl-certificate-with-cert-manager/
+  state:
+    shortLink: https://webring.page.link/KoaN
 1bfa736cdb54bee8a82306a953478b8c:facebook:
   spec:
     title: 63 - Linux VM - Deploy containers on MicroK8s [garden.narze.live]
