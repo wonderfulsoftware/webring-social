@@ -2107,6 +2107,25 @@
     url: https://devahoy.com/tutorials/learn-css-animations/day6-card-game
   state:
     shortLink: https://webring.page.link/o53j
+2ae8793fd8b2984a1246e69049100496:facebook:
+  spec:
+    title: สวัสดี Gemini Pro มาลองเขียน code กันนิดนึง [somkiat.cc]
+    url: https://www.somkiat.cc/hello-gemini-pro-in-google-ai-studio/
+  state:
+    id: '100746876247412_318818307774085'
+    url: https://www.facebook.com/100683012920950/posts/318818307774085
+2ae8793fd8b2984a1246e69049100496:mastodon:
+  spec:
+    title: สวัสดี Gemini Pro มาลองเขียน code กันนิดนึง [somkiat.cc]
+    url: https://www.somkiat.cc/hello-gemini-pro-in-google-ai-studio/
+  state:
+    id: '111582237648857132'
+    url: https://mastodon.in.th/@webring/111582237648857132
+2ae8793fd8b2984a1246e69049100496:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-gemini-pro-in-google-ai-studio/
+  state:
+    shortLink: https://webring.page.link/zS16
 2b2ea360e89d2db18887bcc5824c41e4:facebook:
   spec:
     title: 85 - Update narze/resume [garden.narze.live]
