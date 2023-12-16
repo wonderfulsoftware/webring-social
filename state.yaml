@@ -8168,6 +8168,25 @@ a08da8f7b9e6c96514d514a6ed395e0c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/alfresco-edit-in-microsoft-office-not-working/
   state:
     shortLink: https://webring.page.link/86Hz
+a15d7eb8a3b14282e475ad513fef573f:facebook:
+  spec:
+    title: How I install Python on macOS - 2023 edition [garden.narze.live]
+    url: https://garden.narze.live/how-i-install-python-in-2023/
+  state:
+    id: '100746876247412_319478657708050'
+    url: https://www.facebook.com/100683012920950/posts/319478657708050
+a15d7eb8a3b14282e475ad513fef573f:mastodon:
+  spec:
+    title: How I install Python on macOS - 2023 edition [garden.narze.live]
+    url: https://garden.narze.live/how-i-install-python-in-2023/
+  state:
+    id: '111587898864937999'
+    url: https://mastodon.in.th/@webring/111587898864937999
+a15d7eb8a3b14282e475ad513fef573f:shorturl:
+  spec:
+    url: https://garden.narze.live/how-i-install-python-in-2023/
+  state:
+    shortLink: https://webring.page.link/Dxz8
 a1fc654eae8ca5c14e18da045946930c:facebook:
   spec:
     title: Time series data streams ใน Elasticsearch 8.6.0 [somkiat.cc]
