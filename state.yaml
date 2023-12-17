@@ -9985,6 +9985,25 @@ cb2ed3a464a2b5ff06f6d013580a5351:shorturl:
     url: https://www.somkiat.cc/rust-forked-to-crablang/
   state:
     shortLink: https://webring.page.link/ZU8c
+cb2f955d46e62ac97a54f9473dbb1d27:facebook:
+  spec:
+    title: สรุป Java Trends เดือนพฤศจิกายน 2023 จาก InfoQ [somkiat.cc]
+    url: https://www.somkiat.cc/java-trends-november-2023-from-infoq/
+  state:
+    id: '100746876247412_320115294311053'
+    url: https://www.facebook.com/100683012920950/posts/320115294311053
+cb2f955d46e62ac97a54f9473dbb1d27:mastodon:
+  spec:
+    title: สรุป Java Trends เดือนพฤศจิกายน 2023 จาก InfoQ [somkiat.cc]
+    url: https://www.somkiat.cc/java-trends-november-2023-from-infoq/
+  state:
+    id: '111593560863260165'
+    url: https://mastodon.in.th/@webring/111593560863260165
+cb2f955d46e62ac97a54f9473dbb1d27:shorturl:
+  spec:
+    url: https://www.somkiat.cc/java-trends-november-2023-from-infoq/
+  state:
+    shortLink: https://webring.page.link/gwAu
 cbad40833b0865bf6319124c0d563fa1:facebook:
   spec:
     title: สุ่มผู้โชคดีในโลก web3 ด้วย Chainlink VRF [mikkipastel.com]
