@@ -7351,6 +7351,25 @@
     url: https://garden.narze.live/Store-git-directory-externally/
   state:
     shortLink: https://webring.page.link/L2PD
+903e0e13107e77a2cdc8928cd022fb19:facebook:
+  spec:
+    title: สรุปจากการอ่านหนังสือ Tidy First [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-tidy-first-book/
+  state:
+    id: '100746876247412_320763644246218'
+    url: https://www.facebook.com/100683012920950/posts/320763644246218
+903e0e13107e77a2cdc8928cd022fb19:mastodon:
+  spec:
+    title: สรุปจากการอ่านหนังสือ Tidy First [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-tidy-first-book/
+  state:
+    id: '111599224420741704'
+    url: https://mastodon.in.th/@webring/111599224420741704
+903e0e13107e77a2cdc8928cd022fb19:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-from-tidy-first-book/
+  state:
+    shortLink: https://webring.page.link/bJkC
 90c33c5e707e0c808f6e15d080c0d79f:facebook:
   spec:
     title: 'SOPS: Secrets OPerationS [jitrak.dev]'
