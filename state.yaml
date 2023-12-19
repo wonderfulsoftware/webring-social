@@ -9358,6 +9358,25 @@ bde97e16d926c30e48a01a38e424bee1:shorturl:
     url: https://garden.narze.live/100daysofcode-r3-62-garden-astro-add-tests/
   state:
     shortLink: https://webring.page.link/Tqoh
+be3212ad8848257559abae0cb255e58f:facebook:
+  spec:
+    title: The Cloud Camp Week#14 (Recap + Q&A) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week14-recap-qa/
+  state:
+    id: '100746876247412_321400807515835'
+    url: https://www.facebook.com/100683012920950/posts/321400807515835
+be3212ad8848257559abae0cb255e58f:mastodon:
+  spec:
+    title: The Cloud Camp Week#14 (Recap + Q&A) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week14-recap-qa/
+  state:
+    id: '111604885716462091'
+    url: https://mastodon.in.th/@webring/111604885716462091
+be3212ad8848257559abae0cb255e58f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week14-recap-qa/
+  state:
+    shortLink: https://webring.page.link/6yNH
 be58e3aec3a9a98c2dea8cf7235004f8:facebook:
   spec:
     title: The Cloud Camp Week#12 (Observability#1) [debuggingsoft.com]
