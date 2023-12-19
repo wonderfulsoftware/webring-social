@@ -9795,6 +9795,25 @@ c56e5547bb9ae969baa17ee2f8911eda:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-feature-raw-string-literals-is-not-available-please-use-language-version-11-0-or-greater/
   state:
     shortLink: https://webring.page.link/kct9
+c61b44eff61f04b6e32cdf13fc0a631f:facebook:
+  spec:
+    title: Things to watch out for GCP SSL with Cloudflare DNS [karnwong.me]
+    url: https://karnwong.me/posts/2023/12/things-to-watch-out-for-gcp-ssl-with-cloudflare-dns/
+  state:
+    id: '100746876247412_321479337507982'
+    url: https://www.facebook.com/100683012920950/posts/321479337507982
+c61b44eff61f04b6e32cdf13fc0a631f:mastodon:
+  spec:
+    title: Things to watch out for GCP SSL with Cloudflare DNS [karnwong.me]
+    url: https://karnwong.me/posts/2023/12/things-to-watch-out-for-gcp-ssl-with-cloudflare-dns/
+  state:
+    id: '111605603791039980'
+    url: https://mastodon.in.th/@webring/111605603791039980
+c61b44eff61f04b6e32cdf13fc0a631f:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2023/12/things-to-watch-out-for-gcp-ssl-with-cloudflare-dns/
+  state:
+    shortLink: https://webring.page.link/FMgz
 c61f556811d24860e7a0b033c789f726:facebook:
   spec:
     title: ลองใช้งาน Atlas สำหรับทำ Database migration [somkiat.cc]
