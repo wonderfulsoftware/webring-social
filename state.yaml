@@ -2924,6 +2924,25 @@
     url: https://edocstudio.info/
   state:
     shortLink: https://webring.page.link/s1pL
+3c1539dae91bcf7d27591031adcddf9e:facebook:
+  spec:
+    title: อะไรมันซ่อนอยู่ใน CloudWatch กันนะ ทำไมมันกินเงินไปเรื่อยๆเลย [kusumotolab.com]
+    url: https://kusumotolab.com/how-to-investigate-hidden-cost-by-cost-explorer/
+  state:
+    id: '100746876247412_322019004120682'
+    url: https://www.facebook.com/100683012920950/posts/322019004120682
+3c1539dae91bcf7d27591031adcddf9e:mastodon:
+  spec:
+    title: อะไรมันซ่อนอยู่ใน CloudWatch กันนะ ทำไมมันกินเงินไปเรื่อยๆเลย [kusumotolab.com]
+    url: https://kusumotolab.com/how-to-investigate-hidden-cost-by-cost-explorer/
+  state:
+    id: '111610540623284782'
+    url: https://mastodon.in.th/@webring/111610540623284782
+3c1539dae91bcf7d27591031adcddf9e:shorturl:
+  spec:
+    url: https://kusumotolab.com/how-to-investigate-hidden-cost-by-cost-explorer/
+  state:
+    shortLink: https://webring.page.link/32eF
 3ca712d57af0869fde01f356de02f3f1:facebook:
   spec:
     title: แนวคิดการสร้างระบบ Ranking ของ Reddit [somkiat.cc]
