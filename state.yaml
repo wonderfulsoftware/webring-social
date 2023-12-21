@@ -207,6 +207,25 @@
     url: https://www.mikkipastel.com/disc-people-personally-assessment-tool/
   state:
     shortLink: https://webring.page.link/xaKQ
+06dd645390b22fe236afe63d2dc28c7c:facebook:
+  spec:
+    title: How to get output from dotnet test [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/how-to-get-output-from-dotnet-test/
+  state:
+    id: '100746876247412_322627777393138'
+    url: https://www.facebook.com/100683012920950/posts/322627777393138
+06dd645390b22fe236afe63d2dc28c7c:mastodon:
+  spec:
+    title: How to get output from dotnet test [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/how-to-get-output-from-dotnet-test/
+  state:
+    id: '111616210271503145'
+    url: https://mastodon.in.th/@webring/111616210271503145
+06dd645390b22fe236afe63d2dc28c7c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/12/how-to-get-output-from-dotnet-test/
+  state:
+    shortLink: https://webring.page.link/rZFZ
 07b570f18a69ca2e2f65c8de4ce9c07f:facebook:
   spec:
     title: dotnet start webapi error failed to load the dll hostfxr.dll or api-ms-win-crt-runtime-l1-1-0.dll is missing from your computer [debuggingsoft.com]
