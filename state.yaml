@@ -5622,6 +5622,25 @@
     url: https://garden.narze.live/uses/
   state:
     shortLink: https://webring.page.link/s73p
+6f3df0ae862f11342092ab24fd404afb:facebook:
+  spec:
+    title: มาลองใช้งาน Vitest สำหรับ API testing [somkiat.cc]
+    url: https://www.somkiat.cc/api-testing-with-vitest/
+  state:
+    id: '100746876247412_323270867328829'
+    url: https://www.facebook.com/100683012920950/posts/323270867328829
+6f3df0ae862f11342092ab24fd404afb:mastodon:
+  spec:
+    title: มาลองใช้งาน Vitest สำหรับ API testing [somkiat.cc]
+    url: https://www.somkiat.cc/api-testing-with-vitest/
+  state:
+    id: '111621873023414989'
+    url: https://mastodon.in.th/@webring/111621873023414989
+6f3df0ae862f11342092ab24fd404afb:shorturl:
+  spec:
+    url: https://www.somkiat.cc/api-testing-with-vitest/
+  state:
+    shortLink: https://webring.page.link/L2ym
 6f56eb113e092be8425418b21d360525:facebook:
   spec:
     title: VS Code Shortcuts in 15 minutes [garden.narze.live]
