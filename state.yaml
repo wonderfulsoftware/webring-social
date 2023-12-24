@@ -9137,6 +9137,25 @@ b72ce9e655fbc75368504332eba85ca6:shorturl:
     url: https://www.somkiat.cc/problem-robot-framework-with-selenium-library/
   state:
     shortLink: https://webring.page.link/cvYX
+b76257d32b97c558d95abb76c3c22c4c:facebook:
+  spec:
+    title: The Cloud Camp Week#15 (NET Aspire / How to Build OBS / Project Pitch) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week15-net-aspire-how-to-obs-project/
+  state:
+    id: '100746876247412_324549953867587'
+    url: https://www.facebook.com/100683012920950/posts/324549953867587
+b76257d32b97c558d95abb76c3c22c4c:mastodon:
+  spec:
+    title: The Cloud Camp Week#15 (NET Aspire / How to Build OBS / Project Pitch) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week15-net-aspire-how-to-obs-project/
+  state:
+    id: '111633195113293662'
+    url: https://mastodon.in.th/@webring/111633195113293662
+b76257d32b97c558d95abb76c3c22c4c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week15-net-aspire-how-to-obs-project/
+  state:
+    shortLink: https://webring.page.link/1iii
 b79a1c96750fcb3f4c8bf911d46384f6:facebook:
   spec:
     title: ปัญหา Vue.js เรียก API แล้วค้างไปเลย บน Cloud Server ขึ้นสถานะ Pending ตลอด [janescience.com]
