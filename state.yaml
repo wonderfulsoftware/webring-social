@@ -4064,6 +4064,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/fixed-node-error-err_ossl_evp_unsupported-0308010cdigital-envelope-routinesunsupported/
   state:
     shortLink: https://webring.page.link/1DWX
+536237c905941cca9ad76e9b8b603284:facebook:
+  spec:
+    title: '#DevFestCloudBangkok2023. Introducing Data Lakehouse: Apache Iceberg — Slides! [mesodiar.com]'
+    url: https://mesodiar.com/devfestcloudbangkok2023-introducing-data-lakehouse-apache-iceberg-slides-f4bad96bba7d?source=rss----698ac1e5dc8c---4
+  state:
+    id: '100746876247412_324631147192801'
+    url: https://www.facebook.com/100683012920950/posts/324631147192801
+536237c905941cca9ad76e9b8b603284:mastodon:
+  spec:
+    title: '#DevFestCloudBangkok2023. Introducing Data Lakehouse: Apache Iceberg — Slides! [mesodiar.com]'
+    url: https://mesodiar.com/devfestcloudbangkok2023-introducing-data-lakehouse-apache-iceberg-slides-f4bad96bba7d?source=rss----698ac1e5dc8c---4
+  state:
+    id: '111633910191906901'
+    url: https://mastodon.in.th/@webring/111633910191906901
+536237c905941cca9ad76e9b8b603284:shorturl:
+  spec:
+    url: https://mesodiar.com/devfestcloudbangkok2023-introducing-data-lakehouse-apache-iceberg-slides-f4bad96bba7d?source=rss----698ac1e5dc8c---4
+  state:
+    shortLink: https://webring.page.link/nh5Y
 550abfa4b80cdbbd4fc5218ada90f14d:facebook:
   spec:
     title: 'แก้ปัญหาเมื่อ Flash stock ROM มือถือ Xiaomi แล้วเจอปัญหา "remote: ''Check CRC failed''" [kusumotolab.com]'
