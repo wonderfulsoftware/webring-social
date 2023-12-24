@@ -9080,6 +9080,25 @@ b220dd9537e097e7bfe323aa295be7ef:shorturl:
     url: https://www.llun.me/posts/dev/2023-02-12-mastodon-timeline
   state:
     shortLink: https://webring.page.link/iL5t
+b26edc1fc31a0722b6170158e92ceb27:facebook:
+  spec:
+    title: Setting up Postgres locally, what could go wrong? [karnwong.me]
+    url: https://karnwong.me/posts/2023/12/setting-up-postgres-locally/
+  state:
+    id: '100746876247412_324707027185213'
+    url: https://www.facebook.com/100683012920950/posts/324707027185213
+b26edc1fc31a0722b6170158e92ceb27:mastodon:
+  spec:
+    title: Setting up Postgres locally, what could go wrong? [karnwong.me]
+    url: https://karnwong.me/posts/2023/12/setting-up-postgres-locally/
+  state:
+    id: '111634609132598664'
+    url: https://mastodon.in.th/@webring/111634609132598664
+b26edc1fc31a0722b6170158e92ceb27:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2023/12/setting-up-postgres-locally/
+  state:
+    shortLink: https://webring.page.link/QGn7
 b292aa949ae42c9620ef7b7a939c7426:facebook:
   spec:
     title: ลองใช้ GitLab REST API [debuggingsoft.com]
