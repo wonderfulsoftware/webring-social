@@ -10783,6 +10783,25 @@ d54ac0ea44f67cb41b090ad9a3b740cc:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day3-simple-hover
   state:
     shortLink: https://webring.page.link/RM54
+d57f62120959dd07e52a3d96b9df0b7a:facebook:
+  spec:
+    title: เริ่มต้นพัฒนาระบบด้วยภาษา Go ในปี 2023 [somkiat.cc]
+    url: https://www.somkiat.cc/start-with-go-2023/
+  state:
+    id: '100746876247412_325888490400400'
+    url: https://www.facebook.com/100683012920950/posts/325888490400400
+d57f62120959dd07e52a3d96b9df0b7a:mastodon:
+  spec:
+    title: เริ่มต้นพัฒนาระบบด้วยภาษา Go ในปี 2023 [somkiat.cc]
+    url: https://www.somkiat.cc/start-with-go-2023/
+  state:
+    id: '111644521931156586'
+    url: https://mastodon.in.th/@webring/111644521931156586
+d57f62120959dd07e52a3d96b9df0b7a:shorturl:
+  spec:
+    url: https://www.somkiat.cc/start-with-go-2023/
+  state:
+    shortLink: https://webring.page.link/7nmG
 d58f4ece6739487292947e77a14d2418:facebook:
   spec:
     title: คำสั่ง run docker command 1 บรรทัด เกี่ยวกับ Databases รวบรวมไว้ให้ที่นี่ [poolsawat.com]
