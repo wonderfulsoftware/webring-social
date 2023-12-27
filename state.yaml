@@ -150,6 +150,25 @@
     url: https://blog.oatto.dev/2023/01/01/happy-new-year-2023.html
   state:
     shortLink: https://webring.page.link/DfSf
+04afb8ce027d4c237f339ff2986fa7fb:facebook:
+  spec:
+    title: 'NET6 Error System.NotSupportedException: No data is available for encoding 874 … [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/12/net6-error-system-notsupportedexception-no-data-is-available-for-encoding-874/
+  state:
+    id: '100746876247412_326504183672164'
+    url: https://www.facebook.com/100683012920950/posts/326504183672164
+04afb8ce027d4c237f339ff2986fa7fb:mastodon:
+  spec:
+    title: 'NET6 Error System.NotSupportedException: No data is available for encoding 874 … [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2023/12/net6-error-system-notsupportedexception-no-data-is-available-for-encoding-874/
+  state:
+    id: '111650184823831352'
+    url: https://mastodon.in.th/@webring/111650184823831352
+04afb8ce027d4c237f339ff2986fa7fb:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/12/net6-error-system-notsupportedexception-no-data-is-available-for-encoding-874/
+  state:
+    shortLink: https://webring.page.link/efxx
 04f73bef92fc97d4c1e334d487563df9:facebook:
   spec:
     title: เมื่อเป็ดไปงาน FirebaseDevDay2023 [tech.duckfollow.co]
