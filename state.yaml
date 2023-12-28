@@ -3494,6 +3494,25 @@
     url: https://www.somkiat.cc/note-prompt-injection/
   state:
     shortLink: https://webring.page.link/rj8b
+485ad82277b3b122d18e2710f1b3b320:facebook:
+  spec:
+    title: รีวิว The Cloud Camp รุ่นที่ 1 ของ JumpBox [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/review-the-cloud-camp-1-by-jumpbox/
+  state:
+    id: '100746876247412_327135443609038'
+    url: https://www.facebook.com/100683012920950/posts/327135443609038
+485ad82277b3b122d18e2710f1b3b320:mastodon:
+  spec:
+    title: รีวิว The Cloud Camp รุ่นที่ 1 ของ JumpBox [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/review-the-cloud-camp-1-by-jumpbox/
+  state:
+    id: '111655846851153727'
+    url: https://mastodon.in.th/@webring/111655846851153727
+485ad82277b3b122d18e2710f1b3b320:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/12/review-the-cloud-camp-1-by-jumpbox/
+  state:
+    shortLink: https://webring.page.link/oAxb
 48c868a890766b59f38728d1b46e0def:facebook:
   spec:
     title: The Cloud Camp Week#05 (docker compose) [debuggingsoft.com]
