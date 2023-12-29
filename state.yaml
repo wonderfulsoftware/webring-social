@@ -302,6 +302,25 @@
     url: https://www.mikkipastel.com/create-new-pwa-project-by-glitch/
   state:
     shortLink: https://webring.page.link/zQb1
+087bd8d9107899963621b8cc5e38ebc1:facebook:
+  spec:
+    title: บทนำสู่ปัญหาการค้นหาบนพิสัย [neizod.dev]
+    url: https://neizod.dev/2023/12/08/introduction-range-searching.html
+  state:
+    id: '100746876247412_327784343544148'
+    url: https://www.facebook.com/100683012920950/posts/327784343544148
+087bd8d9107899963621b8cc5e38ebc1:mastodon:
+  spec:
+    title: บทนำสู่ปัญหาการค้นหาบนพิสัย [neizod.dev]
+    url: https://neizod.dev/2023/12/08/introduction-range-searching.html
+  state:
+    id: '111661510652514746'
+    url: https://mastodon.in.th/@webring/111661510652514746
+087bd8d9107899963621b8cc5e38ebc1:shorturl:
+  spec:
+    url: https://neizod.dev/2023/12/08/introduction-range-searching.html
+  state:
+    shortLink: https://webring.page.link/ywp2
 08bde39c0e7e24b15a09b686006c2193:facebook:
   spec:
     title: 1-Year Anniversary Gift สำหรับคนที่ Subscribe ช่อง Twitch ครบปี [lucian.solutions]
