@@ -7199,6 +7199,25 @@
     url: https://notes.dt.in.th/IpfsBlankFileUrl
   state:
     shortLink: https://webring.page.link/TXYo
+8aa95ece21691bd86118d3422acf6a61:facebook:
+  spec:
+    title: ตอบคำถามเรื่อง การใช้งาน ORM (Object-Relational Mapping) [somkiat.cc]
+    url: https://www.somkiat.cc/database-sql-or-orm/
+  state:
+    id: '100746876247412_327930343529548'
+    url: https://www.facebook.com/100683012920950/posts/327930343529548
+8aa95ece21691bd86118d3422acf6a61:mastodon:
+  spec:
+    title: ตอบคำถามเรื่อง การใช้งาน ORM (Object-Relational Mapping) [somkiat.cc]
+    url: https://www.somkiat.cc/database-sql-or-orm/
+  state:
+    id: '111662922226832305'
+    url: https://mastodon.in.th/@webring/111662922226832305
+8aa95ece21691bd86118d3422acf6a61:shorturl:
+  spec:
+    url: https://www.somkiat.cc/database-sql-or-orm/
+  state:
+    shortLink: https://webring.page.link/YHo1
 8b0b4d57c6becd229669be95a30ae031:facebook:
   spec:
     title: 'micro-dollar: a way to deals with decimal numbers or monetary values [heyfirst.co]'
