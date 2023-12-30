@@ -112,6 +112,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/vue-multiselect-typeerror-cannot-read-properties-of-undefined-reading-_cvue3/
   state:
     shortLink: https://webring.page.link/qMY5
+045913b2cacefc0ec8ea4a3ea742e0f8:facebook:
+  spec:
+    title: ยืดอายุแบต MacBook ด้วย AlDente [nuttdam.com]
+    url: https://www.nuttdam.com/2023/12/improve-macbook-battery-life-with-aldente/
+  state:
+    id: '100746876247412_328402143482368'
+    url: https://www.facebook.com/100683012920950/posts/328402143482368
+045913b2cacefc0ec8ea4a3ea742e0f8:mastodon:
+  spec:
+    title: ยืดอายุแบต MacBook ด้วย AlDente [nuttdam.com]
+    url: https://www.nuttdam.com/2023/12/improve-macbook-battery-life-with-aldente/
+  state:
+    id: '111667170471941749'
+    url: https://mastodon.in.th/@webring/111667170471941749
+045913b2cacefc0ec8ea4a3ea742e0f8:shorturl:
+  spec:
+    url: https://www.nuttdam.com/2023/12/improve-macbook-battery-life-with-aldente/
+  state:
+    shortLink: https://webring.page.link/fkFh
 049b55ed62933d057af490c406ed59de:facebook:
   spec:
     title: วิธีฟังดนตรีคลาสสิก ฉบับมือใหม่ [thammarith.dev]
