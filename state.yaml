@@ -6230,6 +6230,25 @@
     url: https://www.poolsawat.com/parcel-tracking/
   state:
     shortLink: https://webring.page.link/oct8
+76f334db55cf7737276829f281bbcd17:facebook:
+  spec:
+    title: ลองใช้ Talos สร้าง K8S Cluster [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89-talos-%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87-k8s-cluster/
+  state:
+    id: '100746876247412_328473876808528'
+    url: https://www.facebook.com/100683012920950/posts/328473876808528
+76f334db55cf7737276829f281bbcd17:mastodon:
+  spec:
+    title: ลองใช้ Talos สร้าง K8S Cluster [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89-talos-%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87-k8s-cluster/
+  state:
+    id: '111667884238791320'
+    url: https://mastodon.in.th/@webring/111667884238791320
+76f334db55cf7737276829f281bbcd17:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/12/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89-talos-%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87-k8s-cluster/
+  state:
+    shortLink: https://webring.page.link/CDTk
 775b3a0aeebfb7e382283f3feb99469a:facebook:
   spec:
     title: API Architecture Styles [tech.duckfollow.co]
