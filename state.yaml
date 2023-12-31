@@ -11524,6 +11524,25 @@ e26b1ce7725ecedcb308343064e4b7ae:shorturl:
     url: https://neizod.dev/2023/03/14/wavefront-simulation-and-neighbors-in-euclid-orchard.html
   state:
     shortLink: https://webring.page.link/bn1F
+e2944e3a3f88bdf68e8002dfa0390708:facebook:
+  spec:
+    title: สรุปเกี่ยวกับแนวทางของการสร้าง Unique Id [somkiat.cc]
+    url: https://www.somkiat.cc/solution-to-generate-unique-id/
+  state:
+    id: '100746876247412_328963366759579'
+    url: https://www.facebook.com/100683012920950/posts/328963366759579
+e2944e3a3f88bdf68e8002dfa0390708:mastodon:
+  spec:
+    title: สรุปเกี่ยวกับแนวทางของการสร้าง Unique Id [somkiat.cc]
+    url: https://www.somkiat.cc/solution-to-generate-unique-id/
+  state:
+    id: '111672833319243710'
+    url: https://mastodon.in.th/@webring/111672833319243710
+e2944e3a3f88bdf68e8002dfa0390708:shorturl:
+  spec:
+    url: https://www.somkiat.cc/solution-to-generate-unique-id/
+  state:
+    shortLink: https://webring.page.link/bjeN
 e29c6f2358bde3729584684d4e296a57:facebook:
   spec:
     title: Art Trade - Papang_uvu [lucian.solutions]
