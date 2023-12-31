@@ -8263,6 +8263,25 @@
     url: https://p4perf4ce.me/articles/23/new-home
   state:
     shortLink: https://webring.page.link/2NHj
+9e4425bac279525a213a3a3f302dbc67:facebook:
+  spec:
+    title: Should data scientists deploy models to production? [karnwong.me]
+    url: https://karnwong.me/posts/2023/12/should-data-scientists-deploy-models-to-production/
+  state:
+    id: '100746876247412_329030263419556'
+    url: https://www.facebook.com/100683012920950/posts/329030263419556
+9e4425bac279525a213a3a3f302dbc67:mastodon:
+  spec:
+    title: Should data scientists deploy models to production? [karnwong.me]
+    url: https://karnwong.me/posts/2023/12/should-data-scientists-deploy-models-to-production/
+  state:
+    id: '111673546782115180'
+    url: https://mastodon.in.th/@webring/111673546782115180
+9e4425bac279525a213a3a3f302dbc67:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2023/12/should-data-scientists-deploy-models-to-production/
+  state:
+    shortLink: https://webring.page.link/Hzc2
 9e5a1a3c5164f77e740a5156074bb49d:facebook:
   spec:
     title: Persistent store for Cross-platform React applications with Recoil and Capacitor Preferences [ntsd.dev]
