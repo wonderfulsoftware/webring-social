@@ -9757,6 +9757,25 @@ c06480cfcd8692f5cc8bc4ed79782aa8:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/05/note-vmware-esxi-on-windows/
   state:
     shortLink: https://webring.page.link/rfPF
+c1084fc3c584a1f15dc8d8441f55c870:facebook:
+  spec:
+    title: 2023 การเปลี่ยนแปลง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/2023-year-in-review/
+  state:
+    id: '100746876247412_329180493404533'
+    url: https://www.facebook.com/100683012920950/posts/329180493404533
+c1084fc3c584a1f15dc8d8441f55c870:mastodon:
+  spec:
+    title: 2023 การเปลี่ยนแปลง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2023/12/2023-year-in-review/
+  state:
+    id: '111674979606432758'
+    url: https://mastodon.in.th/@webring/111674979606432758
+c1084fc3c584a1f15dc8d8441f55c870:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2023/12/2023-year-in-review/
+  state:
+    shortLink: https://webring.page.link/M6fW
 c11ccd22ab6cae47592c226711b462d6:facebook:
   spec:
     title: Unknow Path? เจอแบบนี้โดน hack แน่ๆ [tech.duckfollow.co]
