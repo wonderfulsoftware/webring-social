@@ -11296,6 +11296,25 @@ dafd0c656c643a4ac13439e9cdc50ced:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/08/cr%e0%b8%a5%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%ad%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%8b%e0%b8%b8%e0%b8%a2-linn-%e0%b9%80%e0%b8%88%e0%b8%a3%e0%b8%b4%e0%b8%8d%e0%b8%a3%e0%b8%b1%e0%b8%96-%e0%b8%a5/
   state:
     shortLink: https://webring.page.link/Q6Wz
+db73f928da036e2b544b713db8680085:facebook:
+  spec:
+    title: Build IMSI catcher with single computer and hackrf One [annibuliful-lab.dev]
+    url: https://annibuliful-lab.dev/story/imsi-catcher
+  state:
+    id: '100746876247412_329879483334634'
+    url: https://www.facebook.com/100683012920950/posts/329879483334634
+db73f928da036e2b544b713db8680085:mastodon:
+  spec:
+    title: Build IMSI catcher with single computer and hackrf One [annibuliful-lab.dev]
+    url: https://annibuliful-lab.dev/story/imsi-catcher
+  state:
+    id: '111680645629858878'
+    url: https://mastodon.in.th/@webring/111680645629858878
+db73f928da036e2b544b713db8680085:shorturl:
+  spec:
+    url: https://annibuliful-lab.dev/story/imsi-catcher
+  state:
+    shortLink: https://webring.page.link/LoVP
 dbfdd18387cc7595596a1d631761d697:facebook:
   spec:
     title: Postman สนับสนุน MQTT แล้ว (open beta) [somkiat.cc]
