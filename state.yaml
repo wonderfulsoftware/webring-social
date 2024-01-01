@@ -9643,6 +9643,25 @@ be3212ad8848257559abae0cb255e58f:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week14-recap-qa/
   state:
     shortLink: https://webring.page.link/6yNH
+be3afbe7918165c2ade79139ed1a358f:facebook:
+  spec:
+    title: 2023 [llun.me]
+    url: https://www.llun.me/posts/2023-12-31-2023
+  state:
+    id: '100746876247412_329725763350006'
+    url: https://www.facebook.com/100683012920950/posts/329725763350006
+be3afbe7918165c2ade79139ed1a358f:mastodon:
+  spec:
+    title: 2023 [llun.me]
+    url: https://www.llun.me/posts/2023-12-31-2023
+  state:
+    id: '111679217735360277'
+    url: https://mastodon.in.th/@webring/111679217735360277
+be3afbe7918165c2ade79139ed1a358f:shorturl:
+  spec:
+    url: https://www.llun.me/posts/2023-12-31-2023
+  state:
+    shortLink: https://webring.page.link/ct6K
 be58e3aec3a9a98c2dea8cf7235004f8:facebook:
   spec:
     title: The Cloud Camp Week#12 (Observability#1) [debuggingsoft.com]
