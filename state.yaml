@@ -3019,6 +3019,25 @@
     url: https://kusumotolab.com/how-to-investigate-hidden-cost-by-cost-explorer/
   state:
     shortLink: https://webring.page.link/32eF
+3c3336bdab099c02f9acb340a2282165:facebook:
+  spec:
+    title: สวัสดี Deno KV [somkiat.cc]
+    url: https://www.somkiat.cc/hello-deno-kv/
+  state:
+    id: '100746876247412_329967256659190'
+    url: https://www.facebook.com/100683012920950/posts/329967256659190
+3c3336bdab099c02f9acb340a2282165:mastodon:
+  spec:
+    title: สวัสดี Deno KV [somkiat.cc]
+    url: https://www.somkiat.cc/hello-deno-kv/
+  state:
+    id: '111681324250094990'
+    url: https://mastodon.in.th/@webring/111681324250094990
+3c3336bdab099c02f9acb340a2282165:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-deno-kv/
+  state:
+    shortLink: https://webring.page.link/dVeq
 3ca712d57af0869fde01f356de02f3f1:facebook:
   spec:
     title: แนวคิดการสร้างระบบ Ranking ของ Reddit [somkiat.cc]
