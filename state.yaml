@@ -8225,6 +8225,25 @@
     url: https://kajame.xyz/blog/%E0%B8%81%E0%B8%B2%E0%B8%A3%20Custom%20font%20%E0%B9%83%E0%B8%99%20React%20Native
   state:
     shortLink: https://webring.page.link/X2EK
+9ce7fcd9cc94e5d55a2e68644dcc77b9:facebook:
+  spec:
+    title: Reflecting on 2023 [poom.dev]
+    url: https://poom.dev/reflecting-on-2023/
+  state:
+    id: '100746876247412_329634996692416'
+    url: https://www.facebook.com/100683012920950/posts/329634996692416
+9ce7fcd9cc94e5d55a2e68644dcc77b9:mastodon:
+  spec:
+    title: Reflecting on 2023 [poom.dev]
+    url: https://poom.dev/reflecting-on-2023/
+  state:
+    id: '111678499289231164'
+    url: https://mastodon.in.th/@webring/111678499289231164
+9ce7fcd9cc94e5d55a2e68644dcc77b9:shorturl:
+  spec:
+    url: https://poom.dev/reflecting-on-2023/
+  state:
+    shortLink: https://webring.page.link/TfdT
 9cf16e935406f6b3f6a030cee3c7bdfb:facebook:
   spec:
     title: Resistor Color Code Utility [tech.duckfollow.co]
