@@ -93,6 +93,25 @@
     url: https://www.mikkipastel.com/notion-meetup-thailand-2023-first-love-with-notion/
   state:
     shortLink: https://webring.page.link/izwK
+0322f81363b1ff49094e5e5a94627af4:facebook:
+  spec:
+    title: Twitch 2023 Event - Free Bustup [lucian.solutions]
+    url: https://lucian.solutions/blog/2023-free-bustup
+  state:
+    id: '100746876247412_330241933298389'
+    url: https://www.facebook.com/100683012920950/posts/330241933298389
+0322f81363b1ff49094e5e5a94627af4:mastodon:
+  spec:
+    title: Twitch 2023 Event - Free Bustup [lucian.solutions]
+    url: https://lucian.solutions/blog/2023-free-bustup
+  state:
+    id: '111684157844162045'
+    url: https://mastodon.in.th/@webring/111684157844162045
+0322f81363b1ff49094e5e5a94627af4:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/2023-free-bustup
+  state:
+    shortLink: https://webring.page.link/VxxC
 032d7ad7ea1d8dac652641e39b8c321c:facebook:
   spec:
     title: '[Vue3] vue-multiselect TypeError: Cannot read properties of undefined (reading ‘_c’) [debuggingsoft.com]'
