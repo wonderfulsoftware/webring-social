@@ -7256,6 +7256,25 @@
     url: https://blog.kpping.me/posts/tp-link-mr-600/
   state:
     shortLink: https://webring.page.link/8etY
+8a3d23cc1efb53b20357d09f26848bdd:facebook:
+  spec:
+    title: ว่าด้วยเรื่องของ Product Developer [somkiat.cc]
+    url: https://www.somkiat.cc/product-developer/
+  state:
+    id: '100746876247412_330811093241473'
+    url: https://www.facebook.com/100683012920950/posts/330811093241473
+8a3d23cc1efb53b20357d09f26848bdd:mastodon:
+  spec:
+    title: ว่าด้วยเรื่องของ Product Developer [somkiat.cc]
+    url: https://www.somkiat.cc/product-developer/
+  state:
+    id: '111689821011958352'
+    url: https://mastodon.in.th/@webring/111689821011958352
+8a3d23cc1efb53b20357d09f26848bdd:shorturl:
+  spec:
+    url: https://www.somkiat.cc/product-developer/
+  state:
+    shortLink: https://webring.page.link/jUvs
 8a4c7719f577f1af3b188aa8c289cba8:facebook:
   spec:
     title: A URL to a blank file on IPFS [dt.in.th]
