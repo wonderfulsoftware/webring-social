@@ -1271,6 +1271,25 @@
     url: https://lucian.solutions/blog/thanks-for-playing-dpc2023
   state:
     shortLink: https://webring.page.link/HRQb
+1a7c54285c4ad803faf120658dbcdee0:facebook:
+  spec:
+    title: Astro และ Static site generator [mikelopster.dev]
+    url: https://mikelopster.dev/posts/astro-basic/
+  state:
+    id: '100746876247412_330939289895320'
+    url: https://www.facebook.com/100683012920950/posts/330939289895320
+1a7c54285c4ad803faf120658dbcdee0:mastodon:
+  spec:
+    title: Astro และ Static site generator [mikelopster.dev]
+    url: https://mikelopster.dev/posts/astro-basic/
+  state:
+    id: '111691238401134446'
+    url: https://mastodon.in.th/@webring/111691238401134446
+1a7c54285c4ad803faf120658dbcdee0:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/astro-basic/
+  state:
+    shortLink: https://webring.page.link/ZtaJ
 1aec5ab451de9f463f3d12f5ce9fc64d:facebook:
   spec:
     title: สร้างการแจ้งเตือนด้วย Node เข้า LINE ผ่าน LINE Notify [janescience.com]
