@@ -8111,6 +8111,25 @@
     url: https://www.llun.me/posts/dev/2023-01-07-my-wrong-assumptions-with-activity-pub
   state:
     shortLink: https://webring.page.link/fudd
+994f07342b7368571b5444ed713fa306:facebook:
+  spec:
+    title: Generating TypeScript types for Rust enums [poom.dev]
+    url: https://poom.dev/generating-typescript-types-for-rust-enums/
+  state:
+    id: '100746876247412_331557323166850'
+    url: https://www.facebook.com/100683012920950/posts/331557323166850
+994f07342b7368571b5444ed713fa306:mastodon:
+  spec:
+    title: Generating TypeScript types for Rust enums [poom.dev]
+    url: https://poom.dev/generating-typescript-types-for-rust-enums/
+  state:
+    id: '111696896390526212'
+    url: https://mastodon.in.th/@webring/111696896390526212
+994f07342b7368571b5444ed713fa306:shorturl:
+  spec:
+    url: https://poom.dev/generating-typescript-types-for-rust-enums/
+  state:
+    shortLink: https://webring.page.link/yPn9
 99594e4ed27b6077502ea8bac3cb4640:facebook:
   spec:
     title: ว่าด้วยเรื่องของ Distroless image [somkiat.cc]
