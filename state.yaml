@@ -6401,6 +6401,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/jenkins-jenkins-not-able-to-fetch-code-from-remote-git/
   state:
     shortLink: https://webring.page.link/UCGv
+78ffd6d8f1eb5f9983a3f715c7dfe939:facebook:
+  spec:
+    title: Make lint-staged + eslint work in monorepo [nitpum.com]
+    url: https://nitpum.com/post/lint-staged-eslint-monorepo/
+  state:
+    id: '100746876247412_331488933173689'
+    url: https://www.facebook.com/100683012920950/posts/331488933173689
+78ffd6d8f1eb5f9983a3f715c7dfe939:mastodon:
+  spec:
+    title: Make lint-staged + eslint work in monorepo [nitpum.com]
+    url: https://nitpum.com/post/lint-staged-eslint-monorepo/
+  state:
+    id: '111696200189917100'
+    url: https://mastodon.in.th/@webring/111696200189917100
+78ffd6d8f1eb5f9983a3f715c7dfe939:shorturl:
+  spec:
+    url: https://nitpum.com/post/lint-staged-eslint-monorepo/
+  state:
+    shortLink: https://webring.page.link/oG7Z
 7949544f3efc0ccc9026ec651b6967cd:facebook:
   spec:
     title: Disappearing combining marks in Discord (ปัญหาสระกับวรรณยุกต์หาย) [dt.in.th]
