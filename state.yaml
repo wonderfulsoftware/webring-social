@@ -4938,6 +4938,25 @@
     url: https://jitrak.dev/posts/post-21-npm-package-for-write-jest-easy/
   state:
     shortLink: https://webring.page.link/faL6
+6219224eba96c8ff1d2ad4829c247bd5:facebook:
+  spec:
+    title: มาแปลง Console App ให้เป็น .NET Tools (NuGet) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/01/convert-console-app-to-nuget-net-tools/
+  state:
+    id: '100746876247412_331413179847931'
+    url: https://www.facebook.com/100683012920950/posts/331413179847931
+6219224eba96c8ff1d2ad4829c247bd5:mastodon:
+  spec:
+    title: มาแปลง Console App ให้เป็น .NET Tools (NuGet) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/01/convert-console-app-to-nuget-net-tools/
+  state:
+    id: '111695484038517041'
+    url: https://mastodon.in.th/@webring/111695484038517041
+6219224eba96c8ff1d2ad4829c247bd5:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/01/convert-console-app-to-nuget-net-tools/
+  state:
+    shortLink: https://webring.page.link/5x93
 6246e695e01f50a8bb3312b54045c8af:facebook:
   spec:
     title: สร้าง Web Application ด้วย Vite + React และ TypeScript [toupawa.com]
