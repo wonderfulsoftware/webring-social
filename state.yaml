@@ -7921,6 +7921,25 @@
     url: https://thanapon.info/aws-eks-cluster-autoscaler/
   state:
     shortLink: https://webring.page.link/p9CB
+948cd5c9fc16d97290f45a0659565a2f:facebook:
+  spec:
+    title: 2023 [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/2023-year-review/
+  state:
+    id: '100746876247412_332636713058911'
+    url: https://www.facebook.com/100683012920950/posts/332636713058911
+948cd5c9fc16d97290f45a0659565a2f:mastodon:
+  spec:
+    title: 2023 [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/2023-year-review/
+  state:
+    id: '111706806658773433'
+    url: https://mastodon.in.th/@webring/111706806658773433
+948cd5c9fc16d97290f45a0659565a2f:shorturl:
+  spec:
+    url: https://yuttakhanb.dev/posts/2023-year-review/
+  state:
+    shortLink: https://webring.page.link/WrdY
 94a270ac8c07fae1199dffa42c069ddd:facebook:
   spec:
     title: Install Samsung notes on Windows 10/11 [debuggingsoft.com]
