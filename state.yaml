@@ -10422,6 +10422,25 @@ c99b1e9def970c889ddda3b38c595c56:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/03/sonarqube-fixed-exception-in-thread-report-about-progress-of-java-xml-analyzer-java-lang-outofmemoryerror-java-heap-space/
   state:
     shortLink: https://webring.page.link/12D1
+c9a33d2c2f08a6b910d580b60e70cc3c:facebook:
+  spec:
+    title: '[commitlint] SyntaxError: Invalid or unexpected token on Windows [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/01/commitlint-syntaxerror-invalid-or-unexpected-token-on-windows/
+  state:
+    id: '100746876247412_333237372998845'
+    url: https://www.facebook.com/100683012920950/posts/333237372998845
+c9a33d2c2f08a6b910d580b60e70cc3c:mastodon:
+  spec:
+    title: '[commitlint] SyntaxError: Invalid or unexpected token on Windows [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/01/commitlint-syntaxerror-invalid-or-unexpected-token-on-windows/
+  state:
+    id: '111712469004247101'
+    url: https://mastodon.in.th/@webring/111712469004247101
+c9a33d2c2f08a6b910d580b60e70cc3c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/01/commitlint-syntaxerror-invalid-or-unexpected-token-on-windows/
+  state:
+    shortLink: https://webring.page.link/Y6Sc
 c9c25b647853b0f69a16ce356ff174eb:facebook:
   spec:
     title: 'มาฟังงาน Level Up with GitHub Codespaces and Copilot: Thailand [debuggingsoft.com]'
