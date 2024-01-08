@@ -511,6 +511,25 @@
     url: https://garden.narze.live/how-to-hide-qwerty-layout-from-macos/
   state:
     shortLink: https://webring.page.link/Nqnn
+0bd953547f101a647271033d87d5e0f4:facebook:
+  spec:
+    title: Campervan to Slovenia 2024 🇳🇱🇩🇪🇦🇹🇸🇮 [llun.me]
+    url: https://www.llun.me/posts/2024-01-07-campervan-slovenia
+  state:
+    id: '100746876247412_333948009594448'
+    url: https://www.facebook.com/100683012920950/posts/333948009594448
+0bd953547f101a647271033d87d5e0f4:mastodon:
+  spec:
+    title: Campervan to Slovenia 2024 🇳🇱🇩🇪🇦🇹🇸🇮 [llun.me]
+    url: https://www.llun.me/posts/2024-01-07-campervan-slovenia
+  state:
+    id: '111718851743881873'
+    url: https://mastodon.in.th/@webring/111718851743881873
+0bd953547f101a647271033d87d5e0f4:shorturl:
+  spec:
+    url: https://www.llun.me/posts/2024-01-07-campervan-slovenia
+  state:
+    shortLink: https://webring.page.link/RR1K
 0c0656e4b47f6ff1a13511b3f3a1e346:facebook:
   spec:
     title: '[CR] Starbucks-Milk Pudding [debuggingsoft.com]'
