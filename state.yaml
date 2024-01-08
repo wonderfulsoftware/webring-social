@@ -644,6 +644,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/07/install-openssh-server-on-windows-11-10/
   state:
     shortLink: https://webring.page.link/Hrph
+0f805c1f0f69a66b260d489b0d0eec5e:facebook:
+  spec:
+    title: changesets warn received 404 for npm info on pre-release [nitpum.com]
+    url: https://nitpum.com/post/changesets-npm-info-prerelease/
+  state:
+    id: '100746876247412_333875532935029'
+    url: https://www.facebook.com/100683012920950/posts/333875532935029
+0f805c1f0f69a66b260d489b0d0eec5e:mastodon:
+  spec:
+    title: changesets warn received 404 for npm info on pre-release [nitpum.com]
+    url: https://nitpum.com/post/changesets-npm-info-prerelease/
+  state:
+    id: '111718132779227217'
+    url: https://mastodon.in.th/@webring/111718132779227217
+0f805c1f0f69a66b260d489b0d0eec5e:shorturl:
+  spec:
+    url: https://nitpum.com/post/changesets-npm-info-prerelease/
+  state:
+    shortLink: https://webring.page.link/A9a8
 0fa6b1fd40cb2b4d1aba735ac3f84fad:facebook:
   spec:
     title: Zero-Shot Prompting การทำให้ LLMs (ChatGPT) ตอบเราได้คำตอบสั้น ๆ ชัด ๆ และ ตรงประเด็น [taoisaman.com]
