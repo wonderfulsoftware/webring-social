@@ -8453,6 +8453,25 @@
     url: https://tech.duckfollow.co/view/resistor-color-code-utility
   state:
     shortLink: https://webring.page.link/CHwf
+9d00331117b4e261889afaf5bacd0f47:facebook:
+  spec:
+    title: มารู้จักการเขียน code แบบ clean code กัน (ฉบับ Javascript) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/clean-code-js/
+  state:
+    id: '100746876247412_334478372874745'
+    url: https://www.facebook.com/100683012920950/posts/334478372874745
+9d00331117b4e261889afaf5bacd0f47:mastodon:
+  spec:
+    title: มารู้จักการเขียน code แบบ clean code กัน (ฉบับ Javascript) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/clean-code-js/
+  state:
+    id: '111723795780766814'
+    url: https://mastodon.in.th/@webring/111723795780766814
+9d00331117b4e261889afaf5bacd0f47:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/clean-code-js/
+  state:
+    shortLink: https://webring.page.link/vCPn
 9dd372d9894958f226807a0c2c999118:facebook:
   spec:
     title: New Blog | บ้านใหม่ [p4perf4ce.me]
