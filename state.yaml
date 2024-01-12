@@ -11239,6 +11239,25 @@ d54ac0ea44f67cb41b090ad9a3b740cc:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day3-simple-hover
   state:
     shortLink: https://webring.page.link/RM54
+d569f6a81216a64cd1bb9a79bd0fa4c4:facebook:
+  spec:
+    title: ลองเล่น Supabase กับ Next.js กัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/supabase-next/
+  state:
+    id: '100746876247412_336373109351938'
+    url: https://www.facebook.com/100683012920950/posts/336373109351938
+d569f6a81216a64cd1bb9a79bd0fa4c4:mastodon:
+  spec:
+    title: ลองเล่น Supabase กับ Next.js กัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/supabase-next/
+  state:
+    id: '111741501033962231'
+    url: https://mastodon.in.th/@webring/111741501033962231
+d569f6a81216a64cd1bb9a79bd0fa4c4:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/supabase-next/
+  state:
+    shortLink: https://webring.page.link/TnQz
 d57f62120959dd07e52a3d96b9df0b7a:facebook:
   spec:
     title: เริ่มต้นพัฒนาระบบด้วยภาษา Go ในปี 2023 [somkiat.cc]
