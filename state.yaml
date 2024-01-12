@@ -10422,6 +10422,25 @@ c732d1ae59ae80f0612fc628f16adf0c:shorturl:
     url: https://www.boonsong.dev/strangler-fig-application-1
   state:
     shortLink: https://webring.page.link/vtsN
+c735dcd66b48bc76ae3c913e013e276e:facebook:
+  spec:
+    title: How to Redo Text on notepad [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/01/how-to-redo-text-on-notepad/
+  state:
+    id: '100746876247412_336453852677197'
+    url: https://www.facebook.com/100683012920950/posts/336453852677197
+c735dcd66b48bc76ae3c913e013e276e:mastodon:
+  spec:
+    title: How to Redo Text on notepad [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/01/how-to-redo-text-on-notepad/
+  state:
+    id: '111742196193845246'
+    url: https://mastodon.in.th/@webring/111742196193845246
+c735dcd66b48bc76ae3c913e013e276e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/01/how-to-redo-text-on-notepad/
+  state:
+    shortLink: https://webring.page.link/46Nt
 c860c0569cde5bd92e5079e8c396ff8e:facebook:
   spec:
     title: Simplicity fallacy of "Just use X (for everything)" [chrisza.me]
