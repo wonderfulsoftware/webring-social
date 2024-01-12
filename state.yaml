@@ -245,6 +245,25 @@
     url: https://www.somkiat.cc/go-1-21-all-you-need-to-know/
   state:
     shortLink: https://webring.page.link/yT5e
+068bd70654a4a8cf74cbce5e41aaff15:facebook:
+  spec:
+    title: Recap 2023 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2024/01/01/recap-2023.html
+  state:
+    id: '100746876247412_336296162692966'
+    url: https://www.facebook.com/100683012920950/posts/336296162692966
+068bd70654a4a8cf74cbce5e41aaff15:mastodon:
+  spec:
+    title: Recap 2023 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2024/01/01/recap-2023.html
+  state:
+    id: '111740782288146731'
+    url: https://mastodon.in.th/@webring/111740782288146731
+068bd70654a4a8cf74cbce5e41aaff15:shorturl:
+  spec:
+    url: https://blog.oatto.dev/2024/01/01/recap-2023.html
+  state:
+    shortLink: https://webring.page.link/G6uK
 06a756c7005f75135bcc853d14a732af:facebook:
   spec:
     title: รู้จักคนด้วยหลักการ DISC [mikkipastel.com]
