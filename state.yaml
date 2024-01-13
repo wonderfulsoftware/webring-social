@@ -10593,6 +10593,25 @@ c9c25b647853b0f69a16ce356ff174eb:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/06/level-up-with-github-codespaces-and-copilot-thailand/
   state:
     shortLink: https://webring.page.link/ke3s
+ca36726214f549883d5b641d97065a1a:facebook:
+  spec:
+    title: 'Pattern: Strangler Fig Application #1 [boonsong.dev]'
+    url: https://www.boonsong.dev/sso-authentication-with-sidecar-ontainers
+  state:
+    id: '100746876247412_336931759296073'
+    url: https://www.facebook.com/100683012920950/posts/336931759296073
+ca36726214f549883d5b641d97065a1a:mastodon:
+  spec:
+    title: 'Pattern: Strangler Fig Application #1 [boonsong.dev]'
+    url: https://www.boonsong.dev/sso-authentication-with-sidecar-ontainers
+  state:
+    id: '111746443118124787'
+    url: https://mastodon.in.th/@webring/111746443118124787
+ca36726214f549883d5b641d97065a1a:shorturl:
+  spec:
+    url: https://www.boonsong.dev/sso-authentication-with-sidecar-ontainers
+  state:
+    shortLink: https://webring.page.link/dNFt
 ca7481ec9c7c70e4edc5d7c73d473a8e:facebook:
   spec:
     title: ลองมาเรียน The Cloud Camp รอบ Audition [debuggingsoft.com]
