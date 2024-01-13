@@ -3570,6 +3570,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/09/deep-fried-pork-here-wong-bts-wongwian-yai/
   state:
     shortLink: https://webring.page.link/wjBS
+4693a24543222e705925af10dc966aa5:facebook:
+  spec:
+    title: เพิ่งรู้ว่า Bun ก็ run Playwright ได้ด้วย [somkiat.cc]
+    url: https://www.somkiat.cc/bun-run-playwright/
+  state:
+    id: '100746876247412_337006955955220'
+    url: https://www.facebook.com/100683012920950/posts/337006955955220
+4693a24543222e705925af10dc966aa5:mastodon:
+  spec:
+    title: เพิ่งรู้ว่า Bun ก็ run Playwright ได้ด้วย [somkiat.cc]
+    url: https://www.somkiat.cc/bun-run-playwright/
+  state:
+    id: '111747157664412524'
+    url: https://mastodon.in.th/@webring/111747157664412524
+4693a24543222e705925af10dc966aa5:shorturl:
+  spec:
+    url: https://www.somkiat.cc/bun-run-playwright/
+  state:
+    shortLink: https://webring.page.link/tbPR
 46c7cb10169fd3f3b7874273d54012d5:facebook:
   spec:
     title: 81 - garden-astro - Update front page [garden.narze.live]
