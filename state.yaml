@@ -9738,6 +9738,25 @@ b8b3e22bc05f0ee8b6fc3cebad82d187:shorturl:
     url: https://www.karnwong.me/posts/2023/04/book-highlights---managing-transitions-making-the-most-of-change-by-william-bridges/
   state:
     shortLink: https://webring.page.link/SjVn
+b9773704cf492b71b67789e4cad319e6:facebook:
+  spec:
+    title: สรุปการอ่านเรื่อง 12 Software Architecture Pitfalls and How to Avoid Them [somkiat.cc]
+    url: https://www.somkiat.cc/note-12-software-architecture-pitfalls/
+  state:
+    id: '100746876247412_337575132565069'
+    url: https://www.facebook.com/100683012920950/posts/337575132565069
+b9773704cf492b71b67789e4cad319e6:mastodon:
+  spec:
+    title: สรุปการอ่านเรื่อง 12 Software Architecture Pitfalls and How to Avoid Them [somkiat.cc]
+    url: https://www.somkiat.cc/note-12-software-architecture-pitfalls/
+  state:
+    id: '111752106442895090'
+    url: https://mastodon.in.th/@webring/111752106442895090
+b9773704cf492b71b67789e4cad319e6:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-12-software-architecture-pitfalls/
+  state:
+    shortLink: https://webring.page.link/B8Qq
 b9d19f43cf76cd1b1e3cf24dd3f46818:facebook:
   spec:
     title: Port number randomizer [dt.in.th]
