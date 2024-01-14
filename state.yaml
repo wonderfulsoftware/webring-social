@@ -6667,6 +6667,25 @@
     url: https://www.somkiat.cc/sharing-on-api-first-development/
   state:
     shortLink: https://webring.page.link/Ejp6
+7c4f0b36187f8488979a564652551956:facebook:
+  spec:
+    title: ย้าย CMS ไป WordPress แล้วจ้า [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/move-cms-to-wordpress/
+  state:
+    id: '100746876247412_337651332557449'
+    url: https://www.facebook.com/100683012920950/posts/337651332557449
+7c4f0b36187f8488979a564652551956:mastodon:
+  spec:
+    title: ย้าย CMS ไป WordPress แล้วจ้า [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/move-cms-to-wordpress/
+  state:
+    id: '111752821801424773'
+    url: https://mastodon.in.th/@webring/111752821801424773
+7c4f0b36187f8488979a564652551956:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/move-cms-to-wordpress/
+  state:
+    shortLink: https://webring.page.link/2uKj
 7c626428278beae0a6634df545642dbf:facebook:
   spec:
     title: '[Azure] Azure Automation Step Note [debuggingsoft.com]'
