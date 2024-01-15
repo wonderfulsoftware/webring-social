@@ -4482,6 +4482,25 @@
     url: https://www.somkiat.cc/macos-problem-with-port-5000-airdrop/
   state:
     shortLink: https://webring.page.link/igoR
+58355c4492c8958d4bc624d6ffc6f964:facebook:
+  spec:
+    title: มาเรียนรู้พื้นฐาน Functional Programming กัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/functional-programming-basic/
+  state:
+    id: '100746876247412_338201399169109'
+    url: https://www.facebook.com/100683012920950/posts/338201399169109
+58355c4492c8958d4bc624d6ffc6f964:mastodon:
+  spec:
+    title: มาเรียนรู้พื้นฐาน Functional Programming กัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/functional-programming-basic/
+  state:
+    id: '111757769941103557'
+    url: https://mastodon.in.th/@webring/111757769941103557
+58355c4492c8958d4bc624d6ffc6f964:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/functional-programming-basic/
+  state:
+    shortLink: https://webring.page.link/XNEr
 5a1b59219b935759a4f09013fd0e0e94:facebook:
   spec:
     title: เรื่องของ Noise หรือสิ่งรบกวนที่ส่งผลต่อ Productivity [somkiat.cc]
