@@ -5109,6 +5109,25 @@
     url: https://garden.narze.live/Change-League-of-Legends-macOS-language-from-Thai-to-English/
   state:
     shortLink: https://webring.page.link/upmQ
+62e05346dbfef94c20a78ea5f7eea0d2:facebook:
+  spec:
+    title: สวัสดี Spring AI [somkiat.cc]
+    url: https://www.somkiat.cc/hello-spring-ai/
+  state:
+    id: '100746876247412_338889202433662'
+    url: https://www.facebook.com/100683012920950/posts/338889202433662
+62e05346dbfef94c20a78ea5f7eea0d2:mastodon:
+  spec:
+    title: สวัสดี Spring AI [somkiat.cc]
+    url: https://www.somkiat.cc/hello-spring-ai/
+  state:
+    id: '111764150405733484'
+    url: https://mastodon.in.th/@webring/111764150405733484
+62e05346dbfef94c20a78ea5f7eea0d2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-spring-ai/
+  state:
+    shortLink: https://webring.page.link/Fqhg
 62f7f2bf4041d86b6c0a3ae0428115d1:facebook:
   spec:
     title: 58 - garden-astro - use hashtags [garden.narze.live]
