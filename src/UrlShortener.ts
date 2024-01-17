@@ -3,21 +3,11 @@ import { env } from './env'
 
 export async function createShortUrl(url: string) {
   const response = await redaxios.post(
-    `https://firebasedynamiclinks.googleapis.com/v1/shortLinks?key=${env.FIREBASE_API_KEY}`,
+    `https://link.webring.in.th/links`,
+    { link: url },
     {
-      dynamicLinkInfo: {
-        domainUriPrefix: 'https://webring.page.link',
-        link: url,
-        // analyticsInfo: {
-        //   googlePlayAnalytics: {
-        //     utmSource: 'webring',
-        //     utmMedium: 'social',
-        //     utmCampaign: 'webring-social',
-        //   },
-        // },
-      },
-      suffix: {
-        option: 'SHORT',
+      headers: {
+        'x-api-key': env.LINK_API_KEY,
       },
     },
   )
