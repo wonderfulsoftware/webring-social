@@ -5869,6 +5869,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/11/condition-in-jenkins-pipeline/
   state:
     shortLink: https://webring.page.link/wuKc
+6e3a7745b106e6da61cb0f6bc8188303:facebook:
+  spec:
+    title: จัดการพวก E-Tax Invoice ใน E-mail แบบ geek geek กัน!! [kusumotolab.com]
+    url: https://kusumotolab.com/how-to-manage-e-tax-invoice-in-email-style-geek-geek/
+  state:
+    id: '100746876247412_339510489038200'
+    url: https://www.facebook.com/100683012920950/posts/339510489038200
+6e3a7745b106e6da61cb0f6bc8188303:mastodon:
+  spec:
+    title: จัดการพวก E-Tax Invoice ใน E-mail แบบ geek geek กัน!! [kusumotolab.com]
+    url: https://kusumotolab.com/how-to-manage-e-tax-invoice-in-email-style-geek-geek/
+  state:
+    id: '111769811399905074'
+    url: https://mastodon.in.th/@webring/111769811399905074
+6e3a7745b106e6da61cb0f6bc8188303:shorturl:
+  spec:
+    url: https://kusumotolab.com/how-to-manage-e-tax-invoice-in-email-style-geek-geek/
+  state:
+    shortLink: https://webring.page.link/aj3W
 6ea664674e5299a96e34f7346ae67060:facebook:
   spec:
     title: Wishlist [garden.narze.live]
