@@ -1803,6 +1803,25 @@
     url: https://www.somkiat.cc/bye-bye-atom/
   state:
     shortLink: https://webring.page.link/VXX6
+221a4a18ec99c4dbab11be6bc805de6e:facebook:
+  spec:
+    title: A data dictionary that describes itself [dt.in.th]
+    url: https://notes.dt.in.th/DataDictionary
+  state:
+    id: '100746876247412_339424802380102'
+    url: https://www.facebook.com/100683012920950/posts/339424802380102
+221a4a18ec99c4dbab11be6bc805de6e:mastodon:
+  spec:
+    title: A data dictionary that describes itself [dt.in.th]
+    url: https://notes.dt.in.th/DataDictionary
+  state:
+    id: '111769093926860190'
+    url: https://mastodon.in.th/@webring/111769093926860190
+221a4a18ec99c4dbab11be6bc805de6e:shorturl:
+  spec:
+    url: https://notes.dt.in.th/DataDictionary
+  state:
+    shortLink: https://webring.page.link/EwuJ
 22831b3aad446be3ca103c999b7231d3:facebook:
   spec:
     title: The Cloud Camp Week#06 (K8S Part1) [debuggingsoft.com]
