@@ -8453,6 +8453,25 @@
     url: https://notes.dt.in.th/ResticBackup
   state:
     shortLink: https://webring.page.link/PkpM
+9ba0eeec2fdf4e0c4e43715207670104:facebook:
+  spec:
+    title: Faster PostgreSQL during development [dt.in.th]
+    url: https://notes.dt.in.th/PostgresDevConfig
+  state:
+    id: '100746876247412_340081938981055'
+    url: https://www.facebook.com/100683012920950/posts/340081938981055
+9ba0eeec2fdf4e0c4e43715207670104:mastodon:
+  spec:
+    title: Faster PostgreSQL during development [dt.in.th]
+    url: https://notes.dt.in.th/PostgresDevConfig
+  state:
+    id: '111775062177666026'
+    url: https://mastodon.in.th/@webring/111775062177666026
+9ba0eeec2fdf4e0c4e43715207670104:shorturl:
+  spec:
+    url: https://notes.dt.in.th/PostgresDevConfig
+  state:
+    shortLink: https://link.webring.in.th/1717
 9c0c2a2834c4c40e9ddf391031e09d63:facebook:
   spec:
     title: NVM คืออะไร แชร์เทคนิคการใช้งาน [poolsawat.com]
