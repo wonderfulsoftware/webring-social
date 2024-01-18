@@ -7465,6 +7465,25 @@
     url: https://garden.narze.live/git-fatal-detected-dubious-ownership-in-repository/
   state:
     shortLink: https://webring.page.link/nPBd
+89c2677b4928fc6afe47f025ee7b6492:facebook:
+  spec:
+    title: Stress-less web server with Caddy [rayriffy.com]
+    url: https://rayriffy.com/garden/caddy-easy-config/
+  state:
+    id: '100746876247412_340127052309877'
+    url: https://www.facebook.com/100683012920950/posts/340127052309877
+89c2677b4928fc6afe47f025ee7b6492:mastodon:
+  spec:
+    title: Stress-less web server with Caddy [rayriffy.com]
+    url: https://rayriffy.com/garden/caddy-easy-config/
+  state:
+    id: '111775475624970503'
+    url: https://mastodon.in.th/@webring/111775475624970503
+89c2677b4928fc6afe47f025ee7b6492:shorturl:
+  spec:
+    url: https://rayriffy.com/garden/caddy-easy-config/
+  state:
+    shortLink: https://link.webring.in.th/1718
 8a11096b6f1264ff832be3e82977504f:facebook:
   spec:
     title: TP-Link MR600 - LTE Router [blog.kpping.me]
