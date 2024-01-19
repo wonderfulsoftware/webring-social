@@ -2943,6 +2943,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/cr-hua-seng-hong-taro-paste-with-ginkgo-bun/
   state:
     shortLink: https://webring.page.link/wV1N
+37b0db029719a356a7084b3d86cb633b:facebook:
+  spec:
+    title: หนังสือ Learning Go 2nd edition ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/learning-go-2nd-edition/
+  state:
+    id: '100746876247412_340923948896854'
+    url: https://www.facebook.com/100683012920950/posts/340923948896854
+37b0db029719a356a7084b3d86cb633b:mastodon:
+  spec:
+    title: หนังสือ Learning Go 2nd edition ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/learning-go-2nd-edition/
+  state:
+    id: '111782570620647972'
+    url: https://mastodon.in.th/@webring/111782570620647972
+37b0db029719a356a7084b3d86cb633b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/learning-go-2nd-edition/
+  state:
+    shortLink: https://link.webring.in.th/1722
 3808dbfe4969925f92be092d2781b80f:facebook:
   spec:
     title: บันทึกปัญหา ./mvnw not found ใน Dockerfile [somkiat.cc]
