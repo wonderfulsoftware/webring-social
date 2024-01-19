@@ -3988,6 +3988,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/microsoft-thailand-developer-day-2023-summay/
   state:
     shortLink: https://webring.page.link/DNhF
+4c61ea474ec751290314551096d80dc0:facebook:
+  spec:
+    title: Docker-Compose for Laravel8, MySQL, phpMyAdmin [poolsawat.com]
+    url: https://www.poolsawat.com/docker-compose-for-laravel8-mysql-phpmyadmin/
+  state:
+    id: '100746876247412_341016805554235'
+    url: https://www.facebook.com/100683012920950/posts/341016805554235
+4c61ea474ec751290314551096d80dc0:mastodon:
+  spec:
+    title: Docker-Compose for Laravel8, MySQL, phpMyAdmin [poolsawat.com]
+    url: https://www.poolsawat.com/docker-compose-for-laravel8-mysql-phpmyadmin/
+  state:
+    id: '111783248832697308'
+    url: https://mastodon.in.th/@webring/111783248832697308
+4c61ea474ec751290314551096d80dc0:shorturl:
+  spec:
+    url: https://www.poolsawat.com/docker-compose-for-laravel8-mysql-phpmyadmin/
+  state:
+    shortLink: https://link.webring.in.th/1723
 4cd3a125ff570cac1a897923b73a3cc3:facebook:
   spec:
     title: Side Projects Talk [garden.narze.live]
