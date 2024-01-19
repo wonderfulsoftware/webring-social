@@ -1404,6 +1404,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/error-createprocessentrycommon347-getpwuid0-failed-2-when-access-wsl/
   state:
     shortLink: https://webring.page.link/o4UU
+1b4c231684dbbb931597e21838ad6dac:facebook:
+  spec:
+    title: มาเรียนรู้การทำ Frontend Testing ผ่าน React กัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/react-unit-test/
+  state:
+    id: '100746876247412_340764538912795'
+    url: https://www.facebook.com/100683012920950/posts/340764538912795
+1b4c231684dbbb931597e21838ad6dac:mastodon:
+  spec:
+    title: มาเรียนรู้การทำ Frontend Testing ผ่าน React กัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/react-unit-test/
+  state:
+    id: '111781137384621245'
+    url: https://mastodon.in.th/@webring/111781137384621245
+1b4c231684dbbb931597e21838ad6dac:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/react-unit-test/
+  state:
+    shortLink: https://link.webring.in.th/1720
 1bbd5d0e1884e3c73690f8bfb3453391:facebook:
   spec:
     title: วิธีการสร้าง SSL Certificate โดยใช้ Cert Manager [anewlife.dev]
