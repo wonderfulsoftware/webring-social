@@ -13607,6 +13607,25 @@ fb59631bc212db49aa6b847609fff173:shorturl:
     url: https://ntsd.dev/extract-cricital-css/
   state:
     shortLink: https://webring.page.link/3MJK
+fbaf2aa50410c6804e405b6bf2436f76:facebook:
+  spec:
+    title: Create a gitignore file with dotnet cli [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/01/create-a-gitignore-file-with-dotnet-cli/
+  state:
+    id: '100746876247412_340836862238896'
+    url: https://www.facebook.com/100683012920950/posts/340836862238896
+fbaf2aa50410c6804e405b6bf2436f76:mastodon:
+  spec:
+    title: Create a gitignore file with dotnet cli [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/01/create-a-gitignore-file-with-dotnet-cli/
+  state:
+    id: '111781831916568325'
+    url: https://mastodon.in.th/@webring/111781831916568325
+fbaf2aa50410c6804e405b6bf2436f76:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/01/create-a-gitignore-file-with-dotnet-cli/
+  state:
+    shortLink: https://link.webring.in.th/1721
 fd4b806a1ef371b85bf738f4a8699837:facebook:
   spec:
     title: Serverless real-time machine learning inference with AWS [karnwong.me]
