@@ -1556,6 +1556,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/07/db2-driver/
   state:
     shortLink: https://webring.page.link/R7if
+1d0510cdc13188d655121e445da16c0f:facebook:
+  spec:
+    title: เรียนรู้การใช้งาน Strapi เบื้องต้น (find, findOne) [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/strapi-on-docker-ep2
+  state:
+    id: '100746876247412_341328648856384'
+    url: https://www.facebook.com/100683012920950/posts/341328648856384
+1d0510cdc13188d655121e445da16c0f:mastodon:
+  spec:
+    title: เรียนรู้การใช้งาน Strapi เบื้องต้น (find, findOne) [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/strapi-on-docker-ep2
+  state:
+    id: '111786079141107672'
+    url: https://mastodon.in.th/@webring/111786079141107672
+1d0510cdc13188d655121e445da16c0f:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/2024/strapi-on-docker-ep2
+  state:
+    shortLink: https://link.webring.in.th/1724
 1d14ec0ffc4ea9ee6e4cda7f4d2fed9c:facebook:
   spec:
     title: สร้าง Comments ให้กับ Website ด้วย Giscus [janescience.com]
