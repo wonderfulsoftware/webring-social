@@ -1024,6 +1024,25 @@
     url: https://www.icez.net/blog/167533/0258-ev-faq
   state:
     shortLink: https://webring.page.link/oUMT
+14dda9553c090ffc24395fcc4986d27c:facebook:
+  spec:
+    title: มาทำความรู้จัก Growth Mindset กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/what-is-growth-mindset/
+  state:
+    id: '100746876247412_341406752181907'
+    url: https://www.facebook.com/100683012920950/posts/341406752181907
+14dda9553c090ffc24395fcc4986d27c:mastodon:
+  spec:
+    title: มาทำความรู้จัก Growth Mindset กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/what-is-growth-mindset/
+  state:
+    id: '111786793744969075'
+    url: https://mastodon.in.th/@webring/111786793744969075
+14dda9553c090ffc24395fcc4986d27c:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/what-is-growth-mindset/
+  state:
+    shortLink: https://link.webring.in.th/1725
 1500f6b8f9e81edc4b4044c8bad5edf3:facebook:
   spec:
     title: สวัสดี Hono [somkiat.cc]
