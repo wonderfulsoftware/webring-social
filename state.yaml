@@ -7503,6 +7503,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/10/customize-object-displays-in-the-visual-studio-by-usingdebuggerdisplayattribute/
   state:
     shortLink: https://webring.page.link/MdS6
+8809d348998c4f65dd73d5ed0cddb577:facebook:
+  spec:
+    title: Microsoft Ignite Cloud Skills Challenge 2023 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/01/microsoft-ignite-cloud-skills-challenge-2023/
+  state:
+    id: '100746876247412_342081578781091'
+    url: https://www.facebook.com/100683012920950/posts/342081578781091
+8809d348998c4f65dd73d5ed0cddb577:mastodon:
+  spec:
+    title: Microsoft Ignite Cloud Skills Challenge 2023 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/01/microsoft-ignite-cloud-skills-challenge-2023/
+  state:
+    id: '111792458376752108'
+    url: https://mastodon.in.th/@webring/111792458376752108
+8809d348998c4f65dd73d5ed0cddb577:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/01/microsoft-ignite-cloud-skills-challenge-2023/
+  state:
+    shortLink: https://link.webring.in.th/1727
 881587e2256b9d1c4719cf8c68b96993:facebook:
   spec:
     title: DuckDB vs Polars vs Spark! [karnwong.me]
