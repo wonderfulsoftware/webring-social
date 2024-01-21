@@ -7674,6 +7674,25 @@
     url: https://notes.dt.in.th/IpfsBlankFileUrl
   state:
     shortLink: https://webring.page.link/TXYo
+8a572bc4a4fb4ac4acede6e51ed1eaa4:facebook:
+  spec:
+    title: Collaboration model for data science projects [karnwong.me]
+    url: https://karnwong.me/posts/2024/01/collaboration-model-for-data-science-projects/
+  state:
+    id: '100746876247412_342158688773380'
+    url: https://www.facebook.com/100683012920950/posts/342158688773380
+8a572bc4a4fb4ac4acede6e51ed1eaa4:mastodon:
+  spec:
+    title: Collaboration model for data science projects [karnwong.me]
+    url: https://karnwong.me/posts/2024/01/collaboration-model-for-data-science-projects/
+  state:
+    id: '111793153416763978'
+    url: https://mastodon.in.th/@webring/111793153416763978
+8a572bc4a4fb4ac4acede6e51ed1eaa4:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/01/collaboration-model-for-data-science-projects/
+  state:
+    shortLink: https://link.webring.in.th/1728
 8aa95ece21691bd86118d3422acf6a61:facebook:
   spec:
     title: ตอบคำถามเรื่อง การใช้งาน ORM (Object-Relational Mapping) [somkiat.cc]
