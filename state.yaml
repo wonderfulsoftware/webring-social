@@ -5375,6 +5375,25 @@
     url: https://dmg.st/nokair-lounge/
   state:
     shortLink: https://webring.page.link/VZxr
+64cd68f3f1689d1ce5d0c7966fb65a48:facebook:
+  spec:
+    title: มือใหม่หัด Estimate [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/estimation-newbie/
+  state:
+    id: '100746876247412_341987788790470'
+    url: https://www.facebook.com/100683012920950/posts/341987788790470
+64cd68f3f1689d1ce5d0c7966fb65a48:mastodon:
+  spec:
+    title: มือใหม่หัด Estimate [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/estimation-newbie/
+  state:
+    id: '111791742491423828'
+    url: https://mastodon.in.th/@webring/111791742491423828
+64cd68f3f1689d1ce5d0c7966fb65a48:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/estimation-newbie/
+  state:
+    shortLink: https://link.webring.in.th/1726
 655fe23ff25ac2f9c9ad613f2d446fc2:facebook:
   spec:
     title: ESP32 Series รุ่นต่างๆ [thiti.dev]
