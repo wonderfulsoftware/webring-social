@@ -6344,6 +6344,25 @@
     url: https://notes.dt.in.th/DockerRetagImage
   state:
     shortLink: https://webring.page.link/bSpD
+72775cfdc5926ce6b4acd87a3c45e64f:facebook:
+  spec:
+    title: สวัสดี AHA Stack [somkiat.cc]
+    url: https://www.somkiat.cc/hello-aha-stack/
+  state:
+    id: '100746876247412_342758655380050'
+    url: https://www.facebook.com/100683012920950/posts/342758655380050
+72775cfdc5926ce6b4acd87a3c45e64f:mastodon:
+  spec:
+    title: สวัสดี AHA Stack [somkiat.cc]
+    url: https://www.somkiat.cc/hello-aha-stack/
+  state:
+    id: '111798126739648810'
+    url: https://mastodon.in.th/@webring/111798126739648810
+72775cfdc5926ce6b4acd87a3c45e64f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-aha-stack/
+  state:
+    shortLink: https://link.webring.in.th/1730
 72ce6a11d2da2e203e5600bd552ce1b5:facebook:
   spec:
     title: มาอัพเดตเทคกับงาน DevFest Bangkok 2023 [mikkipastel.com]
