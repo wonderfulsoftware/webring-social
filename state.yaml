@@ -3247,6 +3247,25 @@
     url: https://www.somkiat.cc/note-ranking-system-from-reddit/
   state:
     shortLink: https://webring.page.link/Axjg
+3cdb547e1d60d1ed0a3ebdc3b08d4ab4:facebook:
+  spec:
+    title: What is platform engineering? [karnwong.me]
+    url: https://karnwong.me/posts/2024/01/what-is-platform-engineering/
+  state:
+    id: '100746876247412_342675438721705'
+    url: https://www.facebook.com/100683012920950/posts/342675438721705
+3cdb547e1d60d1ed0a3ebdc3b08d4ab4:mastodon:
+  spec:
+    title: What is platform engineering? [karnwong.me]
+    url: https://karnwong.me/posts/2024/01/what-is-platform-engineering/
+  state:
+    id: '111797407246341763'
+    url: https://mastodon.in.th/@webring/111797407246341763
+3cdb547e1d60d1ed0a3ebdc3b08d4ab4:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/01/what-is-platform-engineering/
+  state:
+    shortLink: https://link.webring.in.th/1729
 3cea4ef330c99603adf00102b2bb25c5:facebook:
   spec:
     title: เรียนรู้ และใช้งาน ThaiBuddhistDate บน Java [poolsawat.com]
