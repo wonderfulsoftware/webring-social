@@ -8073,6 +8073,25 @@
     url: https://www.somkiat.cc/note-from-tidy-first-book/
   state:
     shortLink: https://webring.page.link/bJkC
+90923089dfc700602345b0840809f837:facebook:
+  spec:
+    title: Install Excalidraw Self-hosted (Docker) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/01/install-excalidraw-self-hosted-docker/
+  state:
+    id: '100746876247412_343405915315324'
+    url: https://www.facebook.com/100683012920950/posts/343405915315324
+90923089dfc700602345b0840809f837:mastodon:
+  spec:
+    title: Install Excalidraw Self-hosted (Docker) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/01/install-excalidraw-self-hosted-docker/
+  state:
+    id: '111803786489745565'
+    url: https://mastodon.in.th/@webring/111803786489745565
+90923089dfc700602345b0840809f837:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/01/install-excalidraw-self-hosted-docker/
+  state:
+    shortLink: https://link.webring.in.th/1732
 90c33c5e707e0c808f6e15d080c0d79f:facebook:
   spec:
     title: 'SOPS: Secrets OPerationS [jitrak.dev]'
