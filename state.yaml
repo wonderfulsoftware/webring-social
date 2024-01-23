@@ -2810,6 +2810,25 @@
     url: https://www.nuttdam.com/2023/05/airplay-homekit-across-vlan/
   state:
     shortLink: https://webring.page.link/7GS7
+332d9cabbe5633701a94e9c1d26d15ec:facebook:
+  spec:
+    title: รู้จักกับ Web Vitals guideline การสร้าง UX ที่ดีออกมากัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/web-vitals/
+  state:
+    id: '100746876247412_343328055323110'
+    url: https://www.facebook.com/100683012920950/posts/343328055323110
+332d9cabbe5633701a94e9c1d26d15ec:mastodon:
+  spec:
+    title: รู้จักกับ Web Vitals guideline การสร้าง UX ที่ดีออกมากัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/web-vitals/
+  state:
+    id: '111803067682440203'
+    url: https://mastodon.in.th/@webring/111803067682440203
+332d9cabbe5633701a94e9c1d26d15ec:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/web-vitals/
+  state:
+    shortLink: https://link.webring.in.th/1731
 342f7eddd66c5582137d612950428c73:facebook:
   spec:
     title: การตั้งค่า dockerfile และ docker-compose เพื่อรัน Node.js และ MongoDB บน Docker Container [toupawa.com]
