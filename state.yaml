@@ -3703,6 +3703,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/09/deep-fried-pork-here-wong-bts-wongwian-yai/
   state:
     shortLink: https://webring.page.link/wjBS
+464dab789bd1ef9b825170bb27d774af:facebook:
+  spec:
+    title: ลองเล่นกับ Bun Shell [somkiat.cc]
+    url: https://www.somkiat.cc/hello-bun-shell/
+  state:
+    id: '100746876247412_343960195259896'
+    url: https://www.facebook.com/100683012920950/posts/343960195259896
+464dab789bd1ef9b825170bb27d774af:mastodon:
+  spec:
+    title: ลองเล่นกับ Bun Shell [somkiat.cc]
+    url: https://www.somkiat.cc/hello-bun-shell/
+  state:
+    id: '111808730604288455'
+    url: https://mastodon.in.th/@webring/111808730604288455
+464dab789bd1ef9b825170bb27d774af:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-bun-shell/
+  state:
+    shortLink: https://link.webring.in.th/1733
 4693a24543222e705925af10dc966aa5:facebook:
   spec:
     title: เพิ่งรู้ว่า Bun ก็ run Playwright ได้ด้วย [somkiat.cc]
