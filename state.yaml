@@ -6496,6 +6496,25 @@
     url: https://www.somkiat.cc/new-features-in-docker-24-0-2/
   state:
     shortLink: https://webring.page.link/BXN7
+746f493c75e6a8b219202a9c6674c6a1:facebook:
+  spec:
+    title: How to Setup the Date Timezone and NTP for Ubuntu 22.04 LTS [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/01/how-to-setup-the-date-timezone-and-ntp-for-ubuntu-22-04-lts/
+  state:
+    id: '100746876247412_344569871865595'
+    url: https://www.facebook.com/100683012920950/posts/344569871865595
+746f493c75e6a8b219202a9c6674c6a1:mastodon:
+  spec:
+    title: How to Setup the Date Timezone and NTP for Ubuntu 22.04 LTS [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/01/how-to-setup-the-date-timezone-and-ntp-for-ubuntu-22-04-lts/
+  state:
+    id: '111814391774329759'
+    url: https://mastodon.in.th/@webring/111814391774329759
+746f493c75e6a8b219202a9c6674c6a1:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/01/how-to-setup-the-date-timezone-and-ntp-for-ubuntu-22-04-lts/
+  state:
+    shortLink: https://link.webring.in.th/1734
 74726a0b7d14c6034982c37265460c1c:facebook:
   spec:
     title: How to access NPM Private Registry [debuggingsoft.com]
