@@ -8073,6 +8073,25 @@
     url: https://lucian.solutions/blog/lucia-spring-2023
   state:
     shortLink: https://webring.page.link/tz4g
+8f89bdd71a62a90d8569da41343b6204:facebook:
+  spec:
+    title: มาลองใช้งาน Docker Build Cloud กัน [somkiat.cc]
+    url: https://www.somkiat.cc/docker-build-cloud/
+  state:
+    id: '100746876247412_344643258524923'
+    url: https://www.facebook.com/100683012920950/posts/344643258524923
+8f89bdd71a62a90d8569da41343b6204:mastodon:
+  spec:
+    title: มาลองใช้งาน Docker Build Cloud กัน [somkiat.cc]
+    url: https://www.somkiat.cc/docker-build-cloud/
+  state:
+    id: '111815110717609848'
+    url: https://mastodon.in.th/@webring/111815110717609848
+8f89bdd71a62a90d8569da41343b6204:shorturl:
+  spec:
+    url: https://www.somkiat.cc/docker-build-cloud/
+  state:
+    shortLink: https://link.webring.in.th/1735
 8fdbccf1e100abece85cb78ca94e3814:facebook:
   spec:
     title: Store git directory externally [garden.narze.live]
