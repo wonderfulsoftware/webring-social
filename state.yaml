@@ -7598,6 +7598,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/10/customize-object-displays-in-the-visual-studio-by-usingdebuggerdisplayattribute/
   state:
     shortLink: https://webring.page.link/MdS6
+875cfdf09ba584ff253e3f1da89f8caa:facebook:
+  spec:
+    title: มาลองเล่น Gemini Pro กัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/gemini-prompt/
+  state:
+    id: '100746876247412_345215908467658'
+    url: https://www.facebook.com/100683012920950/posts/345215908467658
+875cfdf09ba584ff253e3f1da89f8caa:mastodon:
+  spec:
+    title: มาลองเล่น Gemini Pro กัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/gemini-prompt/
+  state:
+    id: '111820055778283625'
+    url: https://mastodon.in.th/@webring/111820055778283625
+875cfdf09ba584ff253e3f1da89f8caa:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/gemini-prompt/
+  state:
+    shortLink: https://link.webring.in.th/1736
 8809d348998c4f65dd73d5ed0cddb577:facebook:
   spec:
     title: Microsoft Ignite Cloud Skills Challenge 2023 [debuggingsoft.com]
