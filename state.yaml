@@ -8244,6 +8244,25 @@
     url: https://www.karnwong.me/posts/2023/07/book-highlights---build--by-tony-fadell/
   state:
     shortLink: https://webring.page.link/WPVo
+9225c97f7d47d5e1165cf4d9e02a6b8f:facebook:
+  spec:
+    title: หนังซีรีย์ที่สตาร์ทอัพควรดู(เอง)? [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/movie-series
+  state:
+    id: '100746876247412_345298168459432'
+    url: https://www.facebook.com/100683012920950/posts/345298168459432
+9225c97f7d47d5e1165cf4d9e02a6b8f:mastodon:
+  spec:
+    title: หนังซีรีย์ที่สตาร์ทอัพควรดู(เอง)? [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/movie-series
+  state:
+    id: '111820768389747527'
+    url: https://mastodon.in.th/@webring/111820768389747527
+9225c97f7d47d5e1165cf4d9e02a6b8f:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/movie-series
+  state:
+    shortLink: https://link.webring.in.th/1737
 922eab48507881bb4f74d8d6d892809b:facebook:
   spec:
     title: VS Code REST Client snippets [dt.in.th]
