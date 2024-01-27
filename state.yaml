@@ -10878,6 +10878,25 @@ c56e5547bb9ae969baa17ee2f8911eda:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-feature-raw-string-literals-is-not-available-please-use-language-version-11-0-or-greater/
   state:
     shortLink: https://webring.page.link/kct9
+c600cc4e7554cf1b59ed8c065e390abf:facebook:
+  spec:
+    title: Outward Mindset คืออะไร มาทำความรู้จักกัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/what-is-outward-mindset/
+  state:
+    id: '100746876247412_345861565069759'
+    url: https://www.facebook.com/100683012920950/posts/345861565069759
+c600cc4e7554cf1b59ed8c065e390abf:mastodon:
+  spec:
+    title: Outward Mindset คืออะไร มาทำความรู้จักกัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/what-is-outward-mindset/
+  state:
+    id: '111825712696074157'
+    url: https://mastodon.in.th/@webring/111825712696074157
+c600cc4e7554cf1b59ed8c065e390abf:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/what-is-outward-mindset/
+  state:
+    shortLink: https://link.webring.in.th/1738
 c61b44eff61f04b6e32cdf13fc0a631f:facebook:
   spec:
     title: Things to watch out for GCP SSL with Cloudflare DNS [karnwong.me]
