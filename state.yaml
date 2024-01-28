@@ -3000,6 +3000,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/cr-hua-seng-hong-taro-paste-with-ginkgo-bun/
   state:
     shortLink: https://webring.page.link/wV1N
+3706d2c8e1520daf93ef64c9304c78ba:facebook:
+  spec:
+    title: 'สรุปการแบ่งปันเรื่อง JavaScript Testing (every day) จากงาน BKK.JS #19: Into the New Year [somkiat.cc]'
+    url: https://www.somkiat.cc/sharing-javascript-testing-every-day/
+  state:
+    id: '100746876247412_346663971656185'
+    url: https://www.facebook.com/100683012920950/posts/346663971656185
+3706d2c8e1520daf93ef64c9304c78ba:mastodon:
+  spec:
+    title: 'สรุปการแบ่งปันเรื่อง JavaScript Testing (every day) จากงาน BKK.JS #19: Into the New Year [somkiat.cc]'
+    url: https://www.somkiat.cc/sharing-javascript-testing-every-day/
+  state:
+    id: '111832790920900165'
+    url: https://mastodon.in.th/@webring/111832790920900165
+3706d2c8e1520daf93ef64c9304c78ba:shorturl:
+  spec:
+    url: https://www.somkiat.cc/sharing-javascript-testing-every-day/
+  state:
+    shortLink: https://link.webring.in.th/1741
 37b0db029719a356a7084b3d86cb633b:facebook:
   spec:
     title: หนังสือ Learning Go 2nd edition ออกมาแล้ว [somkiat.cc]
