@@ -13139,6 +13139,25 @@ ed74f69731cdc86dfaf7181e9889b17c:shorturl:
     url: https://tech.duckfollow.co/view/gitflow-workflow
   state:
     shortLink: https://webring.page.link/ywy8
+edb3391e406219df0fbc10c9d51faeb6:facebook:
+  spec:
+    title: เรียนรู้การใช้งาน Strapi เบื้องต้น (Population) [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/strapi-on-docker-ep3
+  state:
+    id: '100746876247412_346592651663317'
+    url: https://www.facebook.com/100683012920950/posts/346592651663317
+edb3391e406219df0fbc10c9d51faeb6:mastodon:
+  spec:
+    title: เรียนรู้การใช้งาน Strapi เบื้องต้น (Population) [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/strapi-on-docker-ep3
+  state:
+    id: '111832088389121498'
+    url: https://mastodon.in.th/@webring/111832088389121498
+edb3391e406219df0fbc10c9d51faeb6:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/2024/strapi-on-docker-ep3
+  state:
+    shortLink: https://link.webring.in.th/1740
 edeb94abe2f98a95e84818306238de37:facebook:
   spec:
     title: Create Kubernetes service accounts with Terraform [karnwong.me]
