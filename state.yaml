@@ -9232,6 +9232,25 @@ a2ddaf898161aef37c0bc75f362600b0:shorturl:
     url: https://www.somkiat.cc/observability-driven-development/
   state:
     shortLink: https://webring.page.link/zsoA
+a35d5791840c02d1e557b208bc656cfa:facebook:
+  spec:
+    title: 'สรุป DevClub#2: Databases @AWS [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/01/devclub2-databases-at-aws-note/
+  state:
+    id: '100746876247412_346517741670808'
+    url: https://www.facebook.com/100683012920950/posts/346517741670808
+a35d5791840c02d1e557b208bc656cfa:mastodon:
+  spec:
+    title: 'สรุป DevClub#2: Databases @AWS [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/01/devclub2-databases-at-aws-note/
+  state:
+    id: '111831374741140719'
+    url: https://mastodon.in.th/@webring/111831374741140719
+a35d5791840c02d1e557b208bc656cfa:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/01/devclub2-databases-at-aws-note/
+  state:
+    shortLink: https://link.webring.in.th/1739
 a4031221ddd4f040891463067c4b004e:facebook:
   spec:
     title: Robot Framework 6.1 rc 1 ออกมาแล้ว [somkiat.cc]
