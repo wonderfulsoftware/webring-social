@@ -4862,6 +4862,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week07-k8s-part2/
   state:
     shortLink: https://webring.page.link/N9yk
+5c69fd56452da2e6b51354dc043b7cb1:facebook:
+  spec:
+    title: Screenplay Pattern Testing with Serenity.js [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/screenplay-serenity/
+  state:
+    id: '100746876247412_347161184939797'
+    url: https://www.facebook.com/100683012920950/posts/347161184939797
+5c69fd56452da2e6b51354dc043b7cb1:mastodon:
+  spec:
+    title: Screenplay Pattern Testing with Serenity.js [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/screenplay-serenity/
+  state:
+    id: '111837037901305314'
+    url: https://mastodon.in.th/@webring/111837037901305314
+5c69fd56452da2e6b51354dc043b7cb1:shorturl:
+  spec:
+    url: https://yuttakhanb.dev/posts/screenplay-serenity/
+  state:
+    shortLink: https://link.webring.in.th/1742
 5d719068376edd19f96fa8863cff2d5f:facebook:
   spec:
     title: ปัญหาของ WebClient ใน Spring Boot 3 [somkiat.cc]
