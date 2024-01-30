@@ -5565,6 +5565,25 @@
     url: https://www.somkiat.cc/change-data-capture-and-outbox-pattern-with-debezium/
   state:
     shortLink: https://webring.page.link/j6jp
+6629d198080e82a333f1c7e29dbf279c:facebook:
+  spec:
+    title: Modifying the alpha channel of a color using CSS [dt.in.th]
+    url: https://notes.dt.in.th/CSSChangeColorOpacity
+  state:
+    id: '100746876247412_347799548209294'
+    url: https://www.facebook.com/100683012920950/posts/347799548209294
+6629d198080e82a333f1c7e29dbf279c:mastodon:
+  spec:
+    title: Modifying the alpha channel of a color using CSS [dt.in.th]
+    url: https://notes.dt.in.th/CSSChangeColorOpacity
+  state:
+    id: '111842700992872663'
+    url: https://mastodon.in.th/@webring/111842700992872663
+6629d198080e82a333f1c7e29dbf279c:shorturl:
+  spec:
+    url: https://notes.dt.in.th/CSSChangeColorOpacity
+  state:
+    shortLink: https://link.webring.in.th/1743
 662a567d01627c89ad46ae1a58b73808:facebook:
   spec:
     title: 0257 | Peer กับ Content Provider ต่างประเทศในไทยบน Internet Exchange “ในไทย” [icez.net]
