@@ -2525,6 +2525,25 @@
     url: https://www.somkiat.cc/what-vector-database/
   state:
     shortLink: https://webring.page.link/qTLp
+2d5120ed0ff2c891450722e81a8dcc84:facebook:
+  spec:
+    title: มาเรียนรู้พื้นฐาน Diagram แต่ละประเภทของงาน development กัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/diagram-basic/
+  state:
+    id: '100746876247412_347881148201134'
+    url: https://www.facebook.com/100683012920950/posts/347881148201134
+2d5120ed0ff2c891450722e81a8dcc84:mastodon:
+  spec:
+    title: มาเรียนรู้พื้นฐาน Diagram แต่ละประเภทของงาน development กัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/diagram-basic/
+  state:
+    id: '111843420530263350'
+    url: https://mastodon.in.th/@webring/111843420530263350
+2d5120ed0ff2c891450722e81a8dcc84:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/diagram-basic/
+  state:
+    shortLink: https://link.webring.in.th/1744
 2d5b38d2e7ad2ff6bf80401221df90a4:facebook:
   spec:
     title: บันทึกการแก้ไขปัญหา SonarQube C# ทำงานนานน [debuggingsoft.com]
