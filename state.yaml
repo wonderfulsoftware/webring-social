@@ -5907,6 +5907,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/cr-starbucks-lychee-rose-mixed-with-pomegranate-juice/
   state:
     shortLink: https://webring.page.link/Hg5r
+6b0034d035649056575e6dcb57817669:facebook:
+  spec:
+    title: ทำ Transaction ใน redis ด้วย MULTI และ WATCH [anuwong.com]
+    url: https://www.anuwong.com/blog/2024-01-29-redis-watch/
+  state:
+    id: '100746876247412_348036358185613'
+    url: https://www.facebook.com/100683012920950/posts/348036358185613
+6b0034d035649056575e6dcb57817669:mastodon:
+  spec:
+    title: ทำ Transaction ใน redis ด้วย MULTI และ WATCH [anuwong.com]
+    url: https://www.anuwong.com/blog/2024-01-29-redis-watch/
+  state:
+    id: '111844847758684130'
+    url: https://mastodon.in.th/@webring/111844847758684130
+6b0034d035649056575e6dcb57817669:shorturl:
+  spec:
+    url: https://www.anuwong.com/blog/2024-01-29-redis-watch/
+  state:
+    shortLink: https://link.webring.in.th/1746
 6bb174c5e8118ec8fb34cdb4fddd8a3e:facebook:
   spec:
     title: Data Engineering Resources [karnwong.me]
