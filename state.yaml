@@ -5451,6 +5451,25 @@
     url: https://notes.dt.in.th/20230128T173333Z1984
   state:
     shortLink: https://webring.page.link/9zbv
+63c0eaf28de311c115dd52ffc90a9f6d:facebook:
+  spec:
+    title: Breeze Starter Kids SPA Vue3 Integrate with Laravel9 ใน 5 นาที [poolsawat.com]
+    url: https://www.poolsawat.com/breeze-starter-kids-spa-vue3-integrate-with-laravel9-in-5-minutes/
+  state:
+    id: '100746876247412_347954028193846'
+    url: https://www.facebook.com/100683012920950/posts/347954028193846
+63c0eaf28de311c115dd52ffc90a9f6d:mastodon:
+  spec:
+    title: Breeze Starter Kids SPA Vue3 Integrate with Laravel9 ใน 5 นาที [poolsawat.com]
+    url: https://www.poolsawat.com/breeze-starter-kids-spa-vue3-integrate-with-laravel9-in-5-minutes/
+  state:
+    id: '111844118114991488'
+    url: https://mastodon.in.th/@webring/111844118114991488
+63c0eaf28de311c115dd52ffc90a9f6d:shorturl:
+  spec:
+    url: https://www.poolsawat.com/breeze-starter-kids-spa-vue3-integrate-with-laravel9-in-5-minutes/
+  state:
+    shortLink: https://link.webring.in.th/1745
 63e98d110197d011c15980cc4ac6b52f:facebook:
   spec:
     title: สร้าง GO gRPC project ทำความเข้าใจ gRPC มันดียังไง (โค๊ด gRPC ตัวอย่าง) [poolsawat.com]
