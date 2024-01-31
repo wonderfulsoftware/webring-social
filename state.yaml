@@ -8966,6 +8966,25 @@
     url: https://notes.dt.in.th/20230103T095819Z9158
   state:
     shortLink: https://webring.page.link/ADpo
+9c5d3f568c175f705d512e0d77363874:facebook:
+  spec:
+    title: ประหยัดเงินค่า Coding Assistant ด้วย TabbyML [anuwong.com]
+    url: https://www.anuwong.com/blog/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A2%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%88%E0%B8%B2-coding-assistant-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-tabbyml/
+  state:
+    id: '100746876247412_348511264804789'
+    url: https://www.facebook.com/100683012920950/posts/348511264804789
+9c5d3f568c175f705d512e0d77363874:mastodon:
+  spec:
+    title: ประหยัดเงินค่า Coding Assistant ด้วย TabbyML [anuwong.com]
+    url: https://www.anuwong.com/blog/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A2%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%88%E0%B8%B2-coding-assistant-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-tabbyml/
+  state:
+    id: '111849081166407649'
+    url: https://mastodon.in.th/@webring/111849081166407649
+9c5d3f568c175f705d512e0d77363874:shorturl:
+  spec:
+    url: https://www.anuwong.com/blog/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A2%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%88%E0%B8%B2-coding-assistant-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-tabbyml/
+  state:
+    shortLink: https://link.webring.in.th/1748
 9c6b52fec298f4c29f7d86fc4a20b33c:facebook:
   spec:
     title: Workstation Popcorn [garden.narze.live]
