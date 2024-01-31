@@ -1157,6 +1157,25 @@
     url: https://www.somkiat.cc/note-devops-and-cloud-trend-july-2023-from-infoq/
   state:
     shortLink: https://webring.page.link/GZoZ
+173a15d8f44ecc3d67d48beec9455429:facebook:
+  spec:
+    title: '[K8S] kubectl enable autocomplete [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/01/k8s-kubectl-enable-autocomplete/
+  state:
+    id: '100746876247412_348656198123629'
+    url: https://www.facebook.com/100683012920950/posts/348656198123629
+173a15d8f44ecc3d67d48beec9455429:mastodon:
+  spec:
+    title: '[K8S] kubectl enable autocomplete [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/01/k8s-kubectl-enable-autocomplete/
+  state:
+    id: '111850511232158517'
+    url: https://mastodon.in.th/@webring/111850511232158517
+173a15d8f44ecc3d67d48beec9455429:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/01/k8s-kubectl-enable-autocomplete/
+  state:
+    shortLink: https://link.webring.in.th/1750
 17529e04b2d115ba1f3816c7cc43cb4f:facebook:
   spec:
     title: บันทึก Humanistic Software Architecture [debuggingsoft.com]
