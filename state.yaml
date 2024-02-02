@@ -7541,6 +7541,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/optimize-container-image-size/
   state:
     shortLink: https://webring.page.link/1PHQ
+842e6616a412f282b919605a871f409d:facebook:
+  spec:
+    title: รู้จักกับ Storybook และการทำ Component Specs [mikelopster.dev]
+    url: https://mikelopster.dev/posts/react-storybook/
+  state:
+    id: '100746876247412_349608378028411'
+    url: https://www.facebook.com/100683012920950/posts/349608378028411
+842e6616a412f282b919605a871f409d:mastodon:
+  spec:
+    title: รู้จักกับ Storybook และการทำ Component Specs [mikelopster.dev]
+    url: https://mikelopster.dev/posts/react-storybook/
+  state:
+    id: '111859690232921751'
+    url: https://mastodon.in.th/@webring/111859690232921751
+842e6616a412f282b919605a871f409d:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/react-storybook/
+  state:
+    shortLink: https://link.webring.in.th/1751
 8471d89b1fceb3c1683c5224bc7dd2e5:facebook:
   spec:
     title: ลองใช้งาน Pythagora สำหรับการทำ integration test ของ Node.js และ Express [somkiat.cc]
