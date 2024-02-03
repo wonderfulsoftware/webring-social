@@ -8624,6 +8624,25 @@
     url: https://yuttakhanb.dev/posts/2023-year-review/
   state:
     shortLink: https://webring.page.link/WrdY
+948ed7a6fc044f85f27a87d3acf14d92:facebook:
+  spec:
+    title: ลอง Microsoft Applied Skills Credentials [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/02/try-microsoft-applied-skills-credentials-assessment/
+  state:
+    id: '100746876247412_350239574631958'
+    url: https://www.facebook.com/100683012920950/posts/350239574631958
+948ed7a6fc044f85f27a87d3acf14d92:mastodon:
+  spec:
+    title: ลอง Microsoft Applied Skills Credentials [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/02/try-microsoft-applied-skills-credentials-assessment/
+  state:
+    id: '111865357867592734'
+    url: https://mastodon.in.th/@webring/111865357867592734
+948ed7a6fc044f85f27a87d3acf14d92:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/02/try-microsoft-applied-skills-credentials-assessment/
+  state:
+    shortLink: https://link.webring.in.th/1753
 94a270ac8c07fae1199dffa42c069ddd:facebook:
   spec:
     title: Install Samsung notes on Windows 10/11 [debuggingsoft.com]
