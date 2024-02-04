@@ -264,6 +264,25 @@
     url: https://blog.oatto.dev/2024/01/01/recap-2023.html
   state:
     shortLink: https://webring.page.link/G6uK
+069bdcfc3cba7dec2f51c735b759f06b:facebook:
+  spec:
+    title: ทุกงานสำคัญหมด แต่งานไหนสำคัญกว่า [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/prioritzing-tasks/
+  state:
+    id: '100746876247412_350903727898876'
+    url: https://www.facebook.com/100683012920950/posts/350903727898876
+069bdcfc3cba7dec2f51c735b759f06b:mastodon:
+  spec:
+    title: ทุกงานสำคัญหมด แต่งานไหนสำคัญกว่า [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/prioritzing-tasks/
+  state:
+    id: '111871012780685833'
+    url: https://mastodon.in.th/@webring/111871012780685833
+069bdcfc3cba7dec2f51c735b759f06b:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/prioritzing-tasks/
+  state:
+    shortLink: https://link.webring.in.th/1754
 06a756c7005f75135bcc853d14a732af:facebook:
   spec:
     title: รู้จักคนด้วยหลักการ DISC [mikkipastel.com]
