@@ -11562,6 +11562,25 @@ cc517b61b7971c78564e452569512568:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/06/high-cost-of-requirement-error-but-i-dont-think-it-something-missing/
   state:
     shortLink: https://webring.page.link/CTHp
+cc82886eef1266035395308e0fbe1e6e:facebook:
+  spec:
+    title: Barcode Scanners (hardware device) รับค่าบาร์โค๊ดจากเครื่องอ่านบาร์โค๊ดด้วย โค๊ด javascript [poolsawat.com]
+    url: https://www.poolsawat.com/barcode-scanners-hardware-device-get-barcode-text-with-javascript-code/
+  state:
+    id: '100746876247412_350984027890846'
+    url: https://www.facebook.com/100683012920950/posts/350984027890846
+cc82886eef1266035395308e0fbe1e6e:mastodon:
+  spec:
+    title: Barcode Scanners (hardware device) รับค่าบาร์โค๊ดจากเครื่องอ่านบาร์โค๊ดด้วย โค๊ด javascript [poolsawat.com]
+    url: https://www.poolsawat.com/barcode-scanners-hardware-device-get-barcode-text-with-javascript-code/
+  state:
+    id: '111871724933349658'
+    url: https://mastodon.in.th/@webring/111871724933349658
+cc82886eef1266035395308e0fbe1e6e:shorturl:
+  spec:
+    url: https://www.poolsawat.com/barcode-scanners-hardware-device-get-barcode-text-with-javascript-code/
+  state:
+    shortLink: https://link.webring.in.th/1755
 cdd4e6d11a1eea1d0484785081befc37:facebook:
   spec:
     title: Postman เปิดให้ลองใช้งาน API performance testing [somkiat.cc]
