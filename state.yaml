@@ -10315,6 +10315,25 @@ b292aa949ae42c9620ef7b7a939c7426:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/10/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89-gitlab-rest-api/
   state:
     shortLink: https://webring.page.link/v7nE
+b2ade699ca93761a65f09ab9d47231c1:facebook:
+  spec:
+    title: Heated gloves [llun.me]
+    url: https://www.llun.me/posts/ride/2024-02-04-heated-gloves
+  state:
+    id: '100746876247412_351744137814835'
+    url: https://www.facebook.com/100683012920950/posts/351744137814835
+b2ade699ca93761a65f09ab9d47231c1:mastodon:
+  spec:
+    title: Heated gloves [llun.me]
+    url: https://www.llun.me/posts/ride/2024-02-04-heated-gloves
+  state:
+    id: '111878089741355263'
+    url: https://mastodon.in.th/@webring/111878089741355263
+b2ade699ca93761a65f09ab9d47231c1:shorturl:
+  spec:
+    url: https://www.llun.me/posts/ride/2024-02-04-heated-gloves
+  state:
+    shortLink: https://link.webring.in.th/1758
 b47b41b5411e568635b6c2936beeaad2:facebook:
   spec:
     title: น่าสนใจกับภาษา Gleam [somkiat.cc]
