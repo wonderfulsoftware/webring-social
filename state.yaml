@@ -5736,6 +5736,25 @@
     url: https://www.karnwong.me/posts/2023/03/secretops-with-teller/
   state:
     shortLink: https://webring.page.link/yJDS
+673ffaf680eda1c9e35a3397a489557b:facebook:
+  spec:
+    title: สร้าง Command-Line เปลี่ยน Type ของ Image ด้วย Sharp [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/create-change-image-type-cli
+  state:
+    id: '100746876247412_351598341162748'
+    url: https://www.facebook.com/100683012920950/posts/351598341162748
+673ffaf680eda1c9e35a3397a489557b:mastodon:
+  spec:
+    title: สร้าง Command-Line เปลี่ยน Type ของ Image ด้วย Sharp [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/create-change-image-type-cli
+  state:
+    id: '111876679466869095'
+    url: https://mastodon.in.th/@webring/111876679466869095
+673ffaf680eda1c9e35a3397a489557b:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/2024/create-change-image-type-cli
+  state:
+    shortLink: https://link.webring.in.th/1756
 675d7c891c7dbec361d55d4ab061d568:facebook:
   spec:
     title: สรุป Backend Meetup 2023 [debuggingsoft.com]
