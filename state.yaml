@@ -10669,6 +10669,25 @@ bb758d935884c1fe7250341f8ac048f2:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/08/relative-path-note/
   state:
     shortLink: https://webring.page.link/Mjqy
+bc645b001d4ec584afbf9728d89dc43d:facebook:
+  spec:
+    title: ค้นหาบนพิสัยผ่านทวิภาวะจุด-เส้นตรง [neizod.dev]
+    url: https://neizod.dev/2024/02/02/duality-and-cutting-tree-for-range-searching.html
+  state:
+    id: '100746876247412_352258534430062'
+    url: https://www.facebook.com/100683012920950/posts/352258534430062
+bc645b001d4ec584afbf9728d89dc43d:mastodon:
+  spec:
+    title: ค้นหาบนพิสัยผ่านทวิภาวะจุด-เส้นตรง [neizod.dev]
+    url: https://neizod.dev/2024/02/02/duality-and-cutting-tree-for-range-searching.html
+  state:
+    id: '111882341023884751'
+    url: https://mastodon.in.th/@webring/111882341023884751
+bc645b001d4ec584afbf9728d89dc43d:shorturl:
+  spec:
+    url: https://neizod.dev/2024/02/02/duality-and-cutting-tree-for-range-searching.html
+  state:
+    shortLink: https://link.webring.in.th/1759
 bcd6fea4f538587ba93d9e1fb9769674:facebook:
   spec:
     title: Deploy Spring-Boot Application to Kubernetes(Minikube) with Jenkins CI/CD Pipeline [janescience.com]
