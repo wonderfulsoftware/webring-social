@@ -4254,6 +4254,25 @@
     url: https://blog.oatto.dev/2023/05/07/migrate-from-cra-to-vitejs.html
   state:
     shortLink: https://webring.page.link/PGRP
+4d1b930ea4f489c1d428db9a9b4ce5de:facebook:
+  spec:
+    title: รู้จักกับ Design Pattern - Creational (Part 1/3) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/design-pattern-creational/
+  state:
+    id: '100746876247412_352333207755928'
+    url: https://www.facebook.com/100683012920950/posts/352333207755928
+4d1b930ea4f489c1d428db9a9b4ce5de:mastodon:
+  spec:
+    title: รู้จักกับ Design Pattern - Creational (Part 1/3) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/design-pattern-creational/
+  state:
+    id: '111883055147911758'
+    url: https://mastodon.in.th/@webring/111883055147911758
+4d1b930ea4f489c1d428db9a9b4ce5de:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/design-pattern-creational/
+  state:
+    shortLink: https://link.webring.in.th/1760
 4d49000de0cac82eb1e7a7299b15f23b:facebook:
   spec:
     title: แนะนำ Tripster ทำยังไงให้ mint out ใน 45 นาที [mikkipastel.com]
