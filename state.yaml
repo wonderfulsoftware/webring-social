@@ -2620,6 +2620,25 @@
     url: https://mikelopster.dev/posts/diagram-basic/
   state:
     shortLink: https://link.webring.in.th/1744
+2d526a77d10ecbc7146fe0a6b75c536d:facebook:
+  spec:
+    title: '[PowerShell] Copy-Item: Error Container cannot be copied onto existing leaf item [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/02/powershell-copy-item-error-container-cannot-be-copied-onto-existing-leaf-item/
+  state:
+    id: '100746876247412_352407677748481'
+    url: https://www.facebook.com/100683012920950/posts/352407677748481
+2d526a77d10ecbc7146fe0a6b75c536d:mastodon:
+  spec:
+    title: '[PowerShell] Copy-Item: Error Container cannot be copied onto existing leaf item [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/02/powershell-copy-item-error-container-cannot-be-copied-onto-existing-leaf-item/
+  state:
+    id: '111883750425927381'
+    url: https://mastodon.in.th/@webring/111883750425927381
+2d526a77d10ecbc7146fe0a6b75c536d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/02/powershell-copy-item-error-container-cannot-be-copied-onto-existing-leaf-item/
+  state:
+    shortLink: https://link.webring.in.th/1761
 2d5b38d2e7ad2ff6bf80401221df90a4:facebook:
   spec:
     title: บันทึกการแก้ไขปัญหา SonarQube C# ทำงานนานน [debuggingsoft.com]
