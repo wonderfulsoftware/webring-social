@@ -3950,6 +3950,25 @@
     url: https://www.somkiat.cc/note-prompt-injection/
   state:
     shortLink: https://webring.page.link/rj8b
+48559af8f217b77f2e38101254f676bf:facebook:
+  spec:
+    title: LGTM stack จาก Grafana คืออะไร ? [somkiat.cc]
+    url: https://www.somkiat.cc/lgtm-stack-from-grafana/
+  state:
+    id: '100746876247412_352902561032326'
+    url: https://www.facebook.com/100683012920950/posts/352902561032326
+48559af8f217b77f2e38101254f676bf:mastodon:
+  spec:
+    title: LGTM stack จาก Grafana คืออะไร ? [somkiat.cc]
+    url: https://www.somkiat.cc/lgtm-stack-from-grafana/
+  state:
+    id: '111888004616970464'
+    url: https://mastodon.in.th/@webring/111888004616970464
+48559af8f217b77f2e38101254f676bf:shorturl:
+  spec:
+    url: https://www.somkiat.cc/lgtm-stack-from-grafana/
+  state:
+    shortLink: https://link.webring.in.th/1762
 485ad82277b3b122d18e2710f1b3b320:facebook:
   spec:
     title: รีวิว The Cloud Camp รุ่นที่ 1 ของ JumpBox [debuggingsoft.com]
