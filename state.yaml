@@ -8833,6 +8833,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/01/repurchase-agreement-repo/
   state:
     shortLink: https://webring.page.link/yF7P
+95c607d5cda0d42e196addf990606921:facebook:
+  spec:
+    title: Illustration - Dress Ako [lucian.solutions]
+    url: https://lucian.solutions/blog/202402-Ako
+  state:
+    id: '100746876247412_352976604358255'
+    url: https://www.facebook.com/100683012920950/posts/352976604358255
+95c607d5cda0d42e196addf990606921:mastodon:
+  spec:
+    title: Illustration - Dress Ako [lucian.solutions]
+    url: https://lucian.solutions/blog/202402-Ako
+  state:
+    id: '111888715880739371'
+    url: https://mastodon.in.th/@webring/111888715880739371
+95c607d5cda0d42e196addf990606921:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202402-Ako
+  state:
+    shortLink: https://link.webring.in.th/1763
 961df37c27144e7aa34705f2921a1df2:facebook:
   spec:
     title: แนะนำการใช้งาน Distributed Tracing ใน Spring Boot 3.2 [somkiat.cc]
