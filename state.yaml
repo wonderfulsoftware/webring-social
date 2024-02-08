@@ -2943,6 +2943,25 @@
     url: https://mikelopster.dev/posts/web-vitals/
   state:
     shortLink: https://link.webring.in.th/1731
+34152e4dd7cd9eae3273c0c1d3098614:facebook:
+  spec:
+    title: Illustration - ルシア👒#ツインテールの日 [lucian.solutions]
+    url: https://lucian.solutions/blog/202402-twintails-day-lucia
+  state:
+    id: '100746876247412_353625547626694'
+    url: https://www.facebook.com/100683012920950/posts/353625547626694
+34152e4dd7cd9eae3273c0c1d3098614:mastodon:
+  spec:
+    title: Illustration - ルシア👒#ツインテールの日 [lucian.solutions]
+    url: https://lucian.solutions/blog/202402-twintails-day-lucia
+  state:
+    id: '111894381326322356'
+    url: https://mastodon.in.th/@webring/111894381326322356
+34152e4dd7cd9eae3273c0c1d3098614:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202402-twintails-day-lucia
+  state:
+    shortLink: https://link.webring.in.th/1765
 342f7eddd66c5582137d612950428c73:facebook:
   spec:
     title: การตั้งค่า dockerfile และ docker-compose เพื่อรัน Node.js และ MongoDB บน Docker Container [toupawa.com]
