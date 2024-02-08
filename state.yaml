@@ -1119,6 +1119,25 @@
     url: https://garden.narze.live/Getting-full-Github-URL-of-the-latest-commit/
   state:
     shortLink: https://webring.page.link/zSGL
+15f6d4c93246913afa7fce1c9f912813:facebook:
+  spec:
+    title: ว่าด้วยเรื่องของ Cell-Based Architecture มันเป็นอย่างไร ? [somkiat.cc]
+    url: https://www.somkiat.cc/cell-based-architecture/
+  state:
+    id: '100746876247412_353710100951572'
+    url: https://www.facebook.com/100683012920950/posts/353710100951572
+15f6d4c93246913afa7fce1c9f912813:mastodon:
+  spec:
+    title: ว่าด้วยเรื่องของ Cell-Based Architecture มันเป็นอย่างไร ? [somkiat.cc]
+    url: https://www.somkiat.cc/cell-based-architecture/
+  state:
+    id: '111895077617626673'
+    url: https://mastodon.in.th/@webring/111895077617626673
+15f6d4c93246913afa7fce1c9f912813:shorturl:
+  spec:
+    url: https://www.somkiat.cc/cell-based-architecture/
+  state:
+    shortLink: https://link.webring.in.th/1766
 169cbce5953d60fb21cec9f1cabcdfe2:facebook:
   spec:
     title: COVID-19 First Time [debuggingsoft.com]
