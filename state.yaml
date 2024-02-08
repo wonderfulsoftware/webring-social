@@ -10410,6 +10410,25 @@ b2ade699ca93761a65f09ab9d47231c1:shorturl:
     url: https://www.llun.me/posts/ride/2024-02-04-heated-gloves
   state:
     shortLink: https://link.webring.in.th/1758
+b3e171947c05495f77fea92d1b8cf178:facebook:
+  spec:
+    title: Cannot connect Jenkins with GitLab (The project you were looking for could not be found or you don’t have permission) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/02/cannot-connect-jenkins-with-gitlab-the-project-you-were-looking-for-could-not-be-found-or-you-dont-have-permission/
+  state:
+    id: '100746876247412_353535177635731'
+    url: https://www.facebook.com/100683012920950/posts/353535177635731
+b3e171947c05495f77fea92d1b8cf178:mastodon:
+  spec:
+    title: Cannot connect Jenkins with GitLab (The project you were looking for could not be found or you don’t have permission) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/02/cannot-connect-jenkins-with-gitlab-the-project-you-were-looking-for-could-not-be-found-or-you-dont-have-permission/
+  state:
+    id: '111893665701934119'
+    url: https://mastodon.in.th/@webring/111893665701934119
+b3e171947c05495f77fea92d1b8cf178:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/02/cannot-connect-jenkins-with-gitlab-the-project-you-were-looking-for-could-not-be-found-or-you-dont-have-permission/
+  state:
+    shortLink: https://link.webring.in.th/1764
 b47b41b5411e568635b6c2936beeaad2:facebook:
   spec:
     title: น่าสนใจกับภาษา Gleam [somkiat.cc]
