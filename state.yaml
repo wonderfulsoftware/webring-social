@@ -2734,6 +2734,25 @@
     url: https://www.somkiat.cc/owasp-kubernetes-top-10/
   state:
     shortLink: https://webring.page.link/EAw9
+2e0db07785906e9510ce639ea307a591:facebook:
+  spec:
+    title: Redux และ React [mikelopster.dev]
+    url: https://mikelopster.dev/posts/react-redux/
+  state:
+    id: '100746876247412_354230814232834'
+    url: https://www.facebook.com/100683012920950/posts/354230814232834
+2e0db07785906e9510ce639ea307a591:mastodon:
+  spec:
+    title: Redux และ React [mikelopster.dev]
+    url: https://mikelopster.dev/posts/react-redux/
+  state:
+    id: '111899325088772585'
+    url: https://mastodon.in.th/@webring/111899325088772585
+2e0db07785906e9510ce639ea307a591:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/react-redux/
+  state:
+    shortLink: https://link.webring.in.th/1767
 2e36d527a9401e8f93378cd517afca1d:facebook:
   spec:
     title: Firestore [llun.me]
