@@ -7617,6 +7617,25 @@
     url: https://natdanai.me/tohoku-japan/
   state:
     shortLink: https://webring.page.link/1WYq
+8288e9991ebe4cc401bc354d973fb9c8:facebook:
+  spec:
+    title: Starbucks Reward 2024 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/02/starbucks-reward-2024/
+  state:
+    id: '100746876247412_354310040891578'
+    url: https://www.facebook.com/100683012920950/posts/354310040891578
+8288e9991ebe4cc401bc354d973fb9c8:mastodon:
+  spec:
+    title: Starbucks Reward 2024 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/02/starbucks-reward-2024/
+  state:
+    id: '111900040603510481'
+    url: https://mastodon.in.th/@webring/111900040603510481
+8288e9991ebe4cc401bc354d973fb9c8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/02/starbucks-reward-2024/
+  state:
+    shortLink: https://link.webring.in.th/1768
 82ad6b0ab8b4b97380f2cea4edb9b66b:facebook:
   spec:
     title: แชร์ประสบการณ์ การเรียนรู้เกือบทุกสิ่ง ฉบับนอกห้องเรียน [tinarskii.com]
