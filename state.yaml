@@ -13253,6 +13253,25 @@ e45e8be966d95d303e1a0c525d2c09af:shorturl:
     url: https://tech.duckfollow.co/view/sql
   state:
     shortLink: https://webring.page.link/M4Uz
+e49f6f8d26b8955ae3937a9c3158ac0e:facebook:
+  spec:
+    title: Illustration - ルシア👒龍の年 [lucian.solutions]
+    url: https://lucian.solutions/blog/202402-chinese-new-year-lucia
+  state:
+    id: '100746876247412_355582904097625'
+    url: https://www.facebook.com/100683012920950/posts/355582904097625
+e49f6f8d26b8955ae3937a9c3158ac0e:mastodon:
+  spec:
+    title: Illustration - ルシア👒龍の年 [lucian.solutions]
+    url: https://lucian.solutions/blog/202402-chinese-new-year-lucia
+  state:
+    id: '111910647724367189'
+    url: https://mastodon.in.th/@webring/111910647724367189
+e49f6f8d26b8955ae3937a9c3158ac0e:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202402-chinese-new-year-lucia
+  state:
+    shortLink: https://link.webring.in.th/1769
 e51dab2a8e47c25c57be8e37f55973ba:facebook:
   spec:
     title: Postman ใน VS Code กำลังมา [somkiat.cc]
