@@ -1651,6 +1651,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/07/db2-driver/
   state:
     shortLink: https://webring.page.link/R7if
+1cd77832718bd4a091bf577ffbaf405a:facebook:
+  spec:
+    title: How to connect to Cloud SQL from Cloud Run (no, you don't need a VPC) [karnwong.me]
+    url: https://karnwong.me/posts/2024/02/how-to-connect-to-cloud-sql-from-cloud-run/
+  state:
+    id: '100746876247412_355662567422992'
+    url: https://www.facebook.com/100683012920950/posts/355662567422992
+1cd77832718bd4a091bf577ffbaf405a:mastodon:
+  spec:
+    title: How to connect to Cloud SQL from Cloud Run (no, you don't need a VPC) [karnwong.me]
+    url: https://karnwong.me/posts/2024/02/how-to-connect-to-cloud-sql-from-cloud-run/
+  state:
+    id: '111911365477331615'
+    url: https://mastodon.in.th/@webring/111911365477331615
+1cd77832718bd4a091bf577ffbaf405a:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/02/how-to-connect-to-cloud-sql-from-cloud-run/
+  state:
+    shortLink: https://link.webring.in.th/1770
 1d0510cdc13188d655121e445da16c0f:facebook:
   spec:
     title: เรียนรู้การใช้งาน Strapi เบื้องต้น (find, findOne) [kajame.xyz]
