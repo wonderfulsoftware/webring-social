@@ -9840,6 +9840,25 @@ a51a992373d4e0f28f1e84418320f43c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/05/optimize-container-image-size/
   state:
     shortLink: https://webring.page.link/EvQH
+a5a875cbe75928bf4980d6daf25ce191:facebook:
+  spec:
+    title: 'TME2024: Xiaomi 13T Pro [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/02/tme2024-xiaomi-13t-pro/
+  state:
+    id: '100746876247412_356253564030559'
+    url: https://www.facebook.com/100683012920950/posts/356253564030559
+a5a875cbe75928bf4980d6daf25ce191:mastodon:
+  spec:
+    title: 'TME2024: Xiaomi 13T Pro [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/02/tme2024-xiaomi-13t-pro/
+  state:
+    id: '111916312090532646'
+    url: https://mastodon.in.th/@webring/111916312090532646
+a5a875cbe75928bf4980d6daf25ce191:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/02/tme2024-xiaomi-13t-pro/
+  state:
+    shortLink: https://link.webring.in.th/1771
 a5c0bfee23562431810f8fa395169ac4:facebook:
   spec:
     title: การทดสอบ Flutter app [somkiat.cc]
