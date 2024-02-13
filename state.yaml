@@ -1423,6 +1423,25 @@
     url: https://lucian.solutions/blog/thanks-for-playing-dpc2023
   state:
     shortLink: https://webring.page.link/HRQb
+1a571182a06c4f537a93a5791a70d0a5:facebook:
+  spec:
+    title: มาลองสร้าง Helm Chart กัน [trwkc.dev]
+    url: https://trwkc.dev/create-helm-chart-101/
+  state:
+    id: '100746876247412_357119653943950'
+    url: https://www.facebook.com/100683012920950/posts/357119653943950
+1a571182a06c4f537a93a5791a70d0a5:mastodon:
+  spec:
+    title: มาลองสร้าง Helm Chart กัน [trwkc.dev]
+    url: https://trwkc.dev/create-helm-chart-101/
+  state:
+    id: '111924122376075278'
+    url: https://mastodon.in.th/@webring/111924122376075278
+1a571182a06c4f537a93a5791a70d0a5:shorturl:
+  spec:
+    url: https://trwkc.dev/create-helm-chart-101/
+  state:
+    shortLink: https://link.webring.in.th/1775
 1a7c54285c4ad803faf120658dbcdee0:facebook:
   spec:
     title: Astro และ Static site generator [mikelopster.dev]
