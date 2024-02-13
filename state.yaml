@@ -4007,6 +4007,25 @@
     url: https://www.somkiat.cc/hello-agile-thailand-2023/
   state:
     shortLink: https://webring.page.link/RhkZ
+4798e051ae1a1c1ba9019f7802dd7529:facebook:
+  spec:
+    title: 'OpenRewrite :: สำหรับการ migrate ไปยัง Spring Boot 3.2 [somkiat.cc]'
+    url: https://www.somkiat.cc/openrewrite-migrate-to-spring-boot-3/
+  state:
+    id: '100746876247412_357034063952509'
+    url: https://www.facebook.com/100683012920950/posts/357034063952509
+4798e051ae1a1c1ba9019f7802dd7529:mastodon:
+  spec:
+    title: 'OpenRewrite :: สำหรับการ migrate ไปยัง Spring Boot 3.2 [somkiat.cc]'
+    url: https://www.somkiat.cc/openrewrite-migrate-to-spring-boot-3/
+  state:
+    id: '111923387598434724'
+    url: https://mastodon.in.th/@webring/111923387598434724
+4798e051ae1a1c1ba9019f7802dd7529:shorturl:
+  spec:
+    url: https://www.somkiat.cc/openrewrite-migrate-to-spring-boot-3/
+  state:
+    shortLink: https://link.webring.in.th/1774
 47a8664ebd1b6a6891f48cf8ff95250f:facebook:
   spec:
     title: บันทึกเกี่ยวกับ Prompt Injection [somkiat.cc]
