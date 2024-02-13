@@ -8548,6 +8548,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/01/install-excalidraw-self-hosted-docker/
   state:
     shortLink: https://link.webring.in.th/1732
+90b5325b88c0224232908a3e1cbec2cf:facebook:
+  spec:
+    title: รู้จักกับ Design Pattern - Structural (Part 2/3) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/design-pattern-structural/
+  state:
+    id: '100746876247412_356888890633693'
+    url: https://www.facebook.com/100683012920950/posts/356888890633693
+90b5325b88c0224232908a3e1cbec2cf:mastodon:
+  spec:
+    title: รู้จักกับ Design Pattern - Structural (Part 2/3) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/design-pattern-structural/
+  state:
+    id: '111921978319716768'
+    url: https://mastodon.in.th/@webring/111921978319716768
+90b5325b88c0224232908a3e1cbec2cf:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/design-pattern-structural/
+  state:
+    shortLink: https://link.webring.in.th/1772
 90c33c5e707e0c808f6e15d080c0d79f:facebook:
   spec:
     title: 'SOPS: Secrets OPerationS [jitrak.dev]'
