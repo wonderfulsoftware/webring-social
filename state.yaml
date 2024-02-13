@@ -9897,6 +9897,25 @@ a5c0bfee23562431810f8fa395169ac4:shorturl:
     url: https://www.somkiat.cc/testing-your-flutter-app/
   state:
     shortLink: https://webring.page.link/F2rX
+a633a338434b4ce11eb278231fdcdc72:facebook:
+  spec:
+    title: guregu/null เวอร์ชั่นใหม่หลังจากไม่มีการเคลื่อนไหวกว่า 4 ปี [anuwong.com]
+    url: https://www.anuwong.com/blog/guregu-null-v5-%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7/
+  state:
+    id: '100746876247412_356964157292833'
+    url: https://www.facebook.com/100683012920950/posts/356964157292833
+a633a338434b4ce11eb278231fdcdc72:mastodon:
+  spec:
+    title: guregu/null เวอร์ชั่นใหม่หลังจากไม่มีการเคลื่อนไหวกว่า 4 ปี [anuwong.com]
+    url: https://www.anuwong.com/blog/guregu-null-v5-%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7/
+  state:
+    id: '111922696958496750'
+    url: https://mastodon.in.th/@webring/111922696958496750
+a633a338434b4ce11eb278231fdcdc72:shorturl:
+  spec:
+    url: https://www.anuwong.com/blog/guregu-null-v5-%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7/
+  state:
+    shortLink: https://link.webring.in.th/1773
 a6f00d04c1278fbafdc08a775d1da62a:facebook:
   spec:
     title: 'Fixed Jenkins build error MSB4018: System.InvalidOperationException: Unable to set permission while creating /tmp/NuGetScratch [debuggingsoft.com]'
