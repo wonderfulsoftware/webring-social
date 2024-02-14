@@ -10657,6 +10657,25 @@ b534a5d73bd624f67b27fe8cd0bde7d6:shorturl:
     url: https://www.anuwong.com/blog/node-20-env-with-confident/
   state:
     shortLink: https://webring.page.link/Mr91
+b5b29ded477ceb16bdb6c51f734d8bdd:facebook:
+  spec:
+    title: สิ่งที่น่าสนใจใน Go 1.22.0 [somkiat.cc]
+    url: https://www.somkiat.cc/go-1-22-0/
+  state:
+    id: '100746876247412_357528287236420'
+    url: https://www.facebook.com/100683012920950/posts/357528287236420
+b5b29ded477ceb16bdb6c51f734d8bdd:mastodon:
+  spec:
+    title: สิ่งที่น่าสนใจใน Go 1.22.0 [somkiat.cc]
+    url: https://www.somkiat.cc/go-1-22-0/
+  state:
+    id: '111927640785339047'
+    url: https://mastodon.in.th/@webring/111927640785339047
+b5b29ded477ceb16bdb6c51f734d8bdd:shorturl:
+  spec:
+    url: https://www.somkiat.cc/go-1-22-0/
+  state:
+    shortLink: https://link.webring.in.th/1776
 b67c68ab72b1009cf2e73735c84dba8a:facebook:
   spec:
     title: ทดลองใช้ AI generate ภาพ แบบ text-to-image จากเว็บไซต์ต่าง ๆ [mikkipastel.com]
