@@ -587,6 +587,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/cr-starbucks-milk-pudding/
   state:
     shortLink: https://webring.page.link/sBWC
+0c4cd8d68932281c611d1b341714f8fe:facebook:
+  spec:
+    title: Install Proxmox [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/02/install-proxmox/
+  state:
+    id: '100746876247412_357611043894811'
+    url: https://www.facebook.com/100683012920950/posts/357611043894811
+0c4cd8d68932281c611d1b341714f8fe:mastodon:
+  spec:
+    title: Install Proxmox [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/02/install-proxmox/
+  state:
+    id: '111928355811153225'
+    url: https://mastodon.in.th/@webring/111928355811153225
+0c4cd8d68932281c611d1b341714f8fe:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/02/install-proxmox/
+  state:
+    shortLink: https://link.webring.in.th/1777
 0cbda8cf028fdba0f3a493c2ec41b5c5:facebook:
   spec:
     title: Moving data from one PostgreSQL database to another [dt.in.th]
