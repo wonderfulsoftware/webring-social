@@ -10277,6 +10277,25 @@ ac457515ee5e956d70f4ab6c93ee4ab4:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/04/how-to-fix-the-error-host-key-verification-failed/
   state:
     shortLink: https://webring.page.link/HscE
+ac53c77ae545084ecfde1bdb874ac9f5:facebook:
+  spec:
+    title: .NET 9 preview 1 มาแล้ว ลองเล่นกัน [somkiat.cc]
+    url: https://www.somkiat.cc/net-9-preview-1/
+  state:
+    id: '100746876247412_358206860501896'
+    url: https://www.facebook.com/100683012920950/posts/358206860501896
+ac53c77ae545084ecfde1bdb874ac9f5:mastodon:
+  spec:
+    title: .NET 9 preview 1 มาแล้ว ลองเล่นกัน [somkiat.cc]
+    url: https://www.somkiat.cc/net-9-preview-1/
+  state:
+    id: '111933302911698531'
+    url: https://mastodon.in.th/@webring/111933302911698531
+ac53c77ae545084ecfde1bdb874ac9f5:shorturl:
+  spec:
+    url: https://www.somkiat.cc/net-9-preview-1/
+  state:
+    shortLink: https://link.webring.in.th/1778
 aca5605a7c6d9434f9f9d8bee09eff8f:facebook:
   spec:
     title: ลองใช้งาน Go Vulnerability Management ในการตรวจสอบเรื่องความปลอดภัย [somkiat.cc]
