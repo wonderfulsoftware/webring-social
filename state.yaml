@@ -10182,6 +10182,25 @@ aab344661da8a53a3aac248bfedc54d3:shorturl:
     url: https://garden.narze.live/100daysofcode-r3-69-garden-astro-replace-degit-with-octokit/
   state:
     shortLink: https://webring.page.link/5XFi
+aaf877059c5822ad544decf67851c49d:facebook:
+  spec:
+    title: รู้จักกับ Auth0 [mikelopster.dev]
+    url: https://mikelopster.dev/posts/auth0-basic/
+  state:
+    id: '100746876247412_358835247105724'
+    url: https://www.facebook.com/100683012920950/posts/358835247105724
+aaf877059c5822ad544decf67851c49d:mastodon:
+  spec:
+    title: รู้จักกับ Auth0 [mikelopster.dev]
+    url: https://mikelopster.dev/posts/auth0-basic/
+  state:
+    id: '111938966254263530'
+    url: https://mastodon.in.th/@webring/111938966254263530
+aaf877059c5822ad544decf67851c49d:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/auth0-basic/
+  state:
+    shortLink: https://link.webring.in.th/1779
 ab4df5526e56d1472f72d0ed3efb9755:facebook:
   spec:
     title: '[CR] ข้าวหมูย่างเกลือของดีประจำ 711 [debuggingsoft.com]'
