@@ -3684,6 +3684,25 @@
     url: https://kajame.xyz/blog/react-native-using-login-with-facebook
   state:
     shortLink: https://webring.page.link/uZyQ
+3f26a43b1cc65ce9d45626a0b0c39057:facebook:
+  spec:
+    title: 'Million snippets: NextJS Tailwind configuration [rayriffy.com]'
+    url: https://rayriffy.com/garden/million-next-tailwind/
+  state:
+    id: '100746876247412_359584087030840'
+    url: https://www.facebook.com/100683012920950/posts/359584087030840
+3f26a43b1cc65ce9d45626a0b0c39057:mastodon:
+  spec:
+    title: 'Million snippets: NextJS Tailwind configuration [rayriffy.com]'
+    url: https://rayriffy.com/garden/million-next-tailwind/
+  state:
+    id: '111946032351754402'
+    url: https://mastodon.in.th/@webring/111946032351754402
+3f26a43b1cc65ce9d45626a0b0c39057:shorturl:
+  spec:
+    url: https://rayriffy.com/garden/million-next-tailwind/
+  state:
+    shortLink: https://link.webring.in.th/1782
 3fb62e2ce3266561b8c48a32e2561455:facebook:
   spec:
     title: 71 - ChatOS - Setup Firebase Emulator [garden.narze.live]
