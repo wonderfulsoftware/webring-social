@@ -13348,6 +13348,25 @@ e2b9454591bd41eb9cdeea3a0a83b0c8:shorturl:
     url: https://neizod.dev/2023/06/30/solve-system-of-linear-equation-with-determinant.html
   state:
     shortLink: https://webring.page.link/4G2p
+e3673cb87468cc33e02ff5f0ea77c92b:facebook:
+  spec:
+    title: Illustration - メイドバレンタイン2024 [lucian.solutions]
+    url: https://lucian.solutions/blog/202402-valentine-maid-lucia
+  state:
+    id: '100746876247412_360112303644685'
+    url: https://www.facebook.com/100683012920950/posts/360112303644685
+e3673cb87468cc33e02ff5f0ea77c92b:mastodon:
+  spec:
+    title: Illustration - メイドバレンタイン2024 [lucian.solutions]
+    url: https://lucian.solutions/blog/202402-valentine-maid-lucia
+  state:
+    id: '111951000932874908'
+    url: https://mastodon.in.th/@webring/111951000932874908
+e3673cb87468cc33e02ff5f0ea77c92b:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202402-valentine-maid-lucia
+  state:
+    shortLink: https://link.webring.in.th/1784
 e387e1e62a27db5dc3c2ce0a2a983f57:facebook:
   spec:
     title: '[CR] Starbucks-Emperor’s Clouds & Mist Tea [debuggingsoft.com]'
