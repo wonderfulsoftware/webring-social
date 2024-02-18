@@ -11733,6 +11733,25 @@ c735dcd66b48bc76ae3c913e013e276e:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/01/how-to-redo-text-on-notepad/
   state:
     shortLink: https://webring.page.link/46Nt
+c7e81d23ce19b1af0e9ec1e0e3ad0c5d:facebook:
+  spec:
+    title: '[CR] Starbucks Double Chocolate Pain Suisse [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/02/cr-starbucks-double-chocolate-pain-suisse/
+  state:
+    id: '100746876247412_360040213651894'
+    url: https://www.facebook.com/100683012920950/posts/360040213651894
+c7e81d23ce19b1af0e9ec1e0e3ad0c5d:mastodon:
+  spec:
+    title: '[CR] Starbucks Double Chocolate Pain Suisse [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/02/cr-starbucks-double-chocolate-pain-suisse/
+  state:
+    id: '111950284462324789'
+    url: https://mastodon.in.th/@webring/111950284462324789
+c7e81d23ce19b1af0e9ec1e0e3ad0c5d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/02/cr-starbucks-double-chocolate-pain-suisse/
+  state:
+    shortLink: https://link.webring.in.th/1783
 c860c0569cde5bd92e5079e8c396ff8e:facebook:
   spec:
     title: Simplicity fallacy of "Just use X (for everything)" [chrisza.me]
