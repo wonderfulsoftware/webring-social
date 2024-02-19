@@ -9061,6 +9061,25 @@
     url: https://www.somkiat.cc/distributed-tracing-in-spring-boot-3-2/
   state:
     shortLink: https://webring.page.link/o5qM
+96526ce6faeec631f7b3c0522b6b1ef6:facebook:
+  spec:
+    title: 'Microsoft Applied Skills: Develop an ASP.NET Core web app that consumes an API [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/02/microsoft-applied-skills-develop-an-asp-net-core-web-app-that-consumes-an-api/
+  state:
+    id: '100746876247412_360710336918215'
+    url: https://www.facebook.com/100683012920950/posts/360710336918215
+96526ce6faeec631f7b3c0522b6b1ef6:mastodon:
+  spec:
+    title: 'Microsoft Applied Skills: Develop an ASP.NET Core web app that consumes an API [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/02/microsoft-applied-skills-develop-an-asp-net-core-web-app-that-consumes-an-api/
+  state:
+    id: '111956667642113155'
+    url: https://mastodon.in.th/@webring/111956667642113155
+96526ce6faeec631f7b3c0522b6b1ef6:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/02/microsoft-applied-skills-develop-an-asp-net-core-web-app-that-consumes-an-api/
+  state:
+    shortLink: https://link.webring.in.th/1786
 96f7739f7435b2722c08ff63bcecad53:facebook:
   spec:
     title: ว่าด้วยเรื่อง cURL ใช้อย่างไรให้ Pro ใช้อย่างไรถึงจะ Cool [poolsawat.com]
