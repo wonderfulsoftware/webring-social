@@ -8814,6 +8814,25 @@
     url: https://www.somkiat.cc/java-21-launch-event/
   state:
     shortLink: https://webring.page.link/jBKC
+92e94e52c63dd1e0525626fd72632571:facebook:
+  spec:
+    title: 'น่าสนใจกับ Safetest : Next Generation UI Testing Library [somkiat.cc]'
+    url: https://www.somkiat.cc/safetest-next-generation-ui-testing-library/
+  state:
+    id: '100746876247412_360781610244421'
+    url: https://www.facebook.com/100683012920950/posts/360781610244421
+92e94e52c63dd1e0525626fd72632571:mastodon:
+  spec:
+    title: 'น่าสนใจกับ Safetest : Next Generation UI Testing Library [somkiat.cc]'
+    url: https://www.somkiat.cc/safetest-next-generation-ui-testing-library/
+  state:
+    id: '111957364365772529'
+    url: https://mastodon.in.th/@webring/111957364365772529
+92e94e52c63dd1e0525626fd72632571:shorturl:
+  spec:
+    url: https://www.somkiat.cc/safetest-next-generation-ui-testing-library/
+  state:
+    shortLink: https://link.webring.in.th/1787
 92fd9ef4fe49ca5369504f2e8cf0470b:facebook:
   spec:
     title: JWT ด้วย Node.js [tech.duckfollow.co]
