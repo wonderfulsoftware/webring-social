@@ -7902,6 +7902,25 @@
     url: https://www.karnwong.me/posts/2023/04/kubernetes-with-grafana-cloud/
   state:
     shortLink: https://webring.page.link/BfLw
+84df2e69a7d4306e24fdc6c0a040a9c7:facebook:
+  spec:
+    title: รู้จักกับ Design Pattern - Behavioral (Part 3/3) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/design-pattern-behavioral/
+  state:
+    id: '100746876247412_361240543531861'
+    url: https://www.facebook.com/100683012920950/posts/361240543531861
+84df2e69a7d4306e24fdc6c0a040a9c7:mastodon:
+  spec:
+    title: รู้จักกับ Design Pattern - Behavioral (Part 3/3) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/design-pattern-behavioral/
+  state:
+    id: '111961611695034596'
+    url: https://mastodon.in.th/@webring/111961611695034596
+84df2e69a7d4306e24fdc6c0a040a9c7:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/design-pattern-behavioral/
+  state:
+    shortLink: https://link.webring.in.th/1788
 84fcb6eb24e640f662b8df6ab6c9e0f0:facebook:
   spec:
     title: Terraform RDS module with DNS setup [karnwong.me]
