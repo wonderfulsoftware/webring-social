@@ -11581,6 +11581,25 @@ c3da7a07f3a14049fe1ad27366faad33:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/06/jenkins-git-parameter-filter-branch-name/
   state:
     shortLink: https://webring.page.link/oLsG
+c448996e45d208cd178b210b5e25e2ab:facebook:
+  spec:
+    title: 'Tip :: ใช้งาน Asynchronous logging ใน Java [somkiat.cc]'
+    url: https://www.somkiat.cc/asynchronous-logging-in-java/
+  state:
+    id: '100746876247412_361812273474688'
+    url: https://www.facebook.com/100683012920950/posts/361812273474688
+c448996e45d208cd178b210b5e25e2ab:mastodon:
+  spec:
+    title: 'Tip :: ใช้งาน Asynchronous logging ใน Java [somkiat.cc]'
+    url: https://www.somkiat.cc/asynchronous-logging-in-java/
+  state:
+    id: '111967272326037613'
+    url: https://mastodon.in.th/@webring/111967272326037613
+c448996e45d208cd178b210b5e25e2ab:shorturl:
+  spec:
+    url: https://www.somkiat.cc/asynchronous-logging-in-java/
+  state:
+    shortLink: https://link.webring.in.th/1789
 c4bc6a941df1a17cd83aea42714f85aa:facebook:
   spec:
     title: 'เรื่องที่น่าสนใจจาก Prime Video​ :: สำหรับการ Rearchitecture ของระบบ VDO monitoring [somkiat.cc]'
