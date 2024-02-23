@@ -12797,6 +12797,25 @@ d656bec609fc7f1e7c0dcb206c9dacff:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week03/
   state:
     shortLink: https://webring.page.link/6nh9
+d659ac62b3e1fae60257d3b3447aaae6:facebook:
+  spec:
+    title: ทำ Rate limit ใน express ด้วย express-rate-limit [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/express-rate-limit
+  state:
+    id: '100746876247412_362955560027026'
+    url: https://www.facebook.com/100683012920950/posts/362955560027026
+d659ac62b3e1fae60257d3b3447aaae6:mastodon:
+  spec:
+    title: ทำ Rate limit ใน express ด้วย express-rate-limit [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/express-rate-limit
+  state:
+    id: '111978597671634115'
+    url: https://mastodon.in.th/@webring/111978597671634115
+d659ac62b3e1fae60257d3b3447aaae6:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/2024/express-rate-limit
+  state:
+    shortLink: https://link.webring.in.th/1790
 d6a35221f6cfb34ebfb9500385db369c:facebook:
   spec:
     title: The HustleGPT challenge [dt.in.th]
