@@ -739,6 +739,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/07/install-openssh-server-on-windows-11-10/
   state:
     shortLink: https://webring.page.link/Hrph
+0ecd6b2e5eabcc310ed76d3a98d6ab89:facebook:
+  spec:
+    title: '[CR] Starbucks Croque Monsieur [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/02/cr-starbucks-croque-monsieur/
+  state:
+    id: '100746876247412_363173210005261'
+    url: https://www.facebook.com/100683012920950/posts/363173210005261
+0ecd6b2e5eabcc310ed76d3a98d6ab89:mastodon:
+  spec:
+    title: '[CR] Starbucks Croque Monsieur [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/02/cr-starbucks-croque-monsieur/
+  state:
+    id: '111980745516683666'
+    url: https://mastodon.in.th/@webring/111980745516683666
+0ecd6b2e5eabcc310ed76d3a98d6ab89:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/02/cr-starbucks-croque-monsieur/
+  state:
+    shortLink: https://link.webring.in.th/1793
 0f805c1f0f69a66b260d489b0d0eec5e:facebook:
   spec:
     title: changesets warn received 404 for npm info on pre-release [nitpum.com]
