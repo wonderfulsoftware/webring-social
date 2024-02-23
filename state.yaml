@@ -1,3 +1,22 @@
+009334e858441bd60d9eb2cff63a6413:facebook:
+  spec:
+    title: รู้จักกับ Prisma ORM [mikelopster.dev]
+    url: https://mikelopster.dev/posts/next-prisma/
+  state:
+    id: '100746876247412_363022396687009'
+    url: https://www.facebook.com/100683012920950/posts/363022396687009
+009334e858441bd60d9eb2cff63a6413:mastodon:
+  spec:
+    title: รู้จักกับ Prisma ORM [mikelopster.dev]
+    url: https://mikelopster.dev/posts/next-prisma/
+  state:
+    id: '111979316043159081'
+    url: https://mastodon.in.th/@webring/111979316043159081
+009334e858441bd60d9eb2cff63a6413:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/next-prisma/
+  state:
+    shortLink: https://link.webring.in.th/1791
 00b1fdb50a3882fcde547f2a9abfd4cb:facebook:
   spec:
     title: '[AWS-IoT] เรียกใช้ AWS Services ผ่าน Device Certificate X.509 โดยใช้ Credential-Provider [1] [thanapon.info]'
