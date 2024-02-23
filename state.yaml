@@ -11714,6 +11714,25 @@ c56e5547bb9ae969baa17ee2f8911eda:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-feature-raw-string-literals-is-not-available-please-use-language-version-11-0-or-greater/
   state:
     shortLink: https://webring.page.link/kct9
+c58de564980edc168d8f2d81e566b9b0:facebook:
+  spec:
+    title: น่าสนใจกับแนวทางของการพัฒนา Software [somkiat.cc]
+    url: https://www.somkiat.cc/software-development-2024/
+  state:
+    id: '100746876247412_363092080013374'
+    url: https://www.facebook.com/100683012920950/posts/363092080013374
+c58de564980edc168d8f2d81e566b9b0:mastodon:
+  spec:
+    title: น่าสนใจกับแนวทางของการพัฒนา Software [somkiat.cc]
+    url: https://www.somkiat.cc/software-development-2024/
+  state:
+    id: '111980009637265242'
+    url: https://mastodon.in.th/@webring/111980009637265242
+c58de564980edc168d8f2d81e566b9b0:shorturl:
+  spec:
+    url: https://www.somkiat.cc/software-development-2024/
+  state:
+    shortLink: https://link.webring.in.th/1792
 c600cc4e7554cf1b59ed8c065e390abf:facebook:
   spec:
     title: Outward Mindset คืออะไร มาทำความรู้จักกัน [mikkipastel.com]
