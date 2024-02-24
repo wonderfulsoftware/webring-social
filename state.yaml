@@ -530,6 +530,25 @@
     url: https://neizod.dev/2023/11/04/sine-cosine-to-the-odd-power.html
   state:
     shortLink: https://webring.page.link/Bg9D
+0af16558d51f741230450b763cd4c084:facebook:
+  spec:
+    title: อัพเดตเทรนคริปโตกับงาน Digital Assets Navigator ของ Bitkub [mikkipastel.com]
+    url: https://www.mikkipastel.com/digital-assets-navigator-bitkub/
+  state:
+    id: '100746876247412_363619529960629'
+    url: https://www.facebook.com/100683012920950/posts/363619529960629
+0af16558d51f741230450b763cd4c084:mastodon:
+  spec:
+    title: อัพเดตเทรนคริปโตกับงาน Digital Assets Navigator ของ Bitkub [mikkipastel.com]
+    url: https://www.mikkipastel.com/digital-assets-navigator-bitkub/
+  state:
+    id: '111984972841714333'
+    url: https://mastodon.in.th/@webring/111984972841714333
+0af16558d51f741230450b763cd4c084:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/digital-assets-navigator-bitkub/
+  state:
+    shortLink: https://link.webring.in.th/1795
 0b6b5210b72bf25f93c1e92d1943e83c:facebook:
   spec:
     title: Illustration - クルミ隊 💛❤️💙 [lucian.solutions]
