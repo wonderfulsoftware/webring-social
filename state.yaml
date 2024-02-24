@@ -10973,6 +10973,25 @@ b80293172a4a4a01810f23686a154ae3:shorturl:
     url: https://garden.narze.live/100daysofcode-r3-74-chatos-merge-guest-chat-logs/
   state:
     shortLink: https://webring.page.link/gQRx
+b85adc3f8b81682910d041c22d6654c8:facebook:
+  spec:
+    title: ทำความรู้จักกับ Backstage สำหรับทำ software catalog [somkiat.cc]
+    url: https://www.somkiat.cc/service-catalog-with-backstage/
+  state:
+    id: '100746876247412_363552639967318'
+    url: https://www.facebook.com/100683012920950/posts/363552639967318
+b85adc3f8b81682910d041c22d6654c8:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Backstage สำหรับทำ software catalog [somkiat.cc]
+    url: https://www.somkiat.cc/service-catalog-with-backstage/
+  state:
+    id: '111984274048344630'
+    url: https://mastodon.in.th/@webring/111984274048344630
+b85adc3f8b81682910d041c22d6654c8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/service-catalog-with-backstage/
+  state:
+    shortLink: https://link.webring.in.th/1794
 b878507b32358ac312da8df6c23db94c:facebook:
   spec:
     title: C# Return multiple values from method [debuggingsoft.com]
