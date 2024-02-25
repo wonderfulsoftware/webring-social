@@ -11752,6 +11752,25 @@ c4ff1386abb8c0745cb58032ae85937a:shorturl:
     url: https://www.somkiat.cc/redis-usecase/
   state:
     shortLink: https://webring.page.link/j5Zo
+c53480935239aea00593c21257e3b9af:facebook:
+  spec:
+    title: Illustration - ムツキ(ドレス) [lucian.solutions]
+    url: https://lucian.solutions/blog/202402-mutsuki
+  state:
+    id: '100746876247412_364139066575342'
+    url: https://www.facebook.com/100683012920950/posts/364139066575342
+c53480935239aea00593c21257e3b9af:mastodon:
+  spec:
+    title: Illustration - ムツキ(ドレス) [lucian.solutions]
+    url: https://lucian.solutions/blog/202402-mutsuki
+  state:
+    id: '111989923086390733'
+    url: https://mastodon.in.th/@webring/111989923086390733
+c53480935239aea00593c21257e3b9af:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202402-mutsuki
+  state:
+    shortLink: https://link.webring.in.th/1796
 c56e5547bb9ae969baa17ee2f8911eda:facebook:
   spec:
     title: 'How to Fixed: Feature ‘raw string literals’ is not available. Please use language version 11.0 or greater [debuggingsoft.com]'
