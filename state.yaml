@@ -1442,6 +1442,25 @@
     url: https://www.somkiat.cc/ephemeral-environment/
   state:
     shortLink: https://webring.page.link/ETja
+19bb8087fd42937bba2bad8e8cbf2c3c:facebook:
+  spec:
+    title: บวกเลขโดยไม่ใช้เครื่องหมายบวก [neizod.dev]
+    url: https://neizod.dev/2024/02/25/adding-without-plus-sign.html
+  state:
+    id: '100746876247412_364812433174672'
+    url: https://www.facebook.com/100683012920950/posts/364812433174672
+19bb8087fd42937bba2bad8e8cbf2c3c:mastodon:
+  spec:
+    title: บวกเลขโดยไม่ใช้เครื่องหมายบวก [neizod.dev]
+    url: https://neizod.dev/2024/02/25/adding-without-plus-sign.html
+  state:
+    id: '111996304637604822'
+    url: https://mastodon.in.th/@webring/111996304637604822
+19bb8087fd42937bba2bad8e8cbf2c3c:shorturl:
+  spec:
+    url: https://neizod.dev/2024/02/25/adding-without-plus-sign.html
+  state:
+    shortLink: https://link.webring.in.th/1798
 19be785ee625b30a7ebcde2854458d1d:facebook:
   spec:
     title: 76 - garden-astro - Setup Giscus [garden.narze.live]
