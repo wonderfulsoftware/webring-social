@@ -1860,6 +1860,25 @@
     url: https://www.somkiat.cc/resource-saver-mode-in-docker-destop/
   state:
     shortLink: https://webring.page.link/bySb
+1e6ff86ba8395dd46c86e71a6ef1ef26:facebook:
+  spec:
+    title: gql.tada ชีวิตไม่ง้อ codegen [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/gql-tada/
+  state:
+    id: '100746876247412_364744743181441'
+    url: https://www.facebook.com/100683012920950/posts/364744743181441
+1e6ff86ba8395dd46c86e71a6ef1ef26:mastodon:
+  spec:
+    title: gql.tada ชีวิตไม่ง้อ codegen [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/gql-tada/
+  state:
+    id: '111995587470802228'
+    url: https://mastodon.in.th/@webring/111995587470802228
+1e6ff86ba8395dd46c86e71a6ef1ef26:shorturl:
+  spec:
+    url: https://tantatorn.xyz/posts/gql-tada/
+  state:
+    shortLink: https://link.webring.in.th/1797
 1ea3c61aaf4e1f231dbb4bde7b7d5b71:facebook:
   spec:
     title: แหกแล้วได้เสื้อ กับการแชร์ประสบการณ์ Hacktoberfest Thailand 2023 [tinarskii.com]
