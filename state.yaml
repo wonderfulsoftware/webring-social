@@ -1480,6 +1480,25 @@
     url: https://garden.narze.live/100daysofcode-r3-76-garden-astro-setup-giscus/
   state:
     shortLink: https://webring.page.link/LFxN
+19c914b89366a0e0086581b64a51ce78:facebook:
+  spec:
+    title: สรุปจากการอ่านเรื่อง Value-Driven Design (VDD) [somkiat.cc]
+    url: https://www.somkiat.cc/note-value-driven-design/
+  state:
+    id: '100746876247412_365396516449597'
+    url: https://www.facebook.com/100683012920950/posts/365396516449597
+19c914b89366a0e0086581b64a51ce78:mastodon:
+  spec:
+    title: สรุปจากการอ่านเรื่อง Value-Driven Design (VDD) [somkiat.cc]
+    url: https://www.somkiat.cc/note-value-driven-design/
+  state:
+    id: '112001961523211745'
+    url: https://mastodon.in.th/@webring/112001961523211745
+19c914b89366a0e0086581b64a51ce78:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-value-driven-design/
+  state:
+    shortLink: https://link.webring.in.th/1800
 1a2d9dc90ce4d3cc8688d0ab30d25029:facebook:
   spec:
     title: นั่งรถเมล์ฟรีช่วงปีใหม่สาย 4-41 (57) วงกลมตลิ่งชัน-ธนบุรี [debuggingsoft.com]
