@@ -13975,6 +13975,25 @@ e8ea24902eaa1a6b8ab90bef703fb0fb:shorturl:
     url: https://www.karnwong.me/posts/2023/08/spatial-data-to-qgis-server-playbook-yes-this-is-for-prod/
   state:
     shortLink: https://webring.page.link/H1ra
+e93962e1e1574b0127444f3d91bebaa5:facebook:
+  spec:
+    title: เมื่อ DEV ลองไป Workshop Business Continuity Planning and Disaster Recovery for Azure Workload [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/02/developer-take-workshop-business-continuity-planning-and-disaster-recovery-for-azure-workload/
+  state:
+    id: '100746876247412_365330146456234'
+    url: https://www.facebook.com/100683012920950/posts/365330146456234
+e93962e1e1574b0127444f3d91bebaa5:mastodon:
+  spec:
+    title: เมื่อ DEV ลองไป Workshop Business Continuity Planning and Disaster Recovery for Azure Workload [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/02/developer-take-workshop-business-continuity-planning-and-disaster-recovery-for-azure-workload/
+  state:
+    id: '112001250248914042'
+    url: https://mastodon.in.th/@webring/112001250248914042
+e93962e1e1574b0127444f3d91bebaa5:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/02/developer-take-workshop-business-continuity-planning-and-disaster-recovery-for-azure-workload/
+  state:
+    shortLink: https://link.webring.in.th/1799
 e98225653ec2dc395aed60f883d0bebf:facebook:
   spec:
     title: Auto-merging dependabot PRs [dt.in.th]
