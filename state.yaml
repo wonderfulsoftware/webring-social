@@ -3399,6 +3399,25 @@
     url: https://www.somkiat.cc/problem-mvnw-not-found-with-docker-windows/
   state:
     shortLink: https://webring.page.link/NGjm
+3815293508540a4e10679508ab4ceb80:facebook:
+  spec:
+    title: ลองใช้ GCP RuntimeConfig [anewlife.dev]
+    url: https://www.anewlife.dev/post/try-gcp-runtimeconfig/
+  state:
+    id: '100746876247412_366459449676637'
+    url: https://www.facebook.com/100683012920950/posts/366459449676637
+3815293508540a4e10679508ab4ceb80:mastodon:
+  spec:
+    title: ลองใช้ GCP RuntimeConfig [anewlife.dev]
+    url: https://www.anewlife.dev/post/try-gcp-runtimeconfig/
+  state:
+    id: '112012574054629311'
+    url: https://mastodon.in.th/@webring/112012574054629311
+3815293508540a4e10679508ab4ceb80:shorturl:
+  spec:
+    url: https://www.anewlife.dev/post/try-gcp-runtimeconfig/
+  state:
+    shortLink: https://link.webring.in.th/1801
 3855b574765ad0ebdd57bd97bf918d5c:facebook:
   spec:
     title: 70 - garden-astro - Test image links [garden.narze.live]
