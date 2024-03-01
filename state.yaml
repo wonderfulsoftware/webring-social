@@ -7997,6 +7997,25 @@
     url: https://www.somkiat.cc/pythagora-for-integration-test-with-express/
   state:
     shortLink: https://webring.page.link/erg2
+8493735f57d2528a621eed11d0e38f1e:facebook:
+  spec:
+    title: 'สรุป DevClub#3: Observability [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/02/devclub3-observability-lgtm-stack-datadog-at-justco/
+  state:
+    id: '100746876247412_367032326286016'
+    url: https://www.facebook.com/100683012920950/posts/367032326286016
+8493735f57d2528a621eed11d0e38f1e:mastodon:
+  spec:
+    title: 'สรุป DevClub#3: Observability [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/02/devclub3-observability-lgtm-stack-datadog-at-justco/
+  state:
+    id: '112018244973149401'
+    url: https://mastodon.in.th/@webring/112018244973149401
+8493735f57d2528a621eed11d0e38f1e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/02/devclub3-observability-lgtm-stack-datadog-at-justco/
+  state:
+    shortLink: https://link.webring.in.th/1802
 84c741a6ac2a29c94c27e12bc06125cf:facebook:
   spec:
     title: Why your Quarkus reactive codes are not executing? [guitarpawat.me]
