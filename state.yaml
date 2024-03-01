@@ -9346,6 +9346,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/dockerfile-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-net6-db2/
   state:
     shortLink: https://webring.page.link/2vpC
+98ffa3d5a897d91dbc03e853dd42d888:facebook:
+  spec:
+    title: สร้างวงจร XOR จาก NAND เพียงแค่สี่ตัว [neizod.dev]
+    url: https://neizod.dev/2024/02/29/xor-from-4-nands.html
+  state:
+    id: '100746876247412_367101679612414'
+    url: https://www.facebook.com/100683012920950/posts/367101679612414
+98ffa3d5a897d91dbc03e853dd42d888:mastodon:
+  spec:
+    title: สร้างวงจร XOR จาก NAND เพียงแค่สี่ตัว [neizod.dev]
+    url: https://neizod.dev/2024/02/29/xor-from-4-nands.html
+  state:
+    id: '112018952759245554'
+    url: https://mastodon.in.th/@webring/112018952759245554
+98ffa3d5a897d91dbc03e853dd42d888:shorturl:
+  spec:
+    url: https://neizod.dev/2024/02/29/xor-from-4-nands.html
+  state:
+    shortLink: https://link.webring.in.th/1803
 99009d41dfb8c36858a412ee871a43b0:facebook:
   spec:
     title: Hassle-free Kubernetes monitoring with Coroot [karnwong.me]
