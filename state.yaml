@@ -14994,6 +14994,25 @@ f8aa409e478c1a06ac5c2a6d5781269d:shorturl:
     url: https://yothinix.com/detailing-journey/
   state:
     shortLink: https://webring.page.link/gt15
+f8ad872b85cdc856802d713c5248c9ee:facebook:
+  spec:
+    title: รูปแบบของการออกแบบ Service ที่แปลก ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/antipattern-architecture/
+  state:
+    id: '100746876247412_367921486197100'
+    url: https://www.facebook.com/100683012920950/posts/367921486197100
+f8ad872b85cdc856802d713c5248c9ee:mastodon:
+  spec:
+    title: รูปแบบของการออกแบบ Service ที่แปลก ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/antipattern-architecture/
+  state:
+    id: '112026721302543231'
+    url: https://mastodon.in.th/@webring/112026721302543231
+f8ad872b85cdc856802d713c5248c9ee:shorturl:
+  spec:
+    url: https://www.somkiat.cc/antipattern-architecture/
+  state:
+    shortLink: https://link.webring.in.th/1808
 f8bb499c819f9cf6b1f1fce97f9ba6d2:facebook:
   spec:
     title: ค้นหาบนพิสัยผ่านการแบ่งพาร์ทิชันด้วยซิมเพล็กซ์ [neizod.dev]
