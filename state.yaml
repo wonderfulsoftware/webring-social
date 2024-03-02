@@ -15260,6 +15260,25 @@ fd4b806a1ef371b85bf738f4a8699837:shorturl:
     url: https://karnwong.me/posts/2023/11/serverless-real-time-machine-learning-inference-with-aws/
   state:
     shortLink: https://webring.page.link/RM8m
+fe7c16dc875d352211a3eed6cb150a6a:facebook:
+  spec:
+    title: 'Tutorial: สร้าง Blog ด้วย WordPress.com [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/tutorial-blogging-with-wordpress-com/
+  state:
+    id: '100746876247412_367832259539356'
+    url: https://www.facebook.com/100683012920950/posts/367832259539356
+fe7c16dc875d352211a3eed6cb150a6a:mastodon:
+  spec:
+    title: 'Tutorial: สร้าง Blog ด้วย WordPress.com [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/tutorial-blogging-with-wordpress-com/
+  state:
+    id: '112026037924309997'
+    url: https://mastodon.in.th/@webring/112026037924309997
+fe7c16dc875d352211a3eed6cb150a6a:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/tutorial-blogging-with-wordpress-com/
+  state:
+    shortLink: https://link.webring.in.th/1807
 ff1a08452a4f002b3d483fa32639fb1d:facebook:
   spec:
     title: ข้อมูลการใช้งานของ Stack Overflow [somkiat.cc]
