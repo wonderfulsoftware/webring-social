@@ -4292,6 +4292,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week05-docker-compose/
   state:
     shortLink: https://webring.page.link/QgkH
+493355bf3669ed864b7915de434ed11f:facebook:
+  spec:
+    title: เล่าประสบการณ์การทำ Github Actions ของงาน Compose Battle [mikkipastel.com]
+    url: https://www.mikkipastel.com/github-action-android-compose-battle/
+  state:
+    id: '100746876247412_367756489546933'
+    url: https://www.facebook.com/100683012920950/posts/367756489546933
+493355bf3669ed864b7915de434ed11f:mastodon:
+  spec:
+    title: เล่าประสบการณ์การทำ Github Actions ของงาน Compose Battle [mikkipastel.com]
+    url: https://www.mikkipastel.com/github-action-android-compose-battle/
+  state:
+    id: '112025305447637559'
+    url: https://mastodon.in.th/@webring/112025305447637559
+493355bf3669ed864b7915de434ed11f:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/github-action-android-compose-battle/
+  state:
+    shortLink: https://link.webring.in.th/1806
 49aab119dce1f8700889951156c52cce:facebook:
   spec:
     title: 'Java 21 :: รูปแบบการเขียนที่ง่ายต่อคนเริ่มต้น [somkiat.cc]'
