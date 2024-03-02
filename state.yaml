@@ -14431,6 +14431,25 @@ f09c3739636c28f5df703812b2b95e57:shorturl:
     url: https://yothinix.com/2022/
   state:
     shortLink: https://webring.page.link/9Y13
+f0bd5d71ed6eb90ffa8cbcb804f0c62c:facebook:
+  spec:
+    title: รู้จักกับ Next Auth + Prisma [mikelopster.dev]
+    url: https://mikelopster.dev/posts/next-auth-basic/
+  state:
+    id: '100746876247412_367620839560498'
+    url: https://www.facebook.com/100683012920950/posts/367620839560498
+f0bd5d71ed6eb90ffa8cbcb804f0c62c:mastodon:
+  spec:
+    title: รู้จักกับ Next Auth + Prisma [mikelopster.dev]
+    url: https://mikelopster.dev/posts/next-auth-basic/
+  state:
+    id: '112023894176113433'
+    url: https://mastodon.in.th/@webring/112023894176113433
+f0bd5d71ed6eb90ffa8cbcb804f0c62c:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/next-auth-basic/
+  state:
+    shortLink: https://link.webring.in.th/1804
 f13b09c1a35a790628c25ea8d312742c:facebook:
   spec:
     title: 'What is Apache Iceberg: Iceberg คืออะไร ทำอะไรได้บ้าง ? [mesodiar.com]'
