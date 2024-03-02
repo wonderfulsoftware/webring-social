@@ -9897,6 +9897,25 @@ a08da8f7b9e6c96514d514a6ed395e0c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/alfresco-edit-in-microsoft-office-not-working/
   state:
     shortLink: https://webring.page.link/86Hz
+a14bbf405dc6667ff6fb94b1cf755409:facebook:
+  spec:
+    title: How to fix current branch xxx has no upstream branch. [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/03/how-to-fix-current-branch-xxx-has-no-upstream-branch/
+  state:
+    id: '100746876247412_367690349553547'
+    url: https://www.facebook.com/100683012920950/posts/367690349553547
+a14bbf405dc6667ff6fb94b1cf755409:mastodon:
+  spec:
+    title: How to fix current branch xxx has no upstream branch. [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/03/how-to-fix-current-branch-xxx-has-no-upstream-branch/
+  state:
+    id: '112024615625008644'
+    url: https://mastodon.in.th/@webring/112024615625008644
+a14bbf405dc6667ff6fb94b1cf755409:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/03/how-to-fix-current-branch-xxx-has-no-upstream-branch/
+  state:
+    shortLink: https://link.webring.in.th/1805
 a15d7eb8a3b14282e475ad513fef573f:facebook:
   spec:
     title: How I install Python on macOS - 2023 edition [garden.narze.live]
