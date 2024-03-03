@@ -7731,6 +7731,25 @@
     url: https://www.somkiat.cc/mocking-api-server-with-miragejs/
   state:
     shortLink: https://webring.page.link/qq4Y
+7f5fadf7220b066f416f6dca26983198:facebook:
+  spec:
+    title: ลองมา Mentor เรื่อง Database ให้กับน้องๆนักศึกษา [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/03/database-mentor-for-kru-com-student-atthailand-cultural-centre/
+  state:
+    id: '100746876247412_368276919494890'
+    url: https://www.facebook.com/100683012920950/posts/368276919494890
+7f5fadf7220b066f416f6dca26983198:mastodon:
+  spec:
+    title: ลองมา Mentor เรื่อง Database ให้กับน้องๆนักศึกษา [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/03/database-mentor-for-kru-com-student-atthailand-cultural-centre/
+  state:
+    id: '112030273074558431'
+    url: https://mastodon.in.th/@webring/112030273074558431
+7f5fadf7220b066f416f6dca26983198:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/03/database-mentor-for-kru-com-student-atthailand-cultural-centre/
+  state:
+    shortLink: https://link.webring.in.th/1810
 7fee71deec17169280f6837f28ac7a60:facebook:
   spec:
     title: RubyConf TH 2023 [garden.narze.live]
