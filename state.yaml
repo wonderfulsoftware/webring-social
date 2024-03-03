@@ -2278,6 +2278,25 @@
     url: https://thiti.dev/blog/104/
   state:
     shortLink: https://webring.page.link/DkAY
+259b9e06870b1352046ad860b8c4b197:facebook:
+  spec:
+    title: ย้าย Repository ไปที่ใหม่โดยเอา commit ไปด้วย [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/move-repository
+  state:
+    id: '100746876247412_368202546168994'
+    url: https://www.facebook.com/100683012920950/posts/368202546168994
+259b9e06870b1352046ad860b8c4b197:mastodon:
+  spec:
+    title: ย้าย Repository ไปที่ใหม่โดยเอา commit ไปด้วย [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/move-repository
+  state:
+    id: '112029557546312180'
+    url: https://mastodon.in.th/@webring/112029557546312180
+259b9e06870b1352046ad860b8c4b197:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/2024/move-repository
+  state:
+    shortLink: https://link.webring.in.th/1809
 262affe6e7a9e08bedfb4cbe1f689ed8:facebook:
   spec:
     title: 'เล่าให้ฟัง FinOps: BigQuery Query Cost Monitoring [mesodiar.com]'
