@@ -14526,6 +14526,25 @@ f04ab2c55ae499df3dd8c21ad0de623c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/10/cr-moms-touch-ics/
   state:
     shortLink: https://webring.page.link/ndq8
+f07bcc1a0d87fa7c7daf27a6b618ea4f:facebook:
+  spec:
+    title: Memoize and memory leak [llun.me]
+    url: https://www.llun.me/posts/dev/2024-03-03-memoize-and-memory-leak
+  state:
+    id: '100746876247412_369001662755749'
+    url: https://www.facebook.com/100683012920950/posts/369001662755749
+f07bcc1a0d87fa7c7daf27a6b618ea4f:mastodon:
+  spec:
+    title: Memoize and memory leak [llun.me]
+    url: https://www.llun.me/posts/dev/2024-03-03-memoize-and-memory-leak
+  state:
+    id: '112037013734134858'
+    url: https://mastodon.in.th/@webring/112037013734134858
+f07bcc1a0d87fa7c7daf27a6b618ea4f:shorturl:
+  spec:
+    url: https://www.llun.me/posts/dev/2024-03-03-memoize-and-memory-leak
+  state:
+    shortLink: https://link.webring.in.th/1813
 f09c3739636c28f5df703812b2b95e57:facebook:
   spec:
     title: 2022 [yothinix.com]
