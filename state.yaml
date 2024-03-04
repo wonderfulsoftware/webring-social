@@ -10980,6 +10980,25 @@ b2ade699ca93761a65f09ab9d47231c1:shorturl:
     url: https://www.llun.me/posts/ride/2024-02-04-heated-gloves
   state:
     shortLink: https://link.webring.in.th/1758
+b2e53c58a31ce517cdd00d1a61d2ecd9:facebook:
+  spec:
+    title: 'แนะหนังสือน่าสนใจ Head First :: Software Architecture [somkiat.cc]'
+    url: https://www.somkiat.cc/book-head-first-software-architecture/
+  state:
+    id: '100746876247412_368828776106371'
+    url: https://www.facebook.com/100683012920950/posts/368828776106371
+b2e53c58a31ce517cdd00d1a61d2ecd9:mastodon:
+  spec:
+    title: 'แนะหนังสือน่าสนใจ Head First :: Software Architecture [somkiat.cc]'
+    url: https://www.somkiat.cc/book-head-first-software-architecture/
+  state:
+    id: '112035337558500606'
+    url: https://mastodon.in.th/@webring/112035337558500606
+b2e53c58a31ce517cdd00d1a61d2ecd9:shorturl:
+  spec:
+    url: https://www.somkiat.cc/book-head-first-software-architecture/
+  state:
+    shortLink: https://link.webring.in.th/1811
 b3e171947c05495f77fea92d1b8cf178:facebook:
   spec:
     title: Cannot connect Jenkins with GitLab (The project you were looking for could not be found or you don’t have permission) [debuggingsoft.com]
