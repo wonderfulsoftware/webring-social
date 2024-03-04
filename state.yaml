@@ -2753,6 +2753,25 @@
     url: https://www.anuwong.com/blog/golang-testing-part-3-test-suite/
   state:
     shortLink: https://webring.page.link/FJwZ
+2c31719e11127be8781424dcd8f26f21:facebook:
+  spec:
+    title: '[CR] Starbucks Bucher Sausage Croissant Roll [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/cr-starbucks-bucher-sausage-croissant-roll/
+  state:
+    id: '100746876247412_368903789432203'
+    url: https://www.facebook.com/100683012920950/posts/368903789432203
+2c31719e11127be8781424dcd8f26f21:mastodon:
+  spec:
+    title: '[CR] Starbucks Bucher Sausage Croissant Roll [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/cr-starbucks-bucher-sausage-croissant-roll/
+  state:
+    id: '112036114706093159'
+    url: https://mastodon.in.th/@webring/112036114706093159
+2c31719e11127be8781424dcd8f26f21:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/03/cr-starbucks-bucher-sausage-croissant-roll/
+  state:
+    shortLink: https://link.webring.in.th/1812
 2c4c8305226914c35d28c3d98e393df2:facebook:
   spec:
     title: สรุปการใช้งาน Structured Log ของ Go กัน [somkiat.cc]
