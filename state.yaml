@@ -11581,6 +11581,25 @@ bf1e2f5ed632fa45a543935b8ce5d4e1:shorturl:
     url: https://garden.narze.live/100daysofcode-r3-77-chatos-trying-encryption-libraries/
   state:
     shortLink: https://webring.page.link/n3K2
+bf530b49d3a770696119fb5a65c32260:facebook:
+  spec:
+    title: '[KBTG-GO#01] Introduction [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-go01-introduction/
+  state:
+    id: '100746876247412_369425716046677'
+    url: https://www.facebook.com/100683012920950/posts/369425716046677
+bf530b49d3a770696119fb5a65c32260:mastodon:
+  spec:
+    title: '[KBTG-GO#01] Introduction [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-go01-introduction/
+  state:
+    id: '112040881959882659'
+    url: https://mastodon.in.th/@webring/112040881959882659
+bf530b49d3a770696119fb5a65c32260:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-go01-introduction/
+  state:
+    shortLink: https://link.webring.in.th/1814
 bfbd4d16a2bd8a4101de54bf5dbc949c:facebook:
   spec:
     title: มาลองใช้งาน TTL.sh สำหรับจัดการ Ephemeral Docker image registry [somkiat.cc]
