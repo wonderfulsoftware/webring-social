@@ -4007,6 +4007,25 @@
     url: https://neizod.dev/2023/11/22/simple-physics-of-sailing.html
   state:
     shortLink: https://webring.page.link/QYT7
+43d75c093a0124d292904f36f287bf4c:facebook:
+  spec:
+    title: เพิ่งเห็น data test id ในหน้า web [somkiat.cc]
+    url: https://www.somkiat.cc/test-id-for-ui-test/
+  state:
+    id: '100746876247412_370614325927816'
+    url: https://www.facebook.com/100683012920950/posts/370614325927816
+43d75c093a0124d292904f36f287bf4c:mastodon:
+  spec:
+    title: เพิ่งเห็น data test id ในหน้า web [somkiat.cc]
+    url: https://www.somkiat.cc/test-id-for-ui-test/
+  state:
+    id: '112052203351660559'
+    url: https://mastodon.in.th/@webring/112052203351660559
+43d75c093a0124d292904f36f287bf4c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/test-id-for-ui-test/
+  state:
+    shortLink: https://link.webring.in.th/1816
 44a91a881d7ed4ed0cb168ecffcab507:facebook:
   spec:
     title: Google Analytics v4 ingestion via BigQuery [karnwong.me]
