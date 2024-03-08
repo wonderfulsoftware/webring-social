@@ -14944,6 +14944,25 @@ f52e6cc105cd38ba08ddb80ada7f1b01:shorturl:
     url: https://blog.rayriffy.com/choke-in-japan-2022/
   state:
     shortLink: https://webring.page.link/co4n
+f540c3a4033ce458139b45f9f4888b8c:facebook:
+  spec:
+    title: How to reduce windows.edb size [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/03/how-to-reduce-windows-edb-size/
+  state:
+    id: '100746876247412_371287055860543'
+    url: https://www.facebook.com/100683012920950/posts/371287055860543
+f540c3a4033ce458139b45f9f4888b8c:mastodon:
+  spec:
+    title: How to reduce windows.edb size [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/03/how-to-reduce-windows-edb-size/
+  state:
+    id: '112058585403209545'
+    url: https://mastodon.in.th/@webring/112058585403209545
+f540c3a4033ce458139b45f9f4888b8c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/03/how-to-reduce-windows-edb-size/
+  state:
+    shortLink: https://link.webring.in.th/1818
 f618f1957e7524a2ecf1fad8fc51e978:facebook:
   spec:
     title: นายเองก็ใช้ markdown บน discord ได้นะ! [mikkipastel.com]
