@@ -11132,6 +11132,25 @@ b534a5d73bd624f67b27fe8cd0bde7d6:shorturl:
     url: https://www.anuwong.com/blog/node-20-env-with-confident/
   state:
     shortLink: https://webring.page.link/Mr91
+b535c81708ed7f7c924e3f8e7ec28e8b:facebook:
+  spec:
+    title: Line Stickers - Lucian Solutions - Definitive Edition [lucian.solutions]
+    url: https://lucian.solutions/blog/line-stickers-lucian-solutions-definitive
+  state:
+    id: '100746876247412_371360615853187'
+    url: https://www.facebook.com/100683012920950/posts/371360615853187
+b535c81708ed7f7c924e3f8e7ec28e8b:mastodon:
+  spec:
+    title: Line Stickers - Lucian Solutions - Definitive Edition [lucian.solutions]
+    url: https://lucian.solutions/blog/line-stickers-lucian-solutions-definitive
+  state:
+    id: '112059283762549590'
+    url: https://mastodon.in.th/@webring/112059283762549590
+b535c81708ed7f7c924e3f8e7ec28e8b:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/line-stickers-lucian-solutions-definitive
+  state:
+    shortLink: https://link.webring.in.th/1819
 b5b29ded477ceb16bdb6c51f734d8bdd:facebook:
   spec:
     title: สิ่งที่น่าสนใจใน Go 1.22.0 [somkiat.cc]
