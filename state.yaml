@@ -3076,6 +3076,25 @@
     url: https://garden.narze.live/projects/
   state:
     shortLink: https://webring.page.link/92sv
+2ff36150b2dba6147db8af5c426f92e8:facebook:
+  spec:
+    title: NestJS และ Mongo [mikelopster.dev]
+    url: https://mikelopster.dev/posts/nestjs-mongo/
+  state:
+    id: '100746876247412_371212582534657'
+    url: https://www.facebook.com/100683012920950/posts/371212582534657
+2ff36150b2dba6147db8af5c426f92e8:mastodon:
+  spec:
+    title: NestJS และ Mongo [mikelopster.dev]
+    url: https://mikelopster.dev/posts/nestjs-mongo/
+  state:
+    id: '112057869843712154'
+    url: https://mastodon.in.th/@webring/112057869843712154
+2ff36150b2dba6147db8af5c426f92e8:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/nestjs-mongo/
+  state:
+    shortLink: https://link.webring.in.th/1817
 308d6911f2a8f3c648cb15aaecd28812:facebook:
   spec:
     title: '#แก้ชงปีเถาะ ที่ดันเจี้ยนวัดมังกรกมลาวาส และวัดทิพยวารีวิหาร [debuggingsoft.com]'
