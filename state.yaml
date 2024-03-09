@@ -10505,6 +10505,25 @@ a811d2ce359c79e6d74317a1c0431cbb:shorturl:
     url: https://garden.narze.live/100daysofcode-r3-96-100-10k-planner/
   state:
     shortLink: https://webring.page.link/ip8F
+a90a52b9eb3224a11d4b8ed31e7331ea:facebook:
+  spec:
+    title: รีวิว Work From Home Workspace หลังจากที่ใช้งานมาระยะหนึ่งแล้ว [mikkipastel.com]
+    url: https://www.mikkipastel.com/review-work-from-home-workspace/
+  state:
+    id: '100746876247412_371821595807089'
+    url: https://www.facebook.com/100683012920950/posts/371821595807089
+a90a52b9eb3224a11d4b8ed31e7331ea:mastodon:
+  spec:
+    title: รีวิว Work From Home Workspace หลังจากที่ใช้งานมาระยะหนึ่งแล้ว [mikkipastel.com]
+    url: https://www.mikkipastel.com/review-work-from-home-workspace/
+  state:
+    id: '112063542461104398'
+    url: https://mastodon.in.th/@webring/112063542461104398
+a90a52b9eb3224a11d4b8ed31e7331ea:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/review-work-from-home-workspace/
+  state:
+    shortLink: https://link.webring.in.th/1820
 a9219b54ffbacb453c42195b38473323:facebook:
   spec:
     title: '[CR] Starbucks-Chocolate Flourless Cake (Valentine Edition) [debuggingsoft.com]'
