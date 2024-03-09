@@ -7237,6 +7237,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/powershell-snippet-script-copy-files-that-are-listed-in-a-text-file/
   state:
     shortLink: https://webring.page.link/eC78
+75ea3f1f33887e48358bdcce472bf461:facebook:
+  spec:
+    title: Next.JS dynamic import and 500 error [llun.me]
+    url: https://www.llun.me/posts/dev/2024-03-08-nextjs-dynamic-import-and-500-error
+  state:
+    id: '100746876247412_371889935800255'
+    url: https://www.facebook.com/100683012920950/posts/371889935800255
+75ea3f1f33887e48358bdcce472bf461:mastodon:
+  spec:
+    title: Next.JS dynamic import and 500 error [llun.me]
+    url: https://www.llun.me/posts/dev/2024-03-08-nextjs-dynamic-import-and-500-error
+  state:
+    id: '112064254888044086'
+    url: https://mastodon.in.th/@webring/112064254888044086
+75ea3f1f33887e48358bdcce472bf461:shorturl:
+  spec:
+    url: https://www.llun.me/posts/dev/2024-03-08-nextjs-dynamic-import-and-500-error
+  state:
+    shortLink: https://link.webring.in.th/1821
 7622af3c86998193ce00aa0ea4b2394c:facebook:
   spec:
     title: ทำ links page ของตัวเองแบบง่ายๆ ด้วย Glitch in Bio [mikkipastel.com]
