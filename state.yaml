@@ -8453,6 +8453,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/06/access-almalinux-9-via-rdp/
   state:
     shortLink: https://webring.page.link/S7cX
+890c5e29243d578175c93d741a51c5a8:facebook:
+  spec:
+    title: แนะนำใช้งาน RestClient ใน Spring Boot 3.2 [somkiat.cc]
+    url: https://www.somkiat.cc/restclient-in-spring-boot-3-2/
+  state:
+    id: '100746876247412_372386499083932'
+    url: https://www.facebook.com/100683012920950/posts/372386499083932
+890c5e29243d578175c93d741a51c5a8:mastodon:
+  spec:
+    title: แนะนำใช้งาน RestClient ใน Spring Boot 3.2 [somkiat.cc]
+    url: https://www.somkiat.cc/restclient-in-spring-boot-3-2/
+  state:
+    id: '112069195841490432'
+    url: https://mastodon.in.th/@webring/112069195841490432
+890c5e29243d578175c93d741a51c5a8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/restclient-in-spring-boot-3-2/
+  state:
+    shortLink: https://link.webring.in.th/1822
 891c31713f1d8640adf27821239d2acc:facebook:
   spec:
     title: The Cloud Camp Week#02 [debuggingsoft.com]
