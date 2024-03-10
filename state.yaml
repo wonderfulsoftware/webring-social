@@ -10866,6 +10866,25 @@ ad99701907b20392b15bb3d9e84b9777:shorturl:
     url: https://www.somkiat.cc/hello-auto-gpt/
   state:
     shortLink: https://webring.page.link/LShA
+ae02d36d033da11a63af28912384f909:facebook:
+  spec:
+    title: Illustration - ハナエ [lucian.solutions]
+    url: https://lucian.solutions/blog/202403-hanae
+  state:
+    id: '100746876247412_372525419070040'
+    url: https://www.facebook.com/100683012920950/posts/372525419070040
+ae02d36d033da11a63af28912384f909:mastodon:
+  spec:
+    title: Illustration - ハナエ [lucian.solutions]
+    url: https://lucian.solutions/blog/202403-hanae
+  state:
+    id: '112070603323403226'
+    url: https://mastodon.in.th/@webring/112070603323403226
+ae02d36d033da11a63af28912384f909:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202403-hanae
+  state:
+    shortLink: https://link.webring.in.th/1824
 ae4a4da87c7ad5fbb2b27e66cfad5b12:facebook:
   spec:
     title: สรุปจากบทความเรื่อง Go back to coding, engineering leader [somkiat.cc]
