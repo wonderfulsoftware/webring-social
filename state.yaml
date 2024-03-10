@@ -1803,6 +1803,25 @@
     url: https://karnwong.me/posts/2024/02/how-to-connect-to-cloud-sql-from-cloud-run/
   state:
     shortLink: https://link.webring.in.th/1770
+1cf8b44d4a1382e93b016920ef44c97b:facebook:
+  spec:
+    title: '[C#] Dump Object As JSON (Visual Studio) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/c-dump-object-as-json-visual-studio/
+  state:
+    id: '100746876247412_372456552410260'
+    url: https://www.facebook.com/100683012920950/posts/372456552410260
+1cf8b44d4a1382e93b016920ef44c97b:mastodon:
+  spec:
+    title: '[C#] Dump Object As JSON (Visual Studio) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/c-dump-object-as-json-visual-studio/
+  state:
+    id: '112069906165749939'
+    url: https://mastodon.in.th/@webring/112069906165749939
+1cf8b44d4a1382e93b016920ef44c97b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/03/c-dump-object-as-json-visual-studio/
+  state:
+    shortLink: https://link.webring.in.th/1823
 1d0510cdc13188d655121e445da16c0f:facebook:
   spec:
     title: เรียนรู้การใช้งาน Strapi เบื้องต้น (find, findOne) [kajame.xyz]
