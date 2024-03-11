@@ -3266,6 +3266,25 @@
     url: https://toupawa.com/how-to-run-node-js-and-mongodb-as-docker-container/
   state:
     shortLink: https://webring.page.link/Kqkj
+346a0275eb851d7ebfa17db270a9d702:facebook:
+  spec:
+    title: มาลองใช้งาน Bruno สำหรับทดสอบ REST APIs แทน Postman กัน [somkiat.cc]
+    url: https://www.somkiat.cc/try-bruno-for-rest-api-testing/
+  state:
+    id: '100746876247412_373055592350356'
+    url: https://www.facebook.com/100683012920950/posts/373055592350356
+346a0275eb851d7ebfa17db270a9d702:mastodon:
+  spec:
+    title: มาลองใช้งาน Bruno สำหรับทดสอบ REST APIs แทน Postman กัน [somkiat.cc]
+    url: https://www.somkiat.cc/try-bruno-for-rest-api-testing/
+  state:
+    id: '112075574252435819'
+    url: https://mastodon.in.th/@webring/112075574252435819
+346a0275eb851d7ebfa17db270a9d702:shorturl:
+  spec:
+    url: https://www.somkiat.cc/try-bruno-for-rest-api-testing/
+  state:
+    shortLink: https://link.webring.in.th/1826
 34a070ed97c84d7230b780ca709c2744:facebook:
   spec:
     title: ลองทำ Performance Testing ด้วย JMeter [janescience.com]
