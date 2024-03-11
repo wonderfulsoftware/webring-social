@@ -9365,6 +9365,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/10/how-to-setup-git-with-ssh-authenication/
   state:
     shortLink: https://webring.page.link/mFpo
+9528260904239286eac62f227d9e47e6:facebook:
+  spec:
+    title: 'Web For Impact #02 (Question / My Mistake / Check List) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/web-for-impact-02-question-my-mistake-check-list/
+  state:
+    id: '100746876247412_372987935690455'
+    url: https://www.facebook.com/100683012920950/posts/372987935690455
+9528260904239286eac62f227d9e47e6:mastodon:
+  spec:
+    title: 'Web For Impact #02 (Question / My Mistake / Check List) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/web-for-impact-02-question-my-mistake-check-list/
+  state:
+    id: '112074862472200858'
+    url: https://mastodon.in.th/@webring/112074862472200858
+9528260904239286eac62f227d9e47e6:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/03/web-for-impact-02-question-my-mistake-check-list/
+  state:
+    shortLink: https://link.webring.in.th/1825
 952a2aedbdecb88bf4c0cd33c8e20da7:facebook:
   spec:
     title: สิ่งที่ฉันเรียนรู้จาก GDG SEA SUMMIT 2023 — Thai ver. [mesodiar.com]
