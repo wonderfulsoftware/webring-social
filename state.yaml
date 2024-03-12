@@ -11208,6 +11208,25 @@ b2e53c58a31ce517cdd00d1a61d2ecd9:shorturl:
     url: https://www.somkiat.cc/book-head-first-software-architecture/
   state:
     shortLink: https://link.webring.in.th/1811
+b34787d3cfdba4d28577f3f1097ab7ee:facebook:
+  spec:
+    title: 'สนุกกับอุปนัย: ตัดแบ่งปริภูมิได้กี่ชิ้น? [neizod.dev]'
+    url: https://neizod.dev/2024/03/09/fun-with-induction-dividing-space.html
+  state:
+    id: '100746876247412_373535152302400'
+    url: https://www.facebook.com/100683012920950/posts/373535152302400
+b34787d3cfdba4d28577f3f1097ab7ee:mastodon:
+  spec:
+    title: 'สนุกกับอุปนัย: ตัดแบ่งปริภูมิได้กี่ชิ้น? [neizod.dev]'
+    url: https://neizod.dev/2024/03/09/fun-with-induction-dividing-space.html
+  state:
+    id: '112080524814896477'
+    url: https://mastodon.in.th/@webring/112080524814896477
+b34787d3cfdba4d28577f3f1097ab7ee:shorturl:
+  spec:
+    url: https://neizod.dev/2024/03/09/fun-with-induction-dividing-space.html
+  state:
+    shortLink: https://link.webring.in.th/1827
 b3e171947c05495f77fea92d1b8cf178:facebook:
   spec:
     title: Cannot connect Jenkins with GitLab (The project you were looking for could not be found or you don’t have permission) [debuggingsoft.com]
