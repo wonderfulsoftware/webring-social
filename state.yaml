@@ -3627,6 +3627,25 @@
     url: https://www.mikkipastel.com/3c-analysis/
   state:
     shortLink: https://webring.page.link/rkLv
+3b3ef971911d0d35ddea8432f9aa2e98:facebook:
+  spec:
+    title: '[KBTG-GO#02] Software Design [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-go02-software-design/
+  state:
+    id: '100746876247412_373599022296013'
+    url: https://www.facebook.com/100683012920950/posts/373599022296013
+3b3ef971911d0d35ddea8432f9aa2e98:mastodon:
+  spec:
+    title: '[KBTG-GO#02] Software Design [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-go02-software-design/
+  state:
+    id: '112081235342072216'
+    url: https://mastodon.in.th/@webring/112081235342072216
+3b3ef971911d0d35ddea8432f9aa2e98:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-go02-software-design/
+  state:
+    shortLink: https://link.webring.in.th/1828
 3becd5718c24f558952e5eb7ee93d81c:facebook:
   spec:
     title: ผลจากการ review code ในภาษา Go [somkiat.cc]
