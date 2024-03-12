@@ -8434,6 +8434,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/10/customize-object-displays-in-the-visual-studio-by-usingdebuggerdisplayattribute/
   state:
     shortLink: https://webring.page.link/MdS6
+86e3d77e94eaa62162377745cddcadb9:facebook:
+  spec:
+    title: สวัสดี Shittier มาจัด format code แบบแย่ ๆ กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-shittier/
+  state:
+    id: '100746876247412_373659338956648'
+    url: https://www.facebook.com/100683012920950/posts/373659338956648
+86e3d77e94eaa62162377745cddcadb9:mastodon:
+  spec:
+    title: สวัสดี Shittier มาจัด format code แบบแย่ ๆ กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-shittier/
+  state:
+    id: '112081944879246624'
+    url: https://mastodon.in.th/@webring/112081944879246624
+86e3d77e94eaa62162377745cddcadb9:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-shittier/
+  state:
+    shortLink: https://link.webring.in.th/1829
 875cfdf09ba584ff253e3f1da89f8caa:facebook:
   spec:
     title: มาลองเล่น Gemini Pro กัน [mikelopster.dev]
