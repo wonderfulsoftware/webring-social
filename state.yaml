@@ -3532,6 +3532,25 @@
     url: https://garden.narze.live/100daysofcode-r3-70-garden-astro-test-image-links/
   state:
     shortLink: https://webring.page.link/qk1L
+38844487484d2715485a7da1c8ae51fa:facebook:
+  spec:
+    title: มาทำ Authentication ด้วย NestJS และ Passport กัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/nestjs-passport/
+  state:
+    id: '100746876247412_375224142133501'
+    url: https://www.facebook.com/100683012920950/posts/375224142133501
+38844487484d2715485a7da1c8ae51fa:mastodon:
+  spec:
+    title: มาทำ Authentication ด้วย NestJS และ Passport กัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/nestjs-passport/
+  state:
+    id: '112097510759044432'
+    url: https://mastodon.in.th/@webring/112097510759044432
+38844487484d2715485a7da1c8ae51fa:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/nestjs-passport/
+  state:
+    shortLink: https://link.webring.in.th/1831
 38dc10cca8ec00e60151ccf9effb8c9f:facebook:
   spec:
     title: สร้าง Excel Timesheet ด้วย Python กับ ChatGPT [janescience.com]
