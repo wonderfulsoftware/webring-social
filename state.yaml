@@ -11303,6 +11303,25 @@ b34787d3cfdba4d28577f3f1097ab7ee:shorturl:
     url: https://neizod.dev/2024/03/09/fun-with-induction-dividing-space.html
   state:
     shortLink: https://link.webring.in.th/1827
+b3ad99782528233907157668d22ef80c:facebook:
+  spec:
+    title: จดๆ จาก Software Architecture Meetup 2024#01 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/03/note-from-software-architecture-meetup-202401/
+  state:
+    id: '100746876247412_375818858740696'
+    url: https://www.facebook.com/100683012920950/posts/375818858740696
+b3ad99782528233907157668d22ef80c:mastodon:
+  spec:
+    title: จดๆ จาก Software Architecture Meetup 2024#01 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/03/note-from-software-architecture-meetup-202401/
+  state:
+    id: '112103170739005532'
+    url: https://mastodon.in.th/@webring/112103170739005532
+b3ad99782528233907157668d22ef80c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/03/note-from-software-architecture-meetup-202401/
+  state:
+    shortLink: https://link.webring.in.th/1832
 b3e171947c05495f77fea92d1b8cf178:facebook:
   spec:
     title: Cannot connect Jenkins with GitLab (The project you were looking for could not be found or you don’t have permission) [debuggingsoft.com]
