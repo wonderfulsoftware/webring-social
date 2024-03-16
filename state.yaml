@@ -14792,6 +14792,25 @@ ed74f69731cdc86dfaf7181e9889b17c:shorturl:
     url: https://tech.duckfollow.co/view/gitflow-workflow
   state:
     shortLink: https://webring.page.link/ywy8
+eda57c7bbff4f3f21e1f0f878bc40a62:facebook:
+  spec:
+    title: มาลองใช้งาน Docker image จากทาง Grafana คือ grafana/otel-lgtm [somkiat.cc]
+    url: https://www.somkiat.cc/use-docker-grafana-otel-lgtm/
+  state:
+    id: '100746876247412_375893112066604'
+    url: https://www.facebook.com/100683012920950/posts/375893112066604
+eda57c7bbff4f3f21e1f0f878bc40a62:mastodon:
+  spec:
+    title: มาลองใช้งาน Docker image จากทาง Grafana คือ grafana/otel-lgtm [somkiat.cc]
+    url: https://www.somkiat.cc/use-docker-grafana-otel-lgtm/
+  state:
+    id: '112103880947845878'
+    url: https://mastodon.in.th/@webring/112103880947845878
+eda57c7bbff4f3f21e1f0f878bc40a62:shorturl:
+  spec:
+    url: https://www.somkiat.cc/use-docker-grafana-otel-lgtm/
+  state:
+    shortLink: https://link.webring.in.th/1833
 edb3391e406219df0fbc10c9d51faeb6:facebook:
   spec:
     title: เรียนรู้การใช้งาน Strapi เบื้องต้น (Population) [kajame.xyz]
