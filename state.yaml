@@ -1062,6 +1062,25 @@
     url: https://www.somkiat.cc/note-from-how-quora-scaled-mysql/
   state:
     shortLink: https://webring.page.link/3Hab
+13fa91c6861ebfb475508351fa2dfa09:facebook:
+  spec:
+    title: ทำสองภาษาใน Next.js ที่เป็น App directory [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/i18n-with-nextjs-app-directory
+  state:
+    id: '100746876247412_376423745346874'
+    url: https://www.facebook.com/100683012920950/posts/376423745346874
+13fa91c6861ebfb475508351fa2dfa09:mastodon:
+  spec:
+    title: ทำสองภาษาใน Next.js ที่เป็น App directory [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/i18n-with-nextjs-app-directory
+  state:
+    id: '112108829142912809'
+    url: https://mastodon.in.th/@webring/112108829142912809
+13fa91c6861ebfb475508351fa2dfa09:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/2024/i18n-with-nextjs-app-directory
+  state:
+    shortLink: https://link.webring.in.th/1834
 145337c4af48548e2997ce44e6aa6546:facebook:
   spec:
     title: จดบันทึกเรื่องของ การเขียน Automated Test [somkiat.cc]
