@@ -14868,6 +14868,25 @@ edeb94abe2f98a95e84818306238de37:shorturl:
     url: https://www.karnwong.me/posts/2023/08/create-kubernetes-service-accounts-with-terraform/
   state:
     shortLink: https://webring.page.link/ieeR
+ef0afef9d3c5abe506982b8c2f0d82b0:facebook:
+  spec:
+    title: ตามรอยชานมไต้หวัน 2024 [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/taiwan-boba-milk-tea-2024/
+  state:
+    id: '100746876247412_376499435339305'
+    url: https://www.facebook.com/100683012920950/posts/376499435339305
+ef0afef9d3c5abe506982b8c2f0d82b0:mastodon:
+  spec:
+    title: ตามรอยชานมไต้หวัน 2024 [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/taiwan-boba-milk-tea-2024/
+  state:
+    id: '112109543062533709'
+    url: https://mastodon.in.th/@webring/112109543062533709
+ef0afef9d3c5abe506982b8c2f0d82b0:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/taiwan-boba-milk-tea-2024/
+  state:
+    shortLink: https://link.webring.in.th/1835
 ef83bc2fa4075609c9b4cc4e91ac2644:facebook:
   spec:
     title: แนะนำ React => visualized สำหรับการเรียนรู้ ReactJS [somkiat.cc]
