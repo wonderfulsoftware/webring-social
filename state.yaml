@@ -7693,6 +7693,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-design-and-implement-a-release-strategy/
   state:
     shortLink: https://webring.page.link/AGse
+7bb641e0a96735b21cf5b426c10b6deb:facebook:
+  spec:
+    title: Dataframe write performance to Postgres [karnwong.me]
+    url: https://karnwong.me/posts/2024/03/dataframe-write-performance-to-postgres/
+  state:
+    id: '100746876247412_377025791953336'
+    url: https://www.facebook.com/100683012920950/posts/377025791953336
+7bb641e0a96735b21cf5b426c10b6deb:mastodon:
+  spec:
+    title: Dataframe write performance to Postgres [karnwong.me]
+    url: https://karnwong.me/posts/2024/03/dataframe-write-performance-to-postgres/
+  state:
+    id: '112114495938055071'
+    url: https://mastodon.in.th/@webring/112114495938055071
+7bb641e0a96735b21cf5b426c10b6deb:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/03/dataframe-write-performance-to-postgres/
+  state:
+    shortLink: https://link.webring.in.th/1836
 7be05bfb4c8518000d8160fb462cd2b5:facebook:
   spec:
     title: ทาง GitHub บังคับให้ต้องใช้งาน Two-factor authentication (2FA) ก่อนสิ้นปี 2023 [somkiat.cc]
