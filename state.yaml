@@ -7104,6 +7104,25 @@
     url: https://thanapon.info/mqtt-with-tls-on-aws-iot-core/
   state:
     shortLink: https://webring.page.link/2Lsm
+719956ce74ebfedfe2b0375d891f8e23:facebook:
+  spec:
+    title: '[KBTG-GO#03] Software Testing [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-golang-software-testing/
+  state:
+    id: '100746876247412_377600908562491'
+    url: https://www.facebook.com/100683012920950/posts/377600908562491
+719956ce74ebfedfe2b0375d891f8e23:mastodon:
+  spec:
+    title: '[KBTG-GO#03] Software Testing [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-golang-software-testing/
+  state:
+    id: '112120156675477076'
+    url: https://mastodon.in.th/@webring/112120156675477076
+719956ce74ebfedfe2b0375d891f8e23:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-golang-software-testing/
+  state:
+    shortLink: https://link.webring.in.th/1837
 719a52379b6e25e45b6784ba80e4ef9f:facebook:
   spec:
     title: อันตรายจากดอกเบี้ยบัตรเครดิต [tech.duckfollow.co]
