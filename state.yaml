@@ -11094,6 +11094,25 @@ ae5f149932a0e44e0107545fac9144c1:shorturl:
     url: https://www.somkiat.cc/use-redisearch/
   state:
     shortLink: https://webring.page.link/XwD9
+aeabb3bc97ad47ca1c19a29b3f6200e4:facebook:
+  spec:
+    title: '[DOTNET] Container cannot start on podman 2.0.X, Failed to create CoreCLR, HRESULT: 0x80070008 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/dotnet-container-cannot-start-on-podman-2-0-x-failed-to-create-coreclr-hresult-0x80070008/
+  state:
+    id: '100746876247412_378767425112506'
+    url: https://www.facebook.com/100683012920950/posts/378767425112506
+aeabb3bc97ad47ca1c19a29b3f6200e4:mastodon:
+  spec:
+    title: '[DOTNET] Container cannot start on podman 2.0.X, Failed to create CoreCLR, HRESULT: 0x80070008 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/dotnet-container-cannot-start-on-podman-2-0-x-failed-to-create-coreclr-hresult-0x80070008/
+  state:
+    id: '112131485708331478'
+    url: https://mastodon.in.th/@webring/112131485708331478
+aeabb3bc97ad47ca1c19a29b3f6200e4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/03/dotnet-container-cannot-start-on-podman-2-0-x-failed-to-create-coreclr-hresult-0x80070008/
+  state:
+    shortLink: https://link.webring.in.th/1838
 aedd782525d4406fc0085e094e96b1ea:facebook:
   spec:
     title: 'Key Takeaways: “ถ้า Agile มันทำให้ แผนกรอบข้าง ยากนัก กลับมาทำ Waterfall ก็ได้นะครับ” [myifew.com]'
