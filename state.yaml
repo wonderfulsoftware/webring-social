@@ -11550,6 +11550,25 @@ b76257d32b97c558d95abb76c3c22c4c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week15-net-aspire-how-to-obs-project/
   state:
     shortLink: https://webring.page.link/1iii
+b797a9417c07e98ed497ea455ee73a77:facebook:
+  spec:
+    title: มาดูความสามารถใหม่ ๆ ใน PostgreSQL 16 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/new-feature-in-postgresql-16/
+  state:
+    id: '100746876247412_378835551772360'
+    url: https://www.facebook.com/100683012920950/posts/378835551772360
+b797a9417c07e98ed497ea455ee73a77:mastodon:
+  spec:
+    title: มาดูความสามารถใหม่ ๆ ใน PostgreSQL 16 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/new-feature-in-postgresql-16/
+  state:
+    id: '112132196038434561'
+    url: https://mastodon.in.th/@webring/112132196038434561
+b797a9417c07e98ed497ea455ee73a77:shorturl:
+  spec:
+    url: https://www.somkiat.cc/new-feature-in-postgresql-16/
+  state:
+    shortLink: https://link.webring.in.th/1839
 b79a1c96750fcb3f4c8bf911d46384f6:facebook:
   spec:
     title: ปัญหา Vue.js เรียก API แล้วค้างไปเลย บน Cloud Server ขึ้นสถานะ Pending ตลอด [janescience.com]
