@@ -5413,6 +5413,25 @@
     url: https://www.somkiat.cc/chatgpt-app-for-ios/
   state:
     shortLink: https://webring.page.link/zDCt
+5bfc5c4116ee0130a6f9616f69bbc762:facebook:
+  spec:
+    title: OAuth คืออะไร ? [mikelopster.dev]
+    url: https://mikelopster.dev/posts/oauth-basic/
+  state:
+    id: '100746876247412_379358715053377'
+    url: https://www.facebook.com/100683012920950/posts/379358715053377
+5bfc5c4116ee0130a6f9616f69bbc762:mastodon:
+  spec:
+    title: OAuth คืออะไร ? [mikelopster.dev]
+    url: https://mikelopster.dev/posts/oauth-basic/
+  state:
+    id: '112137142690102570'
+    url: https://mastodon.in.th/@webring/112137142690102570
+5bfc5c4116ee0130a6f9616f69bbc762:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/oauth-basic/
+  state:
+    shortLink: https://link.webring.in.th/1840
 5c037e5d4f18df66b864d9f5c67dff04:facebook:
   spec:
     title: Dear Security, be a part of the solution [chrisza.me]
@@ -11096,14 +11115,14 @@ ae5f149932a0e44e0107545fac9144c1:shorturl:
     shortLink: https://webring.page.link/XwD9
 aeabb3bc97ad47ca1c19a29b3f6200e4:facebook:
   spec:
-    title: '[DOTNET] Container cannot start on podman 2.0.X, Failed to create CoreCLR, HRESULT: 0x80070008 [debuggingsoft.com]'
+    title: '[DOTNET] Container cannot start on Podman 2.0.X, Failed to create CoreCLR, HRESULT: 0x80070008 [debuggingsoft.com]'
     url: https://naiwaen.debuggingsoft.com/2024/03/dotnet-container-cannot-start-on-podman-2-0-x-failed-to-create-coreclr-hresult-0x80070008/
   state:
     id: '100746876247412_378767425112506'
     url: https://www.facebook.com/100683012920950/posts/378767425112506
 aeabb3bc97ad47ca1c19a29b3f6200e4:mastodon:
   spec:
-    title: '[DOTNET] Container cannot start on podman 2.0.X, Failed to create CoreCLR, HRESULT: 0x80070008 [debuggingsoft.com]'
+    title: '[DOTNET] Container cannot start on Podman 2.0.X, Failed to create CoreCLR, HRESULT: 0x80070008 [debuggingsoft.com]'
     url: https://naiwaen.debuggingsoft.com/2024/03/dotnet-container-cannot-start-on-podman-2-0-x-failed-to-create-coreclr-hresult-0x80070008/
   state:
     id: '112131485708331478'
