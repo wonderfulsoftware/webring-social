@@ -9213,6 +9213,25 @@
     url: https://kajame.xyz/blog/learning-typescript-02
   state:
     shortLink: https://webring.page.link/5AUZ
+91acd2c54e065f2b64bb0bbc947138a6:facebook:
+  spec:
+    title: How to fix error trustAnchors parameter must be non-empty [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/03/how-to-fix-error-trustanchors-parameter-must-be-non-empty/
+  state:
+    id: '100746876247412_380024154986833'
+    url: https://www.facebook.com/100683012920950/posts/380024154986833
+91acd2c54e065f2b64bb0bbc947138a6:mastodon:
+  spec:
+    title: How to fix error trustAnchors parameter must be non-empty [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/03/how-to-fix-error-trustanchors-parameter-must-be-non-empty/
+  state:
+    id: '112142809695241216'
+    url: https://mastodon.in.th/@webring/112142809695241216
+91acd2c54e065f2b64bb0bbc947138a6:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/03/how-to-fix-error-trustanchors-parameter-must-be-non-empty/
+  state:
+    shortLink: https://link.webring.in.th/1841
 92051a88851fafb3ad63bcc418fdb505:facebook:
   spec:
     title: Book Highlights - Build by Tony Fadell [karnwong.me]
