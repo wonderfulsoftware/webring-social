@@ -2031,6 +2031,25 @@
     url: https://www.somkiat.cc/hello-redis-7-2/
   state:
     shortLink: https://webring.page.link/z2fW
+202b8456aeb0ada13469044af09b9171:facebook:
+  spec:
+    title: เรียนรู้ Generative AI & ChatGPT กับอาจารย์เต้กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/generative-ai-chatgpt-unlock-working-with-ai/
+  state:
+    id: '100746876247412_380109428311639'
+    url: https://www.facebook.com/100683012920950/posts/380109428311639
+202b8456aeb0ada13469044af09b9171:mastodon:
+  spec:
+    title: เรียนรู้ Generative AI & ChatGPT กับอาจารย์เต้กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/generative-ai-chatgpt-unlock-working-with-ai/
+  state:
+    id: '112143534859435007'
+    url: https://mastodon.in.th/@webring/112143534859435007
+202b8456aeb0ada13469044af09b9171:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/generative-ai-chatgpt-unlock-working-with-ai/
+  state:
+    shortLink: https://link.webring.in.th/1842
 204940a951c79034131359b7280d27d8:facebook:
   spec:
     title: '[Container] แก้ปัญหา docker image โต [debuggingsoft.com]'
