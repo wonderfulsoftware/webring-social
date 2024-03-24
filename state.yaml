@@ -12778,6 +12778,25 @@ c933e277bd4b40830366b1f3ef12a5c5:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-02/
   state:
     shortLink: https://webring.page.link/Jjch
+c968d875dae5e9d9afb80e13bae7b6b1:facebook:
+  spec:
+    title: มาลองใช้งาน Garnet จาก Microsoft [somkiat.cc]
+    url: https://www.somkiat.cc/hello-garnet-to-replace-redis/
+  state:
+    id: '100746876247412_380832978239284'
+    url: https://www.facebook.com/100683012920950/posts/380832978239284
+c968d875dae5e9d9afb80e13bae7b6b1:mastodon:
+  spec:
+    title: มาลองใช้งาน Garnet จาก Microsoft [somkiat.cc]
+    url: https://www.somkiat.cc/hello-garnet-to-replace-redis/
+  state:
+    id: '112149885253447035'
+    url: https://mastodon.in.th/@webring/112149885253447035
+c968d875dae5e9d9afb80e13bae7b6b1:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-garnet-to-replace-redis/
+  state:
+    shortLink: https://link.webring.in.th/1845
 c99b1e9def970c889ddda3b38c595c56:facebook:
   spec:
     title: '[SonarQube] Fixed Exception in thread “Report about progress of Java XML analyzer” java.lang.OutOfMemoryError: Java heap space [debuggingsoft.com]'
