@@ -8282,6 +8282,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/optimize-container-image-size/
   state:
     shortLink: https://webring.page.link/1PHQ
+8401092b9cca2564551532757903bfe1:facebook:
+  spec:
+    title: WordCamp Asia 2024 with Nin [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/wordcamp-asia-2024-with-nin/
+  state:
+    id: '100746876247412_380676544921594'
+    url: https://www.facebook.com/100683012920950/posts/380676544921594
+8401092b9cca2564551532757903bfe1:mastodon:
+  spec:
+    title: WordCamp Asia 2024 with Nin [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/wordcamp-asia-2024-with-nin/
+  state:
+    id: '112148465379134252'
+    url: https://mastodon.in.th/@webring/112148465379134252
+8401092b9cca2564551532757903bfe1:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/wordcamp-asia-2024-with-nin/
+  state:
+    shortLink: https://link.webring.in.th/1843
 842e6616a412f282b919605a871f409d:facebook:
   spec:
     title: รู้จักกับ Storybook และการทำ Component Specs [mikelopster.dev]
