@@ -6173,6 +6173,25 @@
     url: https://blog.ninprd.com/blog/estimation-newbie/
   state:
     shortLink: https://link.webring.in.th/1726
+65433d3f4af68a0d3610e55485f6711d:facebook:
+  spec:
+    title: ถูกใจสาย Go สร้าง Concurrency limiting goroutine pool ด้วย workerpool แบบเข้าใจง่าย ๆ [poolsawat.com]
+    url: https://www.poolsawat.com/create-a-concurrency-limiting-goroutine-pool-with-workerpool/
+  state:
+    id: '100746876247412_380755748247007'
+    url: https://www.facebook.com/100683012920950/posts/380755748247007
+65433d3f4af68a0d3610e55485f6711d:mastodon:
+  spec:
+    title: ถูกใจสาย Go สร้าง Concurrency limiting goroutine pool ด้วย workerpool แบบเข้าใจง่าย ๆ [poolsawat.com]
+    url: https://www.poolsawat.com/create-a-concurrency-limiting-goroutine-pool-with-workerpool/
+  state:
+    id: '112149181015018051'
+    url: https://mastodon.in.th/@webring/112149181015018051
+65433d3f4af68a0d3610e55485f6711d:shorturl:
+  spec:
+    url: https://www.poolsawat.com/create-a-concurrency-limiting-goroutine-pool-with-workerpool/
+  state:
+    shortLink: https://link.webring.in.th/1844
 655fe23ff25ac2f9c9ad613f2d446fc2:facebook:
   spec:
     title: ESP32 Series รุ่นต่างๆ [thiti.dev]
