@@ -13291,6 +13291,25 @@ d09e362befe037c0c29309df5304b501:shorturl:
     url: https://siravijbb.me/blog/universal-motor-presentation/
   state:
     shortLink: https://webring.page.link/qpfF
+d13fec6b11affe0625c5c98a8647178b:facebook:
+  spec:
+    title: เรียนรู้ - useCallback [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/react-use-callback
+  state:
+    id: '100746876247412_381320744857174'
+    url: https://www.facebook.com/100683012920950/posts/381320744857174
+d13fec6b11affe0625c5c98a8647178b:mastodon:
+  spec:
+    title: เรียนรู้ - useCallback [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/react-use-callback
+  state:
+    id: '112154137674534037'
+    url: https://mastodon.in.th/@webring/112154137674534037
+d13fec6b11affe0625c5c98a8647178b:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/2024/react-use-callback
+  state:
+    shortLink: https://link.webring.in.th/1846
 d1476b3d9dfba601ae992cbbfab93036:facebook:
   spec:
     title: '[AZ-400] Manage infrastructure as code using Azure and DSC [debuggingsoft.com]'
