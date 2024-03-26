@@ -910,6 +910,25 @@
     url: https://nitpum.com/post/edge-z-index-tool/
   state:
     shortLink: https://webring.page.link/Hv1E
+10b5732a0d6a8024d6df09fdce082c4f:facebook:
+  spec:
+    title: '[KBTG-GO#04] API Design [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-golang-api-design/
+  state:
+    id: '100746876247412_381952384794010'
+    url: https://www.facebook.com/100683012920950/posts/381952384794010
+10b5732a0d6a8024d6df09fdce082c4f:mastodon:
+  spec:
+    title: '[KBTG-GO#04] API Design [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-golang-api-design/
+  state:
+    id: '112159790612234547'
+    url: https://mastodon.in.th/@webring/112159790612234547
+10b5732a0d6a8024d6df09fdce082c4f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-golang-api-design/
+  state:
+    shortLink: https://link.webring.in.th/1847
 10cd5af58065375e296a8ad202caaf35:facebook:
   spec:
     title: '[Tutorial] Setting up Budget Alert in GCP — English ver. [mesodiar.com]'
