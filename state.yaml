@@ -5147,6 +5147,25 @@
     url: https://mesodiar.com/devfestcloudbangkok2023-introducing-data-lakehouse-apache-iceberg-slides-f4bad96bba7d?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/nh5Y
+53ed4cc680a72801fcabe4119b4527cb:facebook:
+  spec:
+    title: ตอบคำถามเรื่องการ Mock Data ใน Postman [somkiat.cc]
+    url: https://www.somkiat.cc/mock-data-in-postman/
+  state:
+    id: '100746876247412_383945157928066'
+    url: https://www.facebook.com/100683012920950/posts/383945157928066
+53ed4cc680a72801fcabe4119b4527cb:mastodon:
+  spec:
+    title: ตอบคำถามเรื่องการ Mock Data ใน Postman [somkiat.cc]
+    url: https://www.somkiat.cc/mock-data-in-postman/
+  state:
+    id: '112177494833902857'
+    url: https://mastodon.in.th/@webring/112177494833902857
+53ed4cc680a72801fcabe4119b4527cb:shorturl:
+  spec:
+    url: https://www.somkiat.cc/mock-data-in-postman/
+  state:
+    shortLink: https://link.webring.in.th/1850
 550abfa4b80cdbbd4fc5218ada90f14d:facebook:
   spec:
     title: 'แก้ปัญหาเมื่อ Flash stock ROM มือถือ Xiaomi แล้วเจอปัญหา "remote: ''Check CRC failed''" [kusumotolab.com]'
