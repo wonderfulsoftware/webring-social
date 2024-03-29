@@ -15153,6 +15153,25 @@ ef83bc2fa4075609c9b4cc4e91ac2644:shorturl:
     url: https://www.somkiat.cc/react-visualized/
   state:
     shortLink: https://webring.page.link/zUrm
+efdaaa5f49fef5f12bd6c8c93188b8d2:facebook:
+  spec:
+    title: '[KBTG-GO#04] API Security [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-golang-api-security/
+  state:
+    id: '100746876247412_383870074602241'
+    url: https://www.facebook.com/100683012920950/posts/383870074602241
+efdaaa5f49fef5f12bd6c8c93188b8d2:mastodon:
+  spec:
+    title: '[KBTG-GO#04] API Security [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-golang-api-security/
+  state:
+    id: '112176778343605990'
+    url: https://mastodon.in.th/@webring/112176778343605990
+efdaaa5f49fef5f12bd6c8c93188b8d2:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-golang-api-security/
+  state:
+    shortLink: https://link.webring.in.th/1849
 f04ab2c55ae499df3dd8c21ad0de623c:facebook:
   spec:
     title: '[CR] MOM’S TOUCH @ICS [debuggingsoft.com]'
