@@ -12721,6 +12721,25 @@ c735dcd66b48bc76ae3c913e013e276e:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/01/how-to-redo-text-on-notepad/
   state:
     shortLink: https://webring.page.link/46Nt
+c779546911ac452887e40ccf901577ec:facebook:
+  spec:
+    title: เราใช้ iPad ทำอะไรบ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/overview-my-ipad-with-apple-pencil-application-widget/
+  state:
+    id: '100746876247412_384508897871692'
+    url: https://www.facebook.com/100683012920950/posts/384508897871692
+c779546911ac452887e40ccf901577ec:mastodon:
+  spec:
+    title: เราใช้ iPad ทำอะไรบ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/overview-my-ipad-with-apple-pencil-application-widget/
+  state:
+    id: '112182453236083016'
+    url: https://mastodon.in.th/@webring/112182453236083016
+c779546911ac452887e40ccf901577ec:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/overview-my-ipad-with-apple-pencil-application-widget/
+  state:
+    shortLink: https://link.webring.in.th/1851
 c7e81d23ce19b1af0e9ec1e0e3ad0c5d:facebook:
   spec:
     title: '[CR] Starbucks Double Chocolate Pain Suisse [debuggingsoft.com]'
