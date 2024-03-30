@@ -9745,6 +9745,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/02/microsoft-applied-skills-develop-an-asp-net-core-web-app-that-consumes-an-api/
   state:
     shortLink: https://link.webring.in.th/1786
+965f651621a396ce3d71b9c865c5cc67:facebook:
+  spec:
+    title: เที่ยวคนเดียวครั้งแรกที่ไต้หวัน [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/first-abroad-alone-in-taipei/
+  state:
+    id: '100746876247412_384841771171738'
+    url: https://www.facebook.com/100683012920950/posts/384841771171738
+965f651621a396ce3d71b9c865c5cc67:mastodon:
+  spec:
+    title: เที่ยวคนเดียวครั้งแรกที่ไต้หวัน [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/first-abroad-alone-in-taipei/
+  state:
+    id: '112185273065481159'
+    url: https://mastodon.in.th/@webring/112185273065481159
+965f651621a396ce3d71b9c865c5cc67:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/first-abroad-alone-in-taipei/
+  state:
+    shortLink: https://link.webring.in.th/1852
 96f7739f7435b2722c08ff63bcecad53:facebook:
   spec:
     title: ว่าด้วยเรื่อง cURL ใช้อย่างไรให้ Pro ใช้อย่างไรถึงจะ Cool [poolsawat.com]
