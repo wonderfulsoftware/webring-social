@@ -2278,6 +2278,25 @@
     url: https://www.poolsawat.com/laravel-import-export-file-with-laravel-excel/
   state:
     shortLink: https://link.webring.in.th/1757
+24433f0f619c655da61987caf6084c23:facebook:
+  spec:
+    title: Food Review - เหอ เฉิน ฟง [lucian.solutions]
+    url: https://lucian.solutions/blog/foodreview-hercheunfong
+  state:
+    id: '100746876247412_385252911130624'
+    url: https://www.facebook.com/100683012920950/posts/385252911130624
+24433f0f619c655da61987caf6084c23:mastodon:
+  spec:
+    title: Food Review - เหอ เฉิน ฟง [lucian.solutions]
+    url: https://lucian.solutions/blog/foodreview-hercheunfong
+  state:
+    id: '112188815562053138'
+    url: https://mastodon.in.th/@webring/112188815562053138
+24433f0f619c655da61987caf6084c23:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/foodreview-hercheunfong
+  state:
+    shortLink: https://link.webring.in.th/1854
 245a1a179712fe246423c166c20f1568:facebook:
   spec:
     title: Spring Modulith 1.0 GA ออกมาแล้ว [somkiat.cc]
