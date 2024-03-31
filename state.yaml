@@ -5375,6 +5375,25 @@
     url: https://mikelopster.dev/posts/functional-programming-basic/
   state:
     shortLink: https://webring.page.link/XNEr
+5a08e1afe23dc2e87ab61f5a336b5136:facebook:
+  spec:
+    title: 'Thailand Meetup: MongoDB Data Modeling Hands-on @SCK-Dojo [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/thailand-meetup-mongodb-data-modeling-hands-on/
+  state:
+    id: '100746876247412_385170977805484'
+    url: https://www.facebook.com/100683012920950/posts/385170977805484
+5a08e1afe23dc2e87ab61f5a336b5136:mastodon:
+  spec:
+    title: 'Thailand Meetup: MongoDB Data Modeling Hands-on @SCK-Dojo [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/03/thailand-meetup-mongodb-data-modeling-hands-on/
+  state:
+    id: '112188105338427487'
+    url: https://mastodon.in.th/@webring/112188105338427487
+5a08e1afe23dc2e87ab61f5a336b5136:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/03/thailand-meetup-mongodb-data-modeling-hands-on/
+  state:
+    shortLink: https://link.webring.in.th/1853
 5a1b59219b935759a4f09013fd0e0e94:facebook:
   spec:
     title: เรื่องของ Noise หรือสิ่งรบกวนที่ส่งผลต่อ Productivity [somkiat.cc]
