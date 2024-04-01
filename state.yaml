@@ -12740,6 +12740,25 @@ c6297aea9ca5b4b36a5b7c8ed1569cc6:shorturl:
     url: https://karnwong.me/posts/2023/09/spark-on-kubernetes/
   state:
     shortLink: https://webring.page.link/pqis
+c6a8ae664eba1a51749366e09cff6a06:facebook:
+  spec:
+    title: 'ทำความรู้จักกับ YARP: Yet Another Reverse Proxy [somkiat.cc]'
+    url: https://www.somkiat.cc/hello-yarp-yet-another-reverse-proxy/
+  state:
+    id: '100746876247412_385863387736243'
+    url: https://www.facebook.com/100683012920950/posts/385863387736243
+c6a8ae664eba1a51749366e09cff6a06:mastodon:
+  spec:
+    title: 'ทำความรู้จักกับ YARP: Yet Another Reverse Proxy [somkiat.cc]'
+    url: https://www.somkiat.cc/hello-yarp-yet-another-reverse-proxy/
+  state:
+    id: '112193767236153439'
+    url: https://mastodon.in.th/@webring/112193767236153439
+c6a8ae664eba1a51749366e09cff6a06:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-yarp-yet-another-reverse-proxy/
+  state:
+    shortLink: https://link.webring.in.th/1855
 c732d1ae59ae80f0612fc628f16adf0c:facebook:
   spec:
     title: 'Pattern: Strangler Fig Application #1 [boonsong.dev]'
