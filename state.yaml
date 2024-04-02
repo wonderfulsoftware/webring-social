@@ -8206,6 +8206,25 @@
     url: https://www.anuwong.com/blog/personal-assistant-bot-with-telegram-and-notion/
   state:
     shortLink: https://webring.page.link/LnqZ
+815dfe3aef7161a279bdcc8e71b4d574:facebook:
+  spec:
+    title: ทำการตรวจสอบ xz (liblzma 5.6.1) บนเครื่อง Mac กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/macos-downgrade-xz-liblzma/
+  state:
+    id: '100746876247412_386524757670106'
+    url: https://www.facebook.com/100683012920950/posts/386524757670106
+815dfe3aef7161a279bdcc8e71b4d574:mastodon:
+  spec:
+    title: ทำการตรวจสอบ xz (liblzma 5.6.1) บนเครื่อง Mac กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/macos-downgrade-xz-liblzma/
+  state:
+    id: '112199432506807832'
+    url: https://mastodon.in.th/@webring/112199432506807832
+815dfe3aef7161a279bdcc8e71b4d574:shorturl:
+  spec:
+    url: https://www.somkiat.cc/macos-downgrade-xz-liblzma/
+  state:
+    shortLink: https://link.webring.in.th/1856
 81bec684aff8a5e6d35d1eb7124989d8:facebook:
   spec:
     title: Playwright 1.32 มาพร้อมกับ UI Mode (preview) [somkiat.cc]
