@@ -5869,6 +5869,25 @@
     url: https://mesodiar.com/what-i-learned-from-gdg-sea-summit-2023-eng-ver-f1f9dc1d8310?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/cUXZ
+5fee7ec3fd141f9283612a0b424979e7:facebook:
+  spec:
+    title: 'Resource: Secure storage for Azure Files and Azure Blob Storage (MS Applied Skills) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/04/resource-secure-storage-for-azure-files-and-azure-blob-storage-ms-applied-skills/
+  state:
+    id: '100746876247412_387255477597034'
+    url: https://www.facebook.com/100683012920950/posts/387255477597034
+5fee7ec3fd141f9283612a0b424979e7:mastodon:
+  spec:
+    title: 'Resource: Secure storage for Azure Files and Azure Blob Storage (MS Applied Skills) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/04/resource-secure-storage-for-azure-files-and-azure-blob-storage-ms-applied-skills/
+  state:
+    id: '112205806749533526'
+    url: https://mastodon.in.th/@webring/112205806749533526
+5fee7ec3fd141f9283612a0b424979e7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/04/resource-secure-storage-for-azure-files-and-azure-blob-storage-ms-applied-skills/
+  state:
+    shortLink: https://link.webring.in.th/1858
 5ffd0bf793fac26558c83def799a470e:facebook:
   spec:
     title: Hint the Hidden Heirloom [neizod.dev]
