@@ -2240,6 +2240,25 @@
     url: https://www.somkiat.cc/nodejs-21/
   state:
     shortLink: https://webring.page.link/q3au
+2303ff01189774dc861779de87f3dfc9:facebook:
+  spec:
+    title: iPhone เครื่องร้อน ? ลองเปลี่ยนค่ายสัญญาณมือถือดูสิ [blog.kpping.me]
+    url: https://blog.kpping.me/posts/iphone-running-hot/
+  state:
+    id: '100746876247412_387173420938573'
+    url: https://www.facebook.com/100683012920950/posts/387173420938573
+2303ff01189774dc861779de87f3dfc9:mastodon:
+  spec:
+    title: iPhone เครื่องร้อน ? ลองเปลี่ยนค่ายสัญญาณมือถือดูสิ [blog.kpping.me]
+    url: https://blog.kpping.me/posts/iphone-running-hot/
+  state:
+    id: '112205095044935925'
+    url: https://mastodon.in.th/@webring/112205095044935925
+2303ff01189774dc861779de87f3dfc9:shorturl:
+  spec:
+    url: https://blog.kpping.me/posts/iphone-running-hot/
+  state:
+    shortLink: https://link.webring.in.th/1857
 236954767bc9158e3586b9b5b78e6788:facebook:
   spec:
     title: '[NUGET] error NU1101 + warning NU1801 ตอน Build ผ่าน Jenkins Windows Service [debuggingsoft.com]'
