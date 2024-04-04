@@ -3456,6 +3456,25 @@
     url: https://garden.narze.live/VSCode-Extension-Pack/
   state:
     shortLink: https://webring.page.link/SiJ8
+3563eeb1b3e9425c603ace4021b6602e:facebook:
+  spec:
+    title: การแปลงสัมพรรค [neizod.dev]
+    url: https://neizod.dev/2024/04/03/affine-transformation.html
+  state:
+    id: '100746876247412_387860527536529'
+    url: https://www.facebook.com/100683012920950/posts/387860527536529
+3563eeb1b3e9425c603ace4021b6602e:mastodon:
+  spec:
+    title: การแปลงสัมพรรค [neizod.dev]
+    url: https://neizod.dev/2024/04/03/affine-transformation.html
+  state:
+    id: '112211469381884407'
+    url: https://mastodon.in.th/@webring/112211469381884407
+3563eeb1b3e9425c603ace4021b6602e:shorturl:
+  spec:
+    url: https://neizod.dev/2024/04/03/affine-transformation.html
+  state:
+    shortLink: https://link.webring.in.th/1860
 3579ff1000c4f633fb7162a348325832:facebook:
   spec:
     title: อัพเดตข่าวสารอาชีพประจำปี กับงาน Android Bangkok Conference 2023 [mikkipastel.com]
