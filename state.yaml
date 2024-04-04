@@ -3323,6 +3323,25 @@
     url: https://mikelopster.dev/posts/web-vitals/
   state:
     shortLink: https://link.webring.in.th/1731
+340785e5f77f427c536a4c4e805af358:facebook:
+  spec:
+    title: 'ลองใช้งาน Runme :: เมื่อไฟล์ Markdown สามารถ execute ได้ [somkiat.cc]'
+    url: https://www.somkiat.cc/use-runme-markdown/
+  state:
+    id: '100746876247412_387791417543440'
+    url: https://www.facebook.com/100683012920950/posts/387791417543440
+340785e5f77f427c536a4c4e805af358:mastodon:
+  spec:
+    title: 'ลองใช้งาน Runme :: เมื่อไฟล์ Markdown สามารถ execute ได้ [somkiat.cc]'
+    url: https://www.somkiat.cc/use-runme-markdown/
+  state:
+    id: '112210759133031807'
+    url: https://mastodon.in.th/@webring/112210759133031807
+340785e5f77f427c536a4c4e805af358:shorturl:
+  spec:
+    url: https://www.somkiat.cc/use-runme-markdown/
+  state:
+    shortLink: https://link.webring.in.th/1859
 34152e4dd7cd9eae3273c0c1d3098614:facebook:
   spec:
     title: Illustration - ルシア👒#ツインテールの日 [lucian.solutions]
