@@ -8206,6 +8206,25 @@
     url: https://garden.narze.live/rubyconf-th-2023/
   state:
     shortLink: https://webring.page.link/ZR7F
+7ffcc3bbccbbde6468fb49c32b1fd442:facebook:
+  spec:
+    title: '[KBTG-GO#05] DevOps [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/04/kbtg-golang-devops/
+  state:
+    id: '100746876247412_387930647529517'
+    url: https://www.facebook.com/100683012920950/posts/387930647529517
+7ffcc3bbccbbde6468fb49c32b1fd442:mastodon:
+  spec:
+    title: '[KBTG-GO#05] DevOps [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/04/kbtg-golang-devops/
+  state:
+    id: '112212168030486248'
+    url: https://mastodon.in.th/@webring/112212168030486248
+7ffcc3bbccbbde6468fb49c32b1fd442:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/04/kbtg-golang-devops/
+  state:
+    shortLink: https://link.webring.in.th/1861
 8057ca8dfc31aae5cc0187e4e24b3ba9:facebook:
   spec:
     title: Using Apache Iceberg to reduce data lake operations overhead [karnwong.me]
