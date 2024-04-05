@@ -4368,6 +4368,25 @@
     url: https://www.somkiat.cc/infoq-culture-methods-trends-2023/
   state:
     shortLink: https://webring.page.link/iKWG
+460fa65d5722d0143bc6dc57ee7e067a:facebook:
+  spec:
+    title: การแปลงสัมพรรค [neizod.dev]
+    url: https://neizod.dev/2024/04/04/affine-transformation.html
+  state:
+    id: '100746876247412_388403237482258'
+    url: https://www.facebook.com/100683012920950/posts/388403237482258
+460fa65d5722d0143bc6dc57ee7e067a:mastodon:
+  spec:
+    title: การแปลงสัมพรรค [neizod.dev]
+    url: https://neizod.dev/2024/04/04/affine-transformation.html
+  state:
+    id: '112216420471280350'
+    url: https://mastodon.in.th/@webring/112216420471280350
+460fa65d5722d0143bc6dc57ee7e067a:shorturl:
+  spec:
+    url: https://neizod.dev/2024/04/04/affine-transformation.html
+  state:
+    shortLink: https://link.webring.in.th/1862
 46237783a49193dfe197e08f1e0ac3d4:facebook:
   spec:
     title: '[CR] ข้าวหมูทอด เฮียวงค์ (BTS วงเวียนใหญ่) [debuggingsoft.com]'
@@ -9937,14 +9956,14 @@
     shortLink: https://webring.page.link/j1Kv
 9719609adaba5b9bffe6fbdac71a237c:facebook:
   spec:
-    title: Deploy Astro Hybrid rendering site on Clouldflare Pages [ntsd.dev]
+    title: Deploy Astro Hybrid rendering site on Cloudflare Pages [ntsd.dev]
     url: https://ntsd.dev/deploy-astro-on-clouflare-page/
   state:
     id: '100746876247412_293472190308697'
     url: https://www.facebook.com/100683012920950/posts/293472190308697
 9719609adaba5b9bffe6fbdac71a237c:mastodon:
   spec:
-    title: Deploy Astro Hybrid rendering site on Clouldflare Pages [ntsd.dev]
+    title: Deploy Astro Hybrid rendering site on Cloudflare Pages [ntsd.dev]
     url: https://ntsd.dev/deploy-astro-on-clouflare-page/
   state:
     id: '111335245362645737'
