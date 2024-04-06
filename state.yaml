@@ -4159,6 +4159,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/knowledge-note-it-should-be-created-immediately-not-to-create-when-you-plan-to-resign/
   state:
     shortLink: https://webring.page.link/qhLV
+40128e8c930f90a406b490b8042fca95:facebook:
+  spec:
+    title: สิ่งที่น่าสนใจใน Technology Radar 2024 Volume 30 [somkiat.cc]
+    url: https://www.somkiat.cc/technology-radar-2024-volume-30/
+  state:
+    id: '100746876247412_389098270746088'
+    url: https://www.facebook.com/100683012920950/posts/389098270746088
+40128e8c930f90a406b490b8042fca95:mastodon:
+  spec:
+    title: สิ่งที่น่าสนใจใน Technology Radar 2024 Volume 30 [somkiat.cc]
+    url: https://www.somkiat.cc/technology-radar-2024-volume-30/
+  state:
+    id: '112222792325045153'
+    url: https://mastodon.in.th/@webring/112222792325045153
+40128e8c930f90a406b490b8042fca95:shorturl:
+  spec:
+    url: https://www.somkiat.cc/technology-radar-2024-volume-30/
+  state:
+    shortLink: https://link.webring.in.th/1864
 4076586879161786b0fd6c1e88b05af3:facebook:
   spec:
     title: Keyboard [llun.me]
