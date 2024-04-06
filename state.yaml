@@ -910,6 +910,25 @@
     url: https://nitpum.com/post/edge-z-index-tool/
   state:
     shortLink: https://webring.page.link/Hv1E
+107b336db7cada02ff15afc348b83d45:facebook:
+  spec:
+    title: Performance Issue [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/04/performance-issue/
+  state:
+    id: '100746876247412_389019720753943'
+    url: https://www.facebook.com/100683012920950/posts/389019720753943
+107b336db7cada02ff15afc348b83d45:mastodon:
+  spec:
+    title: Performance Issue [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/04/performance-issue/
+  state:
+    id: '112222079689793039'
+    url: https://mastodon.in.th/@webring/112222079689793039
+107b336db7cada02ff15afc348b83d45:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/04/performance-issue/
+  state:
+    shortLink: https://link.webring.in.th/1863
 10b5732a0d6a8024d6df09fdce082c4f:facebook:
   spec:
     title: '[KBTG-GO#04] API Design [debuggingsoft.com]'
