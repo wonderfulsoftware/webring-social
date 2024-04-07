@@ -5983,6 +5983,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/04/resource-secure-storage-for-azure-files-and-azure-blob-storage-ms-applied-skills/
   state:
     shortLink: https://link.webring.in.th/1858
+5ffb48ec5b0f6d583707b4918d597deb:facebook:
+  spec:
+    title: ไม่จำเป็นต้องมี Solution ให้ทุกอย่างก็ได้ [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/we-dont-have-to-have-solution-for-everything/
+  state:
+    id: '100746876247412_389649780690937'
+    url: https://www.facebook.com/100683012920950/posts/389649780690937
+5ffb48ec5b0f6d583707b4918d597deb:mastodon:
+  spec:
+    title: ไม่จำเป็นต้องมี Solution ให้ทุกอย่างก็ได้ [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/we-dont-have-to-have-solution-for-everything/
+  state:
+    id: '112227741609586345'
+    url: https://mastodon.in.th/@webring/112227741609586345
+5ffb48ec5b0f6d583707b4918d597deb:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/we-dont-have-to-have-solution-for-everything/
+  state:
+    shortLink: https://link.webring.in.th/1865
 5ffd0bf793fac26558c83def799a470e:facebook:
   spec:
     title: Hint the Hidden Heirloom [neizod.dev]
