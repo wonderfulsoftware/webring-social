@@ -6876,6 +6876,25 @@
     url: https://www.karnwong.me/posts/2023/09/data-engineering-resources/
   state:
     shortLink: https://webring.page.link/H21p
+6bedbc00d5a6d9f90d6ec9f67daadc84:facebook:
+  spec:
+    title: How to run curl in Kubernetes [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/04/how-to-run-curl-in-kubernetes/
+  state:
+    id: '100746876247412_390581650597750'
+    url: https://www.facebook.com/100683012920950/posts/390581650597750
+6bedbc00d5a6d9f90d6ec9f67daadc84:mastodon:
+  spec:
+    title: How to run curl in Kubernetes [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/04/how-to-run-curl-in-kubernetes/
+  state:
+    id: '112236230345900043'
+    url: https://mastodon.in.th/@webring/112236230345900043
+6bedbc00d5a6d9f90d6ec9f67daadc84:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/04/how-to-run-curl-in-kubernetes/
+  state:
+    shortLink: https://link.webring.in.th/1868
 6c8b2768ba42e99bf0aecb8053e009eb:facebook:
   spec:
     title: Illustration - 2023のゆきみさん ❄ [lucian.solutions]
