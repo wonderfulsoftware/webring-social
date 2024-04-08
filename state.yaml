@@ -1100,6 +1100,25 @@
     url: https://www.somkiat.cc/note-from-how-quora-scaled-mysql/
   state:
     shortLink: https://webring.page.link/3Hab
+13a28797c23558ba2ee59a1a6aff2960:facebook:
+  spec:
+    title: บันทึก IWD 2024 เวียงจันทน์ ลาวครั้งแรกที่เกือบหลับแต่กลับมาได้ [mesodiar.com]
+    url: https://mesodiar.com/2024/04/06/iwd-vientiane-2024/
+  state:
+    id: '100746876247412_390494817273100'
+    url: https://www.facebook.com/100683012920950/posts/390494817273100
+13a28797c23558ba2ee59a1a6aff2960:mastodon:
+  spec:
+    title: บันทึก IWD 2024 เวียงจันทน์ ลาวครั้งแรกที่เกือบหลับแต่กลับมาได้ [mesodiar.com]
+    url: https://mesodiar.com/2024/04/06/iwd-vientiane-2024/
+  state:
+    id: '112235551657722218'
+    url: https://mastodon.in.th/@webring/112235551657722218
+13a28797c23558ba2ee59a1a6aff2960:shorturl:
+  spec:
+    url: https://mesodiar.com/2024/04/06/iwd-vientiane-2024/
+  state:
+    shortLink: https://link.webring.in.th/1867
 13fa91c6861ebfb475508351fa2dfa09:facebook:
   spec:
     title: ทำสองภาษาใน Next.js ที่เป็น App directory [kajame.xyz]
