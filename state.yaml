@@ -13842,6 +13842,25 @@ d384f899f92a93ab0815513af2e6e3e0:shorturl:
     url: https://lucian.solutions/blog/line-stickers-lucian-solutions
   state:
     shortLink: https://webring.page.link/MDjC
+d3b7895f3b3f07080b4fa161f27f29fe:facebook:
+  spec:
+    title: Faster spark workloads with comet [karnwong.me]
+    url: https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/
+  state:
+    id: '100746876247412_390279810627934'
+    url: https://www.facebook.com/100683012920950/posts/390279810627934
+d3b7895f3b3f07080b4fa161f27f29fe:mastodon:
+  spec:
+    title: Faster spark workloads with comet [karnwong.me]
+    url: https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/
+  state:
+    id: '112233405707696910'
+    url: https://mastodon.in.th/@webring/112233405707696910
+d3b7895f3b3f07080b4fa161f27f29fe:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/
+  state:
+    shortLink: https://link.webring.in.th/1866
 d43d61f3576e738bae612abd09c7d2a2:facebook:
   spec:
     title: WSL alias suggestion [jitrak.dev]
