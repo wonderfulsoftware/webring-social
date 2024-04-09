@@ -15685,6 +15685,25 @@ f1c5165867c774257acfde73e1ec6b5e:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/09/microsoft-certification-exam-az-104-note/
   state:
     shortLink: https://webring.page.link/pBw5
+f1d76ffe531466e11467c767ce1c3d48:facebook:
+  spec:
+    title: LEGO ดวงอาทิตย์-ดวงจันทร์-โลก [neizod.dev]
+    url: https://neizod.dev/2024/04/08/lego-orrery.html
+  state:
+    id: '100746876247412_390898007232781'
+    url: https://www.facebook.com/100683012920950/posts/390898007232781
+f1d76ffe531466e11467c767ce1c3d48:mastodon:
+  spec:
+    title: LEGO ดวงอาทิตย์-ดวงจันทร์-โลก [neizod.dev]
+    url: https://neizod.dev/2024/04/08/lego-orrery.html
+  state:
+    id: '112239070444151745'
+    url: https://mastodon.in.th/@webring/112239070444151745
+f1d76ffe531466e11467c767ce1c3d48:shorturl:
+  spec:
+    url: https://neizod.dev/2024/04/08/lego-orrery.html
+  state:
+    shortLink: https://link.webring.in.th/1869
 f1fa46c7a74daef8db39789aeb01d989:facebook:
   spec:
     title: Reduce operational costs with terraform [karnwong.me]
