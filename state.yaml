@@ -2943,6 +2943,25 @@
     url: https://www.somkiat.cc/go-with-slog/
   state:
     shortLink: https://webring.page.link/4VZF
+2c9d457cb94cfd4860db6141c09abff5:facebook:
+  spec:
+    title: XLOOKUP ใช้ ยังไงให้เจ๋ง? เพิ่มประสิทธิภาพด้วย Binary Search [wawasabii.com]
+    url: https://wawasabii.com/blog/xlookup-vs-vlookup-part2-xlookup-binary-search/
+  state:
+    id: '100746876247412_391564560499459'
+    url: https://www.facebook.com/100683012920950/posts/391564560499459
+2c9d457cb94cfd4860db6141c09abff5:mastodon:
+  spec:
+    title: XLOOKUP ใช้ ยังไงให้เจ๋ง? เพิ่มประสิทธิภาพด้วย Binary Search [wawasabii.com]
+    url: https://wawasabii.com/blog/xlookup-vs-vlookup-part2-xlookup-binary-search/
+  state:
+    id: '112244734276664335'
+    url: https://mastodon.in.th/@webring/112244734276664335
+2c9d457cb94cfd4860db6141c09abff5:shorturl:
+  spec:
+    url: https://wawasabii.com/blog/xlookup-vs-vlookup-part2-xlookup-binary-search/
+  state:
+    shortLink: https://link.webring.in.th/1870
 2cb8f6c4ae3b8766ca11cad56867976b:facebook:
   spec:
     title: SEO คืออะไร ? และจะทำ SEO ได้อย่างไร [taoisaman.com]
