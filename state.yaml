@@ -10885,6 +10885,25 @@ a491716d589e8e9b334735131fca8ad6:shorturl:
     url: https://www.somkiat.cc/docker-tips-multi-architecture-image/
   state:
     shortLink: https://webring.page.link/WWRV
+a49f7ff2c69f2778904ab347447b364d:facebook:
+  spec:
+    title: Entity type IdentityUserLogin requires a primary key [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/04/entity-type-identityuserlogin-requires-a-primary-key/
+  state:
+    id: '100746876247412_391652940490621'
+    url: https://www.facebook.com/100683012920950/posts/391652940490621
+a49f7ff2c69f2778904ab347447b364d:mastodon:
+  spec:
+    title: Entity type IdentityUserLogin requires a primary key [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/04/entity-type-identityuserlogin-requires-a-primary-key/
+  state:
+    id: '112245446106796495'
+    url: https://mastodon.in.th/@webring/112245446106796495
+a49f7ff2c69f2778904ab347447b364d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/04/entity-type-identityuserlogin-requires-a-primary-key/
+  state:
+    shortLink: https://link.webring.in.th/1871
 a4a402da58b6a08d45144a0ae25feca7:facebook:
   spec:
     title: เปลี่ยนภาษาใน Windows 11 [debuggingsoft.com]
