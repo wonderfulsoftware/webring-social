@@ -7617,6 +7617,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/ltf-7-calendar-year/
   state:
     shortLink: https://webring.page.link/vB5L
+7400a48aa6bab990ed0ff88a8e801a02:facebook:
+  spec:
+    title: แนะนำ DrawDB เครื่องมือออกแบบสำหรับ Relational Database แบบ online [somkiat.cc]
+    url: https://www.somkiat.cc/drawdb-for-design-database/
+  state:
+    id: '100746876247412_392278777094704'
+    url: https://www.facebook.com/100683012920950/posts/392278777094704
+7400a48aa6bab990ed0ff88a8e801a02:mastodon:
+  spec:
+    title: แนะนำ DrawDB เครื่องมือออกแบบสำหรับ Relational Database แบบ online [somkiat.cc]
+    url: https://www.somkiat.cc/drawdb-for-design-database/
+  state:
+    id: '112251107302432233'
+    url: https://mastodon.in.th/@webring/112251107302432233
+7400a48aa6bab990ed0ff88a8e801a02:shorturl:
+  spec:
+    url: https://www.somkiat.cc/drawdb-for-design-database/
+  state:
+    shortLink: https://link.webring.in.th/1873
 742d0a08aa296868d85e6d966bdc5436:facebook:
   spec:
     title: มาดู feature ใหม่ ๆ ใน Docker 24.0.2 [somkiat.cc]
