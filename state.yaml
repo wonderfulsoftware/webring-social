@@ -4938,6 +4938,25 @@
     url: https://www.poolsawat.com/docker-compose-for-laravel8-mysql-phpmyadmin/
   state:
     shortLink: https://link.webring.in.th/1723
+4c9ee40f6dce3051343dd388fba6b36c:facebook:
+  spec:
+    title: DB2 Restore backup DB2 database with different database name [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/04/db2-restore-backup-db2-database-with-different-database-name/
+  state:
+    id: '100746876247412_393473330308582'
+    url: https://www.facebook.com/100683012920950/posts/393473330308582
+4c9ee40f6dce3051343dd388fba6b36c:mastodon:
+  spec:
+    title: DB2 Restore backup DB2 database with different database name [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/04/db2-restore-backup-db2-database-with-different-database-name/
+  state:
+    id: '112261706406389957'
+    url: https://mastodon.in.th/@webring/112261706406389957
+4c9ee40f6dce3051343dd388fba6b36c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/04/db2-restore-backup-db2-database-with-different-database-name/
+  state:
+    shortLink: https://link.webring.in.th/1874
 4cd3a125ff570cac1a897923b73a3cc3:facebook:
   spec:
     title: Side Projects Talk [garden.narze.live]
