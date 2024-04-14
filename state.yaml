@@ -11968,6 +11968,25 @@ b47b41b5411e568635b6c2936beeaad2:shorturl:
     url: https://www.somkiat.cc/hello-gleam/
   state:
     shortLink: https://webring.page.link/PeK2
+b523496aaef0dbab15c8fab0cdfbdc26:facebook:
+  spec:
+    title: เทคนิคการเตรียมตัวสำหรับ Speaker มือใหม่ [mesodiar.com]
+    url: https://mesodiar.com/2024/04/13/speaker-newbie-technique/
+  state:
+    id: '100746876247412_394146293574619'
+    url: https://www.facebook.com/100683012920950/posts/394146293574619
+b523496aaef0dbab15c8fab0cdfbdc26:mastodon:
+  spec:
+    title: เทคนิคการเตรียมตัวสำหรับ Speaker มือใหม่ [mesodiar.com]
+    url: https://mesodiar.com/2024/04/13/speaker-newbie-technique/
+  state:
+    id: '112267532320121604'
+    url: https://mastodon.in.th/@webring/112267532320121604
+b523496aaef0dbab15c8fab0cdfbdc26:shorturl:
+  spec:
+    url: https://mesodiar.com/2024/04/13/speaker-newbie-technique/
+  state:
+    shortLink: https://link.webring.in.th/1876
 b534a5d73bd624f67b27fe8cd0bde7d6:facebook:
   spec:
     title: ลองใช้ Built-in env file ใน Node 20 [anuwong.com]
