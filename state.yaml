@@ -9156,6 +9156,25 @@
     url: https://rayriffy.com/garden/caddy-easy-config/
   state:
     shortLink: https://link.webring.in.th/1718
+89eb43ee1e53f939f10623e29f4c525d:facebook:
+  spec:
+    title: จัดการ logging ใน Spring boot ด้วย Loki [somkiat.cc]
+    url: https://www.somkiat.cc/logging-in-spring-boot-with-loki/
+  state:
+    id: '100746876247412_394262233563025'
+    url: https://www.facebook.com/100683012920950/posts/394262233563025
+89eb43ee1e53f939f10623e29f4c525d:mastodon:
+  spec:
+    title: จัดการ logging ใน Spring boot ด้วย Loki [somkiat.cc]
+    url: https://www.somkiat.cc/logging-in-spring-boot-with-loki/
+  state:
+    id: '112268482460108349'
+    url: https://mastodon.in.th/@webring/112268482460108349
+89eb43ee1e53f939f10623e29f4c525d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/logging-in-spring-boot-with-loki/
+  state:
+    shortLink: https://link.webring.in.th/1877
 8a11096b6f1264ff832be3e82977504f:facebook:
   spec:
     title: TP-Link MR600 - LTE Router [blog.kpping.me]
