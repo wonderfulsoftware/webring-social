@@ -11664,6 +11664,25 @@ aeabb3bc97ad47ca1c19a29b3f6200e4:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/03/dotnet-container-cannot-start-on-podman-2-0-x-failed-to-create-coreclr-hresult-0x80070008/
   state:
     shortLink: https://link.webring.in.th/1838
+aeae4386ab11f84d2e5a3d937b2a7662:facebook:
+  spec:
+    title: '[PostgreSQL] docker compose for PostgreSQL and PGAdmin [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/04/postgresql-docker-compose-for-postgresql-and-pgadmin/
+  state:
+    id: '100746876247412_396037090052206'
+    url: https://www.facebook.com/100683012920950/posts/396037090052206
+aeae4386ab11f84d2e5a3d937b2a7662:mastodon:
+  spec:
+    title: '[PostgreSQL] docker compose for PostgreSQL and PGAdmin [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/04/postgresql-docker-compose-for-postgresql-and-pgadmin/
+  state:
+    id: '112284363537979715'
+    url: https://mastodon.in.th/@webring/112284363537979715
+aeae4386ab11f84d2e5a3d937b2a7662:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/04/postgresql-docker-compose-for-postgresql-and-pgadmin/
+  state:
+    shortLink: https://link.webring.in.th/1878
 aedd782525d4406fc0085e094e96b1ea:facebook:
   spec:
     title: 'Key Takeaways: “ถ้า Agile มันทำให้ แผนกรอบข้าง ยากนัก กลับมาทำ Waterfall ก็ได้นะครับ” [myifew.com]'
