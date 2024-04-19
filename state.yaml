@@ -1841,6 +1841,25 @@
     url: https://yuttakhanb.dev/posts/short-note-from-book-metamorphosis/
   state:
     shortLink: https://webring.page.link/d2VQ
+1cc2f7e7956a38ecacd6a75db7366068:facebook:
+  spec:
+    title: รวมมิตรอัพเดตแพชครั้งใหญ่ กับ Kotlin DSL กับ toml [mikkipastel.com]
+    url: https://www.mikkipastel.com/migrate-project-to-kotlin-dsl-and-toml/
+  state:
+    id: '100746876247412_397477823241466'
+    url: https://www.facebook.com/100683012920950/posts/397477823241466
+1cc2f7e7956a38ecacd6a75db7366068:mastodon:
+  spec:
+    title: รวมมิตรอัพเดตแพชครั้งใหญ่ กับ Kotlin DSL กับ toml [mikkipastel.com]
+    url: https://www.mikkipastel.com/migrate-project-to-kotlin-dsl-and-toml/
+  state:
+    id: '112297837723939044'
+    url: https://mastodon.in.th/@webring/112297837723939044
+1cc2f7e7956a38ecacd6a75db7366068:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/migrate-project-to-kotlin-dsl-and-toml/
+  state:
+    shortLink: https://link.webring.in.th/1882
 1cd21d8b0fa974479227ff21b6e8448f:facebook:
   spec:
     title: DB2 Driver งงไปหมดด [debuggingsoft.com]
