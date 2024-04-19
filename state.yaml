@@ -14507,6 +14507,25 @@ dae78c8e30afdbd7d3042bcebe76aee2:shorturl:
     url: https://neizod.dev/2023/11/13/subset-sum-on-modular-arithmetic.html
   state:
     shortLink: https://webring.page.link/yWxA
+dae7aa113e5193ca17be59cb5dc1458f:facebook:
+  spec:
+    title: เพิ่งเห็นว่า `version` is obsolete ใน Docker compose แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/version-is-obsolete-in-docker-compose/
+  state:
+    id: '100746876247412_397254553263793'
+    url: https://www.facebook.com/100683012920950/posts/397254553263793
+dae7aa113e5193ca17be59cb5dc1458f:mastodon:
+  spec:
+    title: เพิ่งเห็นว่า `version` is obsolete ใน Docker compose แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/version-is-obsolete-in-docker-compose/
+  state:
+    id: '112295688482686094'
+    url: https://mastodon.in.th/@webring/112295688482686094
+dae7aa113e5193ca17be59cb5dc1458f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/version-is-obsolete-in-docker-compose/
+  state:
+    shortLink: https://link.webring.in.th/1879
 daee15494ee0f644a84b3adbdc30dced:facebook:
   spec:
     title: ลองสร้าง project php หลายตัวใส่ใน nginx ใน docker [kajame.xyz]
