@@ -11398,6 +11398,25 @@ aaf877059c5822ad544decf67851c49d:shorturl:
     url: https://mikelopster.dev/posts/auth0-basic/
   state:
     shortLink: https://link.webring.in.th/1779
+ab2cd2766eadfa93667f081fc37a902e:facebook:
+  spec:
+    title: '[KBTG-GO#06] Refactoring with Go [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/04/kbtg-golang-refactoring-with-go/
+  state:
+    id: '100746876247412_397325596590022'
+    url: https://www.facebook.com/100683012920950/posts/397325596590022
+ab2cd2766eadfa93667f081fc37a902e:mastodon:
+  spec:
+    title: '[KBTG-GO#06] Refactoring with Go [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/04/kbtg-golang-refactoring-with-go/
+  state:
+    id: '112296408743731740'
+    url: https://mastodon.in.th/@webring/112296408743731740
+ab2cd2766eadfa93667f081fc37a902e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/04/kbtg-golang-refactoring-with-go/
+  state:
+    shortLink: https://link.webring.in.th/1880
 ab4df5526e56d1472f72d0ed3efb9755:facebook:
   spec:
     title: '[CR] ข้าวหมูย่างเกลือของดีประจำ 711 [debuggingsoft.com]'
