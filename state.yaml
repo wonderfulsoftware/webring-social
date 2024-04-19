@@ -13177,6 +13177,25 @@ c6a8ae664eba1a51749366e09cff6a06:shorturl:
     url: https://www.somkiat.cc/hello-yarp-yet-another-reverse-proxy/
   state:
     shortLink: https://link.webring.in.th/1855
+c6e37a1f78e36bfd0f69fe67d741d798:facebook:
+  spec:
+    title: การหมุนในสามมิติ (เมทริกซ์และควอเทอร์เนียน) [neizod.dev]
+    url: https://neizod.dev/2024/04/18/3d-rotation-matrix-and-quaternion.html
+  state:
+    id: '100746876247412_397396836582898'
+    url: https://www.facebook.com/100683012920950/posts/397396836582898
+c6e37a1f78e36bfd0f69fe67d741d798:mastodon:
+  spec:
+    title: การหมุนในสามมิติ (เมทริกซ์และควอเทอร์เนียน) [neizod.dev]
+    url: https://neizod.dev/2024/04/18/3d-rotation-matrix-and-quaternion.html
+  state:
+    id: '112297102343878908'
+    url: https://mastodon.in.th/@webring/112297102343878908
+c6e37a1f78e36bfd0f69fe67d741d798:shorturl:
+  spec:
+    url: https://neizod.dev/2024/04/18/3d-rotation-matrix-and-quaternion.html
+  state:
+    shortLink: https://link.webring.in.th/1881
 c732d1ae59ae80f0612fc628f16adf0c:facebook:
   spec:
     title: 'Pattern: Strangler Fig Application #1 [boonsong.dev]'
