@@ -492,6 +492,25 @@
     url: https://www.somkiat.cc/docker-scout/
   state:
     shortLink: https://webring.page.link/DYym
+0a4107a8c2b0ec9ad04c9d8835c47d64:facebook:
+  spec:
+    title: สรุปสิ่งที่น่าสนใจจาก Testing methodologies ของ Jakarta EE project [somkiat.cc]
+    url: https://www.somkiat.cc/note-testing-methodologies-of-jakarta-ee-project/
+  state:
+    id: '100746876247412_397855059870409'
+    url: https://www.facebook.com/100683012920950/posts/397855059870409
+0a4107a8c2b0ec9ad04c9d8835c47d64:mastodon:
+  spec:
+    title: สรุปสิ่งที่น่าสนใจจาก Testing methodologies ของ Jakarta EE project [somkiat.cc]
+    url: https://www.somkiat.cc/note-testing-methodologies-of-jakarta-ee-project/
+  state:
+    id: '112301354037311195'
+    url: https://mastodon.in.th/@webring/112301354037311195
+0a4107a8c2b0ec9ad04c9d8835c47d64:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-testing-methodologies-of-jakarta-ee-project/
+  state:
+    shortLink: https://link.webring.in.th/1883
 0ab0e635acdcc54ec533091109729386:facebook:
   spec:
     title: Accessing user ID in NextAuth.js with JWT session [dt.in.th]
