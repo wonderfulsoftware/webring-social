@@ -12234,6 +12234,25 @@ b76257d32b97c558d95abb76c3c22c4c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week15-net-aspire-how-to-obs-project/
   state:
     shortLink: https://webring.page.link/1iii
+b7669f2d904c45ca949058f81203ae5f:facebook:
+  spec:
+    title: มาลองใช้งาน bld [somkiat.cc]
+    url: https://www.somkiat.cc/use-bld-to-build-java-project/
+  state:
+    id: '100746876247412_398695713119677'
+    url: https://www.facebook.com/100683012920950/posts/398695713119677
+b7669f2d904c45ca949058f81203ae5f:mastodon:
+  spec:
+    title: มาลองใช้งาน bld [somkiat.cc]
+    url: https://www.somkiat.cc/use-bld-to-build-java-project/
+  state:
+    id: '112309160873675621'
+    url: https://mastodon.in.th/@webring/112309160873675621
+b7669f2d904c45ca949058f81203ae5f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/use-bld-to-build-java-project/
+  state:
+    shortLink: https://link.webring.in.th/1888
 b797a9417c07e98ed497ea455ee73a77:facebook:
   spec:
     title: มาดูความสามารถใหม่ ๆ ใน PostgreSQL 16 กัน [somkiat.cc]
