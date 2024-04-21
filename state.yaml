@@ -15780,6 +15780,25 @@ edb3391e406219df0fbc10c9d51faeb6:shorturl:
     url: https://kajame.xyz/blog/2024/strapi-on-docker-ep3
   state:
     shortLink: https://link.webring.in.th/1740
+edda9e635515fde6e153388671b1f70f:facebook:
+  spec:
+    title: พร้อมแค่ไหนถึงจะยื่นสมัครงาน? [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/how-ready-you-have-to-be-before-applying-for-jobs/
+  state:
+    id: '100746876247412_398613483127900'
+    url: https://www.facebook.com/100683012920950/posts/398613483127900
+edda9e635515fde6e153388671b1f70f:mastodon:
+  spec:
+    title: พร้อมแค่ไหนถึงจะยื่นสมัครงาน? [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/how-ready-you-have-to-be-before-applying-for-jobs/
+  state:
+    id: '112308426829361016'
+    url: https://mastodon.in.th/@webring/112308426829361016
+edda9e635515fde6e153388671b1f70f:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/how-ready-you-have-to-be-before-applying-for-jobs/
+  state:
+    shortLink: https://link.webring.in.th/1887
 edeb94abe2f98a95e84818306238de37:facebook:
   spec:
     title: Create Kubernetes service accounts with Terraform [karnwong.me]
