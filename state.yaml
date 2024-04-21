@@ -9859,6 +9859,25 @@
     url: https://www.llun.me/posts/2022-12-31-2022
   state:
     shortLink: https://webring.page.link/GfBB
+925c6f33fe3aeb08174c950b296d4fd4:facebook:
+  spec:
+    title: Getting Tailwind CSS 4 (alpha 14) to run in the browser [dt.in.th]
+    url: https://notes.dt.in.th/TailwindCSS4Alpha14Notes
+  state:
+    id: '100746876247412_398537793135469'
+    url: https://www.facebook.com/100683012920950/posts/398537793135469
+925c6f33fe3aeb08174c950b296d4fd4:mastodon:
+  spec:
+    title: Getting Tailwind CSS 4 (alpha 14) to run in the browser [dt.in.th]
+    url: https://notes.dt.in.th/TailwindCSS4Alpha14Notes
+  state:
+    id: '112307732264180246'
+    url: https://mastodon.in.th/@webring/112307732264180246
+925c6f33fe3aeb08174c950b296d4fd4:shorturl:
+  spec:
+    url: https://notes.dt.in.th/TailwindCSS4Alpha14Notes
+  state:
+    shortLink: https://link.webring.in.th/1886
 92cdc727254daccc84b0381ac073b6db:facebook:
   spec:
     title: อีก 10 ชั่วโมง ไปร่วมฟัง Java 21 Launch Event [somkiat.cc]
