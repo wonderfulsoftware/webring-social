@@ -3323,6 +3323,25 @@
     url: https://mikelopster.dev/posts/nestjs-mongo/
   state:
     shortLink: https://link.webring.in.th/1817
+303971371bc08945012ef1b78125209e:facebook:
+  spec:
+    title: Illustration - FateAura [lucian.solutions]
+    url: https://lucian.solutions/blog/202404-fateaura
+  state:
+    id: '100746876247412_398785393110709'
+    url: https://www.facebook.com/100683012920950/posts/398785393110709
+303971371bc08945012ef1b78125209e:mastodon:
+  spec:
+    title: Illustration - FateAura [lucian.solutions]
+    url: https://lucian.solutions/blog/202404-fateaura
+  state:
+    id: '112309840747714159'
+    url: https://mastodon.in.th/@webring/112309840747714159
+303971371bc08945012ef1b78125209e:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202404-fateaura
+  state:
+    shortLink: https://link.webring.in.th/1889
 308d6911f2a8f3c648cb15aaecd28812:facebook:
   spec:
     title: '#แก้ชงปีเถาะ ที่ดันเจี้ยนวัดมังกรกมลาวาส และวัดทิพยวารีวิหาร [debuggingsoft.com]'
