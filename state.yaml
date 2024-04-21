@@ -3171,6 +3171,25 @@
     url: https://mikelopster.dev/posts/react-redux/
   state:
     shortLink: https://link.webring.in.th/1767
+2e160560360a8f24ae705ce6fd1593ae:facebook:
+  spec:
+    title: สรุปงาน Global Azure 2024 – Thailand [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/04/global-azure-2024-thailand-workshop-and-talk-summary/
+  state:
+    id: '100746876247412_398457533143495'
+    url: https://www.facebook.com/100683012920950/posts/398457533143495
+2e160560360a8f24ae705ce6fd1593ae:mastodon:
+  spec:
+    title: สรุปงาน Global Azure 2024 – Thailand [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/04/global-azure-2024-thailand-workshop-and-talk-summary/
+  state:
+    id: '112307010902754280'
+    url: https://mastodon.in.th/@webring/112307010902754280
+2e160560360a8f24ae705ce6fd1593ae:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/04/global-azure-2024-thailand-workshop-and-talk-summary/
+  state:
+    shortLink: https://link.webring.in.th/1885
 2e36d527a9401e8f93378cd517afca1d:facebook:
   spec:
     title: Firestore [llun.me]
