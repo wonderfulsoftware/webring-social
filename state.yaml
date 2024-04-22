@@ -12006,6 +12006,25 @@ b220dd9537e097e7bfe323aa295be7ef:shorturl:
     url: https://www.llun.me/posts/dev/2023-02-12-mastodon-timeline
   state:
     shortLink: https://webring.page.link/iL5t
+b248067f438f63e0da6c2940be830c4d:facebook:
+  spec:
+    title: Web สรุป Architecture Antipatterns ไว้ให้ครบ [somkiat.cc]
+    url: https://www.somkiat.cc/architecture-antipatterns/
+  state:
+    id: '100746876247412_399232209732694'
+    url: https://www.facebook.com/100683012920950/posts/399232209732694
+b248067f438f63e0da6c2940be830c4d:mastodon:
+  spec:
+    title: Web สรุป Architecture Antipatterns ไว้ให้ครบ [somkiat.cc]
+    url: https://www.somkiat.cc/architecture-antipatterns/
+  state:
+    id: '112314093228288679'
+    url: https://mastodon.in.th/@webring/112314093228288679
+b248067f438f63e0da6c2940be830c4d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/architecture-antipatterns/
+  state:
+    shortLink: https://link.webring.in.th/1892
 b26edc1fc31a0722b6170158e92ceb27:facebook:
   spec:
     title: Setting up Postgres locally, what could go wrong? [karnwong.me]
