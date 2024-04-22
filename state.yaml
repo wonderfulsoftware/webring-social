@@ -6895,6 +6895,25 @@
     url: https://www.somkiat.cc/ready-with-spring-boot-3/
   state:
     shortLink: https://webring.page.link/C5E9
+691a66acd76a353486aa16b6da45cc5e:facebook:
+  spec:
+    title: Drawing low resolution monochrome text with freetype-wasm [dt.in.th]
+    url: https://notes.dt.in.th/FreeTypeJSBlackWhiteText
+  state:
+    id: '100746876247412_399085076414074'
+    url: https://www.facebook.com/100683012920950/posts/399085076414074
+691a66acd76a353486aa16b6da45cc5e:mastodon:
+  spec:
+    title: Drawing low resolution monochrome text with freetype-wasm [dt.in.th]
+    url: https://notes.dt.in.th/FreeTypeJSBlackWhiteText
+  state:
+    id: '112312677606192245'
+    url: https://mastodon.in.th/@webring/112312677606192245
+691a66acd76a353486aa16b6da45cc5e:shorturl:
+  spec:
+    url: https://notes.dt.in.th/FreeTypeJSBlackWhiteText
+  state:
+    shortLink: https://link.webring.in.th/1890
 693ff22c6f06930af0a99b66778b2337:facebook:
   spec:
     title: ปรับปรุง performance การทดสอบของ Cypress ให้เร็วขึ้น [somkiat.cc]
@@ -12122,14 +12141,14 @@ b47b41b5411e568635b6c2936beeaad2:shorturl:
     shortLink: https://webring.page.link/PeK2
 b523496aaef0dbab15c8fab0cdfbdc26:facebook:
   spec:
-    title: เทคนิคการเตรียมตัวสำหรับ Speaker มือใหม่ [mesodiar.com]
+    title: เทคนิคการฝึกพูด present และ public speaking สำหรับมือใหม่ [mesodiar.com]
     url: https://mesodiar.com/2024/04/13/speaker-newbie-technique/
   state:
     id: '100746876247412_394146293574619'
     url: https://www.facebook.com/100683012920950/posts/394146293574619
 b523496aaef0dbab15c8fab0cdfbdc26:mastodon:
   spec:
-    title: เทคนิคการเตรียมตัวสำหรับ Speaker มือใหม่ [mesodiar.com]
+    title: เทคนิคการฝึกพูด present และ public speaking สำหรับมือใหม่ [mesodiar.com]
     url: https://mesodiar.com/2024/04/13/speaker-newbie-technique/
   state:
     id: '112267532320121604'
@@ -13540,14 +13559,14 @@ c9c25b647853b0f69a16ce356ff174eb:shorturl:
     shortLink: https://webring.page.link/ke3s
 ca36726214f549883d5b641d97065a1a:facebook:
   spec:
-    title: 'Pattern: Strangler Fig Application #1 [boonsong.dev]'
+    title: SSO Authentication ด้วย Sidecar Containers [boonsong.dev]
     url: https://www.boonsong.dev/sso-authentication-with-sidecar-ontainers
   state:
     id: '100746876247412_336931759296073'
     url: https://www.facebook.com/100683012920950/posts/336931759296073
 ca36726214f549883d5b641d97065a1a:mastodon:
   spec:
-    title: 'Pattern: Strangler Fig Application #1 [boonsong.dev]'
+    title: SSO Authentication ด้วย Sidecar Containers [boonsong.dev]
     url: https://www.boonsong.dev/sso-authentication-with-sidecar-ontainers
   state:
     id: '111746443118124787'
