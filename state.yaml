@@ -5660,6 +5660,25 @@
     url: https://mikelopster.dev/posts/functional-programming-basic/
   state:
     shortLink: https://webring.page.link/XNEr
+587f385e8d9f88fb116e401229671050:facebook:
+  spec:
+    title: สถิติหวย 30 ปีเมื่อความเชื่อก้าวข้ามขีดจำกัดของความน่าจะเป็น [wawasabii.com]
+    url: https://wawasabii.com/blog/thailand-lottery-statistic-30-years/
+  state:
+    id: '100746876247412_399162873072961'
+    url: https://www.facebook.com/100683012920950/posts/399162873072961
+587f385e8d9f88fb116e401229671050:mastodon:
+  spec:
+    title: สถิติหวย 30 ปีเมื่อความเชื่อก้าวข้ามขีดจำกัดของความน่าจะเป็น [wawasabii.com]
+    url: https://wawasabii.com/blog/thailand-lottery-statistic-30-years/
+  state:
+    id: '112313393974375317'
+    url: https://mastodon.in.th/@webring/112313393974375317
+587f385e8d9f88fb116e401229671050:shorturl:
+  spec:
+    url: https://wawasabii.com/blog/thailand-lottery-statistic-30-years/
+  state:
+    shortLink: https://link.webring.in.th/1891
 5a08e1afe23dc2e87ab61f5a336b5136:facebook:
   spec:
     title: 'Thailand Meetup: MongoDB Data Modeling Hands-on @SCK-Dojo [debuggingsoft.com]'
