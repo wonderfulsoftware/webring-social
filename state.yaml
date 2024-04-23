@@ -11474,6 +11474,25 @@ aa334862233d60e3426df6a45a743041:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/03/cr-%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b9%89%e0%b8%a1%e0%b9%80%e0%b8%99%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%9b%e0%b9%8b%e0%b8%b2%e0%b9%80%e0%b8%ab%e0%b8%a1%e0%b8%b5%e0%b9%88%e0%b8%a2/
   state:
     shortLink: https://webring.page.link/Fmvf
+aa94f3b86876c23634db63090b052804:facebook:
+  spec:
+    title: Integrating EDA with Legacy systems [boonsong.dev]
+    url: https://www.boonsong.dev/integrating-eda-with-legacy-systems
+  state:
+    id: '100746876247412_399703989685516'
+    url: https://www.facebook.com/100683012920950/posts/399703989685516
+aa94f3b86876c23634db63090b052804:mastodon:
+  spec:
+    title: Integrating EDA with Legacy systems [boonsong.dev]
+    url: https://www.boonsong.dev/integrating-eda-with-legacy-systems
+  state:
+    id: '112318338057860310'
+    url: https://mastodon.in.th/@webring/112318338057860310
+aa94f3b86876c23634db63090b052804:shorturl:
+  spec:
+    url: https://www.boonsong.dev/integrating-eda-with-legacy-systems
+  state:
+    shortLink: https://link.webring.in.th/1893
 aa9ba58effb188de9cf3cf14e931156f:facebook:
   spec:
     title: SDLC ขั้นตอนการทำซอฟต์แวร์ [tech.duckfollow.co]
