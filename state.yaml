@@ -15723,6 +15723,25 @@ eb5e4a06a6444396d5198023c5e650dc:shorturl:
     url: https://www.mikkipastel.com/how-to-capture-macbook-screen/
   state:
     shortLink: https://webring.page.link/hneJ
+eb82941eeb3ea9ead9c3fc12d2c19408:facebook:
+  spec:
+    title: Convert Date + Time to Number [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/04/convert-date-time-to-number/
+  state:
+    id: '100746876247412_400393092949939'
+    url: https://www.facebook.com/100683012920950/posts/400393092949939
+eb82941eeb3ea9ead9c3fc12d2c19408:mastodon:
+  spec:
+    title: Convert Date + Time to Number [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/04/convert-date-time-to-number/
+  state:
+    id: '112324003752200348'
+    url: https://mastodon.in.th/@webring/112324003752200348
+eb82941eeb3ea9ead9c3fc12d2c19408:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/04/convert-date-time-to-number/
+  state:
+    shortLink: https://link.webring.in.th/1894
 eba0071a589487ca0ea39b0e43921ab1:facebook:
   spec:
     title: XConf Thailand 2023 [garden.narze.live]
