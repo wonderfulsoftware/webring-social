@@ -9118,6 +9118,25 @@
     url: https://www.somkiat.cc/hello-shittier/
   state:
     shortLink: https://link.webring.in.th/1829
+872ca4f69968247f4a182d3821c5cdcb:facebook:
+  spec:
+    title: 'IOI 1992: ปีนเขากันเป็นทีม [neizod.dev]'
+    url: https://neizod.dev/2024/04/25/ioi-1992-climbing-a-moutain.html
+  state:
+    id: '100746876247412_401776676144914'
+    url: https://www.facebook.com/100683012920950/posts/401776676144914
+872ca4f69968247f4a182d3821c5cdcb:mastodon:
+  spec:
+    title: 'IOI 1992: ปีนเขากันเป็นทีม [neizod.dev]'
+    url: https://neizod.dev/2024/04/25/ioi-1992-climbing-a-moutain.html
+  state:
+    id: '112336047239029342'
+    url: https://mastodon.in.th/@webring/112336047239029342
+872ca4f69968247f4a182d3821c5cdcb:shorturl:
+  spec:
+    url: https://neizod.dev/2024/04/25/ioi-1992-climbing-a-moutain.html
+  state:
+    shortLink: https://link.webring.in.th/1896
 875cfdf09ba584ff253e3f1da89f8caa:facebook:
   spec:
     title: มาลองเล่น Gemini Pro กัน [mikelopster.dev]
