@@ -12797,6 +12797,25 @@ be3afbe7918165c2ade79139ed1a358f:shorturl:
     url: https://www.llun.me/posts/2023-12-31-2023
   state:
     shortLink: https://webring.page.link/ct6K
+be56de5543df8c2ff82b0329771c7a49:facebook:
+  spec:
+    title: '[CR] Starbucks Dark Chocolate with Custard Bun [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/04/cr-starbucks-dark-chocolate-with-custard-bun/
+  state:
+    id: '100746876247412_402424679413447'
+    url: https://www.facebook.com/100683012920950/posts/402424679413447
+be56de5543df8c2ff82b0329771c7a49:mastodon:
+  spec:
+    title: '[CR] Starbucks Dark Chocolate with Custard Bun [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/04/cr-starbucks-dark-chocolate-with-custard-bun/
+  state:
+    id: '112341705972057202'
+    url: https://mastodon.in.th/@webring/112341705972057202
+be56de5543df8c2ff82b0329771c7a49:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/04/cr-starbucks-dark-chocolate-with-custard-bun/
+  state:
+    shortLink: https://link.webring.in.th/1898
 be58e3aec3a9a98c2dea8cf7235004f8:facebook:
   spec:
     title: The Cloud Camp Week#12 (Observability#1) [debuggingsoft.com]
