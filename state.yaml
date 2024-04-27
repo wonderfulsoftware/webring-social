@@ -492,6 +492,25 @@
     url: https://www.somkiat.cc/docker-scout/
   state:
     shortLink: https://webring.page.link/DYym
+0a3f1e7db6aa521aa28f090a11013839:facebook:
+  spec:
+    title: ปรับ mindset การทำแอพรองรับคนทุกกลุ่ม กับ "Intro to Web Accessibility" workshop [mikkipastel.com]
+    url: https://www.mikkipastel.com/intro-to-web-accessibility-workshop-skooldio/
+  state:
+    id: '100746876247412_402343226088259'
+    url: https://www.facebook.com/100683012920950/posts/402343226088259
+0a3f1e7db6aa521aa28f090a11013839:mastodon:
+  spec:
+    title: ปรับ mindset การทำแอพรองรับคนทุกกลุ่ม กับ "Intro to Web Accessibility" workshop [mikkipastel.com]
+    url: https://www.mikkipastel.com/intro-to-web-accessibility-workshop-skooldio/
+  state:
+    id: '112340990333777504'
+    url: https://mastodon.in.th/@webring/112340990333777504
+0a3f1e7db6aa521aa28f090a11013839:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/intro-to-web-accessibility-workshop-skooldio/
+  state:
+    shortLink: https://link.webring.in.th/1897
 0a4107a8c2b0ec9ad04c9d8835c47d64:facebook:
   spec:
     title: สรุปสิ่งที่น่าสนใจจาก Testing methodologies ของ Jakarta EE project [somkiat.cc]
