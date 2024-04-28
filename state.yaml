@@ -8396,6 +8396,25 @@
     url: https://www.anuwong.com/blog/simple-skincare-routine/
   state:
     shortLink: https://webring.page.link/tnXy
+7d2d09d30cfe7d4137b7db3255e4950c:facebook:
+  spec:
+    title: อย่าเสียดายหัวข้อ Blog ที่เราไม่ผูกพันแล้ว [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/dont-regret-to-delete-some-blog/
+  state:
+    id: '100746876247412_403109726011609'
+    url: https://www.facebook.com/100683012920950/posts/403109726011609
+7d2d09d30cfe7d4137b7db3255e4950c:mastodon:
+  spec:
+    title: อย่าเสียดายหัวข้อ Blog ที่เราไม่ผูกพันแล้ว [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/dont-regret-to-delete-some-blog/
+  state:
+    id: '112347363267039566'
+    url: https://mastodon.in.th/@webring/112347363267039566
+7d2d09d30cfe7d4137b7db3255e4950c:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/dont-regret-to-delete-some-blog/
+  state:
+    shortLink: https://link.webring.in.th/1900
 7dfb10f317ef92fba30c628cbebbf8d3:facebook:
   spec:
     title: การเปลี่ยนแปลงของ Chrome Driver สำหรับ Google Chrome 115 ขึ้นไป [somkiat.cc]
