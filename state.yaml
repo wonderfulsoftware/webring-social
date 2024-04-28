@@ -15628,6 +15628,25 @@ e80eb92dca2ac81ed848aea0444a1294:shorturl:
     url: https://www.somkiat.cc/google-chrome-show-memory-in-tab/
   state:
     shortLink: https://webring.page.link/nwK7
+e81de6f68febdece48e7569c81c129ac:facebook:
+  spec:
+    title: How to find live partner not prom date [blog.oatto.dev]
+    url: https://blog.oatto.dev/2024/04/23/How-to-find-live-partner-not-prom-date.html
+  state:
+    id: '100746876247412_403023026020279'
+    url: https://www.facebook.com/100683012920950/posts/403023026020279
+e81de6f68febdece48e7569c81c129ac:mastodon:
+  spec:
+    title: How to find live partner not prom date [blog.oatto.dev]
+    url: https://blog.oatto.dev/2024/04/23/How-to-find-live-partner-not-prom-date.html
+  state:
+    id: '112346651969814160'
+    url: https://mastodon.in.th/@webring/112346651969814160
+e81de6f68febdece48e7569c81c129ac:shorturl:
+  spec:
+    url: https://blog.oatto.dev/2024/04/23/How-to-find-live-partner-not-prom-date.html
+  state:
+    shortLink: https://link.webring.in.th/1899
 e8ea24902eaa1a6b8ab90bef703fb0fb:facebook:
   spec:
     title: Spatial data to QGIS server playbook (yes, this is for prod) [karnwong.me]
