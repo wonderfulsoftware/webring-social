@@ -11018,6 +11018,25 @@ a15d7eb8a3b14282e475ad513fef573f:shorturl:
     url: https://garden.narze.live/how-i-install-python-in-2023/
   state:
     shortLink: https://webring.page.link/Dxz8
+a1668f372dd2556d6ba10de44f4c1bfd:facebook:
+  spec:
+    title: VMware Disk Note [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/04/vmware-disk-note/
+  state:
+    id: '100746876247412_404365089219406'
+    url: https://www.facebook.com/100683012920950/posts/404365089219406
+a1668f372dd2556d6ba10de44f4c1bfd:mastodon:
+  spec:
+    title: VMware Disk Note [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/04/vmware-disk-note/
+  state:
+    id: '112357974462242486'
+    url: https://mastodon.in.th/@webring/112357974462242486
+a1668f372dd2556d6ba10de44f4c1bfd:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/04/vmware-disk-note/
+  state:
+    shortLink: https://link.webring.in.th/1902
 a1fc654eae8ca5c14e18da045946930c:facebook:
   spec:
     title: Time series data streams ใน Elasticsearch 8.6.0 [somkiat.cc]
