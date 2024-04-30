@@ -13937,6 +13937,25 @@ cc82886eef1266035395308e0fbe1e6e:shorturl:
     url: https://www.poolsawat.com/barcode-scanners-hardware-device-get-barcode-text-with-javascript-code/
   state:
     shortLink: https://link.webring.in.th/1755
+cd8fd59aeef7ef0d0711032bc7d7a53b:facebook:
+  spec:
+    title: 'Spring Framework 6.2.0-M1 :: มาใช้งาน @TestBean ใน test กัน [somkiat.cc]'
+    url: https://www.somkiat.cc/spring-framework-testbean/
+  state:
+    id: '100746876247412_404445759211339'
+    url: https://www.facebook.com/100683012920950/posts/404445759211339
+cd8fd59aeef7ef0d0711032bc7d7a53b:mastodon:
+  spec:
+    title: 'Spring Framework 6.2.0-M1 :: มาใช้งาน @TestBean ใน test กัน [somkiat.cc]'
+    url: https://www.somkiat.cc/spring-framework-testbean/
+  state:
+    id: '112358691357831434'
+    url: https://mastodon.in.th/@webring/112358691357831434
+cd8fd59aeef7ef0d0711032bc7d7a53b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/spring-framework-testbean/
+  state:
+    shortLink: https://link.webring.in.th/1903
 cdd4e6d11a1eea1d0484785081befc37:facebook:
   spec:
     title: Postman เปิดให้ลองใช้งาน API performance testing [somkiat.cc]
