@@ -4273,6 +4273,25 @@
     url: https://rayriffy.com/garden/million-next-tailwind/
   state:
     shortLink: https://link.webring.in.th/1782
+3f87b7105c1f783a03cac13f845cc6ea:facebook:
+  spec:
+    title: Illustration - Seeker [lucian.solutions]
+    url: https://lucian.solutions/blog/202404-seeker
+  state:
+    id: '100746876247412_405900499065865'
+    url: https://www.facebook.com/100683012920950/posts/405900499065865
+3f87b7105c1f783a03cac13f845cc6ea:mastodon:
+  spec:
+    title: Illustration - Seeker [lucian.solutions]
+    url: https://lucian.solutions/blog/202404-seeker
+  state:
+    id: '112370714609578769'
+    url: https://mastodon.in.th/@webring/112370714609578769
+3f87b7105c1f783a03cac13f845cc6ea:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202404-seeker
+  state:
+    shortLink: https://link.webring.in.th/1906
 3fb62e2ce3266561b8c48a32e2561455:facebook:
   spec:
     title: 71 - ChatOS - Setup Firebase Emulator [garden.narze.live]
