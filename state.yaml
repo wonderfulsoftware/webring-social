@@ -815,6 +815,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/02/cr-starbucks-croque-monsieur/
   state:
     shortLink: https://link.webring.in.th/1793
+0f0cef62b0b6a0ef94370ce3f3fa1da8:facebook:
+  spec:
+    title: ทำความรู้จักกับ Hoppscotch [somkiat.cc]
+    url: https://www.somkiat.cc/hello-hoppscotch/
+  state:
+    id: '100746876247412_405823072406941'
+    url: https://www.facebook.com/100683012920950/posts/405823072406941
+0f0cef62b0b6a0ef94370ce3f3fa1da8:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Hoppscotch [somkiat.cc]
+    url: https://www.somkiat.cc/hello-hoppscotch/
+  state:
+    id: '112370016746707721'
+    url: https://mastodon.in.th/@webring/112370016746707721
+0f0cef62b0b6a0ef94370ce3f3fa1da8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-hoppscotch/
+  state:
+    shortLink: https://link.webring.in.th/1905
 0f805c1f0f69a66b260d489b0d0eec5e:facebook:
   spec:
     title: changesets warn received 404 for npm info on pre-release [nitpum.com]
