@@ -6059,6 +6059,25 @@
     url: https://www.anuwong.com/blog/how-to-find-files-with-fd/
   state:
     shortLink: https://webring.page.link/n9x7
+5df273eac784085fd79ef5e83c29acc6:facebook:
+  spec:
+    title: 'จดๆจาก Microsoft Build: AI Day @QSNCC [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/microsoft-build-ai-day-qsncc-note/
+  state:
+    id: '100746876247412_405988442390404'
+    url: https://www.facebook.com/100683012920950/posts/405988442390404
+5df273eac784085fd79ef5e83c29acc6:mastodon:
+  spec:
+    title: 'จดๆจาก Microsoft Build: AI Day @QSNCC [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/microsoft-build-ai-day-qsncc-note/
+  state:
+    id: '112371451680985600'
+    url: https://mastodon.in.th/@webring/112371451680985600
+5df273eac784085fd79ef5e83c29acc6:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/05/microsoft-build-ai-day-qsncc-note/
+  state:
+    shortLink: https://link.webring.in.th/1907
 5f3599f0d48dfb9110b4bafdfdd9f32e:facebook:
   spec:
     title: วันในสัปดาห์ [neizod.dev]
