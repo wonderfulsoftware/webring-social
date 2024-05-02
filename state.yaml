@@ -14488,6 +14488,25 @@ d44c9ec0dcffb1617db79dc483e97645:shorturl:
     url: https://www.somkiat.cc/hello-chiselled-ubuntu-containers/
   state:
     shortLink: https://webring.page.link/irZz
+d47dd84677a86fff8e5d7709626ec765:facebook:
+  spec:
+    title: จัดการ dotfiles ด้วย chezmoi [anuwong.com]
+    url: https://www.anuwong.com/blog/manage-dotfiles-with-chezmoi/
+  state:
+    id: '100746876247412_405740525748529'
+    url: https://www.facebook.com/100683012920950/posts/405740525748529
+d47dd84677a86fff8e5d7709626ec765:mastodon:
+  spec:
+    title: จัดการ dotfiles ด้วย chezmoi [anuwong.com]
+    url: https://www.anuwong.com/blog/manage-dotfiles-with-chezmoi/
+  state:
+    id: '112369300456138307'
+    url: https://mastodon.in.th/@webring/112369300456138307
+d47dd84677a86fff8e5d7709626ec765:shorturl:
+  spec:
+    url: https://www.anuwong.com/blog/manage-dotfiles-with-chezmoi/
+  state:
+    shortLink: https://link.webring.in.th/1904
 d487b3b6419ebd755aa2d80b7dd8b5fe:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 3 (Product Owner) [taoisaman.com]
