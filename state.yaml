@@ -5793,6 +5793,25 @@
     url: https://kajame.xyz/blog/what-is-pipe-in-node-js
   state:
     shortLink: https://webring.page.link/LUXK
+5abb4bff1c040c3fe8b2ecccd9378569:facebook:
+  spec:
+    title: 'Postman :: เพิ่ม Package Library เข้ามา [somkiat.cc]'
+    url: https://www.somkiat.cc/postman-add-package-library/
+  state:
+    id: '100746876247412_406382412351007'
+    url: https://www.facebook.com/100683012920950/posts/406382412351007
+5abb4bff1c040c3fe8b2ecccd9378569:mastodon:
+  spec:
+    title: 'Postman :: เพิ่ม Package Library เข้ามา [somkiat.cc]'
+    url: https://www.somkiat.cc/postman-add-package-library/
+  state:
+    id: '112374964879745134'
+    url: https://mastodon.in.th/@webring/112374964879745134
+5abb4bff1c040c3fe8b2ecccd9378569:shorturl:
+  spec:
+    url: https://www.somkiat.cc/postman-add-package-library/
+  state:
+    shortLink: https://link.webring.in.th/1908
 5ae4135f977d34743a80e1b96592778e:facebook:
   spec:
     title: มาลองใช้งาน Generative AI with MongoDB Atlas [somkiat.cc]
