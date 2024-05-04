@@ -10999,6 +10999,25 @@
     url: https://www.somkiat.cc/hello-nativephp/
   state:
     shortLink: https://webring.page.link/8rgG
+9f064ccb53f96bc5da97b32799348669:facebook:
+  spec:
+    title: เพิ่ม table of content สำหรับ Ghost CMS กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/table-of-content-ghost-cms/
+  state:
+    id: '100746876247412_407102435612338'
+    url: https://www.facebook.com/100683012920950/posts/407102435612338
+9f064ccb53f96bc5da97b32799348669:mastodon:
+  spec:
+    title: เพิ่ม table of content สำหรับ Ghost CMS กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/table-of-content-ghost-cms/
+  state:
+    id: '112381336612499380'
+    url: https://mastodon.in.th/@webring/112381336612499380
+9f064ccb53f96bc5da97b32799348669:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/table-of-content-ghost-cms/
+  state:
+    shortLink: https://link.webring.in.th/1910
 9f15012fc09ed744463910d08b51f67d:facebook:
   spec:
     title: CPU / GPU / TPU คืออะไร [debuggingsoft.com]
