@@ -8263,6 +8263,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/vscode-day-th/
   state:
     shortLink: https://webring.page.link/9Zcz
+7a3ad81a95bd31c31dda02902848b9b4:facebook:
+  spec:
+    title: '[CR] Starbucks Peach Jasmine Cold Brew [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/cr-starbucks-peach-jasmine-cold-brew/
+  state:
+    id: '100746876247412_407024008953514'
+    url: https://www.facebook.com/100683012920950/posts/407024008953514
+7a3ad81a95bd31c31dda02902848b9b4:mastodon:
+  spec:
+    title: '[CR] Starbucks Peach Jasmine Cold Brew [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/cr-starbucks-peach-jasmine-cold-brew/
+  state:
+    id: '112380626274980326'
+    url: https://mastodon.in.th/@webring/112380626274980326
+7a3ad81a95bd31c31dda02902848b9b4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/05/cr-starbucks-peach-jasmine-cold-brew/
+  state:
+    shortLink: https://link.webring.in.th/1909
 7a4a33dc3dff526ab328ec215cc18959:facebook:
   spec:
     title: Winget [jitrak.dev]
