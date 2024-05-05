@@ -16597,6 +16597,25 @@ f3b594fe7c052e69a8a41d1810b7767b:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/07/dotnet-how-to-handle-different-nuget-package-based-on-operating-system-platform/
   state:
     shortLink: https://webring.page.link/ptUN
+f3c43d47dc5b52590706b07701ceeb1f:facebook:
+  spec:
+    title: 🍌 รีวิว Web For Impact รุ่นที่ 4 🐣 [bigdatarpg.com]
+    url: https://bigdatarpg.com/2024/05/04/review-web-for-impact/
+  state:
+    id: '100746876247412_407679565554625'
+    url: https://www.facebook.com/100683012920950/posts/407679565554625
+f3c43d47dc5b52590706b07701ceeb1f:mastodon:
+  spec:
+    title: 🍌 รีวิว Web For Impact รุ่นที่ 4 🐣 [bigdatarpg.com]
+    url: https://bigdatarpg.com/2024/05/04/review-web-for-impact/
+  state:
+    id: '112386285706483008'
+    url: https://mastodon.in.th/@webring/112386285706483008
+f3c43d47dc5b52590706b07701ceeb1f:shorturl:
+  spec:
+    url: https://bigdatarpg.com/2024/05/04/review-web-for-impact/
+  state:
+    shortLink: https://link.webring.in.th/1911
 f3ff98ffe6527d7fe3795a4c0c9a45d5:facebook:
   spec:
     title: Load balancer 101, thou shalt not be alone [karnwong.me]
