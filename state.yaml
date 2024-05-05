@@ -5489,6 +5489,25 @@
     url: https://www.somkiat.cc/mock-data-in-postman/
   state:
     shortLink: https://link.webring.in.th/1850
+5410c07dadbe519c8069d325030c4e31:facebook:
+  spec:
+    title: มาดูความสามารถที่น่าสนใจของ Node.js 22 [somkiat.cc]
+    url: https://www.somkiat.cc/nodejs-22-features/
+  state:
+    id: '100746876247412_407760672213181'
+    url: https://www.facebook.com/100683012920950/posts/407760672213181
+5410c07dadbe519c8069d325030c4e31:mastodon:
+  spec:
+    title: มาดูความสามารถที่น่าสนใจของ Node.js 22 [somkiat.cc]
+    url: https://www.somkiat.cc/nodejs-22-features/
+  state:
+    id: '112387002627995299'
+    url: https://mastodon.in.th/@webring/112387002627995299
+5410c07dadbe519c8069d325030c4e31:shorturl:
+  spec:
+    url: https://www.somkiat.cc/nodejs-22-features/
+  state:
+    shortLink: https://link.webring.in.th/1912
 549c23759812c8e484692743fa0704dc:facebook:
   spec:
     title: '[WP] How to Fix the “There Has Been a Critical Error on Your Website” Error? [debuggingsoft.com]'
