@@ -15913,6 +15913,25 @@ e81de6f68febdece48e7569c81c129ac:shorturl:
     url: https://blog.oatto.dev/2024/04/23/How-to-find-live-partner-not-prom-date.html
   state:
     shortLink: https://link.webring.in.th/1899
+e8bdce8c1d9e3a095fe2c4548bdaf5a1:facebook:
+  spec:
+    title: มารับความรู้ฝั่ง web3 developer กับงาน Sui Workshop [mikkipastel.com]
+    url: https://www.mikkipastel.com/sui-workshop-contribution-dao/
+  state:
+    id: '100746876247412_408500942139154'
+    url: https://www.facebook.com/100683012920950/posts/408500942139154
+e8bdce8c1d9e3a095fe2c4548bdaf5a1:mastodon:
+  spec:
+    title: มารับความรู้ฝั่ง web3 developer กับงาน Sui Workshop [mikkipastel.com]
+    url: https://www.mikkipastel.com/sui-workshop-contribution-dao/
+  state:
+    id: '112393367583758311'
+    url: https://mastodon.in.th/@webring/112393367583758311
+e8bdce8c1d9e3a095fe2c4548bdaf5a1:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/sui-workshop-contribution-dao/
+  state:
+    shortLink: https://link.webring.in.th/1915
 e8ea24902eaa1a6b8ab90bef703fb0fb:facebook:
   spec:
     title: Spatial data to QGIS server playbook (yes, this is for prod) [karnwong.me]
