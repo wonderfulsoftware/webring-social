@@ -8529,6 +8529,25 @@
     url: https://www.anuwong.com/blog/simple-skincare-routine/
   state:
     shortLink: https://webring.page.link/tnXy
+7d1fd9a29818985fb59c07b5660b9ea8:facebook:
+  spec:
+    title: การสร้าง Commitment [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/building-commitment-in-daily-life/
+  state:
+    id: '100746876247412_408346198821295'
+    url: https://www.facebook.com/100683012920950/posts/408346198821295
+7d1fd9a29818985fb59c07b5660b9ea8:mastodon:
+  spec:
+    title: การสร้าง Commitment [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/building-commitment-in-daily-life/
+  state:
+    id: '112391951786897096'
+    url: https://mastodon.in.th/@webring/112391951786897096
+7d1fd9a29818985fb59c07b5660b9ea8:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/building-commitment-in-daily-life/
+  state:
+    shortLink: https://link.webring.in.th/1913
 7d2d09d30cfe7d4137b7db3255e4950c:facebook:
   spec:
     title: อย่าเสียดายหัวข้อ Blog ที่เราไม่ผูกพันแล้ว [blog.ninprd.com]
