@@ -416,6 +416,25 @@
     url: https://neizod.dev/2023/12/08/introduction-range-searching.html
   state:
     shortLink: https://webring.page.link/ywp2
+08a28c66f535956d35f1b861e2e6b94a:facebook:
+  spec:
+    title: FastAPI 0.111.0 มี cli ให้ใช้แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/fastapi-cli/
+  state:
+    id: '100746876247412_408424415480140'
+    url: https://www.facebook.com/100683012920950/posts/408424415480140
+08a28c66f535956d35f1b861e2e6b94a:mastodon:
+  spec:
+    title: FastAPI 0.111.0 มี cli ให้ใช้แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/fastapi-cli/
+  state:
+    id: '112392668942373966'
+    url: https://mastodon.in.th/@webring/112392668942373966
+08a28c66f535956d35f1b861e2e6b94a:shorturl:
+  spec:
+    url: https://www.somkiat.cc/fastapi-cli/
+  state:
+    shortLink: https://link.webring.in.th/1914
 08bde39c0e7e24b15a09b686006c2193:facebook:
   spec:
     title: 1-Year Anniversary Gift สำหรับคนที่ Subscribe ช่อง Twitch ครบปี [lucian.solutions]
