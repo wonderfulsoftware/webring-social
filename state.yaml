@@ -10467,6 +10467,25 @@
     url: https://www.somkiat.cc/distributed-tracing-in-spring-boot-3-2/
   state:
     shortLink: https://webring.page.link/o5qM
+9643d0d393510bd395ef7327684d38f8:facebook:
+  spec:
+    title: 'GitLab-CE: มาลองปรับ Merge Request Approval นิดหน่อย (แบบ free) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/gitlab-merge-request-approval-for-free-tier-community-edition/
+  state:
+    id: '100746876247412_409661102023138'
+    url: https://www.facebook.com/100683012920950/posts/409661102023138
+9643d0d393510bd395ef7327684d38f8:mastodon:
+  spec:
+    title: 'GitLab-CE: มาลองปรับ Merge Request Approval นิดหน่อย (แบบ free) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/gitlab-merge-request-approval-for-free-tier-community-edition/
+  state:
+    id: '112403278323071323'
+    url: https://mastodon.in.th/@webring/112403278323071323
+9643d0d393510bd395ef7327684d38f8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/05/gitlab-merge-request-approval-for-free-tier-community-edition/
+  state:
+    shortLink: https://link.webring.in.th/1916
 96526ce6faeec631f7b3c0522b6b1ef6:facebook:
   spec:
     title: 'Microsoft Applied Skills: Develop an ASP.NET Core web app that consumes an API [debuggingsoft.com]'
