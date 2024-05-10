@@ -4292,6 +4292,25 @@
     url: https://rayriffy.com/garden/million-next-tailwind/
   state:
     shortLink: https://link.webring.in.th/1782
+3f64585e00da2eef6f3d28ab1875cdbd:facebook:
+  spec:
+    title: Watch Command in PowerShell [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/05/watch-command-in-powershell/
+  state:
+    id: '100746876247412_411051095217472'
+    url: https://www.facebook.com/100683012920950/posts/411051095217472
+3f64585e00da2eef6f3d28ab1875cdbd:mastodon:
+  spec:
+    title: Watch Command in PowerShell [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/05/watch-command-in-powershell/
+  state:
+    id: '112415315473774175'
+    url: https://mastodon.in.th/@webring/112415315473774175
+3f64585e00da2eef6f3d28ab1875cdbd:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/05/watch-command-in-powershell/
+  state:
+    shortLink: https://link.webring.in.th/1918
 3f87b7105c1f783a03cac13f845cc6ea:facebook:
   spec:
     title: Illustration - Seeker [lucian.solutions]
