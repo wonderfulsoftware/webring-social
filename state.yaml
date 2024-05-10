@@ -4140,6 +4140,25 @@
     url: https://www.poolsawat.com/learning-using-thaibuddhistdate-java/
   state:
     shortLink: https://webring.page.link/wzRZ
+3d2b97c3f81a65dee76e48b2701c4547:facebook:
+  spec:
+    title: มาสร้าง Diagram ง่าย ๆ ด้วย Excalidraw AI [somkiat.cc]
+    url: https://www.somkiat.cc/excalidraw-ai/
+  state:
+    id: '100746876247412_411125071876741'
+    url: https://www.facebook.com/100683012920950/posts/411125071876741
+3d2b97c3f81a65dee76e48b2701c4547:mastodon:
+  spec:
+    title: มาสร้าง Diagram ง่าย ๆ ด้วย Excalidraw AI [somkiat.cc]
+    url: https://www.somkiat.cc/excalidraw-ai/
+  state:
+    id: '112416014649640555'
+    url: https://mastodon.in.th/@webring/112416014649640555
+3d2b97c3f81a65dee76e48b2701c4547:shorturl:
+  spec:
+    url: https://www.somkiat.cc/excalidraw-ai/
+  state:
+    shortLink: https://link.webring.in.th/1919
 3d31ebc1f0a724147625510543a4a7f5:facebook:
   spec:
     title: Riffy's trip across Southern Japan within 1 week [rayriffy.com]
