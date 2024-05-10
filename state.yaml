@@ -6933,6 +6933,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/11/summary-backend-meetup-2023/
   state:
     shortLink: https://webring.page.link/HvpQ
+67c6f7f9908a195b12d2ff77f5642007:facebook:
+  spec:
+    title: รีวิว Mazda CX-5 จากผู้ใช้งานจริง 6 ปี++ [blog.kpping.me]
+    url: https://blog.kpping.me/posts/long-term-review-cx-5/
+  state:
+    id: '100746876247412_410975861891662'
+    url: https://www.facebook.com/100683012920950/posts/410975861891662
+67c6f7f9908a195b12d2ff77f5642007:mastodon:
+  spec:
+    title: รีวิว Mazda CX-5 จากผู้ใช้งานจริง 6 ปี++ [blog.kpping.me]
+    url: https://blog.kpping.me/posts/long-term-review-cx-5/
+  state:
+    id: '112414597830827469'
+    url: https://mastodon.in.th/@webring/112414597830827469
+67c6f7f9908a195b12d2ff77f5642007:shorturl:
+  spec:
+    url: https://blog.kpping.me/posts/long-term-review-cx-5/
+  state:
+    shortLink: https://link.webring.in.th/1917
 67dde2125dda4c4d8df9ef498a918527:facebook:
   spec:
     title: How to install HoloCure on Apple Silicon MacBook [garden.narze.live]
