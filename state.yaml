@@ -11683,6 +11683,25 @@ a790c8006047cca342b2362d0a92b0d9:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/11/devexpress-xrlabel-thai-problem-when-export-pdf/
   state:
     shortLink: https://webring.page.link/1cWa
+a7c5834bf59ecc52b8534772d9987383:facebook:
+  spec:
+    title: บันทึกเรื่องการเปลี่ยนมาใช้งาน TypeScript ของ Figma [somkiat.cc]
+    url: https://www.somkiat.cc/note-figma-change-to-typescript/
+  state:
+    id: '100746876247412_411615178494397'
+    url: https://www.facebook.com/100683012920950/posts/411615178494397
+a7c5834bf59ecc52b8534772d9987383:mastodon:
+  spec:
+    title: บันทึกเรื่องการเปลี่ยนมาใช้งาน TypeScript ของ Figma [somkiat.cc]
+    url: https://www.somkiat.cc/note-figma-change-to-typescript/
+  state:
+    id: '112420262941811472'
+    url: https://mastodon.in.th/@webring/112420262941811472
+a7c5834bf59ecc52b8534772d9987383:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-figma-change-to-typescript/
+  state:
+    shortLink: https://link.webring.in.th/1920
 a800be5a22a696e7f90aa33fe2e5575b:facebook:
   spec:
     title: Configuring tRPC error logging in T3 apps [dt.in.th]
