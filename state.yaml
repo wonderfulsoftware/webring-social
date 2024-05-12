@@ -17407,6 +17407,25 @@ fd4b806a1ef371b85bf738f4a8699837:shorturl:
     url: https://karnwong.me/posts/2023/11/serverless-real-time-machine-learning-inference-with-aws/
   state:
     shortLink: https://webring.page.link/RM8m
+fded27a275c0ab5923370e23e7a5b37e:facebook:
+  spec:
+    title: ต่อให้ไม่มีเรา บริษัทก็อยู่ได้ [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/even-though-im-not-here-company-still-running-properly/
+  state:
+    id: '100746876247412_412295391759709'
+    url: https://www.facebook.com/100683012920950/posts/412295391759709
+fded27a275c0ab5923370e23e7a5b37e:mastodon:
+  spec:
+    title: ต่อให้ไม่มีเรา บริษัทก็อยู่ได้ [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/even-though-im-not-here-company-still-running-properly/
+  state:
+    id: '112425923686083551'
+    url: https://mastodon.in.th/@webring/112425923686083551
+fded27a275c0ab5923370e23e7a5b37e:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/even-though-im-not-here-company-still-running-properly/
+  state:
+    shortLink: https://link.webring.in.th/1921
 fe7c16dc875d352211a3eed6cb150a6a:facebook:
   spec:
     title: 'Tutorial: สร้าง Blog ด้วย WordPress.com [blog.ninprd.com]'
