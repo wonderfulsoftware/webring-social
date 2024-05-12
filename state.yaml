@@ -967,6 +967,25 @@
     url: https://www.mikkipastel.com/firebase-dev-day-2023/
   state:
     shortLink: https://webring.page.link/NmJD
+0fe685f69020f90da0e93a49969ffc15:facebook:
+  spec:
+    title: Convert HTML to JSX [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/05/convert-html-to-jsx/
+  state:
+    id: '100746876247412_412387211750527'
+    url: https://www.facebook.com/100683012920950/posts/412387211750527
+0fe685f69020f90da0e93a49969ffc15:mastodon:
+  spec:
+    title: Convert HTML to JSX [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/05/convert-html-to-jsx/
+  state:
+    id: '112426640727959879'
+    url: https://mastodon.in.th/@webring/112426640727959879
+0fe685f69020f90da0e93a49969ffc15:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/05/convert-html-to-jsx/
+  state:
+    shortLink: https://link.webring.in.th/1922
 0ff4650849368daf44e8a8bfacfba07f:facebook:
   spec:
     title: ดู z-index ง่ายๆ ด้วย 3D View [nitpum.com]
