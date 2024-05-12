@@ -16293,6 +16293,25 @@ ec58600cd82560a725f20b89864bd793:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day5-open-24-hours
   state:
     shortLink: https://webring.page.link/1QMP
+ec6e1744e2faa2d0317772d9d3bc8de6:facebook:
+  spec:
+    title: Illustration - 2024のゆきみさん ❄ [lucian.solutions]
+    url: https://lucian.solutions/blog/202405-yukimi-satsuki
+  state:
+    id: '100746876247412_412469965075585'
+    url: https://www.facebook.com/100683012920950/posts/412469965075585
+ec6e1744e2faa2d0317772d9d3bc8de6:mastodon:
+  spec:
+    title: Illustration - 2024のゆきみさん ❄ [lucian.solutions]
+    url: https://lucian.solutions/blog/202405-yukimi-satsuki
+  state:
+    id: '112427334279140825'
+    url: https://mastodon.in.th/@webring/112427334279140825
+ec6e1744e2faa2d0317772d9d3bc8de6:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202405-yukimi-satsuki
+  state:
+    shortLink: https://link.webring.in.th/1923
 ec93c6f51edcaae54b0804a94d816822:facebook:
   spec:
     title: Go 1.20 การ convert จาก slice มาเป็น array [somkiat.cc]
