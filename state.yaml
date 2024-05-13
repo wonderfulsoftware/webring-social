@@ -12367,6 +12367,25 @@ b10d7bfd6306f0511a614aa30c257531:shorturl:
     url: https://www.somkiat.cc/postman-skip-request/
   state:
     shortLink: https://webring.page.link/AGgZ
+b124a628a59c31f1a8c8643f17383666:facebook:
+  spec:
+    title: How mount NFS volume to container with sub-path via Docker Compose [kusumotolab.com]
+    url: https://kusumotolab.com/how-to-mount-nfs-volume-to-container-with-sub-path/
+  state:
+    id: '100746876247412_412983498357565'
+    url: https://www.facebook.com/100683012920950/posts/412983498357565
+b124a628a59c31f1a8c8643f17383666:mastodon:
+  spec:
+    title: How mount NFS volume to container with sub-path via Docker Compose [kusumotolab.com]
+    url: https://kusumotolab.com/how-to-mount-nfs-volume-to-container-with-sub-path/
+  state:
+    id: '112431586798935012'
+    url: https://mastodon.in.th/@webring/112431586798935012
+b124a628a59c31f1a8c8643f17383666:shorturl:
+  spec:
+    url: https://kusumotolab.com/how-to-mount-nfs-volume-to-container-with-sub-path/
+  state:
+    shortLink: https://link.webring.in.th/1924
 b1414e295ee1b03de271abe597428804:facebook:
   spec:
     title: มาดูความสามารถใหม่ ๆ ใน Robot Framework 6.1 alpha 1 [somkiat.cc]
