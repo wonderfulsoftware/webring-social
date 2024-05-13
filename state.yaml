@@ -663,6 +663,25 @@
     url: https://www.llun.me/posts/2024-01-07-campervan-slovenia
   state:
     shortLink: https://webring.page.link/RR1K
+0bfdf0b51135be4908864e72469b0439:facebook:
+  spec:
+    title: เมื่อผู้ใช้คลิกซ้ำๆ จะต้องทำยังไง? [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/uc
+  state:
+    id: '100746876247412_413060301683218'
+    url: https://www.facebook.com/100683012920950/posts/413060301683218
+0bfdf0b51135be4908864e72469b0439:mastodon:
+  spec:
+    title: เมื่อผู้ใช้คลิกซ้ำๆ จะต้องทำยังไง? [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/uc
+  state:
+    id: '112432305075641055'
+    url: https://mastodon.in.th/@webring/112432305075641055
+0bfdf0b51135be4908864e72469b0439:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/uc
+  state:
+    shortLink: https://link.webring.in.th/1925
 0c0656e4b47f6ff1a13511b3f3a1e346:facebook:
   spec:
     title: '[CR] Starbucks-Milk Pudding [debuggingsoft.com]'
