@@ -10201,6 +10201,25 @@
     url: https://notes.dt.in.th/20220907T163410Z4258
   state:
     shortLink: https://webring.page.link/Pnpn
+923f570affbf653c0fd8d89e48c2fc83:facebook:
+  spec:
+    title: 'บันทึกการแบ่งปันใน course Full Stack Automation Testing #1 ที่ Skooldio [somkiat.cc]'
+    url: https://www.somkiat.cc/sharing-course-full-stack-automation-testing-at-skooldio/
+  state:
+    id: '100746876247412_414277071561541'
+    url: https://www.facebook.com/100683012920950/posts/414277071561541
+923f570affbf653c0fd8d89e48c2fc83:mastodon:
+  spec:
+    title: 'บันทึกการแบ่งปันใน course Full Stack Automation Testing #1 ที่ Skooldio [somkiat.cc]'
+    url: https://www.somkiat.cc/sharing-course-full-stack-automation-testing-at-skooldio/
+  state:
+    id: '112442919417880786'
+    url: https://mastodon.in.th/@webring/112442919417880786
+923f570affbf653c0fd8d89e48c2fc83:shorturl:
+  spec:
+    url: https://www.somkiat.cc/sharing-course-full-stack-automation-testing-at-skooldio/
+  state:
+    shortLink: https://link.webring.in.th/1927
 924b8c65940e95cddec539fec0ac41aa:facebook:
   spec:
     title: Illustration - Lucian Solutions 01 - Lucian & Thanik [lucian.solutions]
