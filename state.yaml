@@ -1518,6 +1518,25 @@
     url: https://kajame.xyz/blog/%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B3%20Scroll%20%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2
   state:
     shortLink: https://webring.page.link/sHdn
+17f6f5f5e3b643265de83326ba809cf1:facebook:
+  spec:
+    title: What is Yoda conditions? [jitrak.dev]
+    url: https://jitrak.dev/posts/post-26-yoda-conditions/
+  state:
+    id: '100746876247412_414946701494578'
+    url: https://www.facebook.com/100683012920950/posts/414946701494578
+17f6f5f5e3b643265de83326ba809cf1:mastodon:
+  spec:
+    title: What is Yoda conditions? [jitrak.dev]
+    url: https://jitrak.dev/posts/post-26-yoda-conditions/
+  state:
+    id: '112448577650858505'
+    url: https://mastodon.in.th/@webring/112448577650858505
+17f6f5f5e3b643265de83326ba809cf1:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-26-yoda-conditions/
+  state:
+    shortLink: https://link.webring.in.th/1928
 181e9bb2c0298846bb338f085fbd3d82:facebook:
   spec:
     title: สรุป Software Architecture Meetup 2023 [debuggingsoft.com]
