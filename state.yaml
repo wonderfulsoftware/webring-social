@@ -2601,6 +2601,25 @@
     url: https://kajame.xyz/blog/2024/move-repository
   state:
     shortLink: https://link.webring.in.th/1809
+2609981e0d8479ab1968d618a504003f:facebook:
+  spec:
+    title: '[C#] ทำ Unit Test กับ XML ครับ [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/c-sharp-how-to-unit-test-xml/
+  state:
+    id: '100746876247412_415658044756777'
+    url: https://www.facebook.com/100683012920950/posts/415658044756777
+2609981e0d8479ab1968d618a504003f:mastodon:
+  spec:
+    title: '[C#] ทำ Unit Test กับ XML ครับ [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/c-sharp-how-to-unit-test-xml/
+  state:
+    id: '112454236762803517'
+    url: https://mastodon.in.th/@webring/112454236762803517
+2609981e0d8479ab1968d618a504003f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/05/c-sharp-how-to-unit-test-xml/
+  state:
+    shortLink: https://link.webring.in.th/1929
 262affe6e7a9e08bedfb4cbe1f689ed8:facebook:
   spec:
     title: 'เล่าให้ฟัง FinOps: BigQuery Query Cost Monitoring [mesodiar.com]'
