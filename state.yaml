@@ -11037,6 +11037,25 @@
     url: https://garden.narze.live/workstation-popcorn/
   state:
     shortLink: https://webring.page.link/ju6K
+9c7740ae8b2d4e3258c7af5e51c9ca5a:facebook:
+  spec:
+    title: พูดไม่รู้เรื่อง จริงหรือเปล่าน้า (ฉบับ DevDev) [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/do-we-talk-incoherent/
+  state:
+    id: '100746876247412_417069661282282'
+    url: https://www.facebook.com/100683012920950/posts/417069661282282
+9c7740ae8b2d4e3258c7af5e51c9ca5a:mastodon:
+  spec:
+    title: พูดไม่รู้เรื่อง จริงหรือเปล่าน้า (ฉบับ DevDev) [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/do-we-talk-incoherent/
+  state:
+    id: '112465565850227089'
+    url: https://mastodon.in.th/@webring/112465565850227089
+9c7740ae8b2d4e3258c7af5e51c9ca5a:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/do-we-talk-incoherent/
+  state:
+    shortLink: https://link.webring.in.th/1930
 9c94eee33916f3e63f2633545813e587:facebook:
   spec:
     title: มาเรียนรู้ mindset การทำ graphic แบบเริ่มต้น ก่อนทำงานจริง [mikkipastel.com]
