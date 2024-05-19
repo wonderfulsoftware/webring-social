@@ -8605,6 +8605,25 @@
     url: https://www.somkiat.cc/sharing-on-api-first-development/
   state:
     shortLink: https://webring.page.link/Ejp6
+7c4e552ada1f101fd065861d53556ca0:facebook:
+  spec:
+    title: มาเขียนเอกสารด้วย JSDoc กันก่อน [somkiat.cc]
+    url: https://www.somkiat.cc/write-jsdoc/
+  state:
+    id: '100746876247412_417155857940329'
+    url: https://www.facebook.com/100683012920950/posts/417155857940329
+7c4e552ada1f101fd065861d53556ca0:mastodon:
+  spec:
+    title: มาเขียนเอกสารด้วย JSDoc กันก่อน [somkiat.cc]
+    url: https://www.somkiat.cc/write-jsdoc/
+  state:
+    id: '112466275008897788'
+    url: https://mastodon.in.th/@webring/112466275008897788
+7c4e552ada1f101fd065861d53556ca0:shorturl:
+  spec:
+    url: https://www.somkiat.cc/write-jsdoc/
+  state:
+    shortLink: https://link.webring.in.th/1931
 7c4f0b36187f8488979a564652551956:facebook:
   spec:
     title: ย้าย CMS ไป WordPress แล้วจ้า [blog.ninprd.com]
