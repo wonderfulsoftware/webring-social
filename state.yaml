@@ -16749,6 +16749,25 @@ f0bd5d71ed6eb90ffa8cbcb804f0c62c:shorturl:
     url: https://mikelopster.dev/posts/next-auth-basic/
   state:
     shortLink: https://link.webring.in.th/1804
+f11942adf6100ec686b8888a39b65355:facebook:
+  spec:
+    title: Illustration - キララ [lucian.solutions]
+    url: https://lucian.solutions/blog/202405-kirara
+  state:
+    id: '100746876247412_417242207931694'
+    url: https://www.facebook.com/100683012920950/posts/417242207931694
+f11942adf6100ec686b8888a39b65355:mastodon:
+  spec:
+    title: Illustration - キララ [lucian.solutions]
+    url: https://lucian.solutions/blog/202405-kirara
+  state:
+    id: '112466975335421151'
+    url: https://mastodon.in.th/@webring/112466975335421151
+f11942adf6100ec686b8888a39b65355:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202405-kirara
+  state:
+    shortLink: https://link.webring.in.th/1932
 f13b09c1a35a790628c25ea8d312742c:facebook:
   spec:
     title: 'What is Apache Iceberg: Iceberg คืออะไร ทำอะไรได้บ้าง ? [mesodiar.com]'
