@@ -1974,6 +1974,25 @@
     url: https://yuttakhanb.dev/posts/short-note-from-book-metamorphosis/
   state:
     shortLink: https://webring.page.link/d2VQ
+1cbf65d8166edacc485ccfddc7b207ba:facebook:
+  spec:
+    title: 7 คำแนะนำ First Jobbers 101 จาก Gen Z ด้วยกันก่อนเริ่มทำงาน [wawasabii.com]
+    url: https://wawasabii.com/blog/gen-z-to-gen-z-first-jobbers-101/
+  state:
+    id: '100746876247412_417865481202700'
+    url: https://www.facebook.com/100683012920950/posts/417865481202700
+1cbf65d8166edacc485ccfddc7b207ba:mastodon:
+  spec:
+    title: 7 คำแนะนำ First Jobbers 101 จาก Gen Z ด้วยกันก่อนเริ่มทำงาน [wawasabii.com]
+    url: https://wawasabii.com/blog/gen-z-to-gen-z-first-jobbers-101/
+  state:
+    id: '112471941967065301'
+    url: https://mastodon.in.th/@webring/112471941967065301
+1cbf65d8166edacc485ccfddc7b207ba:shorturl:
+  spec:
+    url: https://wawasabii.com/blog/gen-z-to-gen-z-first-jobbers-101/
+  state:
+    shortLink: https://link.webring.in.th/1934
 1cc2f7e7956a38ecacd6a75db7366068:facebook:
   spec:
     title: รวมมิตรอัพเดตแพชครั้งใหญ่ กับ Kotlin DSL กับ toml [mikkipastel.com]
