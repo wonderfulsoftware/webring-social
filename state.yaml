@@ -14051,6 +14051,25 @@ c860c0569cde5bd92e5079e8c396ff8e:shorturl:
     url: https://chrisza.me/not-simple/mistaken-simplicity/
   state:
     shortLink: https://webring.page.link/UWDE
+c89ba756b06b11405c7ed39fe43acb1d:facebook:
+  spec:
+    title: ตอบคำถามเรื่อง แนวทางในการ shared code [somkiat.cc]
+    url: https://www.somkiat.cc/tips-shared-code/
+  state:
+    id: '100746876247412_417776901211558'
+    url: https://www.facebook.com/100683012920950/posts/417776901211558
+c89ba756b06b11405c7ed39fe43acb1d:mastodon:
+  spec:
+    title: ตอบคำถามเรื่อง แนวทางในการ shared code [somkiat.cc]
+    url: https://www.somkiat.cc/tips-shared-code/
+  state:
+    id: '112471226660183439'
+    url: https://mastodon.in.th/@webring/112471226660183439
+c89ba756b06b11405c7ed39fe43acb1d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/tips-shared-code/
+  state:
+    shortLink: https://link.webring.in.th/1933
 c8dc3bb0686e3750b4fe768c991dee53:facebook:
   spec:
     title: Robocopy ERROR 3 (0x00000003) Accessing Source Directory C:\172.1.0.56\gen\ [debuggingsoft.com]
