@@ -8567,6 +8567,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-design-and-implement-a-release-strategy/
   state:
     shortLink: https://webring.page.link/AGse
+7b2acd2a717ced3cbc20bf8b4db4c9ed:facebook:
+  spec:
+    title: iCreator Camp 2024 วันแรกกับ Storytelling & Creativity [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2024-week1-storytelling-and-creativity/
+  state:
+    id: '100746876247412_418459527809962'
+    url: https://www.facebook.com/100683012920950/posts/418459527809962
+7b2acd2a717ced3cbc20bf8b4db4c9ed:mastodon:
+  spec:
+    title: iCreator Camp 2024 วันแรกกับ Storytelling & Creativity [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2024-week1-storytelling-and-creativity/
+  state:
+    id: '112476887825884096'
+    url: https://mastodon.in.th/@webring/112476887825884096
+7b2acd2a717ced3cbc20bf8b4db4c9ed:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/icreator-camp-2024-week1-storytelling-and-creativity/
+  state:
+    shortLink: https://link.webring.in.th/1935
 7bb641e0a96735b21cf5b426c10b6deb:facebook:
   spec:
     title: Dataframe write performance to Postgres [karnwong.me]
