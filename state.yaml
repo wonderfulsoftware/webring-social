@@ -245,6 +245,25 @@
     url: https://tech.duckfollow.co/view/duck-x-firebasedevday2023
   state:
     shortLink: https://webring.page.link/hU2G
+055616f37de159b7177fb06012b68432:facebook:
+  spec:
+    title: เปลี่ยนขยะเป็นเงิน [thiti.dev]
+    url: https://thiti.dev/blog/67/
+  state:
+    id: '100746876247412_418615967794318'
+    url: https://www.facebook.com/100683012920950/posts/418615967794318
+055616f37de159b7177fb06012b68432:mastodon:
+  spec:
+    title: เปลี่ยนขยะเป็นเงิน [thiti.dev]
+    url: https://thiti.dev/blog/67/
+  state:
+    id: '112478302740521788'
+    url: https://mastodon.in.th/@webring/112478302740521788
+055616f37de159b7177fb06012b68432:shorturl:
+  spec:
+    url: https://thiti.dev/blog/67/
+  state:
+    shortLink: https://link.webring.in.th/1937
 0562a6cb16bb3ea71137c4f5045e6cbc:facebook:
   spec:
     title: ทำเข้าใจง่ายดี Go 1.21 All You Need to Know [somkiat.cc]
