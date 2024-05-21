@@ -13253,6 +13253,25 @@ bb758d935884c1fe7250341f8ac048f2:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/08/relative-path-note/
   state:
     shortLink: https://webring.page.link/Mjqy
+bc21ca650beccd2c6aa2dc4f08b132c8:facebook:
+  spec:
+    title: 'Tips :: การใช้งาน profile ใน Docker compose [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-use-profile-in-docker-compose/
+  state:
+    id: '100746876247412_418704004452181'
+    url: https://www.facebook.com/100683012920950/posts/418704004452181
+bc21ca650beccd2c6aa2dc4f08b132c8:mastodon:
+  spec:
+    title: 'Tips :: การใช้งาน profile ใน Docker compose [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-use-profile-in-docker-compose/
+  state:
+    id: '112479036509159853'
+    url: https://mastodon.in.th/@webring/112479036509159853
+bc21ca650beccd2c6aa2dc4f08b132c8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/tips-use-profile-in-docker-compose/
+  state:
+    shortLink: https://link.webring.in.th/1938
 bc645b001d4ec584afbf9728d89dc43d:facebook:
   spec:
     title: ค้นหาบนพิสัยผ่านทวิภาวะจุด-เส้นตรง [neizod.dev]
