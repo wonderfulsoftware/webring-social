@@ -13120,6 +13120,25 @@ b9d19f43cf76cd1b1e3cf24dd3f46818:shorturl:
     url: https://notes.dt.in.th/RandomPort
   state:
     shortLink: https://webring.page.link/UKhw
+ba6e89eed9cfacea1b7ea04b5707cdc4:facebook:
+  spec:
+    title: '[C#] Array Spread [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/c-array-spread/
+  state:
+    id: '100746876247412_418540197801895'
+    url: https://www.facebook.com/100683012920950/posts/418540197801895
+ba6e89eed9cfacea1b7ea04b5707cdc4:mastodon:
+  spec:
+    title: '[C#] Array Spread [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/c-array-spread/
+  state:
+    id: '112477606294529471'
+    url: https://mastodon.in.th/@webring/112477606294529471
+ba6e89eed9cfacea1b7ea04b5707cdc4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/05/c-array-spread/
+  state:
+    shortLink: https://link.webring.in.th/1936
 ba901617c7039c005602d1873810da5f:facebook:
   spec:
     title: 2023 [garden.narze.live]
