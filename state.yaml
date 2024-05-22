@@ -12006,6 +12006,25 @@ a9219b54ffbacb453c42195b38473323:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/02/cr-starbucks-chocolate-flourless-cake-valentine-edition/
   state:
     shortLink: https://webring.page.link/Ljo8
+a98e8f2ee6f66e06a0f1e292b154474b:facebook:
+  spec:
+    title: บันทึกการนำแนวคิด 12-factors มาใช้ในการพัฒนาระบบงานด้วยภาษา Go [somkiat.cc]
+    url: https://www.somkiat.cc/summary-12-factors-with-go-and-docker/
+  state:
+    id: '100746876247412_419123291076919'
+    url: https://www.facebook.com/100683012920950/posts/419123291076919
+a98e8f2ee6f66e06a0f1e292b154474b:mastodon:
+  spec:
+    title: บันทึกการนำแนวคิด 12-factors มาใช้ในการพัฒนาระบบงานด้วยภาษา Go [somkiat.cc]
+    url: https://www.somkiat.cc/summary-12-factors-with-go-and-docker/
+  state:
+    id: '112482554429171899'
+    url: https://mastodon.in.th/@webring/112482554429171899
+a98e8f2ee6f66e06a0f1e292b154474b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/summary-12-factors-with-go-and-docker/
+  state:
+    shortLink: https://link.webring.in.th/1939
 aa334862233d60e3426df6a45a743041:facebook:
   spec:
     title: '[CR] ร้านต้มเนื้อป๋าเหมี่ยว (อิสรภาพ) [debuggingsoft.com]'
