@@ -9593,6 +9593,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/01/microsoft-ignite-cloud-skills-challenge-2023/
   state:
     shortLink: https://link.webring.in.th/1727
+8812afe85e52712d2a2a8aa5ceb45254:facebook:
+  spec:
+    title: มาลองใช้งาน HTTPie for Web and Desktop กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-httpie-for-web-and-desktop/
+  state:
+    id: '100746876247412_419793127676602'
+    url: https://www.facebook.com/100683012920950/posts/419793127676602
+8812afe85e52712d2a2a8aa5ceb45254:mastodon:
+  spec:
+    title: มาลองใช้งาน HTTPie for Web and Desktop กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-httpie-for-web-and-desktop/
+  state:
+    id: '112488210823894232'
+    url: https://mastodon.in.th/@webring/112488210823894232
+8812afe85e52712d2a2a8aa5ceb45254:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-httpie-for-web-and-desktop/
+  state:
+    shortLink: https://link.webring.in.th/1940
 881587e2256b9d1c4719cf8c68b96993:facebook:
   spec:
     title: DuckDB vs Polars vs Spark! [karnwong.me]
