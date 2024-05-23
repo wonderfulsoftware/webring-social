@@ -10448,6 +10448,25 @@
     url: https://www.somkiat.cc/safetest-next-generation-ui-testing-library/
   state:
     shortLink: https://link.webring.in.th/1787
+92ea46e8784cb53145805a0f0a2a8cde:facebook:
+  spec:
+    title: แก้ปัญหาสแกน QR Code ของ EV Station PluZ ไม่ได้ [thiti.dev]
+    url: https://thiti.dev/blog/68/
+  state:
+    id: '100746876247412_419944374328144'
+    url: https://www.facebook.com/100683012920950/posts/419944374328144
+92ea46e8784cb53145805a0f0a2a8cde:mastodon:
+  spec:
+    title: แก้ปัญหาสแกน QR Code ของ EV Station PluZ ไม่ได้ [thiti.dev]
+    url: https://thiti.dev/blog/68/
+  state:
+    id: '112489629413393906'
+    url: https://mastodon.in.th/@webring/112489629413393906
+92ea46e8784cb53145805a0f0a2a8cde:shorturl:
+  spec:
+    url: https://thiti.dev/blog/68/
+  state:
+    shortLink: https://link.webring.in.th/1942
 92fd9ef4fe49ca5369504f2e8cf0470b:facebook:
   spec:
     title: JWT ด้วย Node.js [tech.duckfollow.co]
