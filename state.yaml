@@ -15039,6 +15039,25 @@ d2e2a9796695714e3c9782f96ead83fc:shorturl:
     url: https://lucian.solutions/blog/city-of-light-2024
   state:
     shortLink: https://webring.page.link/6L7P
+d357e1755ca2c140f355b2db88831a2b:facebook:
+  spec:
+    title: แต่ก่อน ส่งข้อมูลกันอย่างไร? [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/send-data
+  state:
+    id: '100746876247412_420030287652886'
+    url: https://www.facebook.com/100683012920950/posts/420030287652886
+d357e1755ca2c140f355b2db88831a2b:mastodon:
+  spec:
+    title: แต่ก่อน ส่งข้อมูลกันอย่างไร? [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/send-data
+  state:
+    id: '112490361442046198'
+    url: https://mastodon.in.th/@webring/112490361442046198
+d357e1755ca2c140f355b2db88831a2b:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/send-data
+  state:
+    shortLink: https://link.webring.in.th/1943
 d384f899f92a93ab0815513af2e6e3e0:facebook:
   spec:
     title: Line Stickers - Lucian Solutions [lucian.solutions]
