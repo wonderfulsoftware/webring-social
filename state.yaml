@@ -11322,6 +11322,25 @@
     url: https://ntsd.dev/recoil-persistent-with-capacitor-preferences/
   state:
     shortLink: https://webring.page.link/g3Hb
+9e8830cc1dee5e9863b6472d6747bd29:facebook:
+  spec:
+    title: '[PostgreSQL] How to Fixed, FATAL: database locale is incompatible with operating system(LC_COLLATE “th_TH.UTF-8”) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/postgresfatal-database-locale-is-incompatible-with-operating-system/
+  state:
+    id: '100746876247412_419868957669019'
+    url: https://www.facebook.com/100683012920950/posts/419868957669019
+9e8830cc1dee5e9863b6472d6747bd29:mastodon:
+  spec:
+    title: '[PostgreSQL] How to Fixed, FATAL: database locale is incompatible with operating system(LC_COLLATE “th_TH.UTF-8”) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/postgresfatal-database-locale-is-incompatible-with-operating-system/
+  state:
+    id: '112488931377737930'
+    url: https://mastodon.in.th/@webring/112488931377737930
+9e8830cc1dee5e9863b6472d6747bd29:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/05/postgresfatal-database-locale-is-incompatible-with-operating-system/
+  state:
+    shortLink: https://link.webring.in.th/1941
 9eaf114814ccb48601983661fbba0095:facebook:
   spec:
     title: ทำความรู้จักกับ NativePHP กันหน่อย [somkiat.cc]
