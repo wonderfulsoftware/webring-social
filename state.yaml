@@ -16483,6 +16483,25 @@ e98225653ec2dc395aed60f883d0bebf:shorturl:
     url: https://notes.dt.in.th/DependabotAutoMerge
   state:
     shortLink: https://link.webring.in.th/1747
+ea1c3d27b980b85915487951ef642a84:facebook:
+  spec:
+    title: 'AZ-104: Manage identities and governance in Azure [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/az-104-manage-identities-and-governance-in-azure/
+  state:
+    id: '100746876247412_420527464269835'
+    url: https://www.facebook.com/100683012920950/posts/420527464269835
+ea1c3d27b980b85915487951ef642a84:mastodon:
+  spec:
+    title: 'AZ-104: Manage identities and governance in Azure [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/az-104-manage-identities-and-governance-in-azure/
+  state:
+    id: '112494592932514691'
+    url: https://mastodon.in.th/@webring/112494592932514691
+ea1c3d27b980b85915487951ef642a84:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/05/az-104-manage-identities-and-governance-in-azure/
+  state:
+    shortLink: https://link.webring.in.th/1945
 ea76f03f757ad52190797ef9bc193f55:facebook:
   spec:
     title: 'ThursTech #17: คณิตศาสตร์ในการรีดประสิทธิภาพโค้ด [neizod.dev]'
