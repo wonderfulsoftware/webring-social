@@ -12671,6 +12671,25 @@ b1414e295ee1b03de271abe597428804:shorturl:
     url: https://www.somkiat.cc/robot-framework-6-1-alpha-1/
   state:
     shortLink: https://webring.page.link/orFG
+b15ff85bb73373f4fff64eebc23a8888:facebook:
+  spec:
+    title: ใช้ React Compiler คู่กับ Next.js กัน [sujamess.com]
+    url: https://sujamess.com/blog/20240522-nextjs-with-react-compiler
+  state:
+    id: '100746876247412_420448434277738'
+    url: https://www.facebook.com/100683012920950/posts/420448434277738
+b15ff85bb73373f4fff64eebc23a8888:mastodon:
+  spec:
+    title: ใช้ React Compiler คู่กับ Next.js กัน [sujamess.com]
+    url: https://sujamess.com/blog/20240522-nextjs-with-react-compiler
+  state:
+    id: '112493873885901855'
+    url: https://mastodon.in.th/@webring/112493873885901855
+b15ff85bb73373f4fff64eebc23a8888:shorturl:
+  spec:
+    url: https://sujamess.com/blog/20240522-nextjs-with-react-compiler
+  state:
+    shortLink: https://link.webring.in.th/1944
 b165f831210fbe2d2fc78d93a5969c29:facebook:
   spec:
     title: Flutter project structure with Clean Architecture [taoisaman.com]
