@@ -8339,6 +8339,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/12/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89-talos-%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87-k8s-cluster/
   state:
     shortLink: https://webring.page.link/CDTk
+7706d9ed8f4823ad8417c80960e6bf2e:facebook:
+  spec:
+    title: 5-days Taiwan Trip alongside homies [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/taiwan-trip-2024/
+  state:
+    id: '100746876247412_420694397586475'
+    url: https://www.facebook.com/100683012920950/posts/420694397586475
+7706d9ed8f4823ad8417c80960e6bf2e:mastodon:
+  spec:
+    title: 5-days Taiwan Trip alongside homies [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/taiwan-trip-2024/
+  state:
+    id: '112496023079369155'
+    url: https://mastodon.in.th/@webring/112496023079369155
+7706d9ed8f4823ad8417c80960e6bf2e:shorturl:
+  spec:
+    url: https://yuttakhanb.dev/posts/taiwan-trip-2024/
+  state:
+    shortLink: https://link.webring.in.th/1947
 775b3a0aeebfb7e382283f3feb99469a:facebook:
   spec:
     title: API Architecture Styles [tech.duckfollow.co]
