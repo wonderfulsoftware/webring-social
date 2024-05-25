@@ -492,6 +492,13 @@
     url: https://kajame.xyz/blog/%E0%B9%81%E0%B8%81%E0%B9%89%20Error%20%22xcodebuild%22%20command%20but%20it%20exited%20with%20error%20code%2065
   state:
     shortLink: https://webring.page.link/ZZUH
+09504cd8c4b528117f7d8bb268d788f5:facebook:
+  spec:
+    title: '[AZURE] Recovery Service vault cannot be deleted as there are backup items still present in soft delete state [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/azure-recovery-service-vault-cannot-be-deleted-as-there-are-backup-items-still-present-in-soft-delete-state/
+  state:
+    id: '100746876247412_421263627529552'
+    url: https://www.facebook.com/100683012920950/posts/421263627529552
 09504cd8c4b528117f7d8bb268d788f5:mastodon:
   spec:
     title: '[AZURE] Recovery Service vault cannot be deleted as there are backup items still present in soft delete state [debuggingsoft.com]'
@@ -10859,6 +10866,18 @@
     url: https://blog.ninprd.com/blog/first-abroad-alone-in-taipei/
   state:
     shortLink: https://link.webring.in.th/1852
+969682a3757802e9fd0edffeed4362bd:mastodon:
+  spec:
+    title: สวัสดี Hurl ใช้สำหรับ API testing [somkiat.cc]
+    url: https://www.somkiat.cc/api-testing-with-hurl/
+  state:
+    id: '112500946038683534'
+    url: https://mastodon.in.th/@webring/112500946038683534
+969682a3757802e9fd0edffeed4362bd:shorturl:
+  spec:
+    url: https://www.somkiat.cc/api-testing-with-hurl/
+  state:
+    shortLink: https://link.webring.in.th/1950
 96f7739f7435b2722c08ff63bcecad53:facebook:
   spec:
     title: ว่าด้วยเรื่อง cURL ใช้อย่างไรให้ Pro ใช้อย่างไรถึงจะ Cool [poolsawat.com]
