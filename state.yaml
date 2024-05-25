@@ -4387,6 +4387,25 @@
     url: https://www.somkiat.cc/hello-playwright-1-39/
   state:
     shortLink: https://webring.page.link/8jUc
+3ef7888947d4545e9981a4ee33fe6539:facebook:
+  spec:
+    title: ฮ่องกง (2024) [thammarith.dev]
+    url: https://thammarith.dev/blog/hongkong-2024/
+  state:
+    id: '100746876247412_421095754213006'
+    url: https://www.facebook.com/100683012920950/posts/421095754213006
+3ef7888947d4545e9981a4ee33fe6539:mastodon:
+  spec:
+    title: ฮ่องกง (2024) [thammarith.dev]
+    url: https://thammarith.dev/blog/hongkong-2024/
+  state:
+    id: '112499539360940532'
+    url: https://mastodon.in.th/@webring/112499539360940532
+3ef7888947d4545e9981a4ee33fe6539:shorturl:
+  spec:
+    url: https://thammarith.dev/blog/hongkong-2024/
+  state:
+    shortLink: https://link.webring.in.th/1948
 3f093c98be3ada1966ab0a563f35f8ba:facebook:
   spec:
     title: ทำ Login with Facebook ใน React Native (ios) [kajame.xyz]
