@@ -492,6 +492,18 @@
     url: https://kajame.xyz/blog/%E0%B9%81%E0%B8%81%E0%B9%89%20Error%20%22xcodebuild%22%20command%20but%20it%20exited%20with%20error%20code%2065
   state:
     shortLink: https://webring.page.link/ZZUH
+09504cd8c4b528117f7d8bb268d788f5:mastodon:
+  spec:
+    title: '[AZURE] Recovery Service vault cannot be deleted as there are backup items still present in soft delete state [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/azure-recovery-service-vault-cannot-be-deleted-as-there-are-backup-items-still-present-in-soft-delete-state/
+  state:
+    id: '112500252256838212'
+    url: https://mastodon.in.th/@webring/112500252256838212
+09504cd8c4b528117f7d8bb268d788f5:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/05/azure-recovery-service-vault-cannot-be-deleted-as-there-are-backup-items-still-present-in-soft-delete-state/
+  state:
+    shortLink: https://link.webring.in.th/1949
 09c65794dfa1c89342d8b389466ba359:facebook:
   spec:
     title: สิ่งที่มักเจอบ่อย ๆ ใน CI/CD [somkiat.cc]
