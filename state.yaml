@@ -5413,6 +5413,25 @@
     url: https://www.somkiat.cc/robot-framework-disabled-notification-in-web-browser/
   state:
     shortLink: https://webring.page.link/yX5h
+4e2ad1faf1e789970c623e88c98b5c6b:facebook:
+  spec:
+    title: 'นิลเล่า: WordPress Basic I [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/wordpress-basic-i/
+  state:
+    id: '100746876247412_421749527480962'
+    url: https://www.facebook.com/100683012920950/posts/421749527480962
+4e2ad1faf1e789970c623e88c98b5c6b:mastodon:
+  spec:
+    title: 'นิลเล่า: WordPress Basic I [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/wordpress-basic-i/
+  state:
+    id: '112505195950494915'
+    url: https://mastodon.in.th/@webring/112505195950494915
+4e2ad1faf1e789970c623e88c98b5c6b:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/wordpress-basic-i/
+  state:
+    shortLink: https://link.webring.in.th/1951
 4e438d4fd15f1f5d90fae0d343c30121:facebook:
   spec:
     title: สรุปจากบทความการเปลี่ยนแปลง database ของ Discord [somkiat.cc]
