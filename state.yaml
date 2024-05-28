@@ -16578,6 +16578,25 @@ e93962e1e1574b0127444f3d91bebaa5:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/02/developer-take-workshop-business-continuity-planning-and-disaster-recovery-for-azure-workload/
   state:
     shortLink: https://link.webring.in.th/1799
+e968b42e190c1a3f489f1776fdf6818f:facebook:
+  spec:
+    title: เรียนรู้ Content Marketing เพื่อทำเงิน ในสัปดาห์ที่ 2 ของ iCreator Camp 2024 [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2024-week2-content-marketing/
+  state:
+    id: '100746876247412_423006614021920'
+    url: https://www.facebook.com/100683012920950/posts/423006614021920
+e968b42e190c1a3f489f1776fdf6818f:mastodon:
+  spec:
+    title: เรียนรู้ Content Marketing เพื่อทำเงิน ในสัปดาห์ที่ 2 ของ iCreator Camp 2024 [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2024-week2-content-marketing/
+  state:
+    id: '112516521730155557'
+    url: https://mastodon.in.th/@webring/112516521730155557
+e968b42e190c1a3f489f1776fdf6818f:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/icreator-camp-2024-week2-content-marketing/
+  state:
+    shortLink: https://link.webring.in.th/1952
 e98225653ec2dc395aed60f883d0bebf:facebook:
   spec:
     title: Auto-merging dependabot PRs [dt.in.th]
