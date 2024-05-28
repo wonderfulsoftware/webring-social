@@ -2924,6 +2924,25 @@
     url: https://www.somkiat.cc/note-event-publisher-spring-boot-app/
   state:
     shortLink: https://webring.page.link/Jqak
+2883b37000e2ac959ef1c2aef8d14c73:facebook:
+  spec:
+    title: 'Tips :: การใช้งาน Docker image ควรระบุด้วย tag หรือ digest ดี [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-docker-image-with-tag-or-digest/
+  state:
+    id: '100746876247412_423152227340692'
+    url: https://www.facebook.com/100683012920950/posts/423152227340692
+2883b37000e2ac959ef1c2aef8d14c73:mastodon:
+  spec:
+    title: 'Tips :: การใช้งาน Docker image ควรระบุด้วย tag หรือ digest ดี [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-docker-image-with-tag-or-digest/
+  state:
+    id: '112517934830319090'
+    url: https://mastodon.in.th/@webring/112517934830319090
+2883b37000e2ac959ef1c2aef8d14c73:shorturl:
+  spec:
+    url: https://www.somkiat.cc/tips-docker-image-with-tag-or-digest/
+  state:
+    shortLink: https://link.webring.in.th/1954
 28d2c858435ac6b7a37fcd3e58b00bfc:facebook:
   spec:
     title: “ความลับที่คนประสบความสำเร็จไม่เคยบอกคุณ” ที่รู้แล้ว ย่นเวลาให้เราประสบความสำเร็จเร็วขึ้น [mikkipastel.com]
