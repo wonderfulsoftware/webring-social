@@ -8776,6 +8776,25 @@
     url: https://blog.ninprd.com/blog/move-cms-to-wordpress/
   state:
     shortLink: https://webring.page.link/2uKj
+7c56b626fb6823c24eded10c998176cc:facebook:
+  spec:
+    title: มาลองสอน Docker ครั้งแรก @BSRU [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/05/teaching-and-sharing-docker-experience-at-brsu/
+  state:
+    id: '100746876247412_423080084014573'
+    url: https://www.facebook.com/100683012920950/posts/423080084014573
+7c56b626fb6823c24eded10c998176cc:mastodon:
+  spec:
+    title: มาลองสอน Docker ครั้งแรก @BSRU [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/05/teaching-and-sharing-docker-experience-at-brsu/
+  state:
+    id: '112517240020589992'
+    url: https://mastodon.in.th/@webring/112517240020589992
+7c56b626fb6823c24eded10c998176cc:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/05/teaching-and-sharing-docker-experience-at-brsu/
+  state:
+    shortLink: https://link.webring.in.th/1953
 7c626428278beae0a6634df545642dbf:facebook:
   spec:
     title: '[Azure] Azure Automation Step Note [debuggingsoft.com]'
