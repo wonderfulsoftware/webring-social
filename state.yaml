@@ -6724,6 +6724,25 @@
     url: https://toupawa.com/create-an-web-application-with-vite-and-react-and-typescript/
   state:
     shortLink: https://webring.page.link/WMv2
+6268e237b3fc2567a53520e38c9cf8d3:facebook:
+  spec:
+    title: 'AZ-104: Implement and manage storage in Azure [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/az-104-implement-and-manage-storage-in-azure/
+  state:
+    id: '100746876247412_423626803959901'
+    url: https://www.facebook.com/100683012920950/posts/423626803959901
+6268e237b3fc2567a53520e38c9cf8d3:mastodon:
+  spec:
+    title: 'AZ-104: Implement and manage storage in Azure [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/az-104-implement-and-manage-storage-in-azure/
+  state:
+    id: '112522186668857078'
+    url: https://mastodon.in.th/@webring/112522186668857078
+6268e237b3fc2567a53520e38c9cf8d3:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/05/az-104-implement-and-manage-storage-in-azure/
+  state:
+    shortLink: https://link.webring.in.th/1955
 62749a9ef46ab59fac2782eff4fb73c3:facebook:
   spec:
     title: 'VSCode :: แนะนำ CodeGPT extension [somkiat.cc]'
