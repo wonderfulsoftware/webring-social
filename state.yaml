@@ -15153,6 +15153,25 @@ d221bc1f47b89b1908ed0016332f2d2b:shorturl:
     url: https://tantatorn.xyz/posts/about-this-blog/
   state:
     shortLink: https://webring.page.link/rK6c
+d2347ad23893a45c3ddf3048b3268d34:facebook:
+  spec:
+    title: '[CR] Starbucks Croissant Bite Salted Caramel [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/cr-starbucks-croissant-bite-salted-caramel/
+  state:
+    id: '100746876247412_424326577223257'
+    url: https://www.facebook.com/100683012920950/posts/424326577223257
+d2347ad23893a45c3ddf3048b3268d34:mastodon:
+  spec:
+    title: '[CR] Starbucks Croissant Bite Salted Caramel [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/05/cr-starbucks-croissant-bite-salted-caramel/
+  state:
+    id: '112528565289569860'
+    url: https://mastodon.in.th/@webring/112528565289569860
+d2347ad23893a45c3ddf3048b3268d34:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/05/cr-starbucks-croissant-bite-salted-caramel/
+  state:
+    shortLink: https://link.webring.in.th/1958
 d23ad7216ab2ab504908abcf7dbab652:facebook:
   spec:
     title: 'เล่าเรื่องงาน NFT Square Meetup #1 และ GASSED UP [mikkipastel.com]'
