@@ -16426,6 +16426,25 @@ e51dab2a8e47c25c57be8e37f55973ba:shorturl:
     url: https://www.somkiat.cc/postman-in-vscode/
   state:
     shortLink: https://webring.page.link/ajmS
+e5272d0b7b742d25a359811567a47db5:facebook:
+  spec:
+    title: คำแนะนำเรื่อง Technical skill ของ Test Automation Engineer [somkiat.cc]
+    url: https://www.somkiat.cc/technical-skill-for-test-automation-engineer/
+  state:
+    id: '100746876247412_424250860564162'
+    url: https://www.facebook.com/100683012920950/posts/424250860564162
+e5272d0b7b742d25a359811567a47db5:mastodon:
+  spec:
+    title: คำแนะนำเรื่อง Technical skill ของ Test Automation Engineer [somkiat.cc]
+    url: https://www.somkiat.cc/technical-skill-for-test-automation-engineer/
+  state:
+    id: '112527846258284741'
+    url: https://mastodon.in.th/@webring/112527846258284741
+e5272d0b7b742d25a359811567a47db5:shorturl:
+  spec:
+    url: https://www.somkiat.cc/technical-skill-for-test-automation-engineer/
+  state:
+    shortLink: https://link.webring.in.th/1957
 e599a4a02f9215c9e43ba6de04c373fe:facebook:
   spec:
     title: Fallback fonts in VSCode [garden.narze.live]
