@@ -10638,6 +10638,25 @@
     url: https://tech.duckfollow.co/view/jwt
   state:
     shortLink: https://webring.page.link/sRtU
+9343cda938ed8e57ca6ab4d6f7f73eec:facebook:
+  spec:
+    title: บำเหน็จ และบำนาญของประกันสังคม (ม.33) คิดยังไง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/%e0%b8%9a%e0%b8%b3%e0%b9%80%e0%b8%ab%e0%b8%99%e0%b9%87%e0%b8%88-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%9a%e0%b8%b3%e0%b8%99%e0%b8%b2%e0%b8%8d%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81/
+  state:
+    id: '100746876247412_426155550373693'
+    url: https://www.facebook.com/100683012920950/posts/426155550373693
+9343cda938ed8e57ca6ab4d6f7f73eec:mastodon:
+  spec:
+    title: บำเหน็จ และบำนาญของประกันสังคม (ม.33) คิดยังไง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/%e0%b8%9a%e0%b8%b3%e0%b9%80%e0%b8%ab%e0%b8%99%e0%b9%87%e0%b8%88-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%9a%e0%b8%b3%e0%b8%99%e0%b8%b2%e0%b8%8d%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81/
+  state:
+    id: '112544836167133338'
+    url: https://mastodon.in.th/@webring/112544836167133338
+9343cda938ed8e57ca6ab4d6f7f73eec:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/%e0%b8%9a%e0%b8%b3%e0%b9%80%e0%b8%ab%e0%b8%99%e0%b9%87%e0%b8%88-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%9a%e0%b8%b3%e0%b8%99%e0%b8%b2%e0%b8%8d%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81/
+  state:
+    shortLink: https://link.webring.in.th/1959
 936b100d8ff467020a89cc0978f8494d:facebook:
   spec:
     title: Use SQL against CSV (or other hard files) without CLI [karnwong.me]
