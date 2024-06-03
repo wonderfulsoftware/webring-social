@@ -9346,6 +9346,25 @@
     url: https://www.somkiat.cc/spring-boot-3-1-0/
   state:
     shortLink: https://webring.page.link/2AV3
+834979616ce7f18b18d11427a9865286:facebook:
+  spec:
+    title: สิ่งที่เปลี่ยนแปลงใน SeleniumLibrary 6.4.0 [somkiat.cc]
+    url: https://www.somkiat.cc/change-seleniumlibrary-6-4-0/
+  state:
+    id: '100746876247412_426787573643824'
+    url: https://www.facebook.com/100683012920950/posts/426787573643824
+834979616ce7f18b18d11427a9865286:mastodon:
+  spec:
+    title: สิ่งที่เปลี่ยนแปลงใน SeleniumLibrary 6.4.0 [somkiat.cc]
+    url: https://www.somkiat.cc/change-seleniumlibrary-6-4-0/
+  state:
+    id: '112550499784283525'
+    url: https://mastodon.in.th/@webring/112550499784283525
+834979616ce7f18b18d11427a9865286:shorturl:
+  spec:
+    url: https://www.somkiat.cc/change-seleniumlibrary-6-4-0/
+  state:
+    shortLink: https://link.webring.in.th/1960
 839384dd4c1a9c237f8984ea146a698e:facebook:
   spec:
     title: รู้ยัง Notion มีส่วนลดจาก Credit อยู่นะ [debuggingsoft.com]
