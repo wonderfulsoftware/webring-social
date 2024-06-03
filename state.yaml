@@ -5394,6 +5394,25 @@
     url: https://www.mikkipastel.com/introduction-tripster-travel-pass-nft-project/
   state:
     shortLink: https://webring.page.link/1hpM
+4db50706ded1677db79fe79a047ebe45:facebook:
+  spec:
+    title: เรียนรู้ Design & Visual ในการสร้าง content ให้จับใจคน กับ iCreator Camp 2024 สัปดาห์ที่ 3 [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2024-week3-design-and-visual/
+  state:
+    id: '100746876247412_426862420303006'
+    url: https://www.facebook.com/100683012920950/posts/426862420303006
+4db50706ded1677db79fe79a047ebe45:mastodon:
+  spec:
+    title: เรียนรู้ Design & Visual ในการสร้าง content ให้จับใจคน กับ iCreator Camp 2024 สัปดาห์ที่ 3 [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2024-week3-design-and-visual/
+  state:
+    id: '112551215953369821'
+    url: https://mastodon.in.th/@webring/112551215953369821
+4db50706ded1677db79fe79a047ebe45:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/icreator-camp-2024-week3-design-and-visual/
+  state:
+    shortLink: https://link.webring.in.th/1961
 4dcd1aa18f82b9fd6423afda3b4aa6ef:facebook:
   spec:
     title: '[Atlas] ทำการสร้าง ER diagram จาก GORM model [somkiat.cc]'
