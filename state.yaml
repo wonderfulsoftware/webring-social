@@ -16787,6 +16787,25 @@ e98225653ec2dc395aed60f883d0bebf:shorturl:
     url: https://notes.dt.in.th/DependabotAutoMerge
   state:
     shortLink: https://link.webring.in.th/1747
+e9822615918005ebb85bf166a15df5cf:facebook:
+  spec:
+    title: จดจาก Build GraphQL APIs (Go) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/my-note-from-build-graphql-api-with-go/
+  state:
+    id: '100746876247412_427412236914691'
+    url: https://www.facebook.com/100683012920950/posts/427412236914691
+e9822615918005ebb85bf166a15df5cf:mastodon:
+  spec:
+    title: จดจาก Build GraphQL APIs (Go) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/my-note-from-build-graphql-api-with-go/
+  state:
+    id: '112556162722412113'
+    url: https://mastodon.in.th/@webring/112556162722412113
+e9822615918005ebb85bf166a15df5cf:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/my-note-from-build-graphql-api-with-go/
+  state:
+    shortLink: https://link.webring.in.th/1962
 ea1c3d27b980b85915487951ef642a84:facebook:
   spec:
     title: 'AZ-104: Manage identities and governance in Azure [debuggingsoft.com]'
