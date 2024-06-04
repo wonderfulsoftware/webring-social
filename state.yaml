@@ -10448,6 +10448,25 @@
     url: https://kajame.xyz/blog/learning-typescript-02
   state:
     shortLink: https://webring.page.link/5AUZ
+9186dd8522b73f1ce772ea1df008be22:facebook:
+  spec:
+    title: ลองใช้งาน Ophiuchi สำหรับสร้าง SSL for localhost [somkiat.cc]
+    url: https://www.somkiat.cc/try-ophiuchi-to-create-ssl-for-localhost/
+  state:
+    id: '100746876247412_427485566907358'
+    url: https://www.facebook.com/100683012920950/posts/427485566907358
+9186dd8522b73f1ce772ea1df008be22:mastodon:
+  spec:
+    title: ลองใช้งาน Ophiuchi สำหรับสร้าง SSL for localhost [somkiat.cc]
+    url: https://www.somkiat.cc/try-ophiuchi-to-create-ssl-for-localhost/
+  state:
+    id: '112556877507167910'
+    url: https://mastodon.in.th/@webring/112556877507167910
+9186dd8522b73f1ce772ea1df008be22:shorturl:
+  spec:
+    url: https://www.somkiat.cc/try-ophiuchi-to-create-ssl-for-localhost/
+  state:
+    shortLink: https://link.webring.in.th/1963
 91acd2c54e065f2b64bb0bbc947138a6:facebook:
   spec:
     title: How to fix error trustAnchors parameter must be non-empty [debuggingsoft.com]
