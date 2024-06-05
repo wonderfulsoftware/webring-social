@@ -6686,6 +6686,25 @@
     url: https://janescience.com/blog/android-trigger-notification
   state:
     shortLink: https://webring.page.link/Qyvz
+610d57730b7178b8dee0a5362c1959b8:facebook:
+  spec:
+    title: '[DB2] Backup offline/online and database logs [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/06/db2-backup-log-and-archive/
+  state:
+    id: '100746876247412_428093466846568'
+    url: https://www.facebook.com/100683012920950/posts/428093466846568
+610d57730b7178b8dee0a5362c1959b8:mastodon:
+  spec:
+    title: '[DB2] Backup offline/online and database logs [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/06/db2-backup-log-and-archive/
+  state:
+    id: '112561829957081274'
+    url: https://mastodon.in.th/@webring/112561829957081274
+610d57730b7178b8dee0a5362c1959b8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/db2-backup-log-and-archive/
+  state:
+    shortLink: https://link.webring.in.th/1964
 6162f137d0f82014810d981b274bf502:facebook:
   spec:
     title: Npm package for write jest easy [jitrak.dev]
