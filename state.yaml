@@ -14279,6 +14279,25 @@ c53480935239aea00593c21257e3b9af:shorturl:
     url: https://lucian.solutions/blog/202402-mutsuki
   state:
     shortLink: https://link.webring.in.th/1796
+c5358b1399a3c3894e1e2a9737733317:facebook:
+  spec:
+    title: 'AZ-104: Deploy and manage Azure compute resources [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/06/az-104-deploy-and-manage-azure-compute-resources/
+  state:
+    id: '100746876247412_428814376774477'
+    url: https://www.facebook.com/100683012920950/posts/428814376774477
+c5358b1399a3c3894e1e2a9737733317:mastodon:
+  spec:
+    title: 'AZ-104: Deploy and manage Azure compute resources [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/06/az-104-deploy-and-manage-azure-compute-resources/
+  state:
+    id: '112568203262451568'
+    url: https://mastodon.in.th/@webring/112568203262451568
+c5358b1399a3c3894e1e2a9737733317:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/az-104-deploy-and-manage-azure-compute-resources/
+  state:
+    shortLink: https://link.webring.in.th/1966
 c56e5547bb9ae969baa17ee2f8911eda:facebook:
   spec:
     title: 'How to Fixed: Feature ‘raw string literals’ is not available. Please use language version 11.0 or greater [debuggingsoft.com]'
