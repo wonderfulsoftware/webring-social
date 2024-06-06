@@ -6116,6 +6116,25 @@
     url: https://www.somkiat.cc/generative-api-with-mongodb-atlas/
   state:
     shortLink: https://webring.page.link/LZNu
+5b846abf44b18f82682f9d8d2e8f43d5:facebook:
+  spec:
+    title: 'นิลเล่า: WordPress Basic II [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/wordpress-basic-ii/
+  state:
+    id: '100746876247412_428731306782784'
+    url: https://www.facebook.com/100683012920950/posts/428731306782784
+5b846abf44b18f82682f9d8d2e8f43d5:mastodon:
+  spec:
+    title: 'นิลเล่า: WordPress Basic II [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/wordpress-basic-ii/
+  state:
+    id: '112567486485652335'
+    url: https://mastodon.in.th/@webring/112567486485652335
+5b846abf44b18f82682f9d8d2e8f43d5:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/wordpress-basic-ii/
+  state:
+    shortLink: https://link.webring.in.th/1965
 5bad2dfa27f5bf49a7c24d0f0bc933b2:facebook:
   spec:
     title: Redis testing [kajame.xyz]
