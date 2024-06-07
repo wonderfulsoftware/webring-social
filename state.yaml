@@ -16065,6 +16065,25 @@ dc9406027d9ba4a11c760c9a94512164:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/03/%e0%b8%a5%e0%b8%ad%e0%b8%87-vue-version-on-windows-error-unauthorizedaccess/
   state:
     shortLink: https://webring.page.link/GVNd
+de08409ff413586764fbc91fe46b21d3:facebook:
+  spec:
+    title: bcdedit enum options [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/bcdedit-enum-options/
+  state:
+    id: '100746876247412_429404623382119'
+    url: https://www.facebook.com/100683012920950/posts/429404623382119
+de08409ff413586764fbc91fe46b21d3:mastodon:
+  spec:
+    title: bcdedit enum options [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/bcdedit-enum-options/
+  state:
+    id: '112573149205992418'
+    url: https://mastodon.in.th/@webring/112573149205992418
+de08409ff413586764fbc91fe46b21d3:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/bcdedit-enum-options/
+  state:
+    shortLink: https://link.webring.in.th/1967
 de5432ed497ce622a0289f8f8d90cc4f:facebook:
   spec:
     title: มาลองเป็น Public Speaker เรื่อง OOAD [debuggingsoft.com]
