@@ -283,6 +283,25 @@
     url: https://www.somkiat.cc/go-1-21-all-you-need-to-know/
   state:
     shortLink: https://webring.page.link/yT5e
+056972101bbe3a813f7460884dcb904a:facebook:
+  spec:
+    title: แก้ปัญหา Bluetooth to 3.5 Jack ชอบปิดตัวเอง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/fixed-bluetooth-to-3-5-jack-auto-close-when-change-new-track/
+  state:
+    id: '100746876247412_430074499981798'
+    url: https://www.facebook.com/100683012920950/posts/430074499981798
+056972101bbe3a813f7460884dcb904a:mastodon:
+  spec:
+    title: แก้ปัญหา Bluetooth to 3.5 Jack ชอบปิดตัวเอง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/fixed-bluetooth-to-3-5-jack-auto-close-when-change-new-track/
+  state:
+    id: '112578806982023140'
+    url: https://mastodon.in.th/@webring/112578806982023140
+056972101bbe3a813f7460884dcb904a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/fixed-bluetooth-to-3-5-jack-auto-close-when-change-new-track/
+  state:
+    shortLink: https://link.webring.in.th/1969
 068bd70654a4a8cf74cbce5e41aaff15:facebook:
   spec:
     title: Recap 2023 [blog.oatto.dev]
