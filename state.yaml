@@ -8681,6 +8681,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/vscode-day-th/
   state:
     shortLink: https://webring.page.link/9Zcz
+79bd23cd4fa887c2dc51700b8a3e63bb:facebook:
+  spec:
+    title: มาลองเขียน comment รูปแบบ Markdown ใน Java 23 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/java-23-markdown-comment/
+  state:
+    id: '100746876247412_430150039974244'
+    url: https://www.facebook.com/100683012920950/posts/430150039974244
+79bd23cd4fa887c2dc51700b8a3e63bb:mastodon:
+  spec:
+    title: มาลองเขียน comment รูปแบบ Markdown ใน Java 23 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/java-23-markdown-comment/
+  state:
+    id: '112579522112004289'
+    url: https://mastodon.in.th/@webring/112579522112004289
+79bd23cd4fa887c2dc51700b8a3e63bb:shorturl:
+  spec:
+    url: https://www.somkiat.cc/java-23-markdown-comment/
+  state:
+    shortLink: https://link.webring.in.th/1970
 7a3ad81a95bd31c31dda02902848b9b4:facebook:
   spec:
     title: '[CR] Starbucks Peach Jasmine Cold Brew [debuggingsoft.com]'
