@@ -11987,6 +11987,25 @@ a4031221ddd4f040891463067c4b004e:shorturl:
     url: https://www.somkiat.cc/robot-framework-6-1-rc-1/
   state:
     shortLink: https://webring.page.link/6bTW
+a44c41ad243cfa047948159d3ca67f03:facebook:
+  spec:
+    title: ทำความรู้จักกับ Grafana Alloy [somkiat.cc]
+    url: https://www.somkiat.cc/grafana-alloy/
+  state:
+    id: '100746876247412_430702279919020'
+    url: https://www.facebook.com/100683012920950/posts/430702279919020
+a44c41ad243cfa047948159d3ca67f03:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Grafana Alloy [somkiat.cc]
+    url: https://www.somkiat.cc/grafana-alloy/
+  state:
+    id: '112584471904695804'
+    url: https://mastodon.in.th/@webring/112584471904695804
+a44c41ad243cfa047948159d3ca67f03:shorturl:
+  spec:
+    url: https://www.somkiat.cc/grafana-alloy/
+  state:
+    shortLink: https://link.webring.in.th/1971
 a474c8fc55f6da5107eba26e954e282b:facebook:
   spec:
     title: สอนแคปจอจาก Google Chrome แบบจับมือทำ [mikkipastel.com]
