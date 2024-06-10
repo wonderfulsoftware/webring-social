@@ -15001,6 +15001,25 @@ cc82886eef1266035395308e0fbe1e6e:shorturl:
     url: https://www.poolsawat.com/barcode-scanners-hardware-device-get-barcode-text-with-javascript-code/
   state:
     shortLink: https://link.webring.in.th/1755
+cd3f1042e1ae4055bed5a79a0b023e46:facebook:
+  spec:
+    title: Thoughts on summarization service's system design [karnwong.me]
+    url: https://karnwong.me/posts/2024/06/thoughts-on-summarization-service/
+  state:
+    id: '100746876247412_431424009846847'
+    url: https://www.facebook.com/100683012920950/posts/431424009846847
+cd3f1042e1ae4055bed5a79a0b023e46:mastodon:
+  spec:
+    title: Thoughts on summarization service's system design [karnwong.me]
+    url: https://karnwong.me/posts/2024/06/thoughts-on-summarization-service/
+  state:
+    id: '112590859017348793'
+    url: https://mastodon.in.th/@webring/112590859017348793
+cd3f1042e1ae4055bed5a79a0b023e46:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/06/thoughts-on-summarization-service/
+  state:
+    shortLink: https://link.webring.in.th/1974
 cd8fd59aeef7ef0d0711032bc7d7a53b:facebook:
   spec:
     title: 'Spring Framework 6.2.0-M1 :: มาใช้งาน @TestBean ใน test กัน [somkiat.cc]'
