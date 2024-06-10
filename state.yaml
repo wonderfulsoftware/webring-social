@@ -14944,6 +14944,25 @@ cbf22d74bdf5a85bd8b44bc46fcb9435:shorturl:
     url: https://www.somkiat.cc/flutter-unable-to-find-bundled-java-version/
   state:
     shortLink: https://webring.page.link/xdDT
+cc30539ef4ecb2d125ba6879b5001bef:facebook:
+  spec:
+    title: MSTest 3.4 สนับสนุน WinUI และ Playwright แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/mstest-3-4-with-playwright/
+  state:
+    id: '100746876247412_431346566521258'
+    url: https://www.facebook.com/100683012920950/posts/431346566521258
+cc30539ef4ecb2d125ba6879b5001bef:mastodon:
+  spec:
+    title: MSTest 3.4 สนับสนุน WinUI และ Playwright แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/mstest-3-4-with-playwright/
+  state:
+    id: '112590134589640228'
+    url: https://mastodon.in.th/@webring/112590134589640228
+cc30539ef4ecb2d125ba6879b5001bef:shorturl:
+  spec:
+    url: https://www.somkiat.cc/mstest-3-4-with-playwright/
+  state:
+    shortLink: https://link.webring.in.th/1973
 cc517b61b7971c78564e452569512568:facebook:
   spec:
     title: ผมว่ามันน่าจะขาดอะไรไปนะ [debuggingsoft.com]
