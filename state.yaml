@@ -6382,6 +6382,25 @@
     url: https://tinarskii.com/articles/shit7
   state:
     shortLink: https://webring.page.link/Fn4C
+5db2b506c8b114ff91c4a28d264687b8:facebook:
+  spec:
+    title: สัปดาห์การเรียนสุดท้าย ค่าย iCreator Camp 2024 กับเรื่อง Production & Platform [mikkipastel.com]
+    url: https://www.mikkipastel.com/creator-camp-2024-week4-production-and-platform/
+  state:
+    id: '100746876247412_431581709831077'
+    url: https://www.facebook.com/100683012920950/posts/431581709831077
+5db2b506c8b114ff91c4a28d264687b8:mastodon:
+  spec:
+    title: สัปดาห์การเรียนสุดท้าย ค่าย iCreator Camp 2024 กับเรื่อง Production & Platform [mikkipastel.com]
+    url: https://www.mikkipastel.com/creator-camp-2024-week4-production-and-platform/
+  state:
+    id: '112592287005181553'
+    url: https://mastodon.in.th/@webring/112592287005181553
+5db2b506c8b114ff91c4a28d264687b8:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/creator-camp-2024-week4-production-and-platform/
+  state:
+    shortLink: https://link.webring.in.th/1976
 5dbc2e6aba68ab9800bdbf543201c5a9:facebook:
   spec:
     title: How to change/redirect Apache Tomcat port number [debuggingsoft.com]
