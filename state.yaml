@@ -10885,6 +10885,25 @@
     url: https://www.somkiat.cc/course-postman-in-the-right-way-1/
   state:
     shortLink: https://webring.page.link/apCp
+93e895ab9bd12f3dba14b31d4cff18d9:facebook:
+  spec:
+    title: The CloudCamp Open House 2024 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/the-cloudcamp-open-house-2024/
+  state:
+    id: '100746876247412_431499086506006'
+    url: https://www.facebook.com/100683012920950/posts/431499086506006
+93e895ab9bd12f3dba14b31d4cff18d9:mastodon:
+  spec:
+    title: The CloudCamp Open House 2024 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/the-cloudcamp-open-house-2024/
+  state:
+    id: '112591552344360299'
+    url: https://mastodon.in.th/@webring/112591552344360299
+93e895ab9bd12f3dba14b31d4cff18d9:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/the-cloudcamp-open-house-2024/
+  state:
+    shortLink: https://link.webring.in.th/1975
 94527e1a71871a806d1cbdbf9c26ab3a:facebook:
   spec:
     title: '[AWS EKS] ลองใช้ Cluster autoscaler สำหรับ Scale K8s [thanapon.info]'
