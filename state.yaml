@@ -8187,6 +8187,25 @@
     url: https://thanapon.info/mqtt-with-tls-on-aws-iot-core/
   state:
     shortLink: https://webring.page.link/2Lsm
+71864f03d756807268ceb95dfb1b9f5e:facebook:
+  spec:
+    title: สรุปจากการอ่านบทความเรื่อง Redesigning Pinterest’s Ad Serving Systems with Zero Downtime [somkiat.cc]
+    url: https://www.somkiat.cc/note-redesigning-pinterests/
+  state:
+    id: '100746876247412_432049796450935'
+    url: https://www.facebook.com/100683012920950/posts/432049796450935
+71864f03d756807268ceb95dfb1b9f5e:mastodon:
+  spec:
+    title: สรุปจากการอ่านบทความเรื่อง Redesigning Pinterest’s Ad Serving Systems with Zero Downtime [somkiat.cc]
+    url: https://www.somkiat.cc/note-redesigning-pinterests/
+  state:
+    id: '112596513745443169'
+    url: https://mastodon.in.th/@webring/112596513745443169
+71864f03d756807268ceb95dfb1b9f5e:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-redesigning-pinterests/
+  state:
+    shortLink: https://link.webring.in.th/1978
 719956ce74ebfedfe2b0375d891f8e23:facebook:
   spec:
     title: '[KBTG-GO#03] Software Testing [debuggingsoft.com]'
