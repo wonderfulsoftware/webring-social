@@ -5793,6 +5793,25 @@
     url: https://mesodiar.com/devfestcloudbangkok2023-introducing-data-lakehouse-apache-iceberg-slides-f4bad96bba7d?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/nh5Y
+53d66b3662db807580cc1669e4510b95:facebook:
+  spec:
+    title: Hello (blog) World! [punn.dev]
+    url: https://punn.dev/blog/hello-blog-world
+  state:
+    id: '100746876247412_431975446458370'
+    url: https://www.facebook.com/100683012920950/posts/431975446458370
+53d66b3662db807580cc1669e4510b95:mastodon:
+  spec:
+    title: Hello (blog) World! [punn.dev]
+    url: https://punn.dev/blog/hello-blog-world
+  state:
+    id: '112595796833555158'
+    url: https://mastodon.in.th/@webring/112595796833555158
+53d66b3662db807580cc1669e4510b95:shorturl:
+  spec:
+    url: https://punn.dev/blog/hello-blog-world
+  state:
+    shortLink: https://link.webring.in.th/1977
 53ed4cc680a72801fcabe4119b4527cb:facebook:
   spec:
     title: ตอบคำถามเรื่องการ Mock Data ใน Postman [somkiat.cc]
