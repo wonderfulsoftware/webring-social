@@ -18079,6 +18079,25 @@ f637cd1da2d6871b3f8e301ce4dbfb30:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/11/migrate-net-framework-to-net-core-net6-note/
   state:
     shortLink: https://webring.page.link/KWde
+f676551db628b290c52d86d90135a62c:facebook:
+  spec:
+    title: 'Tips :: การจัดการ tab ใน web browser ด้วย Cypress [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-cypress-manage-browser-tab/
+  state:
+    id: '100746876247412_432745799714668'
+    url: https://www.facebook.com/100683012920950/posts/432745799714668
+f676551db628b290c52d86d90135a62c:mastodon:
+  spec:
+    title: 'Tips :: การจัดการ tab ใน web browser ด้วย Cypress [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-cypress-manage-browser-tab/
+  state:
+    id: '112602872582342467'
+    url: https://mastodon.in.th/@webring/112602872582342467
+f676551db628b290c52d86d90135a62c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/tips-cypress-manage-browser-tab/
+  state:
+    shortLink: https://link.webring.in.th/1981
 f67aa6ca8b843e8176838e2cb35d0baa:facebook:
   spec:
     title: เรียนรู้การใช้งาน migrate-mongo [kajame.xyz]
