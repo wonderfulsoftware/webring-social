@@ -8111,6 +8111,25 @@
     url: https://www.karnwong.me/posts/2023/04/the-mythical-chatops-in-action/
   state:
     shortLink: https://webring.page.link/n5cb
+701ca4f1168b6be6f8c11c964c7e8f3d:facebook:
+  spec:
+    title: Let's Create Sequence Diagram via Mermaid [punn.dev]
+    url: https://punn.dev/blog/let-s-create-sequence-diagram-via-mermaid
+  state:
+    id: '100746876247412_432594009729847'
+    url: https://www.facebook.com/100683012920950/posts/432594009729847
+701ca4f1168b6be6f8c11c964c7e8f3d:mastodon:
+  spec:
+    title: Let's Create Sequence Diagram via Mermaid [punn.dev]
+    url: https://punn.dev/blog/let-s-create-sequence-diagram-via-mermaid
+  state:
+    id: '112601459734425009'
+    url: https://mastodon.in.th/@webring/112601459734425009
+701ca4f1168b6be6f8c11c964c7e8f3d:shorturl:
+  spec:
+    url: https://punn.dev/blog/let-s-create-sequence-diagram-via-mermaid
+  state:
+    shortLink: https://link.webring.in.th/1979
 705d3959f69b2a1e2c1902173cf9a239:facebook:
   spec:
     title: ทวิภาวะ จุด-เส้นตรง [neizod.dev]
