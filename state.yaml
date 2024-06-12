@@ -14146,6 +14146,25 @@ c06480cfcd8692f5cc8bc4ed79782aa8:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/05/note-vmware-esxi-on-windows/
   state:
     shortLink: https://webring.page.link/rfPF
+c0f4d46f03201013e89536d1d847c99a:facebook:
+  spec:
+    title: HTML in JSX/TSX [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/html-in-jsx-tsx/
+  state:
+    id: '100746876247412_432674006388514'
+    url: https://www.facebook.com/100683012920950/posts/432674006388514
+c0f4d46f03201013e89536d1d847c99a:mastodon:
+  spec:
+    title: HTML in JSX/TSX [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/html-in-jsx-tsx/
+  state:
+    id: '112602176323421986'
+    url: https://mastodon.in.th/@webring/112602176323421986
+c0f4d46f03201013e89536d1d847c99a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/html-in-jsx-tsx/
+  state:
+    shortLink: https://link.webring.in.th/1980
 c1084fc3c584a1f15dc8d8441f55c870:facebook:
   spec:
     title: 2023 การเปลี่ยนแปลง [debuggingsoft.com]
