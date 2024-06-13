@@ -6838,6 +6838,25 @@
     url: https://jitrak.dev/posts/post-21-npm-package-for-write-jest-easy/
   state:
     shortLink: https://webring.page.link/faL6
+6214e345cf097ad4bf5e206ba9368d9d:facebook:
+  spec:
+    title: URL Shortener using NextJS Server Action [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/url-shortener/
+  state:
+    id: '100746876247412_433222056333709'
+    url: https://www.facebook.com/100683012920950/posts/433222056333709
+6214e345cf097ad4bf5e206ba9368d9d:mastodon:
+  spec:
+    title: URL Shortener using NextJS Server Action [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/url-shortener/
+  state:
+    id: '112607120022897530'
+    url: https://mastodon.in.th/@webring/112607120022897530
+6214e345cf097ad4bf5e206ba9368d9d:shorturl:
+  spec:
+    url: https://tantatorn.xyz/posts/url-shortener/
+  state:
+    shortLink: https://link.webring.in.th/1982
 6219224eba96c8ff1d2ad4829c247bd5:facebook:
   spec:
     title: มาแปลง Console App ให้เป็น .NET Tools (NuGet) [debuggingsoft.com]
