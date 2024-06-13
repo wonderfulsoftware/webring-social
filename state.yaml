@@ -511,6 +511,25 @@
     url: https://lucian.solutions/blog/1-year-sub-stand
   state:
     shortLink: https://webring.page.link/bcms
+08dbf4de9c8dd20f6f94c1957e463061:facebook:
+  spec:
+    title: JSX Component [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/jsx-component/
+  state:
+    id: '100746876247412_433299036326011'
+    url: https://www.facebook.com/100683012920950/posts/433299036326011
+08dbf4de9c8dd20f6f94c1957e463061:mastodon:
+  spec:
+    title: JSX Component [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/jsx-component/
+  state:
+    id: '112607839183156292'
+    url: https://mastodon.in.th/@webring/112607839183156292
+08dbf4de9c8dd20f6f94c1957e463061:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/jsx-component/
+  state:
+    shortLink: https://link.webring.in.th/1983
 090fdc97c4cd40b204d8b1453ecec8a2:facebook:
   spec:
     title: แก้ Error "xcodebuild" command but it exited with error code 65 [kajame.xyz]
