@@ -1233,6 +1233,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/09/virtualbox-licensed/
   state:
     shortLink: https://webring.page.link/VMtb
+12404b7e03a0861e4f1213163bb5d4bf:facebook:
+  spec:
+    title: รู้หรือไม่? เดี๋ยวนี้กล้องมี chip AI แยกแล้วนะ! [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2024-sony-alpha-7c-ii/
+  state:
+    id: '100746876247412_433927119596536'
+    url: https://www.facebook.com/100683012920950/posts/433927119596536
+12404b7e03a0861e4f1213163bb5d4bf:mastodon:
+  spec:
+    title: รู้หรือไม่? เดี๋ยวนี้กล้องมี chip AI แยกแล้วนะ! [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2024-sony-alpha-7c-ii/
+  state:
+    id: '112613503672773547'
+    url: https://mastodon.in.th/@webring/112613503672773547
+12404b7e03a0861e4f1213163bb5d4bf:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/icreator-camp-2024-sony-alpha-7c-ii/
+  state:
+    shortLink: https://link.webring.in.th/1985
 128bc6ef435d47031e0f7afcf0a245ad:facebook:
   spec:
     title: Web Test Runner ใน Angular 17.1 [somkiat.cc]
