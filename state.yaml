@@ -13317,6 +13317,25 @@ b2ade699ca93761a65f09ab9d47231c1:shorturl:
     url: https://www.llun.me/posts/ride/2024-02-04-heated-gloves
   state:
     shortLink: https://link.webring.in.th/1758
+b2d810d6bfdfbf03653ea36edd17d3ac:facebook:
+  spec:
+    title: 'AZ-104: Configure and manage virtual networks for Azure administrators [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/06/az-104-configure-and-manage-virtual-networks-for-azure-administrators/
+  state:
+    id: '100746876247412_433846136271301'
+    url: https://www.facebook.com/100683012920950/posts/433846136271301
+b2d810d6bfdfbf03653ea36edd17d3ac:mastodon:
+  spec:
+    title: 'AZ-104: Configure and manage virtual networks for Azure administrators [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/06/az-104-configure-and-manage-virtual-networks-for-azure-administrators/
+  state:
+    id: '112612782301019142'
+    url: https://mastodon.in.th/@webring/112612782301019142
+b2d810d6bfdfbf03653ea36edd17d3ac:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/az-104-configure-and-manage-virtual-networks-for-azure-administrators/
+  state:
+    shortLink: https://link.webring.in.th/1984
 b2e53c58a31ce517cdd00d1a61d2ecd9:facebook:
   spec:
     title: 'แนะหนังสือน่าสนใจ Head First :: Software Architecture [somkiat.cc]'
