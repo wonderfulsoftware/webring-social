@@ -14317,6 +14317,25 @@ c17082f763f2e844e8afd34a9069afdd:shorturl:
     url: https://www.mikkipastel.com/review-skooldio-tech-course/
   state:
     shortLink: https://webring.page.link/q6si
+c1a414466d4446fd56af4c6ff7abc8ab:facebook:
+  spec:
+    title: Performance Issue [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/performance-issue/
+  state:
+    id: '100746876247412_434481152874466'
+    url: https://www.facebook.com/100683012920950/posts/434481152874466
+c1a414466d4446fd56af4c6ff7abc8ab:mastodon:
+  spec:
+    title: Performance Issue [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/performance-issue/
+  state:
+    id: '112618443520941939'
+    url: https://mastodon.in.th/@webring/112618443520941939
+c1a414466d4446fd56af4c6ff7abc8ab:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/performance-issue/
+  state:
+    shortLink: https://link.webring.in.th/1986
 c25a1751edc8f9642937cb00ebca5982:facebook:
   spec:
     title: Building a Second Brain [garden.narze.live]
