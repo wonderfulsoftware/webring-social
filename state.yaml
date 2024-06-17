@@ -2658,6 +2658,25 @@
     url: https://www.poolsawat.com/laravel-import-export-file-with-laravel-excel/
   state:
     shortLink: https://link.webring.in.th/1757
+24087b792e3e284ea5d2dac6ea76096f:facebook:
+  spec:
+    title: เรียนรู้ Go หัดทำ API ด้วย gin [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/go-learning-ep-01
+  state:
+    id: '100746876247412_435846679404580'
+    url: https://www.facebook.com/100683012920950/posts/435846679404580
+24087b792e3e284ea5d2dac6ea76096f:mastodon:
+  spec:
+    title: เรียนรู้ Go หัดทำ API ด้วย gin [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/go-learning-ep-01
+  state:
+    id: '112630491934224365'
+    url: https://mastodon.in.th/@webring/112630491934224365
+24087b792e3e284ea5d2dac6ea76096f:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/2024/go-learning-ep-01
+  state:
+    shortLink: https://link.webring.in.th/1988
 24433f0f619c655da61987caf6084c23:facebook:
   spec:
     title: Food Review - เหอ เฉิน ฟง [lucian.solutions]
