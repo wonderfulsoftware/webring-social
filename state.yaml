@@ -9422,6 +9422,25 @@
     url: https://karnwong.me/posts/2023/11/using-apache-iceberg-to-reduce-data-lake-operations-overhead/
   state:
     shortLink: https://webring.page.link/Jnrr
+805e675c3a051602ecdfc1a636665749:facebook:
+  spec:
+    title: มาลองใช้ Typia กัน ! [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/typia/
+  state:
+    id: '100746876247412_435927659396482'
+    url: https://www.facebook.com/100683012920950/posts/435927659396482
+805e675c3a051602ecdfc1a636665749:mastodon:
+  spec:
+    title: มาลองใช้ Typia กัน ! [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/typia/
+  state:
+    id: '112631190607435610'
+    url: https://mastodon.in.th/@webring/112631190607435610
+805e675c3a051602ecdfc1a636665749:shorturl:
+  spec:
+    url: https://tantatorn.xyz/posts/typia/
+  state:
+    shortLink: https://link.webring.in.th/1989
 80982e4f445113b743523b0eb0d7368f:facebook:
   spec:
     title: มาเรียนรู้ NFT บน Internet Computer Protocol กัน กับงาน ICP World NFT [mikkipastel.com]
