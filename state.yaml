@@ -2449,6 +2449,25 @@
     url: https://neizod.dev/2022/12/31/cantor-ternary-set.html
   state:
     shortLink: https://webring.page.link/qHki
+20b4711a6a4f6d17b78b2c6a6c47de83:facebook:
+  spec:
+    title: สรุปงาน MS Build 2024 After Party-Thailand @SCBX NEXT TECH [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/recap-ms-build-2024-after-party-thailand/
+  state:
+    id: '100746876247412_435767442745837'
+    url: https://www.facebook.com/100683012920950/posts/435767442745837
+20b4711a6a4f6d17b78b2c6a6c47de83:mastodon:
+  spec:
+    title: สรุปงาน MS Build 2024 After Party-Thailand @SCBX NEXT TECH [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/recap-ms-build-2024-after-party-thailand/
+  state:
+    id: '112629774275958475'
+    url: https://mastodon.in.th/@webring/112629774275958475
+20b4711a6a4f6d17b78b2c6a6c47de83:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/recap-ms-build-2024-after-party-thailand/
+  state:
+    shortLink: https://link.webring.in.th/1987
 20f0ca4296e445ab9ea0a0e0a5c5d565:facebook:
   spec:
     title: DB2 Data Type DECFLOAT แล้ว SQL Server ใช้อะไร ? [debuggingsoft.com]
