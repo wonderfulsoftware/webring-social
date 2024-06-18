@@ -6572,6 +6572,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/05/microsoft-build-ai-day-qsncc-note/
   state:
     shortLink: https://link.webring.in.th/1907
+5ea646d2742357701f481c3d7bbfe069:facebook:
+  spec:
+    title: JSX Conditional Rendering [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/jsx-conditional-rendering/
+  state:
+    id: '100746876247412_436419849347263'
+    url: https://www.facebook.com/100683012920950/posts/436419849347263
+5ea646d2742357701f481c3d7bbfe069:mastodon:
+  spec:
+    title: JSX Conditional Rendering [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/jsx-conditional-rendering/
+  state:
+    id: '112635435795599249'
+    url: https://mastodon.in.th/@webring/112635435795599249
+5ea646d2742357701f481c3d7bbfe069:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/jsx-conditional-rendering/
+  state:
+    shortLink: https://link.webring.in.th/1991
 5f3599f0d48dfb9110b4bafdfdd9f32e:facebook:
   spec:
     title: วันในสัปดาห์ [neizod.dev]
