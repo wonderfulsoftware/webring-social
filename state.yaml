@@ -13545,6 +13545,25 @@ b47b41b5411e568635b6c2936beeaad2:shorturl:
     url: https://www.somkiat.cc/hello-gleam/
   state:
     shortLink: https://webring.page.link/PeK2
+b47f8a24a2c66d9b2e30023073029cef:facebook:
+  spec:
+    title: 'Docker Desktop :: เพิ่งเห็น extension ชื่อว่า Disk usage [somkiat.cc]'
+    url: https://www.somkiat.cc/docker-desktop-with-disk-usage/
+  state:
+    id: '100746876247412_437065595949355'
+    url: https://www.facebook.com/100683012920950/posts/437065595949355
+b47f8a24a2c66d9b2e30023073029cef:mastodon:
+  spec:
+    title: 'Docker Desktop :: เพิ่งเห็น extension ชื่อว่า Disk usage [somkiat.cc]'
+    url: https://www.somkiat.cc/docker-desktop-with-disk-usage/
+  state:
+    id: '112641096478850049'
+    url: https://mastodon.in.th/@webring/112641096478850049
+b47f8a24a2c66d9b2e30023073029cef:shorturl:
+  spec:
+    url: https://www.somkiat.cc/docker-desktop-with-disk-usage/
+  state:
+    shortLink: https://link.webring.in.th/1992
 b523496aaef0dbab15c8fab0cdfbdc26:facebook:
   spec:
     title: เทคนิคการฝึกพูด present และ public speaking สำหรับมือใหม่ [mesodiar.com]
