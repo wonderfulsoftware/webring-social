@@ -378,6 +378,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/12/how-to-get-output-from-dotnet-test/
   state:
     shortLink: https://webring.page.link/rZFZ
+0759428909a43d5305f1209ceca8525e:facebook:
+  spec:
+    title: How to implement cross-tab communication [punn.dev]
+    url: https://punn.dev/blog/how-to-implement-cross-tab-communication
+  state:
+    id: '100746876247412_437143379274910'
+    url: https://www.facebook.com/100683012920950/posts/437143379274910
+0759428909a43d5305f1209ceca8525e:mastodon:
+  spec:
+    title: How to implement cross-tab communication [punn.dev]
+    url: https://punn.dev/blog/how-to-implement-cross-tab-communication
+  state:
+    id: '112641813348507165'
+    url: https://mastodon.in.th/@webring/112641813348507165
+0759428909a43d5305f1209ceca8525e:shorturl:
+  spec:
+    url: https://punn.dev/blog/how-to-implement-cross-tab-communication
+  state:
+    shortLink: https://link.webring.in.th/1993
 078f3d2efcb7c493c93611be4d88737e:facebook:
   spec:
     title: ความสามารถที่น่าสนใจของ NodeJS [somkiat.cc]
