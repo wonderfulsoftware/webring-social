@@ -16103,6 +16103,25 @@ d58f4ece6739487292947e77a14d2418:shorturl:
     url: https://www.poolsawat.com/docker-run-1line-command-about-databases/
   state:
     shortLink: https://webring.page.link/63Mf
+d5b3ee4703ab5e2e880d48131dabba73:facebook:
+  spec:
+    title: Install github.com/mattn/go-sqlite3 on Windows [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/install-github-com-mattn-go-sqlite3-on-windows/
+  state:
+    id: '100746876247412_437220295933885'
+    url: https://www.facebook.com/100683012920950/posts/437220295933885
+d5b3ee4703ab5e2e880d48131dabba73:mastodon:
+  spec:
+    title: Install github.com/mattn/go-sqlite3 on Windows [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/install-github-com-mattn-go-sqlite3-on-windows/
+  state:
+    id: '112642516314633125'
+    url: https://mastodon.in.th/@webring/112642516314633125
+d5b3ee4703ab5e2e880d48131dabba73:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/install-github-com-mattn-go-sqlite3-on-windows/
+  state:
+    shortLink: https://link.webring.in.th/1994
 d60a8308ade9890b6a7aa988d257c208:facebook:
   spec:
     title: (น่าจะสุดท้ายละมั้งนะ) Network ในคอนโด เวอร์ชัน 2023 ปรับแล้วปรับอีก ไม่จบสักที [kusumotolab.com]
