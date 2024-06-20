@@ -606,6 +606,25 @@
     url: https://www.somkiat.cc/mistakes-in-ci-cd/
   state:
     shortLink: https://webring.page.link/dqf5
+09e2e09a1cc3024735e45ef812e576e4:facebook:
+  spec:
+    title: 'Tips :: เปลี่ยน version ของ .NET [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-manage-version-of-dotnet/
+  state:
+    id: '100746876247412_437682655887649'
+    url: https://www.facebook.com/100683012920950/posts/437682655887649
+09e2e09a1cc3024735e45ef812e576e4:mastodon:
+  spec:
+    title: 'Tips :: เปลี่ยน version ของ .NET [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-manage-version-of-dotnet/
+  state:
+    id: '112646755966080104'
+    url: https://mastodon.in.th/@webring/112646755966080104
+09e2e09a1cc3024735e45ef812e576e4:shorturl:
+  spec:
+    url: https://www.somkiat.cc/tips-manage-version-of-dotnet/
+  state:
+    shortLink: https://link.webring.in.th/1995
 0a2b0c5c6d3a86e26c366b07c9c40e4f:facebook:
   spec:
     title: Docker scan ถูกเอาออกไปแล้ว แทนที่ด้วย Docker Scout [somkiat.cc]
