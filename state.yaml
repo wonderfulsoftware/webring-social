@@ -5793,6 +5793,25 @@
     url: https://shayennn.com/tesla-thailand-delivery-process-so-suck/
   state:
     shortLink: https://webring.page.link/B8J1
+50ef5e9682b06aea4c3068c6bd0eb796:facebook:
+  spec:
+    title: docker / podman cp note [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/docker-podman-cp-note/
+  state:
+    id: '100746876247412_438397799149468'
+    url: https://www.facebook.com/100683012920950/posts/438397799149468
+50ef5e9682b06aea4c3068c6bd0eb796:mastodon:
+  spec:
+    title: docker / podman cp note [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/docker-podman-cp-note/
+  state:
+    id: '112653139128281639'
+    url: https://mastodon.in.th/@webring/112653139128281639
+50ef5e9682b06aea4c3068c6bd0eb796:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/docker-podman-cp-note/
+  state:
+    shortLink: https://link.webring.in.th/1997
 5196ad8f95df7d8dd9e01e3d7972d001:facebook:
   spec:
     title: รวมเว็บขอ Testnet Faucet สำหรับ developer และนักล่า airdrop [mikkipastel.com]
