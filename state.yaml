@@ -6211,6 +6211,25 @@
     url: https://wawasabii.com/blog/thailand-lottery-statistic-30-years/
   state:
     shortLink: https://link.webring.in.th/1891
+593122cdc6e700d15e61b1069322b2ea:facebook:
+  spec:
+    title: ทำความรู้จักกับ TypeSpec สำหรับการออกแบบ API [somkiat.cc]
+    url: https://www.somkiat.cc/intro-typespec-for-api-design/
+  state:
+    id: '100746876247412_438321062490475'
+    url: https://www.facebook.com/100683012920950/posts/438321062490475
+593122cdc6e700d15e61b1069322b2ea:mastodon:
+  spec:
+    title: ทำความรู้จักกับ TypeSpec สำหรับการออกแบบ API [somkiat.cc]
+    url: https://www.somkiat.cc/intro-typespec-for-api-design/
+  state:
+    id: '112652419772308425'
+    url: https://mastodon.in.th/@webring/112652419772308425
+593122cdc6e700d15e61b1069322b2ea:shorturl:
+  spec:
+    url: https://www.somkiat.cc/intro-typespec-for-api-design/
+  state:
+    shortLink: https://link.webring.in.th/1996
 5a08e1afe23dc2e87ab61f5a336b5136:facebook:
   spec:
     title: 'Thailand Meetup: MongoDB Data Modeling Hands-on @SCK-Dojo [debuggingsoft.com]'
