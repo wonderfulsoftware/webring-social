@@ -6515,6 +6515,25 @@
     url: https://yuttakhanb.dev/posts/screenplay-serenity/
   state:
     shortLink: https://link.webring.in.th/1742
+5c7df9479fe6e730c37ccf6ad9c6b541:facebook:
+  spec:
+    title: 'นิลเล่า: WordPress Basic III [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/wordpress-basic-iii/
+  state:
+    id: '100746876247412_438976122424969'
+    url: https://www.facebook.com/100683012920950/posts/438976122424969
+5c7df9479fe6e730c37ccf6ad9c6b541:mastodon:
+  spec:
+    title: 'นิลเล่า: WordPress Basic III [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/wordpress-basic-iii/
+  state:
+    id: '112658083791126204'
+    url: https://mastodon.in.th/@webring/112658083791126204
+5c7df9479fe6e730c37ccf6ad9c6b541:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/wordpress-basic-iii/
+  state:
+    shortLink: https://link.webring.in.th/1998
 5d719068376edd19f96fa8863cff2d5f:facebook:
   spec:
     title: ปัญหาของ WebClient ใน Spring Boot 3 [somkiat.cc]
