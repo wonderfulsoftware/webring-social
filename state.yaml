@@ -13070,6 +13070,25 @@ ace02453c1ce428b12a46216b9176556:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/cr-starbucks-xmas-tree-brownie/
   state:
     shortLink: https://webring.page.link/9a7x
+ad462677b20e6bf4d4e61ce98621304f:facebook:
+  spec:
+    title: '[MS Cert] บันทึกการสอบ AI-102 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/06/microsoft-certification-exam-ai-102-note/
+  state:
+    id: '100746876247412_439067432415838'
+    url: https://www.facebook.com/100683012920950/posts/439067432415838
+ad462677b20e6bf4d4e61ce98621304f:mastodon:
+  spec:
+    title: '[MS Cert] บันทึกการสอบ AI-102 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/06/microsoft-certification-exam-ai-102-note/
+  state:
+    id: '112658798043693228'
+    url: https://mastodon.in.th/@webring/112658798043693228
+ad462677b20e6bf4d4e61ce98621304f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/microsoft-certification-exam-ai-102-note/
+  state:
+    shortLink: https://link.webring.in.th/1999
 ad854103055b99bd1095a99ddb655ade:facebook:
   spec:
     title: My First Hiking at Phu Soi Dao [tantatorn.xyz]
