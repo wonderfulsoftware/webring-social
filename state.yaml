@@ -3779,6 +3779,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/07/owasp-top-10-ci-cd-security-risks/
   state:
     shortLink: https://webring.page.link/BkGT
+3197b490f5573a8bbb0706935423b23f:facebook:
+  spec:
+    title: วันสุดท้าย ที่เป็นแค่จุดเริ่มต้น กับค่าย iCreator Camp 2024 [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2024-final-day/
+  state:
+    id: '100746876247412_440438838945364'
+    url: https://www.facebook.com/100683012920950/posts/440438838945364
+3197b490f5573a8bbb0706935423b23f:mastodon:
+  spec:
+    title: วันสุดท้าย ที่เป็นแค่จุดเริ่มต้น กับค่าย iCreator Camp 2024 [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2024-final-day/
+  state:
+    id: '112670125727690424'
+    url: https://mastodon.in.th/@webring/112670125727690424
+3197b490f5573a8bbb0706935423b23f:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/icreator-camp-2024-final-day/
+  state:
+    shortLink: https://link.webring.in.th/2001
 3224cb65073c4a1ee3f95d94fd387aa2:facebook:
   spec:
     title: Illustration - ❌ Uncaught TypeError [lucian.solutions]
