@@ -7541,6 +7541,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/11/summary-backend-meetup-2023/
   state:
     shortLink: https://webring.page.link/HvpQ
+678e4252f269991f9d9cf87aa48203ea:facebook:
+  spec:
+    title: เรียนรู้ Go - สร้าง Docker image สำหรับโปรเจค Go [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/go-learning-ep-02
+  state:
+    id: '100746876247412_440356495620265'
+    url: https://www.facebook.com/100683012920950/posts/440356495620265
+678e4252f269991f9d9cf87aa48203ea:mastodon:
+  spec:
+    title: เรียนรู้ Go - สร้าง Docker image สำหรับโปรเจค Go [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/go-learning-ep-02
+  state:
+    id: '112669407390755512'
+    url: https://mastodon.in.th/@webring/112669407390755512
+678e4252f269991f9d9cf87aa48203ea:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/2024/go-learning-ep-02
+  state:
+    shortLink: https://link.webring.in.th/2000
 67c6f7f9908a195b12d2ff77f5642007:facebook:
   spec:
     title: รีวิว Mazda CX-5 จากผู้ใช้งานจริง 6 ปี++ [blog.kpping.me]
