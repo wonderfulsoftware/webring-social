@@ -18984,6 +18984,25 @@ ff1a08452a4f002b3d483fa32639fb1d:shorturl:
     url: https://www.somkiat.cc/stack-overflow-with-ai/
   state:
     shortLink: https://webring.page.link/5Bce
+ffb217f929252a5de06781b9ee360de3:facebook:
+  spec:
+    title: Parse JSON in command line [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/parse-json-in-command-line/
+  state:
+    id: '100746876247412_441677212154860'
+    url: https://www.facebook.com/100683012920950/posts/441677212154860
+ffb217f929252a5de06781b9ee360de3:mastodon:
+  spec:
+    title: Parse JSON in command line [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/06/parse-json-in-command-line/
+  state:
+    id: '112680734082269787'
+    url: https://mastodon.in.th/@webring/112680734082269787
+ffb217f929252a5de06781b9ee360de3:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/parse-json-in-command-line/
+  state:
+    shortLink: https://link.webring.in.th/2002
 ffc5905ef4b2cad1b9e89f4554eac71b:facebook:
   spec:
     title: MongoDB คืออะไร? ติดตั้งและเริ่มต้นใช้งาน MongoDB เบื้องต้น [poolsawat.com]
