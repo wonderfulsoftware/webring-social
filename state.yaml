@@ -14032,6 +14032,25 @@ b9773704cf492b71b67789e4cad319e6:shorturl:
     url: https://www.somkiat.cc/note-12-software-architecture-pitfalls/
   state:
     shortLink: https://webring.page.link/B8Qq
+b98e8dcb1815c5ec5890e7643e49554e:facebook:
+  spec:
+    title: สรุปเนื้อหา Exploring the Power of Gemini (I/O Extend 24) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/gemini-gio-2024/
+  state:
+    id: '100746876247412_441835118805736'
+    url: https://www.facebook.com/100683012920950/posts/441835118805736
+b98e8dcb1815c5ec5890e7643e49554e:mastodon:
+  spec:
+    title: สรุปเนื้อหา Exploring the Power of Gemini (I/O Extend 24) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/gemini-gio-2024/
+  state:
+    id: '112682149751875437'
+    url: https://mastodon.in.th/@webring/112682149751875437
+b98e8dcb1815c5ec5890e7643e49554e:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/gemini-gio-2024/
+  state:
+    shortLink: https://link.webring.in.th/2004
 b9d19f43cf76cd1b1e3cf24dd3f46818:facebook:
   spec:
     title: Port number randomizer [dt.in.th]
