@@ -15514,6 +15514,25 @@ cd3f1042e1ae4055bed5a79a0b023e46:shorturl:
     url: https://karnwong.me/posts/2024/06/thoughts-on-summarization-service/
   state:
     shortLink: https://link.webring.in.th/1974
+cd681895875b13da5ecd82d625bb4620:facebook:
+  spec:
+    title: สภาพแวดล้อมที่เหมาะสม [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/env
+  state:
+    id: '100746876247412_442333828755865'
+    url: https://www.facebook.com/100683012920950/posts/442333828755865
+cd681895875b13da5ecd82d625bb4620:mastodon:
+  spec:
+    title: สภาพแวดล้อมที่เหมาะสม [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/env
+  state:
+    id: '112686394748830884'
+    url: https://mastodon.in.th/@webring/112686394748830884
+cd681895875b13da5ecd82d625bb4620:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/env
+  state:
+    shortLink: https://link.webring.in.th/2005
 cd8fd59aeef7ef0d0711032bc7d7a53b:facebook:
   spec:
     title: 'Spring Framework 6.2.0-M1 :: มาใช้งาน @TestBean ใน test กัน [somkiat.cc]'
@@ -19024,14 +19043,14 @@ ff1a08452a4f002b3d483fa32639fb1d:shorturl:
     shortLink: https://webring.page.link/5Bce
 ffb217f929252a5de06781b9ee360de3:facebook:
   spec:
-    title: Parse JSON in command line [debuggingsoft.com]
+    title: How to Parse JSON in command line [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2024/06/parse-json-in-command-line/
   state:
     id: '100746876247412_441677212154860'
     url: https://www.facebook.com/100683012920950/posts/441677212154860
 ffb217f929252a5de06781b9ee360de3:mastodon:
   spec:
-    title: Parse JSON in command line [debuggingsoft.com]
+    title: How to Parse JSON in command line [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2024/06/parse-json-in-command-line/
   state:
     id: '112680734082269787'
