@@ -7237,6 +7237,25 @@
     url: https://www.somkiat.cc/chnage-robot-framework-7-0-alpha-1/
   state:
     shortLink: https://webring.page.link/ZADj
+63929748055cb1a8240613ed944082f5:facebook:
+  spec:
+    title: Thoughts on summarization service system design [karnwong.me]
+    url: https://karnwong.me/posts/2024/06/thoughts-on-summarization-service-system-design/
+  state:
+    id: '100746876247412_442970785358836'
+    url: https://www.facebook.com/100683012920950/posts/442970785358836
+63929748055cb1a8240613ed944082f5:mastodon:
+  spec:
+    title: Thoughts on summarization service system design [karnwong.me]
+    url: https://karnwong.me/posts/2024/06/thoughts-on-summarization-service-system-design/
+  state:
+    id: '112692059753093137'
+    url: https://mastodon.in.th/@webring/112692059753093137
+63929748055cb1a8240613ed944082f5:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/06/thoughts-on-summarization-service-system-design/
+  state:
+    shortLink: https://link.webring.in.th/2006
 639c11c08aeb3f30f0258dd9db600772:facebook:
   spec:
     title: เมื่อปี 2022 เราเจอกับคำว่าอะไรบ้างนะ ? [somkiat.cc]
