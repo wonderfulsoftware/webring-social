@@ -8472,6 +8472,25 @@
     url: https://thanapon.info/mqtt-with-tls-on-aws-iot-core/
   state:
     shortLink: https://webring.page.link/2Lsm
+71668f54854eb6edd503341883e276a8:facebook:
+  spec:
+    title: Playwright 1.45 เพิ่ม Clock API เข้ามาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/playwright-with-clock-api/
+  state:
+    id: '100746876247412_443622805293634'
+    url: https://www.facebook.com/100683012920950/posts/443622805293634
+71668f54854eb6edd503341883e276a8:mastodon:
+  spec:
+    title: Playwright 1.45 เพิ่ม Clock API เข้ามาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/playwright-with-clock-api/
+  state:
+    id: '112697719516605346'
+    url: https://mastodon.in.th/@webring/112697719516605346
+71668f54854eb6edd503341883e276a8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/playwright-with-clock-api/
+  state:
+    shortLink: https://link.webring.in.th/2007
 71864f03d756807268ceb95dfb1b9f5e:facebook:
   spec:
     title: สรุปจากการอ่านบทความเรื่อง Redesigning Pinterest’s Ad Serving Systems with Zero Downtime [somkiat.cc]
