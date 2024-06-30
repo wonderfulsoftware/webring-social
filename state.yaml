@@ -9156,6 +9156,25 @@
     url: https://www.somkiat.cc/redisearch-with-geolocation/
   state:
     shortLink: https://webring.page.link/49P6
+7a7151e49f07709f9cba27d973db8cea:facebook:
+  spec:
+    title: เรียนรู้ Go - compile อัตโนมัติ ด้วย Air บน Docker [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/go-learning-ep-03
+  state:
+    id: '100746876247412_444284065227508'
+    url: https://www.facebook.com/100683012920950/posts/444284065227508
+7a7151e49f07709f9cba27d973db8cea:mastodon:
+  spec:
+    title: เรียนรู้ Go - compile อัตโนมัติ ด้วย Air บน Docker [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/go-learning-ep-03
+  state:
+    id: '112703380518992682'
+    url: https://mastodon.in.th/@webring/112703380518992682
+7a7151e49f07709f9cba27d973db8cea:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/2024/go-learning-ep-03
+  state:
+    shortLink: https://link.webring.in.th/2008
 7a7c57a61f62f5b4c566a02526f231b4:facebook:
   spec:
     title: Some problems can be solved with workflows [karnwong.me]
