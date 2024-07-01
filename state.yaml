@@ -5717,6 +5717,25 @@
     url: https://devahoy.com/blog/vscode-unknown-at-rules-css
   state:
     shortLink: https://webring.page.link/34Jq
+4f2e4dee4170f384485ae18524739d65:facebook:
+  spec:
+    title: Dashboard คืออะไร? 7 คำแนะนำที่คนสร้างแดชบอร์ดอยากบอกคุณ [wawasabii.com]
+    url: https://wawasabii.com/blog/what-is-a-dashboard-and-how-to-use-it-better/
+  state:
+    id: '100746876247412_445019135154001'
+    url: https://www.facebook.com/100683012920950/posts/445019135154001
+4f2e4dee4170f384485ae18524739d65:mastodon:
+  spec:
+    title: Dashboard คืออะไร? 7 คำแนะนำที่คนสร้างแดชบอร์ดอยากบอกคุณ [wawasabii.com]
+    url: https://wawasabii.com/blog/what-is-a-dashboard-and-how-to-use-it-better/
+  state:
+    id: '112709768190164563'
+    url: https://mastodon.in.th/@webring/112709768190164563
+4f2e4dee4170f384485ae18524739d65:shorturl:
+  spec:
+    url: https://wawasabii.com/blog/what-is-a-dashboard-and-how-to-use-it-better/
+  state:
+    shortLink: https://link.webring.in.th/2011
 4f3b194e31f46d0addcd8330e1887310:facebook:
   spec:
     title: ทำ Strapi ให้อยู่บน Docker [kajame.xyz]
