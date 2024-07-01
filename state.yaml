@@ -11493,6 +11493,25 @@
     url: https://lucian.solutions/blog/202402-Ako
   state:
     shortLink: https://link.webring.in.th/1763
+95dfbfb877cd8cf6ae6231447e139199:facebook:
+  spec:
+    title: 'สรุปงาน Code Mania 1011: AI for Developers [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/06/recap-code-mania-1011-ai-for-developers/
+  state:
+    id: '100746876247412_444937071828874'
+    url: https://www.facebook.com/100683012920950/posts/444937071828874
+95dfbfb877cd8cf6ae6231447e139199:mastodon:
+  spec:
+    title: 'สรุปงาน Code Mania 1011: AI for Developers [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/06/recap-code-mania-1011-ai-for-developers/
+  state:
+    id: '112709045011156664'
+    url: https://mastodon.in.th/@webring/112709045011156664
+95dfbfb877cd8cf6ae6231447e139199:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/06/recap-code-mania-1011-ai-for-developers/
+  state:
+    shortLink: https://link.webring.in.th/2010
 961df37c27144e7aa34705f2921a1df2:facebook:
   spec:
     title: แนะนำการใช้งาน Distributed Tracing ใน Spring Boot 3.2 [somkiat.cc]
