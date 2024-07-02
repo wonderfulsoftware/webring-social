@@ -6268,6 +6268,25 @@
     url: https://wawasabii.com/blog/thailand-lottery-statistic-30-years/
   state:
     shortLink: https://link.webring.in.th/1891
+58da595f6982e087ec7c39d706d4f7fc:facebook:
+  spec:
+    title: 'AZ-104: Monitor and back up Azure resources [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/07/az-104-monitor-and-back-up-azure-resources/
+  state:
+    id: '100746876247412_445600921762489'
+    url: https://www.facebook.com/100683012920950/posts/445600921762489
+58da595f6982e087ec7c39d706d4f7fc:mastodon:
+  spec:
+    title: 'AZ-104: Monitor and back up Azure resources [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/07/az-104-monitor-and-back-up-azure-resources/
+  state:
+    id: '112714704850452342'
+    url: https://mastodon.in.th/@webring/112714704850452342
+58da595f6982e087ec7c39d706d4f7fc:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/07/az-104-monitor-and-back-up-azure-resources/
+  state:
+    shortLink: https://link.webring.in.th/2012
 593122cdc6e700d15e61b1069322b2ea:facebook:
   spec:
     title: ทำความรู้จักกับ TypeSpec สำหรับการออกแบบ API [somkiat.cc]
