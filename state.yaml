@@ -7921,6 +7921,25 @@
     url: https://www.anuwong.com/blog/2024-01-29-redis-watch/
   state:
     shortLink: https://link.webring.in.th/1746
+6ba58466129573cbcb4ee479725d9d2d:facebook:
+  spec:
+    title: 'Go :: ความแตกต่างระหว่าง go mod tidy กับ go mod download [somkiat.cc]'
+    url: https://www.somkiat.cc/go-mod-tidy-vs-download/
+  state:
+    id: '100746876247412_446246748364573'
+    url: https://www.facebook.com/100683012920950/posts/446246748364573
+6ba58466129573cbcb4ee479725d9d2d:mastodon:
+  spec:
+    title: 'Go :: ความแตกต่างระหว่าง go mod tidy กับ go mod download [somkiat.cc]'
+    url: https://www.somkiat.cc/go-mod-tidy-vs-download/
+  state:
+    id: '112720366874779592'
+    url: https://mastodon.in.th/@webring/112720366874779592
+6ba58466129573cbcb4ee479725d9d2d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/go-mod-tidy-vs-download/
+  state:
+    shortLink: https://link.webring.in.th/2013
 6bb174c5e8118ec8fb34cdb4fddd8a3e:facebook:
   spec:
     title: Data Engineering Resources [karnwong.me]
