@@ -5907,6 +5907,25 @@
     url: https://www.poolsawat.com/create-spa-web-app-with-laravel9-vue3-inertiajs-bootstrap5/
   state:
     shortLink: https://webring.page.link/q1NE
+521741fb70af1ef370314cb2ed94b7af:facebook:
+  spec:
+    title: ทำนามบัตรแจกคนทั้งโลก ในงบหลักสิบ ด้วย NFC card [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-create-nfc-name-card-with-3-steps/
+  state:
+    id: '100746876247412_450163167972931'
+    url: https://www.facebook.com/100683012920950/posts/450163167972931
+521741fb70af1ef370314cb2ed94b7af:mastodon:
+  spec:
+    title: ทำนามบัตรแจกคนทั้งโลก ในงบหลักสิบ ด้วย NFC card [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-create-nfc-name-card-with-3-steps/
+  state:
+    id: '112755061453952549'
+    url: https://mastodon.in.th/@webring/112755061453952549
+521741fb70af1ef370314cb2ed94b7af:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/how-to-create-nfc-name-card-with-3-steps/
+  state:
+    shortLink: https://link.webring.in.th/2015
 522633e6094255c02b59d1af11272897:facebook:
   spec:
     title: บันทึกจากการเรียน ChatGPT Prompt Engineering for Developers [somkiat.cc]
