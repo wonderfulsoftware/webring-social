@@ -15286,6 +15286,25 @@ c7e81d23ce19b1af0e9ec1e0e3ad0c5d:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/02/cr-starbucks-double-chocolate-pain-suisse/
   state:
     shortLink: https://link.webring.in.th/1783
+c84e4fae578f7bfca7e12dcdb5214904:facebook:
+  spec:
+    title: ใช้ SQLBoiler กับ Go [pontakorn.dev]
+    url: https://pontakorn.dev/posts/use-database-with-sqlboiler/
+  state:
+    id: '100746876247412_450238361298745'
+    url: https://www.facebook.com/100683012920950/posts/450238361298745
+c84e4fae578f7bfca7e12dcdb5214904:mastodon:
+  spec:
+    title: ใช้ SQLBoiler กับ Go [pontakorn.dev]
+    url: https://pontakorn.dev/posts/use-database-with-sqlboiler/
+  state:
+    id: '112755753890752820'
+    url: https://mastodon.in.th/@webring/112755753890752820
+c84e4fae578f7bfca7e12dcdb5214904:shorturl:
+  spec:
+    url: https://pontakorn.dev/posts/use-database-with-sqlboiler/
+  state:
+    shortLink: https://link.webring.in.th/2016
 c860c0569cde5bd92e5079e8c396ff8e:facebook:
   spec:
     title: Simplicity fallacy of "Just use X (for everything)" [chrisza.me]
