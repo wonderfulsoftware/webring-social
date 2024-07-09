@@ -6743,6 +6743,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/06/jsx-conditional-rendering/
   state:
     shortLink: https://link.webring.in.th/1991
+5efc5ce24e8bdc1194e500102b25cb55:facebook:
+  spec:
+    title: LLM กับข้อสอบ O-NET ม.6 [dt.in.th]
+    url: https://notes.dt.in.th/ThaiLanguageLLMBenchmark
+  state:
+    id: '100746876247412_450158317973416'
+    url: https://www.facebook.com/100683012920950/posts/450158317973416
+5efc5ce24e8bdc1194e500102b25cb55:mastodon:
+  spec:
+    title: LLM กับข้อสอบ O-NET ม.6 [dt.in.th]
+    url: https://notes.dt.in.th/ThaiLanguageLLMBenchmark
+  state:
+    id: '112755015380256215'
+    url: https://mastodon.in.th/@webring/112755015380256215
+5efc5ce24e8bdc1194e500102b25cb55:shorturl:
+  spec:
+    url: https://notes.dt.in.th/ThaiLanguageLLMBenchmark
+  state:
+    shortLink: https://link.webring.in.th/2014
 5f3599f0d48dfb9110b4bafdfdd9f32e:facebook:
   spec:
     title: วันในสัปดาห์ [neizod.dev]
