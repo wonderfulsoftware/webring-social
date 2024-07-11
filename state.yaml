@@ -7256,6 +7256,25 @@
     url: https://www.somkiat.cc/vscode-codegpt/
   state:
     shortLink: https://webring.page.link/VTgt
+62c0ffc481f81ca1381e13d3566079b7:facebook:
+  spec:
+    title: '[C#] Dump Object As JSON (Visual Studio) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/07/c-dump-object-as-json-visual-studio/
+  state:
+    id: '100746876247412_451330234522891'
+    url: https://www.facebook.com/100683012920950/posts/451330234522891
+62c0ffc481f81ca1381e13d3566079b7:mastodon:
+  spec:
+    title: '[C#] Dump Object As JSON (Visual Studio) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/07/c-dump-object-as-json-visual-studio/
+  state:
+    id: '112765674748512692'
+    url: https://mastodon.in.th/@webring/112765674748512692
+62c0ffc481f81ca1381e13d3566079b7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/07/c-dump-object-as-json-visual-studio/
+  state:
+    shortLink: https://link.webring.in.th/2019
 62dae869904ac5dab6047c9f79f0200b:facebook:
   spec:
     title: Change League of Legends macOS language from Thai to English [garden.narze.live]
