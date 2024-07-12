@@ -2753,6 +2753,25 @@
     url: https://www.somkiat.cc/spring-modulith-1-ga/
   state:
     shortLink: https://webring.page.link/sXEd
+24e2fd144a90c69462aaae232229fe2e:facebook:
+  spec:
+    title: เป็นโควิดครั้งแรก! เป็นยังไงบ้างนะ? [mikkipastel.com]
+    url: https://www.mikkipastel.com/covid-19-first-time-2024/
+  state:
+    id: '100746876247412_451939044462010'
+    url: https://www.facebook.com/100683012920950/posts/451939044462010
+24e2fd144a90c69462aaae232229fe2e:mastodon:
+  spec:
+    title: เป็นโควิดครั้งแรก! เป็นยังไงบ้างนะ? [mikkipastel.com]
+    url: https://www.mikkipastel.com/covid-19-first-time-2024/
+  state:
+    id: '112771331240399157'
+    url: https://mastodon.in.th/@webring/112771331240399157
+24e2fd144a90c69462aaae232229fe2e:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/covid-19-first-time-2024/
+  state:
+    shortLink: https://link.webring.in.th/2020
 253a7115306a60032c6562f77c7986a6:facebook:
   spec:
     title: Windows11/10 OpenSSH Server Public Key authentication [debuggingsoft.com]
