@@ -17129,6 +17129,25 @@ df6af564246bc5294aa7438f9791a096:shorturl:
     url: https://www.somkiat.cc/spring-initializr-with-spring-boot-3/
   state:
     shortLink: https://webring.page.link/4M9o
+e0a2dacf0eb89b9f955dac5d82a6e4c7:facebook:
+  spec:
+    title: ค่าปรับต่างๆจาก TOR ของโครงการ IT [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/07/penalty-fine-in-tor-contract/
+  state:
+    id: '100746876247412_452580284397886'
+    url: https://www.facebook.com/100683012920950/posts/452580284397886
+e0a2dacf0eb89b9f955dac5d82a6e4c7:mastodon:
+  spec:
+    title: ค่าปรับต่างๆจาก TOR ของโครงการ IT [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/07/penalty-fine-in-tor-contract/
+  state:
+    id: '112776988818560532'
+    url: https://mastodon.in.th/@webring/112776988818560532
+e0a2dacf0eb89b9f955dac5d82a6e4c7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/07/penalty-fine-in-tor-contract/
+  state:
+    shortLink: https://link.webring.in.th/2021
 e0a3c08ad94aab3c6b11e3bff2cdc31d:facebook:
   spec:
     title: Docker Compose Watch ตัวเต็ม ๆ ออกมาแล้ว [somkiat.cc]
