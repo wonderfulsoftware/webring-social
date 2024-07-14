@@ -3019,6 +3019,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/enable-auto-detect-workout-on-huawei-watch-fit/
   state:
     shortLink: https://webring.page.link/JfHF
+276d47c7facebe4d3a22e55e96b4332b:facebook:
+  spec:
+    title: OpenTelemetry for NextJS and Google Cloud Trace [llun.me]
+    url: https://www.llun.me/posts/dev/2024-07-13-opentelemetry-google-cloud-trace-nextjs
+  state:
+    id: '100746876247412_453198731002708'
+    url: https://www.facebook.com/100683012920950/posts/453198731002708
+276d47c7facebe4d3a22e55e96b4332b:mastodon:
+  spec:
+    title: OpenTelemetry for NextJS and Google Cloud Trace [llun.me]
+    url: https://www.llun.me/posts/dev/2024-07-13-opentelemetry-google-cloud-trace-nextjs
+  state:
+    id: '112782659902021945'
+    url: https://mastodon.in.th/@webring/112782659902021945
+276d47c7facebe4d3a22e55e96b4332b:shorturl:
+  spec:
+    url: https://www.llun.me/posts/dev/2024-07-13-opentelemetry-google-cloud-trace-nextjs
+  state:
+    shortLink: https://link.webring.in.th/2022
 27d57d3b6ac37fc13173d25e3ee58caf:facebook:
   spec:
     title: Illustration - ランデブー・コースト🏝 [lucian.solutions]
