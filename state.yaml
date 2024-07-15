@@ -2031,6 +2031,25 @@
     url: https://mikelopster.dev/posts/react-unit-test/
   state:
     shortLink: https://link.webring.in.th/1720
+1b78b761e4ebe5cbc2ddb4fa91c30571:facebook:
+  spec:
+    title: GCP's service account credentials can be a security risk. Here's how to mitigate them. [karnwong.me]
+    url: https://karnwong.me/posts/2024/07/gcps-service-account-credentials-can-be-a-security-risk-heres-how-to-mitigate-them/
+  state:
+    id: '100746876247412_453975110925070'
+    url: https://www.facebook.com/100683012920950/posts/453975110925070
+1b78b761e4ebe5cbc2ddb4fa91c30571:mastodon:
+  spec:
+    title: GCP's service account credentials can be a security risk. Here's how to mitigate them. [karnwong.me]
+    url: https://karnwong.me/posts/2024/07/gcps-service-account-credentials-can-be-a-security-risk-heres-how-to-mitigate-them/
+  state:
+    id: '112789732732327164'
+    url: https://mastodon.in.th/@webring/112789732732327164
+1b78b761e4ebe5cbc2ddb4fa91c30571:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/07/gcps-service-account-credentials-can-be-a-security-risk-heres-how-to-mitigate-them/
+  state:
+    shortLink: https://link.webring.in.th/2025
 1bbd5d0e1884e3c73690f8bfb3453391:facebook:
   spec:
     title: วิธีการสร้าง SSL Certificate โดยใช้ Cert Manager [anewlife.dev]
