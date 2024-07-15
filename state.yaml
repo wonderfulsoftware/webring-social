@@ -4976,6 +4976,25 @@
     url: https://www.karnwong.me/posts/2023/03/google-analytics-v4-ingestion-via-bigquery/
   state:
     shortLink: https://webring.page.link/Y7yB
+44fc4d6184ae51ec62ee3a05c0cf27af:facebook:
+  spec:
+    title: เรียนรู้ Go - ทำ Todo API ต่อกับ MongoDB [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/go-learning-ep-04
+  state:
+    id: '100746876247412_453826994273215'
+    url: https://www.facebook.com/100683012920950/posts/453826994273215
+44fc4d6184ae51ec62ee3a05c0cf27af:mastodon:
+  spec:
+    title: เรียนรู้ Go - ทำ Todo API ต่อกับ MongoDB [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/go-learning-ep-04
+  state:
+    id: '112788322632519558'
+    url: https://mastodon.in.th/@webring/112788322632519558
+44fc4d6184ae51ec62ee3a05c0cf27af:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/2024/go-learning-ep-04
+  state:
+    shortLink: https://link.webring.in.th/2023
 450d604c54d78e0ec18771271b432f2b:facebook:
   spec:
     title: มุมมองของ Dev อยากได้อะไรจาก Support [debuggingsoft.com]
