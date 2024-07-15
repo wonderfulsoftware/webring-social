@@ -12899,6 +12899,25 @@ a633a338434b4ce11eb278231fdcdc72:shorturl:
     url: https://www.anuwong.com/blog/guregu-null-v5-%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7/
   state:
     shortLink: https://link.webring.in.th/1773
+a6de025a25774489bcdaef4241f8eb10:facebook:
+  spec:
+    title: 'ตอบคำถามจาก Microservices design :: เรื่องของ Software Architecture ที่เปลี่ยนไป [somkiat.cc]'
+    url: https://www.somkiat.cc/evolution-of-architecture-to-microservices/
+  state:
+    id: '100746876247412_453904504265464'
+    url: https://www.facebook.com/100683012920950/posts/453904504265464
+a6de025a25774489bcdaef4241f8eb10:mastodon:
+  spec:
+    title: 'ตอบคำถามจาก Microservices design :: เรื่องของ Software Architecture ที่เปลี่ยนไป [somkiat.cc]'
+    url: https://www.somkiat.cc/evolution-of-architecture-to-microservices/
+  state:
+    id: '112789043149075079'
+    url: https://mastodon.in.th/@webring/112789043149075079
+a6de025a25774489bcdaef4241f8eb10:shorturl:
+  spec:
+    url: https://www.somkiat.cc/evolution-of-architecture-to-microservices/
+  state:
+    shortLink: https://link.webring.in.th/2024
 a6f00d04c1278fbafdc08a775d1da62a:facebook:
   spec:
     title: 'Fixed Jenkins build error MSB4018: System.InvalidOperationException: Unable to set permission while creating /tmp/NuGetScratch [debuggingsoft.com]'
