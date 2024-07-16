@@ -6021,6 +6021,25 @@
     url: https://www.poolsawat.com/create-spa-web-app-with-laravel9-vue3-inertiajs-bootstrap5/
   state:
     shortLink: https://webring.page.link/q1NE
+51deea38da017c486905e7e8c89c11b8:facebook:
+  spec:
+    title: 'MarkMap :: ทำการเขียน Mindmap ด้วย Markdown format [somkiat.cc]'
+    url: https://www.somkiat.cc/markmap-create-mindmap-with-markdown/
+  state:
+    id: '100746876247412_454526537536594'
+    url: https://www.facebook.com/100683012920950/posts/454526537536594
+51deea38da017c486905e7e8c89c11b8:mastodon:
+  spec:
+    title: 'MarkMap :: ทำการเขียน Mindmap ด้วย Markdown format [somkiat.cc]'
+    url: https://www.somkiat.cc/markmap-create-mindmap-with-markdown/
+  state:
+    id: '112794699451449332'
+    url: https://mastodon.in.th/@webring/112794699451449332
+51deea38da017c486905e7e8c89c11b8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/markmap-create-mindmap-with-markdown/
+  state:
+    shortLink: https://link.webring.in.th/2027
 521741fb70af1ef370314cb2ed94b7af:facebook:
   spec:
     title: ทำนามบัตรแจกคนทั้งโลก ในงบหลักสิบ ด้วย NFC card [mikkipastel.com]
