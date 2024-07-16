@@ -18326,6 +18326,25 @@ edeb94abe2f98a95e84818306238de37:shorturl:
     url: https://www.karnwong.me/posts/2023/08/create-kubernetes-service-accounts-with-terraform/
   state:
     shortLink: https://webring.page.link/ieeR
+ee22cbeffe6e048cde35897709cf1337:facebook:
+  spec:
+    title: Configuring Open WebUI and LiteLLM with Docker Compose to talk to OpenAI, Anthropic, and Gemini APIs [dt.in.th]
+    url: https://notes.dt.in.th/OpenWebUILiteLLM
+  state:
+    id: '100746876247412_454448580877723'
+    url: https://www.facebook.com/100683012920950/posts/454448580877723
+ee22cbeffe6e048cde35897709cf1337:mastodon:
+  spec:
+    title: Configuring Open WebUI and LiteLLM with Docker Compose to talk to OpenAI, Anthropic, and Gemini APIs [dt.in.th]
+    url: https://notes.dt.in.th/OpenWebUILiteLLM
+  state:
+    id: '112793989095165794'
+    url: https://mastodon.in.th/@webring/112793989095165794
+ee22cbeffe6e048cde35897709cf1337:shorturl:
+  spec:
+    url: https://notes.dt.in.th/OpenWebUILiteLLM
+  state:
+    shortLink: https://link.webring.in.th/2026
 ef0afef9d3c5abe506982b8c2f0d82b0:facebook:
   spec:
     title: ตามรอยชานมไต้หวัน 2024 [blog.ninprd.com]
