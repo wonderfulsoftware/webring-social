@@ -14317,6 +14317,25 @@ b80293172a4a4a01810f23686a154ae3:shorturl:
     url: https://garden.narze.live/100daysofcode-r3-74-chatos-merge-guest-chat-logs/
   state:
     shortLink: https://webring.page.link/gQRx
+b81873bf6d96caafffc9a10c98eb9fe7:facebook:
+  spec:
+    title: Food Review - บ้านเสือหิว [lucian.solutions]
+    url: https://lucian.solutions/blog/foodreview-hungrytiger
+  state:
+    id: '100746876247412_455161484139766'
+    url: https://www.facebook.com/100683012920950/posts/455161484139766
+b81873bf6d96caafffc9a10c98eb9fe7:mastodon:
+  spec:
+    title: Food Review - บ้านเสือหิว [lucian.solutions]
+    url: https://lucian.solutions/blog/foodreview-hungrytiger
+  state:
+    id: '112800360758085429'
+    url: https://mastodon.in.th/@webring/112800360758085429
+b81873bf6d96caafffc9a10c98eb9fe7:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/foodreview-hungrytiger
+  state:
+    shortLink: https://link.webring.in.th/2029
 b85adc3f8b81682910d041c22d6654c8:facebook:
   spec:
     title: ทำความรู้จักกับ Backstage สำหรับทำ software catalog [somkiat.cc]
