@@ -12367,6 +12367,25 @@
     url: https://p4perf4ce.me/articles/23/new-home
   state:
     shortLink: https://webring.page.link/2NHj
+9e3b5547b030bead038b9ba17e5f8507:facebook:
+  spec:
+    title: '[DOTNET] GraphQL บน NET8 ด้วย HotChocolate Library #01 (Query) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/07/dotnet-graphql-net8-with-hotchocolate-library-part1-query/
+  state:
+    id: '100746876247412_455084860814095'
+    url: https://www.facebook.com/100683012920950/posts/455084860814095
+9e3b5547b030bead038b9ba17e5f8507:mastodon:
+  spec:
+    title: '[DOTNET] GraphQL บน NET8 ด้วย HotChocolate Library #01 (Query) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/07/dotnet-graphql-net8-with-hotchocolate-library-part1-query/
+  state:
+    id: '112799644082336259'
+    url: https://mastodon.in.th/@webring/112799644082336259
+9e3b5547b030bead038b9ba17e5f8507:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/07/dotnet-graphql-net8-with-hotchocolate-library-part1-query/
+  state:
+    shortLink: https://link.webring.in.th/2028
 9e4425bac279525a213a3a3f302dbc67:facebook:
   spec:
     title: Should data scientists deploy models to production? [karnwong.me]
