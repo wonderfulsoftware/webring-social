@@ -2810,6 +2810,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/10/windows11-10-openssh-server-public-key-authentication/
   state:
     shortLink: https://webring.page.link/QeVy
+2566db60f5842a607d110516cb27aefb:facebook:
+  spec:
+    title: เรียนรู้ 20 บทเรียน เมื่อต้องเป็น Speaker! จาก speaker มือโปร [mikkipastel.com]
+    url: https://www.mikkipastel.com/speaker-101-bitton-dao-learning-20-lesson-for-speaker/
+  state:
+    id: '100746876247412_455717304084184'
+    url: https://www.facebook.com/100683012920950/posts/455717304084184
+2566db60f5842a607d110516cb27aefb:mastodon:
+  spec:
+    title: เรียนรู้ 20 บทเรียน เมื่อต้องเป็น Speaker! จาก speaker มือโปร [mikkipastel.com]
+    url: https://www.mikkipastel.com/speaker-101-bitton-dao-learning-20-lesson-for-speaker/
+  state:
+    id: '112805305846911688'
+    url: https://mastodon.in.th/@webring/112805305846911688
+2566db60f5842a607d110516cb27aefb:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/speaker-101-bitton-dao-learning-20-lesson-for-speaker/
+  state:
+    shortLink: https://link.webring.in.th/2030
 257d7de477b006b3340359149803d448:facebook:
   spec:
     title: The Cloud Camp Week 01 [debuggingsoft.com]
