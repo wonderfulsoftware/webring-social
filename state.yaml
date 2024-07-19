@@ -18212,6 +18212,25 @@ ebb6844c6cbd672add59ed6ef8f83a3b:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/02/database-schema-design-guide-best-practices-and-pattern/
   state:
     shortLink: https://link.webring.in.th/1781
+ebbfff819b0ab1b8345b237c2d83b76b:facebook:
+  spec:
+    title: มาลองใช้งาน sqlite ใน Node v22.5 ที่กำลังจะออกมา [somkiat.cc]
+    url: https://www.somkiat.cc/nodejs-with-sqlite/
+  state:
+    id: '100746876247412_456345714021343'
+    url: https://www.facebook.com/100683012920950/posts/456345714021343
+ebbfff819b0ab1b8345b237c2d83b76b:mastodon:
+  spec:
+    title: มาลองใช้งาน sqlite ใน Node v22.5 ที่กำลังจะออกมา [somkiat.cc]
+    url: https://www.somkiat.cc/nodejs-with-sqlite/
+  state:
+    id: '112810966933785200'
+    url: https://mastodon.in.th/@webring/112810966933785200
+ebbfff819b0ab1b8345b237c2d83b76b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/nodejs-with-sqlite/
+  state:
+    shortLink: https://link.webring.in.th/2031
 ec58600cd82560a725f20b89864bd793:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 5 - Open 24 Hours [devahoy.com]
