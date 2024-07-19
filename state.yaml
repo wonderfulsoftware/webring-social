@@ -4900,6 +4900,25 @@
     url: https://www.llun.me/posts/2023-10-20-keyboard
   state:
     shortLink: https://webring.page.link/As2G
+40feeb56a894ebbf5b3a69e92508ed4b:facebook:
+  spec:
+    title: Stupid Hackathon 8 และเบื้องหลัง Nokorun [pontakorn.dev]
+    url: https://pontakorn.dev/posts/nokorun-stupid-hack-8/
+  state:
+    id: '100746876247412_456418430680738'
+    url: https://www.facebook.com/100683012920950/posts/456418430680738
+40feeb56a894ebbf5b3a69e92508ed4b:mastodon:
+  spec:
+    title: Stupid Hackathon 8 และเบื้องหลัง Nokorun [pontakorn.dev]
+    url: https://pontakorn.dev/posts/nokorun-stupid-hack-8/
+  state:
+    id: '112811686614271562'
+    url: https://mastodon.in.th/@webring/112811686614271562
+40feeb56a894ebbf5b3a69e92508ed4b:shorturl:
+  spec:
+    url: https://pontakorn.dev/posts/nokorun-stupid-hack-8/
+  state:
+    shortLink: https://link.webring.in.th/2032
 413249c4d675278cecff171431098cf5:facebook:
   spec:
     title: Configuring Network between Host and Guest VM in VirtualBox [debuggingsoft.com]
