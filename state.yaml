@@ -4387,6 +4387,25 @@
     url: https://www.mikkipastel.com/apetimism-1st-anniversary/
   state:
     shortLink: https://webring.page.link/a4o3
+3a0fa1eb7d9f3e5bbbe70f7887adf2ce:facebook:
+  spec:
+    title: How to add Podman as an Agent in Portainer [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/07/how-to-add-podman-as-an-agent-in-portainer/
+  state:
+    id: '100746876247412_456491450673436'
+    url: https://www.facebook.com/100683012920950/posts/456491450673436
+3a0fa1eb7d9f3e5bbbe70f7887adf2ce:mastodon:
+  spec:
+    title: How to add Podman as an Agent in Portainer [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/07/how-to-add-podman-as-an-agent-in-portainer/
+  state:
+    id: '112812377082852796'
+    url: https://mastodon.in.th/@webring/112812377082852796
+3a0fa1eb7d9f3e5bbbe70f7887adf2ce:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/07/how-to-add-podman-as-an-agent-in-portainer/
+  state:
+    shortLink: https://link.webring.in.th/2033
 3a28a47007fceec38b474db799ceb5c7:facebook:
   spec:
     title: 'มาฟัง Agile Thailand 2023 #ATH2023 [debuggingsoft.com]'
