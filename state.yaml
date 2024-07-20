@@ -1879,6 +1879,25 @@
     url: https://www.somkiat.cc/note-value-driven-design/
   state:
     shortLink: https://link.webring.in.th/1800
+1a1d972e55f0a4859c547b2cb7f76e0e:facebook:
+  spec:
+    title: ว่าด้วยเรื่องการติดต่อสื่อสารระหว่าง Module [somkiat.cc]
+    url: https://www.somkiat.cc/better-modular/
+  state:
+    id: '100746876247412_456948217294426'
+    url: https://www.facebook.com/100683012920950/posts/456948217294426
+1a1d972e55f0a4859c547b2cb7f76e0e:mastodon:
+  spec:
+    title: ว่าด้วยเรื่องการติดต่อสื่อสารระหว่าง Module [somkiat.cc]
+    url: https://www.somkiat.cc/better-modular/
+  state:
+    id: '112816629068626052'
+    url: https://mastodon.in.th/@webring/112816629068626052
+1a1d972e55f0a4859c547b2cb7f76e0e:shorturl:
+  spec:
+    url: https://www.somkiat.cc/better-modular/
+  state:
+    shortLink: https://link.webring.in.th/2034
 1a2d9dc90ce4d3cc8688d0ab30d25029:facebook:
   spec:
     title: นั่งรถเมล์ฟรีช่วงปีใหม่สาย 4-41 (57) วงกลมตลิ่งชัน-ธนบุรี [debuggingsoft.com]
