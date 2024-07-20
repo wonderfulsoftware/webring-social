@@ -6534,6 +6534,25 @@
     url: https://www.somkiat.cc/intro-typespec-for-api-design/
   state:
     shortLink: https://link.webring.in.th/1996
+59b5f3a8ce42b4d0b4587c952c438181:facebook:
+  spec:
+    title: Food Review - plan a. [lucian.solutions]
+    url: https://lucian.solutions/blog/foodreview-plan-a-kyoto
+  state:
+    id: '100746876247412_457025177286730'
+    url: https://www.facebook.com/100683012920950/posts/457025177286730
+59b5f3a8ce42b4d0b4587c952c438181:mastodon:
+  spec:
+    title: Food Review - plan a. [lucian.solutions]
+    url: https://lucian.solutions/blog/foodreview-plan-a-kyoto
+  state:
+    id: '112817350357314847'
+    url: https://mastodon.in.th/@webring/112817350357314847
+59b5f3a8ce42b4d0b4587c952c438181:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/foodreview-plan-a-kyoto
+  state:
+    shortLink: https://link.webring.in.th/2035
 5a08e1afe23dc2e87ab61f5a336b5136:facebook:
   spec:
     title: 'Thailand Meetup: MongoDB Data Modeling Hands-on @SCK-Dojo [debuggingsoft.com]'
