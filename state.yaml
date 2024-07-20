@@ -14697,6 +14697,25 @@ bc645b001d4ec584afbf9728d89dc43d:shorturl:
     url: https://neizod.dev/2024/02/02/duality-and-cutting-tree-for-range-searching.html
   state:
     shortLink: https://link.webring.in.th/1759
+bc782548392d73d42b57acf3e38a2690:facebook:
+  spec:
+    title: เรามาลอง Transition, Commit และ Rollback ใน SQL [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/tcl
+  state:
+    id: '100746876247412_457095667279681'
+    url: https://www.facebook.com/100683012920950/posts/457095667279681
+bc782548392d73d42b57acf3e38a2690:mastodon:
+  spec:
+    title: เรามาลอง Transition, Commit และ Rollback ใน SQL [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/tcl
+  state:
+    id: '112818037278666449'
+    url: https://mastodon.in.th/@webring/112818037278666449
+bc782548392d73d42b57acf3e38a2690:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/tcl
+  state:
+    shortLink: https://link.webring.in.th/2036
 bcd6fea4f538587ba93d9e1fb9769674:facebook:
   spec:
     title: Deploy Spring-Boot Application to Kubernetes(Minikube) with Jenkins CI/CD Pipeline [janescience.com]
