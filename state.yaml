@@ -2411,6 +2411,25 @@
     url: https://tinarskii.com/articles/htbf2023/
   state:
     shortLink: https://webring.page.link/aDRp
+1eb8042fa16fc37acb9a7fc4e8cf0fdb:facebook:
+  spec:
+    title: 'นิลเล่า: WordPress Basic IV [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/wordpress-basic-iv/
+  state:
+    id: '100746876247412_457552097234038'
+    url: https://www.facebook.com/100683012920950/posts/457552097234038
+1eb8042fa16fc37acb9a7fc4e8cf0fdb:mastodon:
+  spec:
+    title: 'นิลเล่า: WordPress Basic IV [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/wordpress-basic-iv/
+  state:
+    id: '112822291753350043'
+    url: https://mastodon.in.th/@webring/112822291753350043
+1eb8042fa16fc37acb9a7fc4e8cf0fdb:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/wordpress-basic-iv/
+  state:
+    shortLink: https://link.webring.in.th/2037
 1f1fd6c136e3be021ea09978deb73d81:facebook:
   spec:
     title: The Cloud Camp Week#04 (Agile) [debuggingsoft.com]
