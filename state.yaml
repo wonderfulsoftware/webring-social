@@ -9365,6 +9365,25 @@
     url: https://garden.narze.live/star-dot-localhost-subdomains/
   state:
     shortLink: https://webring.page.link/aFfc
+783e424e8d00c4ac4a498b5310ffd08e:facebook:
+  spec:
+    title: '[Platform IO] ลอง Build firmware ผ่าน Gitlab-CI พร้อม Release assets [thanapon.info]'
+    url: https://thanapon.info/ci-platform-io-semantic-release/
+  state:
+    id: '100746876247412_458247037164544'
+    url: https://www.facebook.com/100683012920950/posts/458247037164544
+783e424e8d00c4ac4a498b5310ffd08e:mastodon:
+  spec:
+    title: '[Platform IO] ลอง Build firmware ผ่าน Gitlab-CI พร้อม Release assets [thanapon.info]'
+    url: https://thanapon.info/ci-platform-io-semantic-release/
+  state:
+    id: '112828673751527523'
+    url: https://mastodon.in.th/@webring/112828673751527523
+783e424e8d00c4ac4a498b5310ffd08e:shorturl:
+  spec:
+    url: https://thanapon.info/ci-platform-io-semantic-release/
+  state:
+    shortLink: https://link.webring.in.th/2039
 788b822f1d2bb7d0aa070b35a7c53d91:facebook:
   spec:
     title: '[Jenkins] Jenkins not able to fetch code from remote git [debuggingsoft.com]'
