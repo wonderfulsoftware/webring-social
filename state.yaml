@@ -5375,6 +5375,25 @@
     url: https://www.somkiat.cc/note-prompt-injection/
   state:
     shortLink: https://webring.page.link/rj8b
+47b91a58798292f0c017475035be74a2:facebook:
+  spec:
+    title: 'จดๆจากงาน Agile Thailand 2024 #ATH2024 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/07/my-agile-thailand-2024-note-ath2024/
+  state:
+    id: '100746876247412_458171420505439'
+    url: https://www.facebook.com/100683012920950/posts/458171420505439
+47b91a58798292f0c017475035be74a2:mastodon:
+  spec:
+    title: 'จดๆจากงาน Agile Thailand 2024 #ATH2024 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/07/my-agile-thailand-2024-note-ath2024/
+  state:
+    id: '112827956446664875'
+    url: https://mastodon.in.th/@webring/112827956446664875
+47b91a58798292f0c017475035be74a2:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/07/my-agile-thailand-2024-note-ath2024/
+  state:
+    shortLink: https://link.webring.in.th/2038
 48559af8f217b77f2e38101254f676bf:facebook:
   spec:
     title: LGTM stack จาก Grafana คืออะไร ? [somkiat.cc]
