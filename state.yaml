@@ -18611,6 +18611,25 @@ ee22cbeffe6e048cde35897709cf1337:shorturl:
     url: https://notes.dt.in.th/OpenWebUILiteLLM
   state:
     shortLink: https://link.webring.in.th/2026
+ee5b51dff5235a3bb36224db1c66c2ae:facebook:
+  spec:
+    title: มาลองใช้งาน Google Mesop กันดู [somkiat.cc]
+    url: https://www.somkiat.cc/google-mesop-ui-framework/
+  state:
+    id: '100746876247412_460164900306091'
+    url: https://www.facebook.com/100683012920950/posts/460164900306091
+ee5b51dff5235a3bb36224db1c66c2ae:mastodon:
+  spec:
+    title: มาลองใช้งาน Google Mesop กันดู [somkiat.cc]
+    url: https://www.somkiat.cc/google-mesop-ui-framework/
+  state:
+    id: '112845660782432879'
+    url: https://mastodon.in.th/@webring/112845660782432879
+ee5b51dff5235a3bb36224db1c66c2ae:shorturl:
+  spec:
+    url: https://www.somkiat.cc/google-mesop-ui-framework/
+  state:
+    shortLink: https://link.webring.in.th/2041
 ef0afef9d3c5abe506982b8c2f0d82b0:facebook:
   spec:
     title: ตามรอยชานมไต้หวัน 2024 [blog.ninprd.com]
