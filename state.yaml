@@ -2734,6 +2734,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/nuget-error-nu1101-warning-nu1801-build-via-jenkins-windows-service/
   state:
     shortLink: https://webring.page.link/Zi9G
+2398e094ad7c111a626e08041a279692:facebook:
+  spec:
+    title: ชารณ์ประสบแกร์ สติปุด ฮอนกาแท็ก อิน ไทยแลนด์ แดน ออฟ สไมล์ 8 [tinarskii.com]
+    url: https://tinarskii.com/articles/shit8/
+  state:
+    id: '100746876247412_460084310314150'
+    url: https://www.facebook.com/100683012920950/posts/460084310314150
+2398e094ad7c111a626e08041a279692:mastodon:
+  spec:
+    title: ชารณ์ประสบแกร์ สติปุด ฮอนกาแท็ก อิน ไทยแลนด์ แดน ออฟ สไมล์ 8 [tinarskii.com]
+    url: https://tinarskii.com/articles/shit8/
+  state:
+    id: '112844938931487908'
+    url: https://mastodon.in.th/@webring/112844938931487908
+2398e094ad7c111a626e08041a279692:shorturl:
+  spec:
+    url: https://tinarskii.com/articles/shit8/
+  state:
+    shortLink: https://link.webring.in.th/2040
 239c993638379c5297dcc9b3bf9007ca:facebook:
   spec:
     title: Laravel Import, Export File ด้วย laravel-excel [poolsawat.com]
