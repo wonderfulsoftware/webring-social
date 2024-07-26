@@ -18630,6 +18630,25 @@ ee5b51dff5235a3bb36224db1c66c2ae:shorturl:
     url: https://www.somkiat.cc/google-mesop-ui-framework/
   state:
     shortLink: https://link.webring.in.th/2041
+eebf657a35cac352e6cd61927b08d016:facebook:
+  spec:
+    title: Software Developer ได้เรียนรู้อะไรจากเหตุการณ์จาก CrowdStrike บ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/software-developer-learn-from-bsod/
+  state:
+    id: '100746876247412_460732563582658'
+    url: https://www.facebook.com/100683012920950/posts/460732563582658
+eebf657a35cac352e6cd61927b08d016:mastodon:
+  spec:
+    title: Software Developer ได้เรียนรู้อะไรจากเหตุการณ์จาก CrowdStrike บ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/software-developer-learn-from-bsod/
+  state:
+    id: '112850604233129482'
+    url: https://mastodon.in.th/@webring/112850604233129482
+eebf657a35cac352e6cd61927b08d016:shorturl:
+  spec:
+    url: https://www.somkiat.cc/software-developer-learn-from-bsod/
+  state:
+    shortLink: https://link.webring.in.th/2042
 ef0afef9d3c5abe506982b8c2f0d82b0:facebook:
   spec:
     title: ตามรอยชานมไต้หวัน 2024 [blog.ninprd.com]
