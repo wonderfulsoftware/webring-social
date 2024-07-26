@@ -2772,6 +2772,25 @@
     url: https://www.poolsawat.com/laravel-import-export-file-with-laravel-excel/
   state:
     shortLink: https://link.webring.in.th/1757
+23af788a6b1118ae7cd124231fda3e77:facebook:
+  spec:
+    title: ได้คอมบริษัทในรอบเกือบๆ 9 ปี [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/07/i-have-received-a-computer-from-the-company-in-almost-9-years/
+  state:
+    id: '100746876247412_460812953574619'
+    url: https://www.facebook.com/100683012920950/posts/460812953574619
+23af788a6b1118ae7cd124231fda3e77:mastodon:
+  spec:
+    title: ได้คอมบริษัทในรอบเกือบๆ 9 ปี [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/07/i-have-received-a-computer-from-the-company-in-almost-9-years/
+  state:
+    id: '112851322451823225'
+    url: https://mastodon.in.th/@webring/112851322451823225
+23af788a6b1118ae7cd124231fda3e77:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/07/i-have-received-a-computer-from-the-company-in-almost-9-years/
+  state:
+    shortLink: https://link.webring.in.th/2043
 24087b792e3e284ea5d2dac6ea76096f:facebook:
   spec:
     title: เรียนรู้ Go หัดทำ API ด้วย gin [kajame.xyz]
