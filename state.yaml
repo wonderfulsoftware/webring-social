@@ -9593,6 +9593,25 @@
     url: https://jitrak.dev/posts/post-19-winget/
   state:
     shortLink: https://webring.page.link/pY9Q
+7a589c93c274fab4114977a8c85e0329:facebook:
+  spec:
+    title: Event Sourcing Pattern [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/07/event-sourcing-pattern/
+  state:
+    id: '100746876247412_461524546836793'
+    url: https://www.facebook.com/100683012920950/posts/461524546836793
+7a589c93c274fab4114977a8c85e0329:mastodon:
+  spec:
+    title: Event Sourcing Pattern [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/07/event-sourcing-pattern/
+  state:
+    id: '112857672582498547'
+    url: https://mastodon.in.th/@webring/112857672582498547
+7a589c93c274fab4114977a8c85e0329:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/07/event-sourcing-pattern/
+  state:
+    shortLink: https://link.webring.in.th/2046
 7a61d125d31a83687d9b20aaa4acb3d2:facebook:
   spec:
     title: ตัวอย่าง Github Action สำหรับ Push Docker image ไปที่ Github Package (Kotlin + Spring) [taoisaman.com]
