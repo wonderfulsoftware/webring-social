@@ -4216,6 +4216,25 @@
     url: https://www.mikkipastel.com/android-bangkok-conference-2023/
   state:
     shortLink: https://webring.page.link/dQMy
+35b71def96fcce225b82264ba0a44ce2:facebook:
+  spec:
+    title: กลับมาอีกครั้งในรอบ 4 ปี กับ Kotlin Meetup 2024.1 [mikkipastel.com]
+    url: https://www.mikkipastel.com/kotlin-meetup-2024-1-kotlin-multiplatform/
+  state:
+    id: '100746876247412_461377683518146'
+    url: https://www.facebook.com/100683012920950/posts/461377683518146
+35b71def96fcce225b82264ba0a44ce2:mastodon:
+  spec:
+    title: กลับมาอีกครั้งในรอบ 4 ปี กับ Kotlin Meetup 2024.1 [mikkipastel.com]
+    url: https://www.mikkipastel.com/kotlin-meetup-2024-1-kotlin-multiplatform/
+  state:
+    id: '112856268969647878'
+    url: https://mastodon.in.th/@webring/112856268969647878
+35b71def96fcce225b82264ba0a44ce2:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/kotlin-meetup-2024-1-kotlin-multiplatform/
+  state:
+    shortLink: https://link.webring.in.th/2044
 360b975088e620e44a3a020629fcff05:facebook:
   spec:
     title: MockTimers ใน NodeJS 20.4.0 [somkiat.cc]
