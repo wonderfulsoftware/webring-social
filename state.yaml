@@ -2639,6 +2639,25 @@
     url: https://www.somkiat.cc/bye-bye-atom/
   state:
     shortLink: https://webring.page.link/VXX6
+2219243fac9515f40463fc4da4983b1f:facebook:
+  spec:
+    title: ทำการสร้าง API mocking และ Testing ด้วย Microcks กัน [somkiat.cc]
+    url: https://www.somkiat.cc/api-mocking-with-microcks/
+  state:
+    id: '100746876247412_461453756843872'
+    url: https://www.facebook.com/100683012920950/posts/461453756843872
+2219243fac9515f40463fc4da4983b1f:mastodon:
+  spec:
+    title: ทำการสร้าง API mocking และ Testing ด้วย Microcks กัน [somkiat.cc]
+    url: https://www.somkiat.cc/api-mocking-with-microcks/
+  state:
+    id: '112856976401191449'
+    url: https://mastodon.in.th/@webring/112856976401191449
+2219243fac9515f40463fc4da4983b1f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/api-mocking-with-microcks/
+  state:
+    shortLink: https://link.webring.in.th/2045
 221a4a18ec99c4dbab11be6bc805de6e:facebook:
   spec:
     title: A data dictionary that describes itself [dt.in.th]
