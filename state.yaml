@@ -6154,6 +6154,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/06/docker-podman-cp-note/
   state:
     shortLink: https://link.webring.in.th/1997
+512a4f18c74666e6ea88c64ce05194ed:facebook:
+  spec:
+    title: Microsoft Teams รองรับผู้เข้าร่วมประชุมกี่คน [dmg.st]
+    url: https://dmg.st/microsoft-teams-limit-attendees/
+  state:
+    id: '100746876247412_462079973447917'
+    url: https://www.facebook.com/100683012920950/posts/462079973447917
+512a4f18c74666e6ea88c64ce05194ed:mastodon:
+  spec:
+    title: Microsoft Teams รองรับผู้เข้าร่วมประชุมกี่คน [dmg.st]
+    url: https://dmg.st/microsoft-teams-limit-attendees/
+  state:
+    id: '112862640972073734'
+    url: https://mastodon.in.th/@webring/112862640972073734
+512a4f18c74666e6ea88c64ce05194ed:shorturl:
+  spec:
+    url: https://dmg.st/microsoft-teams-limit-attendees/
+  state:
+    shortLink: https://link.webring.in.th/2048
 5196ad8f95df7d8dd9e01e3d7972d001:facebook:
   spec:
     title: รวมเว็บขอ Testnet Faucet สำหรับ developer และนักล่า airdrop [mikkipastel.com]
