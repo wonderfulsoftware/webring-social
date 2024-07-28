@@ -17680,6 +17680,25 @@ e26b1ce7725ecedcb308343064e4b7ae:shorturl:
     url: https://neizod.dev/2023/03/14/wavefront-simulation-and-neighbors-in-euclid-orchard.html
   state:
     shortLink: https://webring.page.link/bn1F
+e28a985869358bf7214c302e881d3118:facebook:
+  spec:
+    title: Very quick review on Codecrafters [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/codecrafters-review/
+  state:
+    id: '100746876247412_461996740122907'
+    url: https://www.facebook.com/100683012920950/posts/461996740122907
+e28a985869358bf7214c302e881d3118:mastodon:
+  spec:
+    title: Very quick review on Codecrafters [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/codecrafters-review/
+  state:
+    id: '112861925411183804'
+    url: https://mastodon.in.th/@webring/112861925411183804
+e28a985869358bf7214c302e881d3118:shorturl:
+  spec:
+    url: https://yuttakhanb.dev/posts/codecrafters-review/
+  state:
+    shortLink: https://link.webring.in.th/2047
 e2944e3a3f88bdf68e8002dfa0390708:facebook:
   spec:
     title: สรุปเกี่ยวกับแนวทางของการสร้าง Unique Id [somkiat.cc]
