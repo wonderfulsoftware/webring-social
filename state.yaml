@@ -12880,6 +12880,25 @@ a1668f372dd2556d6ba10de44f4c1bfd:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/04/vmware-disk-note/
   state:
     shortLink: https://link.webring.in.th/1902
+a1c9279007c366f5917a9e1cacf58322:facebook:
+  spec:
+    title: My 2022 Achivements [bigdatarpg.com]
+    url: https://bigdatarpg.com/2024/07/28/my-2022-achivements/
+  state:
+    id: '100746876247412_462157976773450'
+    url: https://www.facebook.com/100683012920950/posts/462157976773450
+a1c9279007c366f5917a9e1cacf58322:mastodon:
+  spec:
+    title: My 2022 Achivements [bigdatarpg.com]
+    url: https://bigdatarpg.com/2024/07/28/my-2022-achivements/
+  state:
+    id: '112863338305059680'
+    url: https://mastodon.in.th/@webring/112863338305059680
+a1c9279007c366f5917a9e1cacf58322:shorturl:
+  spec:
+    url: https://bigdatarpg.com/2024/07/28/my-2022-achivements/
+  state:
+    shortLink: https://link.webring.in.th/2049
 a1fc654eae8ca5c14e18da045946930c:facebook:
   spec:
     title: Time series data streams ใน Elasticsearch 8.6.0 [somkiat.cc]
