@@ -7142,6 +7142,25 @@
     url: https://notes.dt.in.th/ThaiLanguageLLMBenchmark
   state:
     shortLink: https://link.webring.in.th/2014
+5f20cd065b023eaf25de80a93ceebaf8:facebook:
+  spec:
+    title: Enhance OAuth 2.0 Token Security with Demonstration of Proof-of-Possession (DPoP) [punn.dev]
+    url: https://punn.dev/blog/enhance-oauth-2-0-token-security-with-dpop
+  state:
+    id: '100746876247412_462668910055690'
+    url: https://www.facebook.com/100683012920950/posts/462668910055690
+5f20cd065b023eaf25de80a93ceebaf8:mastodon:
+  spec:
+    title: Enhance OAuth 2.0 Token Security with Demonstration of Proof-of-Possession (DPoP) [punn.dev]
+    url: https://punn.dev/blog/enhance-oauth-2-0-token-security-with-dpop
+  state:
+    id: '112867588933755103'
+    url: https://mastodon.in.th/@webring/112867588933755103
+5f20cd065b023eaf25de80a93ceebaf8:shorturl:
+  spec:
+    url: https://punn.dev/blog/enhance-oauth-2-0-token-security-with-dpop
+  state:
+    shortLink: https://link.webring.in.th/2050
 5f3599f0d48dfb9110b4bafdfdd9f32e:facebook:
   spec:
     title: วันในสัปดาห์ [neizod.dev]
