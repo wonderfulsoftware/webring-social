@@ -13241,6 +13241,25 @@ a5c0bfee23562431810f8fa395169ac4:shorturl:
     url: https://www.somkiat.cc/testing-your-flutter-app/
   state:
     shortLink: https://webring.page.link/F2rX
+a6195be469f29d90f921763746b4213d:facebook:
+  spec:
+    title: 'Skip tool :: พัฒนา iOS และ Android app ด้วย SwiftUI [somkiat.cc]'
+    url: https://www.somkiat.cc/skip-tool-to-develop-mobile-app/
+  state:
+    id: '100746876247412_462746773381237'
+    url: https://www.facebook.com/100683012920950/posts/462746773381237
+a6195be469f29d90f921763746b4213d:mastodon:
+  spec:
+    title: 'Skip tool :: พัฒนา iOS และ Android app ด้วย SwiftUI [somkiat.cc]'
+    url: https://www.somkiat.cc/skip-tool-to-develop-mobile-app/
+  state:
+    id: '112868309657652827'
+    url: https://mastodon.in.th/@webring/112868309657652827
+a6195be469f29d90f921763746b4213d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/skip-tool-to-develop-mobile-app/
+  state:
+    shortLink: https://link.webring.in.th/2051
 a633a338434b4ce11eb278231fdcdc72:facebook:
   spec:
     title: guregu/null เวอร์ชั่นใหม่หลังจากไม่มีการเคลื่อนไหวกว่า 4 ปี [anuwong.com]
