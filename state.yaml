@@ -14773,6 +14773,25 @@ b9d19f43cf76cd1b1e3cf24dd3f46818:shorturl:
     url: https://notes.dt.in.th/RandomPort
   state:
     shortLink: https://webring.page.link/UKhw
+b9e46c4a2f8550e14a6fe11fba4be49d:facebook:
+  spec:
+    title: Secure home server by Cloudflare Zero Trust and Cloudflare Tunnel [ntsd.dev]
+    url: https://ntsd.dev/secure-home-server-by-cloudflare-zero-trust-and-tunnel/
+  state:
+    id: '100746876247412_463313276657920'
+    url: https://www.facebook.com/100683012920950/posts/463313276657920
+b9e46c4a2f8550e14a6fe11fba4be49d:mastodon:
+  spec:
+    title: Secure home server by Cloudflare Zero Trust and Cloudflare Tunnel [ntsd.dev]
+    url: https://ntsd.dev/secure-home-server-by-cloudflare-zero-trust-and-tunnel/
+  state:
+    id: '112873258239056555'
+    url: https://mastodon.in.th/@webring/112873258239056555
+b9e46c4a2f8550e14a6fe11fba4be49d:shorturl:
+  spec:
+    url: https://ntsd.dev/secure-home-server-by-cloudflare-zero-trust-and-tunnel/
+  state:
+    shortLink: https://link.webring.in.th/2052
 ba6e89eed9cfacea1b7ea04b5707cdc4:facebook:
   spec:
     title: '[C#] Array Spread [debuggingsoft.com]'
