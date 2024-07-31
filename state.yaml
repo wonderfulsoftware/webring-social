@@ -5147,6 +5147,25 @@
     url: https://www.somkiat.cc/test-id-for-ui-test/
   state:
     shortLink: https://link.webring.in.th/1816
+44309401ba310a7183b133ca1eec504a:facebook:
+  spec:
+    title: Switch between personal and work Cloudflare Warp profiles [ntsd.dev]
+    url: https://ntsd.dev/cloudflare-warp-multiple-profiles/
+  state:
+    id: '100746876247412_463950613260853'
+    url: https://www.facebook.com/100683012920950/posts/463950613260853
+44309401ba310a7183b133ca1eec504a:mastodon:
+  spec:
+    title: Switch between personal and work Cloudflare Warp profiles [ntsd.dev]
+    url: https://ntsd.dev/cloudflare-warp-multiple-profiles/
+  state:
+    id: '112878915448858368'
+    url: https://mastodon.in.th/@webring/112878915448858368
+44309401ba310a7183b133ca1eec504a:shorturl:
+  spec:
+    url: https://ntsd.dev/cloudflare-warp-multiple-profiles/
+  state:
+    shortLink: https://link.webring.in.th/2053
 44a91a881d7ed4ed0cb168ecffcab507:facebook:
   spec:
     title: Google Analytics v4 ingestion via BigQuery [karnwong.me]
