@@ -15419,6 +15419,25 @@ c276846281c0172f02adfb254f8ea128:shorturl:
     url: https://jitrak.dev/posts/post-15-jam-dev/
   state:
     shortLink: https://webring.page.link/Qr4G
+c2ad1ad58c9a64d1c5560e69134845fa:facebook:
+  spec:
+    title: มาลองใช้งาน Docker Build Check [somkiat.cc]
+    url: https://www.somkiat.cc/use-docker-build-check/
+  state:
+    id: '100746876247412_464024526586795'
+    url: https://www.facebook.com/100683012920950/posts/464024526586795
+c2ad1ad58c9a64d1c5560e69134845fa:mastodon:
+  spec:
+    title: มาลองใช้งาน Docker Build Check [somkiat.cc]
+    url: https://www.somkiat.cc/use-docker-build-check/
+  state:
+    id: '112879623869265809'
+    url: https://mastodon.in.th/@webring/112879623869265809
+c2ad1ad58c9a64d1c5560e69134845fa:shorturl:
+  spec:
+    url: https://www.somkiat.cc/use-docker-build-check/
+  state:
+    shortLink: https://link.webring.in.th/2054
 c2d3929a3f056069d93c1f9a62db95e2:facebook:
   spec:
     title: มาแล้ว Node.js 20 !! [somkiat.cc]
