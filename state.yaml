@@ -13393,6 +13393,25 @@ a790c8006047cca342b2362d0a92b0d9:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/11/devexpress-xrlabel-thai-problem-when-export-pdf/
   state:
     shortLink: https://webring.page.link/1cWa
+a7b832bbd7c90b508a0e4382c7155898:facebook:
+  spec:
+    title: 'Tutorial: Building your first WordPress website [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/tutorial-building-your-first-wordpress-website/
+  state:
+    id: '100746876247412_464609966528251'
+    url: https://www.facebook.com/100683012920950/posts/464609966528251
+a7b832bbd7c90b508a0e4382c7155898:mastodon:
+  spec:
+    title: 'Tutorial: Building your first WordPress website [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/tutorial-building-your-first-wordpress-website/
+  state:
+    id: '112884576971854071'
+    url: https://mastodon.in.th/@webring/112884576971854071
+a7b832bbd7c90b508a0e4382c7155898:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/tutorial-building-your-first-wordpress-website/
+  state:
+    shortLink: https://link.webring.in.th/2055
 a7c5834bf59ecc52b8534772d9987383:facebook:
   spec:
     title: บันทึกเรื่องการเปลี่ยนมาใช้งาน TypeScript ของ Figma [somkiat.cc]
