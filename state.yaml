@@ -18516,6 +18516,25 @@ ea9638a9deb06fc8e202af81323651e5:shorturl:
     url: https://suam.wtf/posts/write-up-cyber-apocalypse-2023-unearthly-shop/
   state:
     shortLink: https://webring.page.link/3FD7
+eacb6efe99eaccb08205e2b3e5e7a09b:facebook:
+  spec:
+    title: '[Tutorial] การติดตั้ง Portainer และการใช้งานเบื้องต้น [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/08/how-to-setup-portainer-and-using-portainer-for-docker-container-management/
+  state:
+    id: '100746876247412_465255299797051'
+    url: https://www.facebook.com/100683012920950/posts/465255299797051
+eacb6efe99eaccb08205e2b3e5e7a09b:mastodon:
+  spec:
+    title: '[Tutorial] การติดตั้ง Portainer และการใช้งานเบื้องต้น [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/08/how-to-setup-portainer-and-using-portainer-for-docker-container-management/
+  state:
+    id: '112890238368162702'
+    url: https://mastodon.in.th/@webring/112890238368162702
+eacb6efe99eaccb08205e2b3e5e7a09b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/08/how-to-setup-portainer-and-using-portainer-for-docker-container-management/
+  state:
+    shortLink: https://link.webring.in.th/2056
 eb0790c64e191757d86fea5fd81b597a:facebook:
   spec:
     title: เพิ่มการป้องกัน CSRF ให้กับ Spring Security [janescience.com]
