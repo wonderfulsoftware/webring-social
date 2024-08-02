@@ -12956,6 +12956,25 @@ a1fc654eae8ca5c14e18da045946930c:shorturl:
     url: https://www.somkiat.cc/time-series-in-elasticsearch-8-6/
   state:
     shortLink: https://webring.page.link/WXu2
+a24b82b38cdd9e8abdd7d7455bcd33cc:facebook:
+  spec:
+    title: Developer survey 2024 จาก StackOverflow ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/developer-survey-2024-from-stackoverflow/
+  state:
+    id: '100746876247412_465337273122187'
+    url: https://www.facebook.com/100683012920950/posts/465337273122187
+a24b82b38cdd9e8abdd7d7455bcd33cc:mastodon:
+  spec:
+    title: Developer survey 2024 จาก StackOverflow ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/developer-survey-2024-from-stackoverflow/
+  state:
+    id: '112890963815807063'
+    url: https://mastodon.in.th/@webring/112890963815807063
+a24b82b38cdd9e8abdd7d7455bcd33cc:shorturl:
+  spec:
+    url: https://www.somkiat.cc/developer-survey-2024-from-stackoverflow/
+  state:
+    shortLink: https://link.webring.in.th/2057
 a287ccf56f08a1618741153a1d056e95:facebook:
   spec:
     title: ซ่อมบ้าน-ทาสีกันซึมดาดฟ้า [debuggingsoft.com]
