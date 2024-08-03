@@ -7522,6 +7522,25 @@
     url: https://jitrak.dev/posts/post-21-npm-package-for-write-jest-easy/
   state:
     shortLink: https://webring.page.link/faL6
+61f5b1cd7fcea7266292abc073d1d83a:facebook:
+  spec:
+    title: สรุปงาน NEW GEN INVESTOR 20+ รวยได้จริง? พร้อมแจกตารางรวย [wawasabii.com]
+    url: https://wawasabii.com/blog/new-gen-investor-event-summary/
+  state:
+    id: '100746876247412_465999969722584'
+    url: https://www.facebook.com/100683012920950/posts/465999969722584
+61f5b1cd7fcea7266292abc073d1d83a:mastodon:
+  spec:
+    title: สรุปงาน NEW GEN INVESTOR 20+ รวยได้จริง? พร้อมแจกตารางรวย [wawasabii.com]
+    url: https://wawasabii.com/blog/new-gen-investor-event-summary/
+  state:
+    id: '112896619389194597'
+    url: https://mastodon.in.th/@webring/112896619389194597
+61f5b1cd7fcea7266292abc073d1d83a:shorturl:
+  spec:
+    url: https://wawasabii.com/blog/new-gen-investor-event-summary/
+  state:
+    shortLink: https://link.webring.in.th/2059
 6214e345cf097ad4bf5e206ba9368d9d:facebook:
   spec:
     title: URL Shortener using NextJS Server Action [tantatorn.xyz]
