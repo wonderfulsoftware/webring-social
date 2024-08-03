@@ -17053,6 +17053,25 @@ d54ac0ea44f67cb41b090ad9a3b740cc:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day3-simple-hover
   state:
     shortLink: https://webring.page.link/RM54
+d557bda7e464f8770ac7ccea103186c5:facebook:
+  spec:
+    title: สวัสดี FastHTML [somkiat.cc]
+    url: https://www.somkiat.cc/hello-fasthtml/
+  state:
+    id: '100746876247412_465918176397430'
+    url: https://www.facebook.com/100683012920950/posts/465918176397430
+d557bda7e464f8770ac7ccea103186c5:mastodon:
+  spec:
+    title: สวัสดี FastHTML [somkiat.cc]
+    url: https://www.somkiat.cc/hello-fasthtml/
+  state:
+    id: '112895897934413354'
+    url: https://mastodon.in.th/@webring/112895897934413354
+d557bda7e464f8770ac7ccea103186c5:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-fasthtml/
+  state:
+    shortLink: https://link.webring.in.th/2058
 d569f6a81216a64cd1bb9a79bd0fa4c4:facebook:
   spec:
     title: ลองเล่น Supabase กับ Next.js กัน [mikelopster.dev]
