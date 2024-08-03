@@ -1556,6 +1556,25 @@
     url: https://www.somkiat.cc/cell-based-architecture/
   state:
     shortLink: https://link.webring.in.th/1766
+15f892af55f1c26c21518d0516c5f945:facebook:
+  spec:
+    title: Oma is my first Svelte app – use it to track days since [zartre.com]
+    url: https://blog.zartre.com/2024/oma-is-my-first-svelte-app-use-it-to-track-days-since/
+  state:
+    id: '100746876247412_466078176381430'
+    url: https://www.facebook.com/100683012920950/posts/466078176381430
+15f892af55f1c26c21518d0516c5f945:mastodon:
+  spec:
+    title: Oma is my first Svelte app – use it to track days since [zartre.com]
+    url: https://blog.zartre.com/2024/oma-is-my-first-svelte-app-use-it-to-track-days-since/
+  state:
+    id: '112897311746049006'
+    url: https://mastodon.in.th/@webring/112897311746049006
+15f892af55f1c26c21518d0516c5f945:shorturl:
+  spec:
+    url: https://blog.zartre.com/2024/oma-is-my-first-svelte-app-use-it-to-track-days-since/
+  state:
+    shortLink: https://link.webring.in.th/2060
 169cbce5953d60fb21cec9f1cabcdfe2:facebook:
   spec:
     title: COVID-19 First Time [debuggingsoft.com]
