@@ -1822,6 +1822,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/08/tcp-json-incomplete-when-test-on-windows7/
   state:
     shortLink: https://webring.page.link/pRZN
+1988959ada09943e6b319e5a097ecb03:facebook:
+  spec:
+    title: ลอง Tim Hortons ครั้งแรก [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/08/tim-hortons-first-time/
+  state:
+    id: '100746876247412_466678579654723'
+    url: https://www.facebook.com/100683012920950/posts/466678579654723
+1988959ada09943e6b319e5a097ecb03:mastodon:
+  spec:
+    title: ลอง Tim Hortons ครั้งแรก [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/08/tim-hortons-first-time/
+  state:
+    id: '112902277274357831'
+    url: https://mastodon.in.th/@webring/112902277274357831
+1988959ada09943e6b319e5a097ecb03:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/08/tim-hortons-first-time/
+  state:
+    shortLink: https://link.webring.in.th/2062
 199609ef0b42ebf9b39cf0f4c3a01a06:facebook:
   spec:
     title: มาทำความรู้จักกับ Ephemeral Environment [somkiat.cc]
