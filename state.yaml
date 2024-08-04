@@ -6724,6 +6724,25 @@
     url: https://lucian.solutions/blog/foodreview-plan-a-kyoto
   state:
     shortLink: https://link.webring.in.th/2035
+59fe1d5fd15898bd08c345895d1071b3:facebook:
+  spec:
+    title: Geometry Boot Camp 2024 [neizod.dev]
+    url: https://neizod.dev/2024/07/29/geometry-boot-camp-2024.html
+  state:
+    id: '100746876247412_466591776330070'
+    url: https://www.facebook.com/100683012920950/posts/466591776330070
+59fe1d5fd15898bd08c345895d1071b3:mastodon:
+  spec:
+    title: Geometry Boot Camp 2024 [neizod.dev]
+    url: https://neizod.dev/2024/07/29/geometry-boot-camp-2024.html
+  state:
+    id: '112901561178950400'
+    url: https://mastodon.in.th/@webring/112901561178950400
+59fe1d5fd15898bd08c345895d1071b3:shorturl:
+  spec:
+    url: https://neizod.dev/2024/07/29/geometry-boot-camp-2024.html
+  state:
+    shortLink: https://link.webring.in.th/2061
 5a08e1afe23dc2e87ab61f5a336b5136:facebook:
   spec:
     title: 'Thailand Meetup: MongoDB Data Modeling Hands-on @SCK-Dojo [debuggingsoft.com]'
