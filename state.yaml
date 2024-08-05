@@ -739,6 +739,25 @@
     url: https://www.mikkipastel.com/digital-assets-navigator-bitkub/
   state:
     shortLink: https://link.webring.in.th/1795
+0b3121917ca50b357167e5e8b2ca98e2:facebook:
+  spec:
+    title: infra อะไรยังไง? [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/infrastructure
+  state:
+    id: '100746876247412_467325276256720'
+    url: https://www.facebook.com/100683012920950/posts/467325276256720
+0b3121917ca50b357167e5e8b2ca98e2:mastodon:
+  spec:
+    title: infra อะไรยังไง? [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/infrastructure
+  state:
+    id: '112907947337117631'
+    url: https://mastodon.in.th/@webring/112907947337117631
+0b3121917ca50b357167e5e8b2ca98e2:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/infrastructure
+  state:
+    shortLink: https://link.webring.in.th/2064
 0b6b5210b72bf25f93c1e92d1943e83c:facebook:
   spec:
     title: Illustration - クルミ隊 💛❤️💙 [lucian.solutions]
