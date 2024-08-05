@@ -9175,6 +9175,25 @@
     url: https://www.somkiat.cc/hello-aha-stack/
   state:
     shortLink: https://link.webring.in.th/1730
+72aa37ea92fb89947f737355dc014d1a:facebook:
+  spec:
+    title: 'สรุปจาก WP Bangkok Meetup: ความปลอดภัยของ WordPress [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/wordpress-meetup-wordpress-security/
+  state:
+    id: '100746876247412_467249402930974'
+    url: https://www.facebook.com/100683012920950/posts/467249402930974
+72aa37ea92fb89947f737355dc014d1a:mastodon:
+  spec:
+    title: 'สรุปจาก WP Bangkok Meetup: ความปลอดภัยของ WordPress [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/wordpress-meetup-wordpress-security/
+  state:
+    id: '112907225342432352'
+    url: https://mastodon.in.th/@webring/112907225342432352
+72aa37ea92fb89947f737355dc014d1a:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/wordpress-meetup-wordpress-security/
+  state:
+    shortLink: https://link.webring.in.th/2063
 72ce6a11d2da2e203e5600bd552ce1b5:facebook:
   spec:
     title: มาอัพเดตเทคกับงาน DevFest Bangkok 2023 [mikkipastel.com]
