@@ -7294,6 +7294,25 @@
     url: https://www.somkiat.cc/domain-driven-design-by-roofimon-2023/
   state:
     shortLink: https://webring.page.link/37mR
+5f4742574363cf3c79d8e20716ec4fb6:facebook:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง Automated Testing with Cypress [somkiat.cc]
+    url: https://www.somkiat.cc/note-automated-testing-with-cypress/
+  state:
+    id: '100746876247412_468045546184693'
+    url: https://www.facebook.com/100683012920950/posts/468045546184693
+5f4742574363cf3c79d8e20716ec4fb6:mastodon:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง Automated Testing with Cypress [somkiat.cc]
+    url: https://www.somkiat.cc/note-automated-testing-with-cypress/
+  state:
+    id: '112914300760012837'
+    url: https://mastodon.in.th/@webring/112914300760012837
+5f4742574363cf3c79d8e20716ec4fb6:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-automated-testing-with-cypress/
+  state:
+    shortLink: https://link.webring.in.th/2067
 5f6bd32dfee6ed351cd4ea46adf385e5:facebook:
   spec:
     title: ทำไม เพจ MikkiPastel และเพจอื่น ๆ ถึงใช้ . ระหว่างบรรทัด มาอธิบายด้วย coding กัน [mikkipastel.com]
