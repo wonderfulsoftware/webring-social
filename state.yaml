@@ -9460,6 +9460,25 @@
     url: https://notes.dt.in.th/CaddyCORS
   state:
     shortLink: https://webring.page.link/kfUP
+76551128ceb2d141cfb5bc71d153ca0c:facebook:
+  spec:
+    title: ลง ingress-nginx ผิด พังยาวเลย [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/08/helm-install-wrong-ingress-nginx-version/
+  state:
+    id: '100746876247412_467898969532684'
+    url: https://www.facebook.com/100683012920950/posts/467898969532684
+76551128ceb2d141cfb5bc71d153ca0c:mastodon:
+  spec:
+    title: ลง ingress-nginx ผิด พังยาวเลย [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/08/helm-install-wrong-ingress-nginx-version/
+  state:
+    id: '112912887156404116'
+    url: https://mastodon.in.th/@webring/112912887156404116
+76551128ceb2d141cfb5bc71d153ca0c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/08/helm-install-wrong-ingress-nginx-version/
+  state:
+    shortLink: https://link.webring.in.th/2065
 7659a33746f04257582d76202ecd03b6:facebook:
   spec:
     title: Node 19.7.0 สามารถสร้าง Single Executable Application (SEA) ของระบบได้แล้ว [experiment feature] [somkiat.cc]
