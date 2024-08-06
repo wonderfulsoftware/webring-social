@@ -14362,6 +14362,25 @@ b165f831210fbe2d2fc78d93a5969c29:shorturl:
     url: https://taoisaman.com/2023/05/20/flutter-project-structure-with-clean-architechture/
   state:
     shortLink: https://webring.page.link/KjC6
+b1d60910422ed2e6b4381e4afff061a1:facebook:
+  spec:
+    title: Reasons why you shouldn't use programming languages for IaC [karnwong.me]
+    url: https://karnwong.me/posts/2024/08/reasons-why-you-shouldnt-use-programming-languages-for-iac/
+  state:
+    id: '100746876247412_467974862858428'
+    url: https://www.facebook.com/100683012920950/posts/467974862858428
+b1d60910422ed2e6b4381e4afff061a1:mastodon:
+  spec:
+    title: Reasons why you shouldn't use programming languages for IaC [karnwong.me]
+    url: https://karnwong.me/posts/2024/08/reasons-why-you-shouldnt-use-programming-languages-for-iac/
+  state:
+    id: '112913612943211226'
+    url: https://mastodon.in.th/@webring/112913612943211226
+b1d60910422ed2e6b4381e4afff061a1:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/08/reasons-why-you-shouldnt-use-programming-languages-for-iac/
+  state:
+    shortLink: https://link.webring.in.th/2066
 b220dd9537e097e7bfe323aa295be7ef:facebook:
   spec:
     title: Mastodon timeline [llun.me]
