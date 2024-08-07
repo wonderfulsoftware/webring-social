@@ -12728,6 +12728,25 @@
     url: https://www.mikkipastel.com/basic-graphic-before-advance-level/
   state:
     shortLink: https://webring.page.link/3kLo
+9ca431de333160f0d5c1950179d3dd47:facebook:
+  spec:
+    title: '[UBUNTU] Fixed Error E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process xxxx (unattended-upgr) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/08/ubuntu-fixed-error-e-could-not-get-lock-var-lib-dpkg-lock-frontend-it-is-held-by-process-xxxx-unattended-upgr/
+  state:
+    id: '100746876247412_468604879462093'
+    url: https://www.facebook.com/100683012920950/posts/468604879462093
+9ca431de333160f0d5c1950179d3dd47:mastodon:
+  spec:
+    title: '[UBUNTU] Fixed Error E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process xxxx (unattended-upgr) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/08/ubuntu-fixed-error-e-could-not-get-lock-var-lib-dpkg-lock-frontend-it-is-held-by-process-xxxx-unattended-upgr/
+  state:
+    id: '112919269792300232'
+    url: https://mastodon.in.th/@webring/112919269792300232
+9ca431de333160f0d5c1950179d3dd47:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/08/ubuntu-fixed-error-e-could-not-get-lock-var-lib-dpkg-lock-frontend-it-is-held-by-process-xxxx-unattended-upgr/
+  state:
+    shortLink: https://link.webring.in.th/2069
 9ce085c9970487071b7c877936fd20f7:facebook:
   spec:
     title: Typing Guide [garden.narze.live]
