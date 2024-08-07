@@ -9403,6 +9403,25 @@
     url: https://lucian.solutions/blog/tw-custom-chat-overlay
   state:
     shortLink: https://webring.page.link/9F5C
+74c1dfbf690ce96b38813dd19367a9d1:facebook:
+  spec:
+    title: มาลองเล่น TypeScript Compiler API กัน [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/typescript-compiler-api/
+  state:
+    id: '100746876247412_468530476136200'
+    url: https://www.facebook.com/100683012920950/posts/468530476136200
+74c1dfbf690ce96b38813dd19367a9d1:mastodon:
+  spec:
+    title: มาลองเล่น TypeScript Compiler API กัน [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/typescript-compiler-api/
+  state:
+    id: '112918550003801741'
+    url: https://mastodon.in.th/@webring/112918550003801741
+74c1dfbf690ce96b38813dd19367a9d1:shorturl:
+  spec:
+    url: https://tantatorn.xyz/posts/typescript-compiler-api/
+  state:
+    shortLink: https://link.webring.in.th/2068
 75e9044e76b5417e59930ae95bde9f45:facebook:
   spec:
     title: '[PowerShell] Snippet Script Copy Files that are listed in a text file [debuggingsoft.com]'
