@@ -4406,6 +4406,25 @@
     url: https://www.somkiat.cc/sharing-javascript-testing-every-day/
   state:
     shortLink: https://link.webring.in.th/1741
+37738d51ae45c552372b0e522542782e:facebook:
+  spec:
+    title: ท่าไม้ตาย React Hook [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/react-hook
+  state:
+    id: '100746876247412_468676942788220'
+    url: https://www.facebook.com/100683012920950/posts/468676942788220
+37738d51ae45c552372b0e522542782e:mastodon:
+  spec:
+    title: ท่าไม้ตาย React Hook [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/react-hook
+  state:
+    id: '112919965677730770'
+    url: https://mastodon.in.th/@webring/112919965677730770
+37738d51ae45c552372b0e522542782e:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/react-hook
+  state:
+    shortLink: https://link.webring.in.th/2070
 37b0db029719a356a7084b3d86cb633b:facebook:
   spec:
     title: หนังสือ Learning Go 2nd edition ออกมาแล้ว [somkiat.cc]
