@@ -17509,6 +17509,25 @@ d70dfad0a66593f28662eb0eea706a43:shorturl:
     url: https://neizod.dev/2023/08/08/polylog-complexity.html
   state:
     shortLink: https://webring.page.link/W8C2
+d7da4007cf50c2241e883d47ccf641db:facebook:
+  spec:
+    title: ลองใช้งาน Dep Tree เพื่อดูความสัมพันธ์ของ source code ในรูปแบบ 3D [somkiat.cc]
+    url: https://www.somkiat.cc/try-dep-tree/
+  state:
+    id: '100746876247412_469158699406711'
+    url: https://www.facebook.com/100683012920950/posts/469158699406711
+d7da4007cf50c2241e883d47ccf641db:mastodon:
+  spec:
+    title: ลองใช้งาน Dep Tree เพื่อดูความสัมพันธ์ของ source code ในรูปแบบ 3D [somkiat.cc]
+    url: https://www.somkiat.cc/try-dep-tree/
+  state:
+    id: '112924212132141022'
+    url: https://mastodon.in.th/@webring/112924212132141022
+d7da4007cf50c2241e883d47ccf641db:shorturl:
+  spec:
+    url: https://www.somkiat.cc/try-dep-tree/
+  state:
+    shortLink: https://link.webring.in.th/2071
 d88ec1838395c9e02567d69bd73b9f1b:facebook:
   spec:
     title: Review การใช้งาน Postman ใน VSCode แบบเร็ว ๆ [somkiat.cc]
