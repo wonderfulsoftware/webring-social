@@ -15172,6 +15172,25 @@ bb4e0d7afc761421e60fc3f8fca60214:shorturl:
     url: https://janescience.com/blog/personal-tool-line
   state:
     shortLink: https://webring.page.link/rM9b
+bb6a162ffee841c5cb4cc1106db35012:facebook:
+  spec:
+    title: Simple Marketing รุ่น 02 @ BIG Co-working Space [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/08/simple-marketing-by-khun-toy-datarockie/
+  state:
+    id: '100746876247412_470509205938327'
+    url: https://www.facebook.com/100683012920950/posts/470509205938327
+bb6a162ffee841c5cb4cc1106db35012:mastodon:
+  spec:
+    title: Simple Marketing รุ่น 02 @ BIG Co-working Space [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/08/simple-marketing-by-khun-toy-datarockie/
+  state:
+    id: '112935543522982025'
+    url: https://mastodon.in.th/@webring/112935543522982025
+bb6a162ffee841c5cb4cc1106db35012:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/08/simple-marketing-by-khun-toy-datarockie/
+  state:
+    shortLink: https://link.webring.in.th/2072
 bb758d935884c1fe7250341f8ac048f2:facebook:
   spec:
     title: Relative Path Note [debuggingsoft.com]
