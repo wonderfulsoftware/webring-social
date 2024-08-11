@@ -986,6 +986,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/07/install-openssh-server-on-windows-11-10/
   state:
     shortLink: https://webring.page.link/Hrph
+0e855bef5a144f4a5f248f944d511e13:facebook:
+  spec:
+    title: DTO คืออะไร [pontakorn.dev]
+    url: https://pontakorn.dev/posts/what-is-dto/
+  state:
+    id: '100746876247412_471165122539402'
+    url: https://www.facebook.com/100683012920950/posts/471165122539402
+0e855bef5a144f4a5f248f944d511e13:mastodon:
+  spec:
+    title: DTO คืออะไร [pontakorn.dev]
+    url: https://pontakorn.dev/posts/what-is-dto/
+  state:
+    id: '112941197262119090'
+    url: https://mastodon.in.th/@webring/112941197262119090
+0e855bef5a144f4a5f248f944d511e13:shorturl:
+  spec:
+    url: https://pontakorn.dev/posts/what-is-dto/
+  state:
+    shortLink: https://link.webring.in.th/2073
 0ecd6b2e5eabcc310ed76d3a98d6ab89:facebook:
   spec:
     title: '[CR] Starbucks Croque Monsieur [debuggingsoft.com]'
