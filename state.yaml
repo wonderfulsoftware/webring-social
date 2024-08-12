@@ -587,6 +587,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/05/azure-recovery-service-vault-cannot-be-deleted-as-there-are-backup-items-still-present-in-soft-delete-state/
   state:
     shortLink: https://link.webring.in.th/1949
+0956f947f3bcc5737fb1a2c43edaa497:facebook:
+  spec:
+    title: EventStorming ภาษากลางแห่งโลก Software [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/event-storming-ubiquitous-language/
+  state:
+    id: '100746876247412_471833699139211'
+    url: https://www.facebook.com/100683012920950/posts/471833699139211
+0956f947f3bcc5737fb1a2c43edaa497:mastodon:
+  spec:
+    title: EventStorming ภาษากลางแห่งโลก Software [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/event-storming-ubiquitous-language/
+  state:
+    id: '112946862571079515'
+    url: https://mastodon.in.th/@webring/112946862571079515
+0956f947f3bcc5737fb1a2c43edaa497:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/event-storming-ubiquitous-language/
+  state:
+    shortLink: https://link.webring.in.th/2074
 09c65794dfa1c89342d8b389466ba359:facebook:
   spec:
     title: สิ่งที่มักเจอบ่อย ๆ ใน CI/CD [somkiat.cc]
