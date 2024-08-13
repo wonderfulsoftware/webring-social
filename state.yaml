@@ -10011,6 +10011,25 @@
     url: https://www.mikkipastel.com/icreator-camp-2024-week1-storytelling-and-creativity/
   state:
     shortLink: https://link.webring.in.th/1935
+7bb18aa7ed2c6a1d04da073c21876c6b:facebook:
+  spec:
+    title: 'Spring Boot 3.4 :: MockBean และ SpyBean ถูก deprecated แล้วนะ เปลี่ยนได้แล้ว [somkiat.cc]'
+    url: https://www.somkiat.cc/spring-boot-deprecated-mockbean-and-spybean/
+  state:
+    id: '100746876247412_472497242406190'
+    url: https://www.facebook.com/100683012920950/posts/472497242406190
+7bb18aa7ed2c6a1d04da073c21876c6b:mastodon:
+  spec:
+    title: 'Spring Boot 3.4 :: MockBean และ SpyBean ถูก deprecated แล้วนะ เปลี่ยนได้แล้ว [somkiat.cc]'
+    url: https://www.somkiat.cc/spring-boot-deprecated-mockbean-and-spybean/
+  state:
+    id: '112952524909048848'
+    url: https://mastodon.in.th/@webring/112952524909048848
+7bb18aa7ed2c6a1d04da073c21876c6b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/spring-boot-deprecated-mockbean-and-spybean/
+  state:
+    shortLink: https://link.webring.in.th/2075
 7bb641e0a96735b21cf5b426c10b6deb:facebook:
   spec:
     title: Dataframe write performance to Postgres [karnwong.me]
