@@ -11227,6 +11227,25 @@
     url: https://rayriffy.com/garden/caddy-easy-config/
   state:
     shortLink: https://link.webring.in.th/1718
+89c281ce45409fb8db97eb1c5e0d7e50:facebook:
+  spec:
+    title: 'Spring Boot :: รูปแบบของ error ด้วย ProblemDetail [somkiat.cc]'
+    url: https://www.somkiat.cc/spring-boot-problemdetail/
+  state:
+    id: '100746876247412_473166699005911'
+    url: https://www.facebook.com/100683012920950/posts/473166699005911
+89c281ce45409fb8db97eb1c5e0d7e50:mastodon:
+  spec:
+    title: 'Spring Boot :: รูปแบบของ error ด้วย ProblemDetail [somkiat.cc]'
+    url: https://www.somkiat.cc/spring-boot-problemdetail/
+  state:
+    id: '112958190878169589'
+    url: https://mastodon.in.th/@webring/112958190878169589
+89c281ce45409fb8db97eb1c5e0d7e50:shorturl:
+  spec:
+    url: https://www.somkiat.cc/spring-boot-problemdetail/
+  state:
+    shortLink: https://link.webring.in.th/2076
 89eb43ee1e53f939f10623e29f4c525d:facebook:
   spec:
     title: จัดการ logging ใน Spring boot ด้วย Loki [somkiat.cc]
