@@ -18706,6 +18706,25 @@ e81de6f68febdece48e7569c81c129ac:shorturl:
     url: https://blog.oatto.dev/2024/04/23/How-to-find-live-partner-not-prom-date.html
   state:
     shortLink: https://link.webring.in.th/1899
+e829e9aa5d52601c3293f4226d2a86c3:facebook:
+  spec:
+    title: ลองใช้งาน Grafana Beyla กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/hello-grafana-beyla/
+  state:
+    id: '100746876247412_473858538936727'
+    url: https://www.facebook.com/100683012920950/posts/473858538936727
+e829e9aa5d52601c3293f4226d2a86c3:mastodon:
+  spec:
+    title: ลองใช้งาน Grafana Beyla กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/hello-grafana-beyla/
+  state:
+    id: '112963849236198224'
+    url: https://mastodon.in.th/@webring/112963849236198224
+e829e9aa5d52601c3293f4226d2a86c3:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-grafana-beyla/
+  state:
+    shortLink: https://link.webring.in.th/2077
 e8bdce8c1d9e3a095fe2c4548bdaf5a1:facebook:
   spec:
     title: มารับความรู้ฝั่ง web3 developer กับงาน Sui Workshop [mikkipastel.com]
