@@ -17281,6 +17281,25 @@ d3b7895f3b3f07080b4fa161f27f29fe:shorturl:
     url: https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/
   state:
     shortLink: https://link.webring.in.th/1866
+d427d31ba214257296b1d58c6a31d8f0:facebook:
+  spec:
+    title: แชร์ประสบการณ์และรีวิว UX/UI Bootcamp (UXB) รุ่นที่ 7 ของ Skooldio [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/skooldio-ux-ui-bootcamp-7-review/
+  state:
+    id: '100746876247412_474550938867487'
+    url: https://www.facebook.com/100683012920950/posts/474550938867487
+d427d31ba214257296b1d58c6a31d8f0:mastodon:
+  spec:
+    title: แชร์ประสบการณ์และรีวิว UX/UI Bootcamp (UXB) รุ่นที่ 7 ของ Skooldio [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/skooldio-ux-ui-bootcamp-7-review/
+  state:
+    id: '112969518166732300'
+    url: https://mastodon.in.th/@webring/112969518166732300
+d427d31ba214257296b1d58c6a31d8f0:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/skooldio-ux-ui-bootcamp-7-review/
+  state:
+    shortLink: https://link.webring.in.th/2079
 d43d61f3576e738bae612abd09c7d2a2:facebook:
   spec:
     title: WSL alias suggestion [jitrak.dev]
