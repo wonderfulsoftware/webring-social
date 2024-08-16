@@ -3380,6 +3380,25 @@
     url: https://www.somkiat.cc/tips-docker-image-with-tag-or-digest/
   state:
     shortLink: https://link.webring.in.th/1954
+288e375d51ddc4ae8ad14d9ca5433138:facebook:
+  spec:
+    title: น่าสนใจดีกับ postgres.new [somkiat.cc]
+    url: https://www.somkiat.cc/postgres-new-on-web/
+  state:
+    id: '100746876247412_474631218859459'
+    url: https://www.facebook.com/100683012920950/posts/474631218859459
+288e375d51ddc4ae8ad14d9ca5433138:mastodon:
+  spec:
+    title: น่าสนใจดีกับ postgres.new [somkiat.cc]
+    url: https://www.somkiat.cc/postgres-new-on-web/
+  state:
+    id: '112970228519966319'
+    url: https://mastodon.in.th/@webring/112970228519966319
+288e375d51ddc4ae8ad14d9ca5433138:shorturl:
+  spec:
+    url: https://www.somkiat.cc/postgres-new-on-web/
+  state:
+    shortLink: https://link.webring.in.th/2080
 28d2c858435ac6b7a37fcd3e58b00bfc:facebook:
   spec:
     title: “ความลับที่คนประสบความสำเร็จไม่เคยบอกคุณ” ที่รู้แล้ว ย่นเวลาให้เราประสบความสำเร็จเร็วขึ้น [mikkipastel.com]
