@@ -9878,6 +9878,25 @@
     url: https://www.somkiat.cc/java-23-markdown-comment/
   state:
     shortLink: https://link.webring.in.th/1970
+7a1374c80fa027ca05f6bb75b06c39a0:facebook:
+  spec:
+    title: อยากเทสแอพบน Foldable แต่ไม่มีเครื่องจริง ทำยังไงได้บ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/foldable-phone-emulator-firebase-android-device-streaming/
+  state:
+    id: '100746876247412_475235652132349'
+    url: https://www.facebook.com/100683012920950/posts/475235652132349
+7a1374c80fa027ca05f6bb75b06c39a0:mastodon:
+  spec:
+    title: อยากเทสแอพบน Foldable แต่ไม่มีเครื่องจริง ทำยังไงได้บ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/foldable-phone-emulator-firebase-android-device-streaming/
+  state:
+    id: '112975169829293742'
+    url: https://mastodon.in.th/@webring/112975169829293742
+7a1374c80fa027ca05f6bb75b06c39a0:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/foldable-phone-emulator-firebase-android-device-streaming/
+  state:
+    shortLink: https://link.webring.in.th/2081
 7a3ad81a95bd31c31dda02902848b9b4:facebook:
   spec:
     title: '[CR] Starbucks Peach Jasmine Cold Brew [debuggingsoft.com]'
