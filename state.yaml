@@ -10049,6 +10049,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-design-and-implement-a-release-strategy/
   state:
     shortLink: https://webring.page.link/AGse
+7aee7c89b1fd092b49bb39aab8f0a20a:facebook:
+  spec:
+    title: '[CR] Starbucks Ham Bacon Egg Muffin [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/08/cr-starbucks-ham-bacon-egg-muffin/
+  state:
+    id: '100746876247412_475320282123886'
+    url: https://www.facebook.com/100683012920950/posts/475320282123886
+7aee7c89b1fd092b49bb39aab8f0a20a:mastodon:
+  spec:
+    title: '[CR] Starbucks Ham Bacon Egg Muffin [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/08/cr-starbucks-ham-bacon-egg-muffin/
+  state:
+    id: '112975888019485200'
+    url: https://mastodon.in.th/@webring/112975888019485200
+7aee7c89b1fd092b49bb39aab8f0a20a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/08/cr-starbucks-ham-bacon-egg-muffin/
+  state:
+    shortLink: https://link.webring.in.th/2082
 7b2acd2a717ced3cbc20bf8b4db4c9ed:facebook:
   spec:
     title: iCreator Camp 2024 วันแรกกับ Storytelling & Creativity [mikkipastel.com]
