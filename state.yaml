@@ -9251,6 +9251,25 @@
     url: https://tech.duckfollow.co/view/credit-card
   state:
     shortLink: https://webring.page.link/KBGB
+7229a88cf9aba07fb44664b5c3590149:facebook:
+  spec:
+    title: การใช้งาน Dependency Track [somkiat.cc]
+    url: https://www.somkiat.cc/dependency-track-sbom/
+  state:
+    id: '100746876247412_475405195448728'
+    url: https://www.facebook.com/100683012920950/posts/475405195448728
+7229a88cf9aba07fb44664b5c3590149:mastodon:
+  spec:
+    title: การใช้งาน Dependency Track [somkiat.cc]
+    url: https://www.somkiat.cc/dependency-track-sbom/
+  state:
+    id: '112976580453113804'
+    url: https://mastodon.in.th/@webring/112976580453113804
+7229a88cf9aba07fb44664b5c3590149:shorturl:
+  spec:
+    url: https://www.somkiat.cc/dependency-track-sbom/
+  state:
+    shortLink: https://link.webring.in.th/2083
 72768184c51657927356c238e101729e:facebook:
   spec:
     title: How to retag a Docker image on a remote registry without pulling the image to local machine [dt.in.th]
