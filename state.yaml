@@ -14305,6 +14305,25 @@ addcd9220d47c67e6504b7942c44aad1:shorturl:
     url: https://www.somkiat.cc/docker-with-bellsoft-liberica-openjdk/
   state:
     shortLink: https://link.webring.in.th/1895
+ade6ace674be4532fb45d4fc764f50b6:facebook:
+  spec:
+    title: Puppeteer 23 สนับสนุน Firefox browser แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/puppeteer-23-support-firefox/
+  state:
+    id: '100746876247412_475917618730819'
+    url: https://www.facebook.com/100683012920950/posts/475917618730819
+ade6ace674be4532fb45d4fc764f50b6:mastodon:
+  spec:
+    title: Puppeteer 23 สนับสนุน Firefox browser แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/puppeteer-23-support-firefox/
+  state:
+    id: '112980833038361357'
+    url: https://mastodon.in.th/@webring/112980833038361357
+ade6ace674be4532fb45d4fc764f50b6:shorturl:
+  spec:
+    url: https://www.somkiat.cc/puppeteer-23-support-firefox/
+  state:
+    shortLink: https://link.webring.in.th/2084
 ae02d36d033da11a63af28912384f909:facebook:
   spec:
     title: Illustration - ハナエ [lucian.solutions]
