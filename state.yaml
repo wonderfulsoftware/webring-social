@@ -14495,6 +14495,25 @@ aefe69ca45a3c3bd519aefe0b9e6eda0:shorturl:
     url: https://www.somkiat.cc/spring-boot-3-2-m2/
   state:
     shortLink: https://webring.page.link/RGvV
+af9b33063511bcb7ec78eb6619d2c651:facebook:
+  spec:
+    title: ความสามารถที่น่าสนใจของ Apache Airflow 2.10 [somkiat.cc]
+    url: https://www.somkiat.cc/apache-airflow-2-10/
+  state:
+    id: '100746876247412_477403471915567'
+    url: https://www.facebook.com/100683012920950/posts/477403471915567
+af9b33063511bcb7ec78eb6619d2c651:mastodon:
+  spec:
+    title: ความสามารถที่น่าสนใจของ Apache Airflow 2.10 [somkiat.cc]
+    url: https://www.somkiat.cc/apache-airflow-2-10/
+  state:
+    id: '112992878632579698'
+    url: https://mastodon.in.th/@webring/112992878632579698
+af9b33063511bcb7ec78eb6619d2c651:shorturl:
+  spec:
+    url: https://www.somkiat.cc/apache-airflow-2-10/
+  state:
+    shortLink: https://link.webring.in.th/2086
 afd1afebef5caf5636be6e145ec98f98:facebook:
   spec:
     title: บันทึกเที่ยวญี่ปุ่นหลังโควิด ปลายปี 2022 [mesodiar.com]
