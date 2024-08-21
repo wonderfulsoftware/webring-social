@@ -18744,6 +18744,25 @@ e600a6d6806cce4cbce4774cdd30283c:shorturl:
     url: https://blog.oatto.dev/2023/01/22/recap-2022.html
   state:
     shortLink: https://webring.page.link/w32e
+e62e98a40baa3f224c56ce2e303cb53d:facebook:
+  spec:
+    title: '[CR] UGREEN 145W 25000mAh for Laptop-3 Ports Power Bank [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/08/cr-ugreen-145w-power-bank-for-laptop/
+  state:
+    id: '100746876247412_478003845188863'
+    url: https://www.facebook.com/100683012920950/posts/478003845188863
+e62e98a40baa3f224c56ce2e303cb53d:mastodon:
+  spec:
+    title: '[CR] UGREEN 145W 25000mAh for Laptop-3 Ports Power Bank [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/08/cr-ugreen-145w-power-bank-for-laptop/
+  state:
+    id: '112997822865811758'
+    url: https://mastodon.in.th/@webring/112997822865811758
+e62e98a40baa3f224c56ce2e303cb53d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/08/cr-ugreen-145w-power-bank-for-laptop/
+  state:
+    shortLink: https://link.webring.in.th/2087
 e6e6490ab81ce963083760091dd30b46:facebook:
   spec:
     title: ว่าด้วยเรื่อง Project CRaC กับ Spring framework [somkiat.cc]
