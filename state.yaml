@@ -796,6 +796,25 @@
     url: https://lucian.solutions/blog/kurumi-tai-2023
   state:
     shortLink: https://webring.page.link/We7t
+0b6d0dced0a27302359aded818e4db16:facebook:
+  spec:
+    title: 'Use case :: การดึงข้อมูลจาก database ที่ช้า จนเกิด Timeout [somkiat.cc]'
+    url: https://www.somkiat.cc/use-case-database-timeout-with-go/
+  state:
+    id: '100746876247412_478089065180341'
+    url: https://www.facebook.com/100683012920950/posts/478089065180341
+0b6d0dced0a27302359aded818e4db16:mastodon:
+  spec:
+    title: 'Use case :: การดึงข้อมูลจาก database ที่ช้า จนเกิด Timeout [somkiat.cc]'
+    url: https://www.somkiat.cc/use-case-database-timeout-with-go/
+  state:
+    id: '112998541198932075'
+    url: https://mastodon.in.th/@webring/112998541198932075
+0b6d0dced0a27302359aded818e4db16:shorturl:
+  spec:
+    url: https://www.somkiat.cc/use-case-database-timeout-with-go/
+  state:
+    shortLink: https://link.webring.in.th/2088
 0b90a32af2f18073c9c44f413e41731a:facebook:
   spec:
     title: How to hide Qwerty layout from macOS [garden.narze.live]
