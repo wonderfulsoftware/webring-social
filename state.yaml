@@ -4121,6 +4121,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/07/owasp-top-10-ci-cd-security-risks/
   state:
     shortLink: https://webring.page.link/BkGT
+310df49a314e4953a454486979dfb02a:facebook:
+  spec:
+    title: ประสบการณ์ใหม่ๆที่ Google I/O Connect Beijing 2024 และ GDE Summit (Thai ver.) [mesodiar.com]
+    url: https://mesodiar.com/2024/08/20/google-io-connect-beijing-2024-gde-summit/
+  state:
+    id: '100746876247412_478182738504307'
+    url: https://www.facebook.com/100683012920950/posts/478182738504307
+310df49a314e4953a454486979dfb02a:mastodon:
+  spec:
+    title: ประสบการณ์ใหม่ๆที่ Google I/O Connect Beijing 2024 และ GDE Summit (Thai ver.) [mesodiar.com]
+    url: https://mesodiar.com/2024/08/20/google-io-connect-beijing-2024-gde-summit/
+  state:
+    id: '112999238266193537'
+    url: https://mastodon.in.th/@webring/112999238266193537
+310df49a314e4953a454486979dfb02a:shorturl:
+  spec:
+    url: https://mesodiar.com/2024/08/20/google-io-connect-beijing-2024-gde-summit/
+  state:
+    shortLink: https://link.webring.in.th/2089
 3197b490f5573a8bbb0706935423b23f:facebook:
   spec:
     title: วันสุดท้าย ที่เป็นแค่จุดเริ่มต้น กับค่าย iCreator Camp 2024 [mikkipastel.com]
