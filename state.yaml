@@ -5280,6 +5280,25 @@
     url: https://notes.dt.in.th/LaunchingChromeForTesting
   state:
     shortLink: https://webring.page.link/MoSW
+41bb2f154e52a75396b4382c0286dc56:facebook:
+  spec:
+    title: Bun v1.1.25 สนับสนุน node:cluster แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/bun-v1-1-25-node-cluster/
+  state:
+    id: '100746876247412_479425675046680'
+    url: https://www.facebook.com/100683012920950/posts/479425675046680
+41bb2f154e52a75396b4382c0286dc56:mastodon:
+  spec:
+    title: Bun v1.1.25 สนับสนุน node:cluster แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/bun-v1-1-25-node-cluster/
+  state:
+    id: '113009146266150000'
+    url: https://mastodon.in.th/@webring/113009146266150000
+41bb2f154e52a75396b4382c0286dc56:shorturl:
+  spec:
+    url: https://www.somkiat.cc/bun-v1-1-25-node-cluster/
+  state:
+    shortLink: https://link.webring.in.th/2090
 4268aa75ab6d23af9a8be890d4ac0168:facebook:
   spec:
     title: ฟิสิกส์พื้นฐานของการแล่นเรือใบ [neizod.dev]
