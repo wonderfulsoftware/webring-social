@@ -20409,6 +20409,25 @@ f96b66b7a30e22623fc55c95fed9bb21:shorturl:
     url: https://toupawa.com/review-a-worker-man-who-become-to-be-a-programmer/
   state:
     shortLink: https://webring.page.link/Fpyg
+f983090657bf76d67279f2827b24b9b8:facebook:
+  spec:
+    title: ดราม่าปิดเขาแหลม [myifew.com]
+    url: https://myifew.com/6575/khao-leam-closed/
+  state:
+    id: '100746876247412_479508878371693'
+    url: https://www.facebook.com/100683012920950/posts/479508878371693
+f983090657bf76d67279f2827b24b9b8:mastodon:
+  spec:
+    title: ดราม่าปิดเขาแหลม [myifew.com]
+    url: https://myifew.com/6575/khao-leam-closed/
+  state:
+    id: '113009866307106712'
+    url: https://mastodon.in.th/@webring/113009866307106712
+f983090657bf76d67279f2827b24b9b8:shorturl:
+  spec:
+    url: https://myifew.com/6575/khao-leam-closed/
+  state:
+    shortLink: https://link.webring.in.th/2091
 f98e852599842fc5400e4daddd9f1cfb:facebook:
   spec:
     title: ลองสร้าง Project Laravel ใส่ใน Nginx ใน Docker [kajame.xyz]
