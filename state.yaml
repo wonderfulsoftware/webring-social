@@ -5318,6 +5318,25 @@
     url: https://neizod.dev/2023/11/22/simple-physics-of-sailing.html
   state:
     shortLink: https://webring.page.link/QYT7
+4293654c5112b1bf5babfdb888b86ef7:facebook:
+  spec:
+    title: '[GIT] gitmoji for meaningful commit [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/08/gitmoji-for-meaningful-commit/
+  state:
+    id: '100746876247412_479591668363414'
+    url: https://www.facebook.com/100683012920950/posts/479591668363414
+4293654c5112b1bf5babfdb888b86ef7:mastodon:
+  spec:
+    title: '[GIT] gitmoji for meaningful commit [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/08/gitmoji-for-meaningful-commit/
+  state:
+    id: '113010558546087861'
+    url: https://mastodon.in.th/@webring/113010558546087861
+4293654c5112b1bf5babfdb888b86ef7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/08/gitmoji-for-meaningful-commit/
+  state:
+    shortLink: https://link.webring.in.th/2092
 43d75c093a0124d292904f36f287bf4c:facebook:
   spec:
     title: เพิ่งเห็น data test id ในหน้า web [somkiat.cc]
