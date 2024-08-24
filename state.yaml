@@ -7674,6 +7674,25 @@
     url: https://www.somkiat.cc/note-architecture-journey-from-twitch/
   state:
     shortLink: https://webring.page.link/bHN6
+6075fa5846cb5fe96fc782d72bc58cdc:facebook:
+  spec:
+    title: บอกต่อทริคไม่ลับ! ที่ทำให้คุณใช้ Canva Pro คุ้มขึ้น!!! [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-use-canva-pro/
+  state:
+    id: '100746876247412_480132524975995'
+    url: https://www.facebook.com/100683012920950/posts/480132524975995
+6075fa5846cb5fe96fc782d72bc58cdc:mastodon:
+  spec:
+    title: บอกต่อทริคไม่ลับ! ที่ทำให้คุณใช้ Canva Pro คุ้มขึ้น!!! [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-use-canva-pro/
+  state:
+    id: '113014806721440790'
+    url: https://mastodon.in.th/@webring/113014806721440790
+6075fa5846cb5fe96fc782d72bc58cdc:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/how-to-use-canva-pro/
+  state:
+    shortLink: https://link.webring.in.th/2093
 6088778003c1d3e9a4eee2bf67276987:facebook:
   spec:
     title: How to show hidden files in WinSCP [debuggingsoft.com]
