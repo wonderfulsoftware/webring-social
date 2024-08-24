@@ -5660,6 +5660,25 @@
     url: https://www.somkiat.cc/openrewrite-migrate-to-spring-boot-3/
   state:
     shortLink: https://link.webring.in.th/1774
+479a8200d87d302eae59ac29f172989b:facebook:
+  spec:
+    title: สรุปแนวทางในการติดต่อสื่อสารระหว่าง Module [somkiat.cc]
+    url: https://www.somkiat.cc/communication-modular-monolith/
+  state:
+    id: '100746876247412_480216398300941'
+    url: https://www.facebook.com/100683012920950/posts/480216398300941
+479a8200d87d302eae59ac29f172989b:mastodon:
+  spec:
+    title: สรุปแนวทางในการติดต่อสื่อสารระหว่าง Module [somkiat.cc]
+    url: https://www.somkiat.cc/communication-modular-monolith/
+  state:
+    id: '113015525742462857'
+    url: https://mastodon.in.th/@webring/113015525742462857
+479a8200d87d302eae59ac29f172989b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/communication-modular-monolith/
+  state:
+    shortLink: https://link.webring.in.th/2094
 47a8664ebd1b6a6891f48cf8ff95250f:facebook:
   spec:
     title: บันทึกเกี่ยวกับ Prompt Injection [somkiat.cc]
