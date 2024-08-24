@@ -18003,6 +18003,25 @@ d9efbdce1358663c882dabc04d53db9b:shorturl:
     url: https://mesodiar.com/%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%9B-google-i-o-connect-2023-%E0%B8%97%E0%B8%B5%E0%B9%88-bengaluru-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%B2-219b534c374d?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/z7RB
+da81179c3128e142b8cb38eacefc2685:facebook:
+  spec:
+    title: 'สรุป UXTH Meetup: UX & Biometrics [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/uxth-meetup-ux-and-biometrics-summary/
+  state:
+    id: '100746876247412_480298251626089'
+    url: https://www.facebook.com/100683012920950/posts/480298251626089
+da81179c3128e142b8cb38eacefc2685:mastodon:
+  spec:
+    title: 'สรุป UXTH Meetup: UX & Biometrics [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/uxth-meetup-ux-and-biometrics-summary/
+  state:
+    id: '113016217114173552'
+    url: https://mastodon.in.th/@webring/113016217114173552
+da81179c3128e142b8cb38eacefc2685:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/uxth-meetup-ux-and-biometrics-summary/
+  state:
+    shortLink: https://link.webring.in.th/2095
 da99d414d91f720cbcc374cb410fccf0:facebook:
   spec:
     title: '[AZ-400] Implement continuous feedback [debuggingsoft.com]'
