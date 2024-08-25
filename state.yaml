@@ -2563,6 +2563,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week04-agile/
   state:
     shortLink: https://webring.page.link/CVz3
+1f88f9f229022f70bfe616ecff3ba16e:facebook:
+  spec:
+    title: มาดูความสามารถใน Kafka 3.8 [somkiat.cc]
+    url: https://www.somkiat.cc/kafka-3-8/
+  state:
+    id: '100746876247412_480826541573260'
+    url: https://www.facebook.com/100683012920950/posts/480826541573260
+1f88f9f229022f70bfe616ecff3ba16e:mastodon:
+  spec:
+    title: มาดูความสามารถใน Kafka 3.8 [somkiat.cc]
+    url: https://www.somkiat.cc/kafka-3-8/
+  state:
+    id: '113020469184499371'
+    url: https://mastodon.in.th/@webring/113020469184499371
+1f88f9f229022f70bfe616ecff3ba16e:shorturl:
+  spec:
+    url: https://www.somkiat.cc/kafka-3-8/
+  state:
+    shortLink: https://link.webring.in.th/2096
 1f93fdb2aec0a23db2624253e995e8e1:facebook:
   spec:
     title: สรุปจากบทความเรื่อง The SPACE of Developer Productivity [somkiat.cc]
