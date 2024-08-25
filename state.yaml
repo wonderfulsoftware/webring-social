@@ -10961,6 +10961,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/optimize-container-image-size/
   state:
     shortLink: https://webring.page.link/1PHQ
+83a08e281d194694064d3bfdd9f1f95f:facebook:
+  spec:
+    title: ดูฤกษ์ deploy ขอให้สิ่งศักดิ์คุ้มครอง? [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/Ask-for-sacred-protection
+  state:
+    id: '100746876247412_480918028230778'
+    url: https://www.facebook.com/100683012920950/posts/480918028230778
+83a08e281d194694064d3bfdd9f1f95f:mastodon:
+  spec:
+    title: ดูฤกษ์ deploy ขอให้สิ่งศักดิ์คุ้มครอง? [tech.duckfollow.co]
+    url: https://tech.duckfollow.co/view/Ask-for-sacred-protection
+  state:
+    id: '113021188750478435'
+    url: https://mastodon.in.th/@webring/113021188750478435
+83a08e281d194694064d3bfdd9f1f95f:shorturl:
+  spec:
+    url: https://tech.duckfollow.co/view/Ask-for-sacred-protection
+  state:
+    shortLink: https://link.webring.in.th/2097
 8401092b9cca2564551532757903bfe1:facebook:
   spec:
     title: WordCamp Asia 2024 with Nin [blog.ninprd.com]
