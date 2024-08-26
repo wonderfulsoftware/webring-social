@@ -6154,6 +6154,25 @@
     url: https://www.mikkipastel.com/introduction-tripster-travel-pass-nft-project/
   state:
     shortLink: https://webring.page.link/1hpM
+4d9c6de22367f1ca901988f15ecf88b8:facebook:
+  spec:
+    title: เครื่องมือในการแปลงจาก Ingress เป็น Gateway API ใน Kubernetes [somkiat.cc]
+    url: https://www.somkiat.cc/convert-ingress-to-gateway-api-in-kubernetes/
+  state:
+    id: '100746876247412_481732088149372'
+    url: https://www.facebook.com/100683012920950/posts/481732088149372
+4d9c6de22367f1ca901988f15ecf88b8:mastodon:
+  spec:
+    title: เครื่องมือในการแปลงจาก Ingress เป็น Gateway API ใน Kubernetes [somkiat.cc]
+    url: https://www.somkiat.cc/convert-ingress-to-gateway-api-in-kubernetes/
+  state:
+    id: '113027548140894089'
+    url: https://mastodon.in.th/@webring/113027548140894089
+4d9c6de22367f1ca901988f15ecf88b8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/convert-ingress-to-gateway-api-in-kubernetes/
+  state:
+    shortLink: https://link.webring.in.th/2100
 4db50706ded1677db79fe79a047ebe45:facebook:
   spec:
     title: เรียนรู้ Design & Visual ในการสร้าง content ให้จับใจคน กับ iCreator Camp 2024 สัปดาห์ที่ 3 [mikkipastel.com]
