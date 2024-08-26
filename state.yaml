@@ -13355,6 +13355,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/cpu-gpu-tpu-comparison/
   state:
     shortLink: https://webring.page.link/fHMk
+9f4401c8c6f59e63ab27c5581c340550:facebook:
+  spec:
+    title: เรียนรู้ NestJS - สร้าง Boilerplate มี Prisma + PostgreSQL + Swgger [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/learn-nestjs
+  state:
+    id: '100746876247412_481552188167362'
+    url: https://www.facebook.com/100683012920950/posts/481552188167362
+9f4401c8c6f59e63ab27c5581c340550:mastodon:
+  spec:
+    title: เรียนรู้ NestJS - สร้าง Boilerplate มี Prisma + PostgreSQL + Swgger [kajame.xyz]
+    url: https://kajame.xyz/blog/2024/learn-nestjs
+  state:
+    id: '113026140959511487'
+    url: https://mastodon.in.th/@webring/113026140959511487
+9f4401c8c6f59e63ab27c5581c340550:shorturl:
+  spec:
+    url: https://kajame.xyz/blog/2024/learn-nestjs
+  state:
+    shortLink: https://link.webring.in.th/2098
 9ff6714c31d9573f7ab389657b90089a:facebook:
   spec:
     title: '[WP] สรุป Meetup สร้างรายได้จาก การเขียนบทความ แบบไม่ต้องรอลูกค้าลงโฆษณา [debuggingsoft.com]'
