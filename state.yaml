@@ -6914,6 +6914,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/07/az-104-monitor-and-back-up-azure-resources/
   state:
     shortLink: https://link.webring.in.th/2012
+590ef3b0fdadc454dce9ecadbedfa5bd:facebook:
+  spec:
+    title: Biome ยุติสงครามระหว่าง ESLint และ Prettier [anuwong.com]
+    url: https://www.anuwong.com/blog/biome-come-to-rescue-you/
+  state:
+    id: '100746876247412_481644971491417'
+    url: https://www.facebook.com/100683012920950/posts/481644971491417
+590ef3b0fdadc454dce9ecadbedfa5bd:mastodon:
+  spec:
+    title: Biome ยุติสงครามระหว่าง ESLint และ Prettier [anuwong.com]
+    url: https://www.anuwong.com/blog/biome-come-to-rescue-you/
+  state:
+    id: '113026857420970281'
+    url: https://mastodon.in.th/@webring/113026857420970281
+590ef3b0fdadc454dce9ecadbedfa5bd:shorturl:
+  spec:
+    url: https://www.anuwong.com/blog/biome-come-to-rescue-you/
+  state:
+    shortLink: https://link.webring.in.th/2099
 593122cdc6e700d15e61b1069322b2ea:facebook:
   spec:
     title: ทำความรู้จักกับ TypeSpec สำหรับการออกแบบ API [somkiat.cc]
