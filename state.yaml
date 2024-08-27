@@ -9574,6 +9574,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week11-ci-cd-gitops/
   state:
     shortLink: https://webring.page.link/xExd
+739fefdd153e5cf8d3b67ff810e65a95:facebook:
+  spec:
+    title: 'บันทึกจาก paper เรื่อง Refactoring vs Refuctoring: Advancing the state of AI-automated code improvements [somkiat.cc]'
+    url: https://www.somkiat.cc/refactoring-vs-refuctoring-with-ai/
+  state:
+    id: '100746876247412_482354121420502'
+    url: https://www.facebook.com/100683012920950/posts/482354121420502
+739fefdd153e5cf8d3b67ff810e65a95:mastodon:
+  spec:
+    title: 'บันทึกจาก paper เรื่อง Refactoring vs Refuctoring: Advancing the state of AI-automated code improvements [somkiat.cc]'
+    url: https://www.somkiat.cc/refactoring-vs-refuctoring-with-ai/
+  state:
+    id: '113032517981795673'
+    url: https://mastodon.in.th/@webring/113032517981795673
+739fefdd153e5cf8d3b67ff810e65a95:shorturl:
+  spec:
+    url: https://www.somkiat.cc/refactoring-vs-refuctoring-with-ai/
+  state:
+    shortLink: https://link.webring.in.th/2102
 73fe2aaf265fa72a5d137b2c4aaa993e:facebook:
   spec:
     title: LTF 7 ปีปฏิทิน [debuggingsoft.com]
