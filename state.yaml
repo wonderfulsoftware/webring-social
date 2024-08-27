@@ -9156,6 +9156,25 @@
     url: https://www.karnwong.me/posts/2023/03/book-highlights---engineering-management-for-the-rest-of-us-by-sarah-drasner/
   state:
     shortLink: https://webring.page.link/LVc9
+6fa5ef49a54e108ea643863ec9dde360:facebook:
+  spec:
+    title: Reading data from OBZ Barcode Reader on the web using Web Serial API [dt.in.th]
+    url: https://notes.dt.in.th/OBZBarcodeScannerJS
+  state:
+    id: '100746876247412_482271031428811'
+    url: https://www.facebook.com/100683012920950/posts/482271031428811
+6fa5ef49a54e108ea643863ec9dde360:mastodon:
+  spec:
+    title: Reading data from OBZ Barcode Reader on the web using Web Serial API [dt.in.th]
+    url: https://notes.dt.in.th/OBZBarcodeScannerJS
+  state:
+    id: '113031796074003196'
+    url: https://mastodon.in.th/@webring/113031796074003196
+6fa5ef49a54e108ea643863ec9dde360:shorturl:
+  spec:
+    url: https://notes.dt.in.th/OBZBarcodeScannerJS
+  state:
+    shortLink: https://link.webring.in.th/2101
 6fc5638deae1e0269daf6422b680139d:facebook:
   spec:
     title: 'IWD 2023: Protect sensitive data in pipeline with Tink and Cloud KMS as Envelope Encryption [mesodiar.com]'
@@ -13395,14 +13414,14 @@
     shortLink: https://webring.page.link/fHMk
 9f4401c8c6f59e63ab27c5581c340550:facebook:
   spec:
-    title: เรียนรู้ NestJS - สร้าง Boilerplate มี Prisma + PostgreSQL + Swgger [kajame.xyz]
+    title: เรียนรู้ NestJS - สร้าง Boilerplate มี Prisma + PostgreSQL + Swagger [kajame.xyz]
     url: https://kajame.xyz/blog/2024/learn-nestjs
   state:
     id: '100746876247412_481552188167362'
     url: https://www.facebook.com/100683012920950/posts/481552188167362
 9f4401c8c6f59e63ab27c5581c340550:mastodon:
   spec:
-    title: เรียนรู้ NestJS - สร้าง Boilerplate มี Prisma + PostgreSQL + Swgger [kajame.xyz]
+    title: เรียนรู้ NestJS - สร้าง Boilerplate มี Prisma + PostgreSQL + Swagger [kajame.xyz]
     url: https://kajame.xyz/blog/2024/learn-nestjs
   state:
     id: '113026140959511487'
