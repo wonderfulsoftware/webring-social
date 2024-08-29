@@ -10961,6 +10961,25 @@
     url: https://www.somkiat.cc/hello-firebase-app-hosting/
   state:
     shortLink: https://link.webring.in.th/1946
+82f39710681e988f14bee55a31ba12f0:facebook:
+  spec:
+    title: How I structure Playwright page objects [dt.in.th]
+    url: https://notes.dt.in.th/PlaywrightPageObject
+  state:
+    id: '100746876247412_483638841292030'
+    url: https://www.facebook.com/100683012920950/posts/483638841292030
+82f39710681e988f14bee55a31ba12f0:mastodon:
+  spec:
+    title: How I structure Playwright page objects [dt.in.th]
+    url: https://notes.dt.in.th/PlaywrightPageObject
+  state:
+    id: '113043121389074573'
+    url: https://mastodon.in.th/@webring/113043121389074573
+82f39710681e988f14bee55a31ba12f0:shorturl:
+  spec:
+    url: https://notes.dt.in.th/PlaywrightPageObject
+  state:
+    shortLink: https://link.webring.in.th/2103
 8338a5461b042a047e471f2060b18a1c:facebook:
   spec:
     title: มาดูว่ามีอะไรที่น่าสนใจใน Spring Boot 3.1.0 [somkiat.cc]
