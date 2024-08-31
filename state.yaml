@@ -3988,6 +3988,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/cr-starbucks-raspberry-black-current-frappuccino/
   state:
     shortLink: https://webring.page.link/gcaY
+2f6d845fd1f9d8a13291f4b5b7c85efc:facebook:
+  spec:
+    title: สอนใช้ Suno AI มาทำเพลงเองแบบง่าย ๆ ในยุค AI [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-use-suno-ai-to-generate-music/
+  state:
+    id: '100746876247412_485062907816290'
+    url: https://www.facebook.com/100683012920950/posts/485062907816290
+2f6d845fd1f9d8a13291f4b5b7c85efc:mastodon:
+  spec:
+    title: สอนใช้ Suno AI มาทำเพลงเองแบบง่าย ๆ ในยุค AI [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-use-suno-ai-to-generate-music/
+  state:
+    id: '113055161344930498'
+    url: https://mastodon.in.th/@webring/113055161344930498
+2f6d845fd1f9d8a13291f4b5b7c85efc:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/how-to-use-suno-ai-to-generate-music/
+  state:
+    shortLink: https://link.webring.in.th/2106
 2fb9595072963e079bc77714d61720e0:facebook:
   spec:
     title: สรุปชนิดของ Technical Debt จาก Towards an Ontology of Terms on Technical Debt [somkiat.cc]
