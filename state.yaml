@@ -14457,6 +14457,25 @@ ac32b68bb4ebd11aa5bcf3ab81e80203:shorturl:
     url: https://www.somkiat.cc/coding-with-spring-modulith/
   state:
     shortLink: https://webring.page.link/hvGd
+ac4079465c135331921b096192774284:facebook:
+  spec:
+    title: จดๆจาก DevClub#6 eBPF @AWC [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/08/recap-from-devclub6-ebpf/
+  state:
+    id: '100746876247412_484980657824515'
+    url: https://www.facebook.com/100683012920950/posts/484980657824515
+ac4079465c135331921b096192774284:mastodon:
+  spec:
+    title: จดๆจาก DevClub#6 eBPF @AWC [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/08/recap-from-devclub6-ebpf/
+  state:
+    id: '113054442412143098'
+    url: https://mastodon.in.th/@webring/113054442412143098
+ac4079465c135331921b096192774284:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/08/recap-from-devclub6-ebpf/
+  state:
+    shortLink: https://link.webring.in.th/2105
 ac457515ee5e956d70f4ab6c93ee4ab4:facebook:
   spec:
     title: How to fix the error “host key verification failed” [debuggingsoft.com]
