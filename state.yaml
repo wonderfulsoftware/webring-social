@@ -5964,6 +5964,25 @@
     url: https://www.karnwong.me/posts/2023/03/book-highlights---the-staff-engineers-path/
   state:
     shortLink: https://webring.page.link/rhFG
+4b2c044a93df0eb17361dc1a44b927fd:facebook:
+  spec:
+    title: eBPF 101 สำหรับมือใหม่ [poolsawat.com]
+    url: https://www.poolsawat.com/ebpf-101-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88/
+  state:
+    id: '100746876247412_485753317747249'
+    url: https://www.facebook.com/100683012920950/posts/485753317747249
+4b2c044a93df0eb17361dc1a44b927fd:mastodon:
+  spec:
+    title: eBPF 101 สำหรับมือใหม่ [poolsawat.com]
+    url: https://www.poolsawat.com/ebpf-101-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88/
+  state:
+    id: '113060830874305207'
+    url: https://mastodon.in.th/@webring/113060830874305207
+4b2c044a93df0eb17361dc1a44b927fd:shorturl:
+  spec:
+    url: https://www.poolsawat.com/ebpf-101-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88/
+  state:
+    shortLink: https://link.webring.in.th/2108
 4b80787b4ee3589b0b1f03f6f0a60356:facebook:
   spec:
     title: 'Go 1.20​ :: การใช้งาน multiple error [somkiat.cc]'
