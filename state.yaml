@@ -19903,6 +19903,25 @@ efdaaa5f49fef5f12bd6c8c93188b8d2:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-golang-api-security/
   state:
     shortLink: https://link.webring.in.th/1849
+eff57d26016ee16aca4a485bb694ef5b:facebook:
+  spec:
+    title: การใส่ type hint ในภาษา Python [pontakorn.dev]
+    url: https://pontakorn.dev/posts/type-hint-in-python/
+  state:
+    id: '100746876247412_485668884422359'
+    url: https://www.facebook.com/100683012920950/posts/485668884422359
+eff57d26016ee16aca4a485bb694ef5b:mastodon:
+  spec:
+    title: การใส่ type hint ในภาษา Python [pontakorn.dev]
+    url: https://pontakorn.dev/posts/type-hint-in-python/
+  state:
+    id: '113060130733427977'
+    url: https://mastodon.in.th/@webring/113060130733427977
+eff57d26016ee16aca4a485bb694ef5b:shorturl:
+  spec:
+    url: https://pontakorn.dev/posts/type-hint-in-python/
+  state:
+    shortLink: https://link.webring.in.th/2107
 f04ab2c55ae499df3dd8c21ad0de623c:facebook:
   spec:
     title: '[CR] MOM’S TOUCH @ICS [debuggingsoft.com]'
