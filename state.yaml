@@ -19618,6 +19618,25 @@ ebbfff819b0ab1b8345b237c2d83b76b:shorturl:
     url: https://www.somkiat.cc/nodejs-with-sqlite/
   state:
     shortLink: https://link.webring.in.th/2031
+ec44d854b5b0e9faf14b591878547040:facebook:
+  spec:
+    title: Reverse-engineering Insta360 Link Controller WebSockets protocol [dt.in.th]
+    url: https://notes.dt.in.th/Insta360LinkControllerWebSocketProtocol
+  state:
+    id: '100746876247412_486353871020527'
+    url: https://www.facebook.com/100683012920950/posts/486353871020527
+ec44d854b5b0e9faf14b591878547040:mastodon:
+  spec:
+    title: Reverse-engineering Insta360 Link Controller WebSockets protocol [dt.in.th]
+    url: https://notes.dt.in.th/Insta360LinkControllerWebSocketProtocol
+  state:
+    id: '113065773149043056'
+    url: https://mastodon.in.th/@webring/113065773149043056
+ec44d854b5b0e9faf14b591878547040:shorturl:
+  spec:
+    url: https://notes.dt.in.th/Insta360LinkControllerWebSocketProtocol
+  state:
+    shortLink: https://link.webring.in.th/2109
 ec58600cd82560a725f20b89864bd793:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 5 - Open 24 Hours [devahoy.com]
