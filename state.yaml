@@ -11379,6 +11379,25 @@
     url: https://garden.narze.live/100daysofcode-r3-55-garden-astro/
   state:
     shortLink: https://webring.page.link/Kdsu
+86ba3d7f0da18886b12fb92a5f0954fc:facebook:
+  spec:
+    title: รีวิวคอร์ส “Enhancing Business Performance with Generative AI” เรียนรู้แบบ zero to hero [mikkipastel.com]
+    url: https://www.mikkipastel.com/true-digital-academy-enhancing-business-performance-with-generative-ai/
+  state:
+    id: '100746876247412_487014467621134'
+    url: https://www.facebook.com/100683012920950/posts/487014467621134
+86ba3d7f0da18886b12fb92a5f0954fc:mastodon:
+  spec:
+    title: รีวิวคอร์ส “Enhancing Business Performance with Generative AI” เรียนรู้แบบ zero to hero [mikkipastel.com]
+    url: https://www.mikkipastel.com/true-digital-academy-enhancing-business-performance-with-generative-ai/
+  state:
+    id: '113071435203836456'
+    url: https://mastodon.in.th/@webring/113071435203836456
+86ba3d7f0da18886b12fb92a5f0954fc:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/true-digital-academy-enhancing-business-performance-with-generative-ai/
+  state:
+    shortLink: https://link.webring.in.th/2110
 86be171e9c13d54d7f6f00c883907b91:facebook:
   spec:
     title: ลบชื่อ Server ออกจาก response header (Nginx) [trwkc.dev]
