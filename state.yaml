@@ -10752,6 +10752,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/04/kbtg-golang-devops/
   state:
     shortLink: https://link.webring.in.th/1861
+8004c508994a9f06bd15ba32c5944578:facebook:
+  spec:
+    title: '[DOTNET] GraphQL บน NET8 ด้วย HotChocolate Library #02 (Mutation) + TiDB [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/09/dotnet-graphql-net8-with-hotchocolate-library-part2-mutation-with-tidb/
+  state:
+    id: '100746876247412_487089384280309'
+    url: https://www.facebook.com/100683012920950/posts/487089384280309
+8004c508994a9f06bd15ba32c5944578:mastodon:
+  spec:
+    title: '[DOTNET] GraphQL บน NET8 ด้วย HotChocolate Library #02 (Mutation) + TiDB [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/09/dotnet-graphql-net8-with-hotchocolate-library-part2-mutation-with-tidb/
+  state:
+    id: '113072155112616016'
+    url: https://mastodon.in.th/@webring/113072155112616016
+8004c508994a9f06bd15ba32c5944578:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/09/dotnet-graphql-net8-with-hotchocolate-library-part2-mutation-with-tidb/
+  state:
+    shortLink: https://link.webring.in.th/2111
 8057ca8dfc31aae5cc0187e4e24b3ba9:facebook:
   spec:
     title: Using Apache Iceberg to reduce data lake operations overhead [karnwong.me]
