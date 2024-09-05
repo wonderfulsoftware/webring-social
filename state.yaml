@@ -13640,6 +13640,25 @@ a08da8f7b9e6c96514d514a6ed395e0c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/alfresco-edit-in-microsoft-office-not-working/
   state:
     shortLink: https://webring.page.link/86Hz
+a095eea673b009b5ff5e11ca35059e7d:facebook:
+  spec:
+    title: Base64 Encoding with Golang [trwkc.dev]
+    url: https://trwkc.dev/base64-encoding-with-golang/
+  state:
+    id: '100746876247412_488501177472463'
+    url: https://www.facebook.com/100683012920950/posts/488501177472463
+a095eea673b009b5ff5e11ca35059e7d:mastodon:
+  spec:
+    title: Base64 Encoding with Golang [trwkc.dev]
+    url: https://trwkc.dev/base64-encoding-with-golang/
+  state:
+    id: '113084171053354610'
+    url: https://mastodon.in.th/@webring/113084171053354610
+a095eea673b009b5ff5e11ca35059e7d:shorturl:
+  spec:
+    url: https://trwkc.dev/base64-encoding-with-golang/
+  state:
+    shortLink: https://link.webring.in.th/2115
 a14bbf405dc6667ff6fb94b1cf755409:facebook:
   spec:
     title: How to fix current branch xxx has no upstream branch. [debuggingsoft.com]
