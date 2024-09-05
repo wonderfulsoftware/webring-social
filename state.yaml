@@ -16407,6 +16407,25 @@ c2d3929a3f056069d93c1f9a62db95e2:shorturl:
     url: https://www.somkiat.cc/hello-nodejs-20/
   state:
     shortLink: https://webring.page.link/ZpNP
+c31458b6d041afc58cd6a55c46c01d22:facebook:
+  spec:
+    title: รู้จักกับภาษา Gleam [pontakorn.dev]
+    url: https://pontakorn.dev/posts/introduction-to-gleam/
+  state:
+    id: '100746876247412_488593880796526'
+    url: https://www.facebook.com/100683012920950/posts/488593880796526
+c31458b6d041afc58cd6a55c46c01d22:mastodon:
+  spec:
+    title: รู้จักกับภาษา Gleam [pontakorn.dev]
+    url: https://pontakorn.dev/posts/introduction-to-gleam/
+  state:
+    id: '113084915996991788'
+    url: https://mastodon.in.th/@webring/113084915996991788
+c31458b6d041afc58cd6a55c46c01d22:shorturl:
+  spec:
+    url: https://pontakorn.dev/posts/introduction-to-gleam/
+  state:
+    shortLink: https://link.webring.in.th/2116
 c3193ffcaffd320559c1a9a413e91abd:facebook:
   spec:
     title: ว่าด้วยเรื่องของ Law of Demeter ในการออกแบบ service [somkiat.cc]
