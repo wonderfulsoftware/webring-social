@@ -5185,6 +5185,25 @@
     url: https://garden.narze.live/100daysofcode-r3-71-chatos-setup-firebase-emulator/
   state:
     shortLink: https://webring.page.link/EDLU
+3fc3538ac078c65e3f8a6d29b61c4cc0:facebook:
+  spec:
+    title: สรุปการพัฒนา feature Artifacts ใน Claude AI [somkiat.cc]
+    url: https://www.somkiat.cc/how-to-develop-artifacts/
+  state:
+    id: '100746876247412_488421247480456'
+    url: https://www.facebook.com/100683012920950/posts/488421247480456
+3fc3538ac078c65e3f8a6d29b61c4cc0:mastodon:
+  spec:
+    title: สรุปการพัฒนา feature Artifacts ใน Claude AI [somkiat.cc]
+    url: https://www.somkiat.cc/how-to-develop-artifacts/
+  state:
+    id: '113083478773549731'
+    url: https://mastodon.in.th/@webring/113083478773549731
+3fc3538ac078c65e3f8a6d29b61c4cc0:shorturl:
+  spec:
+    url: https://www.somkiat.cc/how-to-develop-artifacts/
+  state:
+    shortLink: https://link.webring.in.th/2114
 3fedf1a9372b64f3d7e2c618237ea943:facebook:
   spec:
     title: KM มันควรสร้างตอนที่ยังอยู่ ไม่ใช่มาสร้างตอนที่จะลาออกไป [debuggingsoft.com]
