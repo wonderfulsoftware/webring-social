@@ -10163,6 +10163,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/vscode-day-th/
   state:
     shortLink: https://webring.page.link/9Zcz
+798db6b8fc2573d55903bf1b4e64d66d:facebook:
+  spec:
+    title: VS Code ย้ายเครื่องไป Setting ตามไปด้วยไม่ต้องตั้งค่าใหม่ !!! [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/vs-code-sync-setting/
+  state:
+    id: '100746876247412_488687944120453'
+    url: https://www.facebook.com/100683012920950/posts/488687944120453
+798db6b8fc2573d55903bf1b4e64d66d:mastodon:
+  spec:
+    title: VS Code ย้ายเครื่องไป Setting ตามไปด้วยไม่ต้องตั้งค่าใหม่ !!! [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/vs-code-sync-setting/
+  state:
+    id: '113085586638414111'
+    url: https://mastodon.in.th/@webring/113085586638414111
+798db6b8fc2573d55903bf1b4e64d66d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/09/vs-code-sync-setting/
+  state:
+    shortLink: https://link.webring.in.th/2117
 79bd23cd4fa887c2dc51700b8a3e63bb:facebook:
   spec:
     title: มาลองเขียน comment รูปแบบ Markdown ใน Java 23 กัน [somkiat.cc]
