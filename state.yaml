@@ -9973,6 +9973,25 @@
     url: https://yuttakhanb.dev/posts/taiwan-trip-2024/
   state:
     shortLink: https://link.webring.in.th/1947
+7728bbf03672db361cc5a78f515d4b35:facebook:
+  spec:
+    title: รู้จักกับ FastAPI [mikelopster.dev]
+    url: https://mikelopster.dev/posts/fastapi-basic/
+  state:
+    id: '100746876247412_488339230821991'
+    url: https://www.facebook.com/100683012920950/posts/488339230821991
+7728bbf03672db361cc5a78f515d4b35:mastodon:
+  spec:
+    title: รู้จักกับ FastAPI [mikelopster.dev]
+    url: https://mikelopster.dev/posts/fastapi-basic/
+  state:
+    id: '113082757125876533'
+    url: https://mastodon.in.th/@webring/113082757125876533
+7728bbf03672db361cc5a78f515d4b35:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/fastapi-basic/
+  state:
+    shortLink: https://link.webring.in.th/2113
 775b3a0aeebfb7e382283f3feb99469a:facebook:
   spec:
     title: API Architecture Styles [tech.duckfollow.co]
