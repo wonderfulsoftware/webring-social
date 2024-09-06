@@ -10486,6 +10486,25 @@
     url: https://www.somkiat.cc/sharing-on-api-first-development/
   state:
     shortLink: https://webring.page.link/Ejp6
+7bf48c40849d7eaee7540e8218c55e7d:facebook:
+  spec:
+    title: ทำความรู้จักกับ Semantic Kernel จาก Microsoft [somkiat.cc]
+    url: https://www.somkiat.cc/hello-semantic-kernel-from-microsoft/
+  state:
+    id: '100746876247412_489008730755041'
+    url: https://www.facebook.com/100683012920950/posts/489008730755041
+7bf48c40849d7eaee7540e8218c55e7d:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Semantic Kernel จาก Microsoft [somkiat.cc]
+    url: https://www.somkiat.cc/hello-semantic-kernel-from-microsoft/
+  state:
+    id: '113088422832636714'
+    url: https://mastodon.in.th/@webring/113088422832636714
+7bf48c40849d7eaee7540e8218c55e7d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-semantic-kernel-from-microsoft/
+  state:
+    shortLink: https://link.webring.in.th/2118
 7c4e552ada1f101fd065861d53556ca0:facebook:
   spec:
     title: มาเขียนเอกสารด้วย JSDoc กันก่อน [somkiat.cc]
