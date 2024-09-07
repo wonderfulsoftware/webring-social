@@ -20701,6 +20701,25 @@ f695c7098433ca6b3d6e691638eb73b4:shorturl:
     url: https://kusumotolab.com/first-time-condo-refinance/
   state:
     shortLink: https://webring.page.link/AqGB
+f6a36862b98ccdabf2032fbed4fa20ca:facebook:
+  spec:
+    title: สรุปเรื่องการ Scale ระบบที่พัฒนาด้วย Rails และ PostgreSQL database ของ Microsoft [somkiat.cc]
+    url: https://www.somkiat.cc/note-scale-rails-and-postgresql-database/
+  state:
+    id: '100746876247412_489694780686436'
+    url: https://www.facebook.com/100683012920950/posts/489694780686436
+f6a36862b98ccdabf2032fbed4fa20ca:mastodon:
+  spec:
+    title: สรุปเรื่องการ Scale ระบบที่พัฒนาด้วย Rails และ PostgreSQL database ของ Microsoft [somkiat.cc]
+    url: https://www.somkiat.cc/note-scale-rails-and-postgresql-database/
+  state:
+    id: '113094081586388792'
+    url: https://mastodon.in.th/@webring/113094081586388792
+f6a36862b98ccdabf2032fbed4fa20ca:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-scale-rails-and-postgresql-database/
+  state:
+    shortLink: https://link.webring.in.th/2120
 f7197d2c6189b3d52ea1f58f592e2c7d:facebook:
   spec:
     title: ลองใช้งาน Structured Logging ใน Go 1.21 rc1 [somkiat.cc]
