@@ -16122,6 +16122,25 @@ be58e3aec3a9a98c2dea8cf7235004f8:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week12-observability-part1/
   state:
     shortLink: https://webring.page.link/t1mW
+bee25d2a8fa53c90665536d699af12de:facebook:
+  spec:
+    title: เราอาจจะมี Inspiration แต่ยังขาด Motivation [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/we-might-have-inspiration-but-lack-of-motivation/
+  state:
+    id: '100746876247412_490384263950821'
+    url: https://www.facebook.com/100683012920950/posts/490384263950821
+bee25d2a8fa53c90665536d699af12de:mastodon:
+  spec:
+    title: เราอาจจะมี Inspiration แต่ยังขาด Motivation [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/we-might-have-inspiration-but-lack-of-motivation/
+  state:
+    id: '113099749051207122'
+    url: https://mastodon.in.th/@webring/113099749051207122
+bee25d2a8fa53c90665536d699af12de:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/we-might-have-inspiration-but-lack-of-motivation/
+  state:
+    shortLink: https://link.webring.in.th/2121
 beef25789c14706a913649a0f8d924bf:facebook:
   spec:
     title: นั่งร่วมงาน Developer Creators and Online Communities Summit ของ Google [mikkipastel.com]
