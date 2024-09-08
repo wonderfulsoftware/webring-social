@@ -5356,6 +5356,25 @@
     url: https://www.somkiat.cc/bun-v1-1-25-node-cluster/
   state:
     shortLink: https://link.webring.in.th/2090
+41c45f800f7e10d81cdc543cf21c6040:facebook:
+  spec:
+    title: Streamlit load test performance [karnwong.me]
+    url: https://karnwong.me/posts/2024/09/streamlit-load-test-performance/
+  state:
+    id: '100746876247412_490473307275250'
+    url: https://www.facebook.com/100683012920950/posts/490473307275250
+41c45f800f7e10d81cdc543cf21c6040:mastodon:
+  spec:
+    title: Streamlit load test performance [karnwong.me]
+    url: https://karnwong.me/posts/2024/09/streamlit-load-test-performance/
+  state:
+    id: '113100460959732564'
+    url: https://mastodon.in.th/@webring/113100460959732564
+41c45f800f7e10d81cdc543cf21c6040:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/09/streamlit-load-test-performance/
+  state:
+    shortLink: https://link.webring.in.th/2122
 4268aa75ab6d23af9a8be890d4ac0168:facebook:
   spec:
     title: ฟิสิกส์พื้นฐานของการแล่นเรือใบ [neizod.dev]
