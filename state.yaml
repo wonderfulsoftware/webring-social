@@ -11265,6 +11265,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/optimize-container-image-size/
   state:
     shortLink: https://webring.page.link/1PHQ
+839b050979ccbd63a9c03751fbd9d551:facebook:
+  spec:
+    title: เรียนๆจดๆ Helm#01 Introduction [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/helm-introduction/
+  state:
+    id: '100746876247412_491246023864645'
+    url: https://www.facebook.com/100683012920950/posts/491246023864645
+839b050979ccbd63a9c03751fbd9d551:mastodon:
+  spec:
+    title: เรียนๆจดๆ Helm#01 Introduction [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/helm-introduction/
+  state:
+    id: '113106827335932037'
+    url: https://mastodon.in.th/@webring/113106827335932037
+839b050979ccbd63a9c03751fbd9d551:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/09/helm-introduction/
+  state:
+    shortLink: https://link.webring.in.th/2125
 83a08e281d194694064d3bfdd9f1f95f:facebook:
   spec:
     title: ดูฤกษ์ deploy ขอให้สิ่งศักดิ์คุ้มครอง? [tech.duckfollow.co]
