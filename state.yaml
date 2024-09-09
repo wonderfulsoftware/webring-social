@@ -9954,6 +9954,25 @@
     url: https://www.somkiat.cc/single-executable-application-in-nodejs-19/
   state:
     shortLink: https://webring.page.link/S47i
+76984f1e92bb136f9467dcd2cd525a3d:facebook:
+  spec:
+    title: เขียน Unit Test ใน Python ด้วย unittest และ pytest [pontakorn.dev]
+    url: https://pontakorn.dev/posts/python-unit-test/
+  state:
+    id: '100746876247412_491339170521997'
+    url: https://www.facebook.com/100683012920950/posts/491339170521997
+76984f1e92bb136f9467dcd2cd525a3d:mastodon:
+  spec:
+    title: เขียน Unit Test ใน Python ด้วย unittest และ pytest [pontakorn.dev]
+    url: https://pontakorn.dev/posts/python-unit-test/
+  state:
+    id: '113107569089334398'
+    url: https://mastodon.in.th/@webring/113107569089334398
+76984f1e92bb136f9467dcd2cd525a3d:shorturl:
+  spec:
+    url: https://pontakorn.dev/posts/python-unit-test/
+  state:
+    shortLink: https://link.webring.in.th/2126
 76b65391d44572174157706578afa1cf:facebook:
   spec:
     title: ทำงานไม่มีเวลา แล้วจะทำ content ยังไงให้ปัง โดยคุณอิง ดาริน [mikkipastel.com]
