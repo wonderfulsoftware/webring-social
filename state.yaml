@@ -4007,6 +4007,25 @@
     url: https://www.mikkipastel.com/how-to-use-suno-ai-to-generate-music/
   state:
     shortLink: https://link.webring.in.th/2106
+2f8482a52ea4489e5c29fe9b6a34744f:facebook:
+  spec:
+    title: Using Elysia in Node.js [dt.in.th]
+    url: https://notes.dt.in.th/ElysiaNode
+  state:
+    id: '100746876247412_491088670547047'
+    url: https://www.facebook.com/100683012920950/posts/491088670547047
+2f8482a52ea4489e5c29fe9b6a34744f:mastodon:
+  spec:
+    title: Using Elysia in Node.js [dt.in.th]
+    url: https://notes.dt.in.th/ElysiaNode
+  state:
+    id: '113105415703900636'
+    url: https://mastodon.in.th/@webring/113105415703900636
+2f8482a52ea4489e5c29fe9b6a34744f:shorturl:
+  spec:
+    url: https://notes.dt.in.th/ElysiaNode
+  state:
+    shortLink: https://link.webring.in.th/2123
 2fb9595072963e079bc77714d61720e0:facebook:
   spec:
     title: สรุปชนิดของ Technical Debt จาก Towards an Ontology of Terms on Technical Debt [somkiat.cc]
