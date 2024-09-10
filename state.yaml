@@ -1670,6 +1670,25 @@
     url: https://blog.zartre.com/2024/oma-is-my-first-svelte-app-use-it-to-track-days-since/
   state:
     shortLink: https://link.webring.in.th/2060
+169bc83c3c9e2be7c16e7ddf0ba30b38:facebook:
+  spec:
+    title: เรียนรู้ว่า Product Management เอา AI มาใช้งานยังไง? กับงาน "Unlocking Product Insights" [mikkipastel.com]
+    url: https://www.mikkipastel.com/unlocking-poroduct-insights-integrating-ai-into-business-strategies-in-thailand-true-digital-academy/
+  state:
+    id: '100746876247412_491783700477544'
+    url: https://www.facebook.com/100683012920950/posts/491783700477544
+169bc83c3c9e2be7c16e7ddf0ba30b38:mastodon:
+  spec:
+    title: เรียนรู้ว่า Product Management เอา AI มาใช้งานยังไง? กับงาน "Unlocking Product Insights" [mikkipastel.com]
+    url: https://www.mikkipastel.com/unlocking-poroduct-insights-integrating-ai-into-business-strategies-in-thailand-true-digital-academy/
+  state:
+    id: '113111073255478842'
+    url: https://mastodon.in.th/@webring/113111073255478842
+169bc83c3c9e2be7c16e7ddf0ba30b38:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/unlocking-poroduct-insights-integrating-ai-into-business-strategies-in-thailand-true-digital-academy/
+  state:
+    shortLink: https://link.webring.in.th/2127
 169cbce5953d60fb21cec9f1cabcdfe2:facebook:
   spec:
     title: COVID-19 First Time [debuggingsoft.com]
