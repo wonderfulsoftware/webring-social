@@ -17851,6 +17851,25 @@ d18a450fe4bbaf2fc11488d183d877e4:shorturl:
     url: https://blog.ninprd.com/blog/speed-quality-and-hidden-factor/
   state:
     shortLink: https://link.webring.in.th/1785
+d1ad19f97d9b3f20233a358110d452dc:facebook:
+  spec:
+    title: 'บันทึกเรื่อง Moving IO to the edges of your app: Functional Core, Imperative Shell [somkiat.cc]'
+    url: https://www.somkiat.cc/note-moving-io-to-the-edges-of-your-app/
+  state:
+    id: '100746876247412_491863463802901'
+    url: https://www.facebook.com/100683012920950/posts/491863463802901
+d1ad19f97d9b3f20233a358110d452dc:mastodon:
+  spec:
+    title: 'บันทึกเรื่อง Moving IO to the edges of your app: Functional Core, Imperative Shell [somkiat.cc]'
+    url: https://www.somkiat.cc/note-moving-io-to-the-edges-of-your-app/
+  state:
+    id: '113111792170773758'
+    url: https://mastodon.in.th/@webring/113111792170773758
+d1ad19f97d9b3f20233a358110d452dc:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-moving-io-to-the-edges-of-your-app/
+  state:
+    shortLink: https://link.webring.in.th/2128
 d1f1286767c1824cb98620b0a30c03f2:facebook:
   spec:
     title: Robot Framework 6.1 ตัวเต็มออกมาแล้ว [somkiat.cc]
