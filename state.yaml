@@ -17585,6 +17585,25 @@ ce0b224af5ff522f907d8ef11f03cea1:shorturl:
     url: https://kajame.xyz/blog/mongodb-testing
   state:
     shortLink: https://webring.page.link/Lmqa
+ce1978c4d292926e7f9a4a84ee166d95:facebook:
+  spec:
+    title: '[CR] Starbucks Ham Cheese Egg Wrap (Low Crab) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/09/cr-starbucks-ham-cheese-egg-wrap-low-crab/
+  state:
+    id: '100746876247412_493216977000883'
+    url: https://www.facebook.com/100683012920950/posts/493216977000883
+ce1978c4d292926e7f9a4a84ee166d95:mastodon:
+  spec:
+    title: '[CR] Starbucks Ham Cheese Egg Wrap (Low Crab) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/09/cr-starbucks-ham-cheese-egg-wrap-low-crab/
+  state:
+    id: '113123117774725659'
+    url: https://mastodon.in.th/@webring/113123117774725659
+ce1978c4d292926e7f9a4a84ee166d95:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/09/cr-starbucks-ham-cheese-egg-wrap-low-crab/
+  state:
+    shortLink: https://link.webring.in.th/2130
 ceb4f776701cd5fba42a49796dd183ba:facebook:
   spec:
     title: น่าสนใจสำหรับตารางเครื่องมือสำหรับ Kubernetes [somkiat.cc]
