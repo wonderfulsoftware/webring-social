@@ -6933,6 +6933,25 @@
     url: https://www.mikkipastel.com/beginner-trading-bittoon-trading-club/
   state:
     shortLink: https://webring.page.link/Ms3H
+5723f243bab4f11f0b9bfdd15a1188b3:facebook:
+  spec:
+    title: Paste image to decode QR code [dt.in.th]
+    url: https://notes.dt.in.th/PasteQR
+  state:
+    id: '100746876247412_493134713675776'
+    url: https://www.facebook.com/100683012920950/posts/493134713675776
+5723f243bab4f11f0b9bfdd15a1188b3:mastodon:
+  spec:
+    title: Paste image to decode QR code [dt.in.th]
+    url: https://notes.dt.in.th/PasteQR
+  state:
+    id: '113122395164641700'
+    url: https://mastodon.in.th/@webring/113122395164641700
+5723f243bab4f11f0b9bfdd15a1188b3:shorturl:
+  spec:
+    url: https://notes.dt.in.th/PasteQR
+  state:
+    shortLink: https://link.webring.in.th/2129
 575d39c8dd1fefc9c3f12bc4987283ee:facebook:
   spec:
     title: อยาก Re-Install OS เครื่องบน Cloud ใหม่ แต่ไม่อยาก Terminate เครื่องทิ้ง ทำไงดี [kusumotolab.com]
