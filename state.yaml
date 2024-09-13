@@ -9935,6 +9935,25 @@
     url: https://www.mikkipastel.com/my-bio-website-by-glitch-in-bio/
   state:
     shortLink: https://webring.page.link/M6zS
+76454586560dead3b0cf54ea058c6474:facebook:
+  spec:
+    title: Movement, group, and torus [neizod.dev]
+    url: https://neizod.dev/2024/09/12/movement-group-torus.html
+  state:
+    id: '100746876247412_493905223598725'
+    url: https://www.facebook.com/100683012920950/posts/493905223598725
+76454586560dead3b0cf54ea058c6474:mastodon:
+  spec:
+    title: Movement, group, and torus [neizod.dev]
+    url: https://neizod.dev/2024/09/12/movement-group-torus.html
+  state:
+    id: '113128779336178022'
+    url: https://mastodon.in.th/@webring/113128779336178022
+76454586560dead3b0cf54ea058c6474:shorturl:
+  spec:
+    url: https://neizod.dev/2024/09/12/movement-group-torus.html
+  state:
+    shortLink: https://link.webring.in.th/2132
 7654afdf021ba7f28df607298af47725:facebook:
   spec:
     title: Setting up CORS in Caddy [dt.in.th]
