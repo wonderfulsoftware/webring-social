@@ -7883,6 +7883,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/how-to-declare-powershell-variable-in-jenkins-pipeline/
   state:
     shortLink: https://webring.page.link/mxjV
+603ba1d1395818caf5c6c7d195045245:facebook:
+  spec:
+    title: 'ลองใช้งาน ell: The Language Model Programming Library [somkiat.cc]'
+    url: https://www.somkiat.cc/hello-ell/
+  state:
+    id: '100746876247412_493984306924150'
+    url: https://www.facebook.com/100683012920950/posts/493984306924150
+603ba1d1395818caf5c6c7d195045245:mastodon:
+  spec:
+    title: 'ลองใช้งาน ell: The Language Model Programming Library [somkiat.cc]'
+    url: https://www.somkiat.cc/hello-ell/
+  state:
+    id: '113129470301276819'
+    url: https://mastodon.in.th/@webring/113129470301276819
+603ba1d1395818caf5c6c7d195045245:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-ell/
+  state:
+    shortLink: https://link.webring.in.th/2133
 604ad30663fbb8e2104c6f38ba4e63e4:facebook:
   spec:
     title: บันทึกเรื่อง Architecture ของระบบ Twitch [somkiat.cc]
