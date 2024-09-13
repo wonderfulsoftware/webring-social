@@ -15799,6 +15799,25 @@ b81873bf6d96caafffc9a10c98eb9fe7:shorturl:
     url: https://lucian.solutions/blog/foodreview-hungrytiger
   state:
     shortLink: https://link.webring.in.th/2029
+b81fc35c75002a04777b6fcbe9eab469:facebook:
+  spec:
+    title: 'สรุป Session: Design for better Digital Government Services [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summary-session-design-for-better-digital-government-services/
+  state:
+    id: '100746876247412_493821833607064'
+    url: https://www.facebook.com/100683012920950/posts/493821833607064
+b81fc35c75002a04777b6fcbe9eab469:mastodon:
+  spec:
+    title: 'สรุป Session: Design for better Digital Government Services [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summary-session-design-for-better-digital-government-services/
+  state:
+    id: '113128058880986570'
+    url: https://mastodon.in.th/@webring/113128058880986570
+b81fc35c75002a04777b6fcbe9eab469:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/summary-session-design-for-better-digital-government-services/
+  state:
+    shortLink: https://link.webring.in.th/2131
 b85adc3f8b81682910d041c22d6654c8:facebook:
   spec:
     title: ทำความรู้จักกับ Backstage สำหรับทำ software catalog [somkiat.cc]
