@@ -9498,6 +9498,25 @@
     url: https://www.somkiat.cc/seleniumlibrary-6-1-3/
   state:
     shortLink: https://webring.page.link/sfv6
+71013f3d8745173525156556dcc0202a:facebook:
+  spec:
+    title: แก้ปัญหาแอร์น้ำหยดแบบเร่งด่วน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/how-to-invetigate-and-hot-fixed-water-leak-from-air-conditioner/
+  state:
+    id: '100746876247412_494522803536967'
+    url: https://www.facebook.com/100683012920950/posts/494522803536967
+71013f3d8745173525156556dcc0202a:mastodon:
+  spec:
+    title: แก้ปัญหาแอร์น้ำหยดแบบเร่งด่วน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/how-to-invetigate-and-hot-fixed-water-leak-from-air-conditioner/
+  state:
+    id: '113133720889704614'
+    url: https://mastodon.in.th/@webring/113133720889704614
+71013f3d8745173525156556dcc0202a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/09/how-to-invetigate-and-hot-fixed-water-leak-from-air-conditioner/
+  state:
+    shortLink: https://link.webring.in.th/2134
 710a4db542c82388b4b6a3af4e30de4c:facebook:
   spec:
     title: Vendor code splitting in Vite [yuttakhanb.dev]
