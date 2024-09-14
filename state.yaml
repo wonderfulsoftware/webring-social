@@ -14362,6 +14362,25 @@ a633a338434b4ce11eb278231fdcdc72:shorturl:
     url: https://www.anuwong.com/blog/guregu-null-v5-%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7/
   state:
     shortLink: https://link.webring.in.th/1773
+a63e70f3b715822d74495045f6a87bca:facebook:
+  spec:
+    title: 'สรุป Session: Building a Community-First “Hotel” CX to Attract Digital Nomads to Chiang Mai [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summary-session-building-a-community-first-hotel-cx-to-attract-digital-nomads-to-chiang-mai/
+  state:
+    id: '100746876247412_494607380195176'
+    url: https://www.facebook.com/100683012920950/posts/494607380195176
+a63e70f3b715822d74495045f6a87bca:mastodon:
+  spec:
+    title: 'สรุป Session: Building a Community-First “Hotel” CX to Attract Digital Nomads to Chiang Mai [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summary-session-building-a-community-first-hotel-cx-to-attract-digital-nomads-to-chiang-mai/
+  state:
+    id: '113134436856508548'
+    url: https://mastodon.in.th/@webring/113134436856508548
+a63e70f3b715822d74495045f6a87bca:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/summary-session-building-a-community-first-hotel-cx-to-attract-digital-nomads-to-chiang-mai/
+  state:
+    shortLink: https://link.webring.in.th/2135
 a6de025a25774489bcdaef4241f8eb10:facebook:
   spec:
     title: 'ตอบคำถามจาก Microservices design :: เรื่องของ Software Architecture ที่เปลี่ยนไป [somkiat.cc]'
