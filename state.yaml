@@ -16065,6 +16065,25 @@ ba6e89eed9cfacea1b7ea04b5707cdc4:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/05/c-array-spread/
   state:
     shortLink: https://link.webring.in.th/1936
+ba892b2ffcf1cc77be20ad22253a0716:facebook:
+  spec:
+    title: 'เรียนๆ จดๆ Helm #02: ENV / More in Command [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/09/helm-part2-env-more-in-command/
+  state:
+    id: '100746876247412_495317020124212'
+    url: https://www.facebook.com/100683012920950/posts/495317020124212
+ba892b2ffcf1cc77be20ad22253a0716:mastodon:
+  spec:
+    title: 'เรียนๆ จดๆ Helm #02: ENV / More in Command [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/09/helm-part2-env-more-in-command/
+  state:
+    id: '113140099684793053'
+    url: https://mastodon.in.th/@webring/113140099684793053
+ba892b2ffcf1cc77be20ad22253a0716:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/09/helm-part2-env-more-in-command/
+  state:
+    shortLink: https://link.webring.in.th/2137
 ba901617c7039c005602d1873810da5f:facebook:
   spec:
     title: 2023 [garden.narze.live]
