@@ -9308,6 +9308,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/03/example-jenkinsfile-calls-parameterize-powershell-scripts/
   state:
     shortLink: https://link.webring.in.th/1815
+6f8d09472ed9189d43ec18f9e983a1c2:facebook:
+  spec:
+    title: 'สรุป Session: Designing Interfaces with ROI as the Primary Goal [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summary-session-designing-interfaces-with-roi-as-the-primary-goal/
+  state:
+    id: '100746876247412_495401673449080'
+    url: https://www.facebook.com/100683012920950/posts/495401673449080
+6f8d09472ed9189d43ec18f9e983a1c2:mastodon:
+  spec:
+    title: 'สรุป Session: Designing Interfaces with ROI as the Primary Goal [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summary-session-designing-interfaces-with-roi-as-the-primary-goal/
+  state:
+    id: '113140789992051163'
+    url: https://mastodon.in.th/@webring/113140789992051163
+6f8d09472ed9189d43ec18f9e983a1c2:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/summary-session-designing-interfaces-with-roi-as-the-primary-goal/
+  state:
+    shortLink: https://link.webring.in.th/2138
 6f9d5af493ea79179ca0a007f1c5595e:facebook:
   spec:
     title: Book highlights - Engineering Management for the Rest of Us by Sarah Drasner [karnwong.me]
