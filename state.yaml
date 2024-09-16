@@ -19371,6 +19371,25 @@ e2b9454591bd41eb9cdeea3a0a83b0c8:shorturl:
     url: https://neizod.dev/2023/06/30/solve-system-of-linear-equation-with-determinant.html
   state:
     shortLink: https://webring.page.link/4G2p
+e34437ae6b3c574007aae37a6f609475:facebook:
+  spec:
+    title: My notes on `.env` files [dt.in.th]
+    url: https://notes.dt.in.th/Dotenv
+  state:
+    id: '100746876247412_495973156725265'
+    url: https://www.facebook.com/100683012920950/posts/495973156725265
+e34437ae6b3c574007aae37a6f609475:mastodon:
+  spec:
+    title: My notes on `.env` files [dt.in.th]
+    url: https://notes.dt.in.th/Dotenv
+  state:
+    id: '113145071569795785'
+    url: https://mastodon.in.th/@webring/113145071569795785
+e34437ae6b3c574007aae37a6f609475:shorturl:
+  spec:
+    url: https://notes.dt.in.th/Dotenv
+  state:
+    shortLink: https://link.webring.in.th/2139
 e3673cb87468cc33e02ff5f0ea77c92b:facebook:
   spec:
     title: Illustration - メイドバレンタイン2024 [lucian.solutions]
