@@ -20929,6 +20929,25 @@ f4b516ab02686d39d28034af5c439d23:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-git-error-src-refspec-master-does-not-match-any/
   state:
     shortLink: https://webring.page.link/a8bK
+f4e7e3f8237055116b392dbe72f37fb9:facebook:
+  spec:
+    title: บันทึก Workshop AWS Cloud Essential Service Core [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/aws-cloud-essential-service-core-note/
+  state:
+    id: '100746876247412_496815849974329'
+    url: https://www.facebook.com/100683012920950/posts/496815849974329
+f4e7e3f8237055116b392dbe72f37fb9:mastodon:
+  spec:
+    title: บันทึก Workshop AWS Cloud Essential Service Core [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/aws-cloud-essential-service-core-note/
+  state:
+    id: '113151425581771134'
+    url: https://mastodon.in.th/@webring/113151425581771134
+f4e7e3f8237055116b392dbe72f37fb9:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/09/aws-cloud-essential-service-core-note/
+  state:
+    shortLink: https://link.webring.in.th/2141
 f52e6cc105cd38ba08ddb80ada7f1b01:facebook:
   spec:
     title: Riffy's adventure to Northern Japan and choked along the way [rayriffy.com]
