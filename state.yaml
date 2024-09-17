@@ -4026,6 +4026,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/cr-starbucks-raspberry-black-current-frappuccino/
   state:
     shortLink: https://webring.page.link/gcaY
+2f1079ecfb57b07984cfe10ccb7c430c:facebook:
+  spec:
+    title: บันทึกการทดสอบ Flutter app ด้วย Appium [somkiat.cc]
+    url: https://www.somkiat.cc/flutter-app-testing-with-appium/
+  state:
+    id: '100746876247412_496725366650044'
+    url: https://www.facebook.com/100683012920950/posts/496725366650044
+2f1079ecfb57b07984cfe10ccb7c430c:mastodon:
+  spec:
+    title: บันทึกการทดสอบ Flutter app ด้วย Appium [somkiat.cc]
+    url: https://www.somkiat.cc/flutter-app-testing-with-appium/
+  state:
+    id: '113150710862200243'
+    url: https://mastodon.in.th/@webring/113150710862200243
+2f1079ecfb57b07984cfe10ccb7c430c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/flutter-app-testing-with-appium/
+  state:
+    shortLink: https://link.webring.in.th/2140
 2f6d845fd1f9d8a13291f4b5b7c85efc:facebook:
   spec:
     title: สอนใช้ Suno AI มาทำเพลงเองแบบง่าย ๆ ในยุค AI [mikkipastel.com]
