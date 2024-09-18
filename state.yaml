@@ -20435,6 +20435,25 @@ ee22cbeffe6e048cde35897709cf1337:shorturl:
     url: https://notes.dt.in.th/OpenWebUILiteLLM
   state:
     shortLink: https://link.webring.in.th/2026
+ee5039a4a0f8e86983a6ae36666666d8:facebook:
+  spec:
+    title: REST API Delete with multiple param [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/rest-api-delete-with-multiple-param/
+  state:
+    id: '100746876247412_497572223232025'
+    url: https://www.facebook.com/100683012920950/posts/497572223232025
+ee5039a4a0f8e86983a6ae36666666d8:mastodon:
+  spec:
+    title: REST API Delete with multiple param [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/rest-api-delete-with-multiple-param/
+  state:
+    id: '113157093370277390'
+    url: https://mastodon.in.th/@webring/113157093370277390
+ee5039a4a0f8e86983a6ae36666666d8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/09/rest-api-delete-with-multiple-param/
+  state:
+    shortLink: https://link.webring.in.th/2143
 ee5b51dff5235a3bb36224db1c66c2ae:facebook:
   spec:
     title: มาลองใช้งาน Google Mesop กันดู [somkiat.cc]
