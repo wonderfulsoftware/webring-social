@@ -12709,6 +12709,25 @@
     url: https://lucian.solutions/blog/lucian-thanik
   state:
     shortLink: https://webring.page.link/tTve
+924d826f631e476cdc8b60b0a4e7f486:facebook:
+  spec:
+    title: All the fonts from CU Writer [dt.in.th]
+    url: https://notes.dt.in.th/CuWriterFonts
+  state:
+    id: '100746876247412_497481279907786'
+    url: https://www.facebook.com/100683012920950/posts/497481279907786
+924d826f631e476cdc8b60b0a4e7f486:mastodon:
+  spec:
+    title: All the fonts from CU Writer [dt.in.th]
+    url: https://notes.dt.in.th/CuWriterFonts
+  state:
+    id: '113156371081998043'
+    url: https://mastodon.in.th/@webring/113156371081998043
+924d826f631e476cdc8b60b0a4e7f486:shorturl:
+  spec:
+    url: https://notes.dt.in.th/CuWriterFonts
+  state:
+    shortLink: https://link.webring.in.th/2142
 92549b8bf349a2a22d83de826f181ba1:facebook:
   spec:
     title: 2022 [llun.me]
