@@ -4425,6 +4425,25 @@
     url: https://janescience.com/blog/jmeter
   state:
     shortLink: https://webring.page.link/BMte
+34c7008a606cb9dc5d19e9ec12e16053:facebook:
+  spec:
+    title: จดๆจาก Live ไขข้อสงสัย Database บน Container ควร หรือ ไม่ควรทำ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/should-i-put-database-in-container/
+  state:
+    id: '100746876247412_498238199832094'
+    url: https://www.facebook.com/100683012920950/posts/498238199832094
+34c7008a606cb9dc5d19e9ec12e16053:mastodon:
+  spec:
+    title: จดๆจาก Live ไขข้อสงสัย Database บน Container ควร หรือ ไม่ควรทำ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/should-i-put-database-in-container/
+  state:
+    id: '113162038241752321'
+    url: https://mastodon.in.th/@webring/113162038241752321
+34c7008a606cb9dc5d19e9ec12e16053:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/09/should-i-put-database-in-container/
+  state:
+    shortLink: https://link.webring.in.th/2144
 3500e398c0e68f68e5f4904af7493fc5:facebook:
   spec:
     title: A guide for realistic estimation of project timeline [heyfirst.co]
