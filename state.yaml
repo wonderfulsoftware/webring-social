@@ -16046,6 +16046,25 @@ b8b3e22bc05f0ee8b6fc3cebad82d187:shorturl:
     url: https://www.karnwong.me/posts/2023/04/book-highlights---managing-transitions-making-the-most-of-change-by-william-bridges/
   state:
     shortLink: https://webring.page.link/SjVn
+b93c12bca2679456e9c2d8d4595ec8f9:facebook:
+  spec:
+    title: แฝงตัวในดง Bitcoiner ที่งาน Thailand Bitcoin Conference 2024 [mikkipastel.com]
+    url: https://www.mikkipastel.com/thailand-bitcoin-conference-2024/
+  state:
+    id: '100746876247412_499729123016335'
+    url: https://www.facebook.com/100683012920950/posts/499729123016335
+b93c12bca2679456e9c2d8d4595ec8f9:mastodon:
+  spec:
+    title: แฝงตัวในดง Bitcoiner ที่งาน Thailand Bitcoin Conference 2024 [mikkipastel.com]
+    url: https://www.mikkipastel.com/thailand-bitcoin-conference-2024/
+  state:
+    id: '113173357618344749'
+    url: https://mastodon.in.th/@webring/113173357618344749
+b93c12bca2679456e9c2d8d4595ec8f9:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/thailand-bitcoin-conference-2024/
+  state:
+    shortLink: https://link.webring.in.th/2145
 b9773704cf492b71b67789e4cad319e6:facebook:
   spec:
     title: สรุปการอ่านเรื่อง 12 Software Architecture Pitfalls and How to Avoid Them [somkiat.cc]
