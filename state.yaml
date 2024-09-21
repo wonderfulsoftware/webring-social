@@ -16578,6 +16578,25 @@ bfbd4d16a2bd8a4101de54bf5dbc949c:shorturl:
     url: https://www.somkiat.cc/ephemeral-docker-image-registry/
   state:
     shortLink: https://webring.page.link/qKFf
+bfeacd2a0c7c5ebb3a3b43cf21886d8d:facebook:
+  spec:
+    title: '[DB2] ดูว่า Table ไหนเปลี่ยนแปลง [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/09/db2-list-which-table-data-change/
+  state:
+    id: '100746876247412_499818656340715'
+    url: https://www.facebook.com/100683012920950/posts/499818656340715
+bfeacd2a0c7c5ebb3a3b43cf21886d8d:mastodon:
+  spec:
+    title: '[DB2] ดูว่า Table ไหนเปลี่ยนแปลง [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/09/db2-list-which-table-data-change/
+  state:
+    id: '113174072419678560'
+    url: https://mastodon.in.th/@webring/113174072419678560
+bfeacd2a0c7c5ebb3a3b43cf21886d8d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/09/db2-list-which-table-data-change/
+  state:
+    shortLink: https://link.webring.in.th/2146
 c04dfe0b554c94ec9d09046503f2cd9b:facebook:
   spec:
     title: '[CR] สมหมายข้าวมันไก่ [debuggingsoft.com]'
