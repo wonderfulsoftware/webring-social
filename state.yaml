@@ -2183,6 +2183,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/error-createprocessentrycommon347-getpwuid0-failed-2-when-access-wsl/
   state:
     shortLink: https://webring.page.link/o4UU
+1b329d7a2ca7c259f2e770f845e2488a:facebook:
+  spec:
+    title: Hello World API Performance Benchmark (Go, Node, Python, Rust) [karnwong.me]
+    url: https://karnwong.me/posts/2024/09/hello-world-api-performance-benchmark-go-node-python-rust/
+  state:
+    id: '100746876247412_499904149665499'
+    url: https://www.facebook.com/100683012920950/posts/499904149665499
+1b329d7a2ca7c259f2e770f845e2488a:mastodon:
+  spec:
+    title: Hello World API Performance Benchmark (Go, Node, Python, Rust) [karnwong.me]
+    url: https://karnwong.me/posts/2024/09/hello-world-api-performance-benchmark-go-node-python-rust/
+  state:
+    id: '113174763948810955'
+    url: https://mastodon.in.th/@webring/113174763948810955
+1b329d7a2ca7c259f2e770f845e2488a:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/09/hello-world-api-performance-benchmark-go-node-python-rust/
+  state:
+    shortLink: https://link.webring.in.th/2147
 1b4c231684dbbb931597e21838ad6dac:facebook:
   spec:
     title: มาเรียนรู้การทำ Frontend Testing ผ่าน React กัน [mikelopster.dev]
