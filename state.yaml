@@ -1670,6 +1670,25 @@
     url: https://blog.zartre.com/2024/oma-is-my-first-svelte-app-use-it-to-track-days-since/
   state:
     shortLink: https://link.webring.in.th/2060
+15faaff24a1e1353ebbffbdcec788a25:facebook:
+  spec:
+    title: จดๆ ลงมือทำ Helm Essential > Helm Package [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/my-note-from-helm-esstential-helm-package/
+  state:
+    id: '100746876247412_501272599528654'
+    url: https://www.facebook.com/100683012920950/posts/501272599528654
+15faaff24a1e1353ebbffbdcec788a25:mastodon:
+  spec:
+    title: จดๆ ลงมือทำ Helm Essential > Helm Package [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/my-note-from-helm-esstential-helm-package/
+  state:
+    id: '113184699049587747'
+    url: https://mastodon.in.th/@webring/113184699049587747
+15faaff24a1e1353ebbffbdcec788a25:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/09/my-note-from-helm-esstential-helm-package/
+  state:
+    shortLink: https://link.webring.in.th/2148
 169bc83c3c9e2be7c16e7ddf0ba30b38:facebook:
   spec:
     title: เรียนรู้ว่า Product Management เอา AI มาใช้งานยังไง? กับงาน "Unlocking Product Insights" [mikkipastel.com]
