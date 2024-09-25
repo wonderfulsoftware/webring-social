@@ -6382,6 +6382,25 @@
     url: https://www.somkiat.cc/convert-ingress-to-gateway-api-in-kubernetes/
   state:
     shortLink: https://link.webring.in.th/2100
+4db173701b8c3dd47e4e92ea48236538:facebook:
+  spec:
+    title: 0259 | ลง ansible หลาย version ในเครื่องเดียวแบบไม่ให้งง [icez.net]
+    url: https://www.icez.net/blog/167550/ansible-multiple-version-python-virtualenv
+  state:
+    id: '100746876247412_502937699362144'
+    url: https://www.facebook.com/100683012920950/posts/502937699362144
+4db173701b8c3dd47e4e92ea48236538:mastodon:
+  spec:
+    title: 0259 | ลง ansible หลาย version ในเครื่องเดียวแบบไม่ให้งง [icez.net]
+    url: https://www.icez.net/blog/167550/ansible-multiple-version-python-virtualenv
+  state:
+    id: '113196729434448176'
+    url: https://mastodon.in.th/@webring/113196729434448176
+4db173701b8c3dd47e4e92ea48236538:shorturl:
+  spec:
+    url: https://www.icez.net/blog/167550/ansible-multiple-version-python-virtualenv
+  state:
+    shortLink: https://link.webring.in.th/2151
 4db50706ded1677db79fe79a047ebe45:facebook:
   spec:
     title: เรียนรู้ Design & Visual ในการสร้าง content ให้จับใจคน กับ iCreator Camp 2024 สัปดาห์ที่ 3 [mikkipastel.com]
