@@ -9232,6 +9232,25 @@
     url: https://www.somkiat.cc/kip-932-queues-for-kafka/
   state:
     shortLink: https://webring.page.link/N8HQ
+6de93c46d28691bbb6013a989e66b3af:facebook:
+  spec:
+    title: เรื่องที่น่าสนใจจากบทความเรื่อง Contextual Retrieval จาก Anthropic [somkiat.cc]
+    url: https://www.somkiat.cc/hello-contextual-retrieval-from-anthropic/
+  state:
+    id: '100746876247412_502810772708170'
+    url: https://www.facebook.com/100683012920950/posts/502810772708170
+6de93c46d28691bbb6013a989e66b3af:mastodon:
+  spec:
+    title: เรื่องที่น่าสนใจจากบทความเรื่อง Contextual Retrieval จาก Anthropic [somkiat.cc]
+    url: https://www.somkiat.cc/hello-contextual-retrieval-from-anthropic/
+  state:
+    id: '113196031872960775'
+    url: https://mastodon.in.th/@webring/113196031872960775
+6de93c46d28691bbb6013a989e66b3af:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-contextual-retrieval-from-anthropic/
+  state:
+    shortLink: https://link.webring.in.th/2150
 6e07b92da4269c29507c1c1c4df5f2e5:facebook:
   spec:
     title: เรื่องวุ่นๆของเงื่อนไขใน Jenkins Pipeline [debuggingsoft.com]
