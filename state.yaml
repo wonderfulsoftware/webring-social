@@ -3323,6 +3323,25 @@
     url: https://www.llun.me/posts/dev/2023-10-27-cloud-services-in-2023
   state:
     shortLink: https://webring.page.link/i3Ck
+271dffc813f769bfbbd44e905471cedc:facebook:
+  spec:
+    title: Major scale practice trainer [dt.in.th]
+    url: https://notes.dt.in.th/PianoMajorScaleTrainer
+  state:
+    id: '100746876247412_503636655958915'
+    url: https://www.facebook.com/100683012920950/posts/503636655958915
+271dffc813f769bfbbd44e905471cedc:mastodon:
+  spec:
+    title: Major scale practice trainer [dt.in.th]
+    url: https://notes.dt.in.th/PianoMajorScaleTrainer
+  state:
+    id: '113201686858346076'
+    url: https://mastodon.in.th/@webring/113201686858346076
+271dffc813f769bfbbd44e905471cedc:shorturl:
+  spec:
+    url: https://notes.dt.in.th/PianoMajorScaleTrainer
+  state:
+    shortLink: https://link.webring.in.th/2152
 2731398e6f9aee63f28f6f48fde053b6:facebook:
   spec:
     title: Git Command 101 [debuggingsoft.com]
