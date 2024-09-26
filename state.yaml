@@ -19200,6 +19200,25 @@ dc9406027d9ba4a11c760c9a94512164:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/03/%e0%b8%a5%e0%b8%ad%e0%b8%87-vue-version-on-windows-error-unauthorizedaccess/
   state:
     shortLink: https://webring.page.link/GVNd
+dde5afb6037269ff837d22a3393e2803:facebook:
+  spec:
+    title: ลองนั่งรถเมล์สาย 4-35 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/try-bus-number-4-35/
+  state:
+    id: '100746876247412_503729092616338'
+    url: https://www.facebook.com/100683012920950/posts/503729092616338
+dde5afb6037269ff837d22a3393e2803:mastodon:
+  spec:
+    title: ลองนั่งรถเมล์สาย 4-35 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/try-bus-number-4-35/
+  state:
+    id: '113202391842186279'
+    url: https://mastodon.in.th/@webring/113202391842186279
+dde5afb6037269ff837d22a3393e2803:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/09/try-bus-number-4-35/
+  state:
+    shortLink: https://link.webring.in.th/2153
 de08409ff413586764fbc91fe46b21d3:facebook:
   spec:
     title: bcdedit enum options [debuggingsoft.com]
