@@ -11740,6 +11740,25 @@
     url: https://www.karnwong.me/posts/2023/03/terraform-rds-module-with-dns-setup/
   state:
     shortLink: https://webring.page.link/smFS
+84ffdd4e8150abe70bc62fd5a5feaca8:facebook:
+  spec:
+    title: โค้ดเปลี่ยนเลขอารบิกเป็นไทยใน MS Word [dmg.st]
+    url: https://dmg.st/convertarabictothai/
+  state:
+    id: '100746876247412_504403275882253'
+    url: https://www.facebook.com/100683012920950/posts/504403275882253
+84ffdd4e8150abe70bc62fd5a5feaca8:mastodon:
+  spec:
+    title: โค้ดเปลี่ยนเลขอารบิกเป็นไทยใน MS Word [dmg.st]
+    url: https://dmg.st/convertarabictothai/
+  state:
+    id: '113207348795409060'
+    url: https://mastodon.in.th/@webring/113207348795409060
+84ffdd4e8150abe70bc62fd5a5feaca8:shorturl:
+  spec:
+    url: https://dmg.st/convertarabictothai/
+  state:
+    shortLink: https://link.webring.in.th/2154
 857ae34cca990010e7d961fdf61ac9eb:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 6 (Product Backlog Refinement) [taoisaman.com]
