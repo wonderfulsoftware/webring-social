@@ -14457,6 +14457,25 @@ a4a402da58b6a08d45144a0ae25feca7:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/04/windows-11-change-hot-key-between-language/
   state:
     shortLink: https://webring.page.link/sCb3
+a4bd76116403c6eaab3ce59cb76f6ae9:facebook:
+  spec:
+    title: Open water journey, from zero-to-hero [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/open-water-journey/
+  state:
+    id: '100746876247412_505265459129368'
+    url: https://www.facebook.com/100683012920950/posts/505265459129368
+a4bd76116403c6eaab3ce59cb76f6ae9:mastodon:
+  spec:
+    title: Open water journey, from zero-to-hero [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/open-water-journey/
+  state:
+    id: '113213708155628717'
+    url: https://mastodon.in.th/@webring/113213708155628717
+a4bd76116403c6eaab3ce59cb76f6ae9:shorturl:
+  spec:
+    url: https://yuttakhanb.dev/posts/open-water-journey/
+  state:
+    shortLink: https://link.webring.in.th/2156
 a4dd24e81fb1239145f1d059a8a5eda6:facebook:
   spec:
     title: pglogical setup [karnwong.me]
