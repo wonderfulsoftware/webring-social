@@ -20815,6 +20815,25 @@ f04ab2c55ae499df3dd8c21ad0de623c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/10/cr-moms-touch-ics/
   state:
     shortLink: https://webring.page.link/ndq8
+f07a734c7c09dfd63bcb8e218cab581b:facebook:
+  spec:
+    title: Generating a random hex password and hashing it with Bcrypt [dt.in.th]
+    url: https://notes.dt.in.th/RandomHexPasswordBcrypt
+  state:
+    id: '100746876247412_505952189060695'
+    url: https://www.facebook.com/100683012920950/posts/505952189060695
+f07a734c7c09dfd63bcb8e218cab581b:mastodon:
+  spec:
+    title: Generating a random hex password and hashing it with Bcrypt [dt.in.th]
+    url: https://notes.dt.in.th/RandomHexPasswordBcrypt
+  state:
+    id: '113218687015859178'
+    url: https://mastodon.in.th/@webring/113218687015859178
+f07a734c7c09dfd63bcb8e218cab581b:shorturl:
+  spec:
+    url: https://notes.dt.in.th/RandomHexPasswordBcrypt
+  state:
+    shortLink: https://link.webring.in.th/2157
 f07bcc1a0d87fa7c7daf27a6b618ea4f:facebook:
   spec:
     title: Memoize and memory leak [llun.me]
