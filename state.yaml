@@ -11265,6 +11265,25 @@
     url: https://garden.narze.live/git-reset-only-unstaged-changes/
   state:
     shortLink: https://webring.page.link/87dP
+80cba9e02d3926307dd9af50a6bd0a3e:facebook:
+  spec:
+    title: จดๆ ลงมือทำ Helm Eessential:4 (Workflow / Writing Verifying Chart / Hooks) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/my-note-from-helm-essential-helm-writing-verifying-chart-hook/
+  state:
+    id: '100746876247412_506860042303243'
+    url: https://www.facebook.com/100683012920950/posts/506860042303243
+80cba9e02d3926307dd9af50a6bd0a3e:mastodon:
+  spec:
+    title: จดๆ ลงมือทำ Helm Eessential:4 (Workflow / Writing Verifying Chart / Hooks) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/09/my-note-from-helm-essential-helm-writing-verifying-chart-hook/
+  state:
+    id: '113225044340754134'
+    url: https://mastodon.in.th/@webring/113225044340754134
+80cba9e02d3926307dd9af50a6bd0a3e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/09/my-note-from-helm-essential-helm-writing-verifying-chart-hook/
+  state:
+    shortLink: https://link.webring.in.th/2159
 80e4e617e8547066b987f303dfb3b0b7:facebook:
   spec:
     title: สร้างเลขาส่วนตัวด้วย Telegram Bot API และ Notion [anuwong.com]
