@@ -5527,6 +5527,25 @@
     url: https://karnwong.me/posts/2024/09/streamlit-load-test-performance/
   state:
     shortLink: https://link.webring.in.th/2122
+421cac28ee43da83df03617cdc50a63a:facebook:
+  spec:
+    title: Review Code Diff in VSCode with Continue [garden.narze.live]
+    url: https://garden.narze.live/review-code-diff-in-vscode-with-continue/
+  state:
+    id: '100746876247412_506769815645599'
+    url: https://www.facebook.com/100683012920950/posts/506769815645599
+421cac28ee43da83df03617cdc50a63a:mastodon:
+  spec:
+    title: Review Code Diff in VSCode with Continue [garden.narze.live]
+    url: https://garden.narze.live/review-code-diff-in-vscode-with-continue/
+  state:
+    id: '113224355262922795'
+    url: https://mastodon.in.th/@webring/113224355262922795
+421cac28ee43da83df03617cdc50a63a:shorturl:
+  spec:
+    url: https://garden.narze.live/review-code-diff-in-vscode-with-continue/
+  state:
+    shortLink: https://link.webring.in.th/2158
 4268aa75ab6d23af9a8be890d4ac0168:facebook:
   spec:
     title: ฟิสิกส์พื้นฐานของการแล่นเรือใบ [neizod.dev]
