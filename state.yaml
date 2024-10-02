@@ -19371,6 +19371,25 @@ de5a01ad313c46a7ced7e4944b43cd08:shorturl:
     url: https://www.mikkipastel.com/introduction-stable-diffusion-101/
   state:
     shortLink: https://webring.page.link/JpDR
+dea60214d6add530a3d246f5134647ae:facebook:
+  spec:
+    title: เรียนๆจดๆ ลงมือทำจาก Helm Essential Course [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/10/topic-from-helm-essential-course-by-jumpbox/
+  state:
+    id: '100746876247412_508431252146122'
+    url: https://www.facebook.com/100683012920950/posts/508431252146122
+dea60214d6add530a3d246f5134647ae:mastodon:
+  spec:
+    title: เรียนๆจดๆ ลงมือทำจาก Helm Essential Course [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/10/topic-from-helm-essential-course-by-jumpbox/
+  state:
+    id: '113236365260110162'
+    url: https://mastodon.in.th/@webring/113236365260110162
+dea60214d6add530a3d246f5134647ae:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/topic-from-helm-essential-course-by-jumpbox/
+  state:
+    shortLink: https://link.webring.in.th/2161
 df0814156257b3dbcc2b23506138f3f6:facebook:
   spec:
     title: มา install ArgoCD บน GKE Cluster กัน [anewlife.dev]
