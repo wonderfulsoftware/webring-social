@@ -21138,6 +21138,25 @@ f3595483661f27cb859e42aaa5c6ff1d:shorturl:
     url: https://mesodiar.com/bebe-fit-routine-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2-journey-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B9%80%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B9%89-ba6798a2535e?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/ru6K
+f37b2fc39c75531ba699b3898775d455:facebook:
+  spec:
+    title: ทำความรู้จัก Regular Expression แบบ 101 กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/regular-expression-regex-101/
+  state:
+    id: '100746876247412_508332115489369'
+    url: https://www.facebook.com/100683012920950/posts/508332115489369
+f37b2fc39c75531ba699b3898775d455:mastodon:
+  spec:
+    title: ทำความรู้จัก Regular Expression แบบ 101 กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/regular-expression-regex-101/
+  state:
+    id: '113235658054523496'
+    url: https://mastodon.in.th/@webring/113235658054523496
+f37b2fc39c75531ba699b3898775d455:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/regular-expression-regex-101/
+  state:
+    shortLink: https://link.webring.in.th/2160
 f3b594fe7c052e69a8a41d1810b7767b:facebook:
   spec:
     title: '[.NET] บันทึกการจัดการ NuGet ที่ต้องแยกเฉพาะตาม Platform ครับ [debuggingsoft.com]'
