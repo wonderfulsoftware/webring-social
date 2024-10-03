@@ -16749,6 +16749,25 @@ bf530b49d3a770696119fb5a65c32260:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-go01-introduction/
   state:
     shortLink: https://link.webring.in.th/1814
+bf9aeb473542acaa60dac1e564408651:facebook:
+  spec:
+    title: สรุปการแบ่งปันเรื่อง Better test ในงาน Vue Thai Conf 2024 [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-better-testing-with-vue/
+  state:
+    id: '100746876247412_509131828742731'
+    url: https://www.facebook.com/100683012920950/posts/509131828742731
+bf9aeb473542acaa60dac1e564408651:mastodon:
+  spec:
+    title: สรุปการแบ่งปันเรื่อง Better test ในงาน Vue Thai Conf 2024 [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-better-testing-with-vue/
+  state:
+    id: '113241323670917314'
+    url: https://mastodon.in.th/@webring/113241323670917314
+bf9aeb473542acaa60dac1e564408651:shorturl:
+  spec:
+    url: https://www.somkiat.cc/sharing-better-testing-with-vue/
+  state:
+    shortLink: https://link.webring.in.th/2162
 bfbd4d16a2bd8a4101de54bf5dbc949c:facebook:
   spec:
     title: มาลองใช้งาน TTL.sh สำหรับจัดการ Ephemeral Docker image registry [somkiat.cc]
