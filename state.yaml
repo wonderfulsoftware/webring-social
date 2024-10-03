@@ -19409,6 +19409,25 @@ dea60214d6add530a3d246f5134647ae:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/10/topic-from-helm-essential-course-by-jumpbox/
   state:
     shortLink: https://link.webring.in.th/2161
+defe0d87e476b6e9cb1b0f8d72ae8f90:facebook:
+  spec:
+    title: 'AI-102: Get started with Azure AI Services [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai-102-get-started-with-azure-ai-services/
+  state:
+    id: '100746876247412_509228065399774'
+    url: https://www.facebook.com/100683012920950/posts/509228065399774
+defe0d87e476b6e9cb1b0f8d72ae8f90:mastodon:
+  spec:
+    title: 'AI-102: Get started with Azure AI Services [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai-102-get-started-with-azure-ai-services/
+  state:
+    id: '113242027673497162'
+    url: https://mastodon.in.th/@webring/113242027673497162
+defe0d87e476b6e9cb1b0f8d72ae8f90:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai-102-get-started-with-azure-ai-services/
+  state:
+    shortLink: https://link.webring.in.th/2163
 df0814156257b3dbcc2b23506138f3f6:facebook:
   spec:
     title: มา install ArgoCD บน GKE Cluster กัน [anewlife.dev]
