@@ -131,6 +131,25 @@
     url: https://blog.ninprd.com/blog/gamification-conference-gamification-unviel-by-growth-game/
   state:
     shortLink: https://link.webring.in.th/2124
+0256865ed58c9c876ab76764f9f90edf:facebook:
+  spec:
+    title: ทำไมการตรวจสอบ .gitmodules / git link ถึงสำคัญ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/10/the-reason-to-check-gitmodules-git-link/
+  state:
+    id: '100746876247412_510023828653531'
+    url: https://www.facebook.com/100683012920950/posts/510023828653531
+0256865ed58c9c876ab76764f9f90edf:mastodon:
+  spec:
+    title: ทำไมการตรวจสอบ .gitmodules / git link ถึงสำคัญ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/10/the-reason-to-check-gitmodules-git-link/
+  state:
+    id: '113247691008615960'
+    url: https://mastodon.in.th/@webring/113247691008615960
+0256865ed58c9c876ab76764f9f90edf:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/the-reason-to-check-gitmodules-git-link/
+  state:
+    shortLink: https://link.webring.in.th/2165
 0322f81363b1ff49094e5e5a94627af4:facebook:
   spec:
     title: Twitch 2023 Event - Free Bustup [lucian.solutions]
