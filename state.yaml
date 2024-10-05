@@ -10106,6 +10106,25 @@
     url: https://tantatorn.xyz/posts/typescript-compiler-api/
   state:
     shortLink: https://link.webring.in.th/2068
+7521a222a5c3212d43c5e33155c6c41a:facebook:
+  spec:
+    title: '[CR] Starbucks Mixed Mushroom Whole Wheat Sandwich (อาหารเจ) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/cr-starbucks-mixed-mushroom-whole-wheat-sandwich-vegetarian-menu/
+  state:
+    id: '100746876247412_510685055254075'
+    url: https://www.facebook.com/100683012920950/posts/510685055254075
+7521a222a5c3212d43c5e33155c6c41a:mastodon:
+  spec:
+    title: '[CR] Starbucks Mixed Mushroom Whole Wheat Sandwich (อาหารเจ) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/cr-starbucks-mixed-mushroom-whole-wheat-sandwich-vegetarian-menu/
+  state:
+    id: '113252639890389208'
+    url: https://mastodon.in.th/@webring/113252639890389208
+7521a222a5c3212d43c5e33155c6c41a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/cr-starbucks-mixed-mushroom-whole-wheat-sandwich-vegetarian-menu/
+  state:
+    shortLink: https://link.webring.in.th/2166
 75e9044e76b5417e59930ae95bde9f45:facebook:
   spec:
     title: '[PowerShell] Snippet Script Copy Files that are listed in a text file [debuggingsoft.com]'
