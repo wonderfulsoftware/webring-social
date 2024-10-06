@@ -17034,6 +17034,25 @@ c1257fa0dcb6cbe73fb7a6cc3e8e9aef:shorturl:
     url: https://www.mikkipastel.com/online-course-nft-defi-foundametal-from-nft360/
   state:
     shortLink: https://webring.page.link/mWep
+c161564f345fb36fe209f876ddcc0d75:facebook:
+  spec:
+    title: Prepare Raspberry Pi SD Card with Ubuntu & Cloud Init [garden.narze.live]
+    url: https://garden.narze.live/prepare-raspberry-pi-sd-card-with-ubuntu-and-cloud-init/
+  state:
+    id: '100746876247412_511499848505929'
+    url: https://www.facebook.com/100683012920950/posts/511499848505929
+c161564f345fb36fe209f876ddcc0d75:mastodon:
+  spec:
+    title: Prepare Raspberry Pi SD Card with Ubuntu & Cloud Init [garden.narze.live]
+    url: https://garden.narze.live/prepare-raspberry-pi-sd-card-with-ubuntu-and-cloud-init/
+  state:
+    id: '113259009798979693'
+    url: https://mastodon.in.th/@webring/113259009798979693
+c161564f345fb36fe209f876ddcc0d75:shorturl:
+  spec:
+    url: https://garden.narze.live/prepare-raspberry-pi-sd-card-with-ubuntu-and-cloud-init/
+  state:
+    shortLink: https://link.webring.in.th/2168
 c17082f763f2e844e8afd34a9069afdd:facebook:
   spec:
     title: รีวิวคอร์สสาย Tech ที่เราเรียนของ Skooldio กัน [mikkipastel.com]
