@@ -5660,6 +5660,25 @@
     url: https://www.karnwong.me/posts/2023/03/google-analytics-v4-ingestion-via-bigquery/
   state:
     shortLink: https://webring.page.link/Y7yB
+44de9ddb5c15e7c9285161ed1e339aaf:facebook:
+  spec:
+    title: How I initialize my Bun projects [dt.in.th]
+    url: https://notes.dt.in.th/BunInit
+  state:
+    id: '100746876247412_511413338514580'
+    url: https://www.facebook.com/100683012920950/posts/511413338514580
+44de9ddb5c15e7c9285161ed1e339aaf:mastodon:
+  spec:
+    title: How I initialize my Bun projects [dt.in.th]
+    url: https://notes.dt.in.th/BunInit
+  state:
+    id: '113258320463182715'
+    url: https://mastodon.in.th/@webring/113258320463182715
+44de9ddb5c15e7c9285161ed1e339aaf:shorturl:
+  spec:
+    url: https://notes.dt.in.th/BunInit
+  state:
+    shortLink: https://link.webring.in.th/2167
 44fc4d6184ae51ec62ee3a05c0cf27af:facebook:
   spec:
     title: เรียนรู้ Go - ทำ Todo API ต่อกับ MongoDB [kajame.xyz]
