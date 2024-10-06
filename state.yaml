@@ -6458,6 +6458,25 @@
     url: https://www.somkiat.cc/convert-ingress-to-gateway-api-in-kubernetes/
   state:
     shortLink: https://link.webring.in.th/2100
+4db0b61114999eab344c2886e3e64824:facebook:
+  spec:
+    title: When (not) to use Terraform [karnwong.me]
+    url: https://karnwong.me/posts/2024/10/when-not-to-use-terraform/
+  state:
+    id: '100746876247412_511591348496779'
+    url: https://www.facebook.com/100683012920950/posts/511591348496779
+4db0b61114999eab344c2886e3e64824:mastodon:
+  spec:
+    title: When (not) to use Terraform [karnwong.me]
+    url: https://karnwong.me/posts/2024/10/when-not-to-use-terraform/
+  state:
+    id: '113259702758068168'
+    url: https://mastodon.in.th/@webring/113259702758068168
+4db0b61114999eab344c2886e3e64824:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/10/when-not-to-use-terraform/
+  state:
+    shortLink: https://link.webring.in.th/2169
 4db173701b8c3dd47e4e92ea48236538:facebook:
   spec:
     title: 0259 | ลง ansible หลาย version ในเครื่องเดียวแบบไม่ให้งง [icez.net]
