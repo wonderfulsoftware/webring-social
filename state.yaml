@@ -21537,6 +21537,25 @@ f540c3a4033ce458139b45f9f4888b8c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/03/how-to-reduce-windows-edb-size/
   state:
     shortLink: https://link.webring.in.th/1818
+f618c31a34ca9d389371e09593719b4a:facebook:
+  spec:
+    title: 'AI102: Create computer vision solutions with Azure AI Vision [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai102-create-computer-vision-solutions-with-azure-ai-vision/
+  state:
+    id: '100746876247412_512324305090150'
+    url: https://www.facebook.com/100683012920950/posts/512324305090150
+f618c31a34ca9d389371e09593719b4a:mastodon:
+  spec:
+    title: 'AI102: Create computer vision solutions with Azure AI Vision [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai102-create-computer-vision-solutions-with-azure-ai-vision/
+  state:
+    id: '113265371335520186'
+    url: https://mastodon.in.th/@webring/113265371335520186
+f618c31a34ca9d389371e09593719b4a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai102-create-computer-vision-solutions-with-azure-ai-vision/
+  state:
+    shortLink: https://link.webring.in.th/2172
 f618f1957e7524a2ecf1fad8fc51e978:facebook:
   spec:
     title: นายเองก็ใช้ markdown บน discord ได้นะ! [mikkipastel.com]
