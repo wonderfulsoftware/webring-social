@@ -5546,6 +5546,25 @@
     url: https://karnwong.me/posts/2024/09/streamlit-load-test-performance/
   state:
     shortLink: https://link.webring.in.th/2122
+41c6e601e790dcdca11120e40f6cd07d:facebook:
+  spec:
+    title: จัดการวันเวลาง่ายขึ้นด้วย date-fns [pontakorn.dev]
+    url: https://pontakorn.dev/posts/date-fns-library/
+  state:
+    id: '100746876247412_512154878440426'
+    url: https://www.facebook.com/100683012920950/posts/512154878440426
+41c6e601e790dcdca11120e40f6cd07d:mastodon:
+  spec:
+    title: จัดการวันเวลาง่ายขึ้นด้วย date-fns [pontakorn.dev]
+    url: https://pontakorn.dev/posts/date-fns-library/
+  state:
+    id: '113263980746805581'
+    url: https://mastodon.in.th/@webring/113263980746805581
+41c6e601e790dcdca11120e40f6cd07d:shorturl:
+  spec:
+    url: https://pontakorn.dev/posts/date-fns-library/
+  state:
+    shortLink: https://link.webring.in.th/2170
 421cac28ee43da83df03617cdc50a63a:facebook:
   spec:
     title: Review Code Diff in VSCode with Continue [garden.narze.live]
