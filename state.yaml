@@ -21119,6 +21119,25 @@ f0bd5d71ed6eb90ffa8cbcb804f0c62c:shorturl:
     url: https://mikelopster.dev/posts/next-auth-basic/
   state:
     shortLink: https://link.webring.in.th/1804
+f0c84e27b5f9f4ec7e401ae61cd59aaa:facebook:
+  spec:
+    title: มาใช้งาน LiteLLM กัน [somkiat.cc]
+    url: https://www.somkiat.cc/litellm-llm-proxy-server/
+  state:
+    id: '100746876247412_512239868431927'
+    url: https://www.facebook.com/100683012920950/posts/512239868431927
+f0c84e27b5f9f4ec7e401ae61cd59aaa:mastodon:
+  spec:
+    title: มาใช้งาน LiteLLM กัน [somkiat.cc]
+    url: https://www.somkiat.cc/litellm-llm-proxy-server/
+  state:
+    id: '113264679176122120'
+    url: https://mastodon.in.th/@webring/113264679176122120
+f0c84e27b5f9f4ec7e401ae61cd59aaa:shorturl:
+  spec:
+    url: https://www.somkiat.cc/litellm-llm-proxy-server/
+  state:
+    shortLink: https://link.webring.in.th/2171
 f11942adf6100ec686b8888a39b65355:facebook:
   spec:
     title: Illustration - キララ [lucian.solutions]
