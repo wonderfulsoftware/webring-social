@@ -9612,6 +9612,25 @@
     url: https://notes.dt.in.th/OBZBarcodeScannerJS
   state:
     shortLink: https://link.webring.in.th/2101
+6fb3dd84fecd936600079a30a9cda73e:facebook:
+  spec:
+    title: Riffy’s Airport tier list [rayriffy.com]
+    url: https://rayriffy.com/garden/airport-tier-list/
+  state:
+    id: '100746876247412_513161551673092'
+    url: https://www.facebook.com/100683012920950/posts/513161551673092
+6fb3dd84fecd936600079a30a9cda73e:mastodon:
+  spec:
+    title: Riffy’s Airport tier list [rayriffy.com]
+    url: https://rayriffy.com/garden/airport-tier-list/
+  state:
+    id: '113271777725612926'
+    url: https://mastodon.in.th/@webring/113271777725612926
+6fb3dd84fecd936600079a30a9cda73e:shorturl:
+  spec:
+    url: https://rayriffy.com/garden/airport-tier-list/
+  state:
+    shortLink: https://link.webring.in.th/2176
 6fc5638deae1e0269daf6422b680139d:facebook:
   spec:
     title: 'IWD 2023: Protect sensitive data in pipeline with Tink and Cloud KMS as Envelope Encryption [mesodiar.com]'
