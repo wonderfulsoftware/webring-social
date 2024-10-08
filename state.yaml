@@ -15483,6 +15483,25 @@ ae03a4690c04ee9810fcb3b027bb1b29:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/05/kbtg-go-share-experiance-go-intensive-workshop-11-12-may-2024/
   state:
     shortLink: https://link.webring.in.th/1926
+ae2156eca179a00cde7cd19a8250a65b:facebook:
+  spec:
+    title: Running Internet Explorer 5 on Windows 98 in your browser, with internet and LAN access [dt.in.th]
+    url: https://notes.dt.in.th/Win98IE5
+  state:
+    id: '100746876247412_512893301699917'
+    url: https://www.facebook.com/100683012920950/posts/512893301699917
+ae2156eca179a00cde7cd19a8250a65b:mastodon:
+  spec:
+    title: Running Internet Explorer 5 on Windows 98 in your browser, with internet and LAN access [dt.in.th]
+    url: https://notes.dt.in.th/Win98IE5
+  state:
+    id: '113269642453694544'
+    url: https://mastodon.in.th/@webring/113269642453694544
+ae2156eca179a00cde7cd19a8250a65b:shorturl:
+  spec:
+    url: https://notes.dt.in.th/Win98IE5
+  state:
+    shortLink: https://link.webring.in.th/2173
 ae4a4da87c7ad5fbb2b27e66cfad5b12:facebook:
   spec:
     title: สรุปจากบทความเรื่อง Go back to coding, engineering leader [somkiat.cc]
