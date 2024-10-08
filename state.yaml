@@ -20302,6 +20302,25 @@ e80eb92dca2ac81ed848aea0444a1294:shorturl:
     url: https://www.somkiat.cc/google-chrome-show-memory-in-tab/
   state:
     shortLink: https://webring.page.link/nwK7
+e81d17c548fd029d7bbfaab1faee9d94:facebook:
+  spec:
+    title: '[CR] Starbucks Truffle Mixed Mushroom Bun (อาหารเจ) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/cr-starbucks-truffle-mixed-mushroom-bun-vegetarian-menu/
+  state:
+    id: '100746876247412_512979675024613'
+    url: https://www.facebook.com/100683012920950/posts/512979675024613
+e81d17c548fd029d7bbfaab1faee9d94:mastodon:
+  spec:
+    title: '[CR] Starbucks Truffle Mixed Mushroom Bun (อาหารเจ) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/cr-starbucks-truffle-mixed-mushroom-bun-vegetarian-menu/
+  state:
+    id: '113270340396971669'
+    url: https://mastodon.in.th/@webring/113270340396971669
+e81d17c548fd029d7bbfaab1faee9d94:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/cr-starbucks-truffle-mixed-mushroom-bun-vegetarian-menu/
+  state:
+    shortLink: https://link.webring.in.th/2174
 e81de6f68febdece48e7569c81c129ac:facebook:
   spec:
     title: How to find live partner not prom date [blog.oatto.dev]
