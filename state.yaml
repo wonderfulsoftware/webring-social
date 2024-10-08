@@ -5508,6 +5508,25 @@
     url: https://notes.dt.in.th/LaunchingChromeForTesting
   state:
     shortLink: https://webring.page.link/MoSW
+418884d9b391a65ea6c5ec0ce778a68c:facebook:
+  spec:
+    title: จอภาพที่เกิดมาเพื่อโปรแกรมเมอร์ BenQ RD280U | World's First Programming Monitor Series [mikkipastel.com]
+    url: https://www.mikkipastel.com/benq-rd280u-worlds-first-programming-monitor-series/
+  state:
+    id: '100746876247412_513061511683096'
+    url: https://www.facebook.com/100683012920950/posts/513061511683096
+418884d9b391a65ea6c5ec0ce778a68c:mastodon:
+  spec:
+    title: จอภาพที่เกิดมาเพื่อโปรแกรมเมอร์ BenQ RD280U | World's First Programming Monitor Series [mikkipastel.com]
+    url: https://www.mikkipastel.com/benq-rd280u-worlds-first-programming-monitor-series/
+  state:
+    id: '113271031058579067'
+    url: https://mastodon.in.th/@webring/113271031058579067
+418884d9b391a65ea6c5ec0ce778a68c:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/benq-rd280u-worlds-first-programming-monitor-series/
+  state:
+    shortLink: https://link.webring.in.th/2175
 41bb2f154e52a75396b4382c0286dc56:facebook:
   spec:
     title: Bun v1.1.25 สนับสนุน node:cluster แล้ว [somkiat.cc]
