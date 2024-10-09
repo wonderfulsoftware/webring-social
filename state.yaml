@@ -8947,6 +8947,25 @@
     url: https://kusumotolab.com/recap-domain-driven-design-from-aws-thailand/
   state:
     shortLink: https://webring.page.link/YFeA
+68c17325e31338241fb2bbf5257234ff:facebook:
+  spec:
+    title: Lightweight Docker image for cURL [garden.narze.live]
+    url: https://garden.narze.live/lightweight-docker-image-for-curl/
+  state:
+    id: '100746876247412_513611231628124'
+    url: https://www.facebook.com/100683012920950/posts/513611231628124
+68c17325e31338241fb2bbf5257234ff:mastodon:
+  spec:
+    title: Lightweight Docker image for cURL [garden.narze.live]
+    url: https://garden.narze.live/lightweight-docker-image-for-curl/
+  state:
+    id: '113275296758617919'
+    url: https://mastodon.in.th/@webring/113275296758617919
+68c17325e31338241fb2bbf5257234ff:shorturl:
+  spec:
+    url: https://garden.narze.live/lightweight-docker-image-for-curl/
+  state:
+    shortLink: https://link.webring.in.th/2177
 68df5b2f3d6e91139a7eb38835072fa3:facebook:
   spec:
     title: DB2 fixed an unpredictable hang/take a lot of time when create a DB Connection. [debuggingsoft.com]
