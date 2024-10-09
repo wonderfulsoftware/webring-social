@@ -13773,6 +13773,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/unit-test-naming-conventions/
   state:
     shortLink: https://webring.page.link/EVJy
+9a3560e7a4e6182a66d6584f4831e98c:facebook:
+  spec:
+    title: How to delete a large folder that contains millions of files [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/10/how-to-delete-a-large-folder-that-contains-millions-of-files/
+  state:
+    id: '100746876247412_513695074953073'
+    url: https://www.facebook.com/100683012920950/posts/513695074953073
+9a3560e7a4e6182a66d6584f4831e98c:mastodon:
+  spec:
+    title: How to delete a large folder that contains millions of files [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/10/how-to-delete-a-large-folder-that-contains-millions-of-files/
+  state:
+    id: '113276004471891495'
+    url: https://mastodon.in.th/@webring/113276004471891495
+9a3560e7a4e6182a66d6584f4831e98c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/how-to-delete-a-large-folder-that-contains-millions-of-files/
+  state:
+    shortLink: https://link.webring.in.th/2178
 9ac5ae6b0dd3a8bca3e9f4010bb29b69:facebook:
   spec:
     title: ลองใช้งาน Virtual Thread ของ Java 19 ใน Spring Boot 3 [somkiat.cc]
