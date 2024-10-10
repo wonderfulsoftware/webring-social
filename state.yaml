@@ -16825,6 +16825,25 @@ bd23e1beee8056e729f25ba34b594968:shorturl:
     url: https://suam.wtf/posts/tdea-vs-mitm/
   state:
     shortLink: https://webring.page.link/Xzgf
+bd5b134b9a6e2e7a2ba58e7013bb8047:facebook:
+  spec:
+    title: 'AI102: Develop natural language processing solutions with Azure AI Services [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai102-develop-natural-language-processing-solutions-with-azure-ai-services/
+  state:
+    id: '100746876247412_514538078202106'
+    url: https://www.facebook.com/100683012920950/posts/514538078202106
+bd5b134b9a6e2e7a2ba58e7013bb8047:mastodon:
+  spec:
+    title: 'AI102: Develop natural language processing solutions with Azure AI Services [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai102-develop-natural-language-processing-solutions-with-azure-ai-services/
+  state:
+    id: '113282356956302876'
+    url: https://mastodon.in.th/@webring/113282356956302876
+bd5b134b9a6e2e7a2ba58e7013bb8047:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai102-develop-natural-language-processing-solutions-with-azure-ai-services/
+  state:
+    shortLink: https://link.webring.in.th/2181
 bde97e16d926c30e48a01a38e424bee1:facebook:
   spec:
     title: 62 - garden-astro - add tests [garden.narze.live]
