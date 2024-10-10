@@ -15863,6 +15863,25 @@ b165f831210fbe2d2fc78d93a5969c29:shorturl:
     url: https://taoisaman.com/2023/05/20/flutter-project-structure-with-clean-architechture/
   state:
     shortLink: https://webring.page.link/KjC6
+b181dc74b2ea52a9450c9b81b90441c3:facebook:
+  spec:
+    title: LLM serving latency benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2024/10/llm-serving-latency-benchmark/
+  state:
+    id: '100746876247412_514353238220590'
+    url: https://www.facebook.com/100683012920950/posts/514353238220590
+b181dc74b2ea52a9450c9b81b90441c3:mastodon:
+  spec:
+    title: LLM serving latency benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2024/10/llm-serving-latency-benchmark/
+  state:
+    id: '113280958304886087'
+    url: https://mastodon.in.th/@webring/113280958304886087
+b181dc74b2ea52a9450c9b81b90441c3:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/10/llm-serving-latency-benchmark/
+  state:
+    shortLink: https://link.webring.in.th/2179
 b1d60910422ed2e6b4381e4afff061a1:facebook:
   spec:
     title: Reasons why you shouldn't use programming languages for IaC [karnwong.me]
