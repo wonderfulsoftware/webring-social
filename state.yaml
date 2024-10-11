@@ -1081,6 +1081,25 @@
     url: https://pontakorn.dev/posts/what-is-dto/
   state:
     shortLink: https://link.webring.in.th/2073
+0e9e976d06273aef6e0abc14a42bb1a2:facebook:
+  spec:
+    title: ว่าด้วยเรื่องของ Prompt Caching [somkiat.cc]
+    url: https://www.somkiat.cc/prompt-caching/
+  state:
+    id: '100746876247412_515262098129704'
+    url: https://www.facebook.com/100683012920950/posts/515262098129704
+0e9e976d06273aef6e0abc14a42bb1a2:mastodon:
+  spec:
+    title: ว่าด้วยเรื่องของ Prompt Caching [somkiat.cc]
+    url: https://www.somkiat.cc/prompt-caching/
+  state:
+    id: '113287327003134183'
+    url: https://mastodon.in.th/@webring/113287327003134183
+0e9e976d06273aef6e0abc14a42bb1a2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/prompt-caching/
+  state:
+    shortLink: https://link.webring.in.th/2183
 0ecd6b2e5eabcc310ed76d3a98d6ab89:facebook:
   spec:
     title: '[CR] Starbucks Croque Monsieur [debuggingsoft.com]'
