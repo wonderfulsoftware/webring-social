@@ -16863,6 +16863,25 @@ bde97e16d926c30e48a01a38e424bee1:shorturl:
     url: https://garden.narze.live/100daysofcode-r3-62-garden-astro-add-tests/
   state:
     shortLink: https://webring.page.link/Tqoh
+bdf3229b37cc00c3fd658f7c5a165898:facebook:
+  spec:
+    title: Using Elysia in Deno [dt.in.th]
+    url: https://notes.dt.in.th/ElysiaDeno
+  state:
+    id: '100746876247412_515158718140042'
+    url: https://www.facebook.com/100683012920950/posts/515158718140042
+bdf3229b37cc00c3fd658f7c5a165898:mastodon:
+  spec:
+    title: Using Elysia in Deno [dt.in.th]
+    url: https://notes.dt.in.th/ElysiaDeno
+  state:
+    id: '113286617250177887'
+    url: https://mastodon.in.th/@webring/113286617250177887
+bdf3229b37cc00c3fd658f7c5a165898:shorturl:
+  spec:
+    url: https://notes.dt.in.th/ElysiaDeno
+  state:
+    shortLink: https://link.webring.in.th/2182
 be3212ad8848257559abae0cb255e58f:facebook:
   spec:
     title: The Cloud Camp Week#14 (Recap + Q&A) [debuggingsoft.com]
