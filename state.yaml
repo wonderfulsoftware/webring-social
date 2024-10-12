@@ -7066,6 +7066,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/04/wp-how-to-fix-the-there-has-been-a-critical-error-on-your-website-errorwp-fixed-error/
   state:
     shortLink: https://link.webring.in.th/1872
+54afb457a28afc906c21aa6c90f888ef:facebook:
+  spec:
+    title: เพิ่ม Port ให้กับ Container ที่ลืม map ไว้ตอนสร้าง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/10/how-to-assign-port-on-existing-container-thai-version/
+  state:
+    id: '100746876247412_515976194724961'
+    url: https://www.facebook.com/100683012920950/posts/515976194724961
+54afb457a28afc906c21aa6c90f888ef:mastodon:
+  spec:
+    title: เพิ่ม Port ให้กับ Container ที่ลืม map ไว้ตอนสร้าง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/10/how-to-assign-port-on-existing-container-thai-version/
+  state:
+    id: '113292273155771899'
+    url: https://mastodon.in.th/@webring/113292273155771899
+54afb457a28afc906c21aa6c90f888ef:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/how-to-assign-port-on-existing-container-thai-version/
+  state:
+    shortLink: https://link.webring.in.th/2185
 550abfa4b80cdbbd4fc5218ada90f14d:facebook:
   spec:
     title: 'แก้ปัญหาเมื่อ Flash stock ROM มือถือ Xiaomi แล้วเจอปัญหา "remote: ''Check CRC failed''" [kusumotolab.com]'
