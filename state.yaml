@@ -10638,6 +10638,25 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/jenkins-jenkins-not-able-to-fetch-code-from-remote-git/
   state:
     shortLink: https://webring.page.link/UCGv
+78e832ad07f7467d091ed2a10ec1453d:facebook:
+  spec:
+    title: Android Developer ทำแอพให้รองรับ Accessibility ได้อย่างไรบ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/add-accessibility-in-application-for-android-developer/
+  state:
+    id: '100746876247412_516076734714907'
+    url: https://www.facebook.com/100683012920950/posts/516076734714907
+78e832ad07f7467d091ed2a10ec1453d:mastodon:
+  spec:
+    title: Android Developer ทำแอพให้รองรับ Accessibility ได้อย่างไรบ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/add-accessibility-in-application-for-android-developer/
+  state:
+    id: '113292981732015452'
+    url: https://mastodon.in.th/@webring/113292981732015452
+78e832ad07f7467d091ed2a10ec1453d:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/add-accessibility-in-application-for-android-developer/
+  state:
+    shortLink: https://link.webring.in.th/2186
 78ffd6d8f1eb5f9983a3f715c7dfe939:facebook:
   spec:
     title: Make lint-staged + eslint work in monorepo [nitpum.com]
