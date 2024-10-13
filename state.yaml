@@ -16559,6 +16559,25 @@ b8b3e22bc05f0ee8b6fc3cebad82d187:shorturl:
     url: https://www.karnwong.me/posts/2023/04/book-highlights---managing-transitions-making-the-most-of-change-by-william-bridges/
   state:
     shortLink: https://webring.page.link/SjVn
+b8da0a5480bf6d4e92e718677b04492f:facebook:
+  spec:
+    title: Calling C from Go, Python and Rust benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2024/10/calling-c-from-go-python-and-rust-benchmark/
+  state:
+    id: '100746876247412_516808164641764'
+    url: https://www.facebook.com/100683012920950/posts/516808164641764
+b8da0a5480bf6d4e92e718677b04492f:mastodon:
+  spec:
+    title: Calling C from Go, Python and Rust benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2024/10/calling-c-from-go-python-and-rust-benchmark/
+  state:
+    id: '113297954668868404'
+    url: https://mastodon.in.th/@webring/113297954668868404
+b8da0a5480bf6d4e92e718677b04492f:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/10/calling-c-from-go-python-and-rust-benchmark/
+  state:
+    shortLink: https://link.webring.in.th/2187
 b93c12bca2679456e9c2d8d4595ec8f9:facebook:
   spec:
     title: แฝงตัวในดง Bitcoiner ที่งาน Thailand Bitcoin Conference 2024 [mikkipastel.com]
