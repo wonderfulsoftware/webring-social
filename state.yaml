@@ -20131,6 +20131,25 @@ e2b9454591bd41eb9cdeea3a0a83b0c8:shorturl:
     url: https://neizod.dev/2023/06/30/solve-system-of-linear-equation-with-determinant.html
   state:
     shortLink: https://webring.page.link/4G2p
+e2e3a4e13f66c1c106cfc2f9cc17ed48:facebook:
+  spec:
+    title: ผมไปตรวจ VO2 Max มาครับ แล้วมันดีมากๆ [yothinix.com]
+    url: https://yothinix.com/vo2max-test/
+  state:
+    id: '100746876247412_517615557894358'
+    url: https://www.facebook.com/100683012920950/posts/517615557894358
+e2e3a4e13f66c1c106cfc2f9cc17ed48:mastodon:
+  spec:
+    title: ผมไปตรวจ VO2 Max มาครับ แล้วมันดีมากๆ [yothinix.com]
+    url: https://yothinix.com/vo2max-test/
+  state:
+    id: '113303621169706234'
+    url: https://mastodon.in.th/@webring/113303621169706234
+e2e3a4e13f66c1c106cfc2f9cc17ed48:shorturl:
+  spec:
+    url: https://yothinix.com/vo2max-test/
+  state:
+    shortLink: https://link.webring.in.th/2188
 e34437ae6b3c574007aae37a6f609475:facebook:
   spec:
     title: My notes on `.env` files [dt.in.th]
