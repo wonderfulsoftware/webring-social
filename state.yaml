@@ -7009,6 +7009,25 @@
     url: https://mesodiar.com/devfestcloudbangkok2023-introducing-data-lakehouse-apache-iceberg-slides-f4bad96bba7d?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/nh5Y
+536a345061dc92e5698db177504b4684:facebook:
+  spec:
+    title: ทำความรู้จักกับ Deno [pontakorn.dev]
+    url: https://pontakorn.dev/posts/introduction-to-deno/
+  state:
+    id: '100746876247412_518500337805880'
+    url: https://www.facebook.com/100683012920950/posts/518500337805880
+536a345061dc92e5698db177504b4684:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Deno [pontakorn.dev]
+    url: https://pontakorn.dev/posts/introduction-to-deno/
+  state:
+    id: '113309976638356827'
+    url: https://mastodon.in.th/@webring/113309976638356827
+536a345061dc92e5698db177504b4684:shorturl:
+  spec:
+    url: https://pontakorn.dev/posts/introduction-to-deno/
+  state:
+    shortLink: https://link.webring.in.th/2190
 53d66b3662db807580cc1669e4510b95:facebook:
   spec:
     title: Hello (blog) World! [punn.dev]
