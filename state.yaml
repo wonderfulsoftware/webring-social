@@ -3741,6 +3741,25 @@
     url: https://www.somkiat.cc/tips-wrap-error-in-go/
   state:
     shortLink: https://link.webring.in.th/2017
+2ba4b4e5038189b8f13a863e4eb74a15:facebook:
+  spec:
+    title: '[DB2] How to determine rowsize in table [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/db2-how-to-determine-rowsize-in-table/
+  state:
+    id: '100746876247412_518406234481957'
+    url: https://www.facebook.com/100683012920950/posts/518406234481957
+2ba4b4e5038189b8f13a863e4eb74a15:mastodon:
+  spec:
+    title: '[DB2] How to determine rowsize in table [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/db2-how-to-determine-rowsize-in-table/
+  state:
+    id: '113309274901919234'
+    url: https://mastodon.in.th/@webring/113309274901919234
+2ba4b4e5038189b8f13a863e4eb74a15:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/db2-how-to-determine-rowsize-in-table/
+  state:
+    shortLink: https://link.webring.in.th/2189
 2bb7a2f1739d153ec80fb17ee5087399:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 4 (Teams) [taoisaman.com]
