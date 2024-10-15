@@ -2734,6 +2734,25 @@
     url: https://www.somkiat.cc/hello-redis-7-2/
   state:
     shortLink: https://webring.page.link/z2fW
+1fb4ef8a012ee6ba8b17fae5450d3d29:facebook:
+  spec:
+    title: การจัดการ OpenAPI ใน FastAPI แบบง่าย ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/openapi-in-fastapi/
+  state:
+    id: '100746876247412_518592711129976'
+    url: https://www.facebook.com/100683012920950/posts/518592711129976
+1fb4ef8a012ee6ba8b17fae5450d3d29:mastodon:
+  spec:
+    title: การจัดการ OpenAPI ใน FastAPI แบบง่าย ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/openapi-in-fastapi/
+  state:
+    id: '113310667707605563'
+    url: https://mastodon.in.th/@webring/113310667707605563
+1fb4ef8a012ee6ba8b17fae5450d3d29:shorturl:
+  spec:
+    url: https://www.somkiat.cc/openapi-in-fastapi/
+  state:
+    shortLink: https://link.webring.in.th/2191
 202b8456aeb0ada13469044af09b9171:facebook:
   spec:
     title: เรียนรู้ Generative AI & ChatGPT กับอาจารย์เต้กัน [mikkipastel.com]
