@@ -5527,6 +5527,18 @@
     url: https://naiwaen.debuggingsoft.com/2023/07/configuring-network-between-host-and-guest-vm-in-virtualbox/
   state:
     shortLink: https://webring.page.link/M31o
+414797a0de35ca2a0583e51bfdc6e76b:mastodon:
+  spec:
+    title: มาแชร์ประสบการณ์ SA ให้น้องๆ COMSCI มศว [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/10/share-experience-transfrom-requirement-to-an-application/
+  state:
+    id: '113320596957882438'
+    url: https://mastodon.in.th/@webring/113320596957882438
+414797a0de35ca2a0583e51bfdc6e76b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/share-experience-transfrom-requirement-to-an-application/
+  state:
+    shortLink: https://link.webring.in.th/2192
 417142d1798f834f03b78608976aae71:facebook:
   spec:
     title: Setting up Kafka with Kafka connect from SQL server to Cloud storage (GCS) [mesodiar.com]
