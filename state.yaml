@@ -20948,6 +20948,13 @@ eb090d348a1401b932c60cd629469cbe:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/09/openssh-set-chrootdirectory-for-specific-user-on-windows/
   state:
     shortLink: https://webring.page.link/Yxv3
+eb4f6149a90a02c41b779305b02b1476:facebook:
+  spec:
+    title: 'Joker: Folie à Deux (2024) [neizod.dev]'
+    url: https://neizod.dev/2024/10/16/joker-folie-a-deux.html
+  state:
+    id: '100746876247412_520115234311057'
+    url: https://www.facebook.com/100683012920950/posts/520115234311057
 eb4f6149a90a02c41b779305b02b1476:mastodon:
   spec:
     title: 'Joker: Folie à Deux (2024) [neizod.dev]'
