@@ -19067,6 +19067,25 @@ d3b7895f3b3f07080b4fa161f27f29fe:shorturl:
     url: https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/
   state:
     shortLink: https://link.webring.in.th/1866
+d40ad8b3ea627e5c21411eb46ba2c158:facebook:
+  spec:
+    title: รู้จักกับ Drizzle ORM ผ่าน Next.js [mikelopster.dev]
+    url: https://mikelopster.dev/posts/drizzle-nextjs/
+  state:
+    id: '100746876247412_520884750900772'
+    url: https://www.facebook.com/100683012920950/posts/520884750900772
+d40ad8b3ea627e5c21411eb46ba2c158:mastodon:
+  spec:
+    title: รู้จักกับ Drizzle ORM ผ่าน Next.js [mikelopster.dev]
+    url: https://mikelopster.dev/posts/drizzle-nextjs/
+  state:
+    id: '113327655709548187'
+    url: https://mastodon.in.th/@webring/113327655709548187
+d40ad8b3ea627e5c21411eb46ba2c158:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/drizzle-nextjs/
+  state:
+    shortLink: https://link.webring.in.th/2196
 d427d31ba214257296b1d58c6a31d8f0:facebook:
   spec:
     title: แชร์ประสบการณ์และรีวิว UX/UI Bootcamp (UXB) รุ่นที่ 7 ของ Skooldio [blog.ninprd.com]
