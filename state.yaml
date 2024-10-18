@@ -22423,6 +22423,25 @@ f9b8af3565b0c92ec88fc0adf128e0e5:shorturl:
     url: https://garden.narze.live/glob-import-modules-with-vite/
   state:
     shortLink: https://webring.page.link/vwKX
+fa1998ff308540e1de6ec1a02f2ac409:facebook:
+  spec:
+    title: Enabling gzip/zstd compression in Caddy [dt.in.th]
+    url: https://notes.dt.in.th/CaddyCompression
+  state:
+    id: '100746876247412_520800610909186'
+    url: https://www.facebook.com/100683012920950/posts/520800610909186
+fa1998ff308540e1de6ec1a02f2ac409:mastodon:
+  spec:
+    title: Enabling gzip/zstd compression in Caddy [dt.in.th]
+    url: https://notes.dt.in.th/CaddyCompression
+  state:
+    id: '113326962870970292'
+    url: https://mastodon.in.th/@webring/113326962870970292
+fa1998ff308540e1de6ec1a02f2ac409:shorturl:
+  spec:
+    url: https://notes.dt.in.th/CaddyCompression
+  state:
+    shortLink: https://link.webring.in.th/2195
 fa36ceaca2635cf9e5ade70eb4a33bfd:facebook:
   spec:
     title: สรุป Git command เผื่อได้ใช้กัน [mikkipastel.com]
