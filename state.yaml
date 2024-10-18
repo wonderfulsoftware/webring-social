@@ -5014,6 +5014,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-go02-software-design/
   state:
     shortLink: https://link.webring.in.th/1828
+3b94626ce1218eb71b57c5381b742ee9:facebook:
+  spec:
+    title: คำนวณเงินผ่อน กู้บ้าน/กู้ร่วม [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/loan-haanbaan
+  state:
+    id: '100746876247412_520713470917900'
+    url: https://www.facebook.com/100683012920950/posts/520713470917900
+3b94626ce1218eb71b57c5381b742ee9:mastodon:
+  spec:
+    title: คำนวณเงินผ่อน กู้บ้าน/กู้ร่วม [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/loan-haanbaan
+  state:
+    id: '113326266740707785'
+    url: https://mastodon.in.th/@webring/113326266740707785
+3b94626ce1218eb71b57c5381b742ee9:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/loan-haanbaan
+  state:
+    shortLink: https://link.webring.in.th/2194
 3becd5718c24f558952e5eb7ee93d81c:facebook:
   spec:
     title: ผลจากการ review code ในภาษา Go [somkiat.cc]
