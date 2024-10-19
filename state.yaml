@@ -2544,6 +2544,25 @@
     url: https://janescience.com/blog/giscus
   state:
     shortLink: https://webring.page.link/K4bx
+1d2433e59a55c75878659ed2dee6b3b2:facebook:
+  spec:
+    title: สรุปการทดสอบ REST API ที่สร้างด้วย FastAPI [somkiat.cc]
+    url: https://www.somkiat.cc/testing-with-fastapi/
+  state:
+    id: '100746876247412_521444774178103'
+    url: https://www.facebook.com/100683012920950/posts/521444774178103
+1d2433e59a55c75878659ed2dee6b3b2:mastodon:
+  spec:
+    title: สรุปการทดสอบ REST API ที่สร้างด้วย FastAPI [somkiat.cc]
+    url: https://www.somkiat.cc/testing-with-fastapi/
+  state:
+    id: '113331916396920915'
+    url: https://mastodon.in.th/@webring/113331916396920915
+1d2433e59a55c75878659ed2dee6b3b2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/testing-with-fastapi/
+  state:
+    shortLink: https://link.webring.in.th/2197
 1dd2626ad790e1d2e73e8e2831b8ae6d:facebook:
   spec:
     title: การใช้งาน Generic type ใน TypeScript [thiti.dev]
