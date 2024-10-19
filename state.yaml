@@ -3342,6 +3342,25 @@
     url: https://www.mikkipastel.com/bitcoin-addict-meetup-2023/
   state:
     shortLink: https://webring.page.link/i62f
+2692d7b59877566b8f2e834f3ae1443d:facebook:
+  spec:
+    title: 'AI-102: Implement knowledge mining with Azure AI Search [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai102-implement-knowledge-mining-with-azure-ai-search/
+  state:
+    id: '100746876247412_521537894168791'
+    url: https://www.facebook.com/100683012920950/posts/521537894168791
+2692d7b59877566b8f2e834f3ae1443d:mastodon:
+  spec:
+    title: 'AI-102: Implement knowledge mining with Azure AI Search [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai102-implement-knowledge-mining-with-azure-ai-search/
+  state:
+    id: '113332618488297779'
+    url: https://mastodon.in.th/@webring/113332618488297779
+2692d7b59877566b8f2e834f3ae1443d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai102-implement-knowledge-mining-with-azure-ai-search/
+  state:
+    shortLink: https://link.webring.in.th/2198
 2709bac1ed9e04cf0749bbf01e1048cf:facebook:
   spec:
     title: 'PoC :: ลองจัดการรูปแบบข้อมูลชนิด Floating-point [somkiat.cc]'
