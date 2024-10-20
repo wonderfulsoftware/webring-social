@@ -3019,6 +3019,25 @@
     url: https://blog.kpping.me/posts/iphone-running-hot/
   state:
     shortLink: https://link.webring.in.th/1857
+23535cd6cb6b38070f571fd0672ead8c:facebook:
+  spec:
+    title: Various notes on career-related stuff [karnwong.me]
+    url: https://karnwong.me/posts/2024/10/various-notes-on-career-related-stuff/
+  state:
+    id: '100746876247412_522202070769040'
+    url: https://www.facebook.com/100683012920950/posts/522202070769040
+23535cd6cb6b38070f571fd0672ead8c:mastodon:
+  spec:
+    title: Various notes on career-related stuff [karnwong.me]
+    url: https://karnwong.me/posts/2024/10/various-notes-on-career-related-stuff/
+  state:
+    id: '113337600905346821'
+    url: https://mastodon.in.th/@webring/113337600905346821
+23535cd6cb6b38070f571fd0672ead8c:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/10/various-notes-on-career-related-stuff/
+  state:
+    shortLink: https://link.webring.in.th/2199
 236954767bc9158e3586b9b5b78e6788:facebook:
   spec:
     title: '[NUGET] error NU1101 + warning NU1801 ตอน Build ผ่าน Jenkins Windows Service [debuggingsoft.com]'
