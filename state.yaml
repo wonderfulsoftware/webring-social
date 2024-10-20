@@ -14609,6 +14609,25 @@ a14bbf405dc6667ff6fb94b1cf755409:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/03/how-to-fix-current-branch-xxx-has-no-upstream-branch/
   state:
     shortLink: https://link.webring.in.th/1805
+a1594998c2ff2ce26008ff08cc100bc3:facebook:
+  spec:
+    title: 'สรุป Session: Why use JavaScript when CSS is possible? [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summary-session-why-use-javascript-when-css-is-possible/
+  state:
+    id: '100746876247412_522293610759886'
+    url: https://www.facebook.com/100683012920950/posts/522293610759886
+a1594998c2ff2ce26008ff08cc100bc3:mastodon:
+  spec:
+    title: 'สรุป Session: Why use JavaScript when CSS is possible? [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summary-session-why-use-javascript-when-css-is-possible/
+  state:
+    id: '113338283481638690'
+    url: https://mastodon.in.th/@webring/113338283481638690
+a1594998c2ff2ce26008ff08cc100bc3:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/summary-session-why-use-javascript-when-css-is-possible/
+  state:
+    shortLink: https://link.webring.in.th/2200
 a15d7eb8a3b14282e475ad513fef573f:facebook:
   spec:
     title: How I install Python on macOS - 2023 edition [garden.narze.live]
