@@ -1119,6 +1119,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/02/cr-starbucks-croque-monsieur/
   state:
     shortLink: https://link.webring.in.th/1793
+0ef2ce48fe9cb32d02e7b8c9fce47c1d:facebook:
+  spec:
+    title: '[CR] Starbucks Salted Maple Oatmilk Iced Shaken Espresso [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/cr-starbucks-salted-maple-oatmilk-iced-shaken-espresso/
+  state:
+    id: '100746876247412_522980037357910'
+    url: https://www.facebook.com/100683012920950/posts/522980037357910
+0ef2ce48fe9cb32d02e7b8c9fce47c1d:mastodon:
+  spec:
+    title: '[CR] Starbucks Salted Maple Oatmilk Iced Shaken Espresso [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/cr-starbucks-salted-maple-oatmilk-iced-shaken-espresso/
+  state:
+    id: '113343259042520128'
+    url: https://mastodon.in.th/@webring/113343259042520128
+0ef2ce48fe9cb32d02e7b8c9fce47c1d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/cr-starbucks-salted-maple-oatmilk-iced-shaken-espresso/
+  state:
+    shortLink: https://link.webring.in.th/2201
 0f0cef62b0b6a0ef94370ce3f3fa1da8:facebook:
   spec:
     title: ทำความรู้จักกับ Hoppscotch [somkiat.cc]
