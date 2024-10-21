@@ -3190,6 +3190,25 @@
     url: https://www.somkiat.cc/spring-modulith-1-ga/
   state:
     shortLink: https://webring.page.link/sXEd
+24678e1cf315f4590d3dbeed51c0f1e0:facebook:
+  spec:
+    title: 'ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP2 : วันที่ 1 [kusumotolab.com]'
+    url: https://kusumotolab.com/first-time-singapore-trip-ep-2/
+  state:
+    id: '100746876247412_523065514016029'
+    url: https://www.facebook.com/100683012920950/posts/523065514016029
+24678e1cf315f4590d3dbeed51c0f1e0:mastodon:
+  spec:
+    title: 'ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP2 : วันที่ 1 [kusumotolab.com]'
+    url: https://kusumotolab.com/first-time-singapore-trip-ep-2/
+  state:
+    id: '113343954129445774'
+    url: https://mastodon.in.th/@webring/113343954129445774
+24678e1cf315f4590d3dbeed51c0f1e0:shorturl:
+  spec:
+    url: https://kusumotolab.com/first-time-singapore-trip-ep-2/
+  state:
+    shortLink: https://link.webring.in.th/2202
 24e2fd144a90c69462aaae232229fe2e:facebook:
   spec:
     title: เป็นโควิดครั้งแรก! เป็นยังไงบ้างนะ? [mikkipastel.com]
