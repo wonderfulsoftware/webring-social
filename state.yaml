@@ -7389,6 +7389,25 @@
     url: https://www.mikkipastel.com/beginner-trading-bittoon-trading-club/
   state:
     shortLink: https://webring.page.link/Ms3H
+562ec5b4426c132c48fb4a534a8fd6f4:facebook:
+  spec:
+    title: Food Review - Fats & Angry [lucian.solutions]
+    url: https://lucian.solutions/blog/foodreview-fats-angry
+  state:
+    id: '100746876247412_523153777340536'
+    url: https://www.facebook.com/100683012920950/posts/523153777340536
+562ec5b4426c132c48fb4a534a8fd6f4:mastodon:
+  spec:
+    title: Food Review - Fats & Angry [lucian.solutions]
+    url: https://lucian.solutions/blog/foodreview-fats-angry
+  state:
+    id: '113344644662312985'
+    url: https://mastodon.in.th/@webring/113344644662312985
+562ec5b4426c132c48fb4a534a8fd6f4:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/foodreview-fats-angry
+  state:
+    shortLink: https://link.webring.in.th/2203
 5723f243bab4f11f0b9bfdd15a1188b3:facebook:
   spec:
     title: Paste image to decode QR code [dt.in.th]
