@@ -6325,6 +6325,25 @@
     url: https://www.somkiat.cc/java-21-improve-syntax/
   state:
     shortLink: https://webring.page.link/kuHS
+49bfd7f55a6118ccc124cf145a9e4b13:facebook:
+  spec:
+    title: 'AI-102: Develop solutions with Azure AI Document Intelligence [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai-102-develop-solutions-with-azure-ai-document-intelligence/
+  state:
+    id: '100746876247412_523716127284301'
+    url: https://www.facebook.com/100683012920950/posts/523716127284301
+49bfd7f55a6118ccc124cf145a9e4b13:mastodon:
+  spec:
+    title: 'AI-102: Develop solutions with Azure AI Document Intelligence [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai-102-develop-solutions-with-azure-ai-document-intelligence/
+  state:
+    id: '113348910042063474'
+    url: https://mastodon.in.th/@webring/113348910042063474
+49bfd7f55a6118ccc124cf145a9e4b13:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai-102-develop-solutions-with-azure-ai-document-intelligence/
+  state:
+    shortLink: https://link.webring.in.th/2204
 4a1eae93004543cecb46f5fb9a7b73d2:facebook:
   spec:
     title: เปิดใช้งาน Navigating files with the new code view (beta) ใน GitHub [somkiat.cc]
