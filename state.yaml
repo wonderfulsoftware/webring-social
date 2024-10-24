@@ -16034,6 +16034,25 @@ aefe69ca45a3c3bd519aefe0b9e6eda0:shorturl:
     url: https://www.somkiat.cc/spring-boot-3-2-m2/
   state:
     shortLink: https://webring.page.link/RGvV
+af0d66f1608392b526416d0bc6f58c52:facebook:
+  spec:
+    title: '[DB2] Archive Logs ไม่ Clear (-mtime/ -mmin) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/db2-archive-logs-not-clear/
+  state:
+    id: '100746876247412_525203623802218'
+    url: https://www.facebook.com/100683012920950/posts/525203623802218
+af0d66f1608392b526416d0bc6f58c52:mastodon:
+  spec:
+    title: '[DB2] Archive Logs ไม่ Clear (-mtime/ -mmin) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/db2-archive-logs-not-clear/
+  state:
+    id: '113360231892831798'
+    url: https://mastodon.in.th/@webring/113360231892831798
+af0d66f1608392b526416d0bc6f58c52:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/db2-archive-logs-not-clear/
+  state:
+    shortLink: https://link.webring.in.th/2205
 af9b33063511bcb7ec78eb6619d2c651:facebook:
   spec:
     title: ความสามารถที่น่าสนใจของ Apache Airflow 2.10 [somkiat.cc]
