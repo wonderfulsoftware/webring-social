@@ -4691,6 +4691,25 @@
     url: https://heyfirst.co/blog/realistic-time-estimation-for-project
   state:
     shortLink: https://webring.page.link/EcSc
+350777b193a3064c7aaf830abd7a65ad:facebook:
+  spec:
+    title: สวัสดี Node.js 23 [somkiat.cc]
+    url: https://www.somkiat.cc/nodejs-23/
+  state:
+    id: '100746876247412_525289070460340'
+    url: https://www.facebook.com/100683012920950/posts/525289070460340
+350777b193a3064c7aaf830abd7a65ad:mastodon:
+  spec:
+    title: สวัสดี Node.js 23 [somkiat.cc]
+    url: https://www.somkiat.cc/nodejs-23/
+  state:
+    id: '113360939217721281'
+    url: https://mastodon.in.th/@webring/113360939217721281
+350777b193a3064c7aaf830abd7a65ad:shorturl:
+  spec:
+    url: https://www.somkiat.cc/nodejs-23/
+  state:
+    shortLink: https://link.webring.in.th/2206
 35128330f3accd4827bca496f248e288:facebook:
   spec:
     title: VSCode Extension Pack [garden.narze.live]
