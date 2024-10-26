@@ -739,6 +739,25 @@
     url: https://www.somkiat.cc/note-testing-methodologies-of-jakarta-ee-project/
   state:
     shortLink: https://link.webring.in.th/1883
+0a6ca379f6103a3805e073496bb3b302:facebook:
+  spec:
+    title: มางาน Bitkub Summit 2024 แล้วได้อะไร? มาดูกัน KUB [mikkipastel.com]
+    url: https://www.mikkipastel.com/bitkub-summit-2024/
+  state:
+    id: '100746876247412_526778960311351'
+    url: https://www.facebook.com/100683012920950/posts/526778960311351
+0a6ca379f6103a3805e073496bb3b302:mastodon:
+  spec:
+    title: มางาน Bitkub Summit 2024 แล้วได้อะไร? มาดูกัน KUB [mikkipastel.com]
+    url: https://www.mikkipastel.com/bitkub-summit-2024/
+  state:
+    id: '113372255412176031'
+    url: https://mastodon.in.th/@webring/113372255412176031
+0a6ca379f6103a3805e073496bb3b302:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/bitkub-summit-2024/
+  state:
+    shortLink: https://link.webring.in.th/2208
 0ab0e635acdcc54ec533091109729386:facebook:
   spec:
     title: Accessing user ID in NextAuth.js with JWT session [dt.in.th]
