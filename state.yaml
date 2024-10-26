@@ -12386,6 +12386,25 @@
     url: https://neizod.dev/2024/08/19/deviation-seeker.html
   state:
     shortLink: https://link.webring.in.th/2085
+861d28c14460e2127623d83d56250651:facebook:
+  spec:
+    title: Javascript Bangkok 2.0.0 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2024/10/19/js-bkk-2-0-0.html
+  state:
+    id: '100746876247412_526690590320188'
+    url: https://www.facebook.com/100683012920950/posts/526690590320188
+861d28c14460e2127623d83d56250651:mastodon:
+  spec:
+    title: Javascript Bangkok 2.0.0 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2024/10/19/js-bkk-2-0-0.html
+  state:
+    id: '113371547580967185'
+    url: https://mastodon.in.th/@webring/113371547580967185
+861d28c14460e2127623d83d56250651:shorturl:
+  spec:
+    url: https://blog.oatto.dev/2024/10/19/js-bkk-2-0-0.html
+  state:
+    shortLink: https://link.webring.in.th/2207
 864060347ee9d8a0754b17cbfea3ecca:facebook:
   spec:
     title: สวัสดี .NET Aspire [somkiat.cc]
