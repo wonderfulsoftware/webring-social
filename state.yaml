@@ -10543,6 +10543,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/10/cr-starbucks-mixed-mushroom-whole-wheat-sandwich-vegetarian-menu/
   state:
     shortLink: https://link.webring.in.th/2166
+752b6d3dd6e5a482f417def390f1d93d:facebook:
+  spec:
+    title: Checkerboard pattern for hexagonal tiling [neizod.dev]
+    url: https://neizod.dev/2024/10/27/hexagon-checkerboard.html
+  state:
+    id: '100746876247412_527449763577604'
+    url: https://www.facebook.com/100683012920950/posts/527449763577604
+752b6d3dd6e5a482f417def390f1d93d:mastodon:
+  spec:
+    title: Checkerboard pattern for hexagonal tiling [neizod.dev]
+    url: https://neizod.dev/2024/10/27/hexagon-checkerboard.html
+  state:
+    id: '113377233316687496'
+    url: https://mastodon.in.th/@webring/113377233316687496
+752b6d3dd6e5a482f417def390f1d93d:shorturl:
+  spec:
+    url: https://neizod.dev/2024/10/27/hexagon-checkerboard.html
+  state:
+    shortLink: https://link.webring.in.th/2209
 75e9044e76b5417e59930ae95bde9f45:facebook:
   spec:
     title: '[PowerShell] Snippet Script Copy Files that are listed in a text file [debuggingsoft.com]'
