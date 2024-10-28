@@ -11683,6 +11683,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/03/database-mentor-for-kru-com-student-atthailand-cultural-centre/
   state:
     shortLink: https://link.webring.in.th/1810
+7f815d1dd35f2decc5e531caad7edef9:facebook:
+  spec:
+    title: 'ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP3 : วันที่ 2 [kusumotolab.com]'
+    url: https://kusumotolab.com/first-time-singapore-trip-ep-3/
+  state:
+    id: '100746876247412_528368360152411'
+    url: https://www.facebook.com/100683012920950/posts/528368360152411
+7f815d1dd35f2decc5e531caad7edef9:mastodon:
+  spec:
+    title: 'ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP3 : วันที่ 2 [kusumotolab.com]'
+    url: https://kusumotolab.com/first-time-singapore-trip-ep-3/
+  state:
+    id: '113384281484020072'
+    url: https://mastodon.in.th/@webring/113384281484020072
+7f815d1dd35f2decc5e531caad7edef9:shorturl:
+  spec:
+    url: https://kusumotolab.com/first-time-singapore-trip-ep-3/
+  state:
+    shortLink: https://link.webring.in.th/2212
 7fee71deec17169280f6837f28ac7a60:facebook:
   spec:
     title: RubyConf TH 2023 [garden.narze.live]
