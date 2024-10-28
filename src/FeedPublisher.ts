@@ -133,7 +133,7 @@ export class FeedPublisher {
             }),
           )
         }
-        if (shouldPostTo('bluesky')) {
+        if (shouldPostTo('bluesky') && item.published >= '2024-10-01') {
           out.push(
             BlueskyPost.create({
               key: `${urlHash}:bluesky`,
