@@ -9403,6 +9403,25 @@
     url: https://taoisaman.com/2023/02/21/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-2/
   state:
     shortLink: https://webring.page.link/gK5X
+6a4208b033f83a5f285943dcbe915165:facebook:
+  spec:
+    title: สิ่งที่น่าสนใจใน Technology Radar 2024 Volume 31 [somkiat.cc]
+    url: https://www.somkiat.cc/technology-radar-2024-volume-31/
+  state:
+    id: '100746876247412_528193340169913'
+    url: https://www.facebook.com/100683012920950/posts/528193340169913
+6a4208b033f83a5f285943dcbe915165:mastodon:
+  spec:
+    title: สิ่งที่น่าสนใจใน Technology Radar 2024 Volume 31 [somkiat.cc]
+    url: https://www.somkiat.cc/technology-radar-2024-volume-31/
+  state:
+    id: '113382900557952702'
+    url: https://mastodon.in.th/@webring/113382900557952702
+6a4208b033f83a5f285943dcbe915165:shorturl:
+  spec:
+    url: https://www.somkiat.cc/technology-radar-2024-volume-31/
+  state:
+    shortLink: https://link.webring.in.th/2210
 6a726374535f9350b7917c3c967229bf:facebook:
   spec:
     title: 61 - garden-astro [garden.narze.live]
