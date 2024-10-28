@@ -1,11 +1,13 @@
+import { RichText } from '@atproto/api'
+import { createHash } from 'crypto'
+import { partition, sortBy } from 'lodash-es'
 import redaxios from 'redaxios'
 import { z } from 'zod'
-import { createHash } from 'crypto'
-import { Resource, createResourceType } from './Resource'
+import { getBlueskyClient as getBlueskyAgent } from './bluesky'
 import { env } from './env'
 import { reconciler } from './Reconciler'
+import { Resource, createResourceType } from './Resource'
 import { createShortUrl } from './UrlShortener'
-import { partition, sortBy } from 'lodash-es'
 
 const feedItemSchema = z.object({
   site: z.string(),
@@ -59,6 +61,26 @@ export class FeedPublisher {
       return { id: data.id, url: data.url }
     })
 
+    const BlueskyPost = createResourceType<
+      { url: string; title: string },
+      { uri: string; cid: string }
+    >(async (state, spec) => {
+      if (state) return state
+      const shortUrl = await shortenUrl(spec.url)
+      const agent = await getBlueskyAgent()
+      const richText = new RichText({
+        text: spec.title + '\n\n' + shortUrl,
+      })
+      await richText.detectFacets(agent)
+      const result = await agent.post({
+        text: richText.text,
+        facets: richText.facets,
+        createdAt: new Date().toISOString(),
+      })
+      reconciled = true
+      return { uri: result.uri, cid: result.cid }
+    })
+
     const FacebookPost = createResourceType<
       { url: string; title: string },
       { id: string; url: string }
@@ -76,7 +98,7 @@ export class FeedPublisher {
 
     const feedData = feedSchema.parse(feed.data)
     const resources = selectAndSortFeed(feedData)
-      .flatMap((item): typeof item[] => {
+      .flatMap((item): (typeof item)[] => {
         // Fix malformed URLs in some feeds
         item.url = item.url.replace(
           /^(https:\/\/microbenz\.in\.th)([^/])/,
@@ -108,6 +130,18 @@ export class FeedPublisher {
                 title: `${item.title} [${item.site}]`,
               },
               description: `Facebook post for ${item.url}`,
+            }),
+          )
+        }
+        if (shouldPostTo('bluesky')) {
+          out.push(
+            BlueskyPost.create({
+              key: `${urlHash}:bluesky`,
+              spec: {
+                url: item.url,
+                title: `${item.title} [${item.site}]`,
+              },
+              description: `Bluesky post for ${item.url}`,
             }),
           )
         }
