@@ -15008,6 +15008,25 @@ a4031221ddd4f040891463067c4b004e:shorturl:
     url: https://www.somkiat.cc/robot-framework-6-1-rc-1/
   state:
     shortLink: https://webring.page.link/6bTW
+a4114be50d07186666621c45b61322f3:facebook:
+  spec:
+    title: เมื่อ DX เจอกับ Performance จนเกิดเป็น Elysia [pontakorn.dev]
+    url: https://pontakorn.dev/posts/introduction-to-elysia/
+  state:
+    id: '100746876247412_528277790161468'
+    url: https://www.facebook.com/100683012920950/posts/528277790161468
+a4114be50d07186666621c45b61322f3:mastodon:
+  spec:
+    title: เมื่อ DX เจอกับ Performance จนเกิดเป็น Elysia [pontakorn.dev]
+    url: https://pontakorn.dev/posts/introduction-to-elysia/
+  state:
+    id: '113383590409601384'
+    url: https://mastodon.in.th/@webring/113383590409601384
+a4114be50d07186666621c45b61322f3:shorturl:
+  spec:
+    url: https://pontakorn.dev/posts/introduction-to-elysia/
+  state:
+    shortLink: https://link.webring.in.th/2211
 a44c41ad243cfa047948159d3ca67f03:facebook:
   spec:
     title: ทำความรู้จักกับ Grafana Alloy [somkiat.cc]
