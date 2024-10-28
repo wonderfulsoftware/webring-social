@@ -9258,6 +9258,13 @@
     url: https://kusumotolab.com/recap-domain-driven-design-from-aws-thailand/
   state:
     shortLink: https://webring.page.link/YFeA
+68c17325e31338241fb2bbf5257234ff:bluesky:
+  spec:
+    title: Lightweight Docker image for cURL [garden.narze.live]
+    url: https://garden.narze.live/lightweight-docker-image-for-curl/
+  state:
+    cid: bafyreidxnrolwcfwxp6uerktssm4oaxyzfxmhhjas3xgrkjyqqndwicoy4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7l2fubjcr2t
 68c17325e31338241fb2bbf5257234ff:facebook:
   spec:
     title: Lightweight Docker image for cURL [garden.narze.live]
