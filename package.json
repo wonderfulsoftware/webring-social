@@ -1,6 +1,7 @@
 {
 	"type": "module",
 	"dependencies": {
+		"@atproto/api": "^0.13.12",
 		"@types/js-yaml": "^4.0.5",
 		"@types/lodash-es": "^4.17.6",
 		"@types/node": "^18.11.18",
