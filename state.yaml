@@ -19392,6 +19392,13 @@ d3b7895f3b3f07080b4fa161f27f29fe:shorturl:
     url: https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/
   state:
     shortLink: https://link.webring.in.th/1866
+d40ad8b3ea627e5c21411eb46ba2c158:bluesky:
+  spec:
+    title: รู้จักกับ Drizzle ORM ผ่าน Next.js [mikelopster.dev]
+    url: https://mikelopster.dev/posts/drizzle-nextjs/
+  state:
+    cid: bafyreidw4ioony6yti65jdnfrlrezfyk4am5ax6yd2zq4tdu5s45cjpwfq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7my7j6xlp26
 d40ad8b3ea627e5c21411eb46ba2c158:facebook:
   spec:
     title: รู้จักกับ Drizzle ORM ผ่าน Next.js [mikelopster.dev]
