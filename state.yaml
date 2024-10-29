@@ -14834,6 +14834,13 @@ a14bbf405dc6667ff6fb94b1cf755409:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/03/how-to-fix-current-branch-xxx-has-no-upstream-branch/
   state:
     shortLink: https://link.webring.in.th/1805
+a1594998c2ff2ce26008ff08cc100bc3:bluesky:
+  spec:
+    title: 'สรุป Session: Why use JavaScript when CSS is possible? [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summary-session-why-use-javascript-when-css-is-possible/
+  state:
+    cid: bafyreia2o6f2y5h5cpe4bqeqira53c2wcrbkdplwjzeuq6dr72ww6rxmoe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7nw4nxnnd2x
 a1594998c2ff2ce26008ff08cc100bc3:facebook:
   spec:
     title: 'สรุป Session: Why use JavaScript when CSS is possible? [blog.ninprd.com]'
