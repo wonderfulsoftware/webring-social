@@ -20437,6 +20437,25 @@ e17fce2e30aeb2102e99245725340871:shorturl:
     url: https://neizod.dev/2023/07/19/smallest-enclosing-disk.html
   state:
     shortLink: https://webring.page.link/s3Ay
+e236247690afe8700445e88dc7ec1a58:facebook:
+  spec:
+    title: Illustration - わっぴ～✨ [lucian.solutions]
+    url: https://lucian.solutions/blog/202410-sakurako-idol
+  state:
+    id: '100746876247412_528926460096601'
+    url: https://www.facebook.com/100683012920950/posts/528926460096601
+e236247690afe8700445e88dc7ec1a58:mastodon:
+  spec:
+    title: Illustration - わっぴ～✨ [lucian.solutions]
+    url: https://lucian.solutions/blog/202410-sakurako-idol
+  state:
+    id: '113388550971095545'
+    url: https://mastodon.in.th/@webring/113388550971095545
+e236247690afe8700445e88dc7ec1a58:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202410-sakurako-idol
+  state:
+    shortLink: https://link.webring.in.th/2213
 e2363c48a771b82327a8229d7b848aac:facebook:
   spec:
     title: ทรงกลมในมิติสูง และการย่อ/ขยายมิติดีเทอร์มิแนนต์ [neizod.dev]
@@ -22774,6 +22793,13 @@ f9b8af3565b0c92ec88fc0adf128e0e5:shorturl:
     url: https://garden.narze.live/glob-import-modules-with-vite/
   state:
     shortLink: https://webring.page.link/vwKX
+fa1998ff308540e1de6ec1a02f2ac409:bluesky:
+  spec:
+    title: Enabling gzip/zstd compression in Caddy [dt.in.th]
+    url: https://notes.dt.in.th/CaddyCompression
+  state:
+    cid: bafyreicehhqhhjdq5axzgymgb5qsj3wvso6vyibtpf6shjhf4lxdmh2sua
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7mobo2w4d2v
 fa1998ff308540e1de6ec1a02f2ac409:facebook:
   spec:
     title: Enabling gzip/zstd compression in Caddy [dt.in.th]
