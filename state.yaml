@@ -12483,6 +12483,13 @@
     url: https://neizod.dev/2024/08/19/deviation-seeker.html
   state:
     shortLink: https://link.webring.in.th/2085
+861d28c14460e2127623d83d56250651:bluesky:
+  spec:
+    title: Javascript Bangkok 2.0.0 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2024/10/19/js-bkk-2-0-0.html
+  state:
+    cid: bafyreiansz3wsya2dhjoynwkmvaro4byukdy4gtskcasgbockkka752ara
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7nbzbc7le2h
 861d28c14460e2127623d83d56250651:facebook:
   spec:
     title: Javascript Bangkok 2.0.0 [blog.oatto.dev]
