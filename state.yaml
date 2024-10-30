@@ -15128,6 +15128,13 @@ a4031221ddd4f040891463067c4b004e:shorturl:
     url: https://www.somkiat.cc/robot-framework-6-1-rc-1/
   state:
     shortLink: https://webring.page.link/6bTW
+a4114be50d07186666621c45b61322f3:bluesky:
+  spec:
+    title: เมื่อ DX เจอกับ Performance จนเกิดเป็น Elysia [pontakorn.dev]
+    url: https://pontakorn.dev/posts/introduction-to-elysia/
+  state:
+    cid: bafyreiewboerjgb5qo6sjtbrqf5oq6lhnbbyy3rxajxt4mp7mk6uo4vkny
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7qglif7gr27
 a4114be50d07186666621c45b61322f3:facebook:
   spec:
     title: เมื่อ DX เจอกับ Performance จนเกิดเป็น Elysia [pontakorn.dev]
