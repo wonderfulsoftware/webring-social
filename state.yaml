@@ -5244,6 +5244,25 @@
     url: https://edocstudio.info/
   state:
     shortLink: https://webring.page.link/s1pL
+3c1052a00178cb4d13eb3513d4d9a6b7:facebook:
+  spec:
+    title: 'AI-102: Develop Generative AI solutions with Azure OpenAI Service [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai-102-develop-generative-ai-solutions-with-azure-openai-service/
+  state:
+    id: '100746876247412_529909243331656'
+    url: https://www.facebook.com/100683012920950/posts/529909243331656
+3c1052a00178cb4d13eb3513d4d9a6b7:mastodon:
+  spec:
+    title: 'AI-102: Develop Generative AI solutions with Azure OpenAI Service [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai-102-develop-generative-ai-solutions-with-azure-openai-service/
+  state:
+    id: '113396351623957732'
+    url: https://mastodon.in.th/@webring/113396351623957732
+3c1052a00178cb4d13eb3513d4d9a6b7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai-102-develop-generative-ai-solutions-with-azure-openai-service/
+  state:
+    shortLink: https://link.webring.in.th/2216
 3c1539dae91bcf7d27591031adcddf9e:facebook:
   spec:
     title: อะไรมันซ่อนอยู่ใน CloudWatch กันนะ ทำไมมันกินเงินไปเรื่อยๆเลย [kusumotolab.com]
@@ -9450,6 +9469,13 @@
     url: https://taoisaman.com/2023/02/21/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-2/
   state:
     shortLink: https://webring.page.link/gK5X
+6a4208b033f83a5f285943dcbe915165:bluesky:
+  spec:
+    title: สิ่งที่น่าสนใจใน Technology Radar 2024 Volume 31 [somkiat.cc]
+    url: https://www.somkiat.cc/technology-radar-2024-volume-31/
+  state:
+    cid: bafyreihslbqdce37lmqtgxp63d5q4ugwwpzrzplixe4l6dlg5nozpidd6e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7q54wqoh22c
 6a4208b033f83a5f285943dcbe915165:facebook:
   spec:
     title: สิ่งที่น่าสนใจใน Technology Radar 2024 Volume 31 [somkiat.cc]
