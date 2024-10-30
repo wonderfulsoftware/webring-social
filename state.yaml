@@ -739,6 +739,13 @@
     url: https://www.somkiat.cc/note-testing-methodologies-of-jakarta-ee-project/
   state:
     shortLink: https://link.webring.in.th/1883
+0a6ca379f6103a3805e073496bb3b302:bluesky:
+  spec:
+    title: มางาน Bitkub Summit 2024 แล้วได้อะไร? มาดูกัน KUB [mikkipastel.com]
+    url: https://www.mikkipastel.com/bitkub-summit-2024/
+  state:
+    cid: bafyreiakgxdglvhas4jkmgdso7b6syxtzrf6ajpr5edgj54plyee2dk4au
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7p6p2vtpo2v
 0a6ca379f6103a3805e073496bb3b302:facebook:
   spec:
     title: มางาน Bitkub Summit 2024 แล้วได้อะไร? มาดูกัน KUB [mikkipastel.com]
@@ -5389,6 +5396,25 @@
     url: https://jitrak.dev/posts/post-20-test-double/
   state:
     shortLink: https://webring.page.link/DtK7
+3dd310f1fbc4e102df7847ee29f808e5:facebook:
+  spec:
+    title: อัพเดตโปรเจควงแหวนเว็บ, integrate กับ Bluesky [dt.in.th]
+    url: https://notes.dt.in.th/WebringBsky
+  state:
+    id: '100746876247412_529637656692148'
+    url: https://www.facebook.com/100683012920950/posts/529637656692148
+3dd310f1fbc4e102df7847ee29f808e5:mastodon:
+  spec:
+    title: อัพเดตโปรเจควงแหวนเว็บ, integrate กับ Bluesky [dt.in.th]
+    url: https://notes.dt.in.th/WebringBsky
+  state:
+    id: '113394210399390123'
+    url: https://mastodon.in.th/@webring/113394210399390123
+3dd310f1fbc4e102df7847ee29f808e5:shorturl:
+  spec:
+    url: https://notes.dt.in.th/WebringBsky
+  state:
+    shortLink: https://link.webring.in.th/2214
 3ddec234708692efd41a6b8811fed6cb:facebook:
   spec:
     title: 'Go :: Gorilla Mux กลับมาแล้ว [somkiat.cc]'
