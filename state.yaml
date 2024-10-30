@@ -10616,6 +10616,13 @@
     url: https://naiwaen.debuggingsoft.com/2024/10/cr-starbucks-mixed-mushroom-whole-wheat-sandwich-vegetarian-menu/
   state:
     shortLink: https://link.webring.in.th/2166
+752b6d3dd6e5a482f417def390f1d93d:bluesky:
+  spec:
+    title: Checkerboard pattern for hexagonal tiling [neizod.dev]
+    url: https://neizod.dev/2024/10/27/hexagon-checkerboard.html
+  state:
+    cid: bafyreihrdokklaafgx2d7zc3xsg2pybsa6cbjeevph6clase6vpas2ztau
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7psi4aaq52v
 752b6d3dd6e5a482f417def390f1d93d:facebook:
   spec:
     title: Checkerboard pattern for hexagonal tiling [neizod.dev]
@@ -20567,6 +20574,25 @@ e28a985869358bf7214c302e881d3118:shorturl:
     url: https://yuttakhanb.dev/posts/codecrafters-review/
   state:
     shortLink: https://link.webring.in.th/2047
+e28ca1a69c6489df861284499e950624:facebook:
+  spec:
+    title: ลอง Firebase Data Connect [mikelopster.dev]
+    url: https://mikelopster.dev/posts/firebase-data-connect/
+  state:
+    id: '100746876247412_529797263342854'
+    url: https://www.facebook.com/100683012920950/posts/529797263342854
+e28ca1a69c6489df861284499e950624:mastodon:
+  spec:
+    title: ลอง Firebase Data Connect [mikelopster.dev]
+    url: https://mikelopster.dev/posts/firebase-data-connect/
+  state:
+    id: '113395602354196694'
+    url: https://mastodon.in.th/@webring/113395602354196694
+e28ca1a69c6489df861284499e950624:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/firebase-data-connect/
+  state:
+    shortLink: https://link.webring.in.th/2215
 e2944e3a3f88bdf68e8002dfa0390708:facebook:
   spec:
     title: สรุปเกี่ยวกับแนวทางของการสร้าง Unique Id [somkiat.cc]
