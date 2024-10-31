@@ -5244,6 +5244,13 @@
     url: https://edocstudio.info/
   state:
     shortLink: https://webring.page.link/s1pL
+3c1052a00178cb4d13eb3513d4d9a6b7:bluesky:
+  spec:
+    title: 'AI-102: Develop Generative AI solutions with Azure OpenAI Service [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/ai-102-develop-generative-ai-solutions-with-azure-openai-service/
+  state:
+    cid: bafyreigfukvsxwcgfwhgkgdzi2k5pyguqshm3k6kgyshajjwdz5sz4oxgq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7snkcspmc2j
 3c1052a00178cb4d13eb3513d4d9a6b7:facebook:
   spec:
     title: 'AI-102: Develop Generative AI solutions with Azure OpenAI Service [debuggingsoft.com]'
