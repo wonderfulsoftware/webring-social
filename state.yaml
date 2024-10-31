@@ -20659,6 +20659,13 @@ e28a985869358bf7214c302e881d3118:shorturl:
     url: https://yuttakhanb.dev/posts/codecrafters-review/
   state:
     shortLink: https://link.webring.in.th/2047
+e28ca1a69c6489df861284499e950624:bluesky:
+  spec:
+    title: ลอง Firebase Data Connect [mikelopster.dev]
+    url: https://mikelopster.dev/posts/firebase-data-connect/
+  state:
+    cid: bafyreifipmderdn255bzpmiokyc5zyvkllxgwpztv3ry3svo6v6xdi4d4m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7scwfvkll24
 e28ca1a69c6489df861284499e950624:facebook:
   spec:
     title: ลอง Firebase Data Connect [mikelopster.dev]
