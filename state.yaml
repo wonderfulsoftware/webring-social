@@ -7448,6 +7448,25 @@
     url: https://www.somkiat.cc/sharing-about-chatgpt-and-usecase/
   state:
     shortLink: https://webring.page.link/RgzX
+55d432f65669702a856c519f2d1c4b12:facebook:
+  spec:
+    title: มาลองใช้งาน Fetch Mock สำหรับการจำลอง HTTP Request ของ fetch API [somkiat.cc]
+    url: https://www.somkiat.cc/fetch-mock/
+  state:
+    id: '100746876247412_530446353277945'
+    url: https://www.facebook.com/100683012920950/posts/530446353277945
+55d432f65669702a856c519f2d1c4b12:mastodon:
+  spec:
+    title: มาลองใช้งาน Fetch Mock สำหรับการจำลอง HTTP Request ของ fetch API [somkiat.cc]
+    url: https://www.somkiat.cc/fetch-mock/
+  state:
+    id: '113400572638294211'
+    url: https://mastodon.in.th/@webring/113400572638294211
+55d432f65669702a856c519f2d1c4b12:shorturl:
+  spec:
+    url: https://www.somkiat.cc/fetch-mock/
+  state:
+    shortLink: https://link.webring.in.th/2218
 55e84e9cfb9801dac16ecc9334b1af84:facebook:
   spec:
     title: ทำ API ให้แสดงไฟล์ PDF บน Express [kajame.xyz]
@@ -20557,6 +20576,13 @@ e17fce2e30aeb2102e99245725340871:shorturl:
     url: https://neizod.dev/2023/07/19/smallest-enclosing-disk.html
   state:
     shortLink: https://webring.page.link/s3Ay
+e236247690afe8700445e88dc7ec1a58:bluesky:
+  spec:
+    title: Illustration - わっぴ～✨ [lucian.solutions]
+    url: https://lucian.solutions/blog/202410-sakurako-idol
+  state:
+    cid: bafyreihrjjwbjj6wt56hcndztb5a3xrw6kihrhnugsszqbf6fsxshgipmy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7rz4cubx62p
 e236247690afe8700445e88dc7ec1a58:facebook:
   spec:
     title: Illustration - わっぴ～✨ [lucian.solutions]
