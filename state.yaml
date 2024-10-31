@@ -9970,6 +9970,25 @@
     url: https://naiwaen.debuggingsoft.com/2024/03/example-jenkinsfile-calls-parameterize-powershell-scripts/
   state:
     shortLink: https://link.webring.in.th/1815
+6f7ec86b0088534ecb371d1d7cf8613a:facebook:
+  spec:
+    title: Request and response logging in Elysia [dt.in.th]
+    url: https://notes.dt.in.th/ElysiaLogging
+  state:
+    id: '100746876247412_530362459953001'
+    url: https://www.facebook.com/100683012920950/posts/530362459953001
+6f7ec86b0088534ecb371d1d7cf8613a:mastodon:
+  spec:
+    title: Request and response logging in Elysia [dt.in.th]
+    url: https://notes.dt.in.th/ElysiaLogging
+  state:
+    id: '113399878183657112'
+    url: https://mastodon.in.th/@webring/113399878183657112
+6f7ec86b0088534ecb371d1d7cf8613a:shorturl:
+  spec:
+    url: https://notes.dt.in.th/ElysiaLogging
+  state:
+    shortLink: https://link.webring.in.th/2217
 6f8d09472ed9189d43ec18f9e983a1c2:facebook:
   spec:
     title: 'สรุป Session: Designing Interfaces with ROI as the Primary Goal [blog.ninprd.com]'
@@ -11770,6 +11789,13 @@
     url: https://naiwaen.debuggingsoft.com/2024/03/database-mentor-for-kru-com-student-atthailand-cultural-centre/
   state:
     shortLink: https://link.webring.in.th/1810
+7f815d1dd35f2decc5e531caad7edef9:bluesky:
+  spec:
+    title: 'ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP3 : วันที่ 2 [kusumotolab.com]'
+    url: https://kusumotolab.com/first-time-singapore-trip-ep-3/
+  state:
+    cid: bafyreidnpvglitpfhb7jabwtnjnnw4scdmzf6adjqrnlareurqbvleuthi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7rpajiv6h27
 7f815d1dd35f2decc5e531caad7edef9:facebook:
   spec:
     title: 'ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP3 : วันที่ 2 [kusumotolab.com]'
