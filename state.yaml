@@ -10891,6 +10891,32 @@
     url: https://www.mikkipastel.com/creating-kick-ass-content-with-productive-thinking-method/
   state:
     shortLink: https://webring.page.link/JKzj
+76d8aea22e12c18faa74e673feea9517:bluesky:
+  spec:
+    title: Code Quality & Security with SonarQube [mikelopster.dev]
+    url: https://mikelopster.dev/posts/sonar-code-quality/
+  state:
+    cid: bafyreie6ewwyg75stb4jkwsnoudykiyrfvhshrrkwvfcq7dpmeakawbtxm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7ua3l5bf52a
+76d8aea22e12c18faa74e673feea9517:facebook:
+  spec:
+    title: Code Quality & Security with SonarQube [mikelopster.dev]
+    url: https://mikelopster.dev/posts/sonar-code-quality/
+  state:
+    id: '100746876247412_531123916543522'
+    url: https://www.facebook.com/100683012920950/posts/531123916543522
+76d8aea22e12c18faa74e673feea9517:mastodon:
+  spec:
+    title: Code Quality & Security with SonarQube [mikelopster.dev]
+    url: https://mikelopster.dev/posts/sonar-code-quality/
+  state:
+    id: '113405567148997148'
+    url: https://mastodon.in.th/@webring/113405567148997148
+76d8aea22e12c18faa74e673feea9517:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/sonar-code-quality/
+  state:
+    shortLink: https://link.webring.in.th/2219
 76eaef6dc03a57b74cd40e0155f20d2a:facebook:
   spec:
     title: 'สรุป Live Money101: รู้ 9 ข้อนี้ การเงินน่าจะดีขึ้นมั้ง ? (TAXBugnoms x DataRockie) [debuggingsoft.com]'
