@@ -4515,6 +4515,32 @@
     url: https://mesodiar.com/2024/08/20/google-io-connect-beijing-2024-gde-summit/
   state:
     shortLink: https://link.webring.in.th/2089
+3189d267bc537aa2a0eb7b730f65043f:bluesky:
+  spec:
+    title: 'มาลองเรียน Observability in Action: Beta รุ่น 1 @SCK Dojo [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/learn-observability-in-action-beta-1-sck-dojo/
+  state:
+    cid: bafyreie4p7yxklzk5r7ml52ixjtei765dmkdwsf5c4s4ie2uzyyygrpbtm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7ujnf522u2l
+3189d267bc537aa2a0eb7b730f65043f:facebook:
+  spec:
+    title: 'มาลองเรียน Observability in Action: Beta รุ่น 1 @SCK Dojo [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/learn-observability-in-action-beta-1-sck-dojo/
+  state:
+    id: '100746876247412_531212599867987'
+    url: https://www.facebook.com/100683012920950/posts/531212599867987
+3189d267bc537aa2a0eb7b730f65043f:mastodon:
+  spec:
+    title: 'มาลองเรียน Observability in Action: Beta รุ่น 1 @SCK Dojo [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/10/learn-observability-in-action-beta-1-sck-dojo/
+  state:
+    id: '113406239352981559'
+    url: https://mastodon.in.th/@webring/113406239352981559
+3189d267bc537aa2a0eb7b730f65043f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/10/learn-observability-in-action-beta-1-sck-dojo/
+  state:
+    shortLink: https://link.webring.in.th/2220
 3197b490f5573a8bbb0706935423b23f:facebook:
   spec:
     title: วันสุดท้าย ที่เป็นแค่จุดเริ่มต้น กับค่าย iCreator Camp 2024 [mikkipastel.com]
