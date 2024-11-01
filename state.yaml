@@ -7272,6 +7272,32 @@
     url: https://www.somkiat.cc/note-chatgpt-prompt-engineering-for-developers/
   state:
     shortLink: https://webring.page.link/iQLk
+525e4681a8d58d43d64e145c50bc4802:bluesky:
+  spec:
+    title: รายชื่อเครื่องมือสำหรับ Mock API Server ที่น่าสนใจ มีอะไรบ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/mock-api-server-tools/
+  state:
+    cid: bafyreid4ykdvxa4bu2hbqltez6noqtpiv77cff44e6umhkueeapbvkpppu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7utfvqad42l
+525e4681a8d58d43d64e145c50bc4802:facebook:
+  spec:
+    title: รายชื่อเครื่องมือสำหรับ Mock API Server ที่น่าสนใจ มีอะไรบ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/mock-api-server-tools/
+  state:
+    id: '100746876247412_531296703192910'
+    url: https://www.facebook.com/100683012920950/posts/531296703192910
+525e4681a8d58d43d64e145c50bc4802:mastodon:
+  spec:
+    title: รายชื่อเครื่องมือสำหรับ Mock API Server ที่น่าสนใจ มีอะไรบ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/mock-api-server-tools/
+  state:
+    id: '113406926875975368'
+    url: https://mastodon.in.th/@webring/113406926875975368
+525e4681a8d58d43d64e145c50bc4802:shorturl:
+  spec:
+    url: https://www.somkiat.cc/mock-api-server-tools/
+  state:
+    shortLink: https://link.webring.in.th/2221
 53421a8f5a6f8ce1ffe357014a815a94:facebook:
   spec:
     title: Fixed Node ‘ERR_OSSL_EVP_UNSUPPORTED (0308010C:digital envelope routines::unsupported) [debuggingsoft.com]
