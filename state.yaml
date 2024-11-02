@@ -10309,6 +10309,32 @@
     url: https://www.somkiat.cc/seleniumlibrary-6-1-3/
   state:
     shortLink: https://webring.page.link/sfv6
+70a30db754020923f2232c9768fc170a:bluesky:
+  spec:
+    title: มารู้จักกับ gRPC และ Go กัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/grpc-go/
+  state:
+    cid: bafyreidzn3p7bnjt5fcszp7tdrs24nsz335scj5j3khqzgm32eklueqdy4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7wpxp36hd2o
+70a30db754020923f2232c9768fc170a:facebook:
+  spec:
+    title: มารู้จักกับ gRPC และ Go กัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/grpc-go/
+  state:
+    id: '100746876247412_531858189803428'
+    url: https://www.facebook.com/100683012920950/posts/531858189803428
+70a30db754020923f2232c9768fc170a:mastodon:
+  spec:
+    title: มารู้จักกับ gRPC และ Go กัน [mikelopster.dev]
+    url: https://mikelopster.dev/posts/grpc-go/
+  state:
+    id: '113411187950361552'
+    url: https://mastodon.in.th/@webring/113411187950361552
+70a30db754020923f2232c9768fc170a:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/grpc-go/
+  state:
+    shortLink: https://link.webring.in.th/2222
 71013f3d8745173525156556dcc0202a:facebook:
   spec:
     title: แก้ปัญหาแอร์น้ำหยดแบบเร่งด่วน [debuggingsoft.com]
