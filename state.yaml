@@ -5676,6 +5676,32 @@
     url: https://www.somkiat.cc/how-to-develop-artifacts/
   state:
     shortLink: https://link.webring.in.th/2114
+3fdf7f429586c1dfd71c1b409cf6cb17:bluesky:
+  spec:
+    title: 'สรุป Session จากงาน SCBX Unleashing CX: EP3 Figma Bangkok Meetup [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summarize-figma-bangkok-meetup-2024/
+  state:
+    cid: bafyreiatviuwo464faxdz4uli5il4puza2ioba6obyjcuh2s6j2vbx5sr4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7wzxvjtjs2o
+3fdf7f429586c1dfd71c1b409cf6cb17:facebook:
+  spec:
+    title: 'สรุป Session จากงาน SCBX Unleashing CX: EP3 Figma Bangkok Meetup [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summarize-figma-bangkok-meetup-2024/
+  state:
+    id: '100746876247412_531948939794353'
+    url: https://www.facebook.com/100683012920950/posts/531948939794353
+3fdf7f429586c1dfd71c1b409cf6cb17:mastodon:
+  spec:
+    title: 'สรุป Session จากงาน SCBX Unleashing CX: EP3 Figma Bangkok Meetup [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summarize-figma-bangkok-meetup-2024/
+  state:
+    id: '113411892082894168'
+    url: https://mastodon.in.th/@webring/113411892082894168
+3fdf7f429586c1dfd71c1b409cf6cb17:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/summarize-figma-bangkok-meetup-2024/
+  state:
+    shortLink: https://link.webring.in.th/2223
 3fedf1a9372b64f3d7e2c618237ea943:facebook:
   spec:
     title: KM มันควรสร้างตอนที่ยังอยู่ ไม่ใช่มาสร้างตอนที่จะลาออกไป [debuggingsoft.com]
