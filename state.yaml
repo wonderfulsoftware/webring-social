@@ -12726,6 +12726,32 @@
     url: https://jitrak.dev/posts/post-17-pair-programming/
   state:
     shortLink: https://webring.page.link/t5H7
+85befcce6365013ba7c45e7b5b2861b2:bluesky:
+  spec:
+    title: Watchlist ราคาหุ้น USA [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/watchlist-me
+  state:
+    cid: bafyreiaxa6r3kqqscsjlttkykkqzjaeqns7fw6taaj3tfbo7v2etdaprhm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7zaqlfw332k
+85befcce6365013ba7c45e7b5b2861b2:facebook:
+  spec:
+    title: Watchlist ราคาหุ้น USA [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/watchlist-me
+  state:
+    id: '100746876247412_532587626397151'
+    url: https://www.facebook.com/100683012920950/posts/532587626397151
+85befcce6365013ba7c45e7b5b2861b2:mastodon:
+  spec:
+    title: Watchlist ราคาหุ้น USA [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/watchlist-me
+  state:
+    id: '113416871962683988'
+    url: https://mastodon.in.th/@webring/113416871962683988
+85befcce6365013ba7c45e7b5b2861b2:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/watchlist-me
+  state:
+    shortLink: https://link.webring.in.th/2225
 85f66a0e7249d28ea4fa0e3d78347093:facebook:
   spec:
     title: J&T Express เหมือนจะดี แต่ทว่าช้าและของหาย [debuggingsoft.com]
