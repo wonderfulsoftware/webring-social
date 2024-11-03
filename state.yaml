@@ -11864,6 +11864,32 @@
     url: https://www.somkiat.cc/hello-java-20/
   state:
     shortLink: https://webring.page.link/Mvr6
+7e2cde624d9a444cfe096071fd924fa7:bluesky:
+  spec:
+    title: สรุปความสามารถที่น่าสนใจของ ChatGPT, Claud.ai และ GitHub Copilot [somkiat.cc]
+    url: https://www.somkiat.cc/update-new-features-gen-ai/
+  state:
+    cid: bafyreib3txnxi3p6hfen7ecsy3tdom6f7tey7wwrrjnhgwzo2l2qiyjldq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3l7zkkcsfya2y
+7e2cde624d9a444cfe096071fd924fa7:facebook:
+  spec:
+    title: สรุปความสามารถที่น่าสนใจของ ChatGPT, Claud.ai และ GitHub Copilot [somkiat.cc]
+    url: https://www.somkiat.cc/update-new-features-gen-ai/
+  state:
+    id: '100746876247412_532670883055492'
+    url: https://www.facebook.com/100683012920950/posts/532670883055492
+7e2cde624d9a444cfe096071fd924fa7:mastodon:
+  spec:
+    title: สรุปความสามารถที่น่าสนใจของ ChatGPT, Claud.ai และ GitHub Copilot [somkiat.cc]
+    url: https://www.somkiat.cc/update-new-features-gen-ai/
+  state:
+    id: '113417562261973585'
+    url: https://mastodon.in.th/@webring/113417562261973585
+7e2cde624d9a444cfe096071fd924fa7:shorturl:
+  spec:
+    url: https://www.somkiat.cc/update-new-features-gen-ai/
+  state:
+    shortLink: https://link.webring.in.th/2226
 7e3176c9b3e38999104cc113741f43fb:facebook:
   spec:
     title: Re-stream Twitch to Facebook Live [garden.narze.live]
