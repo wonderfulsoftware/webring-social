@@ -20114,6 +20114,32 @@ d6bae60a5f48c31eeae767affbecd98b:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/08/qa-meetup-at-lseg-note/
   state:
     shortLink: https://webring.page.link/27jV
+d6c9b006e22c90a3f49b8547b7e1fcfe:bluesky:
+  spec:
+    title: มาลองเล่น Google Chrome Built-in AI API กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/google-chrome-ai-api/
+  state:
+    cid: bafyreibjw344b2fis4ovutu7vchj6k7zeyj42kpqzo7iwcny6zu3lhgjiq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3la3r74oq3r2k
+d6c9b006e22c90a3f49b8547b7e1fcfe:facebook:
+  spec:
+    title: มาลองเล่น Google Chrome Built-in AI API กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/google-chrome-ai-api/
+  state:
+    id: '100746876247412_533296516326262'
+    url: https://www.facebook.com/100683012920950/posts/533296516326262
+d6c9b006e22c90a3f49b8547b7e1fcfe:mastodon:
+  spec:
+    title: มาลองเล่น Google Chrome Built-in AI API กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/google-chrome-ai-api/
+  state:
+    id: '113422533849873330'
+    url: https://mastodon.in.th/@webring/113422533849873330
+d6c9b006e22c90a3f49b8547b7e1fcfe:shorturl:
+  spec:
+    url: https://www.somkiat.cc/google-chrome-ai-api/
+  state:
+    shortLink: https://link.webring.in.th/2227
 d70dfad0a66593f28662eb0eea706a43:facebook:
   spec:
     title: ความเร็วแบบ polylog [neizod.dev]
