@@ -19005,6 +19005,32 @@ cbad40833b0865bf6319124c0d563fa1:shorturl:
     url: https://www.mikkipastel.com/random-lucky-winners-web3-chainlink-vrf/
   state:
     shortLink: https://webring.page.link/Sw7x
+cbaf03287d2a694770fe524212013080:bluesky:
+  spec:
+    title: '[InfluxDb] สร้าง Username/Password ผ่าน influxdb-cli บน MacOS [thanapon.info]'
+    url: https://thanapon.info/influxdb-cli-create-user/
+  state:
+    cid: bafyreicco2j6xcdi2qxgkfguaezi65jlc6tocul7w7fsg7ikiukqrsxydi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3la6bddqeav2y
+cbaf03287d2a694770fe524212013080:facebook:
+  spec:
+    title: '[InfluxDb] สร้าง Username/Password ผ่าน influxdb-cli บน MacOS [thanapon.info]'
+    url: https://thanapon.info/influxdb-cli-create-user/
+  state:
+    id: '100746876247412_533988319590415'
+    url: https://www.facebook.com/100683012920950/posts/533988319590415
+cbaf03287d2a694770fe524212013080:mastodon:
+  spec:
+    title: '[InfluxDb] สร้าง Username/Password ผ่าน influxdb-cli บน MacOS [thanapon.info]'
+    url: https://thanapon.info/influxdb-cli-create-user/
+  state:
+    id: '113428171890344052'
+    url: https://mastodon.in.th/@webring/113428171890344052
+cbaf03287d2a694770fe524212013080:shorturl:
+  spec:
+    url: https://thanapon.info/influxdb-cli-create-user/
+  state:
+    shortLink: https://link.webring.in.th/2228
 cbedb9317a83e62f89c145a9be52d5f9:facebook:
   spec:
     title: Feeds 2.5, bring back files database [llun.me]
