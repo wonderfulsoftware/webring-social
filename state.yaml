@@ -7654,6 +7654,32 @@
     url: https://lucian.solutions/blog/foodreview-fats-angry
   state:
     shortLink: https://link.webring.in.th/2203
+56ce8a4181ecd7f2be4b5262326bd07d:bluesky:
+  spec:
+    title: เมื่อ DEV ลองไป Workshop Microsoft 365 Admin + Microsoft Defender [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/dev-take-course-workshop-microsoft-365-admin-with-microsoft-defender-by-zabbix-in-thailand/
+  state:
+    cid: bafyreieajtlcs2u42p5xusdo77gzdekzfmzqr7vt54y4i4xzw6nrrrmrqy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3la6vba34rj2r
+56ce8a4181ecd7f2be4b5262326bd07d:facebook:
+  spec:
+    title: เมื่อ DEV ลองไป Workshop Microsoft 365 Admin + Microsoft Defender [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/dev-take-course-workshop-microsoft-365-admin-with-microsoft-defender-by-zabbix-in-thailand/
+  state:
+    id: '100746876247412_534155406240373'
+    url: https://www.facebook.com/100683012920950/posts/534155406240373
+56ce8a4181ecd7f2be4b5262326bd07d:mastodon:
+  spec:
+    title: เมื่อ DEV ลองไป Workshop Microsoft 365 Admin + Microsoft Defender [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/dev-take-course-workshop-microsoft-365-admin-with-microsoft-defender-by-zabbix-in-thailand/
+  state:
+    id: '113429575242880412'
+    url: https://mastodon.in.th/@webring/113429575242880412
+56ce8a4181ecd7f2be4b5262326bd07d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/11/dev-take-course-workshop-microsoft-365-admin-with-microsoft-defender-by-zabbix-in-thailand/
+  state:
+    shortLink: https://link.webring.in.th/2230
 5723f243bab4f11f0b9bfdd15a1188b3:facebook:
   spec:
     title: Paste image to decode QR code [dt.in.th]
