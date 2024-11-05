@@ -6868,6 +6868,32 @@
     url: https://www.mikkipastel.com/introduction-tripster-travel-pass-nft-project/
   state:
     shortLink: https://webring.page.link/1hpM
+4d5edb71de177106d4d1f6e03d4736af:bluesky:
+  spec:
+    title: 0260 | usb to serial driver สำหรับ windows arm [icez.net]
+    url: https://www.icez.net/blog/167553/0260-usb-to-serial-driver-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-windows-arm
+  state:
+    cid: bafyreihay5elflvnzmnm6rnjslnvvtdj3lx2b4e4of4elh3teg6srv5evm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3la77syn5qx2w
+4d5edb71de177106d4d1f6e03d4736af:facebook:
+  spec:
+    title: 0260 | usb to serial driver สำหรับ windows arm [icez.net]
+    url: https://www.icez.net/blog/167553/0260-usb-to-serial-driver-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-windows-arm
+  state:
+    id: '100746876247412_534251626230751'
+    url: https://www.facebook.com/100683012920950/posts/534251626230751
+4d5edb71de177106d4d1f6e03d4736af:mastodon:
+  spec:
+    title: 0260 | usb to serial driver สำหรับ windows arm [icez.net]
+    url: https://www.icez.net/blog/167553/0260-usb-to-serial-driver-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-windows-arm
+  state:
+    id: '113430318000041659'
+    url: https://mastodon.in.th/@webring/113430318000041659
+4d5edb71de177106d4d1f6e03d4736af:shorturl:
+  spec:
+    url: https://www.icez.net/blog/167553/0260-usb-to-serial-driver-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-windows-arm
+  state:
+    shortLink: https://link.webring.in.th/2231
 4d9c6de22367f1ca901988f15ecf88b8:facebook:
   spec:
     title: เครื่องมือในการแปลงจาก Ingress เป็น Gateway API ใน Kubernetes [somkiat.cc]
