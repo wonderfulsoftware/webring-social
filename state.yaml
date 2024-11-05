@@ -10596,6 +10596,32 @@
     url: https://blog.ninprd.com/blog/wordpress-meetup-wordpress-security/
   state:
     shortLink: https://link.webring.in.th/2063
+72b0b46866640f2553237a007c2b3923:bluesky:
+  spec:
+    title: ลองใช้งาน GenAI Script จาก Microsoft ในการสร้าง test data ของระบบงาน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-genai-script/
+  state:
+    cid: bafyreihulnii6fhhq5muxjlmdw6jxfdusofxv6q3jnlisrrwfn4npvc7eu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3la6lgmjplq2w
+72b0b46866640f2553237a007c2b3923:facebook:
+  spec:
+    title: ลองใช้งาน GenAI Script จาก Microsoft ในการสร้าง test data ของระบบงาน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-genai-script/
+  state:
+    id: '100746876247412_534072866248627'
+    url: https://www.facebook.com/100683012920950/posts/534072866248627
+72b0b46866640f2553237a007c2b3923:mastodon:
+  spec:
+    title: ลองใช้งาน GenAI Script จาก Microsoft ในการสร้าง test data ของระบบงาน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-genai-script/
+  state:
+    id: '113428883519810531'
+    url: https://mastodon.in.th/@webring/113428883519810531
+72b0b46866640f2553237a007c2b3923:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-genai-script/
+  state:
+    shortLink: https://link.webring.in.th/2229
 72ce6a11d2da2e203e5600bd552ce1b5:facebook:
   spec:
     title: มาอัพเดตเทคกับงาน DevFest Bangkok 2023 [mikkipastel.com]
