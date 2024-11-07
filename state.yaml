@@ -20631,6 +20631,32 @@ dc28e0b375bb5aa2b9fc5f69db58b059:shorturl:
     url: https://www.somkiat.cc/net-8-native-aot-with-aspnet-core/
   state:
     shortLink: https://webring.page.link/5j3F
+dc34bc6e07dbaaaf1a8bc9a2efbf9953:bluesky:
+  spec:
+    title: สรุปการอ่านเรื่อง How we run migrations across 2,800 microservices [somkiat.cc]
+    url: https://www.somkiat.cc/note-how-migrations-across-2800-microservices/
+  state:
+    cid: bafyreifadyfdlawzpp4tti7nibizrok5bgb5e3conixc67ggkfkfyx4qmi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ladmecrkdd2m
+dc34bc6e07dbaaaf1a8bc9a2efbf9953:facebook:
+  spec:
+    title: สรุปการอ่านเรื่อง How we run migrations across 2,800 microservices [somkiat.cc]
+    url: https://www.somkiat.cc/note-how-migrations-across-2800-microservices/
+  state:
+    id: '100746876247412_535498236106090'
+    url: https://www.facebook.com/100683012920950/posts/535498236106090
+dc34bc6e07dbaaaf1a8bc9a2efbf9953:mastodon:
+  spec:
+    title: สรุปการอ่านเรื่อง How we run migrations across 2,800 microservices [somkiat.cc]
+    url: https://www.somkiat.cc/note-how-migrations-across-2800-microservices/
+  state:
+    id: '113440207814690233'
+    url: https://mastodon.in.th/@webring/113440207814690233
+dc34bc6e07dbaaaf1a8bc9a2efbf9953:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-how-migrations-across-2800-microservices/
+  state:
+    shortLink: https://link.webring.in.th/2233
 dc612d03fc7d7dbc6a2306d6adef4600:facebook:
   spec:
     title: สร้างระบบ Monitoring Springboot + Prometheus + Grafana ด้วย Docker [poolsawat.com]
