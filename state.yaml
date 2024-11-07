@@ -3261,6 +3261,32 @@
     url: https://www.mikkipastel.com/covid-19-first-time-2024/
   state:
     shortLink: https://link.webring.in.th/2020
+24eca9409f1ead35e7f4f2f3d3e1570f:bluesky:
+  spec:
+    title: How to fixed a huge sc.user_paged.1.etl in %userprofile%\AppData\Local\Temp\PW [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/how-to-fixed-a-huge-sc-user_paged-1-etl-in-appdata-local-temp-pw/
+  state:
+    cid: bafyreifl7axa6oblr6ianckdajp65wnsqsz6b6yomyr2pwug5n2gm5452a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ladcfgpje32q
+24eca9409f1ead35e7f4f2f3d3e1570f:facebook:
+  spec:
+    title: How to fixed a huge sc.user_paged.1.etl in %userprofile%\AppData\Local\Temp\PW [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/how-to-fixed-a-huge-sc-user_paged-1-etl-in-appdata-local-temp-pw/
+  state:
+    id: '100746876247412_535419362780644'
+    url: https://www.facebook.com/100683012920950/posts/535419362780644
+24eca9409f1ead35e7f4f2f3d3e1570f:mastodon:
+  spec:
+    title: How to fixed a huge sc.user_paged.1.etl in %userprofile%\AppData\Local\Temp\PW [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/how-to-fixed-a-huge-sc-user_paged-1-etl-in-appdata-local-temp-pw/
+  state:
+    id: '113439506194642929'
+    url: https://mastodon.in.th/@webring/113439506194642929
+24eca9409f1ead35e7f4f2f3d3e1570f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/11/how-to-fixed-a-huge-sc-user_paged-1-etl-in-appdata-local-temp-pw/
+  state:
+    shortLink: https://link.webring.in.th/2232
 253a7115306a60032c6562f77c7986a6:facebook:
   spec:
     title: Windows11/10 OpenSSH Server Public Key authentication [debuggingsoft.com]
