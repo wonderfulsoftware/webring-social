@@ -15506,6 +15506,32 @@ a35d5791840c02d1e557b208bc656cfa:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/01/devclub2-databases-at-aws-note/
   state:
     shortLink: https://link.webring.in.th/1739
+a388b0aa435bd28a2d2931657541ea23:bluesky:
+  spec:
+    title: '[CR] Starbucks Homsuwan Pineapple Cold Brew [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/11/cr-starbucks-homsuwan-pineapple-cold-brew/
+  state:
+    cid: bafyreih27zesu7erlclgpfaidxbzmmzfde54qo3zo6vlbbxpu2nrk7g5te
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lag4tatcdr2w
+a388b0aa435bd28a2d2931657541ea23:facebook:
+  spec:
+    title: '[CR] Starbucks Homsuwan Pineapple Cold Brew [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/11/cr-starbucks-homsuwan-pineapple-cold-brew/
+  state:
+    id: '100746876247412_536217086034205'
+    url: https://www.facebook.com/100683012920950/posts/536217086034205
+a388b0aa435bd28a2d2931657541ea23:mastodon:
+  spec:
+    title: '[CR] Starbucks Homsuwan Pineapple Cold Brew [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/11/cr-starbucks-homsuwan-pineapple-cold-brew/
+  state:
+    id: '113445870062641421'
+    url: https://mastodon.in.th/@webring/113445870062641421
+a388b0aa435bd28a2d2931657541ea23:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/11/cr-starbucks-homsuwan-pineapple-cold-brew/
+  state:
+    shortLink: https://link.webring.in.th/2235
 a4031221ddd4f040891463067c4b004e:facebook:
   spec:
     title: Robot Framework 6.1 rc 1 ออกมาแล้ว [somkiat.cc]
