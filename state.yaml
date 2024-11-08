@@ -11930,6 +11930,32 @@
     url: https://blog.ninprd.com/blog/dont-regret-to-delete-some-blog/
   state:
     shortLink: https://link.webring.in.th/1900
+7d852c7df9ff6eee38dfcc300cfe52dd:bluesky:
+  spec:
+    title: อัพเดตเทคบ้านเขียวประจำปี กับงาน LINE Thailand Developer Conference 2024 [mikkipastel.com]
+    url: https://www.mikkipastel.com/line-thailand-developer-conference-2024/
+  state:
+    cid: bafyreibvbgtlopjgjtgdgxkdg332oewrfcanchtilgjpczwaq6rzqmkqn4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3laggndv2vb2g
+7d852c7df9ff6eee38dfcc300cfe52dd:facebook:
+  spec:
+    title: อัพเดตเทคบ้านเขียวประจำปี กับงาน LINE Thailand Developer Conference 2024 [mikkipastel.com]
+    url: https://www.mikkipastel.com/line-thailand-developer-conference-2024/
+  state:
+    id: '100746876247412_536301806025733'
+    url: https://www.facebook.com/100683012920950/posts/536301806025733
+7d852c7df9ff6eee38dfcc300cfe52dd:mastodon:
+  spec:
+    title: อัพเดตเทคบ้านเขียวประจำปี กับงาน LINE Thailand Developer Conference 2024 [mikkipastel.com]
+    url: https://www.mikkipastel.com/line-thailand-developer-conference-2024/
+  state:
+    id: '113446560908524822'
+    url: https://mastodon.in.th/@webring/113446560908524822
+7d852c7df9ff6eee38dfcc300cfe52dd:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/line-thailand-developer-conference-2024/
+  state:
+    shortLink: https://link.webring.in.th/2236
 7dfb10f317ef92fba30c628cbebbf8d3:facebook:
   spec:
     title: การเปลี่ยนแปลงของ Chrome Driver สำหรับ Google Chrome 115 ขึ้นไป [somkiat.cc]
