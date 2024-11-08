@@ -13782,6 +13782,32 @@
     url: https://jitrak.dev/posts/post-16-sops/
   state:
     shortLink: https://webring.page.link/sdNG
+912bde2cb4b236c827bac497f94759f4:bluesky:
+  spec:
+    title: คู่มือเบื้องต้น Google sheet ที่ใครก็เอาไปใช้ได้ ตอนที่ 1 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-1
+  state:
+    cid: bafyreigsdpogpe5eneksgrcmez4yvsnlsdrad7xztnbd5xm6k3x4w2q3ya
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lafspidz5b2q
+912bde2cb4b236c827bac497f94759f4:facebook:
+  spec:
+    title: คู่มือเบื้องต้น Google sheet ที่ใครก็เอาไปใช้ได้ ตอนที่ 1 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-1
+  state:
+    id: '100746876247412_536128352709745'
+    url: https://www.facebook.com/100683012920950/posts/536128352709745
+912bde2cb4b236c827bac497f94759f4:mastodon:
+  spec:
+    title: คู่มือเบื้องต้น Google sheet ที่ใครก็เอาไปใช้ได้ ตอนที่ 1 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-1
+  state:
+    id: '113445158226068151'
+    url: https://mastodon.in.th/@webring/113445158226068151
+912bde2cb4b236c827bac497f94759f4:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-1
+  state:
+    shortLink: https://link.webring.in.th/2234
 913fbdd71169fbb105899d7bb9623f92:facebook:
   spec:
     title: 'Domain-driven design: Business domain and Subdomain [boonsong.dev]'
