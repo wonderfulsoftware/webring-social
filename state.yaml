@@ -1,3 +1,29 @@
+003c85cd040f6c5ba55d25ffec3f12e2:bluesky:
+  spec:
+    title: How to fixed mvnw install error distributionUrl is not valid, must match -bin.zip or maven-mvnd-.zip [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/how-to-fixed-mvnw-install-error-distributionurl-is-not-valid-must-match-bin-zip-or-maven-mvnd-zip/
+  state:
+    cid: bafyreidqqlsqf3offt6ujuml6ndgrzl2uo37nd32pcei7pp7daxozxy7si
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3laid5h43vi2u
+003c85cd040f6c5ba55d25ffec3f12e2:facebook:
+  spec:
+    title: How to fixed mvnw install error distributionUrl is not valid, must match -bin.zip or maven-mvnd-.zip [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/how-to-fixed-mvnw-install-error-distributionurl-is-not-valid-must-match-bin-zip-or-maven-mvnd-zip/
+  state:
+    id: '100746876247412_536867232635857'
+    url: https://www.facebook.com/100683012920950/posts/536867232635857
+003c85cd040f6c5ba55d25ffec3f12e2:mastodon:
+  spec:
+    title: How to fixed mvnw install error distributionUrl is not valid, must match -bin.zip or maven-mvnd-.zip [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/how-to-fixed-mvnw-install-error-distributionurl-is-not-valid-must-match-bin-zip-or-maven-mvnd-zip/
+  state:
+    id: '113450818258238636'
+    url: https://mastodon.in.th/@webring/113450818258238636
+003c85cd040f6c5ba55d25ffec3f12e2:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/11/how-to-fixed-mvnw-install-error-distributionurl-is-not-valid-must-match-bin-zip-or-maven-mvnd-zip/
+  state:
+    shortLink: https://link.webring.in.th/2237
 009334e858441bd60d9eb2cff63a6413:facebook:
   spec:
     title: รู้จักกับ Prisma ORM [mikelopster.dev]
