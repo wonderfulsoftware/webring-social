@@ -6680,6 +6680,32 @@
     url: https://www.mikkipastel.com/google-io-extended-2023/
   state:
     shortLink: https://webring.page.link/h1NH
+4abfa59da51b5062898be56a41350cdf:bluesky:
+  spec:
+    title: แบ่งพอร์ต Portfolio USA [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/port-usa
+  state:
+    cid: bafyreihp7tkncwx2stxp2lnol2bo4im6lhb6wcvuik35yjaxpocnwxzi3y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lal5o67vgr2r
+4abfa59da51b5062898be56a41350cdf:facebook:
+  spec:
+    title: แบ่งพอร์ต Portfolio USA [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/port-usa
+  state:
+    id: '100746876247412_537688925887021'
+    url: https://www.facebook.com/100683012920950/posts/537688925887021
+4abfa59da51b5062898be56a41350cdf:mastodon:
+  spec:
+    title: แบ่งพอร์ต Portfolio USA [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/port-usa
+  state:
+    id: '113457188099357735'
+    url: https://mastodon.in.th/@webring/113457188099357735
+4abfa59da51b5062898be56a41350cdf:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/port-usa
+  state:
+    shortLink: https://link.webring.in.th/2239
 4b07b4990059066df6cf4d6f52f1c604:facebook:
   spec:
     title: แชร์วิธีการเทส deeplink สำหรับ Android Developer [mikkipastel.com]
