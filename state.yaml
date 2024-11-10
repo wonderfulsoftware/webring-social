@@ -1836,6 +1836,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/covid-19-first-time/
   state:
     shortLink: https://webring.page.link/M12p
+16b1a6d89a1386215ba30c116ec61ca8:bluesky:
+  spec:
+    title: สามารถใช้งาน Gemini model ผ่าน OpenAI library ได้แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/gemini-model-with-openai-library/
+  state:
+    cid: bafyreicaxmli5lvwscgjddza35y5l3jwq7h4vjfp56dspv7675gnisj7cy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lalhjc5c3r2m
+16b1a6d89a1386215ba30c116ec61ca8:facebook:
+  spec:
+    title: สามารถใช้งาน Gemini model ผ่าน OpenAI library ได้แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/gemini-model-with-openai-library/
+  state:
+    id: '100746876247412_537778279211419'
+    url: https://www.facebook.com/100683012920950/posts/537778279211419
+16b1a6d89a1386215ba30c116ec61ca8:mastodon:
+  spec:
+    title: สามารถใช้งาน Gemini model ผ่าน OpenAI library ได้แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/gemini-model-with-openai-library/
+  state:
+    id: '113457881361497028'
+    url: https://mastodon.in.th/@webring/113457881361497028
+16b1a6d89a1386215ba30c116ec61ca8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/gemini-model-with-openai-library/
+  state:
+    shortLink: https://link.webring.in.th/2240
 16d4be6aa12f4d82dd27beb3f137c649:facebook:
   spec:
     title: มาเรียนรู้ "Content 3.0 การใช้ Ai เขียนคอนเทนต์แบบมือโปร" กันจ้า [mikkipastel.com]
