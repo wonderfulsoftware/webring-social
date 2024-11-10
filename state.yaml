@@ -3071,6 +3071,32 @@
     url: https://www.somkiat.cc/nodejs-21/
   state:
     shortLink: https://webring.page.link/q3au
+22fd98af748775724b50ceba4595777b:bluesky:
+  spec:
+    title: หนทางหนี WordPress ครั้งที่ 1 ของนิล [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/ways-to-leave-wordpress-1/
+  state:
+    cid: bafyreigwxgeg6nezexbi5dml56hf6zh3vlmcfqmhoawptpara3u4xs6l6m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3laktpxr7om2m
+22fd98af748775724b50ceba4595777b:facebook:
+  spec:
+    title: หนทางหนี WordPress ครั้งที่ 1 ของนิล [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/ways-to-leave-wordpress-1/
+  state:
+    id: '100746876247412_537599562562624'
+    url: https://www.facebook.com/100683012920950/posts/537599562562624
+22fd98af748775724b50ceba4595777b:mastodon:
+  spec:
+    title: หนทางหนี WordPress ครั้งที่ 1 ของนิล [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/ways-to-leave-wordpress-1/
+  state:
+    id: '113456488413967151'
+    url: https://mastodon.in.th/@webring/113456488413967151
+22fd98af748775724b50ceba4595777b:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/ways-to-leave-wordpress-1/
+  state:
+    shortLink: https://link.webring.in.th/2238
 2303ff01189774dc861779de87f3dfc9:facebook:
   spec:
     title: iPhone เครื่องร้อน ? ลองเปลี่ยนค่ายสัญญาณมือถือดูสิ [blog.kpping.me]
