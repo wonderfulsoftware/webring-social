@@ -9337,6 +9337,32 @@
     url: https://thiti.dev/blog/66/
   state:
     shortLink: https://webring.page.link/Ybic
+656c4d176a0416c326955790782bcbc9:bluesky:
+  spec:
+    title: My Favourite Shots – Apr 2024 [zartre.com]
+    url: https://blog.zartre.com/2024/my-favourite-shots-apr-2024/
+  state:
+    cid: bafyreib7qj56kh4pymgwrzrcew77pzmau7wzf34mbph4kdkbl33shbjxfe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lanob4pbqa2c
+656c4d176a0416c326955790782bcbc9:facebook:
+  spec:
+    title: My Favourite Shots – Apr 2024 [zartre.com]
+    url: https://blog.zartre.com/2024/my-favourite-shots-apr-2024/
+  state:
+    id: '100746876247412_538440485811865'
+    url: https://www.facebook.com/100683012920950/posts/538440485811865
+656c4d176a0416c326955790782bcbc9:mastodon:
+  spec:
+    title: My Favourite Shots – Apr 2024 [zartre.com]
+    url: https://blog.zartre.com/2024/my-favourite-shots-apr-2024/
+  state:
+    id: '113462859474094747'
+    url: https://mastodon.in.th/@webring/113462859474094747
+656c4d176a0416c326955790782bcbc9:shorturl:
+  spec:
+    url: https://blog.zartre.com/2024/my-favourite-shots-apr-2024/
+  state:
+    shortLink: https://link.webring.in.th/2242
 65b21feff8f3a6f1fa0a3ff884883911:facebook:
   spec:
     title: bcdedit enum options [debuggingsoft.com]
