@@ -17588,6 +17588,32 @@ b81fc35c75002a04777b6fcbe9eab469:shorturl:
     url: https://blog.ninprd.com/blog/summary-session-design-for-better-digital-government-services/
   state:
     shortLink: https://link.webring.in.th/2131
+b82daa8ada0fbf13090ddfe172a0adca:bluesky:
+  spec:
+    title: ภาษา Lua จิ๋วแต่แจ๋ว [pontakorn.dev]
+    url: https://pontakorn.dev/posts/lua-small-but-powerful/
+  state:
+    cid: bafyreifckzi7af6olwocds5ik7fu3jokdil7uslp7cw7st2rn5h2pjmgmi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lany4gun562g
+b82daa8ada0fbf13090ddfe172a0adca:facebook:
+  spec:
+    title: ภาษา Lua จิ๋วแต่แจ๋ว [pontakorn.dev]
+    url: https://pontakorn.dev/posts/lua-small-but-powerful/
+  state:
+    id: '100746876247412_538525875803326'
+    url: https://www.facebook.com/100683012920950/posts/538525875803326
+b82daa8ada0fbf13090ddfe172a0adca:mastodon:
+  spec:
+    title: ภาษา Lua จิ๋วแต่แจ๋ว [pontakorn.dev]
+    url: https://pontakorn.dev/posts/lua-small-but-powerful/
+  state:
+    id: '113463552878929380'
+    url: https://mastodon.in.th/@webring/113463552878929380
+b82daa8ada0fbf13090ddfe172a0adca:shorturl:
+  spec:
+    url: https://pontakorn.dev/posts/lua-small-but-powerful/
+  state:
+    shortLink: https://link.webring.in.th/2243
 b85adc3f8b81682910d041c22d6654c8:facebook:
   spec:
     title: ทำความรู้จักกับ Backstage สำหรับทำ software catalog [somkiat.cc]
