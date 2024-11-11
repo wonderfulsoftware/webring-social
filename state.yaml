@@ -17885,6 +17885,32 @@ bb758d935884c1fe7250341f8ac048f2:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/08/relative-path-note/
   state:
     shortLink: https://webring.page.link/Mjqy
+bbf3ba7b8bbc2a08473f5a00a9e75d14:bluesky:
+  spec:
+    title: 'แนะนำหนังสือการเงินส่วนบุคคล: เส้นทางสู่การลงทุนที่มั่นคง [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/pesonal-finance-basic-book
+  state:
+    cid: bafyreifqh62i3z3q6zwckkmjlwpfnqyj2cbsfb4c4uzwubytspyqk34boe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lane7docbi24
+bbf3ba7b8bbc2a08473f5a00a9e75d14:facebook:
+  spec:
+    title: 'แนะนำหนังสือการเงินส่วนบุคคล: เส้นทางสู่การลงทุนที่มั่นคง [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/pesonal-finance-basic-book
+  state:
+    id: '100746876247412_538349829154264'
+    url: https://www.facebook.com/100683012920950/posts/538349829154264
+bbf3ba7b8bbc2a08473f5a00a9e75d14:mastodon:
+  spec:
+    title: 'แนะนำหนังสือการเงินส่วนบุคคล: เส้นทางสู่การลงทุนที่มั่นคง [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/pesonal-finance-basic-book
+  state:
+    id: '113462151554585043'
+    url: https://mastodon.in.th/@webring/113462151554585043
+bbf3ba7b8bbc2a08473f5a00a9e75d14:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/pesonal-finance-basic-book
+  state:
+    shortLink: https://link.webring.in.th/2241
 bc21ca650beccd2c6aa2dc4f08b132c8:facebook:
   spec:
     title: 'Tips :: การใช้งาน profile ใน Docker compose [somkiat.cc]'
