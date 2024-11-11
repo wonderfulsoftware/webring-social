@@ -23807,6 +23807,32 @@ fd4b806a1ef371b85bf738f4a8699837:shorturl:
     url: https://karnwong.me/posts/2023/11/serverless-real-time-machine-learning-inference-with-aws/
   state:
     shortLink: https://webring.page.link/RM8m
+fd4c99d9de04a89c412bcc7e7ba14c61:bluesky:
+  spec:
+    title: How to limit Memory usage on VMMemWSL Process [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/how-to-limit-memory-usage-on-vmmemwsl/
+  state:
+    cid: bafyreiayvetp34dvhor4glfz4shhopp4f5u3xbf7utp3e6gigqeolgjkgi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3laom5cf77v2d
+fd4c99d9de04a89c412bcc7e7ba14c61:facebook:
+  spec:
+    title: How to limit Memory usage on VMMemWSL Process [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/how-to-limit-memory-usage-on-vmmemwsl/
+  state:
+    id: '100746876247412_538742109115036'
+    url: https://www.facebook.com/100683012920950/posts/538742109115036
+fd4c99d9de04a89c412bcc7e7ba14c61:mastodon:
+  spec:
+    title: How to limit Memory usage on VMMemWSL Process [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/how-to-limit-memory-usage-on-vmmemwsl/
+  state:
+    id: '113464961986691335'
+    url: https://mastodon.in.th/@webring/113464961986691335
+fd4c99d9de04a89c412bcc7e7ba14c61:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/11/how-to-limit-memory-usage-on-vmmemwsl/
+  state:
+    shortLink: https://link.webring.in.th/2244
 fded27a275c0ab5923370e23e7a5b37e:facebook:
   spec:
     title: ต่อให้ไม่มีเรา บริษัทก็อยู่ได้ [blog.ninprd.com]
