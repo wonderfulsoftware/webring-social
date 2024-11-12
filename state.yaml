@@ -17937,6 +17937,32 @@ bb758d935884c1fe7250341f8ac048f2:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/08/relative-path-note/
   state:
     shortLink: https://webring.page.link/Mjqy
+bbc66c1086b2a1ffb1e0493ff6a1ebe4:bluesky:
+  spec:
+    title: an invisbly adventure at invisible garden 0 [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/invisible-garden-0/
+  state:
+    cid: bafyreia5jqsrkx6qvf2jgvno762qabjmgeyves54zjcknror6iudpyhwdu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lapuj3qqch2m
+bbc66c1086b2a1ffb1e0493ff6a1ebe4:facebook:
+  spec:
+    title: an invisbly adventure at invisible garden 0 [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/invisible-garden-0/
+  state:
+    id: '100746876247412_539097622412818'
+    url: https://www.facebook.com/100683012920950/posts/539097622412818
+bbc66c1086b2a1ffb1e0493ff6a1ebe4:mastodon:
+  spec:
+    title: an invisbly adventure at invisible garden 0 [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/invisible-garden-0/
+  state:
+    id: '113467802836672534'
+    url: https://mastodon.in.th/@webring/113467802836672534
+bbc66c1086b2a1ffb1e0493ff6a1ebe4:shorturl:
+  spec:
+    url: https://yuttakhanb.dev/posts/invisible-garden-0/
+  state:
+    shortLink: https://link.webring.in.th/2245
 bbf3ba7b8bbc2a08473f5a00a9e75d14:bluesky:
   spec:
     title: 'แนะนำหนังสือการเงินส่วนบุคคล: เส้นทางสู่การลงทุนที่มั่นคง [mymoneytoolkit.app]'
