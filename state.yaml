@@ -81,6 +81,32 @@
     url: https://garden.narze.live/100daysofcode-r3-64-live-guestbook/
   state:
     shortLink: https://webring.page.link/54wK
+00fd0deb350dacbbca8b5afbc0734e89:bluesky:
+  spec:
+    title: มารู้จักกับ vConsole เครื่องมือ Debug บน App [boychawin.com]
+    url: https://boychawin.com/2024/10/24/debugging-mobile-with-vconsole.html
+  state:
+    cid: bafyreiephnwp5pr4y22euijr3lmiyaviiegmxj2nwfilrpwbvthef6dakq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lavu4zcb3o24
+00fd0deb350dacbbca8b5afbc0734e89:facebook:
+  spec:
+    title: มารู้จักกับ vConsole เครื่องมือ Debug บน App [boychawin.com]
+    url: https://boychawin.com/2024/10/24/debugging-mobile-with-vconsole.html
+  state:
+    id: '100746876247412_540757448913502'
+    url: https://www.facebook.com/100683012920950/posts/540757448913502
+00fd0deb350dacbbca8b5afbc0734e89:mastodon:
+  spec:
+    title: มารู้จักกับ vConsole เครื่องมือ Debug บน App [boychawin.com]
+    url: https://boychawin.com/2024/10/24/debugging-mobile-with-vconsole.html
+  state:
+    id: '113481287169629031'
+    url: https://mastodon.in.th/@webring/113481287169629031
+00fd0deb350dacbbca8b5afbc0734e89:shorturl:
+  spec:
+    url: https://boychawin.com/2024/10/24/debugging-mobile-with-vconsole.html
+  state:
+    shortLink: https://link.webring.in.th/2246
 012ecd06453446424f397aad94276356:facebook:
   spec:
     title: ว่าด้วยเรื่อง DevOops !! [somkiat.cc]
