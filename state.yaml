@@ -20036,6 +20036,32 @@ d2347ad23893a45c3ddf3048b3268d34:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/05/cr-starbucks-croissant-bite-salted-caramel/
   state:
     shortLink: https://link.webring.in.th/1958
+d238cc9132295a81d92c9433a10b8a9e:bluesky:
+  spec:
+    title: '[Jenkins] fatal: could not read Username for ‘Your_Git_Server’: No such file or directory [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/11/jenkins-fatal-could-not-read-username-for-your_git_server-no-such-file-or-directory/
+  state:
+    cid: bafyreieijfy4nsveh6wp3mi6vshemodf2v2jm3dqmz7y4ct75vsgmswm5a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3law5las5qj2c
+d238cc9132295a81d92c9433a10b8a9e:facebook:
+  spec:
+    title: '[Jenkins] fatal: could not read Username for ‘Your_Git_Server’: No such file or directory [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/11/jenkins-fatal-could-not-read-username-for-your_git_server-no-such-file-or-directory/
+  state:
+    id: '100746876247412_540858082236772'
+    url: https://www.facebook.com/100683012920950/posts/540858082236772
+d238cc9132295a81d92c9433a10b8a9e:mastodon:
+  spec:
+    title: '[Jenkins] fatal: could not read Username for ‘Your_Git_Server’: No such file or directory [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/11/jenkins-fatal-could-not-read-username-for-your_git_server-no-such-file-or-directory/
+  state:
+    id: '113481951628044430'
+    url: https://mastodon.in.th/@webring/113481951628044430
+d238cc9132295a81d92c9433a10b8a9e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/11/jenkins-fatal-could-not-read-username-for-your_git_server-no-such-file-or-directory/
+  state:
+    shortLink: https://link.webring.in.th/2247
 d23ad7216ab2ab504908abcf7dbab652:facebook:
   spec:
     title: 'เล่าเรื่องงาน NFT Square Meetup #1 และ GASSED UP [mikkipastel.com]'
