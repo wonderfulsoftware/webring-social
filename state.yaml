@@ -4189,6 +4189,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/07/the-way-of-testivus/
   state:
     shortLink: https://link.webring.in.th/2018
+2d01380c9b1fe8e2f26f78092ff24da4:bluesky:
+  spec:
+    title: ว่าด้วยภาษีคริปโตแบบเข้าใจง่าย [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/crypto-tax
+  state:
+    cid: bafyreienx3ghwfhfzxayisgso3qzbq5za32lhtcdaw6qjewosr4rbzm2xe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lb4qzcuh7r2d
+2d01380c9b1fe8e2f26f78092ff24da4:facebook:
+  spec:
+    title: ว่าด้วยภาษีคริปโตแบบเข้าใจง่าย [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/crypto-tax
+  state:
+    id: '100746876247412_542673995388514'
+    url: https://www.facebook.com/100683012920950/posts/542673995388514
+2d01380c9b1fe8e2f26f78092ff24da4:mastodon:
+  spec:
+    title: ว่าด้วยภาษีคริปโตแบบเข้าใจง่าย [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/crypto-tax
+  state:
+    id: '113496830495044487'
+    url: https://mastodon.in.th/@webring/113496830495044487
+2d01380c9b1fe8e2f26f78092ff24da4:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/crypto-tax
+  state:
+    shortLink: https://link.webring.in.th/2250
 2d5074053e3175acf551175b9db713dd:facebook:
   spec:
     title: ว่าด้วยเรื่องของ Vector Database [somkiat.cc]
