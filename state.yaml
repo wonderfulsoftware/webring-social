@@ -15479,6 +15479,32 @@ a095eea673b009b5ff5e11ca35059e7d:shorturl:
     url: https://trwkc.dev/base64-encoding-with-golang/
   state:
     shortLink: https://link.webring.in.th/2115
+a0da5451a886eaa29f5a1cca23bd27f7:bluesky:
+  spec:
+    title: ABI-DOS [neizod.dev]
+    url: https://neizod.dev/2024/11/15/abi-dos.html
+  state:
+    cid: bafyreiavmobn2bl33e372ahfj73tilaccc3yd7pme4wv4sjyo4o7x5vp2e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lb4hko7tbv2u
+a0da5451a886eaa29f5a1cca23bd27f7:facebook:
+  spec:
+    title: ABI-DOS [neizod.dev]
+    url: https://neizod.dev/2024/11/15/abi-dos.html
+  state:
+    id: '100746876247412_542595945396319'
+    url: https://www.facebook.com/100683012920950/posts/542595945396319
+a0da5451a886eaa29f5a1cca23bd27f7:mastodon:
+  spec:
+    title: ABI-DOS [neizod.dev]
+    url: https://neizod.dev/2024/11/15/abi-dos.html
+  state:
+    id: '113496164948737450'
+    url: https://mastodon.in.th/@webring/113496164948737450
+a0da5451a886eaa29f5a1cca23bd27f7:shorturl:
+  spec:
+    url: https://neizod.dev/2024/11/15/abi-dos.html
+  state:
+    shortLink: https://link.webring.in.th/2249
 a14bbf405dc6667ff6fb94b1cf755409:facebook:
   spec:
     title: How to fix current branch xxx has no upstream branch. [debuggingsoft.com]
