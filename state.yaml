@@ -22424,6 +22424,32 @@ ebb6844c6cbd672add59ed6ef8f83a3b:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/02/database-schema-design-guide-best-practices-and-pattern/
   state:
     shortLink: https://link.webring.in.th/1781
+ebbb40d0de07f6078c70d42caa57dd1d:bluesky:
+  spec:
+    title: มาดูความสามารถที่น่าสนใจของ ASP.NET Core ใน .NET 9 [somkiat.cc]
+    url: https://www.somkiat.cc/new-feature-in-dotnet-9/
+  state:
+    cid: bafyreigtjls6xo45jcphmdiq6nfr3saiusk4io6hkpoa35bsidxesnf34i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lb52u6wvly2l
+ebbb40d0de07f6078c70d42caa57dd1d:facebook:
+  spec:
+    title: มาดูความสามารถที่น่าสนใจของ ASP.NET Core ใน .NET 9 [somkiat.cc]
+    url: https://www.somkiat.cc/new-feature-in-dotnet-9/
+  state:
+    id: '100746876247412_542763142046266'
+    url: https://www.facebook.com/100683012920950/posts/542763142046266
+ebbb40d0de07f6078c70d42caa57dd1d:mastodon:
+  spec:
+    title: มาดูความสามารถที่น่าสนใจของ ASP.NET Core ใน .NET 9 [somkiat.cc]
+    url: https://www.somkiat.cc/new-feature-in-dotnet-9/
+  state:
+    id: '113497522944852190'
+    url: https://mastodon.in.th/@webring/113497522944852190
+ebbb40d0de07f6078c70d42caa57dd1d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/new-feature-in-dotnet-9/
+  state:
+    shortLink: https://link.webring.in.th/2251
 ebbfff819b0ab1b8345b237c2d83b76b:facebook:
   spec:
     title: มาลองใช้งาน sqlite ใน Node v22.5 ที่กำลังจะออกมา [somkiat.cc]
