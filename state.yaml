@@ -14061,6 +14061,32 @@
     url: https://www.boonsong.dev/business-domain-and-subdomain
   state:
     shortLink: https://webring.page.link/3hZW
+915fe90dcfa49ad57beb9ab1b54d3e9b:bluesky:
+  spec:
+    title: Unit Test เตือนเรื่องพวก Concurrent / Thread ได้นะ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/unit-test-can-detect-concurrent-thread-problem/
+  state:
+    cid: bafyreifzvwsvvyxgl4c6rmluxbxm6e5berxfkc2tengdaa4dpfda2k4oa4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lb5ffrbh6o2u
+915fe90dcfa49ad57beb9ab1b54d3e9b:facebook:
+  spec:
+    title: Unit Test เตือนเรื่องพวก Concurrent / Thread ได้นะ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/unit-test-can-detect-concurrent-thread-problem/
+  state:
+    id: '100746876247412_542858475370066'
+    url: https://www.facebook.com/100683012920950/posts/542858475370066
+915fe90dcfa49ad57beb9ab1b54d3e9b:mastodon:
+  spec:
+    title: Unit Test เตือนเรื่องพวก Concurrent / Thread ได้นะ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/unit-test-can-detect-concurrent-thread-problem/
+  state:
+    id: '113498265117392547'
+    url: https://mastodon.in.th/@webring/113498265117392547
+915fe90dcfa49ad57beb9ab1b54d3e9b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/11/unit-test-can-detect-concurrent-thread-problem/
+  state:
+    shortLink: https://link.webring.in.th/2252
 916d2e1460fe8dfa08af2cf230aa0b6f:facebook:
   spec:
     title: บันทึก - เรียนรู้ Typescript (Any กับ Unknow ใน Typescript) [kajame.xyz]
