@@ -22609,6 +22609,32 @@ ed3318e18af6b576baa479fe876ebec1:shorturl:
     url: https://tech.duckfollow.co/view/create-website
   state:
     shortLink: https://webring.page.link/41vP
+ed3abccf001cd52a3207756a7dd4e180:bluesky:
+  spec:
+    title: สร้าง Modal Service ด้วย Vanilla JS [boychawin.com]
+    url: https://boychawin.com/2024/11/17/modal-service-vanilla-js.html
+  state:
+    cid: bafyreigs2neqcxbaftw25lvfinc2ucdliwndlbvwxqbpdyh5a5ntdzlsb4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lb6y2dgzzz2i
+ed3abccf001cd52a3207756a7dd4e180:facebook:
+  spec:
+    title: สร้าง Modal Service ด้วย Vanilla JS [boychawin.com]
+    url: https://boychawin.com/2024/11/17/modal-service-vanilla-js.html
+  state:
+    id: '100746876247412_543309395324974'
+    url: https://www.facebook.com/100683012920950/posts/543309395324974
+ed3abccf001cd52a3207756a7dd4e180:mastodon:
+  spec:
+    title: สร้าง Modal Service ด้วย Vanilla JS [boychawin.com]
+    url: https://boychawin.com/2024/11/17/modal-service-vanilla-js.html
+  state:
+    id: '113501828878392117'
+    url: https://mastodon.in.th/@webring/113501828878392117
+ed3abccf001cd52a3207756a7dd4e180:shorturl:
+  spec:
+    url: https://boychawin.com/2024/11/17/modal-service-vanilla-js.html
+  state:
+    shortLink: https://link.webring.in.th/2253
 ed74f69731cdc86dfaf7181e9889b17c:facebook:
   spec:
     title: Gitflow Workflow [tech.duckfollow.co]
