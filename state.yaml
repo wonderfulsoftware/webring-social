@@ -19931,6 +19931,32 @@ cfd77637023899ca0b208faf0b85c341:shorturl:
     url: https://tinarskii.com/articles/computer
   state:
     shortLink: https://webring.page.link/uxzB
+cfdabbf12e2e8ca7c36ce2ffd38c08ca:bluesky:
+  spec:
+    title: ทดลองทำ widget gas tracker ฉบับ Jetpack Compose กันเถอะ [mikkipastel.com]
+    url: https://www.mikkipastel.com/create-android-widget-first-time-by-jetpack-glance/
+  state:
+    cid: bafyreibwjte7emwjog75du7rkgnhlzkhr7xffmd6bqi6qkvpnyuwxvcfyu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lb7ble3j4w2i
+cfdabbf12e2e8ca7c36ce2ffd38c08ca:facebook:
+  spec:
+    title: ทดลองทำ widget gas tracker ฉบับ Jetpack Compose กันเถอะ [mikkipastel.com]
+    url: https://www.mikkipastel.com/create-android-widget-first-time-by-jetpack-glance/
+  state:
+    id: '100746876247412_543387221983858'
+    url: https://www.facebook.com/100683012920950/posts/543387221983858
+cfdabbf12e2e8ca7c36ce2ffd38c08ca:mastodon:
+  spec:
+    title: ทดลองทำ widget gas tracker ฉบับ Jetpack Compose กันเถอะ [mikkipastel.com]
+    url: https://www.mikkipastel.com/create-android-widget-first-time-by-jetpack-glance/
+  state:
+    id: '113502499683966968'
+    url: https://mastodon.in.th/@webring/113502499683966968
+cfdabbf12e2e8ca7c36ce2ffd38c08ca:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/create-android-widget-first-time-by-jetpack-glance/
+  state:
+    shortLink: https://link.webring.in.th/2254
 d01a321743a082aac7f03c8107fad21e:facebook:
   spec:
     title: การสร้าง Coroutine Task in Python [poolsawat.com]
