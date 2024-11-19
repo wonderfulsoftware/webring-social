@@ -8978,6 +8978,32 @@
     url: https://janescience.com/blog/android-trigger-notification
   state:
     shortLink: https://webring.page.link/Qyvz
+60dfa091da618f8fc65b01b783020ffd:bluesky:
+  spec:
+    title: ชีวิตที่ผูกพันกับ STEINS;GATE [blog.nattp.page]
+    url: https://blog.nattp.page/article/steinsgate-15th-anniversary-memories
+  state:
+    cid: bafyreiabaxpg2ex3vfn3jah3c63e3wjuh7b6yq4feab7yuwonwmzgqkzti
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lbbido5lwa2j
+60dfa091da618f8fc65b01b783020ffd:facebook:
+  spec:
+    title: ชีวิตที่ผูกพันกับ STEINS;GATE [blog.nattp.page]
+    url: https://blog.nattp.page/article/steinsgate-15th-anniversary-memories
+  state:
+    id: '100746876247412_544018861920694'
+    url: https://www.facebook.com/100683012920950/posts/544018861920694
+60dfa091da618f8fc65b01b783020ffd:mastodon:
+  spec:
+    title: ชีวิตที่ผูกพันกับ STEINS;GATE [blog.nattp.page]
+    url: https://blog.nattp.page/article/steinsgate-15th-anniversary-memories
+  state:
+    id: '113507479019871622'
+    url: https://mastodon.in.th/@webring/113507479019871622
+60dfa091da618f8fc65b01b783020ffd:shorturl:
+  spec:
+    url: https://blog.nattp.page/article/steinsgate-15th-anniversary-memories
+  state:
+    shortLink: https://link.webring.in.th/2255
 610d57730b7178b8dee0a5362c1959b8:facebook:
   spec:
     title: '[DB2] Backup offline/online and database logs [debuggingsoft.com]'
