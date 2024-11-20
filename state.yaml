@@ -8465,6 +8465,32 @@
     url: https://tinarskii.com/articles/shit7
   state:
     shortLink: https://webring.page.link/Fn4C
+5d72eb7f3265d1002658708c64cf0b0d:bluesky:
+  spec:
+    title: ย้อนรอยความทรงจำ ในโอกาส STEINS;GATE ครบรอบ 15 ปี [blog.nattp.page]
+    url: https://blog.nattp.page/article/steinsgate-15th-anniversary-memories/
+  state:
+    cid: bafyreibzsye3mhlatj5oat5juddr7voqxrhtbtut73oepbc5n2run3ncny
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lbdyr2tu462c
+5d72eb7f3265d1002658708c64cf0b0d:facebook:
+  spec:
+    title: ย้อนรอยความทรงจำ ในโอกาส STEINS;GATE ครบรอบ 15 ปี [blog.nattp.page]
+    url: https://blog.nattp.page/article/steinsgate-15th-anniversary-memories/
+  state:
+    id: '100746876247412_544729531849627'
+    url: https://www.facebook.com/100683012920950/posts/544729531849627
+5d72eb7f3265d1002658708c64cf0b0d:mastodon:
+  spec:
+    title: ย้อนรอยความทรงจำ ในโอกาส STEINS;GATE ครบรอบ 15 ปี [blog.nattp.page]
+    url: https://blog.nattp.page/article/steinsgate-15th-anniversary-memories/
+  state:
+    id: '113513137933368487'
+    url: https://mastodon.in.th/@webring/113513137933368487
+5d72eb7f3265d1002658708c64cf0b0d:shorturl:
+  spec:
+    url: https://blog.nattp.page/article/steinsgate-15th-anniversary-memories/
+  state:
+    shortLink: https://link.webring.in.th/2256
 5db2b506c8b114ff91c4a28d264687b8:facebook:
   spec:
     title: สัปดาห์การเรียนสุดท้าย ค่าย iCreator Camp 2024 กับเรื่อง Production & Platform [mikkipastel.com]
