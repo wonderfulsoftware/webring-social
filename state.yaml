@@ -16960,6 +16960,32 @@ ae5f149932a0e44e0107545fac9144c1:shorturl:
     url: https://www.somkiat.cc/use-redisearch/
   state:
     shortLink: https://webring.page.link/XwD9
+ae68f1d0b1462250a962a649ff1a2d0c:bluesky:
+  spec:
+    title: Extracting text from image in macOS from the CLI [dt.in.th]
+    url: https://notes.dt.in.th/MacOSOCR
+  state:
+    cid: bafyreidspjrl7evp5n2jbuzss6y4hm4qyaxfwxscdzm34w5dkyfngfqwqy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lbeci233ff2b
+ae68f1d0b1462250a962a649ff1a2d0c:facebook:
+  spec:
+    title: Extracting text from image in macOS from the CLI [dt.in.th]
+    url: https://notes.dt.in.th/MacOSOCR
+  state:
+    id: '100746876247412_544806451841935'
+    url: https://www.facebook.com/100683012920950/posts/544806451841935
+ae68f1d0b1462250a962a649ff1a2d0c:mastodon:
+  spec:
+    title: Extracting text from image in macOS from the CLI [dt.in.th]
+    url: https://notes.dt.in.th/MacOSOCR
+  state:
+    id: '113513821780808792'
+    url: https://mastodon.in.th/@webring/113513821780808792
+ae68f1d0b1462250a962a649ff1a2d0c:shorturl:
+  spec:
+    url: https://notes.dt.in.th/MacOSOCR
+  state:
+    shortLink: https://link.webring.in.th/2257
 aeabb3bc97ad47ca1c19a29b3f6200e4:facebook:
   spec:
     title: '[DOTNET] Container cannot start on Podman 2.0.X, Failed to create CoreCLR, HRESULT: 0x80070008 [debuggingsoft.com]'
