@@ -2097,6 +2097,32 @@
     url: https://www.somkiat.cc/tester-day-2023-everything-you-can-test/
   state:
     shortLink: https://webring.page.link/dd67
+18f3fbb8da3f0ba6ee12a611c5558d8a:bluesky:
+  spec:
+    title: 'สรุป OC24: อะไรคือการทำ Software ต้องสนุก [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summarize-oc-24-what-does-it-mean-for-software-development-to-be-joyful/
+  state:
+    cid: bafyreigbdgxt7oeiuqigx2ixjshz7g7ef27fyefpqamfj2puklptbjiba4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lbgja3eir72l
+18f3fbb8da3f0ba6ee12a611c5558d8a:facebook:
+  spec:
+    title: 'สรุป OC24: อะไรคือการทำ Software ต้องสนุก [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summarize-oc-24-what-does-it-mean-for-software-development-to-be-joyful/
+  state:
+    id: '100746876247412_545440735111840'
+    url: https://www.facebook.com/100683012920950/posts/545440735111840
+18f3fbb8da3f0ba6ee12a611c5558d8a:mastodon:
+  spec:
+    title: 'สรุป OC24: อะไรคือการทำ Software ต้องสนุก [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summarize-oc-24-what-does-it-mean-for-software-development-to-be-joyful/
+  state:
+    id: '113518800280278867'
+    url: https://mastodon.in.th/@webring/113518800280278867
+18f3fbb8da3f0ba6ee12a611c5558d8a:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/summarize-oc-24-what-does-it-mean-for-software-development-to-be-joyful/
+  state:
+    shortLink: https://link.webring.in.th/2258
 18fcc495ea7b49a95cc38ea91ce27c0a:facebook:
   spec:
     title: TCP + JSON บน Windows7 แล้ว JSON แหว่งง [debuggingsoft.com]
