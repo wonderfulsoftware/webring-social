@@ -10331,6 +10331,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/11/condition-in-jenkins-pipeline/
   state:
     shortLink: https://webring.page.link/wuKc
+6e0be573d62d1c48bccdb7393048bb5e:bluesky:
+  spec:
+    title: ปิดการเขียน Default Password หลังเปิดใช้งาน Spring Security [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/disable-logging-of-the-default-password-after-use-spring-security/
+  state:
+    cid: bafyreihfz3t4ma5le6hdhe42tvqxirezuuktuyuyxzey5rjei3qn5z24hm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lbizqkb5n42q
+6e0be573d62d1c48bccdb7393048bb5e:facebook:
+  spec:
+    title: ปิดการเขียน Default Password หลังเปิดใช้งาน Spring Security [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/disable-logging-of-the-default-password-after-use-spring-security/
+  state:
+    id: '100746876247412_546151431707437'
+    url: https://www.facebook.com/100683012920950/posts/546151431707437
+6e0be573d62d1c48bccdb7393048bb5e:mastodon:
+  spec:
+    title: ปิดการเขียน Default Password หลังเปิดใช้งาน Spring Security [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/disable-logging-of-the-default-password-after-use-spring-security/
+  state:
+    id: '113524466072657041'
+    url: https://mastodon.in.th/@webring/113524466072657041
+6e0be573d62d1c48bccdb7393048bb5e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/11/disable-logging-of-the-default-password-after-use-spring-security/
+  state:
+    shortLink: https://link.webring.in.th/2259
 6e3a7745b106e6da61cb0f6bc8188303:facebook:
   spec:
     title: จัดการพวก E-Tax Invoice ใน E-mail แบบ geek geek กัน!! [kusumotolab.com]
