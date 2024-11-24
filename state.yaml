@@ -10155,6 +10155,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/04/how-to-run-curl-in-kubernetes/
   state:
     shortLink: https://link.webring.in.th/1868
+6c496ae66ea6f730819406669c9be1bc:bluesky:
+  spec:
+    title: 'สรุปที่เรียน Prompting Profit: Building AI-Powered Business Strategies จาก AWE2024 [mikkipastel.com]'
+    url: https://www.mikkipastel.com/prompting-profit-building-ai-powered-business-strategies-awe2024/
+  state:
+    cid: bafyreih3dpejl6k4tenqm4pxsso6arab6onyroedwsxpmdvvghrlbcxp4a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lboebiq4jv2l
+6c496ae66ea6f730819406669c9be1bc:facebook:
+  spec:
+    title: 'สรุปที่เรียน Prompting Profit: Building AI-Powered Business Strategies จาก AWE2024 [mikkipastel.com]'
+    url: https://www.mikkipastel.com/prompting-profit-building-ai-powered-business-strategies-awe2024/
+  state:
+    id: '100746876247412_547655278223719'
+    url: https://www.facebook.com/100683012920950/posts/547655278223719
+6c496ae66ea6f730819406669c9be1bc:mastodon:
+  spec:
+    title: 'สรุปที่เรียน Prompting Profit: Building AI-Powered Business Strategies จาก AWE2024 [mikkipastel.com]'
+    url: https://www.mikkipastel.com/prompting-profit-building-ai-powered-business-strategies-awe2024/
+  state:
+    id: '113536465960583049'
+    url: https://mastodon.in.th/@webring/113536465960583049
+6c496ae66ea6f730819406669c9be1bc:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/prompting-profit-building-ai-powered-business-strategies-awe2024/
+  state:
+    shortLink: https://link.webring.in.th/2262
 6c8b2768ba42e99bf0aecb8053e009eb:facebook:
   spec:
     title: Illustration - 2023のゆきみさん ❄ [lucian.solutions]
