@@ -5103,6 +5103,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/cr-hua-seng-hong-taro-paste-with-ginkgo-bun/
   state:
     shortLink: https://webring.page.link/wV1N
+3700e2bbc1c93c79c9ca961d5f37c23e:bluesky:
+  spec:
+    title: 'สรุป OC24: LeSSExample [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summarize-oc24-lessexample/
+  state:
+    cid: bafyreiag7rvnej2om5i4ts6gisznhgxkyqhfgt2cl4t2mioftm4icen36q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lbo2wfhucz2w
+3700e2bbc1c93c79c9ca961d5f37c23e:facebook:
+  spec:
+    title: 'สรุป OC24: LeSSExample [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summarize-oc24-lessexample/
+  state:
+    id: '100746876247412_547579221564658'
+    url: https://www.facebook.com/100683012920950/posts/547579221564658
+3700e2bbc1c93c79c9ca961d5f37c23e:mastodon:
+  spec:
+    title: 'สรุป OC24: LeSSExample [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summarize-oc24-lessexample/
+  state:
+    id: '113535807963144414'
+    url: https://mastodon.in.th/@webring/113535807963144414
+3700e2bbc1c93c79c9ca961d5f37c23e:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/summarize-oc24-lessexample/
+  state:
+    shortLink: https://link.webring.in.th/2261
 3706d2c8e1520daf93ef64c9304c78ba:facebook:
   spec:
     title: 'สรุปการแบ่งปันเรื่อง JavaScript Testing (every day) จากงาน BKK.JS #19: Into the New Year [somkiat.cc]'
