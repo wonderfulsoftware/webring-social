@@ -19714,6 +19714,32 @@ cb2f955d46e62ac97a54f9473dbb1d27:shorturl:
     url: https://www.somkiat.cc/java-trends-november-2023-from-infoq/
   state:
     shortLink: https://webring.page.link/gwAu
+cb78da3a7aa388550ab0a4e95c0e23fe:bluesky:
+  spec:
+    title: How to use Stream Pipe and Transform in Node.js [ntsd.dev]
+    url: https://ntsd.dev/node-stream-pipe-and-transform/
+  state:
+    cid: bafyreih5fx63hmlrjlc3kka4vbdpxx56lqfiv32nuzf52unb4mcbk4cmjy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lbqlcn77m32e
+cb78da3a7aa388550ab0a4e95c0e23fe:facebook:
+  spec:
+    title: How to use Stream Pipe and Transform in Node.js [ntsd.dev]
+    url: https://ntsd.dev/node-stream-pipe-and-transform/
+  state:
+    id: '100746876247412_548261731496407'
+    url: https://www.facebook.com/100683012920950/posts/548261731496407
+cb78da3a7aa388550ab0a4e95c0e23fe:mastodon:
+  spec:
+    title: How to use Stream Pipe and Transform in Node.js [ntsd.dev]
+    url: https://ntsd.dev/node-stream-pipe-and-transform/
+  state:
+    id: '113541464828474256'
+    url: https://mastodon.in.th/@webring/113541464828474256
+cb78da3a7aa388550ab0a4e95c0e23fe:shorturl:
+  spec:
+    url: https://ntsd.dev/node-stream-pipe-and-transform/
+  state:
+    shortLink: https://link.webring.in.th/2263
 cbad40833b0865bf6319124c0d563fa1:facebook:
   spec:
     title: สุ่มผู้โชคดีในโลก web3 ด้วย Chainlink VRF [mikkipastel.com]
