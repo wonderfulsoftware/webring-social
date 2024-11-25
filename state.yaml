@@ -874,6 +874,32 @@
     url: https://www.mikkipastel.com/digital-assets-navigator-bitkub/
   state:
     shortLink: https://link.webring.in.th/1795
+0af60dd64250ac75484826a57245724a:bluesky:
+  spec:
+    title: สรุปงาน .NET Conf TH 2024 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/recap-dotnet-conf-th-2024/
+  state:
+    cid: bafyreicf3fgspyzazpvvqhufymxxswziqbiqebb7b6zv2potrv2cqkyley
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lbquubn35r2e
+0af60dd64250ac75484826a57245724a:facebook:
+  spec:
+    title: สรุปงาน .NET Conf TH 2024 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/recap-dotnet-conf-th-2024/
+  state:
+    id: '100746876247412_548338614822052'
+    url: https://www.facebook.com/100683012920950/posts/548338614822052
+0af60dd64250ac75484826a57245724a:mastodon:
+  spec:
+    title: สรุปงาน .NET Conf TH 2024 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/11/recap-dotnet-conf-th-2024/
+  state:
+    id: '113542136726606992'
+    url: https://mastodon.in.th/@webring/113542136726606992
+0af60dd64250ac75484826a57245724a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/11/recap-dotnet-conf-th-2024/
+  state:
+    shortLink: https://link.webring.in.th/2264
 0b3121917ca50b357167e5e8b2ca98e2:facebook:
   spec:
     title: infra อะไรยังไง? [tech.duckfollow.co]
