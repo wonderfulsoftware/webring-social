@@ -7047,6 +7047,32 @@
     url: https://www.karnwong.me/posts/2023/03/bare-metal-works-until-it-doesnt-hello-cloud/
   state:
     shortLink: https://webring.page.link/VbD1
+4c254f36039fdd5ec3a84af78c774a44:bluesky:
+  spec:
+    title: คำนวณภาษีคริปโต [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/crypto-tax-google-sheet
+  state:
+    cid: bafyreicxlyvv767ndhccobsoawvbo2fjrqrkezgamypkj7z32grlyithk4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lbr6oh4ri62t
+4c254f36039fdd5ec3a84af78c774a44:facebook:
+  spec:
+    title: คำนวณภาษีคริปโต [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/crypto-tax-google-sheet
+  state:
+    id: '100746876247412_548418184814095'
+    url: https://www.facebook.com/100683012920950/posts/548418184814095
+4c254f36039fdd5ec3a84af78c774a44:mastodon:
+  spec:
+    title: คำนวณภาษีคริปโต [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/crypto-tax-google-sheet
+  state:
+    id: '113542827765155768'
+    url: https://mastodon.in.th/@webring/113542827765155768
+4c254f36039fdd5ec3a84af78c774a44:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/crypto-tax-google-sheet
+  state:
+    shortLink: https://link.webring.in.th/2265
 4c54748aa9f9ce0f01cb3b527f2b238a:facebook:
   spec:
     title: สรุปงาน Thailand Developer Day 2023 [debuggingsoft.com]
