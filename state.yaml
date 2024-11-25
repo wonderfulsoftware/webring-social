@@ -23251,6 +23251,32 @@ f07bcc1a0d87fa7c7daf27a6b618ea4f:shorturl:
     url: https://www.llun.me/posts/dev/2024-03-03-memoize-and-memory-leak
   state:
     shortLink: https://link.webring.in.th/1813
+f09430130f8017ddb200dd790b8f75ca:bluesky:
+  spec:
+    title: มาดูกันว่า Testing strategies ใน Android app มีการเปลี่ยนอะไรบ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/android-new-testing-strategies/
+  state:
+    cid: bafyreihid7lmhyfrh7gdv36f6v2v7t3annjcotuhvnpqoy3ozka6m3qhrm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lbrjd32ghn2v
+f09430130f8017ddb200dd790b8f75ca:facebook:
+  spec:
+    title: มาดูกันว่า Testing strategies ใน Android app มีการเปลี่ยนอะไรบ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/android-new-testing-strategies/
+  state:
+    id: '100746876247412_548515591471021'
+    url: https://www.facebook.com/100683012920950/posts/548515591471021
+f09430130f8017ddb200dd790b8f75ca:mastodon:
+  spec:
+    title: มาดูกันว่า Testing strategies ใน Android app มีการเปลี่ยนอะไรบ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/android-new-testing-strategies/
+  state:
+    id: '113543576765333666'
+    url: https://mastodon.in.th/@webring/113543576765333666
+f09430130f8017ddb200dd790b8f75ca:shorturl:
+  spec:
+    url: https://www.somkiat.cc/android-new-testing-strategies/
+  state:
+    shortLink: https://link.webring.in.th/2266
 f09c3739636c28f5df703812b2b95e57:facebook:
   spec:
     title: 2022 [yothinix.com]
