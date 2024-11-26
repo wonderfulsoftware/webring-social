@@ -1261,6 +1261,32 @@
     url: https://www.somkiat.cc/hello-hoppscotch/
   state:
     shortLink: https://link.webring.in.th/1905
+0f5a7b6c897f5c1531435c1b314cc67c:bluesky:
+  spec:
+    title: ปล่อยออกมาแล้ว Spring Boot 3.4.0 [somkiat.cc]
+    url: https://www.somkiat.cc/hello-spring-boot-3-4-0/
+  state:
+    cid: bafyreigz63tnuhgq5lxaha5rgqxgynrz335b7gxslcztwjnpaupabjdc2e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lbt3p36n4c2v
+0f5a7b6c897f5c1531435c1b314cc67c:facebook:
+  spec:
+    title: ปล่อยออกมาแล้ว Spring Boot 3.4.0 [somkiat.cc]
+    url: https://www.somkiat.cc/hello-spring-boot-3-4-0/
+  state:
+    id: '100746876247412_548947988094448'
+    url: https://www.facebook.com/100683012920950/posts/548947988094448
+0f5a7b6c897f5c1531435c1b314cc67c:mastodon:
+  spec:
+    title: ปล่อยออกมาแล้ว Spring Boot 3.4.0 [somkiat.cc]
+    url: https://www.somkiat.cc/hello-spring-boot-3-4-0/
+  state:
+    id: '113547121534219122'
+    url: https://mastodon.in.th/@webring/113547121534219122
+0f5a7b6c897f5c1531435c1b314cc67c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-spring-boot-3-4-0/
+  state:
+    shortLink: https://link.webring.in.th/2267
 0f805c1f0f69a66b260d489b0d0eec5e:facebook:
   spec:
     title: changesets warn received 404 for npm info on pre-release [nitpum.com]
