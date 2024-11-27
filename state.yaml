@@ -13820,6 +13820,32 @@
     url: https://www.somkiat.cc/product-developer/
   state:
     shortLink: https://webring.page.link/jUvs
+8a4112ba6a7ab97129bfcfe58c24743f:bluesky:
+  spec:
+    title: มาสร้าง Presentation ใน Terminal กัน [somkiat.cc]
+    url: https://www.somkiat.cc/terminal-based-presentation/
+  state:
+    cid: bafyreib2okmfunpo2igw74gbsi4xmmdgzhh3odzcd2yz3cpv6jj7ucan5i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lbvmbpjuzk2j
+8a4112ba6a7ab97129bfcfe58c24743f:facebook:
+  spec:
+    title: มาสร้าง Presentation ใน Terminal กัน [somkiat.cc]
+    url: https://www.somkiat.cc/terminal-based-presentation/
+  state:
+    id: '100746876247412_549646818024565'
+    url: https://www.facebook.com/100683012920950/posts/549646818024565
+8a4112ba6a7ab97129bfcfe58c24743f:mastodon:
+  spec:
+    title: มาสร้าง Presentation ใน Terminal กัน [somkiat.cc]
+    url: https://www.somkiat.cc/terminal-based-presentation/
+  state:
+    id: '113552792130491430'
+    url: https://mastodon.in.th/@webring/113552792130491430
+8a4112ba6a7ab97129bfcfe58c24743f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/terminal-based-presentation/
+  state:
+    shortLink: https://link.webring.in.th/2268
 8a4c7719f577f1af3b188aa8c289cba8:facebook:
   spec:
     title: A URL to a blank file on IPFS [dt.in.th]
