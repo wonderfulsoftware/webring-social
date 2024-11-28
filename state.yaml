@@ -8932,6 +8932,32 @@
     url: https://www.mikkipastel.com/drawing-pixel-art-svelte-website/
   state:
     shortLink: https://webring.page.link/d4HR
+5fb28d9fce59f5a3562bf98b27183af6:bluesky:
+  spec:
+    title: '[CR] Starbucks Banana Cake Topped with Mixed Grains [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/11/cr-starbucks-banana-cake-topped-with-mixed-grains/
+  state:
+    cid: bafyreicom3jzwtjktskjwoaqzlhwan76srcgxw6lrns5pezksljjt3vkp4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lby4qsmb7624
+5fb28d9fce59f5a3562bf98b27183af6:facebook:
+  spec:
+    title: '[CR] Starbucks Banana Cake Topped with Mixed Grains [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/11/cr-starbucks-banana-cake-topped-with-mixed-grains/
+  state:
+    id: '100746876247412_550355741287006'
+    url: https://www.facebook.com/100683012920950/posts/550355741287006
+5fb28d9fce59f5a3562bf98b27183af6:mastodon:
+  spec:
+    title: '[CR] Starbucks Banana Cake Topped with Mixed Grains [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/11/cr-starbucks-banana-cake-topped-with-mixed-grains/
+  state:
+    id: '113558454644826528'
+    url: https://mastodon.in.th/@webring/113558454644826528
+5fb28d9fce59f5a3562bf98b27183af6:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/11/cr-starbucks-banana-cake-topped-with-mixed-grains/
+  state:
+    shortLink: https://link.webring.in.th/2269
 5fb53007e440142b517e33b2a6588338:facebook:
   spec:
     title: Extract Saved Wi-Fi password on macOS [garden.narze.live]
