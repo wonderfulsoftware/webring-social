@@ -20359,6 +20359,32 @@ d05009833641cb3e21217d95badab7e2:shorturl:
     url: https://www.somkiat.cc/selinium-grid-4-and-appium/
   state:
     shortLink: https://webring.page.link/pLXJ
+d0587613e80512f822d887310b6320c6:bluesky:
+  spec:
+    title: JavaScript Loops ความเร็ว ปะทะ ความง่าย เลือกใช้ยังไง [boychawin.com]
+    url: https://boychawin.com/2024/11/28/js-loops-performance.html
+  state:
+    cid: bafyreifarcfr6mafgyzhnpaku5vm6nmicfvah7pr7y3hw4s7g7wvjwr4zu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lc2n73ssq32u
+d0587613e80512f822d887310b6320c6:facebook:
+  spec:
+    title: JavaScript Loops ความเร็ว ปะทะ ความง่าย เลือกใช้ยังไง [boychawin.com]
+    url: https://boychawin.com/2024/11/28/js-loops-performance.html
+  state:
+    id: '100746876247412_551103507878896'
+    url: https://www.facebook.com/100683012920950/posts/551103507878896
+d0587613e80512f822d887310b6320c6:mastodon:
+  spec:
+    title: JavaScript Loops ความเร็ว ปะทะ ความง่าย เลือกใช้ยังไง [boychawin.com]
+    url: https://boychawin.com/2024/11/28/js-loops-performance.html
+  state:
+    id: '113564115719439390'
+    url: https://mastodon.in.th/@webring/113564115719439390
+d0587613e80512f822d887310b6320c6:shorturl:
+  spec:
+    url: https://boychawin.com/2024/11/28/js-loops-performance.html
+  state:
+    shortLink: https://link.webring.in.th/2270
 d09e362befe037c0c29309df5304b501:facebook:
   spec:
     title: '[Presentation] Universal Motor [siravijbb.me]'
