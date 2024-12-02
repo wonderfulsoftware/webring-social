@@ -3412,6 +3412,32 @@
     url: https://lucian.solutions/blog/foodreview-hercheunfong
   state:
     shortLink: https://link.webring.in.th/1854
+2459fae93dd07003d7ea79f32fb40a87:bluesky:
+  spec:
+    title: 'ได้ไปฟังอะไรที่งาน National Coding Day 2024: Workshop Day บ้าง? [mikkipastel.com]'
+    url: https://www.mikkipastel.com/national-coding-day-2024-workshop-day/
+  state:
+    cid: bafyreihrht2pecvzljzl65fwxu5ahagbp43xwhffzs6vslojlyjxbxn6z4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lcci5hrzuq2y
+2459fae93dd07003d7ea79f32fb40a87:facebook:
+  spec:
+    title: 'ได้ไปฟังอะไรที่งาน National Coding Day 2024: Workshop Day บ้าง? [mikkipastel.com]'
+    url: https://www.mikkipastel.com/national-coding-day-2024-workshop-day/
+  state:
+    id: '100746876247412_553365420986038'
+    url: https://www.facebook.com/100683012920950/posts/553365420986038
+2459fae93dd07003d7ea79f32fb40a87:mastodon:
+  spec:
+    title: 'ได้ไปฟังอะไรที่งาน National Coding Day 2024: Workshop Day บ้าง? [mikkipastel.com]'
+    url: https://www.mikkipastel.com/national-coding-day-2024-workshop-day/
+  state:
+    id: '113581774739627860'
+    url: https://mastodon.in.th/@webring/113581774739627860
+2459fae93dd07003d7ea79f32fb40a87:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/national-coding-day-2024-workshop-day/
+  state:
+    shortLink: https://link.webring.in.th/2273
 245a1a179712fe246423c166c20f1568:facebook:
   spec:
     title: Spring Modulith 1.0 GA ออกมาแล้ว [somkiat.cc]
