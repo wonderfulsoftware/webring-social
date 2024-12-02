@@ -14278,6 +14278,32 @@
     url: https://garden.narze.live/Store-git-directory-externally/
   state:
     shortLink: https://webring.page.link/L2PD
+902007814da25cabe6c95d74d9762c33:bluesky:
+  spec:
+    title: 'จดๆจากงาน National Coding Day 2024: Conference Day [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/recap-from-national-coding-day-2024-conference-day/
+  state:
+    cid: bafyreiho2nsq66ks4hve3g67mj6qrxujxcsfn5kkugevennfa3vcpggzhi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lcc6tnorv42j
+902007814da25cabe6c95d74d9762c33:facebook:
+  spec:
+    title: 'จดๆจากงาน National Coding Day 2024: Conference Day [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/recap-from-national-coding-day-2024-conference-day/
+  state:
+    id: '100746876247412_553287944327119'
+    url: https://www.facebook.com/100683012920950/posts/553287944327119
+902007814da25cabe6c95d74d9762c33:mastodon:
+  spec:
+    title: 'จดๆจากงาน National Coding Day 2024: Conference Day [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/recap-from-national-coding-day-2024-conference-day/
+  state:
+    id: '113581119620100728'
+    url: https://mastodon.in.th/@webring/113581119620100728
+902007814da25cabe6c95d74d9762c33:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/12/recap-from-national-coding-day-2024-conference-day/
+  state:
+    shortLink: https://link.webring.in.th/2272
 903e0e13107e77a2cdc8928cd022fb19:facebook:
   spec:
     title: สรุปจากการอ่านหนังสือ Tidy First [somkiat.cc]
