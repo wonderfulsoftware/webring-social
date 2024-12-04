@@ -16189,6 +16189,32 @@ a2ddaf898161aef37c0bc75f362600b0:shorturl:
     url: https://www.somkiat.cc/observability-driven-development/
   state:
     shortLink: https://webring.page.link/zsoA
+a2e79db4f27621de9dcc43e896f4f7c9:bluesky:
+  spec:
+    title: 'หารนะ: เว็บที่ช่วยให้เรื่อง หารเงิน กับเพื่อนเป็นเรื่องง่าย [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/hannah-dutch-money-introduce
+  state:
+    cid: bafyreidasdacg4fodih35dmsodswdd6xr6djlgsbwoyg3jiad5h2qjwqn4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lchj2qd56625
+a2e79db4f27621de9dcc43e896f4f7c9:facebook:
+  spec:
+    title: 'หารนะ: เว็บที่ช่วยให้เรื่อง หารเงิน กับเพื่อนเป็นเรื่องง่าย [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/hannah-dutch-money-introduce
+  state:
+    id: '100746876247412_554796610842919'
+    url: https://www.facebook.com/100683012920950/posts/554796610842919
+a2e79db4f27621de9dcc43e896f4f7c9:mastodon:
+  spec:
+    title: 'หารนะ: เว็บที่ช่วยให้เรื่อง หารเงิน กับเพื่อนเป็นเรื่องง่าย [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/hannah-dutch-money-introduce
+  state:
+    id: '113593098072793727'
+    url: https://mastodon.in.th/@webring/113593098072793727
+a2e79db4f27621de9dcc43e896f4f7c9:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/hannah-dutch-money-introduce
+  state:
+    shortLink: https://link.webring.in.th/2275
 a35d5791840c02d1e557b208bc656cfa:facebook:
   spec:
     title: 'สรุป DevClub#2: Databases @AWS [debuggingsoft.com]'
