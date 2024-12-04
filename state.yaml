@@ -5252,6 +5252,32 @@
     url: https://www.somkiat.cc/sharing-javascript-testing-every-day/
   state:
     shortLink: https://link.webring.in.th/1741
+376e0c378b51f02cfe0c34b51e678c11:bluesky:
+  spec:
+    title: 'สรุป OC24: LeSS Architecture [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summary-oc24-less-architecture/
+  state:
+    cid: bafyreifkyenbb3myfwbchevccktisxjn4ndw7ztkamvjw4p6wfgdlk7aa4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lch7nyrcls2k
+376e0c378b51f02cfe0c34b51e678c11:facebook:
+  spec:
+    title: 'สรุป OC24: LeSS Architecture [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summary-oc24-less-architecture/
+  state:
+    id: '100746876247412_554717297517517'
+    url: https://www.facebook.com/100683012920950/posts/554717297517517
+376e0c378b51f02cfe0c34b51e678c11:mastodon:
+  spec:
+    title: 'สรุป OC24: LeSS Architecture [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/summary-oc24-less-architecture/
+  state:
+    id: '113592436539551865'
+    url: https://mastodon.in.th/@webring/113592436539551865
+376e0c378b51f02cfe0c34b51e678c11:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/summary-oc24-less-architecture/
+  state:
+    shortLink: https://link.webring.in.th/2274
 37738d51ae45c552372b0e522542782e:facebook:
   spec:
     title: ท่าไม้ตาย React Hook [tech.duckfollow.co]
