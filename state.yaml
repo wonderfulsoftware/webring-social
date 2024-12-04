@@ -12630,6 +12630,32 @@
     url: https://www.somkiat.cc/agentic-ai-design-patterns/
   state:
     shortLink: https://link.webring.in.th/2180
+7eab379d43f8287c7bdc1ae78182a15a:bluesky:
+  spec:
+    title: '[CR] Starbucks Chicken Thousand Island Sandwich [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/cr-starbucks-chicken-thousand-island-sandwich/
+  state:
+    cid: bafyreifzxlrgwlc4yhkfcootnylyhlzk7esh4ul4u35woqg3vroetei62m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lchsu5lvmx2y
+7eab379d43f8287c7bdc1ae78182a15a:facebook:
+  spec:
+    title: '[CR] Starbucks Chicken Thousand Island Sandwich [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/cr-starbucks-chicken-thousand-island-sandwich/
+  state:
+    id: '100746876247412_554875944168319'
+    url: https://www.facebook.com/100683012920950/posts/554875944168319
+7eab379d43f8287c7bdc1ae78182a15a:mastodon:
+  spec:
+    title: '[CR] Starbucks Chicken Thousand Island Sandwich [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/cr-starbucks-chicken-thousand-island-sandwich/
+  state:
+    id: '113593787186307930'
+    url: https://mastodon.in.th/@webring/113593787186307930
+7eab379d43f8287c7bdc1ae78182a15a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/12/cr-starbucks-chicken-thousand-island-sandwich/
+  state:
+    shortLink: https://link.webring.in.th/2276
 7ec13a078000a016e991c5f5743d4a89:facebook:
   spec:
     title: Fixed DevExpress.XtraPrinting Throw PlatformNotSupportedException [debuggingsoft.com]
