@@ -14586,6 +14586,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/03/how-to-fix-error-trustanchors-parameter-must-be-non-empty/
   state:
     shortLink: https://link.webring.in.th/1841
+91e3bbbf8fd1042614c48e31866c6308:bluesky:
+  spec:
+    title: 'Troubleshooting Guide: Microsoft 365 Trial Account Issues and Solutions [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/troubleshooting-guide-microsoft-365-trial-account-issues-and-solutions/
+  state:
+    cid: bafyreie2gckohksoxfy57bmnqypqp7aq47e72uyjwkqyn4yddnwgunrbam
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lcjq5qr77b2c
+91e3bbbf8fd1042614c48e31866c6308:facebook:
+  spec:
+    title: 'Troubleshooting Guide: Microsoft 365 Trial Account Issues and Solutions [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/troubleshooting-guide-microsoft-365-trial-account-issues-and-solutions/
+  state:
+    id: '100746876247412_555398557449391'
+    url: https://www.facebook.com/100683012920950/posts/555398557449391
+91e3bbbf8fd1042614c48e31866c6308:mastodon:
+  spec:
+    title: 'Troubleshooting Guide: Microsoft 365 Trial Account Issues and Solutions [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/troubleshooting-guide-microsoft-365-trial-account-issues-and-solutions/
+  state:
+    id: '113598100633632345'
+    url: https://mastodon.in.th/@webring/113598100633632345
+91e3bbbf8fd1042614c48e31866c6308:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/12/troubleshooting-guide-microsoft-365-trial-account-issues-and-solutions/
+  state:
+    shortLink: https://link.webring.in.th/2277
 92051a88851fafb3ad63bcc418fdb505:facebook:
   spec:
     title: Book Highlights - Build by Tony Fadell [karnwong.me]
