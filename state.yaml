@@ -7621,6 +7621,32 @@
     url: https://www.mikkipastel.com/email-management-getting-thing-done/
   state:
     shortLink: https://webring.page.link/kkwe
+5038ab2e5b9befaaa9962c4b6ca13a19:bluesky:
+  spec:
+    title: Native Implementation vs Wasm for Go, Python and Rust Benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2024/12/native-implementation-vs-wasm-for-go-python-and-rust-benchmark/
+  state:
+    cid: bafyreibiytpia3735iukqs2supa7dpv7da3mmx7vj7irioy3lgsgpx3qje
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lcjzjtmh232g
+5038ab2e5b9befaaa9962c4b6ca13a19:facebook:
+  spec:
+    title: Native Implementation vs Wasm for Go, Python and Rust Benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2024/12/native-implementation-vs-wasm-for-go-python-and-rust-benchmark/
+  state:
+    id: '100746876247412_555469937442253'
+    url: https://www.facebook.com/100683012920950/posts/555469937442253
+5038ab2e5b9befaaa9962c4b6ca13a19:mastodon:
+  spec:
+    title: Native Implementation vs Wasm for Go, Python and Rust Benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2024/12/native-implementation-vs-wasm-for-go-python-and-rust-benchmark/
+  state:
+    id: '113598760773094667'
+    url: https://mastodon.in.th/@webring/113598760773094667
+5038ab2e5b9befaaa9962c4b6ca13a19:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/12/native-implementation-vs-wasm-for-go-python-and-rust-benchmark/
+  state:
+    shortLink: https://link.webring.in.th/2278
 50a74ac75b2887f6cf406afbe60b4d0a:facebook:
   spec:
     title: Tesla Thailand และ “กว่าจะส่งมอบ” [shayennn.com]
