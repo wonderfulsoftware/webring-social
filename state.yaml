@@ -19235,6 +19235,32 @@ c1a414466d4446fd56af4c6ff7abc8ab:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/06/performance-issue/
   state:
     shortLink: https://link.webring.in.th/1986
+c1a897ffd3d4951f8c7a29b7bf850698:bluesky:
+  spec:
+    title: ลอง Rust Basic (1) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/rust-basic-1/
+  state:
+    cid: bafyreidao5pzxpzqiofpejznadizset2realikouzb4x7zco5txj6mh2hy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lcmakqdza52n
+c1a897ffd3d4951f8c7a29b7bf850698:facebook:
+  spec:
+    title: ลอง Rust Basic (1) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/rust-basic-1/
+  state:
+    id: '100746876247412_556081444047769'
+    url: https://www.facebook.com/100683012920950/posts/556081444047769
+c1a897ffd3d4951f8c7a29b7bf850698:mastodon:
+  spec:
+    title: ลอง Rust Basic (1) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/rust-basic-1/
+  state:
+    id: '113603758838075021'
+    url: https://mastodon.in.th/@webring/113603758838075021
+c1a897ffd3d4951f8c7a29b7bf850698:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/rust-basic-1/
+  state:
+    shortLink: https://link.webring.in.th/2279
 c25a1751edc8f9642937cb00ebca5982:facebook:
   spec:
     title: Building a Second Brain [garden.narze.live]
