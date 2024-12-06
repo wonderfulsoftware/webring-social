@@ -6180,6 +6180,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/10/share-experience-transfrom-requirement-to-an-application/
   state:
     shortLink: https://link.webring.in.th/2192
+415fb9b9d57c36451a434b78184af23e:bluesky:
+  spec:
+    title: Illustration - Can We Talk [lucian.solutions]
+    url: https://lucian.solutions/blog/2024012-can-we-talk
+  state:
+    cid: bafyreigdaor6azyp6kghjo3cytncubr3nvar3ifqk3bjy56hnf4u2v2mxe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lcmtrsvsde2b
+415fb9b9d57c36451a434b78184af23e:facebook:
+  spec:
+    title: Illustration - Can We Talk [lucian.solutions]
+    url: https://lucian.solutions/blog/2024012-can-we-talk
+  state:
+    id: '100746876247412_556233724032541'
+    url: https://www.facebook.com/100683012920950/posts/556233724032541
+415fb9b9d57c36451a434b78184af23e:mastodon:
+  spec:
+    title: Illustration - Can We Talk [lucian.solutions]
+    url: https://lucian.solutions/blog/2024012-can-we-talk
+  state:
+    id: '113605111023735548'
+    url: https://mastodon.in.th/@webring/113605111023735548
+415fb9b9d57c36451a434b78184af23e:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/2024012-can-we-talk
+  state:
+    shortLink: https://link.webring.in.th/2281
 417142d1798f834f03b78608976aae71:facebook:
   spec:
     title: Setting up Kafka with Kafka connect from SQL server to Cloud storage (GCS) [mesodiar.com]
