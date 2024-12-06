@@ -4865,6 +4865,32 @@
     url: https://lucian.solutions/blog/lucia-uncaught-typeerror
   state:
     shortLink: https://webring.page.link/DFxT
+3305e349d06181d52d34c90ab47a4dea:bluesky:
+  spec:
+    title: ทดสอบโปรแกรมง่ายกว่าเดิมด้วย Testcontainers [pontakorn.dev]
+    url: https://pontakorn.dev/posts/easier-testing-with-testcontainers/
+  state:
+    cid: bafyreia7rscry5ziqk3njqasq2v4coht7iklxkksjyn7cfcbex2mgogbym
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lcmjyk4drt2q
+3305e349d06181d52d34c90ab47a4dea:facebook:
+  spec:
+    title: ทดสอบโปรแกรมง่ายกว่าเดิมด้วย Testcontainers [pontakorn.dev]
+    url: https://pontakorn.dev/posts/easier-testing-with-testcontainers/
+  state:
+    id: '100746876247412_556158407373406'
+    url: https://www.facebook.com/100683012920950/posts/556158407373406
+3305e349d06181d52d34c90ab47a4dea:mastodon:
+  spec:
+    title: ทดสอบโปรแกรมง่ายกว่าเดิมด้วย Testcontainers [pontakorn.dev]
+    url: https://pontakorn.dev/posts/easier-testing-with-testcontainers/
+  state:
+    id: '113604422548533238'
+    url: https://mastodon.in.th/@webring/113604422548533238
+3305e349d06181d52d34c90ab47a4dea:shorturl:
+  spec:
+    url: https://pontakorn.dev/posts/easier-testing-with-testcontainers/
+  state:
+    shortLink: https://link.webring.in.th/2280
 3310ca25418d424b059b5805051094ba:facebook:
   spec:
     title: AirPlay, HomeKit ข้าม VLAN ด้วย Avahi [nuttdam.com]
