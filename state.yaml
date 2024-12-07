@@ -20524,6 +20524,32 @@ cf64c16e9b8712becfa47eb06525d851:shorturl:
     url: https://notes.dt.in.th/HDRQRCode
   state:
     shortLink: https://webring.page.link/sMUn
+cf9cf52fd08e07f2a82e1f687b31a14b:bluesky:
+  spec:
+    title: มางานใหญ่ประจำปีของครีเอเตอร์ iCreator Conference 2024 [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-conference-2024/
+  state:
+    cid: bafyreiedr6z2zoqyf6rggexeeqkwrlvcrk6ajhh6ztaaeo75f2vsmuyasy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lcoqwz7azh2b
+cf9cf52fd08e07f2a82e1f687b31a14b:facebook:
+  spec:
+    title: มางานใหญ่ประจำปีของครีเอเตอร์ iCreator Conference 2024 [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-conference-2024/
+  state:
+    id: '100746876247412_556781100644470'
+    url: https://www.facebook.com/100683012920950/posts/556781100644470
+cf9cf52fd08e07f2a82e1f687b31a14b:mastodon:
+  spec:
+    title: มางานใหญ่ประจำปีของครีเอเตอร์ iCreator Conference 2024 [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-conference-2024/
+  state:
+    id: '113609415260338779'
+    url: https://mastodon.in.th/@webring/113609415260338779
+cf9cf52fd08e07f2a82e1f687b31a14b:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/icreator-conference-2024/
+  state:
+    shortLink: https://link.webring.in.th/2282
 cfb5c25a951291bb40f94b5fe3a3b0e1:facebook:
   spec:
     title: การใช้งาน Docker compose watch สำหรับ Vite [somkiat.cc]
