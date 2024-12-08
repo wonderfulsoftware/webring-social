@@ -17969,6 +17969,32 @@ b2e53c58a31ce517cdd00d1a61d2ecd9:shorturl:
     url: https://www.somkiat.cc/book-head-first-software-architecture/
   state:
     shortLink: https://link.webring.in.th/1811
+b2e62d76bc40a2f722c15ad9d90a7fea:bluesky:
+  spec:
+    title: เปรียบเทียบค่าธรรมเนียมหุ้นต่างประเทศ โบรกไหนเหมาะกับคุณ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/commission
+  state:
+    cid: bafyreidudfckjpepntv3otw6kk6ahganj6ntjtlprkze66heoamyyivzeq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lcrbok7aai24
+b2e62d76bc40a2f722c15ad9d90a7fea:facebook:
+  spec:
+    title: เปรียบเทียบค่าธรรมเนียมหุ้นต่างประเทศ โบรกไหนเหมาะกับคุณ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/commission
+  state:
+    id: '100746876247412_557464097242837'
+    url: https://www.facebook.com/100683012920950/posts/557464097242837
+b2e62d76bc40a2f722c15ad9d90a7fea:mastodon:
+  spec:
+    title: เปรียบเทียบค่าธรรมเนียมหุ้นต่างประเทศ โบรกไหนเหมาะกับคุณ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/commission
+  state:
+    id: '113615096559612483'
+    url: https://mastodon.in.th/@webring/113615096559612483
+b2e62d76bc40a2f722c15ad9d90a7fea:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/commission
+  state:
+    shortLink: https://link.webring.in.th/2284
 b34787d3cfdba4d28577f3f1097ab7ee:facebook:
   spec:
     title: 'สนุกกับอุปนัย: ตัดแบ่งปริภูมิได้กี่ชิ้น? [neizod.dev]'
