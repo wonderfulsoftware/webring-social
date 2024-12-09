@@ -19783,6 +19783,32 @@ c6297aea9ca5b4b36a5b7c8ed1569cc6:shorturl:
     url: https://karnwong.me/posts/2023/09/spark-on-kubernetes/
   state:
     shortLink: https://webring.page.link/pqis
+c64d664351c42aa2d360ae9a7ea85998:bluesky:
+  spec:
+    title: 'ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP4 : วันที่ 3 [kusumotolab.com]'
+    url: https://kusumotolab.com/first-time-singapore-trip-ep-4/
+  state:
+    cid: bafyreietvqt5v6qojcfwiuuq7rtmzxt6uzulmvzmjoxxihcuhcpliavika
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lcts6hvw5l2b
+c64d664351c42aa2d360ae9a7ea85998:facebook:
+  spec:
+    title: 'ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP4 : วันที่ 3 [kusumotolab.com]'
+    url: https://kusumotolab.com/first-time-singapore-trip-ep-4/
+  state:
+    id: '100746876247412_558177510504829'
+    url: https://www.facebook.com/100683012920950/posts/558177510504829
+c64d664351c42aa2d360ae9a7ea85998:mastodon:
+  spec:
+    title: 'ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP4 : วันที่ 3 [kusumotolab.com]'
+    url: https://kusumotolab.com/first-time-singapore-trip-ep-4/
+  state:
+    id: '113620760700603957'
+    url: https://mastodon.in.th/@webring/113620760700603957
+c64d664351c42aa2d360ae9a7ea85998:shorturl:
+  spec:
+    url: https://kusumotolab.com/first-time-singapore-trip-ep-4/
+  state:
+    shortLink: https://link.webring.in.th/2285
 c6a8ae664eba1a51749366e09cff6a06:facebook:
   spec:
     title: 'ทำความรู้จักกับ YARP: Yet Another Reverse Proxy [somkiat.cc]'
