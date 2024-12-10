@@ -145,6 +145,32 @@
     url: https://taoisaman.com/2023/07/08/%e0%b8%a5%e0%b8%ad%e0%b8%87-clone-chatgpt-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-chatgpt/
   state:
     shortLink: https://webring.page.link/7fME
+01702aa8974a870b80febef60336e2f5:bluesky:
+  spec:
+    title: มาลองใช้งาน LlamaEdge สำหรับ run LLM บนเครื่องแบบเบา ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/hello-llamaedge/
+  state:
+    cid: bafyreicu4gtpbeikoydo6epnge2dd7mogspilcmvwetdg3ew4u6eitalsq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lcwckvyvgj2y
+01702aa8974a870b80febef60336e2f5:facebook:
+  spec:
+    title: มาลองใช้งาน LlamaEdge สำหรับ run LLM บนเครื่องแบบเบา ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/hello-llamaedge/
+  state:
+    id: '100746876247412_558841967105050'
+    url: https://www.facebook.com/100683012920950/posts/558841967105050
+01702aa8974a870b80febef60336e2f5:mastodon:
+  spec:
+    title: มาลองใช้งาน LlamaEdge สำหรับ run LLM บนเครื่องแบบเบา ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/hello-llamaedge/
+  state:
+    id: '113626417892181139'
+    url: https://mastodon.in.th/@webring/113626417892181139
+01702aa8974a870b80febef60336e2f5:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-llamaedge/
+  state:
+    shortLink: https://link.webring.in.th/2286
 017b14ff94bdfdb28722f875fa3d6791:facebook:
   spec:
     title: มางาน Notion Meetup Thailand 2023 First Love with Notion ที่จัดครั้งแรกในไทย [mikkipastel.com]
