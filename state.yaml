@@ -24241,6 +24241,32 @@ f4e7e3f8237055116b392dbe72f37fb9:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/09/aws-cloud-essential-service-core-note/
   state:
     shortLink: https://link.webring.in.th/2141
+f5109db332b0e52bdff07389f9949042:bluesky:
+  spec:
+    title: รู้เรื่อง Docker 101 จากชาว Bitcoiner [mikkipastel.com]
+    url: https://www.mikkipastel.com/docker-101/
+  state:
+    cid: bafyreif6dducjo3skmg5ufpnzryweubsszmw45ohapxb3qbterofa23lde
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lcwvnuqdda27
+f5109db332b0e52bdff07389f9949042:facebook:
+  spec:
+    title: รู้เรื่อง Docker 101 จากชาว Bitcoiner [mikkipastel.com]
+    url: https://www.mikkipastel.com/docker-101/
+  state:
+    id: '100746876247412_558980313757882'
+    url: https://www.facebook.com/100683012920950/posts/558980313757882
+f5109db332b0e52bdff07389f9949042:mastodon:
+  spec:
+    title: รู้เรื่อง Docker 101 จากชาว Bitcoiner [mikkipastel.com]
+    url: https://www.mikkipastel.com/docker-101/
+  state:
+    id: '113627761496764644'
+    url: https://mastodon.in.th/@webring/113627761496764644
+f5109db332b0e52bdff07389f9949042:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/docker-101/
+  state:
+    shortLink: https://link.webring.in.th/2288
 f52e6cc105cd38ba08ddb80ada7f1b01:facebook:
   spec:
     title: Riffy's adventure to Northern Japan and choked along the way [rayriffy.com]
