@@ -21677,6 +21677,32 @@ d9efbdce1358663c882dabc04d53db9b:shorturl:
     url: https://mesodiar.com/%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%9B-google-i-o-connect-2023-%E0%B8%97%E0%B8%B5%E0%B9%88-bengaluru-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%B2-219b534c374d?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/z7RB
+da3c6b774381d77e79a0296a63ecb7e8:bluesky:
+  spec:
+    title: Frozen Caveman Anti-Pattern [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/frozen-caveman-anti-pattern/
+  state:
+    cid: bafyreifshum36de3vrjgrpz3zs2yuxuptg552vqw6qwoyiplkt5zopgkii
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lcwltzn5up2q
+da3c6b774381d77e79a0296a63ecb7e8:facebook:
+  spec:
+    title: Frozen Caveman Anti-Pattern [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/frozen-caveman-anti-pattern/
+  state:
+    id: '100746876247412_558909920431588'
+    url: https://www.facebook.com/100683012920950/posts/558909920431588
+da3c6b774381d77e79a0296a63ecb7e8:mastodon:
+  spec:
+    title: Frozen Caveman Anti-Pattern [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/frozen-caveman-anti-pattern/
+  state:
+    id: '113627071300278128'
+    url: https://mastodon.in.th/@webring/113627071300278128
+da3c6b774381d77e79a0296a63ecb7e8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/12/frozen-caveman-anti-pattern/
+  state:
+    shortLink: https://link.webring.in.th/2287
 da81179c3128e142b8cb38eacefc2685:facebook:
   spec:
     title: 'สรุป UXTH Meetup: UX & Biometrics [blog.ninprd.com]'
