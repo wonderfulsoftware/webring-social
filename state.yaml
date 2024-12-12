@@ -20305,6 +20305,32 @@ cbaf03287d2a694770fe524212013080:shorturl:
     url: https://thanapon.info/influxdb-cli-create-user/
   state:
     shortLink: https://link.webring.in.th/2228
+cbea474a75cab605aa911556501d40ff:bluesky:
+  spec:
+    title: 'Proxmox: How to Remove directory [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/proxmox-how-to-remove-directory/
+  state:
+    cid: bafyreicz4qlqtlcqfhit465wox6wvhm5o5og3y4xh7fxrke7nptrrih64q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ld3dfnnqlg27
+cbea474a75cab605aa911556501d40ff:facebook:
+  spec:
+    title: 'Proxmox: How to Remove directory [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/proxmox-how-to-remove-directory/
+  state:
+    id: '100746876247412_560121610310419'
+    url: https://www.facebook.com/100683012920950/posts/560121610310419
+cbea474a75cab605aa911556501d40ff:mastodon:
+  spec:
+    title: 'Proxmox: How to Remove directory [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/proxmox-how-to-remove-directory/
+  state:
+    id: '113637735443314321'
+    url: https://mastodon.in.th/@webring/113637735443314321
+cbea474a75cab605aa911556501d40ff:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/12/proxmox-how-to-remove-directory/
+  state:
+    shortLink: https://link.webring.in.th/2289
 cbedb9317a83e62f89c145a9be52d5f9:facebook:
   spec:
     title: Feeds 2.5, bring back files database [llun.me]
