@@ -10035,6 +10035,32 @@
     url: https://kajame.xyz/blog/2024/create-change-image-type-cli
   state:
     shortLink: https://link.webring.in.th/1756
+67511f4142b669e6166d9fe7d1f3840b:bluesky:
+  spec:
+    title: ภาษีบุคคลธรรมดา 2567 ฉบับเข้าใจทั้งหมด [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/personal-tax-2567
+  state:
+    cid: bafyreia52eyi7nqt4db6foxyjwcp2mdodmoaomo6qi7w5s6u2pbeuc6p2i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ld5twaxamv24
+67511f4142b669e6166d9fe7d1f3840b:facebook:
+  spec:
+    title: ภาษีบุคคลธรรมดา 2567 ฉบับเข้าใจทั้งหมด [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/personal-tax-2567
+  state:
+    id: '100746876247412_560828726906374'
+    url: https://www.facebook.com/100683012920950/posts/560828726906374
+67511f4142b669e6166d9fe7d1f3840b:mastodon:
+  spec:
+    title: ภาษีบุคคลธรรมดา 2567 ฉบับเข้าใจทั้งหมด [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/personal-tax-2567
+  state:
+    id: '113643401767108539'
+    url: https://mastodon.in.th/@webring/113643401767108539
+67511f4142b669e6166d9fe7d1f3840b:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/personal-tax-2567
+  state:
+    shortLink: https://link.webring.in.th/2290
 675d7c891c7dbec361d55d4ab061d568:facebook:
   spec:
     title: สรุป Backend Meetup 2023 [debuggingsoft.com]
