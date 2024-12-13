@@ -10462,6 +10462,32 @@
     url: https://www.anuwong.com/blog/2024-01-29-redis-watch/
   state:
     shortLink: https://link.webring.in.th/1746
+6b38db67eb623b3b1162a1bf23052785:bluesky:
+  spec:
+    title: 'Tips :: ใช้ Playwright ในการบันทึก screenshot หน้า web ที่ต้องการ [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-screenshot-with-playwright/
+  state:
+    cid: bafyreiei2yvy24ttsgmbzdrh6nqa52p6hwcs6ihpgneflkxtsjxah2hwxm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ld6gztalxe2h
+6b38db67eb623b3b1162a1bf23052785:facebook:
+  spec:
+    title: 'Tips :: ใช้ Playwright ในการบันทึก screenshot หน้า web ที่ต้องการ [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-screenshot-with-playwright/
+  state:
+    id: '100746876247412_560978613558052'
+    url: https://www.facebook.com/100683012920950/posts/560978613558052
+6b38db67eb623b3b1162a1bf23052785:mastodon:
+  spec:
+    title: 'Tips :: ใช้ Playwright ในการบันทึก screenshot หน้า web ที่ต้องการ [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-screenshot-with-playwright/
+  state:
+    id: '113644746599061305'
+    url: https://mastodon.in.th/@webring/113644746599061305
+6b38db67eb623b3b1162a1bf23052785:shorturl:
+  spec:
+    url: https://www.somkiat.cc/tips-screenshot-with-playwright/
+  state:
+    shortLink: https://link.webring.in.th/2292
 6ba58466129573cbcb4ee479725d9d2d:facebook:
   spec:
     title: 'Go :: ความแตกต่างระหว่าง go mod tidy กับ go mod download [somkiat.cc]'
