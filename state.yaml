@@ -8722,6 +8722,32 @@
     url: https://chrisza.me/security-part-of-solution/
   state:
     shortLink: https://webring.page.link/5ZoG
+5c093088a17e7b1f4dbf60152f319cc5:bluesky:
+  spec:
+    title: 12-12 Burger King Whopper [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/12-12-burger-king-whopper/
+  state:
+    cid: bafyreiar335h5fw5yzahm35smwvmu2z2u5xatvsbsfmja5dc4xoduxn3mu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldanmvpxb626
+5c093088a17e7b1f4dbf60152f319cc5:facebook:
+  spec:
+    title: 12-12 Burger King Whopper [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/12-12-burger-king-whopper/
+  state:
+    id: '100746876247412_561584780164102'
+    url: https://www.facebook.com/100683012920950/posts/561584780164102
+5c093088a17e7b1f4dbf60152f319cc5:mastodon:
+  spec:
+    title: 12-12 Burger King Whopper [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/12-12-burger-king-whopper/
+  state:
+    id: '113649714127221511'
+    url: https://mastodon.in.th/@webring/113649714127221511
+5c093088a17e7b1f4dbf60152f319cc5:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/12/12-12-burger-king-whopper/
+  state:
+    shortLink: https://link.webring.in.th/2294
 5c238235eed4cca2b6aaf8aa639ce5dc:facebook:
   spec:
     title: สรุปการอ่านเรื่อง How Levels.fyi scaled to millions of users with Google Sheets as a backend [somkiat.cc]
