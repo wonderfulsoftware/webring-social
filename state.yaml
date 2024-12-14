@@ -13778,6 +13778,32 @@
     url: https://blog.oatto.dev/2024/10/19/js-bkk-2-0-0.html
   state:
     shortLink: https://link.webring.in.th/2207
+862d11a9ade549bf23b115539b8a44a1:bluesky:
+  spec:
+    title: K-sortable unique ID formats (and generator) [dt.in.th]
+    url: https://notes.dt.in.th/KSortableUniqueID
+  state:
+    cid: bafyreiflwpnpc53veakrkwox6e3oj3cdxuxdc3nrplzyyawmx45krgvwie
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldae2kkbog2y
+862d11a9ade549bf23b115539b8a44a1:facebook:
+  spec:
+    title: K-sortable unique ID formats (and generator) [dt.in.th]
+    url: https://notes.dt.in.th/KSortableUniqueID
+  state:
+    id: '100746876247412_561502680172312'
+    url: https://www.facebook.com/100683012920950/posts/561502680172312
+862d11a9ade549bf23b115539b8a44a1:mastodon:
+  spec:
+    title: K-sortable unique ID formats (and generator) [dt.in.th]
+    url: https://notes.dt.in.th/KSortableUniqueID
+  state:
+    id: '113649040817720042'
+    url: https://mastodon.in.th/@webring/113649040817720042
+862d11a9ade549bf23b115539b8a44a1:shorturl:
+  spec:
+    url: https://notes.dt.in.th/KSortableUniqueID
+  state:
+    shortLink: https://link.webring.in.th/2293
 864060347ee9d8a0754b17cbfea3ecca:facebook:
   spec:
     title: สวัสดี .NET Aspire [somkiat.cc]
