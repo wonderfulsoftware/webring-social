@@ -7732,6 +7732,18 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/global-ai-bootcamp-thailand-2023/
   state:
     shortLink: https://webring.page.link/jxX2
+4fc1460f693c9d448679f58ac9170ff3:mastodon:
+  spec:
+    title: Setting up WARP for Cloudflare Access [zartre.com]
+    url: https://blog.zartre.com/2024/setting-up-warp-for-cloudflare-access/
+  state:
+    id: '113655377710255652'
+    url: https://mastodon.in.th/@webring/113655377710255652
+4fc1460f693c9d448679f58ac9170ff3:shorturl:
+  spec:
+    url: https://blog.zartre.com/2024/setting-up-warp-for-cloudflare-access/
+  state:
+    shortLink: https://link.webring.in.th/2296
 4fce6918c26bdefa22fac2d298989678:facebook:
   spec:
     title: มาทำ Email Management ฉบับ Getting Thing Done กัน [mikkipastel.com]
