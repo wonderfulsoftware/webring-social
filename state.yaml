@@ -7732,6 +7732,20 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/global-ai-bootcamp-thailand-2023/
   state:
     shortLink: https://webring.page.link/jxX2
+4fc1460f693c9d448679f58ac9170ff3:bluesky:
+  spec:
+    title: Setting up WARP for Cloudflare Access [zartre.com]
+    url: https://blog.zartre.com/2024/setting-up-warp-for-cloudflare-access/
+  state:
+    cid: bafyreiavh2a5mvk25ag6xqthdjudewmi2g2rjvgaggp5srtkgcumne2r7e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lddhvch3nb2x
+4fc1460f693c9d448679f58ac9170ff3:facebook:
+  spec:
+    title: Setting up WARP for Cloudflare Access [zartre.com]
+    url: https://blog.zartre.com/2024/setting-up-warp-for-cloudflare-access/
+  state:
+    id: '100746876247412_562376990084881'
+    url: https://www.facebook.com/100683012920950/posts/562376990084881
 4fc1460f693c9d448679f58ac9170ff3:mastodon:
   spec:
     title: Setting up WARP for Cloudflare Access [zartre.com]
