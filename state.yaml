@@ -2310,6 +2310,32 @@
     url: https://www.somkiat.cc/ephemeral-environment/
   state:
     shortLink: https://webring.page.link/ETja
+19bb42202c468271d853f74fce20a953:bluesky:
+  spec:
+    title: Year in Review 2024 [rayriffy.com]
+    url: https://rayriffy.com/blog/year-in-review-2024/
+  state:
+    cid: bafyreia5kdoccpptiyqw5qyl5356ofnuqq4sscvy6ypldrqudffevhhbfa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldfooya7qh2e
+19bb42202c468271d853f74fce20a953:facebook:
+  spec:
+    title: Year in Review 2024 [rayriffy.com]
+    url: https://rayriffy.com/blog/year-in-review-2024/
+  state:
+    id: '100746876247412_563024283353485'
+    url: https://www.facebook.com/100683012920950/posts/563024283353485
+19bb42202c468271d853f74fce20a953:mastodon:
+  spec:
+    title: Year in Review 2024 [rayriffy.com]
+    url: https://rayriffy.com/blog/year-in-review-2024/
+  state:
+    id: '113661048410765109'
+    url: https://mastodon.in.th/@webring/113661048410765109
+19bb42202c468271d853f74fce20a953:shorturl:
+  spec:
+    url: https://rayriffy.com/blog/year-in-review-2024/
+  state:
+    shortLink: https://link.webring.in.th/2298
 19bb8087fd42937bba2bad8e8cbf2c3c:facebook:
   spec:
     title: บวกเลขโดยไม่ใช้เครื่องหมายบวก [neizod.dev]
