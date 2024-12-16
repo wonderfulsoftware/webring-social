@@ -5235,6 +5235,32 @@
     url: https://www.mikkipastel.com/kotlin-meetup-2024-1-kotlin-multiplatform/
   state:
     shortLink: https://link.webring.in.th/2044
+35ee816d5ab5f6aea0a23b7ec2f61a85:bluesky:
+  spec:
+    title: แวะมาฟัง Lead Engineer Meetup [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/drop-in-lead-engineer-meetup/
+  state:
+    cid: bafyreiaszv4w73xlntueoggqgj2xejznzsklztb6uvyv22u6tfdl2nzh2i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldffgzv2fg2p
+35ee816d5ab5f6aea0a23b7ec2f61a85:facebook:
+  spec:
+    title: แวะมาฟัง Lead Engineer Meetup [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/drop-in-lead-engineer-meetup/
+  state:
+    id: '100746876247412_562948963361017'
+    url: https://www.facebook.com/100683012920950/posts/562948963361017
+35ee816d5ab5f6aea0a23b7ec2f61a85:mastodon:
+  spec:
+    title: แวะมาฟัง Lead Engineer Meetup [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/drop-in-lead-engineer-meetup/
+  state:
+    id: '113660397471448830'
+    url: https://mastodon.in.th/@webring/113660397471448830
+35ee816d5ab5f6aea0a23b7ec2f61a85:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/12/drop-in-lead-engineer-meetup/
+  state:
+    shortLink: https://link.webring.in.th/2297
 360b975088e620e44a3a020629fcff05:facebook:
   spec:
     title: MockTimers ใน NodeJS 20.4.0 [somkiat.cc]
