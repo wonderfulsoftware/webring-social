@@ -5306,6 +5306,32 @@
     url: https://www.somkiat.cc/mocktimers-in-nodejs-20-4-0/
   state:
     shortLink: https://webring.page.link/M8PP
+3612f64fc5caf50db9c4ac6dea46a09b:bluesky:
+  spec:
+    title: ลองเอา code มาปรับปรุงนิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/fun-with-improve-code/
+  state:
+    cid: bafyreigtnve24im63zu2bpkyfpzqlwforyqhuxvtzfvnmsjvjhqil5n4im
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldfyimjz3c2f
+3612f64fc5caf50db9c4ac6dea46a09b:facebook:
+  spec:
+    title: ลองเอา code มาปรับปรุงนิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/fun-with-improve-code/
+  state:
+    id: '100746876247412_563104973345416'
+    url: https://www.facebook.com/100683012920950/posts/563104973345416
+3612f64fc5caf50db9c4ac6dea46a09b:mastodon:
+  spec:
+    title: ลองเอา code มาปรับปรุงนิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/fun-with-improve-code/
+  state:
+    id: '113661738095361289'
+    url: https://mastodon.in.th/@webring/113661738095361289
+3612f64fc5caf50db9c4ac6dea46a09b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/fun-with-improve-code/
+  state:
+    shortLink: https://link.webring.in.th/2299
 36521a47e5099dd12aa41ad7af79dd32:facebook:
   spec:
     title: วิธีการแก้ไขปัญหา Asynchronous Function บน React.js Hook (useEfffect) ด้วยวิธี IIFE [toupawa.com]
