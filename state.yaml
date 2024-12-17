@@ -418,6 +418,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/06/fixed-bluetooth-to-3-5-jack-auto-close-when-change-new-track/
   state:
     shortLink: https://link.webring.in.th/1969
+05dbab9861905160ded138aaaca18ab2:bluesky:
+  spec:
+    title: บันทึกการติดต่อ Memcached server ผ่าน terminal [somkiat.cc]
+    url: https://www.somkiat.cc/memcached-from-terminal/
+  state:
+    cid: bafyreifsdgniqvjsora63r63lwqazgn3m57qucdeytgj4vifo6zj435iqu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldhvnog4bz2q
+05dbab9861905160ded138aaaca18ab2:facebook:
+  spec:
+    title: บันทึกการติดต่อ Memcached server ผ่าน terminal [somkiat.cc]
+    url: https://www.somkiat.cc/memcached-from-terminal/
+  state:
+    id: '100746876247412_563650903290823'
+    url: https://www.facebook.com/100683012920950/posts/563650903290823
+05dbab9861905160ded138aaaca18ab2:mastodon:
+  spec:
+    title: บันทึกการติดต่อ Memcached server ผ่าน terminal [somkiat.cc]
+    url: https://www.somkiat.cc/memcached-from-terminal/
+  state:
+    id: '113666041519578172'
+    url: https://mastodon.in.th/@webring/113666041519578172
+05dbab9861905160ded138aaaca18ab2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/memcached-from-terminal/
+  state:
+    shortLink: https://link.webring.in.th/2300
 068bd70654a4a8cf74cbce5e41aaff15:facebook:
   spec:
     title: Recap 2023 [blog.oatto.dev]
