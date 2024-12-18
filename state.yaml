@@ -16880,6 +16880,32 @@ a4bd76116403c6eaab3ce59cb76f6ae9:shorturl:
     url: https://yuttakhanb.dev/posts/open-water-journey/
   state:
     shortLink: https://link.webring.in.th/2156
+a4c020ac3c2f7343abb97c9bca7a64f4:bluesky:
+  spec:
+    title: 2024 [llun.me]
+    url: https://www.llun.me/posts/2024-12-17-2024
+  state:
+    cid: bafyreid4aj5elvhwljn7qhyxlszddm3pderlov3h7aeuik77as52xjilqe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldkft6pyfr2j
+a4c020ac3c2f7343abb97c9bca7a64f4:facebook:
+  spec:
+    title: 2024 [llun.me]
+    url: https://www.llun.me/posts/2024-12-17-2024
+  state:
+    id: '100746876247412_564335626555684'
+    url: https://www.facebook.com/100683012920950/posts/564335626555684
+a4c020ac3c2f7343abb97c9bca7a64f4:mastodon:
+  spec:
+    title: 2024 [llun.me]
+    url: https://www.llun.me/posts/2024-12-17-2024
+  state:
+    id: '113671683318221392'
+    url: https://mastodon.in.th/@webring/113671683318221392
+a4c020ac3c2f7343abb97c9bca7a64f4:shorturl:
+  spec:
+    url: https://www.llun.me/posts/2024-12-17-2024
+  state:
+    shortLink: https://link.webring.in.th/2301
 a4dd24e81fb1239145f1d059a8a5eda6:facebook:
   spec:
     title: pglogical setup [karnwong.me]
