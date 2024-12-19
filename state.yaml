@@ -9944,6 +9944,32 @@
     url: https://www.poolsawat.com/breeze-starter-kids-spa-vue3-integrate-with-laravel9-in-5-minutes/
   state:
     shortLink: https://link.webring.in.th/1745
+63c5b530d02513d72e8f4ef5dcf273cf:bluesky:
+  spec:
+    title: '[CR] Starbucks Full Leaf Brewed Tea – Joyful Medley Tea [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/cr-starbucks-full-leaf-brewed-tea-joyful-medley-tea/
+  state:
+    cid: bafyreicimk7f7xhj2fbwbh44tappjwtx4ca4bb4w5mnmgy5s7z25hyhlqi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldn7zjh2c62j
+63c5b530d02513d72e8f4ef5dcf273cf:facebook:
+  spec:
+    title: '[CR] Starbucks Full Leaf Brewed Tea – Joyful Medley Tea [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/cr-starbucks-full-leaf-brewed-tea-joyful-medley-tea/
+  state:
+    id: '100746876247412_565170863138827'
+    url: https://www.facebook.com/100683012920950/posts/565170863138827
+63c5b530d02513d72e8f4ef5dcf273cf:mastodon:
+  spec:
+    title: '[CR] Starbucks Full Leaf Brewed Tea – Joyful Medley Tea [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/cr-starbucks-full-leaf-brewed-tea-joyful-medley-tea/
+  state:
+    id: '113678030271970281'
+    url: https://mastodon.in.th/@webring/113678030271970281
+63c5b530d02513d72e8f4ef5dcf273cf:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/12/cr-starbucks-full-leaf-brewed-tea-joyful-medley-tea/
+  state:
+    shortLink: https://link.webring.in.th/2303
 63e98d110197d011c15980cc4ac6b52f:facebook:
   spec:
     title: สร้าง GO gRPC project ทำความเข้าใจ gRPC มันดียังไง (โค๊ด gRPC ตัวอย่าง) [poolsawat.com]
