@@ -19729,6 +19729,32 @@ c1a897ffd3d4951f8c7a29b7bf850698:shorturl:
     url: https://mikelopster.dev/posts/rust-basic-1/
   state:
     shortLink: https://link.webring.in.th/2279
+c1f24298824aaacb48f91cd5ddebe2e4:bluesky:
+  spec:
+    title: '2024: A Year in Review [zartre.com]'
+    url: https://blog.zartre.com/2024/2024-a-year-in-review/
+  state:
+    cid: bafyreicjopvjo3j6t3k6ixo6t3467pxd2gyq4i6qy3ykkhe2uzyykzqxzq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldnjt4oeq42j
+c1f24298824aaacb48f91cd5ddebe2e4:facebook:
+  spec:
+    title: '2024: A Year in Review [zartre.com]'
+    url: https://blog.zartre.com/2024/2024-a-year-in-review/
+  state:
+    id: '100746876247412_565251633130750'
+    url: https://www.facebook.com/100683012920950/posts/565251633130750
+c1f24298824aaacb48f91cd5ddebe2e4:mastodon:
+  spec:
+    title: '2024: A Year in Review [zartre.com]'
+    url: https://blog.zartre.com/2024/2024-a-year-in-review/
+  state:
+    id: '113678719905893533'
+    url: https://mastodon.in.th/@webring/113678719905893533
+c1f24298824aaacb48f91cd5ddebe2e4:shorturl:
+  spec:
+    url: https://blog.zartre.com/2024/2024-a-year-in-review/
+  state:
+    shortLink: https://link.webring.in.th/2304
 c25a1751edc8f9642937cb00ebca5982:facebook:
   spec:
     title: Building a Second Brain [garden.narze.live]
