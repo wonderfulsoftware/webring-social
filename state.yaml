@@ -19233,6 +19233,32 @@ bdf3229b37cc00c3fd658f7c5a165898:shorturl:
     url: https://notes.dt.in.th/ElysiaDeno
   state:
     shortLink: https://link.webring.in.th/2182
+be2b33b89d431bd5e1e812fe57db465d:bluesky:
+  spec:
+    title: สรุปคลาส Web For Impact ของแอดทอย DataRockie [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/summarize-web-for-impact-class/
+  state:
+    cid: bafyreidmq22ltuwdj4vnsvyop74n3qon6kafdx7wvdpmbs6jgokn4j2qbm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldmwdbq53f2k
+be2b33b89d431bd5e1e812fe57db465d:facebook:
+  spec:
+    title: สรุปคลาส Web For Impact ของแอดทอย DataRockie [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/summarize-web-for-impact-class/
+  state:
+    id: '100746876247412_565071243148789'
+    url: https://www.facebook.com/100683012920950/posts/565071243148789
+be2b33b89d431bd5e1e812fe57db465d:mastodon:
+  spec:
+    title: สรุปคลาส Web For Impact ของแอดทอย DataRockie [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/summarize-web-for-impact-class/
+  state:
+    id: '113677348035468980'
+    url: https://mastodon.in.th/@webring/113677348035468980
+be2b33b89d431bd5e1e812fe57db465d:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/summarize-web-for-impact-class/
+  state:
+    shortLink: https://link.webring.in.th/2302
 be3212ad8848257559abae0cb255e58f:facebook:
   spec:
     title: The Cloud Camp Week#14 (Recap + Q&A) [debuggingsoft.com]
