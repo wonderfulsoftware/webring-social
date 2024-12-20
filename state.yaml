@@ -228,6 +228,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/10/the-reason-to-check-gitmodules-git-link/
   state:
     shortLink: https://link.webring.in.th/2165
+02ef79f7ec3875576229c74b5debddeb:bluesky:
+  spec:
+    title: สามารถใช้งาน GitHub Copilot for VS Code ได้แบบฟรี แต่มี limit นะ [somkiat.cc]
+    url: https://www.somkiat.cc/free-github-copilot/
+  state:
+    cid: bafyreicyuxjwqlq4kofphmmiuekqy6sstonfathwvv57ufjmwt7wcjpdxa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldpgfkapqe2q
+02ef79f7ec3875576229c74b5debddeb:facebook:
+  spec:
+    title: สามารถใช้งาน GitHub Copilot for VS Code ได้แบบฟรี แต่มี limit นะ [somkiat.cc]
+    url: https://www.somkiat.cc/free-github-copilot/
+  state:
+    id: '100746876247412_565818346407412'
+    url: https://www.facebook.com/100683012920950/posts/565818346407412
+02ef79f7ec3875576229c74b5debddeb:mastodon:
+  spec:
+    title: สามารถใช้งาน GitHub Copilot for VS Code ได้แบบฟรี แต่มี limit นะ [somkiat.cc]
+    url: https://www.somkiat.cc/free-github-copilot/
+  state:
+    id: '113682982702872257'
+    url: https://mastodon.in.th/@webring/113682982702872257
+02ef79f7ec3875576229c74b5debddeb:shorturl:
+  spec:
+    url: https://www.somkiat.cc/free-github-copilot/
+  state:
+    shortLink: https://link.webring.in.th/2305
 0322f81363b1ff49094e5e5a94627af4:facebook:
   spec:
     title: Twitch 2023 Event - Free Bustup [lucian.solutions]
