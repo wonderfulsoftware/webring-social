@@ -8536,6 +8536,32 @@
     url: https://devahoy.com/tutorials/learn-css-animations/day2-card-flip
   state:
     shortLink: https://webring.page.link/2zz5
+57f1d7a7f792cddcbf2ea01a6c3f0280:bluesky:
+  spec:
+    title: '[AZ-305] Microsoft Azure Architect Design Prerequisites [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/az-305-microsoft-azure-architect-design-prerequisites/
+  state:
+    cid: bafyreicpb2deg2gaga5hqby6vr4bz37q4g7u6onqwwqfdqy2tcw5arwqve
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldrwp5erpb2i
+57f1d7a7f792cddcbf2ea01a6c3f0280:facebook:
+  spec:
+    title: '[AZ-305] Microsoft Azure Architect Design Prerequisites [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/az-305-microsoft-azure-architect-design-prerequisites/
+  state:
+    id: '100746876247412_566552476333999'
+    url: https://www.facebook.com/100683012920950/posts/566552476333999
+57f1d7a7f792cddcbf2ea01a6c3f0280:mastodon:
+  spec:
+    title: '[AZ-305] Microsoft Azure Architect Design Prerequisites [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/az-305-microsoft-azure-architect-design-prerequisites/
+  state:
+    id: '113688633085573501'
+    url: https://mastodon.in.th/@webring/113688633085573501
+57f1d7a7f792cddcbf2ea01a6c3f0280:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/12/az-305-microsoft-azure-architect-design-prerequisites/
+  state:
+    shortLink: https://link.webring.in.th/2307
 5829f1f8eb7a1686aa479bb27d08b5ea:facebook:
   spec:
     title: ปัญหา port = 5000 ใน MacOS Ventura [somkiat.cc]
