@@ -8009,6 +8009,32 @@
     url: https://www.mikkipastel.com/list-of-testnet-faucet-for-developer-and-airdrop-hunter/
   state:
     shortLink: https://webring.page.link/ue7Y
+5196b42614c05c4c6fc8d6d0c6742954:bluesky:
+  spec:
+    title: ลอง Rust Basic (2) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/rust-basic-2/
+  state:
+    cid: bafyreiflauuj2blyvdb7xy5w6lyujffdxoyunbbej6b4z2dxvicnibgr6q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldskmoldgz2q
+5196b42614c05c4c6fc8d6d0c6742954:facebook:
+  spec:
+    title: ลอง Rust Basic (2) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/rust-basic-2/
+  state:
+    id: '100746876247412_566717219650858'
+    url: https://www.facebook.com/100683012920950/posts/566717219650858
+5196b42614c05c4c6fc8d6d0c6742954:mastodon:
+  spec:
+    title: ลอง Rust Basic (2) [mikelopster.dev]
+    url: https://mikelopster.dev/posts/rust-basic-2/
+  state:
+    id: '113690035142387389'
+    url: https://mastodon.in.th/@webring/113690035142387389
+5196b42614c05c4c6fc8d6d0c6742954:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/rust-basic-2/
+  state:
+    shortLink: https://link.webring.in.th/2308
 51b11668b365c174562f4bbc869d6108:facebook:
   spec:
     title: 75 - ChatOS - Debug app on iPad [garden.narze.live]
