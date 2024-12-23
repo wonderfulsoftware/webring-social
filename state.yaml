@@ -19973,6 +19973,32 @@ c3193ffcaffd320559c1a9a413e91abd:shorturl:
     url: https://www.somkiat.cc/law-of-demeter-with-service/
   state:
     shortLink: https://webring.page.link/ikAn
+c3975af07113926b838e98b7b98b30a8:bluesky:
+  spec:
+    title: สรุปงาน Microsoft Ignite After Party Thailand 2024 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/recap-microsoft-ignite-after-party-thailand-2024/
+  state:
+    cid: bafyreicqdkd4qnotjr5dttfdppkwnjiifdf67okyj5zvkp7ffqqhnmb5te
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldwxubel6w2e
+c3975af07113926b838e98b7b98b30a8:facebook:
+  spec:
+    title: สรุปงาน Microsoft Ignite After Party Thailand 2024 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/recap-microsoft-ignite-after-party-thailand-2024/
+  state:
+    id: '100746876247412_567969642858949'
+    url: https://www.facebook.com/100683012920950/posts/567969642858949
+c3975af07113926b838e98b7b98b30a8:mastodon:
+  spec:
+    title: สรุปงาน Microsoft Ignite After Party Thailand 2024 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/recap-microsoft-ignite-after-party-thailand-2024/
+  state:
+    id: '113699973757008838'
+    url: https://mastodon.in.th/@webring/113699973757008838
+c3975af07113926b838e98b7b98b30a8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/12/recap-microsoft-ignite-after-party-thailand-2024/
+  state:
+    shortLink: https://link.webring.in.th/2309
 c398c50193817b68dc475a64923a4c0d:facebook:
   spec:
     title: 'เรื่องราวอันน่าทึ่งเกี่ยวกับคอมพิวเตอร์: จากเครื่องคิดเลขโบราณสู่เครื่องจักรสมัยใหม่ [tinarskii.com]'
