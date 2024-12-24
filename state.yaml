@@ -15341,6 +15341,32 @@
     url: https://thiti.dev/blog/68/
   state:
     shortLink: https://link.webring.in.th/1942
+92ebf49f67a69e5c99fddf472f0b694b:bluesky:
+  spec:
+    title: อัพเดตประจำปี Android Bangkok Conference 2024 มีอะไรน่าสนใจบ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/android-bangkok-conference-2024/
+  state:
+    cid: bafyreid55vhlfgapx5b3wcwvkamhutga536bjt2bwaj45hiz4cffemlcva
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldzscaqbsn2y
+92ebf49f67a69e5c99fddf472f0b694b:facebook:
+  spec:
+    title: อัพเดตประจำปี Android Bangkok Conference 2024 มีอะไรน่าสนใจบ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/android-bangkok-conference-2024/
+  state:
+    id: '100746876247412_568765532779360'
+    url: https://www.facebook.com/100683012920950/posts/568765532779360
+92ebf49f67a69e5c99fddf472f0b694b:mastodon:
+  spec:
+    title: อัพเดตประจำปี Android Bangkok Conference 2024 มีอะไรน่าสนใจบ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/android-bangkok-conference-2024/
+  state:
+    id: '113706337753152966'
+    url: https://mastodon.in.th/@webring/113706337753152966
+92ebf49f67a69e5c99fddf472f0b694b:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/android-bangkok-conference-2024/
+  state:
+    shortLink: https://link.webring.in.th/2311
 92fd9ef4fe49ca5369504f2e8cf0470b:facebook:
   spec:
     title: JWT ด้วย Node.js [tech.duckfollow.co]
