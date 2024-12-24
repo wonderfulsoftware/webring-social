@@ -23151,6 +23151,32 @@ e3da53994cc5cd25dc503476c8b16e92:shorturl:
     url: https://www.somkiat.cc/robotframework-auto-close-browser/
   state:
     shortLink: https://webring.page.link/c5Na
+e3e492670cdf9d827313c513f4f1e0fe:bluesky:
+  spec:
+    title: 'แพลนตัง: เว็บช่วยคำนวณภาษีและวางแผนการเงินตามสภาพคล่อง [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/tax-calculator
+  state:
+    cid: bafyreibxytjmcrhz3uyfu2mu7c7z5qnz2x7tmmb3na2zkcx45m6fzqcsre
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ldziao5fbq2h
+e3e492670cdf9d827313c513f4f1e0fe:facebook:
+  spec:
+    title: 'แพลนตัง: เว็บช่วยคำนวณภาษีและวางแผนการเงินตามสภาพคล่อง [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/tax-calculator
+  state:
+    id: '100746876247412_568681096121137'
+    url: https://www.facebook.com/100683012920950/posts/568681096121137
+e3e492670cdf9d827313c513f4f1e0fe:mastodon:
+  spec:
+    title: 'แพลนตัง: เว็บช่วยคำนวณภาษีและวางแผนการเงินตามสภาพคล่อง [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/tax-calculator
+  state:
+    id: '113705630719942322'
+    url: https://mastodon.in.th/@webring/113705630719942322
+e3e492670cdf9d827313c513f4f1e0fe:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/tax-calculator
+  state:
+    shortLink: https://link.webring.in.th/2310
 e4197f4a991b29b7c76210f790551be8:facebook:
   spec:
     title: ตอบคำถามเรื่อง Email testing [somkiat.cc]
