@@ -14356,6 +14356,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/09/the-cloud-camp-week02/
   state:
     shortLink: https://webring.page.link/UeGv
+896a19839949043418ea46aed4b25343:bluesky:
+  spec:
+    title: Illustration - メリークリスマス2024 🎄 [lucian.solutions]
+    url: https://lucian.solutions/blog/202412-merrychristmas
+  state:
+    cid: bafyreibcme27ohmmjcauqbzl54wen4ros6r4g5izpe6enqbvkiwjj5ozj4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3le4crjnymo2e
+896a19839949043418ea46aed4b25343:facebook:
+  spec:
+    title: Illustration - メリークリスマス2024 🎄 [lucian.solutions]
+    url: https://lucian.solutions/blog/202412-merrychristmas
+  state:
+    id: '100746876247412_569488116040435'
+    url: https://www.facebook.com/100683012920950/posts/569488116040435
+896a19839949043418ea46aed4b25343:mastodon:
+  spec:
+    title: Illustration - メリークリスマス2024 🎄 [lucian.solutions]
+    url: https://lucian.solutions/blog/202412-merrychristmas
+  state:
+    id: '113712000690271637'
+    url: https://mastodon.in.th/@webring/113712000690271637
+896a19839949043418ea46aed4b25343:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202412-merrychristmas
+  state:
+    shortLink: https://link.webring.in.th/2313
 8979abb70690c9cba4d0fbe733d2d812:facebook:
   spec:
     title: 'Git - fatal: detected dubious ownership in repository [garden.narze.live]'
