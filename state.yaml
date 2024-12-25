@@ -24440,6 +24440,32 @@ f09c3739636c28f5df703812b2b95e57:shorturl:
     url: https://yothinix.com/2022/
   state:
     shortLink: https://webring.page.link/9Y13
+f0ac6996927a667f68c4ed08903a5f05:bluesky:
+  spec:
+    title: How to Use Custom Fonts (such as Thai) with jsPDF [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/how-to-use-custom-fonts-such-as-thai-with-jspdf/
+  state:
+    cid: bafyreickkphdmjsbyrkfeuqwuuvctqlnw7jc4lzfecdgaughkwojzsbarm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3le3ymxin2d2j
+f0ac6996927a667f68c4ed08903a5f05:facebook:
+  spec:
+    title: How to Use Custom Fonts (such as Thai) with jsPDF [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/how-to-use-custom-fonts-such-as-thai-with-jspdf/
+  state:
+    id: '100746876247412_569396389382941'
+    url: https://www.facebook.com/100683012920950/posts/569396389382941
+f0ac6996927a667f68c4ed08903a5f05:mastodon:
+  spec:
+    title: How to Use Custom Fonts (such as Thai) with jsPDF [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/how-to-use-custom-fonts-such-as-thai-with-jspdf/
+  state:
+    id: '113711287102411175'
+    url: https://mastodon.in.th/@webring/113711287102411175
+f0ac6996927a667f68c4ed08903a5f05:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/12/how-to-use-custom-fonts-such-as-thai-with-jspdf/
+  state:
+    shortLink: https://link.webring.in.th/2312
 f0bd5d71ed6eb90ffa8cbcb804f0c62c:facebook:
   spec:
     title: รู้จักกับ Next Auth + Prisma [mikelopster.dev]
