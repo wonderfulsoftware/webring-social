@@ -22593,6 +22593,32 @@ dc9406027d9ba4a11c760c9a94512164:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/03/%e0%b8%a5%e0%b8%ad%e0%b8%87-vue-version-on-windows-error-unauthorizedaccess/
   state:
     shortLink: https://webring.page.link/GVNd
+dce3b50304c90fc9b55bd6eca9ba2b21:bluesky:
+  spec:
+    title: สรุปจากการแบ่งปันเรื่อง Generative AI for Software Development 2024 ไว้นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-use-ai-insoftware-development/
+  state:
+    cid: bafyreiajizltd7tcgkwkuqpwwlrujt7x3xpkfdsodorbfejo3j3rivjkoq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3le6j5oa35s2k
+dce3b50304c90fc9b55bd6eca9ba2b21:facebook:
+  spec:
+    title: สรุปจากการแบ่งปันเรื่อง Generative AI for Software Development 2024 ไว้นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-use-ai-insoftware-development/
+  state:
+    id: '100746876247412_570103292645584'
+    url: https://www.facebook.com/100683012920950/posts/570103292645584
+dce3b50304c90fc9b55bd6eca9ba2b21:mastodon:
+  spec:
+    title: สรุปจากการแบ่งปันเรื่อง Generative AI for Software Development 2024 ไว้นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-use-ai-insoftware-development/
+  state:
+    id: '113716953438902979'
+    url: https://mastodon.in.th/@webring/113716953438902979
+dce3b50304c90fc9b55bd6eca9ba2b21:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-from-use-ai-insoftware-development/
+  state:
+    shortLink: https://link.webring.in.th/2314
 dde5afb6037269ff837d22a3393e2803:facebook:
   spec:
     title: ลองนั่งรถเมล์สาย 4-35 [debuggingsoft.com]
