@@ -5161,6 +5161,32 @@
     url: https://www.somkiat.cc/try-bruno-for-rest-api-testing/
   state:
     shortLink: https://link.webring.in.th/1826
+3493a0c227d18f4066db4c7a5953d6c1:bluesky:
+  spec:
+    title: Watchlist ราคาหุ้นไทย [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/watchlist-me-set
+  state:
+    cid: bafyreicpgggckftwaaw4mazeg6jk2qiq5jxikuhmwhpyv4ou45yejds7fa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lebdofqme327
+3493a0c227d18f4066db4c7a5953d6c1:facebook:
+  spec:
+    title: Watchlist ราคาหุ้นไทย [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/watchlist-me-set
+  state:
+    id: '100746876247412_570878632568050'
+    url: https://www.facebook.com/100683012920950/posts/570878632568050
+3493a0c227d18f4066db4c7a5953d6c1:mastodon:
+  spec:
+    title: Watchlist ราคาหุ้นไทย [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/watchlist-me-set
+  state:
+    id: '113723323487894959'
+    url: https://mastodon.in.th/@webring/113723323487894959
+3493a0c227d18f4066db4c7a5953d6c1:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/watchlist-me-set
+  state:
+    shortLink: https://link.webring.in.th/2316
 34a070ed97c84d7230b780ca709c2744:facebook:
   spec:
     title: ลองทำ Performance Testing ด้วย JMeter [janescience.com]
