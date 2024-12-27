@@ -8626,6 +8626,32 @@
     url: https://mikelopster.dev/posts/functional-programming-basic/
   state:
     shortLink: https://webring.page.link/XNEr
+5870273298e5c562a0d54173338f98b6:bluesky:
+  spec:
+    title: '[AZ-305] Design identity, governance, and monitor solutions [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/az-305-design-identity-governance-and-monitor-solutions/
+  state:
+    cid: bafyreigmemsxllbvhgefq4t7burty464wpbyriqsjlkdnfaxdr2uqu3jte
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3leazm4m4dy2q
+5870273298e5c562a0d54173338f98b6:facebook:
+  spec:
+    title: '[AZ-305] Design identity, governance, and monitor solutions [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/az-305-design-identity-governance-and-monitor-solutions/
+  state:
+    id: '100746876247412_570799549242625'
+    url: https://www.facebook.com/100683012920950/posts/570799549242625
+5870273298e5c562a0d54173338f98b6:mastodon:
+  spec:
+    title: '[AZ-305] Design identity, governance, and monitor solutions [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/az-305-design-identity-governance-and-monitor-solutions/
+  state:
+    id: '113722614606382296'
+    url: https://mastodon.in.th/@webring/113722614606382296
+5870273298e5c562a0d54173338f98b6:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/12/az-305-design-identity-governance-and-monitor-solutions/
+  state:
+    shortLink: https://link.webring.in.th/2315
 587f385e8d9f88fb116e401229671050:facebook:
   spec:
     title: สถิติหวย 30 ปีเมื่อความเชื่อก้าวข้ามขีดจำกัดของความน่าจะเป็น [wawasabii.com]
