@@ -6523,6 +6523,32 @@
     url: https://www.mikkipastel.com/benq-rd280u-worlds-first-programming-monitor-series/
   state:
     shortLink: https://link.webring.in.th/2175
+41a003d966aca7563ec513a1979eff53:bluesky:
+  spec:
+    title: '2024: year in review ปีแห่ง 1 day 1000 Situations [mikkipastel.com]'
+    url: https://www.mikkipastel.com/2024-year-in-review/
+  state:
+    cid: bafyreib4qcmhalnqfao23mqc23l4aqox6v2cxzsru5ysrpz62qyncpqxh4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ledu2wimxi2s
+41a003d966aca7563ec513a1979eff53:facebook:
+  spec:
+    title: '2024: year in review ปีแห่ง 1 day 1000 Situations [mikkipastel.com]'
+    url: https://www.mikkipastel.com/2024-year-in-review/
+  state:
+    id: '100746876247412_571565069166073'
+    url: https://www.facebook.com/100683012920950/posts/571565069166073
+41a003d966aca7563ec513a1979eff53:mastodon:
+  spec:
+    title: '2024: year in review ปีแห่ง 1 day 1000 Situations [mikkipastel.com]'
+    url: https://www.mikkipastel.com/2024-year-in-review/
+  state:
+    id: '113728980012283912'
+    url: https://mastodon.in.th/@webring/113728980012283912
+41a003d966aca7563ec513a1979eff53:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/2024-year-in-review/
+  state:
+    shortLink: https://link.webring.in.th/2318
 41bb2f154e52a75396b4382c0286dc56:facebook:
   spec:
     title: Bun v1.1.25 สนับสนุน node:cluster แล้ว [somkiat.cc]
