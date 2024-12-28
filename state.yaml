@@ -444,6 +444,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/06/fixed-bluetooth-to-3-5-jack-auto-close-when-change-new-track/
   state:
     shortLink: https://link.webring.in.th/1969
+0576408eb09892f488fc4852bc5e304f:bluesky:
+  spec:
+    title: '[AZ-305] Design business continuity solutions [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/az-305-design-business-continuity-solutions/
+  state:
+    cid: bafyreihg2uskqrkpi5uexj6ozbprwdoj3rsifhhpffqm47ms57vey3fzei
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ledjxj4k7d2f
+0576408eb09892f488fc4852bc5e304f:facebook:
+  spec:
+    title: '[AZ-305] Design business continuity solutions [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/az-305-design-business-continuity-solutions/
+  state:
+    id: '100746876247412_571482145841032'
+    url: https://www.facebook.com/100683012920950/posts/571482145841032
+0576408eb09892f488fc4852bc5e304f:mastodon:
+  spec:
+    title: '[AZ-305] Design business continuity solutions [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2024/12/az-305-design-business-continuity-solutions/
+  state:
+    id: '113728269125399477'
+    url: https://mastodon.in.th/@webring/113728269125399477
+0576408eb09892f488fc4852bc5e304f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/12/az-305-design-business-continuity-solutions/
+  state:
+    shortLink: https://link.webring.in.th/2317
 05dbab9861905160ded138aaaca18ab2:bluesky:
   spec:
     title: บันทึกการติดต่อ Memcached server ผ่าน terminal [somkiat.cc]
