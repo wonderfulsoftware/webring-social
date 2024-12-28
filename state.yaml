@@ -9803,6 +9803,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/06/db2-backup-log-and-archive/
   state:
     shortLink: https://link.webring.in.th/1964
+6125658e2eaf32b302d787c3a4506f9d:bluesky:
+  spec:
+    title: บันทึกเรื่องของ Resiliency Pattern ในการออกแบบระบบงาน [somkiat.cc]
+    url: https://www.somkiat.cc/note-resiliency-pattern/
+  state:
+    cid: bafyreid2n5mv5wtrtqr736xyrealqjmp3xrnewcdqgi7g2fubsowca3dve
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lee5uuwlqq2j
+6125658e2eaf32b302d787c3a4506f9d:facebook:
+  spec:
+    title: บันทึกเรื่องของ Resiliency Pattern ในการออกแบบระบบงาน [somkiat.cc]
+    url: https://www.somkiat.cc/note-resiliency-pattern/
+  state:
+    id: '100746876247412_571641805825066'
+    url: https://www.facebook.com/100683012920950/posts/571641805825066
+6125658e2eaf32b302d787c3a4506f9d:mastodon:
+  spec:
+    title: บันทึกเรื่องของ Resiliency Pattern ในการออกแบบระบบงาน [somkiat.cc]
+    url: https://www.somkiat.cc/note-resiliency-pattern/
+  state:
+    id: '113729670832326078'
+    url: https://mastodon.in.th/@webring/113729670832326078
+6125658e2eaf32b302d787c3a4506f9d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-resiliency-pattern/
+  state:
+    shortLink: https://link.webring.in.th/2319
 6162f137d0f82014810d981b274bf502:facebook:
   spec:
     title: Npm package for write jest easy [jitrak.dev]
