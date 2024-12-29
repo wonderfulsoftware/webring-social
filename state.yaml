@@ -8538,6 +8538,32 @@
     url: https://lucian.solutions/blog/foodreview-fats-angry
   state:
     shortLink: https://link.webring.in.th/2203
+56b7c9b05a831e6bbcc1a4ec542361ec:bluesky:
+  spec:
+    title: 2024 Year In Review [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/2024-year-in-review/
+  state:
+    cid: bafyreicfcbvhdadvfkpnuh77bnglnqayri6fgqr3zrwjcl6xtezg7ranwi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3leg2t62bmz2k
+56b7c9b05a831e6bbcc1a4ec542361ec:facebook:
+  spec:
+    title: 2024 Year In Review [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/2024-year-in-review/
+  state:
+    id: '100746876247412_572164312439482'
+    url: https://www.facebook.com/100683012920950/posts/572164312439482
+56b7c9b05a831e6bbcc1a4ec542361ec:mastodon:
+  spec:
+    title: 2024 Year In Review [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/2024-year-in-review/
+  state:
+    id: '113733959407297792'
+    url: https://mastodon.in.th/@webring/113733959407297792
+56b7c9b05a831e6bbcc1a4ec542361ec:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/2024-year-in-review/
+  state:
+    shortLink: https://link.webring.in.th/2320
 56ce8a4181ecd7f2be4b5262326bd07d:bluesky:
   spec:
     title: เมื่อ DEV ลองไป Workshop Microsoft 365 Admin + Microsoft Defender [debuggingsoft.com]
