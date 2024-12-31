@@ -5028,6 +5028,32 @@
     url: https://www.mikkipastel.com/icreator-camp-2024-final-day/
   state:
     shortLink: https://link.webring.in.th/2001
+3211ed7f495d99f6c8ce8370ee0d5c0d:bluesky:
+  spec:
+    title: การเลือกใช้ Storage ให้เหมาะสมในพัฒนาเว็บไซต์ [boychawin.com]
+    url: https://boychawin.com/2024/12/30/web-storage-guide.html
+  state:
+    cid: bafyreigganzuwasxmc2upamvm32brl46qvkb5gpb2ihtondlwy7prxz2sa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lelfk2rwz42f
+3211ed7f495d99f6c8ce8370ee0d5c0d:facebook:
+  spec:
+    title: การเลือกใช้ Storage ให้เหมาะสมในพัฒนาเว็บไซต์ [boychawin.com]
+    url: https://boychawin.com/2024/12/30/web-storage-guide.html
+  state:
+    id: '100746876247412_573658038956776'
+    url: https://www.facebook.com/100683012920950/posts/573658038956776
+3211ed7f495d99f6c8ce8370ee0d5c0d:mastodon:
+  spec:
+    title: การเลือกใช้ Storage ให้เหมาะสมในพัฒนาเว็บไซต์ [boychawin.com]
+    url: https://boychawin.com/2024/12/30/web-storage-guide.html
+  state:
+    id: '113745972741868566'
+    url: https://mastodon.in.th/@webring/113745972741868566
+3211ed7f495d99f6c8ce8370ee0d5c0d:shorturl:
+  spec:
+    url: https://boychawin.com/2024/12/30/web-storage-guide.html
+  state:
+    shortLink: https://link.webring.in.th/2322
 3224cb65073c4a1ee3f95d94fd387aa2:facebook:
   spec:
     title: Illustration - ❌ Uncaught TypeError [lucian.solutions]
