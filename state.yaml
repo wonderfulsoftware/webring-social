@@ -24840,6 +24840,32 @@ f156f4cc6c4bfd9b8b3d21edbd21263d:shorturl:
     url: https://notes.dt.in.th/FacebookPageLongLivedAccessToken
   state:
     shortLink: https://webring.page.link/uha4
+f1b008a8ee1a5dc11cb9a75cdf86dcb4:bluesky:
+  spec:
+    title: 'Tips :: Playwright ทำการ run test ที่มีการเปลี่ยนแปลงเท่านั้น [somkiat.cc]'
+    url: https://www.somkiat.cc/playwright-run-only-changed/
+  state:
+    cid: bafyreif4rnphfi4vxty5ez2pwfov63n2qsw7gqed2nvkwyx5xbjkw5gare
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lelpe2bxpt2h
+f1b008a8ee1a5dc11cb9a75cdf86dcb4:facebook:
+  spec:
+    title: 'Tips :: Playwright ทำการ run test ที่มีการเปลี่ยนแปลงเท่านั้น [somkiat.cc]'
+    url: https://www.somkiat.cc/playwright-run-only-changed/
+  state:
+    id: '100746876247412_573738778948702'
+    url: https://www.facebook.com/100683012920950/posts/573738778948702
+f1b008a8ee1a5dc11cb9a75cdf86dcb4:mastodon:
+  spec:
+    title: 'Tips :: Playwright ทำการ run test ที่มีการเปลี่ยนแปลงเท่านั้น [somkiat.cc]'
+    url: https://www.somkiat.cc/playwright-run-only-changed/
+  state:
+    id: '113746663130781526'
+    url: https://mastodon.in.th/@webring/113746663130781526
+f1b008a8ee1a5dc11cb9a75cdf86dcb4:shorturl:
+  spec:
+    url: https://www.somkiat.cc/playwright-run-only-changed/
+  state:
+    shortLink: https://link.webring.in.th/2323
 f1c5165867c774257acfde73e1ec6b5e:facebook:
   spec:
     title: '[MS Cert] บันทึกการสอบ AZ-104 [debuggingsoft.com]'
