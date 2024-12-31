@@ -14398,6 +14398,32 @@
     url: https://mikelopster.dev/posts/gemini-prompt/
   state:
     shortLink: https://link.webring.in.th/1736
+8781948578a1259b4aafe197e4e8a1a1:bluesky:
+  spec:
+    title: Information gathering infrastructure [karnwong.me]
+    url: https://karnwong.me/posts/2024/12/information-gathering-infrastructure/
+  state:
+    cid: bafyreidpuax6stcpmibpy6wosbzjwwfc2p5m437cw3og5z4bkzx4cxgwte
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lel3ghn3dm2i
+8781948578a1259b4aafe197e4e8a1a1:facebook:
+  spec:
+    title: Information gathering infrastructure [karnwong.me]
+    url: https://karnwong.me/posts/2024/12/information-gathering-infrastructure/
+  state:
+    id: '100746876247412_573572338965346'
+    url: https://www.facebook.com/100683012920950/posts/573572338965346
+8781948578a1259b4aafe197e4e8a1a1:mastodon:
+  spec:
+    title: Information gathering infrastructure [karnwong.me]
+    url: https://karnwong.me/posts/2024/12/information-gathering-infrastructure/
+  state:
+    id: '113745261132747031'
+    url: https://mastodon.in.th/@webring/113745261132747031
+8781948578a1259b4aafe197e4e8a1a1:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2024/12/information-gathering-infrastructure/
+  state:
+    shortLink: https://link.webring.in.th/2321
 8809d348998c4f65dd73d5ed0cddb577:facebook:
   spec:
     title: Microsoft Ignite Cloud Skills Challenge 2023 [debuggingsoft.com]
