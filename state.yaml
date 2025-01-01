@@ -22922,6 +22922,32 @@ dea60214d6add530a3d246f5134647ae:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/10/topic-from-helm-essential-course-by-jumpbox/
   state:
     shortLink: https://link.webring.in.th/2161
+dec08428bbe1e20f680775968ed99947:bluesky:
+  spec:
+    title: 2024 หงุดหงิด และโวยวาย [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/2024-year-in-review/
+  state:
+    cid: bafyreie6avofcikdddwg4yzn3ii7wpgilhnx72omdbn3xl3fjlkvzgwjze
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lenmdx5gzx2j
+dec08428bbe1e20f680775968ed99947:facebook:
+  spec:
+    title: 2024 หงุดหงิด และโวยวาย [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/2024-year-in-review/
+  state:
+    id: '100746876247412_574374298885150'
+    url: https://www.facebook.com/100683012920950/posts/574374298885150
+dec08428bbe1e20f680775968ed99947:mastodon:
+  spec:
+    title: 2024 หงุดหงิด และโวยวาย [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2024/12/2024-year-in-review/
+  state:
+    id: '113750955258395743'
+    url: https://mastodon.in.th/@webring/113750955258395743
+dec08428bbe1e20f680775968ed99947:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2024/12/2024-year-in-review/
+  state:
+    shortLink: https://link.webring.in.th/2324
 defe0d87e476b6e9cb1b0f8d72ae8f90:facebook:
   spec:
     title: 'AI-102: Get started with Azure AI Services [debuggingsoft.com]'
