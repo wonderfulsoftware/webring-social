@@ -12677,6 +12677,32 @@
     url: https://www.somkiat.cc/java-23-markdown-comment/
   state:
     shortLink: https://link.webring.in.th/1970
+79f94974bf13e8247e3f1e42b40dec36:bluesky:
+  spec:
+    title: 'Review: DeepLearning.AI Data Engineering Professional Certificate [yothinix.com]'
+    url: https://yothinix.com/deeplearning-ai-data-engineering/
+  state:
+    cid: bafyreichy7i3tnofxz5fgt6z5dqmf4qpv777mo7jywbvli22q2wp2vnypa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lenw2ibx2627
+79f94974bf13e8247e3f1e42b40dec36:facebook:
+  spec:
+    title: 'Review: DeepLearning.AI Data Engineering Professional Certificate [yothinix.com]'
+    url: https://yothinix.com/deeplearning-ai-data-engineering/
+  state:
+    id: '100746876247412_574476062208307'
+    url: https://www.facebook.com/100683012920950/posts/574476062208307
+79f94974bf13e8247e3f1e42b40dec36:mastodon:
+  spec:
+    title: 'Review: DeepLearning.AI Data Engineering Professional Certificate [yothinix.com]'
+    url: https://yothinix.com/deeplearning-ai-data-engineering/
+  state:
+    id: '113751638117144934'
+    url: https://mastodon.in.th/@webring/113751638117144934
+79f94974bf13e8247e3f1e42b40dec36:shorturl:
+  spec:
+    url: https://yothinix.com/deeplearning-ai-data-engineering/
+  state:
+    shortLink: https://link.webring.in.th/2325
 7a1374c80fa027ca05f6bb75b06c39a0:facebook:
   spec:
     title: อยากเทสแอพบน Foldable แต่ไม่มีเครื่องจริง ทำยังไงได้บ้าง? [mikkipastel.com]
