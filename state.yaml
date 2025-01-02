@@ -24816,6 +24816,32 @@ f0c84e27b5f9f4ec7e401ae61cd59aaa:shorturl:
     url: https://www.somkiat.cc/litellm-llm-proxy-server/
   state:
     shortLink: https://link.webring.in.th/2171
+f1105ee47d2932418692fb98e62e0aaa:bluesky:
+  spec:
+    title: Spring Boot 3.4 สนับสนุน Docker compose แบบหลาย ๆ ไฟล์แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-support-multiple-docker-composes/
+  state:
+    cid: bafyreihlephwjjzto65kunat6pqatludhsp4l3szxrj2pm5ut74zmdovrm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3leq4ebdmyv2f
+f1105ee47d2932418692fb98e62e0aaa:facebook:
+  spec:
+    title: Spring Boot 3.4 สนับสนุน Docker compose แบบหลาย ๆ ไฟล์แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-support-multiple-docker-composes/
+  state:
+    id: '100746876247412_575105705478676'
+    url: https://www.facebook.com/100683012920950/posts/575105705478676
+f1105ee47d2932418692fb98e62e0aaa:mastodon:
+  spec:
+    title: Spring Boot 3.4 สนับสนุน Docker compose แบบหลาย ๆ ไฟล์แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-support-multiple-docker-composes/
+  state:
+    id: '113756585545012752'
+    url: https://mastodon.in.th/@webring/113756585545012752
+f1105ee47d2932418692fb98e62e0aaa:shorturl:
+  spec:
+    url: https://www.somkiat.cc/spring-boot-support-multiple-docker-composes/
+  state:
+    shortLink: https://link.webring.in.th/2326
 f11942adf6100ec686b8888a39b65355:facebook:
   spec:
     title: Illustration - キララ [lucian.solutions]
