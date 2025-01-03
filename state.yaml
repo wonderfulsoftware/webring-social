@@ -6371,6 +6371,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/knowledge-note-it-should-be-created-immediately-not-to-create-when-you-plan-to-resign/
   state:
     shortLink: https://webring.page.link/qhLV
+400c58a8c6e67e1378e53d4d557495b8:bluesky:
+  spec:
+    title: จดบันทึกเรื่อง Platform Engineering [somkiat.cc]
+    url: https://www.somkiat.cc/note-platform-engineering/
+  state:
+    cid: bafyreiftxvlhety7mmw4i3toyro3bh3fzevuqrwr5tdotvzvuqogr2bp5e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lesmupybee27
+400c58a8c6e67e1378e53d4d557495b8:facebook:
+  spec:
+    title: จดบันทึกเรื่อง Platform Engineering [somkiat.cc]
+    url: https://www.somkiat.cc/note-platform-engineering/
+  state:
+    id: '100746876247412_575792625409984'
+    url: https://www.facebook.com/100683012920950/posts/575792625409984
+400c58a8c6e67e1378e53d4d557495b8:mastodon:
+  spec:
+    title: จดบันทึกเรื่อง Platform Engineering [somkiat.cc]
+    url: https://www.somkiat.cc/note-platform-engineering/
+  state:
+    id: '113762251147979022'
+    url: https://mastodon.in.th/@webring/113762251147979022
+400c58a8c6e67e1378e53d4d557495b8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-platform-engineering/
+  state:
+    shortLink: https://link.webring.in.th/2327
 40128e8c930f90a406b490b8042fca95:facebook:
   spec:
     title: สิ่งที่น่าสนใจใน Technology Radar 2024 Volume 30 [somkiat.cc]
