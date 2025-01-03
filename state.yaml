@@ -667,6 +667,32 @@
     url: https://www.mikkipastel.com/create-new-pwa-project-by-glitch/
   state:
     shortLink: https://webring.page.link/zQb1
+0845e5700cb3b57813b709a72ea095ba:bluesky:
+  spec:
+    title: '[AZ-305] Design data storage solutions [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/az-305-design-data-storage-solutions/
+  state:
+    cid: bafyreigm4nfeonmow37h5gj3cedr4i5i4z2lvwdthdvinpvzg4egz3kizu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3leswwywsbe23
+0845e5700cb3b57813b709a72ea095ba:facebook:
+  spec:
+    title: '[AZ-305] Design data storage solutions [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/az-305-design-data-storage-solutions/
+  state:
+    id: '100746876247412_575871348735445'
+    url: https://www.facebook.com/100683012920950/posts/575871348735445
+0845e5700cb3b57813b709a72ea095ba:mastodon:
+  spec:
+    title: '[AZ-305] Design data storage solutions [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/az-305-design-data-storage-solutions/
+  state:
+    id: '113762959890126567'
+    url: https://mastodon.in.th/@webring/113762959890126567
+0845e5700cb3b57813b709a72ea095ba:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/01/az-305-design-data-storage-solutions/
+  state:
+    shortLink: https://link.webring.in.th/2328
 087bd8d9107899963621b8cc5e38ebc1:facebook:
   spec:
     title: บทนำสู่ปัญหาการค้นหาบนพิสัย [neizod.dev]
