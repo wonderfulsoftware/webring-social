@@ -5654,6 +5654,32 @@
     url: https://www.somkiat.cc/learning-go-2nd-edition/
   state:
     shortLink: https://link.webring.in.th/1722
+37f31632ad77e0018e9a71e3b2465992:bluesky:
+  spec:
+    title: คำนวณผลตอบแทนทบต้น จากผลงานแต่ละเดือน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/compound-return
+  state:
+    cid: bafyreigszrxngyugqifmjvrkz3hjg3te6ox3i7lfmih5oxqmxiqi4koqzm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lev5b2xgca27
+37f31632ad77e0018e9a71e3b2465992:facebook:
+  spec:
+    title: คำนวณผลตอบแทนทบต้น จากผลงานแต่ละเดือน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/compound-return
+  state:
+    id: '100746876247412_576455055343741'
+    url: https://www.facebook.com/100683012920950/posts/576455055343741
+37f31632ad77e0018e9a71e3b2465992:mastodon:
+  spec:
+    title: คำนวณผลตอบแทนทบต้น จากผลงานแต่ละเดือน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/compound-return
+  state:
+    id: '113767907869295642'
+    url: https://mastodon.in.th/@webring/113767907869295642
+37f31632ad77e0018e9a71e3b2465992:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/compound-return
+  state:
+    shortLink: https://link.webring.in.th/2329
 3808dbfe4969925f92be092d2781b80f:facebook:
   spec:
     title: บันทึกปัญหา ./mvnw not found ใน Dockerfile [somkiat.cc]
