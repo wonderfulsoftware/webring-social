@@ -10282,6 +10282,32 @@
     url: https://www.poolsawat.com/breeze-starter-kids-spa-vue3-integrate-with-laravel9-in-5-minutes/
   state:
     shortLink: https://link.webring.in.th/1745
+63c51fd75d9a6551ee3360a5be805ef6:bluesky:
+  spec:
+    title: มันคืออะไรหว่า Watergile [somkiat.cc]
+    url: https://www.somkiat.cc/what-watergile/
+  state:
+    cid: bafyreidbtfsk2cuzoub736gtq7f7i2a26lnx5gwd2qaty4abck75txv45y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3levhdslofn23
+63c51fd75d9a6551ee3360a5be805ef6:facebook:
+  spec:
+    title: มันคืออะไรหว่า Watergile [somkiat.cc]
+    url: https://www.somkiat.cc/what-watergile/
+  state:
+    id: '100746876247412_576535312002382'
+    url: https://www.facebook.com/100683012920950/posts/576535312002382
+63c51fd75d9a6551ee3360a5be805ef6:mastodon:
+  spec:
+    title: มันคืออะไรหว่า Watergile [somkiat.cc]
+    url: https://www.somkiat.cc/what-watergile/
+  state:
+    id: '113768617273140153'
+    url: https://mastodon.in.th/@webring/113768617273140153
+63c51fd75d9a6551ee3360a5be805ef6:shorturl:
+  spec:
+    url: https://www.somkiat.cc/what-watergile/
+  state:
+    shortLink: https://link.webring.in.th/2330
 63c5b530d02513d72e8f4ef5dcf273cf:bluesky:
   spec:
     title: '[CR] Starbucks Full Leaf Brewed Tea – Joyful Medley Tea [debuggingsoft.com]'
