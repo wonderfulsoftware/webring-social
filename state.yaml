@@ -5737,6 +5737,32 @@
     url: https://garden.narze.live/100daysofcode-r3-70-garden-astro-test-image-links/
   state:
     shortLink: https://webring.page.link/qk1L
+3860a40ba43e3d3b37703b2769a245a1:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : Intro [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-intro/
+  state:
+    cid: bafyreieie56bzpgtjduhlfjjxiayk7jjs5f5cekenop3tshq5wf72osjju
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lexnyywtnn2j
+3860a40ba43e3d3b37703b2769a245a1:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : Intro [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-intro/
+  state:
+    id: '100746876247412_577127221943191'
+    url: https://www.facebook.com/100683012920950/posts/577127221943191
+3860a40ba43e3d3b37703b2769a245a1:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : Intro [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-intro/
+  state:
+    id: '113773589940360257'
+    url: https://mastodon.in.th/@webring/113773589940360257
+3860a40ba43e3d3b37703b2769a245a1:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-intro/
+  state:
+    shortLink: https://link.webring.in.th/2331
 38844487484d2715485a7da1c8ae51fa:facebook:
   spec:
     title: มาทำ Authentication ด้วย NestJS และ Passport กัน [mikelopster.dev]
