@@ -5739,21 +5739,21 @@
     shortLink: https://webring.page.link/qk1L
 3860a40ba43e3d3b37703b2769a245a1:bluesky:
   spec:
-    title: 'Data Sci Boot Camp Batch#11 : Intro [debuggingsoft.com]'
+    title: 'Data Sci Boot Camp Batch#11 : Intro + AI Prompt 101 [debuggingsoft.com]'
     url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-intro/
   state:
     cid: bafyreieie56bzpgtjduhlfjjxiayk7jjs5f5cekenop3tshq5wf72osjju
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lexnyywtnn2j
 3860a40ba43e3d3b37703b2769a245a1:facebook:
   spec:
-    title: 'Data Sci Boot Camp Batch#11 : Intro [debuggingsoft.com]'
+    title: 'Data Sci Boot Camp Batch#11 : Intro + AI Prompt 101 [debuggingsoft.com]'
     url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-intro/
   state:
     id: '100746876247412_577127221943191'
     url: https://www.facebook.com/100683012920950/posts/577127221943191
 3860a40ba43e3d3b37703b2769a245a1:mastodon:
   spec:
-    title: 'Data Sci Boot Camp Batch#11 : Intro [debuggingsoft.com]'
+    title: 'Data Sci Boot Camp Batch#11 : Intro + AI Prompt 101 [debuggingsoft.com]'
     url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-intro/
   state:
     id: '113773589940360257'
@@ -13004,6 +13004,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-design-and-implement-a-release-strategy/
   state:
     shortLink: https://webring.page.link/AGse
+7ac3f75aadabd041bdc8199ddcdd6b25:bluesky:
+  spec:
+    title: ติดตามการใช้บัตรเครดิต [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/credit-card-tracker
+  state:
+    cid: bafyreia4fv2cyc6i7zmu45sxka7ts6j3bhblrqlstk5rzfnvuhmnucizyu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lf26ilud7w2k
+7ac3f75aadabd041bdc8199ddcdd6b25:facebook:
+  spec:
+    title: ติดตามการใช้บัตรเครดิต [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/credit-card-tracker
+  state:
+    id: '100746876247412_577814661874447'
+    url: https://www.facebook.com/100683012920950/posts/577814661874447
+7ac3f75aadabd041bdc8199ddcdd6b25:mastodon:
+  spec:
+    title: ติดตามการใช้บัตรเครดิต [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/credit-card-tracker
+  state:
+    id: '113779253812505233'
+    url: https://mastodon.in.th/@webring/113779253812505233
+7ac3f75aadabd041bdc8199ddcdd6b25:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/credit-card-tracker
+  state:
+    shortLink: https://link.webring.in.th/2332
 7aee7c89b1fd092b49bb39aab8f0a20a:facebook:
   spec:
     title: '[CR] Starbucks Ham Bacon Egg Muffin [debuggingsoft.com]'
