@@ -9311,6 +9311,32 @@
     url: https://blog.ninprd.com/blog/wordpress-basic-iii/
   state:
     shortLink: https://link.webring.in.th/1998
+5cbd428614e6310376c1bfb60e3f5d04:bluesky:
+  spec:
+    title: Fallacies of Distributed Computing เรื่องที่ 1 The network is reliable [somkiat.cc]
+    url: https://www.somkiat.cc/fallacies-of-distributed-computing-the-network-is-reliable/
+  state:
+    cid: bafyreie5bgm52sfbwioxqk7otskam763fawfd7c2lkplbx7dqou6nt4swq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lf2ifz5huk2e
+5cbd428614e6310376c1bfb60e3f5d04:facebook:
+  spec:
+    title: Fallacies of Distributed Computing เรื่องที่ 1 The network is reliable [somkiat.cc]
+    url: https://www.somkiat.cc/fallacies-of-distributed-computing-the-network-is-reliable/
+  state:
+    id: '100746876247412_577892311866682'
+    url: https://www.facebook.com/100683012920950/posts/577892311866682
+5cbd428614e6310376c1bfb60e3f5d04:mastodon:
+  spec:
+    title: Fallacies of Distributed Computing เรื่องที่ 1 The network is reliable [somkiat.cc]
+    url: https://www.somkiat.cc/fallacies-of-distributed-computing-the-network-is-reliable/
+  state:
+    id: '113779951851760578'
+    url: https://mastodon.in.th/@webring/113779951851760578
+5cbd428614e6310376c1bfb60e3f5d04:shorturl:
+  spec:
+    url: https://www.somkiat.cc/fallacies-of-distributed-computing-the-network-is-reliable/
+  state:
+    shortLink: https://link.webring.in.th/2333
 5d719068376edd19f96fa8863cff2d5f:facebook:
   spec:
     title: ปัญหาของ WebClient ใน Spring Boot 3 [somkiat.cc]
