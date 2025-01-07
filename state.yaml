@@ -13996,6 +13996,32 @@
     url: https://www.somkiat.cc/jaeger-2/
   state:
     shortLink: https://link.webring.in.th/2136
+8330a365aa6013ee81328bce630c2f0a:bluesky:
+  spec:
+    title: '[AZ-305] Design infrastructure solutions [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/az-305-design-infrastructure-solutions/
+  state:
+    cid: bafyreiha3b7gfudetexbog2o25ko7jt5zlp5os7v5ydwjeq35mra3noeqm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lf4ouzllge2y
+8330a365aa6013ee81328bce630c2f0a:facebook:
+  spec:
+    title: '[AZ-305] Design infrastructure solutions [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/az-305-design-infrastructure-solutions/
+  state:
+    id: '100746876247412_578493778473202'
+    url: https://www.facebook.com/100683012920950/posts/578493778473202
+8330a365aa6013ee81328bce630c2f0a:mastodon:
+  spec:
+    title: '[AZ-305] Design infrastructure solutions [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/az-305-design-infrastructure-solutions/
+  state:
+    id: '113784910429106159'
+    url: https://mastodon.in.th/@webring/113784910429106159
+8330a365aa6013ee81328bce630c2f0a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/01/az-305-design-infrastructure-solutions/
+  state:
+    shortLink: https://link.webring.in.th/2334
 8338a5461b042a047e471f2060b18a1c:facebook:
   spec:
     title: มาดูว่ามีอะไรที่น่าสนใจใน Spring Boot 3.1.0 [somkiat.cc]
