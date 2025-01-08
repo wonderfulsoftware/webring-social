@@ -17625,6 +17625,32 @@ a5c0bfee23562431810f8fa395169ac4:shorturl:
     url: https://www.somkiat.cc/testing-your-flutter-app/
   state:
     shortLink: https://webring.page.link/F2rX
+a5f43ba40dfecb2178a9a61737e2731c:bluesky:
+  spec:
+    title: '[AZ-305] Build great solutions with the Microsoft Azure Well-Architected Framework [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/az-305-build-great-solutions-with-the-microsoft-azure-well-architected-framework/
+  state:
+    cid: bafyreihldricwnao5upy5qezmjaq6q2grfi2z4xitxid5pz37i6a66lhfi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lf777g4dql2f
+a5f43ba40dfecb2178a9a61737e2731c:facebook:
+  spec:
+    title: '[AZ-305] Build great solutions with the Microsoft Azure Well-Architected Framework [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/az-305-build-great-solutions-with-the-microsoft-azure-well-architected-framework/
+  state:
+    id: '100746876247412_579171621738751'
+    url: https://www.facebook.com/100683012920950/posts/579171621738751
+a5f43ba40dfecb2178a9a61737e2731c:mastodon:
+  spec:
+    title: '[AZ-305] Build great solutions with the Microsoft Azure Well-Architected Framework [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/az-305-build-great-solutions-with-the-microsoft-azure-well-architected-framework/
+  state:
+    id: '113790562749378987'
+    url: https://mastodon.in.th/@webring/113790562749378987
+a5f43ba40dfecb2178a9a61737e2731c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/01/az-305-build-great-solutions-with-the-microsoft-azure-well-architected-framework/
+  state:
+    shortLink: https://link.webring.in.th/2336
 a6195be469f29d90f921763746b4213d:facebook:
   spec:
     title: 'Skip tool :: พัฒนา iOS และ Android app ด้วย SwiftUI [somkiat.cc]'
