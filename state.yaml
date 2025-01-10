@@ -4762,6 +4762,32 @@
     url: https://www.mikkipastel.com/review-blog-2022/
   state:
     shortLink: https://webring.page.link/PVwT
+2e9d8257c3789b6d59445d30c504e885:bluesky:
+  spec:
+    title: '[MS Cert] บันทึกการสอบ AZ-305 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/microsoft-certification-exam-az-305-note/
+  state:
+    cid: bafyreib2ewus7ucffftcavq2yyoi4ydje2od6j5tviuicnhneb6o6gl2de
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lfeabp3kpt27
+2e9d8257c3789b6d59445d30c504e885:facebook:
+  spec:
+    title: '[MS Cert] บันทึกการสอบ AZ-305 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/microsoft-certification-exam-az-305-note/
+  state:
+    id: '100746876247412_580542321601681'
+    url: https://www.facebook.com/100683012920950/posts/580542321601681
+2e9d8257c3789b6d59445d30c504e885:mastodon:
+  spec:
+    title: '[MS Cert] บันทึกการสอบ AZ-305 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/microsoft-certification-exam-az-305-note/
+  state:
+    id: '113801897410514668'
+    url: https://mastodon.in.th/@webring/113801897410514668
+2e9d8257c3789b6d59445d30c504e885:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/01/microsoft-certification-exam-az-305-note/
+  state:
+    shortLink: https://link.webring.in.th/2337
 2e9f462ed10f60f548f68ee347455396:facebook:
   spec:
     title: '[CR] Starbucks-Raspberry Black Current Frappuccino [debuggingsoft.com]'
