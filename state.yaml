@@ -5967,6 +5967,32 @@
     url: https://mymoneytoolkit.app/posts/loan-haanbaan
   state:
     shortLink: https://link.webring.in.th/2194
+3bca1870f0abf82694deca34c8a5a625:bluesky:
+  spec:
+    title: 2024 – My Year in Tea (Home Cafe) [zartre.com]
+    url: https://blog.zartre.com/2025/2024-tea-story-home-cafe/
+  state:
+    cid: bafyreidqzqne7u3joeazsmxolcld6hxrmq6xct6hbjy5zfwf2mx3vojgqu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lfgqn362v42l
+3bca1870f0abf82694deca34c8a5a625:facebook:
+  spec:
+    title: 2024 – My Year in Tea (Home Cafe) [zartre.com]
+    url: https://blog.zartre.com/2025/2024-tea-story-home-cafe/
+  state:
+    id: '100746876247412_581222851533628'
+    url: https://www.facebook.com/100683012920950/posts/581222851533628
+3bca1870f0abf82694deca34c8a5a625:mastodon:
+  spec:
+    title: 2024 – My Year in Tea (Home Cafe) [zartre.com]
+    url: https://blog.zartre.com/2025/2024-tea-story-home-cafe/
+  state:
+    id: '113807551431770581'
+    url: https://mastodon.in.th/@webring/113807551431770581
+3bca1870f0abf82694deca34c8a5a625:shorturl:
+  spec:
+    url: https://blog.zartre.com/2025/2024-tea-story-home-cafe/
+  state:
+    shortLink: https://link.webring.in.th/2338
 3becd5718c24f558952e5eb7ee93d81c:facebook:
   spec:
     title: ผลจากการ review code ในภาษา Go [somkiat.cc]
