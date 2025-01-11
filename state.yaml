@@ -14302,6 +14302,32 @@
     url: https://guitarpawat.me/posts/the-quarkus-mistakes-pt-1/
   state:
     shortLink: https://webring.page.link/NL4i
+84cbc07d57274fbd986f2c827ecafdac:bluesky:
+  spec:
+    title: วันว่าง ๆ มาลองใช้งาน Claude’s Model Context Protocol (MCP) กับ Playwright กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/model-context-protocol-and-playwright/
+  state:
+    cid: bafyreiff5shndpw2m5ijhdm45b3ls6z5v6yopzk4i47dfazygp2kyqrwmu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lfh2m2idlq2h
+84cbc07d57274fbd986f2c827ecafdac:facebook:
+  spec:
+    title: วันว่าง ๆ มาลองใช้งาน Claude’s Model Context Protocol (MCP) กับ Playwright กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/model-context-protocol-and-playwright/
+  state:
+    id: '100746876247412_581301878192392'
+    url: https://www.facebook.com/100683012920950/posts/581301878192392
+84cbc07d57274fbd986f2c827ecafdac:mastodon:
+  spec:
+    title: วันว่าง ๆ มาลองใช้งาน Claude’s Model Context Protocol (MCP) กับ Playwright กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/model-context-protocol-and-playwright/
+  state:
+    id: '113808253454263107'
+    url: https://mastodon.in.th/@webring/113808253454263107
+84cbc07d57274fbd986f2c827ecafdac:shorturl:
+  spec:
+    url: https://www.somkiat.cc/model-context-protocol-and-playwright/
+  state:
+    shortLink: https://link.webring.in.th/2339
 84cdc475bfbd491ccec5bbfd71705f4a:facebook:
   spec:
     title: Kubernetes with Grafana Cloud [karnwong.me]
