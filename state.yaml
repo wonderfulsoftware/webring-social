@@ -10673,6 +10673,32 @@
     url: https://www.somkiat.cc/go-print-vs-fmt-print/
   state:
     shortLink: https://webring.page.link/3QSS
+66534e47af8611298cc005c4a0f0e410:bluesky:
+  spec:
+    title: แวะมาฟัง Microsoft AI Skills Program Kick-off and Azure AI Training [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/01/note-microsoft-ai-skills-program-kick-off-and-azure-ai-training/
+  state:
+    cid: bafyreih6jala6qcftrlvgvd27ktdjn4gqf3shkhjc42u223stayv7lhdki
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lfjbgsjhn42i
+66534e47af8611298cc005c4a0f0e410:facebook:
+  spec:
+    title: แวะมาฟัง Microsoft AI Skills Program Kick-off and Azure AI Training [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/01/note-microsoft-ai-skills-program-kick-off-and-azure-ai-training/
+  state:
+    id: '100746876247412_581929204796326'
+    url: https://www.facebook.com/100683012920950/posts/581929204796326
+66534e47af8611298cc005c4a0f0e410:mastodon:
+  spec:
+    title: แวะมาฟัง Microsoft AI Skills Program Kick-off and Azure AI Training [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/01/note-microsoft-ai-skills-program-kick-off-and-azure-ai-training/
+  state:
+    id: '113813237883986794'
+    url: https://mastodon.in.th/@webring/113813237883986794
+66534e47af8611298cc005c4a0f0e410:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/01/note-microsoft-ai-skills-program-kick-off-and-azure-ai-training/
+  state:
+    shortLink: https://link.webring.in.th/2340
 667f6c455933e98472d5bc55ee2d5e0c:facebook:
   spec:
     title: SecretOps with teller [karnwong.me]
