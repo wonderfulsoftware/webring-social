@@ -1246,6 +1246,32 @@
     url: https://kusumotolab.com/try-to-migrate-document-db-to-mongodb-with-condition/
   state:
     shortLink: https://webring.page.link/esR8
+0d4aa95fd9255736de8a0670009c00d6:bluesky:
+  spec:
+    title: ลองทำ DDNS บน Cloudflare DNS ง่ายๆ [thanapon.info]
+    url: https://thanapon.info/cloudflare-ddns/
+  state:
+    cid: bafyreibqm7zvgue6h5po3ufvzspboikdikksblepblk5rdnbcli7vsmmdm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lfjl3jxdzh24
+0d4aa95fd9255736de8a0670009c00d6:facebook:
+  spec:
+    title: ลองทำ DDNS บน Cloudflare DNS ง่ายๆ [thanapon.info]
+    url: https://thanapon.info/cloudflare-ddns/
+  state:
+    id: '100746876247412_582022774786969'
+    url: https://www.facebook.com/100683012920950/posts/582022774786969
+0d4aa95fd9255736de8a0670009c00d6:mastodon:
+  spec:
+    title: ลองทำ DDNS บน Cloudflare DNS ง่ายๆ [thanapon.info]
+    url: https://thanapon.info/cloudflare-ddns/
+  state:
+    id: '113813917010123944'
+    url: https://mastodon.in.th/@webring/113813917010123944
+0d4aa95fd9255736de8a0670009c00d6:shorturl:
+  spec:
+    url: https://thanapon.info/cloudflare-ddns/
+  state:
+    shortLink: https://link.webring.in.th/2341
 0d4e0cd9d6cbddc90b2fb1086ed5220a:facebook:
   spec:
     title: น่าสนใจกับ Top 10 CI/CD Security Risks จาก OWASP [somkiat.cc]
