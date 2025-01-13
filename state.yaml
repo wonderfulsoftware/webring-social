@@ -21373,6 +21373,32 @@ ca7481ec9c7c70e4edc5d7c73d473a8e:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/07/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-the-cloud-camp-%e0%b8%a3%e0%b8%ad%e0%b8%9a-audition/
   state:
     shortLink: https://webring.page.link/XEjq
+cab2d49cb1782d2546b7a6aa2a3683c5:bluesky:
+  spec:
+    title: ความสามารถใหม่ ๆ ใน Apache Airflow 3.0 [somkiat.cc]
+    url: https://www.somkiat.cc/features-apache-airflow-3/
+  state:
+    cid: bafyreibcnrsvaen5m7jhowqvtpsqz3egvjsadj4gebd634vqyahbm74wvy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lfm3on3eut25
+cab2d49cb1782d2546b7a6aa2a3683c5:facebook:
+  spec:
+    title: ความสามารถใหม่ ๆ ใน Apache Airflow 3.0 [somkiat.cc]
+    url: https://www.somkiat.cc/features-apache-airflow-3/
+  state:
+    id: '100746876247412_582737691382144'
+    url: https://www.facebook.com/100683012920950/posts/582737691382144
+cab2d49cb1782d2546b7a6aa2a3683c5:mastodon:
+  spec:
+    title: ความสามารถใหม่ ๆ ใน Apache Airflow 3.0 [somkiat.cc]
+    url: https://www.somkiat.cc/features-apache-airflow-3/
+  state:
+    id: '113819588484960549'
+    url: https://mastodon.in.th/@webring/113819588484960549
+cab2d49cb1782d2546b7a6aa2a3683c5:shorturl:
+  spec:
+    url: https://www.somkiat.cc/features-apache-airflow-3/
+  state:
+    shortLink: https://link.webring.in.th/2343
 cac1bc35b5b13f8ec50018f199b9aff1:facebook:
   spec:
     title: LVM คือ อะไร ? [debuggingsoft.com]
