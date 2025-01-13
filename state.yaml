@@ -2998,6 +2998,32 @@
     url: https://www.somkiat.cc/testing-with-fastapi/
   state:
     shortLink: https://link.webring.in.th/2197
+1d2a27e83354c252a0fad1f1dd412dd4:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : Second Brain [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-second-brain/
+  state:
+    cid: bafyreiapeszvtxdsvkmk5tddkhddh6kljv5fds5ngyvtanfdkwrxibdehy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lflrsyy6tv2n
+1d2a27e83354c252a0fad1f1dd412dd4:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : Second Brain [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-second-brain/
+  state:
+    id: '100746876247412_582636478058932'
+    url: https://www.facebook.com/100683012920950/posts/582636478058932
+1d2a27e83354c252a0fad1f1dd412dd4:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : Second Brain [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-second-brain/
+  state:
+    id: '113818894170309151'
+    url: https://mastodon.in.th/@webring/113818894170309151
+1d2a27e83354c252a0fad1f1dd412dd4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-second-brain/
+  state:
+    shortLink: https://link.webring.in.th/2342
 1dd2626ad790e1d2e73e8e2831b8ae6d:facebook:
   spec:
     title: การใช้งาน Generic type ใน TypeScript [thiti.dev]
