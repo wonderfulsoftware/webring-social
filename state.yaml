@@ -18460,6 +18460,32 @@ ace02453c1ce428b12a46216b9176556:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/cr-starbucks-xmas-tree-brownie/
   state:
     shortLink: https://webring.page.link/9a7x
+aceabba6ab0d0bbf282dd172ad3a128c:bluesky:
+  spec:
+    title: '[CR] Starbucks Espresso ChocChip Brownie [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/cr-starbucks-espresso-chocchip-brownie/
+  state:
+    cid: bafyreibsnv7pjjafazxkqqveacf2v6faf5akhluhzclp6mnrtvypjrgzva
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lfobqvh65m24
+aceabba6ab0d0bbf282dd172ad3a128c:facebook:
+  spec:
+    title: '[CR] Starbucks Espresso ChocChip Brownie [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/cr-starbucks-espresso-chocchip-brownie/
+  state:
+    id: '100746876247412_583339554655291'
+    url: https://www.facebook.com/100683012920950/posts/583339554655291
+aceabba6ab0d0bbf282dd172ad3a128c:mastodon:
+  spec:
+    title: '[CR] Starbucks Espresso ChocChip Brownie [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/cr-starbucks-espresso-chocchip-brownie/
+  state:
+    id: '113824519109552145'
+    url: https://mastodon.in.th/@webring/113824519109552145
+aceabba6ab0d0bbf282dd172ad3a128c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/01/cr-starbucks-espresso-chocchip-brownie/
+  state:
+    shortLink: https://link.webring.in.th/2344
 ad462677b20e6bf4d4e61ce98621304f:facebook:
   spec:
     title: '[MS Cert] บันทึกการสอบ AI-102 [debuggingsoft.com]'
