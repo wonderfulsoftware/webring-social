@@ -19666,6 +19666,32 @@ b8da0a5480bf6d4e92e718677b04492f:shorturl:
     url: https://karnwong.me/posts/2024/10/calling-c-from-go-python-and-rust-benchmark/
   state:
     shortLink: https://link.webring.in.th/2187
+b91d69fe0d47864d6f237fc3333124f3:bluesky:
+  spec:
+    title: Make dApp testing automated with Synpress [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/dapp-e2e-synpress/
+  state:
+    cid: bafyreigzmb7ckwrv2regv6o6ks6aftjrofxuxqakwmbi4ombtkqlqpmgni
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lfubg6vv2m25
+b91d69fe0d47864d6f237fc3333124f3:facebook:
+  spec:
+    title: Make dApp testing automated with Synpress [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/dapp-e2e-synpress/
+  state:
+    id: '100746876247412_585042124485034'
+    url: https://www.facebook.com/100683012920950/posts/585042124485034
+b91d69fe0d47864d6f237fc3333124f3:mastodon:
+  spec:
+    title: Make dApp testing automated with Synpress [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/dapp-e2e-synpress/
+  state:
+    id: '113838006439724422'
+    url: https://mastodon.in.th/@webring/113838006439724422
+b91d69fe0d47864d6f237fc3333124f3:shorturl:
+  spec:
+    url: https://yuttakhanb.dev/posts/dapp-e2e-synpress/
+  state:
+    shortLink: https://link.webring.in.th/2348
 b93c12bca2679456e9c2d8d4595ec8f9:facebook:
   spec:
     title: แฝงตัวในดง Bitcoiner ที่งาน Thailand Bitcoin Conference 2024 [mikkipastel.com]
