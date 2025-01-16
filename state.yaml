@@ -6935,6 +6935,32 @@
     url: https://ntsd.dev/cloudflare-warp-multiple-profiles/
   state:
     shortLink: https://link.webring.in.th/2053
+444b021613b47effdb1fdd461f3f70e1:bluesky:
+  spec:
+    title: บันทึกการอ่านเรื่อง How Discord Reduced Websocket Traffic by 40% ? [somkiat.cc]
+    url: https://www.somkiat.cc/note-how-discord-reduced-websocket-traffic/
+  state:
+    cid: bafyreihscec2diftucyeykixtqcdulultbxrc3q7x6x5vf2jzlf77g3izi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lftmyd73r424
+444b021613b47effdb1fdd461f3f70e1:facebook:
+  spec:
+    title: บันทึกการอ่านเรื่อง How Discord Reduced Websocket Traffic by 40% ? [somkiat.cc]
+    url: https://www.somkiat.cc/note-how-discord-reduced-websocket-traffic/
+  state:
+    id: '100746876247412_584870671168846'
+    url: https://www.facebook.com/100683012920950/posts/584870671168846
+444b021613b47effdb1fdd461f3f70e1:mastodon:
+  spec:
+    title: บันทึกการอ่านเรื่อง How Discord Reduced Websocket Traffic by 40% ? [somkiat.cc]
+    url: https://www.somkiat.cc/note-how-discord-reduced-websocket-traffic/
+  state:
+    id: '113836568627244381'
+    url: https://mastodon.in.th/@webring/113836568627244381
+444b021613b47effdb1fdd461f3f70e1:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-how-discord-reduced-websocket-traffic/
+  state:
+    shortLink: https://link.webring.in.th/2346
 446f4ca802447c269b69fff96b1538a1:bluesky:
   spec:
     title: แนะนำ Val Town [somkiat.cc]
