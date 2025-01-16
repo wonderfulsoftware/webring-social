@@ -25049,6 +25049,32 @@ ee5b51dff5235a3bb36224db1c66c2ae:shorturl:
     url: https://www.somkiat.cc/google-mesop-ui-framework/
   state:
     shortLink: https://link.webring.in.th/2041
+ee6f370001a32ad82ae1b9dc983f651b:bluesky:
+  spec:
+    title: 'Azure Error AADSTS50079: The user is required to use multi-factor authentication [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/azure-error-aadsts50079-the-user-is-required-to-use-mfa/
+  state:
+    cid: bafyreidtlmrq5fkay4qhxplkh7bssr3xjlwh4ac7unxkyui2jpkaj4vtva
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lftwt3uoak2i
+ee6f370001a32ad82ae1b9dc983f651b:facebook:
+  spec:
+    title: 'Azure Error AADSTS50079: The user is required to use multi-factor authentication [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/azure-error-aadsts50079-the-user-is-required-to-use-mfa/
+  state:
+    id: '100746876247412_584946911161222'
+    url: https://www.facebook.com/100683012920950/posts/584946911161222
+ee6f370001a32ad82ae1b9dc983f651b:mastodon:
+  spec:
+    title: 'Azure Error AADSTS50079: The user is required to use multi-factor authentication [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/azure-error-aadsts50079-the-user-is-required-to-use-mfa/
+  state:
+    id: '113837260554415175'
+    url: https://mastodon.in.th/@webring/113837260554415175
+ee6f370001a32ad82ae1b9dc983f651b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/01/azure-error-aadsts50079-the-user-is-required-to-use-mfa/
+  state:
+    shortLink: https://link.webring.in.th/2347
 eebf657a35cac352e6cd61927b08d016:facebook:
   spec:
     title: Software Developer ได้เรียนรู้อะไรจากเหตุการณ์จาก CrowdStrike บ้าง ? [somkiat.cc]
