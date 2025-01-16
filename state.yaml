@@ -26471,6 +26471,32 @@ fe7c16dc875d352211a3eed6cb150a6a:shorturl:
     url: https://blog.ninprd.com/blog/tutorial-blogging-with-wordpress-com/
   state:
     shortLink: https://link.webring.in.th/1807
+fed988b39094ae9efd2d233bae5680d7:bluesky:
+  spec:
+    title: 0261 | เปิด ripe-atlas probe กันเถอะ [icez.net]
+    url: https://www.icez.net/blog/167557/0261-%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94-ripe-atlas-probe-%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%96%e0%b8%ad%e0%b8%b0
+  state:
+    cid: bafyreig4iufirze5r6h2fr3if3xsnb3rq2rdvoc4vaxengy53sn5km535u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lftcr5nuz72p
+fed988b39094ae9efd2d233bae5680d7:facebook:
+  spec:
+    title: 0261 | เปิด ripe-atlas probe กันเถอะ [icez.net]
+    url: https://www.icez.net/blog/167557/0261-%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94-ripe-atlas-probe-%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%96%e0%b8%ad%e0%b8%b0
+  state:
+    id: '100746876247412_584780751177838'
+    url: https://www.facebook.com/100683012920950/posts/584780751177838
+fed988b39094ae9efd2d233bae5680d7:mastodon:
+  spec:
+    title: 0261 | เปิด ripe-atlas probe กันเถอะ [icez.net]
+    url: https://www.icez.net/blog/167557/0261-%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94-ripe-atlas-probe-%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%96%e0%b8%ad%e0%b8%b0
+  state:
+    id: '113835849006492045'
+    url: https://mastodon.in.th/@webring/113835849006492045
+fed988b39094ae9efd2d233bae5680d7:shorturl:
+  spec:
+    url: https://www.icez.net/blog/167557/0261-%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94-ripe-atlas-probe-%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%96%e0%b8%ad%e0%b8%b0
+  state:
+    shortLink: https://link.webring.in.th/2345
 ff1a08452a4f002b3d483fa32639fb1d:facebook:
   spec:
     title: ข้อมูลการใช้งานของ Stack Overflow [somkiat.cc]
