@@ -16948,6 +16948,32 @@
     url: https://mikelopster.dev/posts/clean-code-js/
   state:
     shortLink: https://webring.page.link/vCPn
+9d2dccb7726d551545baa1911b486252:bluesky:
+  spec:
+    title: เว็บรวม Easy E-receipt 2.0 ไว้ที่เดียว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/easy-e-receipt-2025
+  state:
+    cid: bafyreigkvfjwvnqfzt6go77fezqbjivr2jlwa2mjyuhxzcdl5u7tjfwfbu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lfvtb6pwkd2b
+9d2dccb7726d551545baa1911b486252:facebook:
+  spec:
+    title: เว็บรวม Easy E-receipt 2.0 ไว้ที่เดียว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/easy-e-receipt-2025
+  state:
+    id: '100746876247412_585484721107441'
+    url: https://www.facebook.com/100683012920950/posts/585484721107441
+9d2dccb7726d551545baa1911b486252:mastodon:
+  spec:
+    title: เว็บรวม Easy E-receipt 2.0 ไว้ที่เดียว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/easy-e-receipt-2025
+  state:
+    id: '113841513764682663'
+    url: https://mastodon.in.th/@webring/113841513764682663
+9d2dccb7726d551545baa1911b486252:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/easy-e-receipt-2025
+  state:
+    shortLink: https://link.webring.in.th/2349
 9dd372d9894958f226807a0c2c999118:facebook:
   spec:
     title: New Blog | บ้านใหม่ [p4perf4ce.me]
