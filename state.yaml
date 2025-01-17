@@ -21759,6 +21759,27 @@ cc517b61b7971c78564e452569512568:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/06/high-cost-of-requirement-error-but-i-dont-think-it-something-missing/
   state:
     shortLink: https://webring.page.link/CTHp
+cc8098a42816d110f84359a2fa68f162:bluesky:
+  spec:
+    title: Corolla Altis Hybrid – รีวิวหลังใช้มา 2 ปี [zartre.com]
+    url: https://blog.zartre.com/2025/corolla-altis-2-year-review/
+  state:
+    cid: bafyreigcfir7g5lkdvwyo7yb2ga3wvnhtknubajn46zni7dt5xvj46s5zi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lfwrudirff24
+cc8098a42816d110f84359a2fa68f162:facebook:
+  spec:
+    title: Corolla Altis Hybrid – รีวิวหลังใช้มา 2 ปี [zartre.com]
+    url: https://blog.zartre.com/2025/corolla-altis-2-year-review/
+  state:
+    id: '100746876247412_585742051081708'
+    url: https://www.facebook.com/100683012920950/posts/585742051081708
+cc8098a42816d110f84359a2fa68f162:mastodon:
+  spec:
+    title: Corolla Altis Hybrid – รีวิวหลังใช้มา 2 ปี [zartre.com]
+    url: https://blog.zartre.com/2025/corolla-altis-2-year-review/
+  state:
+    id: '113843666987104083'
+    url: https://mastodon.in.th/@webring/113843666987104083
 cc8098a42816d110f84359a2fa68f162:shorturl:
   spec:
     url: https://blog.zartre.com/2025/corolla-altis-2-year-review/
