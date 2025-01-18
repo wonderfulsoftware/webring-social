@@ -12806,6 +12806,32 @@
     url: https://mikelopster.dev/posts/fastapi-basic/
   state:
     shortLink: https://link.webring.in.th/2113
+77484a4cdcc68c206150d0f1972b635e:bluesky:
+  spec:
+    title: เมื่อ Android Developer คนหนึ่งอยากเปลี่ยน portfolio website ใหม่ [mikkipastel.com]
+    url: https://www.mikkipastel.com/new-portfolio-website/
+  state:
+    cid: bafyreiek57hsrihqt75riccs2w3litgonnli5xxxrw2gtsmmrkvo3vpx7q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lfydmqrttb2b
+77484a4cdcc68c206150d0f1972b635e:facebook:
+  spec:
+    title: เมื่อ Android Developer คนหนึ่งอยากเปลี่ยน portfolio website ใหม่ [mikkipastel.com]
+    url: https://www.mikkipastel.com/new-portfolio-website/
+  state:
+    id: '100746876247412_586180474371199'
+    url: https://www.facebook.com/100683012920950/posts/586180474371199
+77484a4cdcc68c206150d0f1972b635e:mastodon:
+  spec:
+    title: เมื่อ Android Developer คนหนึ่งอยากเปลี่ยน portfolio website ใหม่ [mikkipastel.com]
+    url: https://www.mikkipastel.com/new-portfolio-website/
+  state:
+    id: '113847168912977672'
+    url: https://mastodon.in.th/@webring/113847168912977672
+77484a4cdcc68c206150d0f1972b635e:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/new-portfolio-website/
+  state:
+    shortLink: https://link.webring.in.th/2352
 775b3a0aeebfb7e382283f3feb99469a:facebook:
   spec:
     title: API Architecture Styles [tech.duckfollow.co]
