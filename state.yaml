@@ -5203,6 +5203,32 @@
     url: https://lucian.solutions/blog/lucia-uncaught-typeerror
   state:
     shortLink: https://webring.page.link/DFxT
+32d3570811fb5339292b7c13461e2dcd:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : ใช้ Spreadsheet / Excel มา 10 ปี เพิ่งรู้ว่าทำแบบนี้ได้ [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-spreadsheet-excel-tips/
+  state:
+    cid: bafyreieujvqi57qyzsorumddlj2o34rhim3ajoqhrbhco7ej2db6l4c4ha
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lg2ubwyy6k2p
+32d3570811fb5339292b7c13461e2dcd:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : ใช้ Spreadsheet / Excel มา 10 ปี เพิ่งรู้ว่าทำแบบนี้ได้ [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-spreadsheet-excel-tips/
+  state:
+    id: '100746876247412_586885854300661'
+    url: https://www.facebook.com/100683012920950/posts/586885854300661
+32d3570811fb5339292b7c13461e2dcd:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : ใช้ Spreadsheet / Excel มา 10 ปี เพิ่งรู้ว่าทำแบบนี้ได้ [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-spreadsheet-excel-tips/
+  state:
+    id: '113852844725716796'
+    url: https://mastodon.in.th/@webring/113852844725716796
+32d3570811fb5339292b7c13461e2dcd:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-spreadsheet-excel-tips/
+  state:
+    shortLink: https://link.webring.in.th/2353
 3305e349d06181d52d34c90ab47a4dea:bluesky:
   spec:
     title: ทดสอบโปรแกรมง่ายกว่าเดิมด้วย Testcontainers [pontakorn.dev]
