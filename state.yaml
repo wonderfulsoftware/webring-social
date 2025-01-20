@@ -19174,6 +19174,32 @@ b248067f438f63e0da6c2940be830c4d:shorturl:
     url: https://www.somkiat.cc/architecture-antipatterns/
   state:
     shortLink: https://link.webring.in.th/1892
+b2635a0214a66b776839b28571bbc2ec:bluesky:
+  spec:
+    title: Clear Cache DNS Mac [amiearth.com]
+    url: https://amiearth.com/clear-cache-dns-mac
+  state:
+    cid: bafyreiba4fxu5g233f66om6s5figzigccvjzplsfowgn45u4lg2x23qesm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lg5epd2std2b
+b2635a0214a66b776839b28571bbc2ec:facebook:
+  spec:
+    title: Clear Cache DNS Mac [amiearth.com]
+    url: https://amiearth.com/clear-cache-dns-mac
+  state:
+    id: '100746876247412_587597714229475'
+    url: https://www.facebook.com/100683012920950/posts/587597714229475
+b2635a0214a66b776839b28571bbc2ec:mastodon:
+  spec:
+    title: Clear Cache DNS Mac [amiearth.com]
+    url: https://amiearth.com/clear-cache-dns-mac
+  state:
+    id: '113858503821243032'
+    url: https://mastodon.in.th/@webring/113858503821243032
+b2635a0214a66b776839b28571bbc2ec:shorturl:
+  spec:
+    url: https://amiearth.com/clear-cache-dns-mac
+  state:
+    shortLink: https://link.webring.in.th/2354
 b26edc1fc31a0722b6170158e92ceb27:facebook:
   spec:
     title: Setting up Postgres locally, what could go wrong? [karnwong.me]
