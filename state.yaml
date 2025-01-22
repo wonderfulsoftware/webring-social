@@ -18400,6 +18400,32 @@ aaf877059c5822ad544decf67851c49d:shorturl:
     url: https://mikelopster.dev/posts/auth0-basic/
   state:
     shortLink: https://link.webring.in.th/1779
+ab2ca1824b65de3707f7e32cf2afef42:bluesky:
+  spec:
+    title: 25 เครื่องมือการเงิน 2025 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tool-new-year-2025
+  state:
+    cid: bafyreihxru6pg5emjupobheydxsi5gnsgatvmcltbpyspc4t7agyb4l6pm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgcfnw7lu425
+ab2ca1824b65de3707f7e32cf2afef42:facebook:
+  spec:
+    title: 25 เครื่องมือการเงิน 2025 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tool-new-year-2025
+  state:
+    id: '100746876247412_589031444086102'
+    url: https://www.facebook.com/100683012920950/posts/589031444086102
+ab2ca1824b65de3707f7e32cf2afef42:mastodon:
+  spec:
+    title: 25 เครื่องมือการเงิน 2025 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tool-new-year-2025
+  state:
+    id: '113869829883401110'
+    url: https://mastodon.in.th/@webring/113869829883401110
+ab2ca1824b65de3707f7e32cf2afef42:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/tool-new-year-2025
+  state:
+    shortLink: https://link.webring.in.th/2355
 ab2cd2766eadfa93667f081fc37a902e:facebook:
   spec:
     title: '[KBTG-GO#06] Refactoring with Go [debuggingsoft.com]'
