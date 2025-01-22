@@ -591,6 +591,32 @@
     url: https://punn.dev/blog/how-to-implement-cross-tab-communication
   state:
     shortLink: https://link.webring.in.th/1993
+0767c5c9df87f5191ade339de72fecf5:bluesky:
+  spec:
+    title: ว่าด้วยเรื่องของการ Scaling ระบบในรูปแบบ Monolith [somkiat.cc]
+    url: https://www.somkiat.cc/scaling-monolith/
+  state:
+    cid: bafyreielfyu26v3goeglpiedikqkh7oty62hymnwn7a7cuf2mxd6ymnft4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgcpsmmst225
+0767c5c9df87f5191ade339de72fecf5:facebook:
+  spec:
+    title: ว่าด้วยเรื่องของการ Scaling ระบบในรูปแบบ Monolith [somkiat.cc]
+    url: https://www.somkiat.cc/scaling-monolith/
+  state:
+    id: '100746876247412_589114280744485'
+    url: https://www.facebook.com/100683012920950/posts/589114280744485
+0767c5c9df87f5191ade339de72fecf5:mastodon:
+  spec:
+    title: ว่าด้วยเรื่องของการ Scaling ระบบในรูปแบบ Monolith [somkiat.cc]
+    url: https://www.somkiat.cc/scaling-monolith/
+  state:
+    id: '113870544161971040'
+    url: https://mastodon.in.th/@webring/113870544161971040
+0767c5c9df87f5191ade339de72fecf5:shorturl:
+  spec:
+    url: https://www.somkiat.cc/scaling-monolith/
+  state:
+    shortLink: https://link.webring.in.th/2356
 078f3d2efcb7c493c93611be4d88737e:facebook:
   spec:
     title: ความสามารถที่น่าสนใจของ NodeJS [somkiat.cc]
