@@ -3660,6 +3660,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/07/i-have-received-a-computer-from-the-company-in-almost-9-years/
   state:
     shortLink: https://link.webring.in.th/2043
+23f42859595eb63edbe22fa6cc779fe1:bluesky:
+  spec:
+    title: เรื่องของ ambiguous match exception และการจัดการในมุม Performance [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/01/dotnet-csharp-ambiguous-match-exception-thai-version/
+  state:
+    cid: bafyreieaam34sutuii622izkyvz4iggwxddesvk2x2fdqctsrzygokw7wu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgevzy4kzw22
+23f42859595eb63edbe22fa6cc779fe1:facebook:
+  spec:
+    title: เรื่องของ ambiguous match exception และการจัดการในมุม Performance [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/01/dotnet-csharp-ambiguous-match-exception-thai-version/
+  state:
+    id: '100746876247412_589720480683865'
+    url: https://www.facebook.com/100683012920950/posts/589720480683865
+23f42859595eb63edbe22fa6cc779fe1:mastodon:
+  spec:
+    title: เรื่องของ ambiguous match exception และการจัดการในมุม Performance [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/01/dotnet-csharp-ambiguous-match-exception-thai-version/
+  state:
+    id: '113875486073019346'
+    url: https://mastodon.in.th/@webring/113875486073019346
+23f42859595eb63edbe22fa6cc779fe1:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/01/dotnet-csharp-ambiguous-match-exception-thai-version/
+  state:
+    shortLink: https://link.webring.in.th/2357
 24087b792e3e284ea5d2dac6ea76096f:facebook:
   spec:
     title: เรียนรู้ Go หัดทำ API ด้วย gin [kajame.xyz]
