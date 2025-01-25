@@ -21464,6 +21464,32 @@ c779546911ac452887e40ccf901577ec:shorturl:
     url: https://www.mikkipastel.com/overview-my-ipad-with-apple-pencil-application-widget/
   state:
     shortLink: https://link.webring.in.th/1851
+c77c976cda861e4008f9c1c6fb7e389f:bluesky:
+  spec:
+    title: 'Nostr 101: คืออะไร? เล่นยังไง? แล้วเปลี่ยนโลกการใช้ social ของเรายังไง? [mikkipastel.com]'
+    url: https://www.mikkipastel.com/nostr-101-introduction/
+  state:
+    cid: bafyreietr6s53xegehzxdyhix4bixms5i5rco3zxbmfo4nlnj5ogcwzlra
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgkb3orsdc2f
+c77c976cda861e4008f9c1c6fb7e389f:facebook:
+  spec:
+    title: 'Nostr 101: คืออะไร? เล่นยังไง? แล้วเปลี่ยนโลกการใช้ social ของเรายังไง? [mikkipastel.com]'
+    url: https://www.mikkipastel.com/nostr-101-introduction/
+  state:
+    id: '100746876247412_591248787197701'
+    url: https://www.facebook.com/100683012920950/posts/591248787197701
+c77c976cda861e4008f9c1c6fb7e389f:mastodon:
+  spec:
+    title: 'Nostr 101: คืออะไร? เล่นยังไง? แล้วเปลี่ยนโลกการใช้ social ของเรายังไง? [mikkipastel.com]'
+    url: https://www.mikkipastel.com/nostr-101-introduction/
+  state:
+    id: '113887522949921414'
+    url: https://mastodon.in.th/@webring/113887522949921414
+c77c976cda861e4008f9c1c6fb7e389f:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/nostr-101-introduction/
+  state:
+    shortLink: https://link.webring.in.th/2360
 c7e81d23ce19b1af0e9ec1e0e3ad0c5d:facebook:
   spec:
     title: '[CR] Starbucks Double Chocolate Pain Suisse [debuggingsoft.com]'
