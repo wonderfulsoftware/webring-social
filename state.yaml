@@ -18739,6 +18739,32 @@ ad462677b20e6bf4d4e61ce98621304f:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/06/microsoft-certification-exam-ai-102-note/
   state:
     shortLink: https://link.webring.in.th/1999
+ad482bfb007fd80fd05fd8a928e6882b:bluesky:
+  spec:
+    title: Tailwind CSS v4.0 ปล่อยออกมาแล้ว [boychawin.com]
+    url: https://boychawin.com/2025/01/24/tailwind-css-v4-0-new-features.html
+  state:
+    cid: bafyreiglbm3cpzcnbbmrfzq4gzy4lt7cjqioufgxdxgjm2kgpf3l5e64ly
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgjwuja75e2i
+ad482bfb007fd80fd05fd8a928e6882b:facebook:
+  spec:
+    title: Tailwind CSS v4.0 ปล่อยออกมาแล้ว [boychawin.com]
+    url: https://boychawin.com/2025/01/24/tailwind-css-v4-0-new-features.html
+  state:
+    id: '100746876247412_591162223873024'
+    url: https://www.facebook.com/100683012920950/posts/591162223873024
+ad482bfb007fd80fd05fd8a928e6882b:mastodon:
+  spec:
+    title: Tailwind CSS v4.0 ปล่อยออกมาแล้ว [boychawin.com]
+    url: https://boychawin.com/2025/01/24/tailwind-css-v4-0-new-features.html
+  state:
+    id: '113886803489074568'
+    url: https://mastodon.in.th/@webring/113886803489074568
+ad482bfb007fd80fd05fd8a928e6882b:shorturl:
+  spec:
+    url: https://boychawin.com/2025/01/24/tailwind-css-v4-0-new-features.html
+  state:
+    shortLink: https://link.webring.in.th/2359
 ad854103055b99bd1095a99ddb655ade:facebook:
   spec:
     title: My First Hiking at Phu Soi Dao [tantatorn.xyz]
