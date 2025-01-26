@@ -17984,6 +17984,32 @@ a4f45033b6dafefc4eedb1e9c8f10387:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day4-click-me
   state:
     shortLink: https://webring.page.link/KCtb
+a50d421f67950f1cd19d3d1c9b06add8:bluesky:
+  spec:
+    title: ใช้งาน DeepSeek-R1 บน Ollama [somkiat.cc]
+    url: https://www.somkiat.cc/install-deepseek-r1-with-ollama/
+  state:
+    cid: bafyreiaau243yopt2cbugzsgwmnrsbvlz3nivgpwdtitlnrkvs2e4udfiy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgnfwzotbh22
+a50d421f67950f1cd19d3d1c9b06add8:facebook:
+  spec:
+    title: ใช้งาน DeepSeek-R1 บน Ollama [somkiat.cc]
+    url: https://www.somkiat.cc/install-deepseek-r1-with-ollama/
+  state:
+    id: '100746876247412_592210063768240'
+    url: https://www.facebook.com/100683012920950/posts/592210063768240
+a50d421f67950f1cd19d3d1c9b06add8:mastodon:
+  spec:
+    title: ใช้งาน DeepSeek-R1 บน Ollama [somkiat.cc]
+    url: https://www.somkiat.cc/install-deepseek-r1-with-ollama/
+  state:
+    id: '113894619933842377'
+    url: https://mastodon.in.th/@webring/113894619933842377
+a50d421f67950f1cd19d3d1c9b06add8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/install-deepseek-r1-with-ollama/
+  state:
+    shortLink: https://link.webring.in.th/2364
 a51a992373d4e0f28f1e84418320f43c:facebook:
   spec:
     title: Optimize Container image size [debuggingsoft.com]
