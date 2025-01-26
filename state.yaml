@@ -5070,6 +5070,32 @@
     url: https://mikelopster.dev/posts/nestjs-mongo/
   state:
     shortLink: https://link.webring.in.th/1817
+3037feb997e8677a8483fa4bcca5a901:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : SQL [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-sql/
+  state:
+    cid: bafyreigtuk74wdj7aor4klh3hi2z7hdelb5lrsjy4o6wrnzok5b6mdb3b4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgn3fxt4nv24
+3037feb997e8677a8483fa4bcca5a901:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : SQL [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-sql/
+  state:
+    id: '100746876247412_592112643777982'
+    url: https://www.facebook.com/100683012920950/posts/592112643777982
+3037feb997e8677a8483fa4bcca5a901:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : SQL [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-sql/
+  state:
+    id: '113893878530269542'
+    url: https://mastodon.in.th/@webring/113893878530269542
+3037feb997e8677a8483fa4bcca5a901:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-sql/
+  state:
+    shortLink: https://link.webring.in.th/2363
 303971371bc08945012ef1b78125209e:facebook:
   spec:
     title: Illustration - FateAura [lucian.solutions]
