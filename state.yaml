@@ -7917,6 +7917,32 @@
     url: https://www.poolsawat.com/docker-compose-for-laravel8-mysql-phpmyadmin/
   state:
     shortLink: https://link.webring.in.th/1723
+4c7629086cf21b226164993f6071606c:bluesky:
+  spec:
+    title: My journey for fully switching from Windows over to Linux [karnwong.me]
+    url: https://karnwong.me/posts/2025/01/my-journey-for-fully-switching-from-windows-over-to-linux/
+  state:
+    cid: bafyreienq6xbvgkrrh62ycsalywyezevzcfalbevtsrug3pigr74ogcfp4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgmhhifkol2i
+4c7629086cf21b226164993f6071606c:facebook:
+  spec:
+    title: My journey for fully switching from Windows over to Linux [karnwong.me]
+    url: https://karnwong.me/posts/2025/01/my-journey-for-fully-switching-from-windows-over-to-linux/
+  state:
+    id: '100746876247412_591932280462685'
+    url: https://www.facebook.com/100683012920950/posts/591932280462685
+4c7629086cf21b226164993f6071606c:mastodon:
+  spec:
+    title: My journey for fully switching from Windows over to Linux [karnwong.me]
+    url: https://karnwong.me/posts/2025/01/my-journey-for-fully-switching-from-windows-over-to-linux/
+  state:
+    id: '113892474713431823'
+    url: https://mastodon.in.th/@webring/113892474713431823
+4c7629086cf21b226164993f6071606c:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/01/my-journey-for-fully-switching-from-windows-over-to-linux/
+  state:
+    shortLink: https://link.webring.in.th/2361
 4c9ee40f6dce3051343dd388fba6b36c:facebook:
   spec:
     title: DB2 Restore backup DB2 database with different database name [debuggingsoft.com]
