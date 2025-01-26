@@ -23234,6 +23234,32 @@ d6c9b006e22c90a3f49b8547b7e1fcfe:shorturl:
     url: https://www.somkiat.cc/google-chrome-ai-api/
   state:
     shortLink: https://link.webring.in.th/2227
+d7062a79cf1e01a598a874478b6faaa0:bluesky:
+  spec:
+    title: คำนวณการลงทุนช้าผลตอบแทนต่างเท่าไหร่ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/compare-start-investment
+  state:
+    cid: bafyreibrg745qoszkbfalmura6opnz4lwrqr6q7vbvpvwukgchlor3ttmq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgmrkuogim2s
+d7062a79cf1e01a598a874478b6faaa0:facebook:
+  spec:
+    title: คำนวณการลงทุนช้าผลตอบแทนต่างเท่าไหร่ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/compare-start-investment
+  state:
+    id: '100746876247412_592027140453199'
+    url: https://www.facebook.com/100683012920950/posts/592027140453199
+d7062a79cf1e01a598a874478b6faaa0:mastodon:
+  spec:
+    title: คำนวณการลงทุนช้าผลตอบแทนต่างเท่าไหร่ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/compare-start-investment
+  state:
+    id: '113893185904871436'
+    url: https://mastodon.in.th/@webring/113893185904871436
+d7062a79cf1e01a598a874478b6faaa0:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/compare-start-investment
+  state:
+    shortLink: https://link.webring.in.th/2362
 d70dfad0a66593f28662eb0eea706a43:facebook:
   spec:
     title: ความเร็วแบบ polylog [neizod.dev]
