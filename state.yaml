@@ -16142,6 +16142,32 @@
     url: https://notes.dt.in.th/TailwindCSS4Alpha14Notes
   state:
     shortLink: https://link.webring.in.th/1886
+9292cd77ce1a063c28c81e3d5de437f0:bluesky:
+  spec:
+    title: คำนวณแบ่งเงินลงทุนเป็นก้อน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/split-investment
+  state:
+    cid: bafyreihwmjpxffdlg2bbmaz3u5umspylicxakfjghbqtq7drq6aci4anoq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgoxxezmsi22
+9292cd77ce1a063c28c81e3d5de437f0:facebook:
+  spec:
+    title: คำนวณแบ่งเงินลงทุนเป็นก้อน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/split-investment
+  state:
+    id: '100746876247412_592667040389209'
+    url: https://www.facebook.com/100683012920950/posts/592667040389209
+9292cd77ce1a063c28c81e3d5de437f0:mastodon:
+  spec:
+    title: คำนวณแบ่งเงินลงทุนเป็นก้อน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/split-investment
+  state:
+    id: '113898139265022482'
+    url: https://mastodon.in.th/@webring/113898139265022482
+9292cd77ce1a063c28c81e3d5de437f0:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/split-investment
+  state:
+    shortLink: https://link.webring.in.th/2365
 92cdc727254daccc84b0381ac073b6db:facebook:
   spec:
     title: อีก 10 ชั่วโมง ไปร่วมฟัง Java 21 Launch Event [somkiat.cc]
