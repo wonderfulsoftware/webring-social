@@ -22161,6 +22161,32 @@ cd3f1042e1ae4055bed5a79a0b023e46:shorturl:
     url: https://karnwong.me/posts/2024/06/thoughts-on-summarization-service/
   state:
     shortLink: https://link.webring.in.th/1974
+cd58f7521350b697b0e61720ccf7fde9:bluesky:
+  spec:
+    title: SQLite data type [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/01/sqlite-data-type/
+  state:
+    cid: bafyreihz7jqxycxtg4525zlwbuhsvxozxmeo3vftak2nn35l4ietegl2ia
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgpc63vlit24
+cd58f7521350b697b0e61720ccf7fde9:facebook:
+  spec:
+    title: SQLite data type [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/01/sqlite-data-type/
+  state:
+    id: '100746876247412_592752127047367'
+    url: https://www.facebook.com/100683012920950/posts/592752127047367
+cd58f7521350b697b0e61720ccf7fde9:mastodon:
+  spec:
+    title: SQLite data type [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/01/sqlite-data-type/
+  state:
+    id: '113898857511168688'
+    url: https://mastodon.in.th/@webring/113898857511168688
+cd58f7521350b697b0e61720ccf7fde9:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/01/sqlite-data-type/
+  state:
+    shortLink: https://link.webring.in.th/2366
 cd681895875b13da5ecd82d625bb4620:facebook:
   spec:
     title: สภาพแวดล้อมที่เหมาะสม [tech.duckfollow.co]
