@@ -2148,6 +2148,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/covid-19-first-time/
   state:
     shortLink: https://webring.page.link/M12p
+169e92cf5c7070522f96142bf6eff076:bluesky:
+  spec:
+    title: 'Robot framework :: ทำความรู้จักกับ Group syntax [somkiat.cc]'
+    url: https://www.somkiat.cc/robot-framework-with-group-syntax/
+  state:
+    cid: bafyreiek6lqyi6au6mcbxq5zlpwjt5nn6i22r5xcctval22jiuvi7qph2e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgried4fan24
+169e92cf5c7070522f96142bf6eff076:facebook:
+  spec:
+    title: 'Robot framework :: ทำความรู้จักกับ Group syntax [somkiat.cc]'
+    url: https://www.somkiat.cc/robot-framework-with-group-syntax/
+  state:
+    id: '100746876247412_593397166982863'
+    url: https://www.facebook.com/100683012920950/posts/593397166982863
+169e92cf5c7070522f96142bf6eff076:mastodon:
+  spec:
+    title: 'Robot framework :: ทำความรู้จักกับ Group syntax [somkiat.cc]'
+    url: https://www.somkiat.cc/robot-framework-with-group-syntax/
+  state:
+    id: '113903797001248373'
+    url: https://mastodon.in.th/@webring/113903797001248373
+169e92cf5c7070522f96142bf6eff076:shorturl:
+  spec:
+    url: https://www.somkiat.cc/robot-framework-with-group-syntax/
+  state:
+    shortLink: https://link.webring.in.th/2367
 16b1a6d89a1386215ba30c116ec61ca8:bluesky:
   spec:
     title: สามารถใช้งาน Gemini model ผ่าน OpenAI library ได้แล้ว [somkiat.cc]
