@@ -16410,6 +16410,32 @@
     url: https://thanapon.info/aws-eks-cluster-autoscaler/
   state:
     shortLink: https://webring.page.link/p9CB
+945daa8a435306b9b77a6e095da9d190:bluesky:
+  spec:
+    title: libGDX เกมเฟรมเวิร์คภาษา Java ที่อยู่มานานแสนนาน [pontakorn.dev]
+    url: https://pontakorn.dev/posts/introduction-to-libgdx/
+  state:
+    cid: bafyreieljxnqtx3figw7qtlnfnkhnbsvpwgzalf3n4cnnae3s2owxe2cv4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgrsloygs62f
+945daa8a435306b9b77a6e095da9d190:facebook:
+  spec:
+    title: libGDX เกมเฟรมเวิร์คภาษา Java ที่อยู่มานานแสนนาน [pontakorn.dev]
+    url: https://pontakorn.dev/posts/introduction-to-libgdx/
+  state:
+    id: '100746876247412_593502783638968'
+    url: https://www.facebook.com/100683012920950/posts/593502783638968
+945daa8a435306b9b77a6e095da9d190:mastodon:
+  spec:
+    title: libGDX เกมเฟรมเวิร์คภาษา Java ที่อยู่มานานแสนนาน [pontakorn.dev]
+    url: https://pontakorn.dev/posts/introduction-to-libgdx/
+  state:
+    id: '113904516968944928'
+    url: https://mastodon.in.th/@webring/113904516968944928
+945daa8a435306b9b77a6e095da9d190:shorturl:
+  spec:
+    url: https://pontakorn.dev/posts/introduction-to-libgdx/
+  state:
+    shortLink: https://link.webring.in.th/2368
 948cd5c9fc16d97290f45a0659565a2f:facebook:
   spec:
     title: 2023 [yuttakhanb.dev]
