@@ -27050,6 +27050,32 @@ fded27a275c0ab5923370e23e7a5b37e:shorturl:
     url: https://blog.ninprd.com/blog/even-though-im-not-here-company-still-running-properly/
   state:
     shortLink: https://link.webring.in.th/1921
+fe4a69964e0307240ba0fb62f74fd749:bluesky:
+  spec:
+    title: ลอง Azure Document Intelligent – REST API อ่านใบเสร็จ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/01/azure-document-intelligent-rest-api-for-extract-receipt/
+  state:
+    cid: bafyreicvywgi6o5loqpefjhc77fpq2hhioas2kepqc7zo26dz3erbxatta
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgtytivib522
+fe4a69964e0307240ba0fb62f74fd749:facebook:
+  spec:
+    title: ลอง Azure Document Intelligent – REST API อ่านใบเสร็จ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/01/azure-document-intelligent-rest-api-for-extract-receipt/
+  state:
+    id: '100746876247412_594143296908250'
+    url: https://www.facebook.com/100683012920950/posts/594143296908250
+fe4a69964e0307240ba0fb62f74fd749:mastodon:
+  spec:
+    title: ลอง Azure Document Intelligent – REST API อ่านใบเสร็จ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/01/azure-document-intelligent-rest-api-for-extract-receipt/
+  state:
+    id: '113909459870905476'
+    url: https://mastodon.in.th/@webring/113909459870905476
+fe4a69964e0307240ba0fb62f74fd749:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/01/azure-document-intelligent-rest-api-for-extract-receipt/
+  state:
+    shortLink: https://link.webring.in.th/2369
 fe7c16dc875d352211a3eed6cb150a6a:facebook:
   spec:
     title: 'Tutorial: สร้าง Blog ด้วย WordPress.com [blog.ninprd.com]'
