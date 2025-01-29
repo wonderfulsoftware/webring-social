@@ -25049,6 +25049,32 @@ ea1c3d27b980b85915487951ef642a84:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/05/az-104-manage-identities-and-governance-in-azure/
   state:
     shortLink: https://link.webring.in.th/1945
+ea709e5fc9ca38bd94a2d9ac1eee8435:bluesky:
+  spec:
+    title: มาลองควบคุม web browser ด้วย Browser Use [somkiat.cc]
+    url: https://www.somkiat.cc/hello-web-with-browser-use/
+  state:
+    cid: bafyreicn6kzmphnngioh5cutfsslk3x3bupgal6gugkqmdyvk73issu4wa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgud2mmj3s2f
+ea709e5fc9ca38bd94a2d9ac1eee8435:facebook:
+  spec:
+    title: มาลองควบคุม web browser ด้วย Browser Use [somkiat.cc]
+    url: https://www.somkiat.cc/hello-web-with-browser-use/
+  state:
+    id: '100746876247412_594238150232098'
+    url: https://www.facebook.com/100683012920950/posts/594238150232098
+ea709e5fc9ca38bd94a2d9ac1eee8435:mastodon:
+  spec:
+    title: มาลองควบคุม web browser ด้วย Browser Use [somkiat.cc]
+    url: https://www.somkiat.cc/hello-web-with-browser-use/
+  state:
+    id: '113910179156555821'
+    url: https://mastodon.in.th/@webring/113910179156555821
+ea709e5fc9ca38bd94a2d9ac1eee8435:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-web-with-browser-use/
+  state:
+    shortLink: https://link.webring.in.th/2370
 ea76f03f757ad52190797ef9bc193f55:facebook:
   spec:
     title: 'ThursTech #17: คณิตศาสตร์ในการรีดประสิทธิภาพโค้ด [neizod.dev]'
