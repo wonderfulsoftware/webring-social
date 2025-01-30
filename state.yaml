@@ -15551,6 +15551,32 @@
     url: https://www.somkiat.cc/observability-with-grafana-platform/
   state:
     shortLink: https://webring.page.link/8Hxo
+8c90a80fa45f3db5583498dcfcfd5209:bluesky:
+  spec:
+    title: 'Go :: มาทำการทดสอบระบบงานกับ Database ด้วย TestContainer กัน [somkiat.cc]'
+    url: https://www.somkiat.cc/go-testing-with-database-using-testcontainer/
+  state:
+    cid: bafyreiaxuh3mprzmny4ixegrdyqekbejtjlgiidz23a5ct74dl4spybsgm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgwjcghbhf2s
+8c90a80fa45f3db5583498dcfcfd5209:facebook:
+  spec:
+    title: 'Go :: มาทำการทดสอบระบบงานกับ Database ด้วย TestContainer กัน [somkiat.cc]'
+    url: https://www.somkiat.cc/go-testing-with-database-using-testcontainer/
+  state:
+    id: '100746876247412_594874663501780'
+    url: https://www.facebook.com/100683012920950/posts/594874663501780
+8c90a80fa45f3db5583498dcfcfd5209:mastodon:
+  spec:
+    title: 'Go :: มาทำการทดสอบระบบงานกับ Database ด้วย TestContainer กัน [somkiat.cc]'
+    url: https://www.somkiat.cc/go-testing-with-database-using-testcontainer/
+  state:
+    id: '113915122334641026'
+    url: https://mastodon.in.th/@webring/113915122334641026
+8c90a80fa45f3db5583498dcfcfd5209:shorturl:
+  spec:
+    url: https://www.somkiat.cc/go-testing-with-database-using-testcontainer/
+  state:
+    shortLink: https://link.webring.in.th/2371
 8c975a367fd4e47d2acbf01f0c21855a:facebook:
   spec:
     title: '[AZURE] ลองมาใช้ Translation Service [debuggingsoft.com]'
