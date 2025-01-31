@@ -18223,6 +18223,32 @@ a5f43ba40dfecb2178a9a61737e2731c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/01/az-305-build-great-solutions-with-the-microsoft-azure-well-architected-framework/
   state:
     shortLink: https://link.webring.in.th/2336
+a5f86eef4a27351f036e7996f3adb885:bluesky:
+  spec:
+    title: Easy E-Receipt 2.0 + OTOP [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/01/easy-e-receipt-2-0-otop/
+  state:
+    cid: bafyreia5uajrl4zx5vll5l7q4cdfpdeybhtsj755uaeqcxgjctrf5ggpia
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgzdyhpgqw24
+a5f86eef4a27351f036e7996f3adb885:facebook:
+  spec:
+    title: Easy E-Receipt 2.0 + OTOP [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/01/easy-e-receipt-2-0-otop/
+  state:
+    id: '100746876247412_595710130084900'
+    url: https://www.facebook.com/100683012920950/posts/595710130084900
+a5f86eef4a27351f036e7996f3adb885:mastodon:
+  spec:
+    title: Easy E-Receipt 2.0 + OTOP [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/01/easy-e-receipt-2-0-otop/
+  state:
+    id: '113921503696279602'
+    url: https://mastodon.in.th/@webring/113921503696279602
+a5f86eef4a27351f036e7996f3adb885:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/01/easy-e-receipt-2-0-otop/
+  state:
+    shortLink: https://link.webring.in.th/2373
 a6195be469f29d90f921763746b4213d:facebook:
   spec:
     title: 'Skip tool :: พัฒนา iOS และ Android app ด้วย SwiftUI [somkiat.cc]'
