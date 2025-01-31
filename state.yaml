@@ -13750,6 +13750,32 @@
     url: https://blog.ninprd.com/blog/dont-regret-to-delete-some-blog/
   state:
     shortLink: https://link.webring.in.th/1900
+7d427864dbe4835ecfb7ed8c22d0460f:bluesky:
+  spec:
+    title: ทำความรู้จักกับ Selenium WebDriver BiDi (Bidirectional) Protocol กันนิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/selenium-webdriver-bidi-with-intercept-request/
+  state:
+    cid: bafyreiembrpoadhha44f7qgol36osxowcms6mzxvfxqkl3t2gjvyiczc7u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lgyzq6gyzd2f
+7d427864dbe4835ecfb7ed8c22d0460f:facebook:
+  spec:
+    title: ทำความรู้จักกับ Selenium WebDriver BiDi (Bidirectional) Protocol กันนิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/selenium-webdriver-bidi-with-intercept-request/
+  state:
+    id: '100746876247412_595626533426593'
+    url: https://www.facebook.com/100683012920950/posts/595626533426593
+7d427864dbe4835ecfb7ed8c22d0460f:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Selenium WebDriver BiDi (Bidirectional) Protocol กันนิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/selenium-webdriver-bidi-with-intercept-request/
+  state:
+    id: '113920782017436577'
+    url: https://mastodon.in.th/@webring/113920782017436577
+7d427864dbe4835ecfb7ed8c22d0460f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/selenium-webdriver-bidi-with-intercept-request/
+  state:
+    shortLink: https://link.webring.in.th/2372
 7d852c7df9ff6eee38dfcc300cfe52dd:bluesky:
   spec:
     title: อัพเดตเทคบ้านเขียวประจำปี กับงาน LINE Thailand Developer Conference 2024 [mikkipastel.com]
