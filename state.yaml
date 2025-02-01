@@ -14393,6 +14393,32 @@
     url: https://notes.dt.in.th/PlaywrightPageObject
   state:
     shortLink: https://link.webring.in.th/2103
+8301dbd7f22236ed891a29bed15fcd76:bluesky:
+  spec:
+    title: มาลองทำ Vector Search บน MongoDB Atlas กัน [somkiat.cc]
+    url: https://www.somkiat.cc/vector-search-with-mongodb-atlas/
+  state:
+    cid: bafyreigrranivbnijj7quqkhoxxtkdgkpe4f43oho35apxauvcgukyylpm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lh3kf4ha7p2s
+8301dbd7f22236ed891a29bed15fcd76:facebook:
+  spec:
+    title: มาลองทำ Vector Search บน MongoDB Atlas กัน [somkiat.cc]
+    url: https://www.somkiat.cc/vector-search-with-mongodb-atlas/
+  state:
+    id: '100746876247412_596330250022888'
+    url: https://www.facebook.com/100683012920950/posts/596330250022888
+8301dbd7f22236ed891a29bed15fcd76:mastodon:
+  spec:
+    title: มาลองทำ Vector Search บน MongoDB Atlas กัน [somkiat.cc]
+    url: https://www.somkiat.cc/vector-search-with-mongodb-atlas/
+  state:
+    id: '113926457681646699'
+    url: https://mastodon.in.th/@webring/113926457681646699
+8301dbd7f22236ed891a29bed15fcd76:shorturl:
+  spec:
+    url: https://www.somkiat.cc/vector-search-with-mongodb-atlas/
+  state:
+    shortLink: https://link.webring.in.th/2374
 830e35d0b1951f376967626acc2d6e89:facebook:
   spec:
     title: มาดูความสามารถของ Jaeger 2 กัน [somkiat.cc]
