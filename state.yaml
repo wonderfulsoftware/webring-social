@@ -2409,6 +2409,32 @@
     url: https://www.somkiat.cc/tester-day-2023-everything-you-can-test/
   state:
     shortLink: https://webring.page.link/dd67
+18ca4ed82ae8c8ec914d83fd317bb400:bluesky:
+  spec:
+    title: mock-service-worker for mocking API [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/msw/
+  state:
+    cid: bafyreicml6ukfl6fhiq45ntkgdyaunaw7sqpkiwmkc5noajfhpfpwgpcw4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lh46aghmwd2m
+18ca4ed82ae8c8ec914d83fd317bb400:facebook:
+  spec:
+    title: mock-service-worker for mocking API [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/msw/
+  state:
+    id: '100746876247412_596495056673074'
+    url: https://www.facebook.com/100683012920950/posts/596495056673074
+18ca4ed82ae8c8ec914d83fd317bb400:mastodon:
+  spec:
+    title: mock-service-worker for mocking API [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/msw/
+  state:
+    id: '113927854713012663'
+    url: https://mastodon.in.th/@webring/113927854713012663
+18ca4ed82ae8c8ec914d83fd317bb400:shorturl:
+  spec:
+    url: https://yuttakhanb.dev/posts/msw/
+  state:
+    shortLink: https://link.webring.in.th/2376
 18f3fbb8da3f0ba6ee12a611c5558d8a:bluesky:
   spec:
     title: 'สรุป OC24: อะไรคือการทำ Software ต้องสนุก [blog.ninprd.com]'
