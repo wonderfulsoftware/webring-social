@@ -15266,6 +15266,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/09/the-cloud-camp-week02/
   state:
     shortLink: https://webring.page.link/UeGv
+89269488d8309355165e756c7a7ee7bb:bluesky:
+  spec:
+    title: มาฟังเบื้องหลังการซื้อ carbon credit ผ่าน TrueMoney กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/integrating-carbon-offsets-into-consumer-focused-truemoney-carbonmark/
+  state:
+    cid: bafyreibp44j4bhje4cu2w6qk64dwrkhxmhlvx3s2i6nh6yvnailecodjhm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lh3uf63vgj2i
+89269488d8309355165e756c7a7ee7bb:facebook:
+  spec:
+    title: มาฟังเบื้องหลังการซื้อ carbon credit ผ่าน TrueMoney กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/integrating-carbon-offsets-into-consumer-focused-truemoney-carbonmark/
+  state:
+    id: '100746876247412_596413376681242'
+    url: https://www.facebook.com/100683012920950/posts/596413376681242
+89269488d8309355165e756c7a7ee7bb:mastodon:
+  spec:
+    title: มาฟังเบื้องหลังการซื้อ carbon credit ผ่าน TrueMoney กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/integrating-carbon-offsets-into-consumer-focused-truemoney-carbonmark/
+  state:
+    id: '113927161467626682'
+    url: https://mastodon.in.th/@webring/113927161467626682
+89269488d8309355165e756c7a7ee7bb:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/integrating-carbon-offsets-into-consumer-focused-truemoney-carbonmark/
+  state:
+    shortLink: https://link.webring.in.th/2375
 896a19839949043418ea46aed4b25343:bluesky:
   spec:
     title: Illustration - メリークリスマス2024 🎄 [lucian.solutions]
