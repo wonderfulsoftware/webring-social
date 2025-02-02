@@ -5525,6 +5525,32 @@
     url: https://mymoneytoolkit.app/posts/watchlist-me-set
   state:
     shortLink: https://link.webring.in.th/2316
+349b2a1ca6402bc3eb87a149e622ba01:bluesky:
+  spec:
+    title: มาเปลี่ยนเบอร์ GSB MYMO [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/gsb-mymo-change-mobile-no/
+  state:
+    cid: bafyreigdeyftzxfxxqtvqh4ionjb7qnkchprif6jb5rsh27osunvwwnv2e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lh62rjavpg2i
+349b2a1ca6402bc3eb87a149e622ba01:facebook:
+  spec:
+    title: มาเปลี่ยนเบอร์ GSB MYMO [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/gsb-mymo-change-mobile-no/
+  state:
+    id: '100746876247412_597041116618468'
+    url: https://www.facebook.com/100683012920950/posts/597041116618468
+349b2a1ca6402bc3eb87a149e622ba01:mastodon:
+  spec:
+    title: มาเปลี่ยนเบอร์ GSB MYMO [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/gsb-mymo-change-mobile-no/
+  state:
+    id: '113932114249169110'
+    url: https://mastodon.in.th/@webring/113932114249169110
+349b2a1ca6402bc3eb87a149e622ba01:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/gsb-mymo-change-mobile-no/
+  state:
+    shortLink: https://link.webring.in.th/2377
 34a070ed97c84d7230b780ca709c2744:facebook:
   spec:
     title: ลองทำ Performance Testing ด้วย JMeter [janescience.com]
