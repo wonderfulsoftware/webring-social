@@ -8002,6 +8002,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/microsoft-thailand-developer-day-2023-summay/
   state:
     shortLink: https://webring.page.link/DNhF
+4c5a30d5081ed214cba273c1f5385abf:bluesky:
+  spec:
+    title: 'ใช้งาน Posting :: สำหรับ API testing ใน terminal [somkiat.cc]'
+    url: https://www.somkiat.cc/posting-for-api-testing-in-terminal/
+  state:
+    cid: bafyreihylbds7f7qg7qsseiqssrv3kkiose4r4no5p6qxltoq7q4rxdkyq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lh6etincml2p
+4c5a30d5081ed214cba273c1f5385abf:facebook:
+  spec:
+    title: 'ใช้งาน Posting :: สำหรับ API testing ใน terminal [somkiat.cc]'
+    url: https://www.somkiat.cc/posting-for-api-testing-in-terminal/
+  state:
+    id: '100746876247412_597158803273366'
+    url: https://www.facebook.com/100683012920950/posts/597158803273366
+4c5a30d5081ed214cba273c1f5385abf:mastodon:
+  spec:
+    title: 'ใช้งาน Posting :: สำหรับ API testing ใน terminal [somkiat.cc]'
+    url: https://www.somkiat.cc/posting-for-api-testing-in-terminal/
+  state:
+    id: '113932822298290834'
+    url: https://mastodon.in.th/@webring/113932822298290834
+4c5a30d5081ed214cba273c1f5385abf:shorturl:
+  spec:
+    url: https://www.somkiat.cc/posting-for-api-testing-in-terminal/
+  state:
+    shortLink: https://link.webring.in.th/2378
 4c61ea474ec751290314551096d80dc0:facebook:
   spec:
     title: Docker-Compose for Laravel8, MySQL, phpMyAdmin [poolsawat.com]
