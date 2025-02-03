@@ -19167,6 +19167,32 @@ ad99701907b20392b15bb3d9e84b9777:shorturl:
     url: https://www.somkiat.cc/hello-auto-gpt/
   state:
     shortLink: https://webring.page.link/LShA
+adccbcd7c3c0dfb613d704db35b4de67:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : W3CSchool / WordPress [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-w3cschool-wordpress/
+  state:
+    cid: bafyreihtk243rzt7lsrcyyfekjezuovrahp7yn5r77zq5p5vsejec7csya
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhalbejd6d22
+adccbcd7c3c0dfb613d704db35b4de67:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : W3CSchool / WordPress [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-w3cschool-wordpress/
+  state:
+    id: '100746876247412_597804033208843'
+    url: https://www.facebook.com/100683012920950/posts/597804033208843
+adccbcd7c3c0dfb613d704db35b4de67:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : W3CSchool / WordPress [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-w3cschool-wordpress/
+  state:
+    id: '113937778544958710'
+    url: https://mastodon.in.th/@webring/113937778544958710
+adccbcd7c3c0dfb613d704db35b4de67:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-w3cschool-wordpress/
+  state:
+    shortLink: https://link.webring.in.th/2379
 addcd9220d47c67e6504b7942c44aad1:facebook:
   spec:
     title: ลองใช้งาน BellSoft Liberica OpenJDK ใน Docker [somkiat.cc]
