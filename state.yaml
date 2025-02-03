@@ -25658,6 +25658,32 @@ ece90ea8e02c36b89c8401ec96c6c72e:shorturl:
     url: https://www.somkiat.cc/storybook-7/
   state:
     shortLink: https://webring.page.link/f3zG
+ed28edc326c69e97cc7771a55b578a03:bluesky:
+  spec:
+    title: มาใช้งาน Standard Schema สำหรับการตรวจสอบโครงสร้างข้อมูลกัน [somkiat.cc]
+    url: https://www.somkiat.cc/standard-schema-with-typescript/
+  state:
+    cid: bafyreic4jlmbdjibd2a6u4mgp72pc6qfi7wlo3mtum2qnvhwillrnyj5vu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhavgccyqt22
+ed28edc326c69e97cc7771a55b578a03:facebook:
+  spec:
+    title: มาใช้งาน Standard Schema สำหรับการตรวจสอบโครงสร้างข้อมูลกัน [somkiat.cc]
+    url: https://www.somkiat.cc/standard-schema-with-typescript/
+  state:
+    id: '100746876247412_597886156533964'
+    url: https://www.facebook.com/100683012920950/posts/597886156533964
+ed28edc326c69e97cc7771a55b578a03:mastodon:
+  spec:
+    title: มาใช้งาน Standard Schema สำหรับการตรวจสอบโครงสร้างข้อมูลกัน [somkiat.cc]
+    url: https://www.somkiat.cc/standard-schema-with-typescript/
+  state:
+    id: '113938493307130738'
+    url: https://mastodon.in.th/@webring/113938493307130738
+ed28edc326c69e97cc7771a55b578a03:shorturl:
+  spec:
+    url: https://www.somkiat.cc/standard-schema-with-typescript/
+  state:
+    shortLink: https://link.webring.in.th/2380
 ed3318e18af6b576baa479fe876ebec1:facebook:
   spec:
     title: 1 เว็บไซต์ต้องทำอะไรบ้าง? [tech.duckfollow.co]
