@@ -24222,6 +24222,32 @@ dea60214d6add530a3d246f5134647ae:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/10/topic-from-helm-essential-course-by-jumpbox/
   state:
     shortLink: https://link.webring.in.th/2161
+dea93bc779bd969365e015bd033cc26b:bluesky:
+  spec:
+    title: '[CR] Starbucks Pink Guava Apple KomFRUCha Beverage [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/cr-starbucks-pink-guava-apple-komfrucha-beverage/
+  state:
+    cid: bafyreihp7ldxztnnvfrjf67bl7kiszoqsfx6rawvc7345zaob3iapzpns4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhd3oj2wji2m
+dea93bc779bd969365e015bd033cc26b:facebook:
+  spec:
+    title: '[CR] Starbucks Pink Guava Apple KomFRUCha Beverage [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/cr-starbucks-pink-guava-apple-komfrucha-beverage/
+  state:
+    id: '100746876247412_598503663138880'
+    url: https://www.facebook.com/100683012920950/posts/598503663138880
+dea93bc779bd969365e015bd033cc26b:mastodon:
+  spec:
+    title: '[CR] Starbucks Pink Guava Apple KomFRUCha Beverage [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/cr-starbucks-pink-guava-apple-komfrucha-beverage/
+  state:
+    id: '113943437004518461'
+    url: https://mastodon.in.th/@webring/113943437004518461
+dea93bc779bd969365e015bd033cc26b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/cr-starbucks-pink-guava-apple-komfrucha-beverage/
+  state:
+    shortLink: https://link.webring.in.th/2381
 dec08428bbe1e20f680775968ed99947:bluesky:
   spec:
     title: 2024 หงุดหงิด และโวยวาย [debuggingsoft.com]
