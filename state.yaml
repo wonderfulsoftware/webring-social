@@ -19523,6 +19523,32 @@ b0bab9c6fb19f66e158e3667ac1fefa2:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/06/cr-starbucks-green-tea-red-bean-cake/
   state:
     shortLink: https://webring.page.link/7pUY
+b0f43a4ae115c339c24c67b2f1467d3e:bluesky:
+  spec:
+    title: How to fixed icon (lxqt) are missing after upgrade lubuntu [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/how-to-fixed-icon-lxqt-are-missing-after-upgrade-lubuntu/
+  state:
+    cid: bafyreifa5ngutxx2h724oagi5goakdfm2iu7fka7hn3zr4koxc7kqzjhqa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhfm7mleyv2s
+b0f43a4ae115c339c24c67b2f1467d3e:facebook:
+  spec:
+    title: How to fixed icon (lxqt) are missing after upgrade lubuntu [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/how-to-fixed-icon-lxqt-are-missing-after-upgrade-lubuntu/
+  state:
+    id: '100746876247412_599183189737594'
+    url: https://www.facebook.com/100683012920950/posts/599183189737594
+b0f43a4ae115c339c24c67b2f1467d3e:mastodon:
+  spec:
+    title: How to fixed icon (lxqt) are missing after upgrade lubuntu [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/how-to-fixed-icon-lxqt-are-missing-after-upgrade-lubuntu/
+  state:
+    id: '113949103966444163'
+    url: https://mastodon.in.th/@webring/113949103966444163
+b0f43a4ae115c339c24c67b2f1467d3e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/how-to-fixed-icon-lxqt-are-missing-after-upgrade-lubuntu/
+  state:
+    shortLink: https://link.webring.in.th/2382
 b10d7bfd6306f0511a614aa30c257531:facebook:
   spec:
     title: 'Postman :: ถ้าต้องการ skip request ทำอย่างไร ? [somkiat.cc]'
