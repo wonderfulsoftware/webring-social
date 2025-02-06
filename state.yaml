@@ -4208,6 +4208,32 @@
     url: https://www.llun.me/posts/dev/2024-07-13-opentelemetry-google-cloud-trace-nextjs
   state:
     shortLink: https://link.webring.in.th/2022
+27d4cc70465ada5fa6ddabb730dae576:bluesky:
+  spec:
+    title: '[Google Sheet] หารตัง: หารเงินไม่ปวดหัว [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/haantung
+  state:
+    cid: bafyreidlgxsu4nkkvz7ueiq345cj5higzy2a5txlkem6v45vn3hjdsjtxy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhi4oedcvt2n
+27d4cc70465ada5fa6ddabb730dae576:facebook:
+  spec:
+    title: '[Google Sheet] หารตัง: หารเงินไม่ปวดหัว [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/haantung
+  state:
+    id: '100746876247412_599862606336319'
+    url: https://www.facebook.com/100683012920950/posts/599862606336319
+27d4cc70465ada5fa6ddabb730dae576:mastodon:
+  spec:
+    title: '[Google Sheet] หารตัง: หารเงินไม่ปวดหัว [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/haantung
+  state:
+    id: '113954765801076206'
+    url: https://mastodon.in.th/@webring/113954765801076206
+27d4cc70465ada5fa6ddabb730dae576:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/haantung
+  state:
+    shortLink: https://link.webring.in.th/2383
 27d57d3b6ac37fc13173d25e3ee58caf:facebook:
   spec:
     title: Illustration - ランデブー・コースト🏝 [lucian.solutions]
