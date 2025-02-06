@@ -6094,6 +6094,32 @@
     url: https://mikelopster.dev/posts/nestjs-passport/
   state:
     shortLink: https://link.webring.in.th/1831
+38cf24ee1ba924aa1d3243f9417a79ab:bluesky:
+  spec:
+    title: ความสามารถที่น่าสนใจใน Go 1.24 rc2 [somkiat.cc]
+    url: https://www.somkiat.cc/go-1-24-rc2/
+  state:
+    cid: bafyreibn64upysd3phribwnnxeezbyqkz5caoukoto2ebbog4o4xudhduq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhigt7wzvh2i
+38cf24ee1ba924aa1d3243f9417a79ab:facebook:
+  spec:
+    title: ความสามารถที่น่าสนใจใน Go 1.24 rc2 [somkiat.cc]
+    url: https://www.somkiat.cc/go-1-24-rc2/
+  state:
+    id: '100746876247412_599940289661884'
+    url: https://www.facebook.com/100683012920950/posts/599940289661884
+38cf24ee1ba924aa1d3243f9417a79ab:mastodon:
+  spec:
+    title: ความสามารถที่น่าสนใจใน Go 1.24 rc2 [somkiat.cc]
+    url: https://www.somkiat.cc/go-1-24-rc2/
+  state:
+    id: '113955480467028711'
+    url: https://mastodon.in.th/@webring/113955480467028711
+38cf24ee1ba924aa1d3243f9417a79ab:shorturl:
+  spec:
+    url: https://www.somkiat.cc/go-1-24-rc2/
+  state:
+    shortLink: https://link.webring.in.th/2384
 38dc10cca8ec00e60151ccf9effb8c9f:facebook:
   spec:
     title: สร้าง Excel Timesheet ด้วย Python กับ ChatGPT [janescience.com]
