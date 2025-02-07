@@ -26037,6 +26037,32 @@ ee6f370001a32ad82ae1b9dc983f651b:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/01/azure-error-aadsts50079-the-user-is-required-to-use-mfa/
   state:
     shortLink: https://link.webring.in.th/2347
+eeabc048fb76d8bc6fee82ecafc71807:bluesky:
+  spec:
+    title: 'Playwright :: ทำ Dashboard แสดงผลการทดสอบใน Grafana [somkiat.cc]'
+    url: https://www.somkiat.cc/playwright-test-report-in-grafana-dashboard/
+  state:
+    cid: bafyreicoa4qhokq5qw3inkns2ruzhpwmimwwjc2dupd2zgnfovzsqodmoq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhkxccqp4w2p
+eeabc048fb76d8bc6fee82ecafc71807:facebook:
+  spec:
+    title: 'Playwright :: ทำ Dashboard แสดงผลการทดสอบใน Grafana [somkiat.cc]'
+    url: https://www.somkiat.cc/playwright-test-report-in-grafana-dashboard/
+  state:
+    id: '100746876247412_600612556261324'
+    url: https://www.facebook.com/100683012920950/posts/600612556261324
+eeabc048fb76d8bc6fee82ecafc71807:mastodon:
+  spec:
+    title: 'Playwright :: ทำ Dashboard แสดงผลการทดสอบใน Grafana [somkiat.cc]'
+    url: https://www.somkiat.cc/playwright-test-report-in-grafana-dashboard/
+  state:
+    id: '113961143186084627'
+    url: https://mastodon.in.th/@webring/113961143186084627
+eeabc048fb76d8bc6fee82ecafc71807:shorturl:
+  spec:
+    url: https://www.somkiat.cc/playwright-test-report-in-grafana-dashboard/
+  state:
+    shortLink: https://link.webring.in.th/2386
 eebf657a35cac352e6cd61927b08d016:facebook:
   spec:
     title: Software Developer ได้เรียนรู้อะไรจากเหตุการณ์จาก CrowdStrike บ้าง ? [somkiat.cc]
