@@ -2480,6 +2480,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/08/tcp-json-incomplete-when-test-on-windows7/
   state:
     shortLink: https://webring.page.link/pRZN
+19112a1d84e128a727b8581fd212e584:bluesky:
+  spec:
+    title: Starbucks TH E-tax / E-receipt [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/starbucks-thai-get-e-tax-e-receipt/
+  state:
+    cid: bafyreiflvrit772pegklf7ldxqtyl5a2xnxoykfiwvk36ay34kutgxeubi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhkn6lm43v2j
+19112a1d84e128a727b8581fd212e584:facebook:
+  spec:
+    title: Starbucks TH E-tax / E-receipt [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/starbucks-thai-get-e-tax-e-receipt/
+  state:
+    id: '100746876247412_600531676269412'
+    url: https://www.facebook.com/100683012920950/posts/600531676269412
+19112a1d84e128a727b8581fd212e584:mastodon:
+  spec:
+    title: Starbucks TH E-tax / E-receipt [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/starbucks-thai-get-e-tax-e-receipt/
+  state:
+    id: '113960431224056875'
+    url: https://mastodon.in.th/@webring/113960431224056875
+19112a1d84e128a727b8581fd212e584:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/starbucks-thai-get-e-tax-e-receipt/
+  state:
+    shortLink: https://link.webring.in.th/2385
 1988959ada09943e6b319e5a097ecb03:facebook:
   spec:
     title: ลอง Tim Hortons ครั้งแรก [debuggingsoft.com]
