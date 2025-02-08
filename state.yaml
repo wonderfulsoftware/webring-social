@@ -14435,6 +14435,32 @@
     url: https://tech.duckfollow.co/view/why-loading
   state:
     shortLink: https://link.webring.in.th/2119
+82106d974cd4c07be0c6a57e8dec6f26:bluesky:
+  spec:
+    title: เล่าเรื่อง startup เท่าที่รู้ จากซีรีส์เกาหลี Start-Up [mikkipastel.com]
+    url: https://www.mikkipastel.com/my-startup-experience-with-start-up-kseries/
+  state:
+    cid: bafyreigduhzgsu2ynkybs3o4bq6gcqrbsddpd6iqhhy25vr6lgsnjzwx5a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhn5jgmynr2y
+82106d974cd4c07be0c6a57e8dec6f26:facebook:
+  spec:
+    title: เล่าเรื่อง startup เท่าที่รู้ จากซีรีส์เกาหลี Start-Up [mikkipastel.com]
+    url: https://www.mikkipastel.com/my-startup-experience-with-start-up-kseries/
+  state:
+    id: '100746876247412_601241246198455'
+    url: https://www.facebook.com/100683012920950/posts/601241246198455
+82106d974cd4c07be0c6a57e8dec6f26:mastodon:
+  spec:
+    title: เล่าเรื่อง startup เท่าที่รู้ จากซีรีส์เกาหลี Start-Up [mikkipastel.com]
+    url: https://www.mikkipastel.com/my-startup-experience-with-start-up-kseries/
+  state:
+    id: '113966084659359748'
+    url: https://mastodon.in.th/@webring/113966084659359748
+82106d974cd4c07be0c6a57e8dec6f26:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/my-startup-experience-with-start-up-kseries/
+  state:
+    shortLink: https://link.webring.in.th/2387
 826b4654fdfbc8cc36227765c5316c49:facebook:
   spec:
     title: เที่ยว ฟุกุชิมะ ยามากาตะ อาคิตะ Tohoku x Japan Trip 2023 Chapter 2 [natdanai.me]
