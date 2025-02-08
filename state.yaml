@@ -24231,6 +24231,32 @@ dc9406027d9ba4a11c760c9a94512164:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/03/%e0%b8%a5%e0%b8%ad%e0%b8%87-vue-version-on-windows-error-unauthorizedaccess/
   state:
     shortLink: https://webring.page.link/GVNd
+dcdd89d83a2d1464ee942f6ffd6b9f46:bluesky:
+  spec:
+    title: มาลองใช้งาน GitHub Copilot ใน Agent mode กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-github-copilot-agent-mode/
+  state:
+    cid: bafyreiecj6aezbdcevaudkgstm4sbp7mhf2ke6ruhajsb3rckbsw4ulgsi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhnhmvgpzi2m
+dcdd89d83a2d1464ee942f6ffd6b9f46:facebook:
+  spec:
+    title: มาลองใช้งาน GitHub Copilot ใน Agent mode กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-github-copilot-agent-mode/
+  state:
+    id: '100746876247412_601327416189838'
+    url: https://www.facebook.com/100683012920950/posts/601327416189838
+dcdd89d83a2d1464ee942f6ffd6b9f46:mastodon:
+  spec:
+    title: มาลองใช้งาน GitHub Copilot ใน Agent mode กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-github-copilot-agent-mode/
+  state:
+    id: '113966795990277127'
+    url: https://mastodon.in.th/@webring/113966795990277127
+dcdd89d83a2d1464ee942f6ffd6b9f46:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-github-copilot-agent-mode/
+  state:
+    shortLink: https://link.webring.in.th/2388
 dce3b50304c90fc9b55bd6eca9ba2b21:bluesky:
   spec:
     title: สรุปจากการแบ่งปันเรื่อง Generative AI for Software Development 2024 ไว้นิดหน่อย [somkiat.cc]
