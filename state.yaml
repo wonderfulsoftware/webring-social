@@ -18080,6 +18080,32 @@ a35d5791840c02d1e557b208bc656cfa:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/01/devclub2-databases-at-aws-note/
   state:
     shortLink: https://link.webring.in.th/1739
+a36b456ec474f6aeb0ea240e1efbd2be:bluesky:
+  spec:
+    title: Deploying a Bun app to AWS App Runner [dt.in.th]
+    url: https://notes.dt.in.th/BunAppRunner
+  state:
+    cid: bafyreiefcwq64wm4bkvgalwoux74bz7bfd4gnegv7h3aosmi3mmmcls5zu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhpo4afb6h2a
+a36b456ec474f6aeb0ea240e1efbd2be:facebook:
+  spec:
+    title: Deploying a Bun app to AWS App Runner [dt.in.th]
+    url: https://notes.dt.in.th/BunAppRunner
+  state:
+    id: '100746876247412_601946939461219'
+    url: https://www.facebook.com/100683012920950/posts/601946939461219
+a36b456ec474f6aeb0ea240e1efbd2be:mastodon:
+  spec:
+    title: Deploying a Bun app to AWS App Runner [dt.in.th]
+    url: https://notes.dt.in.th/BunAppRunner
+  state:
+    id: '113971755530536089'
+    url: https://mastodon.in.th/@webring/113971755530536089
+a36b456ec474f6aeb0ea240e1efbd2be:shorturl:
+  spec:
+    url: https://notes.dt.in.th/BunAppRunner
+  state:
+    shortLink: https://link.webring.in.th/2389
 a388b0aa435bd28a2d2931657541ea23:bluesky:
   spec:
     title: '[CR] Starbucks Homsuwan Pineapple Cold Brew [debuggingsoft.com]'
