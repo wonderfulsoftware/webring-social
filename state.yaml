@@ -3553,6 +3553,32 @@
     url: https://notes.dt.in.th/DataDictionary
   state:
     shortLink: https://webring.page.link/EwuJ
+2246e4fbd717c7f84a821b890cead030:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : R Programming 101 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-r-programming-101/
+  state:
+    cid: bafyreib6reicvsed3s7ctr67v5o45mop5a4qmup23ykopdnfb4lmvkc3je
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhpy42k3p52k
+2246e4fbd717c7f84a821b890cead030:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : R Programming 101 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-r-programming-101/
+  state:
+    id: '100746876247412_602030639452849'
+    url: https://www.facebook.com/100683012920950/posts/602030639452849
+2246e4fbd717c7f84a821b890cead030:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : R Programming 101 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-r-programming-101/
+  state:
+    id: '113972458748953997'
+    url: https://mastodon.in.th/@webring/113972458748953997
+2246e4fbd717c7f84a821b890cead030:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-r-programming-101/
+  state:
+    shortLink: https://link.webring.in.th/2390
 22831b3aad446be3ca103c999b7231d3:facebook:
   spec:
     title: The Cloud Camp Week#06 (K8S Part1) [debuggingsoft.com]
