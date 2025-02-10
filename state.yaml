@@ -24,6 +24,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/11/how-to-fixed-mvnw-install-error-distributionurl-is-not-valid-must-match-bin-zip-or-maven-mvnd-zip/
   state:
     shortLink: https://link.webring.in.th/2237
+0061bebef33ae97c252ea4a436821711:bluesky:
+  spec:
+    title: DCA เมื่อ 5 ปีที่แล้วผลตอบแทนเท่าไหร่ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/dca
+  state:
+    cid: bafyreigp4tiky72qtqgqorofi43kgqrseafruh2zomtdwkb3qgpsdzlfja
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhsiq67d5c2a
+0061bebef33ae97c252ea4a436821711:facebook:
+  spec:
+    title: DCA เมื่อ 5 ปีที่แล้วผลตอบแทนเท่าไหร่ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/dca
+  state:
+    id: '100746876247412_602754162713830'
+    url: https://www.facebook.com/100683012920950/posts/602754162713830
+0061bebef33ae97c252ea4a436821711:mastodon:
+  spec:
+    title: DCA เมื่อ 5 ปีที่แล้วผลตอบแทนเท่าไหร่ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/dca
+  state:
+    id: '113978132588634851'
+    url: https://mastodon.in.th/@webring/113978132588634851
+0061bebef33ae97c252ea4a436821711:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/dca
+  state:
+    shortLink: https://link.webring.in.th/2392
 009334e858441bd60d9eb2cff63a6413:facebook:
   spec:
     title: รู้จักกับ Prisma ORM [mikelopster.dev]
