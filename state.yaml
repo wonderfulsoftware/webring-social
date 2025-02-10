@@ -22159,6 +22159,32 @@ c7e81d23ce19b1af0e9ec1e0e3ad0c5d:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/02/cr-starbucks-double-chocolate-pain-suisse/
   state:
     shortLink: https://link.webring.in.th/1783
+c7f9a3cf2a3614543c815730cda88d67:bluesky:
+  spec:
+    title: Illustration - Valentines's 2025 💞 [lucian.solutions]
+    url: https://lucian.solutions/blog/202502-valentines
+  state:
+    cid: bafyreib5cyaycromv37nmrxouvl2w2q3bq7a77iavsp2smippgczudw2me
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhtgmhopy32y
+c7f9a3cf2a3614543c815730cda88d67:facebook:
+  spec:
+    title: Illustration - Valentines's 2025 💞 [lucian.solutions]
+    url: https://lucian.solutions/blog/202502-valentines
+  state:
+    id: '100746876247412_603019046020675'
+    url: https://www.facebook.com/100683012920950/posts/603019046020675
+c7f9a3cf2a3614543c815730cda88d67:mastodon:
+  spec:
+    title: Illustration - Valentines's 2025 💞 [lucian.solutions]
+    url: https://lucian.solutions/blog/202502-valentines
+  state:
+    id: '113980235507097075'
+    url: https://mastodon.in.th/@webring/113980235507097075
+c7f9a3cf2a3614543c815730cda88d67:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202502-valentines
+  state:
+    shortLink: https://link.webring.in.th/2395
 c84e4fae578f7bfca7e12dcdb5214904:facebook:
   spec:
     title: ใช้ SQLBoiler กับ Go [pontakorn.dev]
