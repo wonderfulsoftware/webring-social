@@ -15578,6 +15578,32 @@
     url: https://lucian.solutions/blog/202412-merrychristmas
   state:
     shortLink: https://link.webring.in.th/2313
+896dc4e75e164d8c80573a4464c2346c:bluesky:
+  spec:
+    title: ICMM2025 กลับมาวิ่งในรอบหลายปี [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/icmm2025-back-to-run/
+  state:
+    cid: bafyreihqxvqzhxcje4kbwgm3z62d3oahuj72zsce7dgjj2jokwogs3gez4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lht552tvtx2k
+896dc4e75e164d8c80573a4464c2346c:facebook:
+  spec:
+    title: ICMM2025 กลับมาวิ่งในรอบหลายปี [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/icmm2025-back-to-run/
+  state:
+    id: '100746876247412_602922006030379'
+    url: https://www.facebook.com/100683012920950/posts/602922006030379
+896dc4e75e164d8c80573a4464c2346c:mastodon:
+  spec:
+    title: ICMM2025 กลับมาวิ่งในรอบหลายปี [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/icmm2025-back-to-run/
+  state:
+    id: '113979568099069236'
+    url: https://mastodon.in.th/@webring/113979568099069236
+896dc4e75e164d8c80573a4464c2346c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/icmm2025-back-to-run/
+  state:
+    shortLink: https://link.webring.in.th/2394
 8979abb70690c9cba4d0fbe733d2d812:facebook:
   spec:
     title: 'Git - fatal: detected dubious ownership in repository [garden.narze.live]'
