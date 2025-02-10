@@ -24297,6 +24297,32 @@ dc34bc6e07dbaaaf1a8bc9a2efbf9953:shorturl:
     url: https://www.somkiat.cc/note-how-migrations-across-2800-microservices/
   state:
     shortLink: https://link.webring.in.th/2233
+dc40b81680511c73221cdd202dc23f02:bluesky:
+  spec:
+    title: Fixing Yamaha Clavinova Sustain Pedal [zartre.com]
+    url: https://blog.zartre.com/2025/fixing-yamaha-clavinova-sustain-pedal/
+  state:
+    cid: bafyreic6miuw6bs7bqfmg4z6trg3rdlszbzpmessa3ck27gklvmpbvsdgy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhsskpjv4f2a
+dc40b81680511c73221cdd202dc23f02:facebook:
+  spec:
+    title: Fixing Yamaha Clavinova Sustain Pedal [zartre.com]
+    url: https://blog.zartre.com/2025/fixing-yamaha-clavinova-sustain-pedal/
+  state:
+    id: '100746876247412_602829992706247'
+    url: https://www.facebook.com/100683012920950/posts/602829992706247
+dc40b81680511c73221cdd202dc23f02:mastodon:
+  spec:
+    title: Fixing Yamaha Clavinova Sustain Pedal [zartre.com]
+    url: https://blog.zartre.com/2025/fixing-yamaha-clavinova-sustain-pedal/
+  state:
+    id: '113978824112726772'
+    url: https://mastodon.in.th/@webring/113978824112726772
+dc40b81680511c73221cdd202dc23f02:shorturl:
+  spec:
+    url: https://blog.zartre.com/2025/fixing-yamaha-clavinova-sustain-pedal/
+  state:
+    shortLink: https://link.webring.in.th/2393
 dc612d03fc7d7dbc6a2306d6adef4600:facebook:
   spec:
     title: สร้างระบบ Monitoring Springboot + Prometheus + Grafana ด้วย Docker [poolsawat.com]
