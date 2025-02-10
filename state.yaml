@@ -8972,6 +8972,32 @@
     url: https://www.somkiat.cc/nodejs-22-features/
   state:
     shortLink: https://link.webring.in.th/1912
+5429a79202be4575009875ae07273575:bluesky:
+  spec:
+    title: Recap 2024 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2025/01/04/recap-2025.html
+  state:
+    cid: bafyreidzgw7rq23l72pb3ma57ihvkskshioa5efh2cgkb4injnsy7gk5kq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhs6n4g2t324
+5429a79202be4575009875ae07273575:facebook:
+  spec:
+    title: Recap 2024 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2025/01/04/recap-2025.html
+  state:
+    id: '100746876247412_602675409388372'
+    url: https://www.facebook.com/100683012920950/posts/602675409388372
+5429a79202be4575009875ae07273575:mastodon:
+  spec:
+    title: Recap 2024 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2025/01/04/recap-2025.html
+  state:
+    id: '113977422007138949'
+    url: https://mastodon.in.th/@webring/113977422007138949
+5429a79202be4575009875ae07273575:shorturl:
+  spec:
+    url: https://blog.oatto.dev/2025/01/04/recap-2025.html
+  state:
+    shortLink: https://link.webring.in.th/2391
 549c23759812c8e484692743fa0704dc:facebook:
   spec:
     title: '[WP] How to Fix the “There Has Been a Critical Error on Your Website” Error? [debuggingsoft.com]'
