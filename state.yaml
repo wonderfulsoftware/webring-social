@@ -23433,6 +23433,32 @@ d2e2a9796695714e3c9782f96ead83fc:shorturl:
     url: https://lucian.solutions/blog/city-of-light-2024
   state:
     shortLink: https://webring.page.link/6L7P
+d32c77cabca6ce593511cfc1faa21386:bluesky:
+  spec:
+    title: ลองเขียน C# WebAPI เรียกใช้ Azure Document Intelligent อ่านใบเสร็จ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/csharp-aspnet-webapi-with-azure-document-intelligent-for-extract-receipt/
+  state:
+    cid: bafyreihgapppi5ogz5tq7bawoxjrchrkk22leegjvkerpfvawq6txoalym
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhup2cnyom2k
+d32c77cabca6ce593511cfc1faa21386:facebook:
+  spec:
+    title: ลองเขียน C# WebAPI เรียกใช้ Azure Document Intelligent อ่านใบเสร็จ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/csharp-aspnet-webapi-with-azure-document-intelligent-for-extract-receipt/
+  state:
+    id: '100746876247412_603356085986971'
+    url: https://www.facebook.com/100683012920950/posts/603356085986971
+d32c77cabca6ce593511cfc1faa21386:mastodon:
+  spec:
+    title: ลองเขียน C# WebAPI เรียกใช้ Azure Document Intelligent อ่านใบเสร็จ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/csharp-aspnet-webapi-with-azure-document-intelligent-for-extract-receipt/
+  state:
+    id: '113983080550154394'
+    url: https://mastodon.in.th/@webring/113983080550154394
+d32c77cabca6ce593511cfc1faa21386:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/csharp-aspnet-webapi-with-azure-document-intelligent-for-extract-receipt/
+  state:
+    shortLink: https://link.webring.in.th/2396
 d357e1755ca2c140f355b2db88831a2b:facebook:
   spec:
     title: แต่ก่อน ส่งข้อมูลกันอย่างไร? [tech.duckfollow.co]
