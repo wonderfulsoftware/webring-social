@@ -4020,6 +4020,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/09/the-cloud-camp-week-01/
   state:
     shortLink: https://webring.page.link/SVJp
+2584d8bcd20e4f50833b34df110f899f:bluesky:
+  spec:
+    title: แนวทางในการสร้าง Local LLMs server มีอะไรบ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/qa-local-llms/
+  state:
+    cid: bafyreigqa63xms7teijbqgptobtgedpyfiyx24eaw65g4eqddlu3gaolc4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhx7hp6nqe26
+2584d8bcd20e4f50833b34df110f899f:facebook:
+  spec:
+    title: แนวทางในการสร้าง Local LLMs server มีอะไรบ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/qa-local-llms/
+  state:
+    id: '100746876247412_604082175914362'
+    url: https://www.facebook.com/100683012920950/posts/604082175914362
+2584d8bcd20e4f50833b34df110f899f:mastodon:
+  spec:
+    title: แนวทางในการสร้าง Local LLMs server มีอะไรบ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/qa-local-llms/
+  state:
+    id: '113988739485284394'
+    url: https://mastodon.in.th/@webring/113988739485284394
+2584d8bcd20e4f50833b34df110f899f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/qa-local-llms/
+  state:
+    shortLink: https://link.webring.in.th/2397
 258dd02be79326fe72db78b3e7a8eb53:facebook:
   spec:
     title: Conditional types ใน TypeScript [thiti.dev]
