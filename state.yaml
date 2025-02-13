@@ -13972,6 +13972,32 @@
     url: https://www.anuwong.com/blog/simple-skincare-routine/
   state:
     shortLink: https://webring.page.link/tnXy
+7cdc1bb9aa001e22018532953f9fffbc:bluesky:
+  spec:
+    title: ยื่นภาษีปีภาษี 2567 ภาคปฏิบัติ ฉบับมนุษย์เงินเดือน นักลงทุนเล็กๆน้อยๆ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-rd-2567
+  state:
+    cid: bafyreicd5gojpe4gadnk4rykm4ug446rzsm6uyn7fxzaomukmyap7mv3ky
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lhzpx2c27b2x
+7cdc1bb9aa001e22018532953f9fffbc:facebook:
+  spec:
+    title: ยื่นภาษีปีภาษี 2567 ภาคปฏิบัติ ฉบับมนุษย์เงินเดือน นักลงทุนเล็กๆน้อยๆ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-rd-2567
+  state:
+    id: '100746876247412_604763422512904'
+    url: https://www.facebook.com/100683012920950/posts/604763422512904
+7cdc1bb9aa001e22018532953f9fffbc:mastodon:
+  spec:
+    title: ยื่นภาษีปีภาษี 2567 ภาคปฏิบัติ ฉบับมนุษย์เงินเดือน นักลงทุนเล็กๆน้อยๆ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-rd-2567
+  state:
+    id: '113994402881255533'
+    url: https://mastodon.in.th/@webring/113994402881255533
+7cdc1bb9aa001e22018532953f9fffbc:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/tax-rd-2567
+  state:
+    shortLink: https://link.webring.in.th/2398
 7d1fd9a29818985fb59c07b5660b9ea8:facebook:
   spec:
     title: การสร้าง Commitment [blog.ninprd.com]
