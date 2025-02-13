@@ -23568,6 +23568,32 @@ d3b7895f3b3f07080b4fa161f27f29fe:shorturl:
     url: https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/
   state:
     shortLink: https://link.webring.in.th/1866
+d3c60a81134e9b5a6b40422a669d3582:bluesky:
+  spec:
+    title: 'คำถาม :: Code ทำงานเร็วมาก แต่เมื่อเชื่อมต่อ Database กลับช้า ? [somkiat.cc]'
+    url: https://www.somkiat.cc/why-database-slow/
+  state:
+    cid: bafyreig6bbevyqapfqo2hrr6l7n6lhxpvgm63usznj4jk2rwabprhhcake
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3li222zld572x
+d3c60a81134e9b5a6b40422a669d3582:facebook:
+  spec:
+    title: 'คำถาม :: Code ทำงานเร็วมาก แต่เมื่อเชื่อมต่อ Database กลับช้า ? [somkiat.cc]'
+    url: https://www.somkiat.cc/why-database-slow/
+  state:
+    id: '100746876247412_604847332504513'
+    url: https://www.facebook.com/100683012920950/posts/604847332504513
+d3c60a81134e9b5a6b40422a669d3582:mastodon:
+  spec:
+    title: 'คำถาม :: Code ทำงานเร็วมาก แต่เมื่อเชื่อมต่อ Database กลับช้า ? [somkiat.cc]'
+    url: https://www.somkiat.cc/why-database-slow/
+  state:
+    id: '113995115335514283'
+    url: https://mastodon.in.th/@webring/113995115335514283
+d3c60a81134e9b5a6b40422a669d3582:shorturl:
+  spec:
+    url: https://www.somkiat.cc/why-database-slow/
+  state:
+    shortLink: https://link.webring.in.th/2399
 d40ad8b3ea627e5c21411eb46ba2c158:bluesky:
   spec:
     title: รู้จักกับ Drizzle ORM ผ่าน Next.js [mikelopster.dev]
