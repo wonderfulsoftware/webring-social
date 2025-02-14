@@ -22747,6 +22747,32 @@ cc517b61b7971c78564e452569512568:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/06/high-cost-of-requirement-error-but-i-dont-think-it-something-missing/
   state:
     shortLink: https://webring.page.link/CTHp
+cc5a27558ed08e64ce9056a97341923e:bluesky:
+  spec:
+    title: Cross-platform keyring-like setup (also works without desktop environment) [karnwong.me]
+    url: https://karnwong.me/posts/2025/02/cross-platform-keyring-like-setup-also-works-without-desktop-environment/
+  state:
+    cid: bafyreihlt46n4ajgepnjhidb6wgr5zl4go5jhy4m4cp6nuqra6gkswmjue
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3li4afviwhx2x
+cc5a27558ed08e64ce9056a97341923e:facebook:
+  spec:
+    title: Cross-platform keyring-like setup (also works without desktop environment) [karnwong.me]
+    url: https://karnwong.me/posts/2025/02/cross-platform-keyring-like-setup-also-works-without-desktop-environment/
+  state:
+    id: '100746876247412_605520635770516'
+    url: https://www.facebook.com/100683012920950/posts/605520635770516
+cc5a27558ed08e64ce9056a97341923e:mastodon:
+  spec:
+    title: Cross-platform keyring-like setup (also works without desktop environment) [karnwong.me]
+    url: https://karnwong.me/posts/2025/02/cross-platform-keyring-like-setup-also-works-without-desktop-environment/
+  state:
+    id: '114000065040193444'
+    url: https://mastodon.in.th/@webring/114000065040193444
+cc5a27558ed08e64ce9056a97341923e:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/02/cross-platform-keyring-like-setup-also-works-without-desktop-environment/
+  state:
+    shortLink: https://link.webring.in.th/2401
 cc8098a42816d110f84359a2fa68f162:bluesky:
   spec:
     title: Corolla Altis Hybrid – รีวิวหลังใช้มา 2 ปี [zartre.com]
