@@ -216,6 +216,32 @@
     url: https://www.mikkipastel.com/notion-meetup-thailand-2023-first-love-with-notion/
   state:
     shortLink: https://webring.page.link/izwK
+01d072eaaced8e9f7493a992d0d9236f:bluesky:
+  spec:
+    title: มาลองใช้งาน EventCatalog สำหรับ OpenAPI และ AsyncAPI [somkiat.cc]
+    url: https://www.somkiat.cc/hello-event-catalog/
+  state:
+    cid: bafyreienu3g5vfddwqm5glknoc76pxqc2n4lhlxzauolvusohuqslcqpwi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3li6quayi4i2j
+01d072eaaced8e9f7493a992d0d9236f:facebook:
+  spec:
+    title: มาลองใช้งาน EventCatalog สำหรับ OpenAPI และ AsyncAPI [somkiat.cc]
+    url: https://www.somkiat.cc/hello-event-catalog/
+  state:
+    id: '100746876247412_606309959024917'
+    url: https://www.facebook.com/100683012920950/posts/606309959024917
+01d072eaaced8e9f7493a992d0d9236f:mastodon:
+  spec:
+    title: มาลองใช้งาน EventCatalog สำหรับ OpenAPI และ AsyncAPI [somkiat.cc]
+    url: https://www.somkiat.cc/hello-event-catalog/
+  state:
+    id: '114005726140071552'
+    url: https://mastodon.in.th/@webring/114005726140071552
+01d072eaaced8e9f7493a992d0d9236f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-event-catalog/
+  state:
+    shortLink: https://link.webring.in.th/2403
 02325ad94a26fd2440d867d9721575ed:facebook:
   spec:
     title: 'สรุป Session: เกมมิฟิเคชัน: ศิลปะแห่งการสร้างแรงจูงใจผ่านกลไกเกม [blog.ninprd.com]'
