@@ -28062,3 +28062,29 @@ ffc5905ef4b2cad1b9e89f4554eac71b:shorturl:
     url: https://www.poolsawat.com/what-is-mongodb-and-how-to-using-it/
   state:
     shortLink: https://webring.page.link/SHSg
+ffec88f701ee0f47db0d0daedd6a299b:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : R Data Transformation [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-r-data-transformation/
+  state:
+    cid: bafyreiftfuwqfke75bntuzsmm6ce4wszpgbhy45cxsfsrvimaabfyulz4m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3libbiv7dhu2l
+ffec88f701ee0f47db0d0daedd6a299b:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : R Data Transformation [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-r-data-transformation/
+  state:
+    id: '100746876247412_607142952274951'
+    url: https://www.facebook.com/100683012920950/posts/607142952274951
+ffec88f701ee0f47db0d0daedd6a299b:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : R Data Transformation [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-r-data-transformation/
+  state:
+    id: '114011400846059258'
+    url: https://mastodon.in.th/@webring/114011400846059258
+ffec88f701ee0f47db0d0daedd6a299b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-r-data-transformation/
+  state:
+    shortLink: https://link.webring.in.th/2404
