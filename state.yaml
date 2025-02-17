@@ -19289,6 +19289,32 @@ ab7279ac3fb2c468cb3702240d9f5fb7:shorturl:
     url: https://tech.duckfollow.co/view/bkkjs-18
   state:
     shortLink: https://webring.page.link/xZeV
+abcabe37294ef34eb64430f98b225d89:bluesky:
+  spec:
+    title: Enabling access logging in Caddy [dt.in.th]
+    url: https://notes.dt.in.th/CaddyAccessLogging
+  state:
+    cid: bafyreieyl5rn6tnurzc7yeu4sj4y2vaatn57crqrv4hh75ybyvxdm2yjnq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lidrycboak2v
+abcabe37294ef34eb64430f98b225d89:facebook:
+  spec:
+    title: Enabling access logging in Caddy [dt.in.th]
+    url: https://notes.dt.in.th/CaddyAccessLogging
+  state:
+    id: '100746876247412_607945482194698'
+    url: https://www.facebook.com/100683012920950/posts/607945482194698
+abcabe37294ef34eb64430f98b225d89:mastodon:
+  spec:
+    title: Enabling access logging in Caddy [dt.in.th]
+    url: https://notes.dt.in.th/CaddyAccessLogging
+  state:
+    id: '114017064251114363'
+    url: https://mastodon.in.th/@webring/114017064251114363
+abcabe37294ef34eb64430f98b225d89:shorturl:
+  spec:
+    url: https://notes.dt.in.th/CaddyAccessLogging
+  state:
+    shortLink: https://link.webring.in.th/2405
 abe6aac73aa7ba984244fd20f79e09f7:facebook:
   spec:
     title: Google Chrome 117 สามารถทำการ mock XHR/fetch request ได้แล้ว [somkiat.cc]
