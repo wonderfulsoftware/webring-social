@@ -27763,6 +27763,32 @@ f9b8af3565b0c92ec88fc0adf128e0e5:shorturl:
     url: https://garden.narze.live/glob-import-modules-with-vite/
   state:
     shortLink: https://webring.page.link/vwKX
+f9df194d4d5bb322739a70883216f975:bluesky:
+  spec:
+    title: '[💻] การเขียน Git Commit [amiearth.com]'
+    url: https://amiearth.com/standard-commit-name-git
+  state:
+    cid: bafyreid6mtt57qai37x7hryyfp5v33ozsou4ch7unmru6cph63zvees5g4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ligmfxksnr2b
+f9df194d4d5bb322739a70883216f975:facebook:
+  spec:
+    title: '[💻] การเขียน Git Commit [amiearth.com]'
+    url: https://amiearth.com/standard-commit-name-git
+  state:
+    id: '100746876247412_608782415444338'
+    url: https://www.facebook.com/100683012920950/posts/608782415444338
+f9df194d4d5bb322739a70883216f975:mastodon:
+  spec:
+    title: '[💻] การเขียน Git Commit [amiearth.com]'
+    url: https://amiearth.com/standard-commit-name-git
+  state:
+    id: '114023427655036381'
+    url: https://mastodon.in.th/@webring/114023427655036381
+f9df194d4d5bb322739a70883216f975:shorturl:
+  spec:
+    url: https://amiearth.com/standard-commit-name-git
+  state:
+    shortLink: https://link.webring.in.th/2407
 fa1998ff308540e1de6ec1a02f2ac409:bluesky:
   spec:
     title: Enabling gzip/zstd compression in Caddy [dt.in.th]
