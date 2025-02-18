@@ -13364,6 +13364,32 @@
     url: https://www.somkiat.cc/technology-radar-vol-28/
   state:
     shortLink: https://webring.page.link/a2cC
+77ca809180eab3d819faf21cf6d1d1d0:bluesky:
+  spec:
+    title: Hello world! [srakrn.me]
+    url: https://bio.srakrn.me/hello-world/
+  state:
+    cid: bafyreibcb6trpvwqozagxopgxstboijyrydpb5wpovks5ebeonqecltztu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ligcapvbm727
+77ca809180eab3d819faf21cf6d1d1d0:facebook:
+  spec:
+    title: Hello world! [srakrn.me]
+    url: https://bio.srakrn.me/hello-world/
+  state:
+    id: '100746876247412_608698378786075'
+    url: https://www.facebook.com/100683012920950/posts/608698378786075
+77ca809180eab3d819faf21cf6d1d1d0:mastodon:
+  spec:
+    title: Hello world! [srakrn.me]
+    url: https://bio.srakrn.me/hello-world/
+  state:
+    id: '114022712389219569'
+    url: https://mastodon.in.th/@webring/114022712389219569
+77ca809180eab3d819faf21cf6d1d1d0:shorturl:
+  spec:
+    url: https://bio.srakrn.me/hello-world/
+  state:
+    shortLink: https://link.webring.in.th/2406
 783bfaa545f36a7ccbd33d412ac9d28f:facebook:
   spec:
     title: '*.localhost subdomains [garden.narze.live]'
