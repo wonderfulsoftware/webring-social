@@ -14204,6 +14204,32 @@
     url: https://www.somkiat.cc/hello-java-20/
   state:
     shortLink: https://webring.page.link/Mvr6
+7e1fe2839f082ada885371cff0c965a0:bluesky:
+  spec:
+    title: มาดู AI Engineering Landscape ว่ามีอะไรบ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/ai-engineering-landscape/
+  state:
+    cid: bafyreihprwlb6qphxlurcwqchhp33qzaomyaka2fqcorkblarp3jfjlzqy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ligwadk3zd2y
+7e1fe2839f082ada885371cff0c965a0:facebook:
+  spec:
+    title: มาดู AI Engineering Landscape ว่ามีอะไรบ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/ai-engineering-landscape/
+  state:
+    id: '100746876247412_608898305432749'
+    url: https://www.facebook.com/100683012920950/posts/608898305432749
+7e1fe2839f082ada885371cff0c965a0:mastodon:
+  spec:
+    title: มาดู AI Engineering Landscape ว่ามีอะไรบ้าง ? [somkiat.cc]
+    url: https://www.somkiat.cc/ai-engineering-landscape/
+  state:
+    id: '114024118891329904'
+    url: https://mastodon.in.th/@webring/114024118891329904
+7e1fe2839f082ada885371cff0c965a0:shorturl:
+  spec:
+    url: https://www.somkiat.cc/ai-engineering-landscape/
+  state:
+    shortLink: https://link.webring.in.th/2408
 7e2cde624d9a444cfe096071fd924fa7:bluesky:
   spec:
     title: สรุปความสามารถที่น่าสนใจของ ChatGPT, Claud.ai และ GitHub Copilot [somkiat.cc]
