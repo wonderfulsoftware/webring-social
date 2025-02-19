@@ -24089,6 +24089,32 @@ d58f4ece6739487292947e77a14d2418:shorturl:
     url: https://www.poolsawat.com/docker-run-1line-command-about-databases/
   state:
     shortLink: https://webring.page.link/63Mf
+d5a487db76cb5873dfef3c703ae3313c:bluesky:
+  spec:
+    title: Food Review - La Dotta [lucian.solutions]
+    url: https://lucian.solutions/blog/foodreview-la-dotta
+  state:
+    cid: bafyreie2mero37zqgmhnyeszo3znwfctfy3k637sofj7z4podmdxtkuema
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lijgpcjr4b2t
+d5a487db76cb5873dfef3c703ae3313c:facebook:
+  spec:
+    title: Food Review - La Dotta [lucian.solutions]
+    url: https://lucian.solutions/blog/foodreview-la-dotta
+  state:
+    id: '100746876247412_609764382012808'
+    url: https://www.facebook.com/100683012920950/posts/609764382012808
+d5a487db76cb5873dfef3c703ae3313c:mastodon:
+  spec:
+    title: Food Review - La Dotta [lucian.solutions]
+    url: https://lucian.solutions/blog/foodreview-la-dotta
+  state:
+    id: '114029781058009577'
+    url: https://mastodon.in.th/@webring/114029781058009577
+d5a487db76cb5873dfef3c703ae3313c:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/foodreview-la-dotta
+  state:
+    shortLink: https://link.webring.in.th/2411
 d5b3ee4703ab5e2e880d48131dabba73:facebook:
   spec:
     title: Install github.com/mattn/go-sqlite3 on Windows [debuggingsoft.com]
