@@ -10414,6 +10414,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/11/cr-starbucks-banana-cake-topped-with-mixed-grains/
   state:
     shortLink: https://link.webring.in.th/2269
+5fb4c8f1031a617e5e54fe5280ec1fc2:bluesky:
+  spec:
+    title: อย่าล้อเล่นกับระบบ D-MyTax [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/do-not-you-dare-with-tax-system-d-mytax/
+  state:
+    cid: bafyreien2jiv6gwbffdbexfmum7g5ioiigqcm3hyfbn66zkfln4u3cfxga
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lik2t5yvm62s
+5fb4c8f1031a617e5e54fe5280ec1fc2:facebook:
+  spec:
+    title: อย่าล้อเล่นกับระบบ D-MyTax [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/do-not-you-dare-with-tax-system-d-mytax/
+  state:
+    id: '100746876247412_609980585324521'
+    url: https://www.facebook.com/100683012920950/posts/609980585324521
+5fb4c8f1031a617e5e54fe5280ec1fc2:mastodon:
+  spec:
+    title: อย่าล้อเล่นกับระบบ D-MyTax [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/do-not-you-dare-with-tax-system-d-mytax/
+  state:
+    id: '114031197100219260'
+    url: https://mastodon.in.th/@webring/114031197100219260
+5fb4c8f1031a617e5e54fe5280ec1fc2:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/do-not-you-dare-with-tax-system-d-mytax/
+  state:
+    shortLink: https://link.webring.in.th/2413
 5fb53007e440142b517e33b2a6588338:facebook:
   spec:
     title: Extract Saved Wi-Fi password on macOS [garden.narze.live]
