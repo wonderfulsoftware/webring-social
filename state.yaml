@@ -522,6 +522,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/12/az-305-design-business-continuity-solutions/
   state:
     shortLink: https://link.webring.in.th/2317
+0583d824333951df0badef76814fd140:bluesky:
+  spec:
+    title: คำนวณขายขาดทุนแล้วต้องทำกำไรเท่าไหร่ถึงกลับมาเท่าทุน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/recover-loss
+  state:
+    cid: bafyreiffr7dzoyh4zcwj5e2s5etjqncwrqbb4ibo66xupawdjzbbzutfpu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lij4vc3c7n2w
+0583d824333951df0badef76814fd140:facebook:
+  spec:
+    title: คำนวณขายขาดทุนแล้วต้องทำกำไรเท่าไหร่ถึงกลับมาเท่าทุน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/recover-loss
+  state:
+    id: '100746876247412_609649872024259'
+    url: https://www.facebook.com/100683012920950/posts/609649872024259
+0583d824333951df0badef76814fd140:mastodon:
+  spec:
+    title: คำนวณขายขาดทุนแล้วต้องทำกำไรเท่าไหร่ถึงกลับมาเท่าทุน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/recover-loss
+  state:
+    id: '114029090865815780'
+    url: https://mastodon.in.th/@webring/114029090865815780
+0583d824333951df0badef76814fd140:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/recover-loss
+  state:
+    shortLink: https://link.webring.in.th/2410
 05dbab9861905160ded138aaaca18ab2:bluesky:
   spec:
     title: บันทึกการติดต่อ Memcached server ผ่าน terminal [somkiat.cc]
