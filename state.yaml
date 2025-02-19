@@ -8879,6 +8879,32 @@
     url: https://www.poolsawat.com/create-spa-web-app-with-laravel9-vue3-inertiajs-bootstrap5/
   state:
     shortLink: https://webring.page.link/q1NE
+51db640c445b52d0856787f7d3d60ff9:bluesky:
+  spec:
+    title: '[💻] การเขียน Git Commit [amiearth.com]'
+    url: https://amiearth.com/blog/standard-commit-name-git
+  state:
+    cid: bafyreiha7pl42pcdae45pmtcq6u5sbwkrgrxohbzlbw2fozl4g5vy2j6ui
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3liiss62hhd2b
+51db640c445b52d0856787f7d3d60ff9:facebook:
+  spec:
+    title: '[💻] การเขียน Git Commit [amiearth.com]'
+    url: https://amiearth.com/blog/standard-commit-name-git
+  state:
+    id: '100746876247412_609512395371340'
+    url: https://www.facebook.com/100683012920950/posts/609512395371340
+51db640c445b52d0856787f7d3d60ff9:mastodon:
+  spec:
+    title: '[💻] การเขียน Git Commit [amiearth.com]'
+    url: https://amiearth.com/blog/standard-commit-name-git
+  state:
+    id: '114028380220483553'
+    url: https://mastodon.in.th/@webring/114028380220483553
+51db640c445b52d0856787f7d3d60ff9:shorturl:
+  spec:
+    url: https://amiearth.com/blog/standard-commit-name-git
+  state:
+    shortLink: https://link.webring.in.th/2409
 51deea38da017c486905e7e8c89c11b8:facebook:
   spec:
     title: 'MarkMap :: ทำการเขียน Mindmap ด้วย Markdown format [somkiat.cc]'
