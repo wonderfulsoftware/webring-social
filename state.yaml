@@ -4599,6 +4599,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-01/
   state:
     shortLink: https://webring.page.link/oCFY
+29d1374181607971fdbb315b3e5e9f83:bluesky:
+  spec:
+    title: 0262 | freeipa add replica stuck at ‘No status yet’ [icez.net]
+    url: https://www.icez.net/blog/167560/0262-freeipa-add-replica-stuck-at-no-status-yet
+  state:
+    cid: bafyreiewq4scrtofok23yivhm6l5iidlbbfwkwky46ijowtmu53oxgejyu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lijr7wfpsf2v
+29d1374181607971fdbb315b3e5e9f83:facebook:
+  spec:
+    title: 0262 | freeipa add replica stuck at ‘No status yet’ [icez.net]
+    url: https://www.icez.net/blog/167560/0262-freeipa-add-replica-stuck-at-no-status-yet
+  state:
+    id: '100746876247412_609870842002162'
+    url: https://www.facebook.com/100683012920950/posts/609870842002162
+29d1374181607971fdbb315b3e5e9f83:mastodon:
+  spec:
+    title: 0262 | freeipa add replica stuck at ‘No status yet’ [icez.net]
+    url: https://www.icez.net/blog/167560/0262-freeipa-add-replica-stuck-at-no-status-yet
+  state:
+    id: '114030521477975550'
+    url: https://mastodon.in.th/@webring/114030521477975550
+29d1374181607971fdbb315b3e5e9f83:shorturl:
+  spec:
+    url: https://www.icez.net/blog/167560/0262-freeipa-add-replica-stuck-at-no-status-yet
+  state:
+    shortLink: https://link.webring.in.th/2412
 2a070226061fe63312601a6c7163b94a:facebook:
   spec:
     title: ตัวอย่างการใช้งาน Coordinated Restore at Checkpoint (CRaC) ใน Spring Boot [somkiat.cc]
