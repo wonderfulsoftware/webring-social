@@ -19203,6 +19203,32 @@ a9219b54ffbacb453c42195b38473323:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/02/cr-starbucks-chocolate-flourless-cake-valentine-edition/
   state:
     shortLink: https://webring.page.link/Ljo8
+a98ce4c18fa75cea66ed5e44a4773a6f:bluesky:
+  spec:
+    title: มาลองสร้าง MCP Server ด้วยภาษา Go เล่นกัน [somkiat.cc]
+    url: https://www.somkiat.cc/mcp-server-with-go/
+  state:
+    cid: bafyreibog7wv22ytmfz37kwn7ix2wxwvzfndkymmoebufv7tn6kvfmjgwe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lildbbm6y52v
+a98ce4c18fa75cea66ed5e44a4773a6f:facebook:
+  spec:
+    title: มาลองสร้าง MCP Server ด้วยภาษา Go เล่นกัน [somkiat.cc]
+    url: https://www.somkiat.cc/mcp-server-with-go/
+  state:
+    id: '100746876247412_610351548620758'
+    url: https://www.facebook.com/100683012920950/posts/610351548620758
+a98ce4c18fa75cea66ed5e44a4773a6f:mastodon:
+  spec:
+    title: มาลองสร้าง MCP Server ด้วยภาษา Go เล่นกัน [somkiat.cc]
+    url: https://www.somkiat.cc/mcp-server-with-go/
+  state:
+    id: '114034042924775838'
+    url: https://mastodon.in.th/@webring/114034042924775838
+a98ce4c18fa75cea66ed5e44a4773a6f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/mcp-server-with-go/
+  state:
+    shortLink: https://link.webring.in.th/2414
 a98e8f2ee6f66e06a0f1e292b154474b:facebook:
   spec:
     title: บันทึกการนำแนวคิด 12-factors มาใช้ในการพัฒนาระบบงานด้วยภาษา Go [somkiat.cc]
