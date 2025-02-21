@@ -6385,6 +6385,32 @@
     url: https://www.mikkipastel.com/apetimism-1st-anniversary/
   state:
     shortLink: https://webring.page.link/a4o3
+3a01980013d657bdd3a8bc4a07a291ed:bluesky:
+  spec:
+    title: คำนวณต้นทุนซื้อขายหลายไม้(ถัว) [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/caculate-cost
+  state:
+    cid: bafyreigcbylfhk2q7j5rlbveg7i7csv6hydhk64vrprdgxzthp7p732sxi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lintrr4ia22p
+3a01980013d657bdd3a8bc4a07a291ed:facebook:
+  spec:
+    title: คำนวณต้นทุนซื้อขายหลายไม้(ถัว) [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/caculate-cost
+  state:
+    id: '100746876247412_611114525211127'
+    url: https://www.facebook.com/100683012920950/posts/611114525211127
+3a01980013d657bdd3a8bc4a07a291ed:mastodon:
+  spec:
+    title: คำนวณต้นทุนซื้อขายหลายไม้(ถัว) [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/caculate-cost
+  state:
+    id: '114039708763912488'
+    url: https://mastodon.in.th/@webring/114039708763912488
+3a01980013d657bdd3a8bc4a07a291ed:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/caculate-cost
+  state:
+    shortLink: https://link.webring.in.th/2415
 3a0fa1eb7d9f3e5bbbe70f7887adf2ce:facebook:
   spec:
     title: How to add Podman as an Agent in Portainer [debuggingsoft.com]
