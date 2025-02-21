@@ -27071,6 +27071,32 @@ f11942adf6100ec686b8888a39b65355:shorturl:
     url: https://lucian.solutions/blog/202405-kirara
   state:
     shortLink: https://link.webring.in.th/1932
+f1228b887bbd03515e7abfdb0657f4bc:bluesky:
+  spec:
+    title: ลองใช้ Custom Fonts (เช่น ภาษาไทย) ใน jsPDF [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/how-to-use-custom-fonts-such-as-thai-with-jspdf-thai-version/
+  state:
+    cid: bafyreiadawgo3mkbn6lk4mw4shtcnqr5y2jlz6fvzxpqndqo7ffoyhiw24
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lio5srth3f2p
+f1228b887bbd03515e7abfdb0657f4bc:facebook:
+  spec:
+    title: ลองใช้ Custom Fonts (เช่น ภาษาไทย) ใน jsPDF [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/how-to-use-custom-fonts-such-as-thai-with-jspdf-thai-version/
+  state:
+    id: '100746876247412_611200421869204'
+    url: https://www.facebook.com/100683012920950/posts/611200421869204
+f1228b887bbd03515e7abfdb0657f4bc:mastodon:
+  spec:
+    title: ลองใช้ Custom Fonts (เช่น ภาษาไทย) ใน jsPDF [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/how-to-use-custom-fonts-such-as-thai-with-jspdf-thai-version/
+  state:
+    id: '114040414412370083'
+    url: https://mastodon.in.th/@webring/114040414412370083
+f1228b887bbd03515e7abfdb0657f4bc:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/how-to-use-custom-fonts-such-as-thai-with-jspdf-thai-version/
+  state:
+    shortLink: https://link.webring.in.th/2416
 f13b09c1a35a790628c25ea8d312742c:facebook:
   spec:
     title: 'What is Apache Iceberg: Iceberg คืออะไร ทำอะไรได้บ้าง ? [mesodiar.com]'
