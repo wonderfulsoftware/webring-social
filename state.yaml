@@ -10001,6 +10001,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week07-k8s-part2/
   state:
     shortLink: https://webring.page.link/N9yk
+5c6367b14813b0df95a0653d7797cc29:bluesky:
+  spec:
+    title: มาลองใช้งาน MongoDB-RAG สำหรับการสร้าง RAG application อย่างง่าย [somkiat.cc]
+    url: https://www.somkiat.cc/hello-mongodb-rag/
+  state:
+    cid: bafyreiglve5ds4fy22pysikexxugk4oyfmcv3jtsfwdayzvckqpxyrcr4a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3liqoa6ycqa2u
+5c6367b14813b0df95a0653d7797cc29:facebook:
+  spec:
+    title: มาลองใช้งาน MongoDB-RAG สำหรับการสร้าง RAG application อย่างง่าย [somkiat.cc]
+    url: https://www.somkiat.cc/hello-mongodb-rag/
+  state:
+    id: '100746876247412_611948051794441'
+    url: https://www.facebook.com/100683012920950/posts/611948051794441
+5c6367b14813b0df95a0653d7797cc29:mastodon:
+  spec:
+    title: มาลองใช้งาน MongoDB-RAG สำหรับการสร้าง RAG application อย่างง่าย [somkiat.cc]
+    url: https://www.somkiat.cc/hello-mongodb-rag/
+  state:
+    id: '114046073590367053'
+    url: https://mastodon.in.th/@webring/114046073590367053
+5c6367b14813b0df95a0653d7797cc29:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-mongodb-rag/
+  state:
+    shortLink: https://link.webring.in.th/2418
 5c69fd56452da2e6b51354dc043b7cb1:facebook:
   spec:
     title: Screenplay Pattern Testing with Serenity.js [yuttakhanb.dev]
