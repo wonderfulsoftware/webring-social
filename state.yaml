@@ -26433,6 +26433,32 @@ ec58600cd82560a725f20b89864bd793:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day5-open-24-hours
   state:
     shortLink: https://webring.page.link/1QMP
+ec6c4e9103c393ca0be4f297d96f332d:bluesky:
+  spec:
+    title: Android device ที่ใช้ได้บน Firebase Test Lab มีกี่รุ่นกันนะ? [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-get-device-for-firebase-test-lab/
+  state:
+    cid: bafyreiamau6f2kqs4bpaouzl5qf6ik33m2iia2bcemy6dddiyrjh5yogna
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3liqe2rvx3s2u
+ec6c4e9103c393ca0be4f297d96f332d:facebook:
+  spec:
+    title: Android device ที่ใช้ได้บน Firebase Test Lab มีกี่รุ่นกันนะ? [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-get-device-for-firebase-test-lab/
+  state:
+    id: '100746876247412_611849998470913'
+    url: https://www.facebook.com/100683012920950/posts/611849998470913
+ec6c4e9103c393ca0be4f297d96f332d:mastodon:
+  spec:
+    title: Android device ที่ใช้ได้บน Firebase Test Lab มีกี่รุ่นกันนะ? [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-get-device-for-firebase-test-lab/
+  state:
+    id: '114045358055539325'
+    url: https://mastodon.in.th/@webring/114045358055539325
+ec6c4e9103c393ca0be4f297d96f332d:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/how-to-get-device-for-firebase-test-lab/
+  state:
+    shortLink: https://link.webring.in.th/2417
 ec6e1744e2faa2d0317772d9d3bc8de6:facebook:
   spec:
     title: Illustration - 2024のゆきみさん ❄ [lucian.solutions]
