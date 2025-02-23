@@ -14322,6 +14322,32 @@
     url: https://www.mikkipastel.com/line-thailand-developer-conference-2024/
   state:
     shortLink: https://link.webring.in.th/2236
+7dc5e5fb9579869856a5b83fcc4b3f42:bluesky:
+  spec:
+    title: Using ZRAM for compressed RAM-backed swap space in Linux [dt.in.th]
+    url: https://notes.dt.in.th/LinuxZram
+  state:
+    cid: bafyreihs2rtwbw2urusqa4vy5i7bwcsujd6ete5uzbi52234zdzpbhjxbq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lisusa4dfp2e
+7dc5e5fb9579869856a5b83fcc4b3f42:facebook:
+  spec:
+    title: Using ZRAM for compressed RAM-backed swap space in Linux [dt.in.th]
+    url: https://notes.dt.in.th/LinuxZram
+  state:
+    id: '100746876247412_612638238392089'
+    url: https://www.facebook.com/100683012920950/posts/612638238392089
+7dc5e5fb9579869856a5b83fcc4b3f42:mastodon:
+  spec:
+    title: Using ZRAM for compressed RAM-backed swap space in Linux [dt.in.th]
+    url: https://notes.dt.in.th/LinuxZram
+  state:
+    id: '114051039097016749'
+    url: https://mastodon.in.th/@webring/114051039097016749
+7dc5e5fb9579869856a5b83fcc4b3f42:shorturl:
+  spec:
+    url: https://notes.dt.in.th/LinuxZram
+  state:
+    shortLink: https://link.webring.in.th/2419
 7dfb10f317ef92fba30c628cbebbf8d3:facebook:
   spec:
     title: การเปลี่ยนแปลงของ Chrome Driver สำหรับ Google Chrome 115 ขึ้นไป [somkiat.cc]
