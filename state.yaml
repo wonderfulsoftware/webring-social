@@ -7564,6 +7564,32 @@
     url: https://kajame.xyz/blog/2024/go-learning-ep-04
   state:
     shortLink: https://link.webring.in.th/2023
+44fc7b367c46949e7fca81727e9e3cf4:bluesky:
+  spec:
+    title: ใช้งาน OpenTelemetry ใน Deno 2.2 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/opentelemetry-in-deno/
+  state:
+    cid: bafyreiclkit5o5yk7me6qdt7ddudnib4tmkg6w4blu4podxji3hlncpab4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3litii7l3pd2r
+44fc7b367c46949e7fca81727e9e3cf4:facebook:
+  spec:
+    title: ใช้งาน OpenTelemetry ใน Deno 2.2 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/opentelemetry-in-deno/
+  state:
+    id: '100746876247412_612813645041215'
+    url: https://www.facebook.com/100683012920950/posts/612813645041215
+44fc7b367c46949e7fca81727e9e3cf4:mastodon:
+  spec:
+    title: ใช้งาน OpenTelemetry ใน Deno 2.2 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/opentelemetry-in-deno/
+  state:
+    id: '114052424396843221'
+    url: https://mastodon.in.th/@webring/114052424396843221
+44fc7b367c46949e7fca81727e9e3cf4:shorturl:
+  spec:
+    url: https://www.somkiat.cc/opentelemetry-in-deno/
+  state:
+    shortLink: https://link.webring.in.th/2421
 450d604c54d78e0ec18771271b432f2b:facebook:
   spec:
     title: มุมมองของ Dev อยากได้อะไรจาก Support [debuggingsoft.com]
