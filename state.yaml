@@ -4212,6 +4212,32 @@
     url: https://www.mikkipastel.com/bitcoin-addict-meetup-2023/
   state:
     shortLink: https://webring.page.link/i62f
+265f863898b0a7d95cb6c51b0ffc69dd:bluesky:
+  spec:
+    title: กำหนด primary key เป็นเลขล่าสุดทุก table [amiearth.com]
+    url: https://amiearth.com/blog/postgres-defined-primary-key-latest
+  state:
+    cid: bafyreifdxhgx4gshdcflwe34xzp7zgivowqkaopvaxrl3xitrap4vt3tcu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lit6ns3pcz2u
+265f863898b0a7d95cb6c51b0ffc69dd:facebook:
+  spec:
+    title: กำหนด primary key เป็นเลขล่าสุดทุก table [amiearth.com]
+    url: https://amiearth.com/blog/postgres-defined-primary-key-latest
+  state:
+    id: '100746876247412_612725665050013'
+    url: https://www.facebook.com/100683012920950/posts/612725665050013
+265f863898b0a7d95cb6c51b0ffc69dd:mastodon:
+  spec:
+    title: กำหนด primary key เป็นเลขล่าสุดทุก table [amiearth.com]
+    url: https://amiearth.com/blog/postgres-defined-primary-key-latest
+  state:
+    id: '114051733080523857'
+    url: https://mastodon.in.th/@webring/114051733080523857
+265f863898b0a7d95cb6c51b0ffc69dd:shorturl:
+  spec:
+    url: https://amiearth.com/blog/postgres-defined-primary-key-latest
+  state:
+    shortLink: https://link.webring.in.th/2420
 2692d7b59877566b8f2e834f3ae1443d:facebook:
   spec:
     title: 'AI-102: Implement knowledge mining with Azure AI Search [debuggingsoft.com]'
