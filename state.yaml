@@ -24527,6 +24527,32 @@ d70dfad0a66593f28662eb0eea706a43:shorturl:
     url: https://neizod.dev/2023/08/08/polylog-complexity.html
   state:
     shortLink: https://webring.page.link/W8C2
+d7278c8472898a496704cc216334fab4:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : Data Visualization [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-data-visualization/
+  state:
+    cid: bafyreibwmvnq5qpt5v2tpgwkbhhx5ohuemvhcudq4hzgkebhpoopp3zsgy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3litt2lfylf2i
+d7278c8472898a496704cc216334fab4:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : Data Visualization [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-data-visualization/
+  state:
+    id: '100746876247412_612915421697704'
+    url: https://www.facebook.com/100683012920950/posts/612915421697704
+d7278c8472898a496704cc216334fab4:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11 : Data Visualization [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-data-visualization/
+  state:
+    id: '114053168432424917'
+    url: https://mastodon.in.th/@webring/114053168432424917
+d7278c8472898a496704cc216334fab4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-data-visualization/
+  state:
+    shortLink: https://link.webring.in.th/2422
 d7da4007cf50c2241e883d47ccf641db:facebook:
   spec:
     title: ลองใช้งาน Dep Tree เพื่อดูความสัมพันธ์ของ source code ในรูปแบบ 3D [somkiat.cc]
