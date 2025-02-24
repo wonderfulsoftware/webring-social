@@ -1293,6 +1293,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/cr-starbucks-milk-pudding/
   state:
     shortLink: https://webring.page.link/sBWC
+0c284a8eddeee9151cf3e4c283dbe83d:bluesky:
+  spec:
+    title: ปฎิบัติการหนี WordPress ของนิล [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/nin-mission-to-bye-bye-wordpress/
+  state:
+    cid: bafyreihkftmy5xpnbqv36foouujkumqyri3peu24gp5t4bldrb4apkr5my
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3livz3trgmn2i
+0c284a8eddeee9151cf3e4c283dbe83d:facebook:
+  spec:
+    title: ปฎิบัติการหนี WordPress ของนิล [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/nin-mission-to-bye-bye-wordpress/
+  state:
+    id: '100746876247412_613541388301774'
+    url: https://www.facebook.com/100683012920950/posts/613541388301774
+0c284a8eddeee9151cf3e4c283dbe83d:mastodon:
+  spec:
+    title: ปฎิบัติการหนี WordPress ของนิล [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/nin-mission-to-bye-bye-wordpress/
+  state:
+    id: '114058097139309432'
+    url: https://mastodon.in.th/@webring/114058097139309432
+0c284a8eddeee9151cf3e4c283dbe83d:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/nin-mission-to-bye-bye-wordpress/
+  state:
+    shortLink: https://link.webring.in.th/2425
 0c4cd8d68932281c611d1b341714f8fe:facebook:
   spec:
     title: Install Proxmox [debuggingsoft.com]
