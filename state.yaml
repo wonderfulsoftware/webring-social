@@ -3365,6 +3365,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week04-agile/
   state:
     shortLink: https://webring.page.link/CVz3
+1f8529afdd9e05b4e235955572176825:bluesky:
+  spec:
+    title: จดๆจาก Thailand Developer Day 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/recap-thailand-developer-day-2025/
+  state:
+    cid: bafyreigkhvz4zanzjdy7kwyxsbipubz4exoyzw65jl4mi3fffxx7ub73vq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3livpbcncjh2u
+1f8529afdd9e05b4e235955572176825:facebook:
+  spec:
+    title: จดๆจาก Thailand Developer Day 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/recap-thailand-developer-day-2025/
+  state:
+    id: '100746876247412_613459934976586'
+    url: https://www.facebook.com/100683012920950/posts/613459934976586
+1f8529afdd9e05b4e235955572176825:mastodon:
+  spec:
+    title: จดๆจาก Thailand Developer Day 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/recap-thailand-developer-day-2025/
+  state:
+    id: '114057405339579825'
+    url: https://mastodon.in.th/@webring/114057405339579825
+1f8529afdd9e05b4e235955572176825:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/recap-thailand-developer-day-2025/
+  state:
+    shortLink: https://link.webring.in.th/2424
 1f88f9f229022f70bfe616ecff3ba16e:facebook:
   spec:
     title: มาดูความสามารถใน Kafka 3.8 [somkiat.cc]
