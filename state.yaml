@@ -4760,6 +4760,32 @@
     url: https://www.somkiat.cc/hello-gemini-pro-in-google-ai-studio/
   state:
     shortLink: https://webring.page.link/zS16
+2b14f83bbc6b0760e954444f6e8ebdf9:bluesky:
+  spec:
+    title: Postgres Ignore Foreign Key [amiearth.com]
+    url: https://amiearth.com/blog/postgres-ignore-foreign-key
+  state:
+    cid: bafyreicqkt3xk5schfibldjekp2fa7b444sfohshr44gtxbv42p3z2rp5e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lixvr3kj4s2u
+2b14f83bbc6b0760e954444f6e8ebdf9:facebook:
+  spec:
+    title: Postgres Ignore Foreign Key [amiearth.com]
+    url: https://amiearth.com/blog/postgres-ignore-foreign-key
+  state:
+    id: '100746876247412_614119888243924'
+    url: https://www.facebook.com/100683012920950/posts/614119888243924
+2b14f83bbc6b0760e954444f6e8ebdf9:mastodon:
+  spec:
+    title: Postgres Ignore Foreign Key [amiearth.com]
+    url: https://amiearth.com/blog/postgres-ignore-foreign-key
+  state:
+    id: '114062365989347467'
+    url: https://mastodon.in.th/@webring/114062365989347467
+2b14f83bbc6b0760e954444f6e8ebdf9:shorturl:
+  spec:
+    url: https://amiearth.com/blog/postgres-ignore-foreign-key
+  state:
+    shortLink: https://link.webring.in.th/2426
 2b2ea360e89d2db18887bcc5824c41e4:facebook:
   spec:
     title: 85 - Update narze/resume [garden.narze.live]
