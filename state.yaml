@@ -19164,6 +19164,32 @@ a63e70f3b715822d74495045f6a87bca:shorturl:
     url: https://blog.ninprd.com/blog/summary-session-building-a-community-first-hotel-cx-to-attract-digital-nomads-to-chiang-mai/
   state:
     shortLink: https://link.webring.in.th/2135
+a645d567cf8145f9a0a3f55aa5864645:bluesky:
+  spec:
+    title: RMarkDown Common PDF Export Error [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/rmarkdown-common-error-pdf-export/
+  state:
+    cid: bafyreibariejtgskhyi4q4nhzsqdsn6mnd2gduyzolerbulwj3rijlmgsa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lj2q753qqa2y
+a645d567cf8145f9a0a3f55aa5864645:facebook:
+  spec:
+    title: RMarkDown Common PDF Export Error [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/rmarkdown-common-error-pdf-export/
+  state:
+    id: '100746876247412_614994154823164'
+    url: https://www.facebook.com/100683012920950/posts/614994154823164
+a645d567cf8145f9a0a3f55aa5864645:mastodon:
+  spec:
+    title: RMarkDown Common PDF Export Error [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/rmarkdown-common-error-pdf-export/
+  state:
+    id: '114068729932507947'
+    url: https://mastodon.in.th/@webring/114068729932507947
+a645d567cf8145f9a0a3f55aa5864645:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/rmarkdown-common-error-pdf-export/
+  state:
+    shortLink: https://link.webring.in.th/2428
 a6de025a25774489bcdaef4241f8eb10:facebook:
   spec:
     title: 'ตอบคำถามจาก Microservices design :: เรื่องของ Software Architecture ที่เปลี่ยนไป [somkiat.cc]'
