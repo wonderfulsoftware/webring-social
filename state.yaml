@@ -14905,6 +14905,32 @@
     url: https://www.anuwong.com/blog/personal-assistant-bot-with-telegram-and-notion/
   state:
     shortLink: https://webring.page.link/LnqZ
+811c3b29977ce95649fcdd984ea4071b:bluesky:
+  spec:
+    title: '[🎙️] Recap Skoodio CEO Mfec [amiearth.com]'
+    url: https://amiearth.com/blog/recap-skoodio-ceo-mfec
+  state:
+    cid: bafyreieko75xsk3v6w2v5oubrnbttmnzvrizakyttp4macumow3x34kkju
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lj2g6vytas2h
+811c3b29977ce95649fcdd984ea4071b:facebook:
+  spec:
+    title: '[🎙️] Recap Skoodio CEO Mfec [amiearth.com]'
+    url: https://amiearth.com/blog/recap-skoodio-ceo-mfec
+  state:
+    id: '100746876247412_614901811499065'
+    url: https://www.facebook.com/100683012920950/posts/614901811499065
+811c3b29977ce95649fcdd984ea4071b:mastodon:
+  spec:
+    title: '[🎙️] Recap Skoodio CEO Mfec [amiearth.com]'
+    url: https://amiearth.com/blog/recap-skoodio-ceo-mfec
+  state:
+    id: '114068025849710763'
+    url: https://mastodon.in.th/@webring/114068025849710763
+811c3b29977ce95649fcdd984ea4071b:shorturl:
+  spec:
+    url: https://amiearth.com/blog/recap-skoodio-ceo-mfec
+  state:
+    shortLink: https://link.webring.in.th/2427
 815dfe3aef7161a279bdcc8e71b4d574:facebook:
   spec:
     title: ทำการตรวจสอบ xz (liblzma 5.6.1) บนเครื่อง Mac กันหน่อย [somkiat.cc]
