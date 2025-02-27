@@ -242,6 +242,32 @@
     url: https://www.somkiat.cc/hello-event-catalog/
   state:
     shortLink: https://link.webring.in.th/2403
+021656d6c4e02ae8870ed70b9607cd56:bluesky:
+  spec:
+    title: ใช้งาน Gemini Code Assist ใน VS Code กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-gemini-code-assist-in-vscode/
+  state:
+    cid: bafyreiaf5kzhs2zlpyhtq23qmlzfl47xpqrllimrfcbdg7jymjcz4ei6xa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lj4wpjiant2v
+021656d6c4e02ae8870ed70b9607cd56:facebook:
+  spec:
+    title: ใช้งาน Gemini Code Assist ใน VS Code กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-gemini-code-assist-in-vscode/
+  state:
+    id: '100746876247412_615629711426275'
+    url: https://www.facebook.com/100683012920950/posts/615629711426275
+021656d6c4e02ae8870ed70b9607cd56:mastodon:
+  spec:
+    title: ใช้งาน Gemini Code Assist ใน VS Code กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-gemini-code-assist-in-vscode/
+  state:
+    id: '114073691912290713'
+    url: https://mastodon.in.th/@webring/114073691912290713
+021656d6c4e02ae8870ed70b9607cd56:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-gemini-code-assist-in-vscode/
+  state:
+    shortLink: https://link.webring.in.th/2429
 02325ad94a26fd2440d867d9721575ed:facebook:
   spec:
     title: 'สรุป Session: เกมมิฟิเคชัน: ศิลปะแห่งการสร้างแรงจูงใจผ่านกลไกเกม [blog.ninprd.com]'
