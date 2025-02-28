@@ -26707,6 +26707,32 @@ ebbfff819b0ab1b8345b237c2d83b76b:shorturl:
     url: https://www.somkiat.cc/nodejs-with-sqlite/
   state:
     shortLink: https://link.webring.in.th/2031
+ec3a4076e11607e8627a80a8b706f96d:bluesky:
+  spec:
+    title: สวัสดี Claude Code [somkiat.cc]
+    url: https://www.somkiat.cc/hello-claude-code/
+  state:
+    cid: bafyreifbogexluhxo4ce5qugxmaogkcdb7mdysyusarh3flb3oeqs3kxba
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lj7r3r7lmt2u
+ec3a4076e11607e8627a80a8b706f96d:facebook:
+  spec:
+    title: สวัสดี Claude Code [somkiat.cc]
+    url: https://www.somkiat.cc/hello-claude-code/
+  state:
+    id: '100746876247412_616455944676985'
+    url: https://www.facebook.com/100683012920950/posts/616455944676985
+ec3a4076e11607e8627a80a8b706f96d:mastodon:
+  spec:
+    title: สวัสดี Claude Code [somkiat.cc]
+    url: https://www.somkiat.cc/hello-claude-code/
+  state:
+    id: '114080051664610373'
+    url: https://mastodon.in.th/@webring/114080051664610373
+ec3a4076e11607e8627a80a8b706f96d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-claude-code/
+  state:
+    shortLink: https://link.webring.in.th/2431
 ec44d854b5b0e9faf14b591878547040:facebook:
   spec:
     title: Reverse-engineering Insta360 Link Controller WebSockets protocol [dt.in.th]
