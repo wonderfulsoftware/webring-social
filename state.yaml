@@ -823,6 +823,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/01/az-305-design-data-storage-solutions/
   state:
     shortLink: https://link.webring.in.th/2328
+0847719189053bffa17c21164c449c3f:bluesky:
+  spec:
+    title: '[CR] Starbucks Cranberry Walnut Bun [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/cr-starbucks-cranberry-walnut-bun/
+  state:
+    cid: bafyreieyxzi6k4mgbdygmw45oekwjzxuarqhtrnjw4i52v7jeo726aydya
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lj7h76h7ni2v
+0847719189053bffa17c21164c449c3f:facebook:
+  spec:
+    title: '[CR] Starbucks Cranberry Walnut Bun [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/cr-starbucks-cranberry-walnut-bun/
+  state:
+    id: '100746876247412_616367371352509'
+    url: https://www.facebook.com/100683012920950/posts/616367371352509
+0847719189053bffa17c21164c449c3f:mastodon:
+  spec:
+    title: '[CR] Starbucks Cranberry Walnut Bun [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/02/cr-starbucks-cranberry-walnut-bun/
+  state:
+    id: '114079355590669873'
+    url: https://mastodon.in.th/@webring/114079355590669873
+0847719189053bffa17c21164c449c3f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/cr-starbucks-cranberry-walnut-bun/
+  state:
+    shortLink: https://link.webring.in.th/2430
 087bd8d9107899963621b8cc5e38ebc1:facebook:
   spec:
     title: บทนำสู่ปัญหาการค้นหาบนพิสัย [neizod.dev]
