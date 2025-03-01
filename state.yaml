@@ -19968,6 +19968,32 @@ aceabba6ab0d0bbf282dd172ad3a128c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/01/cr-starbucks-espresso-chocchip-brownie/
   state:
     shortLink: https://link.webring.in.th/2344
+ad3fdbfdeac4f63c48e7ace441f672fe:bluesky:
+  spec:
+    title: บันทึกงาน Season of AI – Thailand | Season 3 – Best of AI at Ignite [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/recap-season-of-ai-thailand-2025-season-3-best-of-ai-at-ignite/
+  state:
+    cid: bafyreifp3bcsbxhpmitob2z7m25jk7dsdf5yjh4uqxzixcb3yz7melw3ey
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ljbxxbxx5c2b
+ad3fdbfdeac4f63c48e7ace441f672fe:facebook:
+  spec:
+    title: บันทึกงาน Season of AI – Thailand | Season 3 – Best of AI at Ignite [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/recap-season-of-ai-thailand-2025-season-3-best-of-ai-at-ignite/
+  state:
+    id: '100746876247412_617170071272239'
+    url: https://www.facebook.com/100683012920950/posts/617170071272239
+ad3fdbfdeac4f63c48e7ace441f672fe:mastodon:
+  spec:
+    title: บันทึกงาน Season of AI – Thailand | Season 3 – Best of AI at Ignite [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/02/recap-season-of-ai-thailand-2025-season-3-best-of-ai-at-ignite/
+  state:
+    id: '114085038287202016'
+    url: https://mastodon.in.th/@webring/114085038287202016
+ad3fdbfdeac4f63c48e7ace441f672fe:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/02/recap-season-of-ai-thailand-2025-season-3-best-of-ai-at-ignite/
+  state:
+    shortLink: https://link.webring.in.th/2432
 ad462677b20e6bf4d4e61ce98621304f:facebook:
   spec:
     title: '[MS Cert] บันทึกการสอบ AI-102 [debuggingsoft.com]'
