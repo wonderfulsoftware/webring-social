@@ -522,6 +522,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/06/fixed-bluetooth-to-3-5-jack-auto-close-when-change-new-track/
   state:
     shortLink: https://link.webring.in.th/1969
+0569740dcfa2c55a7325299fc2724121:bluesky:
+  spec:
+    title: ลองใช้ Bigtable Server Stream ร่วมกับ Spring WebFlux พร้อมทำความเข้าใจ Backpressure ใน Project Reactor [kusumotolab.com]
+    url: https://kusumotolab.com/trying-bigtable-server-stream-with-spring-webflux-and-understanding-backpressure-in-project-reactor/
+  state:
+    cid: bafyreibgs7hgytdrpltpbenazh2n3faik53kzeffbthfugzc3uvzlibmpm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ljei7ijjad2m
+0569740dcfa2c55a7325299fc2724121:facebook:
+  spec:
+    title: ลองใช้ Bigtable Server Stream ร่วมกับ Spring WebFlux พร้อมทำความเข้าใจ Backpressure ใน Project Reactor [kusumotolab.com]
+    url: https://kusumotolab.com/trying-bigtable-server-stream-with-spring-webflux-and-understanding-backpressure-in-project-reactor/
+  state:
+    id: '100746876247412_617942524528327'
+    url: https://www.facebook.com/100683012920950/posts/617942524528327
+0569740dcfa2c55a7325299fc2724121:mastodon:
+  spec:
+    title: ลองใช้ Bigtable Server Stream ร่วมกับ Spring WebFlux พร้อมทำความเข้าใจ Backpressure ใน Project Reactor [kusumotolab.com]
+    url: https://kusumotolab.com/trying-bigtable-server-stream-with-spring-webflux-and-understanding-backpressure-in-project-reactor/
+  state:
+    id: '114090685830137044'
+    url: https://mastodon.in.th/@webring/114090685830137044
+0569740dcfa2c55a7325299fc2724121:shorturl:
+  spec:
+    url: https://kusumotolab.com/trying-bigtable-server-stream-with-spring-webflux-and-understanding-backpressure-in-project-reactor/
+  state:
+    shortLink: https://link.webring.in.th/2433
 0576408eb09892f488fc4852bc5e304f:bluesky:
   spec:
     title: '[AZ-305] Design business continuity solutions [debuggingsoft.com]'
