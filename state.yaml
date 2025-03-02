@@ -28778,6 +28778,32 @@ ff1a08452a4f002b3d483fa32639fb1d:shorturl:
     url: https://www.somkiat.cc/stack-overflow-with-ai/
   state:
     shortLink: https://webring.page.link/5Bce
+ff38fcbf2ad709c2081f9c009ae7f3ac:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Essential Statistics #1 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-part1/
+  state:
+    cid: bafyreifdgz2nqtirfxzdc7ntoytu2trpip6hp6ddgt7hykcguvxiydnm3m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ljery7bvyd2y
+ff38fcbf2ad709c2081f9c009ae7f3ac:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Essential Statistics #1 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-part1/
+  state:
+    id: '100746876247412_618030974519482'
+    url: https://www.facebook.com/100683012920950/posts/618030974519482
+ff38fcbf2ad709c2081f9c009ae7f3ac:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Essential Statistics #1 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-part1/
+  state:
+    id: '114091373447991115'
+    url: https://mastodon.in.th/@webring/114091373447991115
+ff38fcbf2ad709c2081f9c009ae7f3ac:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-part1/
+  state:
+    shortLink: https://link.webring.in.th/2434
 ffb217f929252a5de06781b9ee360de3:facebook:
   spec:
     title: How to Parse JSON in command line [debuggingsoft.com]
