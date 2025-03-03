@@ -22341,6 +22341,32 @@ c276846281c0172f02adfb254f8ea128:shorturl:
     url: https://jitrak.dev/posts/post-15-jam-dev/
   state:
     shortLink: https://webring.page.link/Qr4G
+c28f98c41961bc39cf20556e68be96a4:bluesky:
+  spec:
+    title: 'Bun v1.2.4 :: สนับสนุน Static site แล้ว [somkiat.cc]'
+    url: https://www.somkiat.cc/bun-with-static-file/
+  state:
+    cid: bafyreibl4mqhfb7wkjdvwfxagwsqj4rhyo3bxufitqqsph3dvxomjfbb7i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ljhmf5t4cf22
+c28f98c41961bc39cf20556e68be96a4:facebook:
+  spec:
+    title: 'Bun v1.2.4 :: สนับสนุน Static site แล้ว [somkiat.cc]'
+    url: https://www.somkiat.cc/bun-with-static-file/
+  state:
+    id: '100746876247412_618885667767346'
+    url: https://www.facebook.com/100683012920950/posts/618885667767346
+c28f98c41961bc39cf20556e68be96a4:mastodon:
+  spec:
+    title: 'Bun v1.2.4 :: สนับสนุน Static site แล้ว [somkiat.cc]'
+    url: https://www.somkiat.cc/bun-with-static-file/
+  state:
+    id: '114097735196187876'
+    url: https://mastodon.in.th/@webring/114097735196187876
+c28f98c41961bc39cf20556e68be96a4:shorturl:
+  spec:
+    url: https://www.somkiat.cc/bun-with-static-file/
+  state:
+    shortLink: https://link.webring.in.th/2437
 c2ad1ad58c9a64d1c5560e69134845fa:facebook:
   spec:
     title: มาลองใช้งาน Docker Build Check [somkiat.cc]
