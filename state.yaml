@@ -19994,6 +19994,32 @@ aceabba6ab0d0bbf282dd172ad3a128c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/01/cr-starbucks-espresso-chocchip-brownie/
   state:
     shortLink: https://link.webring.in.th/2344
+ad301b5ad8c5c122c808f43385b653bd:bluesky:
+  spec:
+    title: Migrate from Docker Desktop to Podman on Darwin [karnwong.me]
+    url: https://karnwong.me/posts/2025/03/migrate-from-docker-desktop-to-podman-on-darwin/
+  state:
+    cid: bafyreiczhx7gzkgozaz3tolujo6waryewiv73f7wt4oaaif7h6hfrvdyxm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ljgyphl53m2e
+ad301b5ad8c5c122c808f43385b653bd:facebook:
+  spec:
+    title: Migrate from Docker Desktop to Podman on Darwin [karnwong.me]
+    url: https://karnwong.me/posts/2025/03/migrate-from-docker-desktop-to-podman-on-darwin/
+  state:
+    id: '100746876247412_618717954450784'
+    url: https://www.facebook.com/100683012920950/posts/618717954450784
+ad301b5ad8c5c122c808f43385b653bd:mastodon:
+  spec:
+    title: Migrate from Docker Desktop to Podman on Darwin [karnwong.me]
+    url: https://karnwong.me/posts/2025/03/migrate-from-docker-desktop-to-podman-on-darwin/
+  state:
+    id: '114096350412075934'
+    url: https://mastodon.in.th/@webring/114096350412075934
+ad301b5ad8c5c122c808f43385b653bd:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/03/migrate-from-docker-desktop-to-podman-on-darwin/
+  state:
+    shortLink: https://link.webring.in.th/2435
 ad3fdbfdeac4f63c48e7ace441f672fe:bluesky:
   spec:
     title: บันทึกงาน Season of AI – Thailand | Season 3 – Best of AI at Ignite [debuggingsoft.com]
