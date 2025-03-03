@@ -306,6 +306,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/10/the-reason-to-check-gitmodules-git-link/
   state:
     shortLink: https://link.webring.in.th/2165
+0276f048c2f4f54703c91cfddd1637d2:bluesky:
+  spec:
+    title: Google กราฟภาพรวมตลาดหุ้นโลก [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/global-market-overview
+  state:
+    cid: bafyreiadbonq6hicx5vb4mmsff72xirc65drug7vfzotpv227pexmtglga
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ljhckpgsm42y
+0276f048c2f4f54703c91cfddd1637d2:facebook:
+  spec:
+    title: Google กราฟภาพรวมตลาดหุ้นโลก [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/global-market-overview
+  state:
+    id: '100746876247412_618804164442163'
+    url: https://www.facebook.com/100683012920950/posts/618804164442163
+0276f048c2f4f54703c91cfddd1637d2:mastodon:
+  spec:
+    title: Google กราฟภาพรวมตลาดหุ้นโลก [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/global-market-overview
+  state:
+    id: '114097043771225176'
+    url: https://mastodon.in.th/@webring/114097043771225176
+0276f048c2f4f54703c91cfddd1637d2:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/global-market-overview
+  state:
+    shortLink: https://link.webring.in.th/2436
 02ef79f7ec3875576229c74b5debddeb:bluesky:
   spec:
     title: สามารถใช้งาน GitHub Copilot for VS Code ได้แบบฟรี แต่มี limit นะ [somkiat.cc]
