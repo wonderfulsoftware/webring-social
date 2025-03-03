@@ -18834,6 +18834,32 @@ a388b0aa435bd28a2d2931657541ea23:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/11/cr-starbucks-homsuwan-pineapple-cold-brew/
   state:
     shortLink: https://link.webring.in.th/2235
+a3ebac893dc428aed8491a0d811531a5:bluesky:
+  spec:
+    title: LLM [llun.me]
+    url: https://www.llun.me/posts/2025-03-02-llm
+  state:
+    cid: bafyreie7wxtfzwckfk2yihpk5hxtdekoz355f7akc3k7duggy56n7ey76q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ljhwyq7gxl2i
+a3ebac893dc428aed8491a0d811531a5:facebook:
+  spec:
+    title: LLM [llun.me]
+    url: https://www.llun.me/posts/2025-03-02-llm
+  state:
+    id: '100746876247412_618984784424101'
+    url: https://www.facebook.com/100683012920950/posts/618984784424101
+a3ebac893dc428aed8491a0d811531a5:mastodon:
+  spec:
+    title: LLM [llun.me]
+    url: https://www.llun.me/posts/2025-03-02-llm
+  state:
+    id: '114098481974114712'
+    url: https://mastodon.in.th/@webring/114098481974114712
+a3ebac893dc428aed8491a0d811531a5:shorturl:
+  spec:
+    url: https://www.llun.me/posts/2025-03-02-llm
+  state:
+    shortLink: https://link.webring.in.th/2438
 a4031221ddd4f040891463067c4b004e:facebook:
   spec:
     title: Robot Framework 6.1 rc 1 ออกมาแล้ว [somkiat.cc]
