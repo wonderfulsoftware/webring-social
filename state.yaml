@@ -27432,6 +27432,32 @@ eff57d26016ee16aca4a485bb694ef5b:shorturl:
     url: https://pontakorn.dev/posts/type-hint-in-python/
   state:
     shortLink: https://link.webring.in.th/2107
+f034ba0e2c9e8e8a763fb86bf36b431d:bluesky:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง การเขียน test [somkiat.cc]
+    url: https://www.somkiat.cc/developer-must-write-test/
+  state:
+    cid: bafyreiaawnyzvgcrjjdhnxsww5kubnpj4gctgxyyzp6g2ujdpfb3ohckty
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ljk4rwopiz26
+f034ba0e2c9e8e8a763fb86bf36b431d:facebook:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง การเขียน test [somkiat.cc]
+    url: https://www.somkiat.cc/developer-must-write-test/
+  state:
+    id: '100746876247412_619630114359568'
+    url: https://www.facebook.com/100683012920950/posts/619630114359568
+f034ba0e2c9e8e8a763fb86bf36b431d:mastodon:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง การเขียน test [somkiat.cc]
+    url: https://www.somkiat.cc/developer-must-write-test/
+  state:
+    id: '114103392599538077'
+    url: https://mastodon.in.th/@webring/114103392599538077
+f034ba0e2c9e8e8a763fb86bf36b431d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/developer-must-write-test/
+  state:
+    shortLink: https://link.webring.in.th/2441
 f04ab2c55ae499df3dd8c21ad0de623c:facebook:
   spec:
     title: '[CR] MOM’S TOUCH @ICS [debuggingsoft.com]'
