@@ -10954,6 +10954,32 @@
     url: https://janescience.com/blog/android-trigger-notification
   state:
     shortLink: https://webring.page.link/Qyvz
+60daf44597dd51f2762c67ea70486f29:bluesky:
+  spec:
+    title: '[ชวนอ่าน] Laws of UX: ออกแบบ Digital Products ที่ผู้ใช้หลงรักด้วยหลักจิตวิทยา [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/laws-of-ux
+  state:
+    cid: bafyreiagyewfaqtjquj6lfgbkoh7qj24etxuwlwqslpxqrv6ns4ooqsd44
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ljjj5utf2y2i
+60daf44597dd51f2762c67ea70486f29:facebook:
+  spec:
+    title: '[ชวนอ่าน] Laws of UX: ออกแบบ Digital Products ที่ผู้ใช้หลงรักด้วยหลักจิตวิทยา [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/laws-of-ux
+  state:
+    id: '100746876247412_619453507710562'
+    url: https://www.facebook.com/100683012920950/posts/619453507710562
+60daf44597dd51f2762c67ea70486f29:mastodon:
+  spec:
+    title: '[ชวนอ่าน] Laws of UX: ออกแบบ Digital Products ที่ผู้ใช้หลงรักด้วยหลักจิตวิทยา [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/laws-of-ux
+  state:
+    id: '114102011763634158'
+    url: https://mastodon.in.th/@webring/114102011763634158
+60daf44597dd51f2762c67ea70486f29:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/laws-of-ux
+  state:
+    shortLink: https://link.webring.in.th/2439
 60dfa091da618f8fc65b01b783020ffd:bluesky:
   spec:
     title: ชีวิตที่ผูกพันกับ STEINS;GATE [blog.nattp.page]
