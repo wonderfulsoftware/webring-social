@@ -21859,6 +21859,32 @@ bdf3229b37cc00c3fd658f7c5a165898:shorturl:
     url: https://notes.dt.in.th/ElysiaDeno
   state:
     shortLink: https://link.webring.in.th/2182
+be1b29234f2ddd796db0a7b3e85a8aa2:bluesky:
+  spec:
+    title: '[CR] Starbucks Strawberry Apple juice [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/cr-starbucks-strawberry-apple-juice/
+  state:
+    cid: bafyreibr2zxm27o4pm2xaskezft4tfen2wx2vgbr5e4kgtuxn3s2occdxm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ljjsxpzygg22
+be1b29234f2ddd796db0a7b3e85a8aa2:facebook:
+  spec:
+    title: '[CR] Starbucks Strawberry Apple juice [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/cr-starbucks-strawberry-apple-juice/
+  state:
+    id: '100746876247412_619544527701460'
+    url: https://www.facebook.com/100683012920950/posts/619544527701460
+be1b29234f2ddd796db0a7b3e85a8aa2:mastodon:
+  spec:
+    title: '[CR] Starbucks Strawberry Apple juice [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/cr-starbucks-strawberry-apple-juice/
+  state:
+    id: '114102701300702529'
+    url: https://mastodon.in.th/@webring/114102701300702529
+be1b29234f2ddd796db0a7b3e85a8aa2:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/03/cr-starbucks-strawberry-apple-juice/
+  state:
+    shortLink: https://link.webring.in.th/2440
 be2b33b89d431bd5e1e812fe57db465d:bluesky:
   spec:
     title: สรุปคลาส Web For Impact ของแอดทอย DataRockie [blog.ninprd.com]
