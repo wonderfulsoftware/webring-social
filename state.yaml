@@ -14608,6 +14608,32 @@
     url: https://notes.dt.in.th/LinuxZram
   state:
     shortLink: https://link.webring.in.th/2419
+7de31f88eefc7fb11358df009b890d9f:bluesky:
+  spec:
+    title: 'ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP5 : วันที่ 4 [kusumotolab.com]'
+    url: https://kusumotolab.com/first-time-singapore-trip-ep-5/
+  state:
+    cid: bafyreibxppj7ddymddecyku7izrwrp3ufoczhyfhm6tkv3vsa4ua3a2euq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ljkhgunt352h
+7de31f88eefc7fb11358df009b890d9f:facebook:
+  spec:
+    title: 'ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP5 : วันที่ 4 [kusumotolab.com]'
+    url: https://kusumotolab.com/first-time-singapore-trip-ep-5/
+  state:
+    id: '100746876247412_619732434349336'
+    url: https://www.facebook.com/100683012920950/posts/619732434349336
+7de31f88eefc7fb11358df009b890d9f:mastodon:
+  spec:
+    title: 'ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP5 : วันที่ 4 [kusumotolab.com]'
+    url: https://kusumotolab.com/first-time-singapore-trip-ep-5/
+  state:
+    id: '114104142510076051'
+    url: https://mastodon.in.th/@webring/114104142510076051
+7de31f88eefc7fb11358df009b890d9f:shorturl:
+  spec:
+    url: https://kusumotolab.com/first-time-singapore-trip-ep-5/
+  state:
+    shortLink: https://link.webring.in.th/2442
 7dfb10f317ef92fba30c628cbebbf8d3:facebook:
   spec:
     title: การเปลี่ยนแปลงของ Chrome Driver สำหรับ Google Chrome 115 ขึ้นไป [somkiat.cc]
