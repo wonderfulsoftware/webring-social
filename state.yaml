@@ -22594,21 +22594,21 @@ c398c50193817b68dc475a64923a4c0d:shorturl:
     shortLink: https://webring.page.link/PNAf
 c3b20b871614a32e6d3736c43b37ee9f:bluesky:
   spec:
-    title: เอา Secret ที่ลืมไว้ใน Comment ออกจาก Code ด้วย BFG Repo-Cleaner [debuggingsoft.com]
+    title: เอา Secret ที่ลืมไว้ออกจาก Code ด้วย BFG Repo-Cleaner [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2025/03/remove-secret-in-your-code-with-bfg-repo-cleaner/
   state:
     cid: bafyreihoopnyzt2oadbbp4cpe62yl3gcvhffuwmndus37svfhbmwztdns4
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ljlzl5bexc2n
 c3b20b871614a32e6d3736c43b37ee9f:facebook:
   spec:
-    title: เอา Secret ที่ลืมไว้ใน Comment ออกจาก Code ด้วย BFG Repo-Cleaner [debuggingsoft.com]
+    title: เอา Secret ที่ลืมไว้ออกจาก Code ด้วย BFG Repo-Cleaner [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2025/03/remove-secret-in-your-code-with-bfg-repo-cleaner/
   state:
     id: '100746876247412_620207524301827'
     url: https://www.facebook.com/100683012920950/posts/620207524301827
 c3b20b871614a32e6d3736c43b37ee9f:mastodon:
   spec:
-    title: เอา Secret ที่ลืมไว้ใน Comment ออกจาก Code ด้วย BFG Repo-Cleaner [debuggingsoft.com]
+    title: เอา Secret ที่ลืมไว้ออกจาก Code ด้วย BFG Repo-Cleaner [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2025/03/remove-secret-in-your-code-with-bfg-repo-cleaner/
   state:
     id: '114107670216088923'
