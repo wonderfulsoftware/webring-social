@@ -626,6 +626,32 @@
     url: https://mymoneytoolkit.app/posts/recover-loss
   state:
     shortLink: https://link.webring.in.th/2410
+05c9b96c341a37c99fd77671ce9998cc:bluesky:
+  spec:
+    title: 5 วิธี ดูแล Server Discord ยังไง? ให้ปลอดภัยขั้นต้น! [mikkipastel.com]
+    url: https://www.mikkipastel.com/5-ways-to-secure-your-discord-server-for-beginner-step/
+  state:
+    cid: bafyreibusn4sihu4orcbymymxydqi5nxovwjso3ldip7rpn7mcakxfv6pi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ljtkh5ula42l
+05c9b96c341a37c99fd77671ce9998cc:facebook:
+  spec:
+    title: 5 วิธี ดูแล Server Discord ยังไง? ให้ปลอดภัยขั้นต้น! [mikkipastel.com]
+    url: https://www.mikkipastel.com/5-ways-to-secure-your-discord-server-for-beginner-step/
+  state:
+    id: '100746876247412_622432780745968'
+    url: https://www.facebook.com/100683012920950/posts/622432780745968
+05c9b96c341a37c99fd77671ce9998cc:mastodon:
+  spec:
+    title: 5 วิธี ดูแล Server Discord ยังไง? ให้ปลอดภัยขั้นต้น! [mikkipastel.com]
+    url: https://www.mikkipastel.com/5-ways-to-secure-your-discord-server-for-beginner-step/
+  state:
+    id: '114124620390824235'
+    url: https://mastodon.in.th/@webring/114124620390824235
+05c9b96c341a37c99fd77671ce9998cc:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/5-ways-to-secure-your-discord-server-for-beginner-step/
+  state:
+    shortLink: https://link.webring.in.th/2444
 05dbab9861905160ded138aaaca18ab2:bluesky:
   spec:
     title: บันทึกการติดต่อ Memcached server ผ่าน terminal [somkiat.cc]
