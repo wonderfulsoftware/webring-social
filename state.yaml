@@ -14283,6 +14283,32 @@
     url: https://www.mikkipastel.com/icreator-camp-2024-week1-storytelling-and-creativity/
   state:
     shortLink: https://link.webring.in.th/1935
+7b8d33c0571f46d74d6898f8bbc8e80c:bluesky:
+  spec:
+    title: 'Back to Basic: Fundamental Data Structure in C# [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/back-to-basic-fundamental-data-structure-in-c-thai-version/
+  state:
+    cid: bafyreicv4cq5zubdpschdsjqlhp6ey5kesch255wg4benurvfj6fok3tzm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ljw2wh6l6o2t
+7b8d33c0571f46d74d6898f8bbc8e80c:facebook:
+  spec:
+    title: 'Back to Basic: Fundamental Data Structure in C# [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/back-to-basic-fundamental-data-structure-in-c-thai-version/
+  state:
+    id: '100746876247412_623207710668475'
+    url: https://www.facebook.com/100683012920950/posts/623207710668475
+7b8d33c0571f46d74d6898f8bbc8e80c:mastodon:
+  spec:
+    title: 'Back to Basic: Fundamental Data Structure in C# [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/back-to-basic-fundamental-data-structure-in-c-thai-version/
+  state:
+    id: '114130283404060760'
+    url: https://mastodon.in.th/@webring/114130283404060760
+7b8d33c0571f46d74d6898f8bbc8e80c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/03/back-to-basic-fundamental-data-structure-in-c-thai-version/
+  state:
+    shortLink: https://link.webring.in.th/2445
 7bb18aa7ed2c6a1d04da073c21876c6b:facebook:
   spec:
     title: 'Spring Boot 3.4 :: MockBean และ SpyBean ถูก deprecated แล้วนะ เปลี่ยนได้แล้ว [somkiat.cc]'
