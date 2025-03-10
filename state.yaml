@@ -14942,6 +14942,32 @@
     url: https://kusumotolab.com/first-time-singapore-trip-ep-3/
   state:
     shortLink: https://link.webring.in.th/2212
+7f81b6b625a7f68cf49fce7417655f78:bluesky:
+  spec:
+    title: Illustration - サブリナ🍕 [lucian.solutions]
+    url: https://lucian.solutions/blog/202503-sabrina
+  state:
+    cid: bafyreibqez2h6odhy3uk2y7bmaar3b4o5h2jrzhg2p5tp74erhr73f5rpm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ljylgxx2gf2l
+7f81b6b625a7f68cf49fce7417655f78:facebook:
+  spec:
+    title: Illustration - サブリナ🍕 [lucian.solutions]
+    url: https://lucian.solutions/blog/202503-sabrina
+  state:
+    id: '100746876247412_623964317259481'
+    url: https://www.facebook.com/100683012920950/posts/623964317259481
+7f81b6b625a7f68cf49fce7417655f78:mastodon:
+  spec:
+    title: Illustration - サブリナ🍕 [lucian.solutions]
+    url: https://lucian.solutions/blog/202503-sabrina
+  state:
+    id: '114135949090958346'
+    url: https://mastodon.in.th/@webring/114135949090958346
+7f81b6b625a7f68cf49fce7417655f78:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202503-sabrina
+  state:
+    shortLink: https://link.webring.in.th/2446
 7fee71deec17169280f6837f28ac7a60:facebook:
   spec:
     title: RubyConf TH 2023 [garden.narze.live]
