@@ -6747,6 +6747,32 @@
     url: https://mymoneytoolkit.app/posts/loan-haanbaan
   state:
     shortLink: https://link.webring.in.th/2194
+3b9e3fc5fa6160ceb9e02c09653fe7ec:bluesky:
+  spec:
+    title: จดๆจากงาน .NET Developer Day 2025 – Bangkok @ Agoda [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/03/recap-dotnet-developer-day-2025-bangkok-at-agoda-ctw/
+  state:
+    cid: bafyreiczwkemhjowc36blncudxzumysue6z7tbf7dwz4bl4bklo7coi3uq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lk3gazaxuj2e
+3b9e3fc5fa6160ceb9e02c09653fe7ec:facebook:
+  spec:
+    title: จดๆจากงาน .NET Developer Day 2025 – Bangkok @ Agoda [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/03/recap-dotnet-developer-day-2025-bangkok-at-agoda-ctw/
+  state:
+    id: '100746876247412_624789207176992'
+    url: https://www.facebook.com/100683012920950/posts/624789207176992
+3b9e3fc5fa6160ceb9e02c09653fe7ec:mastodon:
+  spec:
+    title: จดๆจากงาน .NET Developer Day 2025 – Bangkok @ Agoda [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/03/recap-dotnet-developer-day-2025-bangkok-at-agoda-ctw/
+  state:
+    id: '114142339657558262'
+    url: https://mastodon.in.th/@webring/114142339657558262
+3b9e3fc5fa6160ceb9e02c09653fe7ec:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/03/recap-dotnet-developer-day-2025-bangkok-at-agoda-ctw/
+  state:
+    shortLink: https://link.webring.in.th/2448
 3bca1870f0abf82694deca34c8a5a625:bluesky:
   spec:
     title: 2024 – My Year in Tea (Home Cafe) [zartre.com]
