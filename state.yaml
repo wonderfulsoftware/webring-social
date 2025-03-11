@@ -10026,6 +10026,32 @@
     url: https://www.somkiat.cc/noise-is-problem-for-productivity/
   state:
     shortLink: https://webring.page.link/mymH
+5a5fda4fb0cb71c24a3bc13ccc799868:bluesky:
+  spec:
+    title: WASM deployment benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2025/03/wasm-deployment-benchmark/
+  state:
+    cid: bafyreie2b5gkejbz5xmgwymmdgvce4c3at3i7j5igyv6uiujhazwjd2dlq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lk34igsboy2a
+5a5fda4fb0cb71c24a3bc13ccc799868:facebook:
+  spec:
+    title: WASM deployment benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2025/03/wasm-deployment-benchmark/
+  state:
+    id: '100746876247412_624708467185066'
+    url: https://www.facebook.com/100683012920950/posts/624708467185066
+5a5fda4fb0cb71c24a3bc13ccc799868:mastodon:
+  spec:
+    title: WASM deployment benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2025/03/wasm-deployment-benchmark/
+  state:
+    id: '114141652043502010'
+    url: https://mastodon.in.th/@webring/114141652043502010
+5a5fda4fb0cb71c24a3bc13ccc799868:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/03/wasm-deployment-benchmark/
+  state:
+    shortLink: https://link.webring.in.th/2447
 5ab590d9b1bdad1dd4d601a1acb06ec7:facebook:
   spec:
     title: ทำความรู้จัก .pipe() ใน Node.js [kajame.xyz]
