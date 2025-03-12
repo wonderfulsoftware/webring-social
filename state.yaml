@@ -6721,6 +6721,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/03/kbtg-go02-software-design/
   state:
     shortLink: https://link.webring.in.th/1828
+3b438b2f40002d845c8cca96d36f3ca3:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Essential Statistics #2 (Confidence Intervals) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-part2/
+  state:
+    cid: bafyreihua65ctj4wa3gdtitg5ho7pqodqmzno2kppi2n3l3ui2fb77ozfi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lk5mulqj7i2d
+3b438b2f40002d845c8cca96d36f3ca3:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Essential Statistics #2 (Confidence Intervals) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-part2/
+  state:
+    id: '100746876247412_625431350446111'
+    url: https://www.facebook.com/100683012920950/posts/625431350446111
+3b438b2f40002d845c8cca96d36f3ca3:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Essential Statistics #2 (Confidence Intervals) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-part2/
+  state:
+    id: '114147308689740073'
+    url: https://mastodon.in.th/@webring/114147308689740073
+3b438b2f40002d845c8cca96d36f3ca3:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-part2/
+  state:
+    shortLink: https://link.webring.in.th/2449
 3b94626ce1218eb71b57c5381b742ee9:bluesky:
   spec:
     title: คำนวณเงินผ่อน กู้บ้าน/กู้ร่วม [mymoneytoolkit.app]
