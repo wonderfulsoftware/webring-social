@@ -26126,6 +26126,32 @@ e2944e3a3f88bdf68e8002dfa0390708:shorturl:
     url: https://www.somkiat.cc/solution-to-generate-unique-id/
   state:
     shortLink: https://webring.page.link/bjeN
+e2959b2051bc71c9f4ba841ffdc09036:bluesky:
+  spec:
+    title: ทำความรู้จักกับ Lynx [somkiat.cc]
+    url: https://www.somkiat.cc/hello-lynx/
+  state:
+    cid: bafyreihu32creqktmxeqrgyjv76276r7o6zuw4vwglas3exywf5jbrbgf4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lk5wpp2acw2e
+e2959b2051bc71c9f4ba841ffdc09036:facebook:
+  spec:
+    title: ทำความรู้จักกับ Lynx [somkiat.cc]
+    url: https://www.somkiat.cc/hello-lynx/
+  state:
+    id: '100746876247412_625516600437586'
+    url: https://www.facebook.com/100683012920950/posts/625516600437586
+e2959b2051bc71c9f4ba841ffdc09036:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Lynx [somkiat.cc]
+    url: https://www.somkiat.cc/hello-lynx/
+  state:
+    id: '114148001766524412'
+    url: https://mastodon.in.th/@webring/114148001766524412
+e2959b2051bc71c9f4ba841ffdc09036:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-lynx/
+  state:
+    shortLink: https://link.webring.in.th/2450
 e29c6f2358bde3729584684d4e296a57:facebook:
   spec:
     title: Art Trade - Papang_uvu [lucian.solutions]
