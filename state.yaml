@@ -16918,6 +16918,32 @@
     url: https://lucian.solutions/blog/lucia-spring-2023
   state:
     shortLink: https://webring.page.link/tz4g
+8f05e2f43f610eb753fdb69b0734294a:bluesky:
+  spec:
+    title: ไม่ได้เขียนอะไรเลย 555 [p4perf4ce.me]
+    url: https://p4perf4ce.me/articles/25/well-no
+  state:
+    cid: bafyreidfp2zteo27walfydcd6polykiwo6rbiweoec4aa4gs7hpqrzmroi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lka5htadp523
+8f05e2f43f610eb753fdb69b0734294a:facebook:
+  spec:
+    title: ไม่ได้เขียนอะไรเลย 555 [p4perf4ce.me]
+    url: https://p4perf4ce.me/articles/25/well-no
+  state:
+    id: '100746876247412_626186770370569'
+    url: https://www.facebook.com/100683012920950/posts/626186770370569
+8f05e2f43f610eb753fdb69b0734294a:mastodon:
+  spec:
+    title: ไม่ได้เขียนอะไรเลย 555 [p4perf4ce.me]
+    url: https://p4perf4ce.me/articles/25/well-no
+  state:
+    id: '114152980479501529'
+    url: https://mastodon.in.th/@webring/114152980479501529
+8f05e2f43f610eb753fdb69b0734294a:shorturl:
+  spec:
+    url: https://p4perf4ce.me/articles/25/well-no
+  state:
+    shortLink: https://link.webring.in.th/2451
 8f89bdd71a62a90d8569da41343b6204:facebook:
   spec:
     title: มาลองใช้งาน Docker Build Cloud กัน [somkiat.cc]
