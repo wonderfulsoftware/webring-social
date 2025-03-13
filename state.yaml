@@ -21134,6 +21134,32 @@ b34787d3cfdba4d28577f3f1097ab7ee:shorturl:
     url: https://neizod.dev/2024/03/09/fun-with-induction-dividing-space.html
   state:
     shortLink: https://link.webring.in.th/1827
+b3a4d56c4c07e5726a18aaeae3385b79:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Google Looker Studio [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-google-looker-studio/
+  state:
+    cid: bafyreidejw5n3mwy4y3x5r6474n6sren6aeqixvd5kz2ugisgfdwpv7mae
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lkah6j6lrf2x
+b3a4d56c4c07e5726a18aaeae3385b79:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Google Looker Studio [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-google-looker-studio/
+  state:
+    id: '100746876247412_626271907028722'
+    url: https://www.facebook.com/100683012920950/posts/626271907028722
+b3a4d56c4c07e5726a18aaeae3385b79:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Google Looker Studio [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-google-looker-studio/
+  state:
+    id: '114153663511148388'
+    url: https://mastodon.in.th/@webring/114153663511148388
+b3a4d56c4c07e5726a18aaeae3385b79:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-google-looker-studio/
+  state:
+    shortLink: https://link.webring.in.th/2452
 b3ad99782528233907157668d22ef80c:facebook:
   spec:
     title: จดๆ จาก Software Architecture Meetup 2024#01 [debuggingsoft.com]
