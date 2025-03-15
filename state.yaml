@@ -9945,6 +9945,32 @@
     url: https://wawasabii.com/blog/thailand-lottery-statistic-30-years/
   state:
     shortLink: https://link.webring.in.th/1891
+58ce427791b3755e5b5b07d1a84a4d0d:bluesky:
+  spec:
+    title: การใช้งาน Data structure ใน Redis [somkiat.cc]
+    url: https://www.somkiat.cc/data-structure-with-redis/
+  state:
+    cid: bafyreiccjf7m2i7pmuvnmxipcx63flwbwclieaugdsjoa66a6fbgaofk7q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lkf66bmljv22
+58ce427791b3755e5b5b07d1a84a4d0d:facebook:
+  spec:
+    title: การใช้งาน Data structure ใน Redis [somkiat.cc]
+    url: https://www.somkiat.cc/data-structure-with-redis/
+  state:
+    id: '100746876247412_627734510215795'
+    url: https://www.facebook.com/100683012920950/posts/627734510215795
+58ce427791b3755e5b5b07d1a84a4d0d:mastodon:
+  spec:
+    title: การใช้งาน Data structure ใน Redis [somkiat.cc]
+    url: https://www.somkiat.cc/data-structure-with-redis/
+  state:
+    id: '114164288753433108'
+    url: https://mastodon.in.th/@webring/114164288753433108
+58ce427791b3755e5b5b07d1a84a4d0d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/data-structure-with-redis/
+  state:
+    shortLink: https://link.webring.in.th/2453
 58da595f6982e087ec7c39d706d4f7fc:facebook:
   spec:
     title: 'AZ-104: Monitor and back up Azure resources [debuggingsoft.com]'
