@@ -9058,6 +9058,18 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/global-ai-bootcamp-thailand-2023/
   state:
     shortLink: https://webring.page.link/jxX2
+4fb690a63e3b2308d25a12f22a8303cf:bluesky:
+  spec:
+    title: Google Sheet จำลองการเทรด ดูมูลค่าระหว่างการถือหุ้นย้อนหลัง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/paper-trading
+  state:
+    cid: bafyreigdjk7xz5vbqjifw2avz2x7gzcizdrjf2vgohtpbi5tjyhg36j5ti
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lkhoynpo7y2y
+4fb690a63e3b2308d25a12f22a8303cf:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/paper-trading
+  state:
+    shortLink: https://link.webring.in.th/2455
 4fc1460f693c9d448679f58ac9170ff3:bluesky:
   spec:
     title: Setting up WARP for Cloudflare Access [zartre.com]
@@ -10410,6 +10422,25 @@
     url: https://yuttakhanb.dev/posts/screenplay-serenity/
   state:
     shortLink: https://link.webring.in.th/1742
+5c6e58c366e8c90fef525a19d471df76:facebook:
+  spec:
+    title: 'micro-dollar: a way to deals with decimal or monetary values [heyfirst.co]'
+    url: https://heyfirst.co/posts/micro-dollar/
+  state:
+    id: '100746876247412_628503770138869'
+    url: https://www.facebook.com/100683012920950/posts/628503770138869
+5c6e58c366e8c90fef525a19d471df76:mastodon:
+  spec:
+    title: 'micro-dollar: a way to deals with decimal or monetary values [heyfirst.co]'
+    url: https://heyfirst.co/posts/micro-dollar/
+  state:
+    id: '114169976431511547'
+    url: https://mastodon.in.th/@webring/114169976431511547
+5c6e58c366e8c90fef525a19d471df76:shorturl:
+  spec:
+    url: https://heyfirst.co/posts/micro-dollar/
+  state:
+    shortLink: https://link.webring.in.th/2454
 5c7df9479fe6e730c37ccf6ad9c6b541:facebook:
   spec:
     title: 'นิลเล่า: WordPress Basic III [blog.ninprd.com]'
