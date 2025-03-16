@@ -9065,6 +9065,20 @@
   state:
     cid: bafyreigdjk7xz5vbqjifw2avz2x7gzcizdrjf2vgohtpbi5tjyhg36j5ti
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lkhoynpo7y2y
+4fb690a63e3b2308d25a12f22a8303cf:facebook:
+  spec:
+    title: Google Sheet จำลองการเทรด ดูมูลค่าระหว่างการถือหุ้นย้อนหลัง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/paper-trading
+  state:
+    id: '100746876247412_628600680129178'
+    url: https://www.facebook.com/100683012920950/posts/628600680129178
+4fb690a63e3b2308d25a12f22a8303cf:mastodon:
+  spec:
+    title: Google Sheet จำลองการเทรด ดูมูลค่าระหว่างการถือหุ้นย้อนหลัง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/paper-trading
+  state:
+    id: '114170642442339024'
+    url: https://mastodon.in.th/@webring/114170642442339024
 4fb690a63e3b2308d25a12f22a8303cf:shorturl:
   spec:
     url: https://mymoneytoolkit.app/posts/paper-trading
@@ -23493,6 +23507,18 @@ c968d875dae5e9d9afb80e13bae7b6b1:shorturl:
     url: https://www.somkiat.cc/hello-garnet-to-replace-redis/
   state:
     shortLink: https://link.webring.in.th/1845
+c982cdb1e4081c6e53d428750d5cb33c:bluesky:
+  spec:
+    title: ปัญหาที่ควรระวังของ Share หรือ Reuse Service [somkiat.cc]
+    url: https://www.somkiat.cc/problems-from-shared-or-reuse-service/
+  state:
+    cid: bafyreickorcupioviubv54jbua2tkqsvsmmutbpxruutbru4ndreqnxuse
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lkhyhpuvk22b
+c982cdb1e4081c6e53d428750d5cb33c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/problems-from-shared-or-reuse-service/
+  state:
+    shortLink: https://link.webring.in.th/2456
 c99b1e9def970c889ddda3b38c595c56:facebook:
   spec:
     title: '[SonarQube] Fixed Exception in thread “Report about progress of Java XML analyzer” java.lang.OutOfMemoryError: Java heap space [debuggingsoft.com]'
