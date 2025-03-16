@@ -23514,6 +23514,20 @@ c982cdb1e4081c6e53d428750d5cb33c:bluesky:
   state:
     cid: bafyreickorcupioviubv54jbua2tkqsvsmmutbpxruutbru4ndreqnxuse
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lkhyhpuvk22b
+c982cdb1e4081c6e53d428750d5cb33c:facebook:
+  spec:
+    title: ปัญหาที่ควรระวังของ Share หรือ Reuse Service [somkiat.cc]
+    url: https://www.somkiat.cc/problems-from-shared-or-reuse-service/
+  state:
+    id: '100746876247412_628690350120211'
+    url: https://www.facebook.com/100683012920950/posts/628690350120211
+c982cdb1e4081c6e53d428750d5cb33c:mastodon:
+  spec:
+    title: ปัญหาที่ควรระวังของ Share หรือ Reuse Service [somkiat.cc]
+    url: https://www.somkiat.cc/problems-from-shared-or-reuse-service/
+  state:
+    id: '114171333732416844'
+    url: https://mastodon.in.th/@webring/114171333732416844
 c982cdb1e4081c6e53d428750d5cb33c:shorturl:
   spec:
     url: https://www.somkiat.cc/problems-from-shared-or-reuse-service/
