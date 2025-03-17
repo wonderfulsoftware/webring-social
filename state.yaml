@@ -21435,6 +21435,32 @@ b5b29ded477ceb16bdb6c51f734d8bdd:shorturl:
     url: https://www.somkiat.cc/go-1-22-0/
   state:
     shortLink: https://link.webring.in.th/1776
+b5d5932ca6509415d3540f5fb9f9154b:bluesky:
+  spec:
+    title: บันทึกการอ่านเรื่อง How GitHub engineers learn new codebases [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-how-github-engineers-learn-new-codebases/
+  state:
+    cid: bafyreiavy2g3hqgyjibde5z52azkvrxzkmkbqmsezddrvzgevozow5vnki
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lkkswt5kgy2e
+b5d5932ca6509415d3540f5fb9f9154b:facebook:
+  spec:
+    title: บันทึกการอ่านเรื่อง How GitHub engineers learn new codebases [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-how-github-engineers-learn-new-codebases/
+  state:
+    id: '100746876247412_629460080043238'
+    url: https://www.facebook.com/100683012920950/posts/629460080043238
+b5d5932ca6509415d3540f5fb9f9154b:mastodon:
+  spec:
+    title: บันทึกการอ่านเรื่อง How GitHub engineers learn new codebases [somkiat.cc]
+    url: https://www.somkiat.cc/note-from-how-github-engineers-learn-new-codebases/
+  state:
+    id: '114177008764012642'
+    url: https://mastodon.in.th/@webring/114177008764012642
+b5d5932ca6509415d3540f5fb9f9154b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-from-how-github-engineers-learn-new-codebases/
+  state:
+    shortLink: https://link.webring.in.th/2459
 b67c68ab72b1009cf2e73735c84dba8a:facebook:
   spec:
     title: ทดลองใช้ AI generate ภาพ แบบ text-to-image จากเว็บไซต์ต่าง ๆ [mikkipastel.com]
