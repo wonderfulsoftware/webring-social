@@ -3222,6 +3222,32 @@
     url: https://www.mikkipastel.com/migrate-project-to-kotlin-dsl-and-toml/
   state:
     shortLink: https://link.webring.in.th/1882
+1cd10b4a7db0fd008b4e1dc4817e2181:bluesky:
+  spec:
+    title: The Almanack Of Naval Ravikant ผลึกความคิดของชายผู้รักการอ่านที่มั่งคั่งและมีความสุข [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/the-almanack-of-naval-ravikant
+  state:
+    cid: bafyreigljoipspar6dpimf5ojyxfprud4aui3fzwfnx7wql2ysgnfhhonm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lkkj3ljtsu2d
+1cd10b4a7db0fd008b4e1dc4817e2181:facebook:
+  spec:
+    title: The Almanack Of Naval Ravikant ผลึกความคิดของชายผู้รักการอ่านที่มั่งคั่งและมีความสุข [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/the-almanack-of-naval-ravikant
+  state:
+    id: '100746876247412_629374486718464'
+    url: https://www.facebook.com/100683012920950/posts/629374486718464
+1cd10b4a7db0fd008b4e1dc4817e2181:mastodon:
+  spec:
+    title: The Almanack Of Naval Ravikant ผลึกความคิดของชายผู้รักการอ่านที่มั่งคั่งและมีความสุข [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/the-almanack-of-naval-ravikant
+  state:
+    id: '114176315587891083'
+    url: https://mastodon.in.th/@webring/114176315587891083
+1cd10b4a7db0fd008b4e1dc4817e2181:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/the-almanack-of-naval-ravikant
+  state:
+    shortLink: https://link.webring.in.th/2458
 1cd21d8b0fa974479227ff21b6e8448f:facebook:
   spec:
     title: DB2 Driver งงไปหมดด [debuggingsoft.com]
