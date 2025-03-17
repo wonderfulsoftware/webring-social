@@ -17672,6 +17672,32 @@
     url: https://notes.dt.in.th/GoogleCloudServiceAccountIdToken
   state:
     shortLink: https://webring.page.link/VuzM
+93d59aa5bb992c6a1c96d3ecc4df4fdb:bluesky:
+  spec:
+    title: Global AI Bootcamp Bangkok 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/03/global-ai-bootcamp-bangkok-2025/
+  state:
+    cid: bafyreihotog3fmgcyeszzidy7qozuk5mmpwxgpgbmiveehegfzgapdzfyi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lkl5ln5mlq2x
+93d59aa5bb992c6a1c96d3ecc4df4fdb:facebook:
+  spec:
+    title: Global AI Bootcamp Bangkok 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/03/global-ai-bootcamp-bangkok-2025/
+  state:
+    id: '100746876247412_629562386699674'
+    url: https://www.facebook.com/100683012920950/posts/629562386699674
+93d59aa5bb992c6a1c96d3ecc4df4fdb:mastodon:
+  spec:
+    title: Global AI Bootcamp Bangkok 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/03/global-ai-bootcamp-bangkok-2025/
+  state:
+    id: '114177758303228051'
+    url: https://mastodon.in.th/@webring/114177758303228051
+93d59aa5bb992c6a1c96d3ecc4df4fdb:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/03/global-ai-bootcamp-bangkok-2025/
+  state:
+    shortLink: https://link.webring.in.th/2460
 93e258279b09baf6beb86cd102f43747:facebook:
   spec:
     title: 'สรุปจากการแบ่งปันเรื่อง Postman in the right way #1 [somkiat.cc]'
