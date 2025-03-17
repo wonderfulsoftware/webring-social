@@ -17900,6 +17900,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/06/recap-code-mania-1011-ai-for-developers/
   state:
     shortLink: https://link.webring.in.th/2010
+9613b9c553f8dbbb3a9163caca06af06:bluesky:
+  spec:
+    title: The interview insights [heyfirst.co]
+    url: https://heyfirst.co/posts/the-interview-insights/
+  state:
+    cid: bafyreigaprmqyykcgzsxxxyscdbjtdkaabknl346spb2oywvvnqcykxrdy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lkk7hpqlw523
+9613b9c553f8dbbb3a9163caca06af06:facebook:
+  spec:
+    title: The interview insights [heyfirst.co]
+    url: https://heyfirst.co/posts/the-interview-insights/
+  state:
+    id: '100746876247412_629285783394001'
+    url: https://www.facebook.com/100683012920950/posts/629285783394001
+9613b9c553f8dbbb3a9163caca06af06:mastodon:
+  spec:
+    title: The interview insights [heyfirst.co]
+    url: https://heyfirst.co/posts/the-interview-insights/
+  state:
+    id: '114175639107548396'
+    url: https://mastodon.in.th/@webring/114175639107548396
+9613b9c553f8dbbb3a9163caca06af06:shorturl:
+  spec:
+    url: https://heyfirst.co/posts/the-interview-insights/
+  state:
+    shortLink: https://link.webring.in.th/2457
 961df37c27144e7aa34705f2921a1df2:facebook:
   spec:
     title: แนะนำการใช้งาน Distributed Tracing ใน Spring Boot 3.2 [somkiat.cc]
