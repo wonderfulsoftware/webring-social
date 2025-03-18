@@ -11041,6 +11041,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/how-to-declare-powershell-variable-in-jenkins-pipeline/
   state:
     shortLink: https://webring.page.link/mxjV
+602fbd9155fe1237d2802b5efd269a13:bluesky:
+  spec:
+    title: 'Back to Basic: Fundamental Data Structure in C# (English Version) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/back-to-basic-fundamental-data-structure-in-csharp-english-version/
+  state:
+    cid: bafyreieksf4gmzm64txllb3cf2cb5qxsuj22ttp7gkbq6pacwphsdqnj3y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lkmpuxaurh22
+602fbd9155fe1237d2802b5efd269a13:facebook:
+  spec:
+    title: 'Back to Basic: Fundamental Data Structure in C# (English Version) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/back-to-basic-fundamental-data-structure-in-csharp-english-version/
+  state:
+    id: '100746876247412_630049516650961'
+    url: https://www.facebook.com/100683012920950/posts/630049516650961
+602fbd9155fe1237d2802b5efd269a13:mastodon:
+  spec:
+    title: 'Back to Basic: Fundamental Data Structure in C# (English Version) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/back-to-basic-fundamental-data-structure-in-csharp-english-version/
+  state:
+    id: '114181297401959682'
+    url: https://mastodon.in.th/@webring/114181297401959682
+602fbd9155fe1237d2802b5efd269a13:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/03/back-to-basic-fundamental-data-structure-in-csharp-english-version/
+  state:
+    shortLink: https://link.webring.in.th/2461
 603ba1d1395818caf5c6c7d195045245:facebook:
   spec:
     title: 'ลองใช้งาน ell: The Language Model Programming Library [somkiat.cc]'
