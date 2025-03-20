@@ -24104,6 +24104,32 @@ cd3f1042e1ae4055bed5a79a0b023e46:shorturl:
     url: https://karnwong.me/posts/2024/06/thoughts-on-summarization-service/
   state:
     shortLink: https://link.webring.in.th/1974
+cd54f256cbcccdce497f36ba64b47ef3:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Essential Machine Learning [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-machine-learning/
+  state:
+    cid: bafyreifhug6mbfcvkbqm5bnc7lcbcd7u7qlxy72kwn5fig27q2f47wsuse
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lkrqpl2aob2n
+cd54f256cbcccdce497f36ba64b47ef3:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Essential Machine Learning [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-machine-learning/
+  state:
+    id: '100746876247412_631562156499697'
+    url: https://www.facebook.com/100683012920950/posts/631562156499697
+cd54f256cbcccdce497f36ba64b47ef3:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Essential Machine Learning [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-machine-learning/
+  state:
+    id: '114192614984869859'
+    url: https://mastodon.in.th/@webring/114192614984869859
+cd54f256cbcccdce497f36ba64b47ef3:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-machine-learning/
+  state:
+    shortLink: https://link.webring.in.th/2462
 cd58f7521350b697b0e61720ccf7fde9:bluesky:
   spec:
     title: SQLite data type [debuggingsoft.com]
