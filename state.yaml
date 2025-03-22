@@ -29409,6 +29409,32 @@ fded27a275c0ab5923370e23e7a5b37e:shorturl:
     url: https://blog.ninprd.com/blog/even-though-im-not-here-company-still-running-properly/
   state:
     shortLink: https://link.webring.in.th/1921
+fe4a245e5e48be95a259df2927b47550:bluesky:
+  spec:
+    title: แนะนำการใช้งาน MokAPI [somkiat.cc]
+    url: https://www.somkiat.cc/mock-api-with-mokapi/
+  state:
+    cid: bafyreiexbrprfa6r7bpuxyhffhjtucvb7jfhrdnsuskdsgrimeks4lrbw4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lkwrqyfrzy2q
+fe4a245e5e48be95a259df2927b47550:facebook:
+  spec:
+    title: แนะนำการใช้งาน MokAPI [somkiat.cc]
+    url: https://www.somkiat.cc/mock-api-with-mokapi/
+  state:
+    id: '100746876247412_633124856343427'
+    url: https://www.facebook.com/100683012920950/posts/633124856343427
+fe4a245e5e48be95a259df2927b47550:mastodon:
+  spec:
+    title: แนะนำการใช้งาน MokAPI [somkiat.cc]
+    url: https://www.somkiat.cc/mock-api-with-mokapi/
+  state:
+    id: '114203947651345147'
+    url: https://mastodon.in.th/@webring/114203947651345147
+fe4a245e5e48be95a259df2927b47550:shorturl:
+  spec:
+    url: https://www.somkiat.cc/mock-api-with-mokapi/
+  state:
+    shortLink: https://link.webring.in.th/2463
 fe4a69964e0307240ba0fb62f74fd749:bluesky:
   spec:
     title: ลอง Azure Document Intelligent – REST API อ่านใบเสร็จ [debuggingsoft.com]
