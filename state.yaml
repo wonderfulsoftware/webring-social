@@ -23739,6 +23739,32 @@ ca36726214f549883d5b641d97065a1a:shorturl:
     url: https://www.boonsong.dev/sso-authentication-with-sidecar-ontainers
   state:
     shortLink: https://webring.page.link/dNFt
+ca4aaa11e81667f6024ea4862aeda30d:bluesky:
+  spec:
+    title: Google sheet ติดตามหุ้นอ้างอิง DR DRX [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/dr-drx-chart
+  state:
+    cid: bafyreidmy44tlkdhmsdmupohqeezodhsom6nq42akp7mvapo4qxs2i3v7e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lkzcfhmznw23
+ca4aaa11e81667f6024ea4862aeda30d:facebook:
+  spec:
+    title: Google sheet ติดตามหุ้นอ้างอิง DR DRX [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/dr-drx-chart
+  state:
+    id: '100746876247412_633892116266701'
+    url: https://www.facebook.com/100683012920950/posts/633892116266701
+ca4aaa11e81667f6024ea4862aeda30d:mastodon:
+  spec:
+    title: Google sheet ติดตามหุ้นอ้างอิง DR DRX [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/dr-drx-chart
+  state:
+    id: '114209621626515233'
+    url: https://mastodon.in.th/@webring/114209621626515233
+ca4aaa11e81667f6024ea4862aeda30d:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/dr-drx-chart
+  state:
+    shortLink: https://link.webring.in.th/2464
 ca7481ec9c7c70e4edc5d7c73d473a8e:facebook:
   spec:
     title: ลองมาเรียน The Cloud Camp รอบ Audition [debuggingsoft.com]
