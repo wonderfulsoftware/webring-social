@@ -21468,6 +21468,32 @@ b535c81708ed7f7c924e3f8e7ec28e8b:shorturl:
     url: https://lucian.solutions/blog/line-stickers-lucian-solutions-definitive
   state:
     shortLink: https://link.webring.in.th/1819
+b5ac614d961bc9892e69930519a3d5c8:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Intro to Python [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-intro-to-python/
+  state:
+    cid: bafyreialmqygtebtt7q4gxdagvmzg7vogsu5vbmdeo7t2sl2qnafwh5tay
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lkzlrgy3j723
+b5ac614d961bc9892e69930519a3d5c8:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Intro to Python [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-intro-to-python/
+  state:
+    id: '100746876247412_633978549591391'
+    url: https://www.facebook.com/100683012920950/posts/633978549591391
+b5ac614d961bc9892e69930519a3d5c8:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Intro to Python [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-intro-to-python/
+  state:
+    id: '114210281746892497'
+    url: https://mastodon.in.th/@webring/114210281746892497
+b5ac614d961bc9892e69930519a3d5c8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-intro-to-python/
+  state:
+    shortLink: https://link.webring.in.th/2465
 b5b29ded477ceb16bdb6c51f734d8bdd:facebook:
   spec:
     title: สิ่งที่น่าสนใจใน Go 1.22.0 [somkiat.cc]
