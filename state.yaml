@@ -21399,6 +21399,32 @@ b3e171947c05495f77fea92d1b8cf178:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/02/cannot-connect-jenkins-with-gitlab-the-project-you-were-looking-for-could-not-be-found-or-you-dont-have-permission/
   state:
     shortLink: https://link.webring.in.th/1764
+b4566e9b97f1a88ad6e12ab657a69672:bluesky:
+  spec:
+    title: เขียนโค้ดอย่างไรให้สะอาด (Clean Code) ใน JavaScript [amiearth.com]
+    url: https://amiearth.com/blog/js-clean-code
+  state:
+    cid: bafyreigocswms7nhyjgevwbgzljcpjsuuilxkq6i5azfgdocrqkc76nje4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ll44ee6apr2b
+b4566e9b97f1a88ad6e12ab657a69672:facebook:
+  spec:
+    title: เขียนโค้ดอย่างไรให้สะอาด (Clean Code) ใน JavaScript [amiearth.com]
+    url: https://amiearth.com/blog/js-clean-code
+  state:
+    id: '100746876247412_634763096179603'
+    url: https://www.facebook.com/100683012920950/posts/634763096179603
+b4566e9b97f1a88ad6e12ab657a69672:mastodon:
+  spec:
+    title: เขียนโค้ดอย่างไรให้สะอาด (Clean Code) ใน JavaScript [amiearth.com]
+    url: https://amiearth.com/blog/js-clean-code
+  state:
+    id: '114215952652470452'
+    url: https://mastodon.in.th/@webring/114215952652470452
+b4566e9b97f1a88ad6e12ab657a69672:shorturl:
+  spec:
+    url: https://amiearth.com/blog/js-clean-code
+  state:
+    shortLink: https://link.webring.in.th/2467
 b47b41b5411e568635b6c2936beeaad2:facebook:
   spec:
     title: น่าสนใจกับภาษา Gleam [somkiat.cc]
