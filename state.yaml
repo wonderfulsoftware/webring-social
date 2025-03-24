@@ -1983,6 +1983,32 @@
     url: https://www.somkiat.cc/mojo-locally/
   state:
     shortLink: https://webring.page.link/J5KL
+11cfee9d22bdbcdbf49283a57f6f78fd:bluesky:
+  spec:
+    title: A web-based printing tool for Brother P-touch series label printers [dt.in.th]
+    url: https://notes.dt.in.th/BrotherPTWebUSB
+  state:
+    cid: bafyreidyr6f43nq3v4fg6vgkty33kpkkyyv6m6vx2yv7hjvoplbm6wxh5e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ll3sy4eedo23
+11cfee9d22bdbcdbf49283a57f6f78fd:facebook:
+  spec:
+    title: A web-based printing tool for Brother P-touch series label printers [dt.in.th]
+    url: https://notes.dt.in.th/BrotherPTWebUSB
+  state:
+    id: '100746876247412_634677276188185'
+    url: https://www.facebook.com/100683012920950/posts/634677276188185
+11cfee9d22bdbcdbf49283a57f6f78fd:mastodon:
+  spec:
+    title: A web-based printing tool for Brother P-touch series label printers [dt.in.th]
+    url: https://notes.dt.in.th/BrotherPTWebUSB
+  state:
+    id: '114215292470224603'
+    url: https://mastodon.in.th/@webring/114215292470224603
+11cfee9d22bdbcdbf49283a57f6f78fd:shorturl:
+  spec:
+    url: https://notes.dt.in.th/BrotherPTWebUSB
+  state:
+    shortLink: https://link.webring.in.th/2466
 11d48c2e9ea5837e557f464265e68160:facebook:
   spec:
     title: '[CR] Starbucks-Skinny Banana Muffin [debuggingsoft.com]'
