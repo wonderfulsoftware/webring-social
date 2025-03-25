@@ -12443,6 +12443,32 @@
     url: https://www.karnwong.me/posts/2023/09/data-engineering-resources/
   state:
     shortLink: https://webring.page.link/H21p
+6bc7aab10950c60d1dff8de481036fce:bluesky:
+  spec:
+    title: '[CR] Katsu Kitchen Pork Loin Katsu Set [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/cr-katsu-kitchen-pork-loin-katsu-set/
+  state:
+    cid: bafyreicyimn6xsw76dvxzynjeosfu3up5kqozxwx75leneszk6ssltvlzy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ll6daxvrrt23
+6bc7aab10950c60d1dff8de481036fce:facebook:
+  spec:
+    title: '[CR] Katsu Kitchen Pork Loin Katsu Set [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/cr-katsu-kitchen-pork-loin-katsu-set/
+  state:
+    id: '100746876247412_635498352772744'
+    url: https://www.facebook.com/100683012920950/posts/635498352772744
+6bc7aab10950c60d1dff8de481036fce:mastodon:
+  spec:
+    title: '[CR] Katsu Kitchen Pork Loin Katsu Set [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/cr-katsu-kitchen-pork-loin-katsu-set/
+  state:
+    id: '114220941602926738'
+    url: https://mastodon.in.th/@webring/114220941602926738
+6bc7aab10950c60d1dff8de481036fce:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/03/cr-katsu-kitchen-pork-loin-katsu-set/
+  state:
+    shortLink: https://link.webring.in.th/2468
 6bedbc00d5a6d9f90d6ec9f67daadc84:facebook:
   spec:
     title: How to run curl in Kubernetes [debuggingsoft.com]
