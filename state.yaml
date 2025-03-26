@@ -12220,6 +12220,32 @@
     url: https://notes.dt.in.th/FreeTypeJSBlackWhiteText
   state:
     shortLink: https://link.webring.in.th/1890
+6933f70422dc4ce0706e48123ce9d282:bluesky:
+  spec:
+    title: เขียนโค้ดด้วยหลักการ SOLID ด้วย JavaScript [amiearth.com]
+    url: https://amiearth.com/blog/js-solid
+  state:
+    cid: bafyreictjgf5p5rnfywb2drwcml3em5mnfgm4xaiynpxskmub5pgjz6kay
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3llatn6trch2e
+6933f70422dc4ce0706e48123ce9d282:facebook:
+  spec:
+    title: เขียนโค้ดด้วยหลักการ SOLID ด้วย JavaScript [amiearth.com]
+    url: https://amiearth.com/blog/js-solid
+  state:
+    id: '100746876247412_636244459364800'
+    url: https://www.facebook.com/100683012920950/posts/636244459364800
+6933f70422dc4ce0706e48123ce9d282:mastodon:
+  spec:
+    title: เขียนโค้ดด้วยหลักการ SOLID ด้วย JavaScript [amiearth.com]
+    url: https://amiearth.com/blog/js-solid
+  state:
+    id: '114226598048124669'
+    url: https://mastodon.in.th/@webring/114226598048124669
+6933f70422dc4ce0706e48123ce9d282:shorturl:
+  spec:
+    url: https://amiearth.com/blog/js-solid
+  state:
+    shortLink: https://link.webring.in.th/2469
 693ff22c6f06930af0a99b66778b2337:facebook:
   spec:
     title: ปรับปรุง performance การทดสอบของ Cypress ให้เร็วขึ้น [somkiat.cc]
