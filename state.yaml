@@ -10711,6 +10711,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/05/microsoft-build-ai-day-qsncc-note/
   state:
     shortLink: https://link.webring.in.th/1907
+5e7a9ee4b3bc85235eb1e591e1b6dff0:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Essential Statistics #3 (Hypothesis Testing / AB Test / Linear Regression) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-3-hypothesis-testing-ab-testing-linear-regression/
+  state:
+    cid: bafyreigszub66mbabqvf334sv42m6scgz7fnvclehoksahdgvbmaebod4e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lldea6mz3h2a
+5e7a9ee4b3bc85235eb1e591e1b6dff0:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Essential Statistics #3 (Hypothesis Testing / AB Test / Linear Regression) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-3-hypothesis-testing-ab-testing-linear-regression/
+  state:
+    id: '100746876247412_637002935955619'
+    url: https://www.facebook.com/100683012920950/posts/637002935955619
+5e7a9ee4b3bc85235eb1e591e1b6dff0:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Essential Statistics #3 (Hypothesis Testing / AB Test / Linear Regression) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-3-hypothesis-testing-ab-testing-linear-regression/
+  state:
+    id: '114232268936241404'
+    url: https://mastodon.in.th/@webring/114232268936241404
+5e7a9ee4b3bc85235eb1e591e1b6dff0:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-3-hypothesis-testing-ab-testing-linear-regression/
+  state:
+    shortLink: https://link.webring.in.th/2470
 5ea646d2742357701f481c3d7bbfe069:facebook:
   spec:
     title: JSX Conditional Rendering [debuggingsoft.com]
