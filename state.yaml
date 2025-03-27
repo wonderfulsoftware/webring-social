@@ -29527,6 +29527,32 @@ fbaf2aa50410c6804e405b6bf2436f76:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/01/create-a-gitignore-file-with-dotnet-cli/
   state:
     shortLink: https://link.webring.in.th/1721
+fc5aa262c05c298e3b4f9ad65f0771e5:bluesky:
+  spec:
+    title: สรุปจากบทความเรื่อง Why I’m No Longer Talking to Architects About Microservices [somkiat.cc]
+    url: https://www.somkiat.cc/note-deom-why-im-no-longer-talking-to-architects-about-microservices/
+  state:
+    cid: bafyreiaiuwvrmfwpvr3zgcmpfnyv5rhzeihejtqcvvpekqrprqzwgkp2ry
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lldnq2kmxr2a
+fc5aa262c05c298e3b4f9ad65f0771e5:facebook:
+  spec:
+    title: สรุปจากบทความเรื่อง Why I’m No Longer Talking to Architects About Microservices [somkiat.cc]
+    url: https://www.somkiat.cc/note-deom-why-im-no-longer-talking-to-architects-about-microservices/
+  state:
+    id: '100746876247412_637087779280468'
+    url: https://www.facebook.com/100683012920950/posts/637087779280468
+fc5aa262c05c298e3b4f9ad65f0771e5:mastodon:
+  spec:
+    title: สรุปจากบทความเรื่อง Why I’m No Longer Talking to Architects About Microservices [somkiat.cc]
+    url: https://www.somkiat.cc/note-deom-why-im-no-longer-talking-to-architects-about-microservices/
+  state:
+    id: '114232937329068833'
+    url: https://mastodon.in.th/@webring/114232937329068833
+fc5aa262c05c298e3b4f9ad65f0771e5:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-deom-why-im-no-longer-talking-to-architects-about-microservices/
+  state:
+    shortLink: https://link.webring.in.th/2471
 fd4b806a1ef371b85bf738f4a8699837:facebook:
   spec:
     title: Serverless real-time machine learning inference with AWS [karnwong.me]
