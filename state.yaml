@@ -15119,6 +15119,32 @@
     url: https://www.somkiat.cc/agentic-ai-design-patterns/
   state:
     shortLink: https://link.webring.in.th/2180
+7e8a3987e95abb5af9e74461b65cd70a:bluesky:
+  spec:
+    title: Random mnemonic code generator based on SLIP39 wordlist [dt.in.th]
+    url: https://notes.dt.in.th/Slip39Wordlist
+  state:
+    cid: bafyreihjsugkyj4qvidubdebnvfvxjbepjzzli2ind6642ispsrvrddmfa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3llfupaqjdg2d
+7e8a3987e95abb5af9e74461b65cd70a:facebook:
+  spec:
+    title: Random mnemonic code generator based on SLIP39 wordlist [dt.in.th]
+    url: https://notes.dt.in.th/Slip39Wordlist
+  state:
+    id: '100746876247412_637786525877260'
+    url: https://www.facebook.com/100683012920950/posts/637786525877260
+7e8a3987e95abb5af9e74461b65cd70a:mastodon:
+  spec:
+    title: Random mnemonic code generator based on SLIP39 wordlist [dt.in.th]
+    url: https://notes.dt.in.th/Slip39Wordlist
+  state:
+    id: '114237931898011109'
+    url: https://mastodon.in.th/@webring/114237931898011109
+7e8a3987e95abb5af9e74461b65cd70a:shorturl:
+  spec:
+    url: https://notes.dt.in.th/Slip39Wordlist
+  state:
+    shortLink: https://link.webring.in.th/2472
 7eab379d43f8287c7bdc1ae78182a15a:bluesky:
   spec:
     title: '[CR] Starbucks Chicken Thousand Island Sandwich [debuggingsoft.com]'
