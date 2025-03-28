@@ -20720,6 +20720,32 @@ ad99701907b20392b15bb3d9e84b9777:shorturl:
     url: https://www.somkiat.cc/hello-auto-gpt/
   state:
     shortLink: https://webring.page.link/LShA
+ada3c109d3aea986567d816aafaea221:bluesky:
+  spec:
+    title: Google sheet ติดตามหุ้น Leveraged ETF / Inverse ETF [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/leveraged-etf-chart
+  state:
+    cid: bafyreigp6sscacglah4yt7nevogyemhl7gsuoxdr7rio556slz26s66lpi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3llg6amayvd2q
+ada3c109d3aea986567d816aafaea221:facebook:
+  spec:
+    title: Google sheet ติดตามหุ้น Leveraged ETF / Inverse ETF [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/leveraged-etf-chart
+  state:
+    id: '100746876247412_637873152535264'
+    url: https://www.facebook.com/100683012920950/posts/637873152535264
+ada3c109d3aea986567d816aafaea221:mastodon:
+  spec:
+    title: Google sheet ติดตามหุ้น Leveraged ETF / Inverse ETF [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/leveraged-etf-chart
+  state:
+    id: '114238602765173480'
+    url: https://mastodon.in.th/@webring/114238602765173480
+ada3c109d3aea986567d816aafaea221:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/leveraged-etf-chart
+  state:
+    shortLink: https://link.webring.in.th/2473
 adccbcd7c3c0dfb613d704db35b4de67:bluesky:
   spec:
     title: 'Data Sci Boot Camp Batch#11 : W3CSchool / WordPress [debuggingsoft.com]'
