@@ -16924,6 +16924,32 @@
     url: https://heyfirst.co/blog/micro-dollar
   state:
     shortLink: https://webring.page.link/hL6F
+8b118054a3b40c7dee6608afff570849:bluesky:
+  spec:
+    title: 'สาวสายเทคพูดอะไรกันในงาน Technologista: International Women’s Day Bangkok 2025 [mikkipastel.com]'
+    url: https://www.mikkipastel.com/technologista-international-womens-day-bangkok-2025/
+  state:
+    cid: bafyreigazgs2hnpcfmn4z37lijb3zktysx7y6clqn2sun7t6e7ifmktvv4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3llh43tooqr2d
+8b118054a3b40c7dee6608afff570849:facebook:
+  spec:
+    title: 'สาวสายเทคพูดอะไรกันในงาน Technologista: International Women’s Day Bangkok 2025 [mikkipastel.com]'
+    url: https://www.mikkipastel.com/technologista-international-womens-day-bangkok-2025/
+  state:
+    id: '100746876247412_638169889172257'
+    url: https://www.facebook.com/100683012920950/posts/638169889172257
+8b118054a3b40c7dee6608afff570849:mastodon:
+  spec:
+    title: 'สาวสายเทคพูดอะไรกันในงาน Technologista: International Women’s Day Bangkok 2025 [mikkipastel.com]'
+    url: https://www.mikkipastel.com/technologista-international-womens-day-bangkok-2025/
+  state:
+    id: '114240703961741250'
+    url: https://mastodon.in.th/@webring/114240703961741250
+8b118054a3b40c7dee6608afff570849:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/technologista-international-womens-day-bangkok-2025/
+  state:
+    shortLink: https://link.webring.in.th/2475
 8babbbc0b10abcb53c2b5cd0fabd36ae:facebook:
   spec:
     title: 'A Networking God Tale: All I Want is to Run a Speedtest Behind a Firewall [karnwong.me]'
