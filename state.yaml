@@ -5108,6 +5108,32 @@
     url: https://www.anuwong.com/blog/golang-testing-part-3-test-suite/
   state:
     shortLink: https://webring.page.link/FJwZ
+2c084da0e0100b771286bd9fbcf07385:bluesky:
+  spec:
+    title: ฮาวทู numpy [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/03/how-to-numpy/
+  state:
+    cid: bafyreicn3ipzxede6d3zlnmsggcwnau62fy2fpl7rsa6ji522oyiec42d4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3llghyxllss23
+2c084da0e0100b771286bd9fbcf07385:facebook:
+  spec:
+    title: ฮาวทู numpy [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/03/how-to-numpy/
+  state:
+    id: '100746876247412_637960882526491'
+    url: https://www.facebook.com/100683012920950/posts/637960882526491
+2c084da0e0100b771286bd9fbcf07385:mastodon:
+  spec:
+    title: ฮาวทู numpy [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/03/how-to-numpy/
+  state:
+    id: '114239290169755766'
+    url: https://mastodon.in.th/@webring/114239290169755766
+2c084da0e0100b771286bd9fbcf07385:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/03/how-to-numpy/
+  state:
+    shortLink: https://link.webring.in.th/2474
 2c31719e11127be8781424dcd8f26f21:facebook:
   spec:
     title: '[CR] Starbucks Bucher Sausage Croissant Roll [debuggingsoft.com]'
