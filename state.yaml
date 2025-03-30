@@ -18839,6 +18839,32 @@
     url: https://mymoneytoolkit.app/posts/easy-e-receipt-2025
   state:
     shortLink: https://link.webring.in.th/2349
+9d42125760ca7f79a25a270e5533827d:bluesky:
+  spec:
+    title: บันทึกไว้ก่อน แผ่นดินไหวทางโน้นสะเทือนถึง กทม 28-03-2568 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/03/bkk-earthquake-impact-28-mar-2025/
+  state:
+    cid: bafyreibprxfa6xyrer55n5jul6hipbdlyqofiscw6hi7zpbhz47drnszxy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3llkvugojpl2e
+9d42125760ca7f79a25a270e5533827d:facebook:
+  spec:
+    title: บันทึกไว้ก่อน แผ่นดินไหวทางโน้นสะเทือนถึง กทม 28-03-2568 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/03/bkk-earthquake-impact-28-mar-2025/
+  state:
+    id: '100746876247412_639381759051070'
+    url: https://www.facebook.com/100683012920950/posts/639381759051070
+9d42125760ca7f79a25a270e5533827d:mastodon:
+  spec:
+    title: บันทึกไว้ก่อน แผ่นดินไหวทางโน้นสะเทือนถึง กทม 28-03-2568 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/03/bkk-earthquake-impact-28-mar-2025/
+  state:
+    id: '114249272438383911'
+    url: https://mastodon.in.th/@webring/114249272438383911
+9d42125760ca7f79a25a270e5533827d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/03/bkk-earthquake-impact-28-mar-2025/
+  state:
+    shortLink: https://link.webring.in.th/2476
 9dd372d9894958f226807a0c2c999118:facebook:
   spec:
     title: New Blog | บ้านใหม่ [p4perf4ce.me]
