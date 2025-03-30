@@ -18122,6 +18122,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/01/repurchase-agreement-repo/
   state:
     shortLink: https://webring.page.link/yF7P
+9594c35c8627077c31b701965d62d9e9:bluesky:
+  spec:
+    title: ทาง Microsoft ปล่อย Playwright MCP server ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/playwright-mcp-server-from-microsoft/
+  state:
+    cid: bafyreibddirviwxhoohptwiosfqe4sbwuu2rbmfx7rqvwgrakgalkl2wwy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lll72b6br42h
+9594c35c8627077c31b701965d62d9e9:facebook:
+  spec:
+    title: ทาง Microsoft ปล่อย Playwright MCP server ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/playwright-mcp-server-from-microsoft/
+  state:
+    id: '100746876247412_639474139041832'
+    url: https://www.facebook.com/100683012920950/posts/639474139041832
+9594c35c8627077c31b701965d62d9e9:mastodon:
+  spec:
+    title: ทาง Microsoft ปล่อย Playwright MCP server ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/playwright-mcp-server-from-microsoft/
+  state:
+    id: '114249918771214236'
+    url: https://mastodon.in.th/@webring/114249918771214236
+9594c35c8627077c31b701965d62d9e9:shorturl:
+  spec:
+    url: https://www.somkiat.cc/playwright-mcp-server-from-microsoft/
+  state:
+    shortLink: https://link.webring.in.th/2477
 95c607d5cda0d42e196addf990606921:facebook:
   spec:
     title: Illustration - Dress Ako [lucian.solutions]
