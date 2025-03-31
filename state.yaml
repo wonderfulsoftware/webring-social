@@ -27920,6 +27920,32 @@ ec93c6f51edcaae54b0804a94d816822:shorturl:
     url: https://www.somkiat.cc/go-1-20-convert-from-slice-to-array/
   state:
     shortLink: https://webring.page.link/HYCY
+ecadac5cb822ff0775aea5eea24a81d9:bluesky:
+  spec:
+    title: แนวทางการจำลอง external dependency ใน Spring Boot ด้วย WireMock [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-testing-with-wiremock/
+  state:
+    cid: bafyreig7hsugmcwzvm25fzxcwbpmwizap7w2o6i2vegcqil4owqjzgg5du
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3llngecs4kp23
+ecadac5cb822ff0775aea5eea24a81d9:facebook:
+  spec:
+    title: แนวทางการจำลอง external dependency ใน Spring Boot ด้วย WireMock [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-testing-with-wiremock/
+  state:
+    id: '100746876247412_640208858968360'
+    url: https://www.facebook.com/100683012920950/posts/640208858968360
+ecadac5cb822ff0775aea5eea24a81d9:mastodon:
+  spec:
+    title: แนวทางการจำลอง external dependency ใน Spring Boot ด้วย WireMock [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-testing-with-wiremock/
+  state:
+    id: '114254936947473521'
+    url: https://mastodon.in.th/@webring/114254936947473521
+ecadac5cb822ff0775aea5eea24a81d9:shorturl:
+  spec:
+    url: https://www.somkiat.cc/spring-boot-testing-with-wiremock/
+  state:
+    shortLink: https://link.webring.in.th/2478
 ece90ea8e02c36b89c8401ec96c6c72e:facebook:
   spec:
     title: Storybook 7.0 ออกมาแล้ว [somkiat.cc]
