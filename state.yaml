@@ -9482,6 +9482,32 @@
     url: https://www.somkiat.cc/mock-api-server-tools/
   state:
     shortLink: https://link.webring.in.th/2221
+52e69df351c6c64d6f7845475918de67:bluesky:
+  spec:
+    title: มาทำการ review Distributed Monolith กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/review-distributed-monolith/
+  state:
+    cid: bafyreif47dcnqq4r2qxhp4biubusbh7eenbdo2mgjg5bq5q7lzqzfg4wce
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3llsqkgcgcc2p
+52e69df351c6c64d6f7845475918de67:facebook:
+  spec:
+    title: มาทำการ review Distributed Monolith กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/review-distributed-monolith/
+  state:
+    id: '100746876247412_641983095457603'
+    url: https://www.facebook.com/100683012920950/posts/641983095457603
+52e69df351c6c64d6f7845475918de67:mastodon:
+  spec:
+    title: มาทำการ review Distributed Monolith กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/review-distributed-monolith/
+  state:
+    id: '114266913072995402'
+    url: https://mastodon.in.th/@webring/114266913072995402
+52e69df351c6c64d6f7845475918de67:shorturl:
+  spec:
+    url: https://www.somkiat.cc/review-distributed-monolith/
+  state:
+    shortLink: https://link.webring.in.th/2481
 53421a8f5a6f8ce1ffe357014a815a94:facebook:
   spec:
     title: Fixed Node ‘ERR_OSSL_EVP_UNSUPPORTED (0308010C:digital envelope routines::unsupported) [debuggingsoft.com]
