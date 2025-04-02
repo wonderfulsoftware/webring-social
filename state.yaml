@@ -10642,6 +10642,32 @@
     url: https://blog.nattp.page/article/steinsgate-15th-anniversary-memories/
   state:
     shortLink: https://link.webring.in.th/2256
+5d83b5d3c6a21e06cb3b2a321b3dd86c:bluesky:
+  spec:
+    title: ฮาวทู Pandas [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/04/how-to-pandas/
+  state:
+    cid: bafyreiakgitsxec2765iz5zvpqkye5zcfa2g5syu6mewxpgxidsjbvbtaa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3llsh3a4gf32z
+5d83b5d3c6a21e06cb3b2a321b3dd86c:facebook:
+  spec:
+    title: ฮาวทู Pandas [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/04/how-to-pandas/
+  state:
+    id: '100746876247412_641888618800384'
+    url: https://www.facebook.com/100683012920950/posts/641888618800384
+5d83b5d3c6a21e06cb3b2a321b3dd86c:mastodon:
+  spec:
+    title: ฮาวทู Pandas [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/04/how-to-pandas/
+  state:
+    id: '114266246310692331'
+    url: https://mastodon.in.th/@webring/114266246310692331
+5d83b5d3c6a21e06cb3b2a321b3dd86c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/04/how-to-pandas/
+  state:
+    shortLink: https://link.webring.in.th/2480
 5db2b506c8b114ff91c4a28d264687b8:facebook:
   spec:
     title: สัปดาห์การเรียนสุดท้าย ค่าย iCreator Camp 2024 กับเรื่อง Production & Platform [mikkipastel.com]
