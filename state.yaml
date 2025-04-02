@@ -9584,6 +9584,32 @@
     url: https://punn.dev/blog/hello-blog-world
   state:
     shortLink: https://link.webring.in.th/1977
+53dbf5aa3d51e324f947e24a73141cb1:bluesky:
+  spec:
+    title: '[CR] TAO BIN เพียวมัจฉะ x 3 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-tao-bin-pure-matcha-x3/
+  state:
+    cid: bafyreihrl62ifvnovnle4rywhppgoogjhxsxqfxckhmud3raqxcyitqwu4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lltf22t6h32q
+53dbf5aa3d51e324f947e24a73141cb1:facebook:
+  spec:
+    title: '[CR] TAO BIN เพียวมัจฉะ x 3 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-tao-bin-pure-matcha-x3/
+  state:
+    id: '100746876247412_642207095435203'
+    url: https://www.facebook.com/100683012920950/posts/642207095435203
+53dbf5aa3d51e324f947e24a73141cb1:mastodon:
+  spec:
+    title: '[CR] TAO BIN เพียวมัจฉะ x 3 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-tao-bin-pure-matcha-x3/
+  state:
+    id: '114268354966091926'
+    url: https://mastodon.in.th/@webring/114268354966091926
+53dbf5aa3d51e324f947e24a73141cb1:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-tao-bin-pure-matcha-x3/
+  state:
+    shortLink: https://link.webring.in.th/2482
 53ed4cc680a72801fcabe4119b4527cb:facebook:
   spec:
     title: ตอบคำถามเรื่องการ Mock Data ใน Postman [somkiat.cc]
