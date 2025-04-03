@@ -4942,6 +4942,32 @@
     url: https://www.somkiat.cc/hello-gemini-pro-in-google-ai-studio/
   state:
     shortLink: https://webring.page.link/zS16
+2b0b1b9afb7262c990fe36369f0b21da:bluesky:
+  spec:
+    title: How to Fixed IP in Synology Nas [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/04/how-to-fixed-ip-in-synology-nas/
+  state:
+    cid: bafyreibe43hnyluku4euhwccmgh6xzj4nxjej2ma3hlvi25crb5cg5tlbm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lluxkvkqvk2m
+2b0b1b9afb7262c990fe36369f0b21da:facebook:
+  spec:
+    title: How to Fixed IP in Synology Nas [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/04/how-to-fixed-ip-in-synology-nas/
+  state:
+    id: '100746876247412_642787602043819'
+    url: https://www.facebook.com/100683012920950/posts/642787602043819
+2b0b1b9afb7262c990fe36369f0b21da:mastodon:
+  spec:
+    title: How to Fixed IP in Synology Nas [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/04/how-to-fixed-ip-in-synology-nas/
+  state:
+    id: '114271909647527613'
+    url: https://mastodon.in.th/@webring/114271909647527613
+2b0b1b9afb7262c990fe36369f0b21da:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/04/how-to-fixed-ip-in-synology-nas/
+  state:
+    shortLink: https://link.webring.in.th/2483
 2b14f83bbc6b0760e954444f6e8ebdf9:bluesky:
   spec:
     title: Postgres Ignore Foreign Key [amiearth.com]
