@@ -8189,6 +8189,32 @@
     url: https://www.anuwong.com/blog/increase-page-speed-with-partytown/
   state:
     shortLink: https://webring.page.link/1E32
+46e6f851d83b6a8b25f776caf67ef03c:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Python for Data Analyst [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-python-for-data-analyst/
+  state:
+    cid: bafyreih7twjiv4ybxi76j7xhtrpz5ib7eszne2bvj2bfo253gbyvhval2e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lm2bthfbjw25
+46e6f851d83b6a8b25f776caf67ef03c:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Python for Data Analyst [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-python-for-data-analyst/
+  state:
+    id: '100746876247412_644574141865165'
+    url: https://www.facebook.com/100683012920950/posts/644574141865165
+46e6f851d83b6a8b25f776caf67ef03c:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Python for Data Analyst [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-python-for-data-analyst/
+  state:
+    id: '114283891721876883'
+    url: https://mastodon.in.th/@webring/114283891721876883
+46e6f851d83b6a8b25f776caf67ef03c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-python-for-data-analyst/
+  state:
+    shortLink: https://link.webring.in.th/2485
 4748dbb3467b1eed6a45a67064284e03:facebook:
   spec:
     title: สรุปเรื่องที่เข้าฟังในงาน Agile Thailand 2023 ช่วงเช้านิดหน่อย [somkiat.cc]
