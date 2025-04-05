@@ -17296,6 +17296,32 @@
     url: https://knowlats.dev/review-course-humanistic-software-architecture/
   state:
     shortLink: https://webring.page.link/GMfx
+8e4eb40816e86a5184c42ae5e173c266:bluesky:
+  spec:
+    title: Google Sheet บันทึกจ่ายปันผล [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/dividend-tracker
+  state:
+    cid: bafyreicvanffbpqtspl2i5nizb5t2aryj43nxbcnqtenff5hcsijfglw2i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3llzyc6jokp2p
+8e4eb40816e86a5184c42ae5e173c266:facebook:
+  spec:
+    title: Google Sheet บันทึกจ่ายปันผล [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/dividend-tracker
+  state:
+    id: '100746876247412_644480235207889'
+    url: https://www.facebook.com/100683012920950/posts/644480235207889
+8e4eb40816e86a5184c42ae5e173c266:mastodon:
+  spec:
+    title: Google Sheet บันทึกจ่ายปันผล [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/dividend-tracker
+  state:
+    id: '114283220528362480'
+    url: https://mastodon.in.th/@webring/114283220528362480
+8e4eb40816e86a5184c42ae5e173c266:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/dividend-tracker
+  state:
+    shortLink: https://link.webring.in.th/2484
 8ede20fac39495150c5ee667c66964f9:facebook:
   spec:
     title: Format code via GitHub Actions [blog.oatto.dev]
