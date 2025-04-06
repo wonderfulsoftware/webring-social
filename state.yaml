@@ -10969,6 +10969,32 @@
     url: https://neizod.dev/2023/03/03/day-of-week.html
   state:
     shortLink: https://webring.page.link/rT1P
+5f3f096dc09a065c8de401e113866cbe:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Python for Data Analyst 2 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-python-for-data-analyst-2/
+  state:
+    cid: bafyreighgt5ablyjwxijgwjn5xwyxzqyfkw2cu33oj56noc4xk6ydcxz6u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lm4iyokzvu23
+5f3f096dc09a065c8de401e113866cbe:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Python for Data Analyst 2 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-python-for-data-analyst-2/
+  state:
+    id: '100746876247412_645306695125243'
+    url: https://www.facebook.com/100683012920950/posts/645306695125243
+5f3f096dc09a065c8de401e113866cbe:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Python for Data Analyst 2 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-python-for-data-analyst-2/
+  state:
+    id: '114288899274037370'
+    url: https://mastodon.in.th/@webring/114288899274037370
+5f3f096dc09a065c8de401e113866cbe:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-python-for-data-analyst-2/
+  state:
+    shortLink: https://link.webring.in.th/2486
 5f43d4518c539e00a62a5f0c78c80fec:facebook:
   spec:
     title: บันทึกการเรียน Domain-Driven Design (DDD) by Roofimon 2023 [somkiat.cc]
