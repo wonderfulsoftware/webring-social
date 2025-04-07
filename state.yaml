@@ -26002,6 +26002,32 @@ d7278c8472898a496704cc216334fab4:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-data-visualization/
   state:
     shortLink: https://link.webring.in.th/2422
+d7d2934d5186aa8e143a43466bb14ce2:bluesky:
+  spec:
+    title: สิ่งที่น่าสนใจใน Technology Radar 2025 Volume 32 [somkiat.cc]
+    url: https://www.somkiat.cc/technology-radar-2025-volume-32/
+  state:
+    cid: bafyreidfov5u4qa5hy5mvbabwc7dus7uk4ceh2c6ecjj57ugwxjye4x2iy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lm6zkdeuyv2e
+d7d2934d5186aa8e143a43466bb14ce2:facebook:
+  spec:
+    title: สิ่งที่น่าสนใจใน Technology Radar 2025 Volume 32 [somkiat.cc]
+    url: https://www.somkiat.cc/technology-radar-2025-volume-32/
+  state:
+    id: '100746876247412_646135575042355'
+    url: https://www.facebook.com/100683012920950/posts/646135575042355
+d7d2934d5186aa8e143a43466bb14ce2:mastodon:
+  spec:
+    title: สิ่งที่น่าสนใจใน Technology Radar 2025 Volume 32 [somkiat.cc]
+    url: https://www.somkiat.cc/technology-radar-2025-volume-32/
+  state:
+    id: '114294567884634633'
+    url: https://mastodon.in.th/@webring/114294567884634633
+d7d2934d5186aa8e143a43466bb14ce2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/technology-radar-2025-volume-32/
+  state:
+    shortLink: https://link.webring.in.th/2487
 d7da4007cf50c2241e883d47ccf641db:facebook:
   spec:
     title: ลองใช้งาน Dep Tree เพื่อดูความสัมพันธ์ของ source code ในรูปแบบ 3D [somkiat.cc]
