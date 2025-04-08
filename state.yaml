@@ -26104,6 +26104,32 @@ d8e331caff1bc9bc60a18e5d768ff2c6:shorturl:
     url: https://www.somkiat.cc/newman-error-with-localhost/
   state:
     shortLink: https://webring.page.link/bZUU
+d8fa10204a613773afd12a7eb2f61fda:bluesky:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Intro to Data Science [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-intro-to-data-science/
+  state:
+    cid: bafyreihrigsngcbgdslina4aznzmyih5drzbt3n2ugoq3p3j67pwvm2eiu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lmbjtuumxl2k
+d8fa10204a613773afd12a7eb2f61fda:facebook:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Intro to Data Science [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-intro-to-data-science/
+  state:
+    id: '100746876247412_646949868294259'
+    url: https://www.facebook.com/100683012920950/posts/646949868294259
+d8fa10204a613773afd12a7eb2f61fda:mastodon:
+  spec:
+    title: 'Data Sci Boot Camp Batch#11: Intro to Data Science [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-intro-to-data-science/
+  state:
+    id: '114300218183753309'
+    url: https://mastodon.in.th/@webring/114300218183753309
+d8fa10204a613773afd12a7eb2f61fda:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-intro-to-data-science/
+  state:
+    shortLink: https://link.webring.in.th/2488
 d97ede9157bfaf3f331249d86b0e86a7:facebook:
   spec:
     title: ghq - Remote repo management tool [garden.narze.live]
