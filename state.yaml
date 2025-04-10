@@ -21440,6 +21440,32 @@ b0f43a4ae115c339c24c67b2f1467d3e:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/02/how-to-fixed-icon-lxqt-are-missing-after-upgrade-lubuntu/
   state:
     shortLink: https://link.webring.in.th/2382
+b105646642249561f163a5f1ff071c15:bluesky:
+  spec:
+    title: ทำความรู้จักกับ Local-first software development [somkiat.cc]
+    url: https://www.somkiat.cc/local-first-software-development/
+  state:
+    cid: bafyreidvqa4j3fucby6cxrgxthanhbxqkyhnizf25eapwjfga6xorzwblq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lmgktey7342e
+b105646642249561f163a5f1ff071c15:facebook:
+  spec:
+    title: ทำความรู้จักกับ Local-first software development [somkiat.cc]
+    url: https://www.somkiat.cc/local-first-software-development/
+  state:
+    id: '100746876247412_648579134797999'
+    url: https://www.facebook.com/100683012920950/posts/648579134797999
+b105646642249561f163a5f1ff071c15:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Local-first software development [somkiat.cc]
+    url: https://www.somkiat.cc/local-first-software-development/
+  state:
+    id: '114311546765932997'
+    url: https://mastodon.in.th/@webring/114311546765932997
+b105646642249561f163a5f1ff071c15:shorturl:
+  spec:
+    url: https://www.somkiat.cc/local-first-software-development/
+  state:
+    shortLink: https://link.webring.in.th/2490
 b10d7bfd6306f0511a614aa30c257531:facebook:
   spec:
     title: 'Postman :: ถ้าต้องการ skip request ทำอย่างไร ? [somkiat.cc]'
