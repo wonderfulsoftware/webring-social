@@ -4688,6 +4688,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/11/ubuntu-extend-your-lvm-disk-space/
   state:
     shortLink: https://webring.page.link/QFAp
+27fe1d359b1a7a99fdb245f0136d7a67:bluesky:
+  spec:
+    title: Apache Kafka 4.0 ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/apache-kafka-4/
+  state:
+    cid: bafyreibsw7np7n2lplraae755wa2u62trp2w5hysktscacjubmzp56swli
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lmjeqxqdik2c
+27fe1d359b1a7a99fdb245f0136d7a67:facebook:
+  spec:
+    title: Apache Kafka 4.0 ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/apache-kafka-4/
+  state:
+    id: '100746876247412_649472791375300'
+    url: https://www.facebook.com/100683012920950/posts/649472791375300
+27fe1d359b1a7a99fdb245f0136d7a67:mastodon:
+  spec:
+    title: Apache Kafka 4.0 ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/apache-kafka-4/
+  state:
+    id: '114317874514747776'
+    url: https://mastodon.in.th/@webring/114317874514747776
+27fe1d359b1a7a99fdb245f0136d7a67:shorturl:
+  spec:
+    url: https://www.somkiat.cc/apache-kafka-4/
+  state:
+    shortLink: https://link.webring.in.th/2492
 283a2af73e4faebd04c76907b2ba9124:facebook:
   spec:
     title: npm checkmark [dt.in.th]
