@@ -9764,6 +9764,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/10/how-to-assign-port-on-existing-container-thai-version/
   state:
     shortLink: https://link.webring.in.th/2185
+55095c50e6ba9ac0993c9d1a73ebb222:bluesky:
+  spec:
+    title: นั่งอยู่บ้านฟังงาน TUXSA Open house 2025 ได้ความรู้อะไรกลับมาบ้าง [mikkipastel.com]
+    url: https://www.mikkipastel.com/tuxsa-open-house-2025/
+  state:
+    cid: bafyreickljte4xnwmsrjl3jbhskpovs6zq5nmtxypocsml4xy4uweqfdke
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lmj3bzws7a2k
+55095c50e6ba9ac0993c9d1a73ebb222:facebook:
+  spec:
+    title: นั่งอยู่บ้านฟังงาน TUXSA Open house 2025 ได้ความรู้อะไรกลับมาบ้าง [mikkipastel.com]
+    url: https://www.mikkipastel.com/tuxsa-open-house-2025/
+  state:
+    id: '100746876247412_649383978050848'
+    url: https://www.facebook.com/100683012920950/posts/649383978050848
+55095c50e6ba9ac0993c9d1a73ebb222:mastodon:
+  spec:
+    title: นั่งอยู่บ้านฟังงาน TUXSA Open house 2025 ได้ความรู้อะไรกลับมาบ้าง [mikkipastel.com]
+    url: https://www.mikkipastel.com/tuxsa-open-house-2025/
+  state:
+    id: '114317208382562831'
+    url: https://mastodon.in.th/@webring/114317208382562831
+55095c50e6ba9ac0993c9d1a73ebb222:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/tuxsa-open-house-2025/
+  state:
+    shortLink: https://link.webring.in.th/2491
 550abfa4b80cdbbd4fc5218ada90f14d:facebook:
   spec:
     title: 'แก้ปัญหาเมื่อ Flash stock ROM มือถือ Xiaomi แล้วเจอปัญหา "remote: ''Check CRC failed''" [kusumotolab.com]'
