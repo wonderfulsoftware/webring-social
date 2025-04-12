@@ -332,6 +332,32 @@
     url: https://mymoneytoolkit.app/posts/global-market-overview
   state:
     shortLink: https://link.webring.in.th/2436
+02801407cdf48d2d13a844d98d3dddc0:bluesky:
+  spec:
+    title: ลองมาตรวจหูครั้งแรกที่โรงพยาบาลหู ตา คอ จมูก [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/04/ear-checking-first-time-at-eent-hospital/
+  state:
+    cid: bafyreie43l4z2rvfnfptprwt7p2bsjeznkqpum7oaadga3splwd3zlusha
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lmlllx4hid2t
+02801407cdf48d2d13a844d98d3dddc0:facebook:
+  spec:
+    title: ลองมาตรวจหูครั้งแรกที่โรงพยาบาลหู ตา คอ จมูก [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/04/ear-checking-first-time-at-eent-hospital/
+  state:
+    id: '100746876247412_650205847968661'
+    url: https://www.facebook.com/100683012920950/posts/650205847968661
+02801407cdf48d2d13a844d98d3dddc0:mastodon:
+  spec:
+    title: ลองมาตรวจหูครั้งแรกที่โรงพยาบาลหู ตา คอ จมูก [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/04/ear-checking-first-time-at-eent-hospital/
+  state:
+    id: '114322859447843400'
+    url: https://mastodon.in.th/@webring/114322859447843400
+02801407cdf48d2d13a844d98d3dddc0:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/04/ear-checking-first-time-at-eent-hospital/
+  state:
+    shortLink: https://link.webring.in.th/2493
 02ef79f7ec3875576229c74b5debddeb:bluesky:
   spec:
     title: สามารถใช้งาน GitHub Copilot for VS Code ได้แบบฟรี แต่มี limit นะ [somkiat.cc]
