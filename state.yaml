@@ -20484,6 +20484,32 @@ a8cf835a7755702715a65f8d225df574:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/02/nuxt3-with-bun-dockerfile/
   state:
     shortLink: https://link.webring.in.th/2402
+a8dafb07a52f8efa6d53c1fa72d3caf3:bluesky:
+  spec:
+    title: '[CR] 711 x เนื้อแท้ เนื้อย่างซอสแจ่วชีสโทสต์แซนวิช [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-711_nuatair_sandwich_thai_spicy-_dipping_sauce/
+  state:
+    cid: bafyreiamlv4gxilh3dvqayhemwavgv6v5icz6xi6fha4kffoa4gk45wr5u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lmtgmwx2t42c
+a8dafb07a52f8efa6d53c1fa72d3caf3:facebook:
+  spec:
+    title: '[CR] 711 x เนื้อแท้ เนื้อย่างซอสแจ่วชีสโทสต์แซนวิช [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-711_nuatair_sandwich_thai_spicy-_dipping_sauce/
+  state:
+    id: '100746876247412_652773487711897'
+    url: https://www.facebook.com/100683012920950/posts/652773487711897
+a8dafb07a52f8efa6d53c1fa72d3caf3:mastodon:
+  spec:
+    title: '[CR] 711 x เนื้อแท้ เนื้อย่างซอสแจ่วชีสโทสต์แซนวิช [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-711_nuatair_sandwich_thai_spicy-_dipping_sauce/
+  state:
+    id: '114340524260849949'
+    url: https://mastodon.in.th/@webring/114340524260849949
+a8dafb07a52f8efa6d53c1fa72d3caf3:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-711_nuatair_sandwich_thai_spicy-_dipping_sauce/
+  state:
+    shortLink: https://link.webring.in.th/2495
 a90a52b9eb3224a11d4b8ed31e7331ea:facebook:
   spec:
     title: รีวิว Work From Home Workspace หลังจากที่ใช้งานมาระยะหนึ่งแล้ว [mikkipastel.com]
