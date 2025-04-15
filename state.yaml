@@ -26967,6 +26967,32 @@ e101590fcf2c113c902ecdebce745d7d:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/02/az-400-design-and-implement-a-dependency-management-strategy/
   state:
     shortLink: https://webring.page.link/aQBF
+e105152541d5300917555523fc7f8bba:bluesky:
+  spec:
+    title: บันทึกการแบ่งปันเรื่องการจัดการข้อมูลใน PostgreSQL database [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-basic-postgresql/
+  state:
+    cid: bafyreidphppeko4pkwtcaslat2ugnoacp32hkklkko7qorqkbobfc7kda4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lmt5fhold62k
+e105152541d5300917555523fc7f8bba:facebook:
+  spec:
+    title: บันทึกการแบ่งปันเรื่องการจัดการข้อมูลใน PostgreSQL database [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-basic-postgresql/
+  state:
+    id: '100746876247412_652685597720686'
+    url: https://www.facebook.com/100683012920950/posts/652685597720686
+e105152541d5300917555523fc7f8bba:mastodon:
+  spec:
+    title: บันทึกการแบ่งปันเรื่องการจัดการข้อมูลใน PostgreSQL database [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-basic-postgresql/
+  state:
+    id: '114339874669899859'
+    url: https://mastodon.in.th/@webring/114339874669899859
+e105152541d5300917555523fc7f8bba:shorturl:
+  spec:
+    url: https://www.somkiat.cc/sharing-basic-postgresql/
+  state:
+    shortLink: https://link.webring.in.th/2494
 e150e4a5487779c75ec30d4996e3058d:facebook:
   spec:
     title: Bun คืออะไร? [thiti.dev]
