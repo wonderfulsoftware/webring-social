@@ -19298,6 +19298,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/05/postgresfatal-database-locale-is-incompatible-with-operating-system/
   state:
     shortLink: https://link.webring.in.th/1941
+9ea542b849c249833e5bc62a6b3ccece:bluesky:
+  spec:
+    title: '[CR] Starbucks Mixed Berry Greek Yoghurt [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-starbucks-mixed-berry-greek-yoghurt/
+  state:
+    cid: bafyreigz5t63qtiqhvbohofmj23o2s5rvl2k4jm3xkacgs53cbkd4hbpd4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lmyhkowamo2p
+9ea542b849c249833e5bc62a6b3ccece:facebook:
+  spec:
+    title: '[CR] Starbucks Mixed Berry Greek Yoghurt [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-starbucks-mixed-berry-greek-yoghurt/
+  state:
+    id: '100746876247412_654346020887977'
+    url: https://www.facebook.com/100683012920950/posts/654346020887977
+9ea542b849c249833e5bc62a6b3ccece:mastodon:
+  spec:
+    title: '[CR] Starbucks Mixed Berry Greek Yoghurt [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-starbucks-mixed-berry-greek-yoghurt/
+  state:
+    id: '114351848568004288'
+    url: https://mastodon.in.th/@webring/114351848568004288
+9ea542b849c249833e5bc62a6b3ccece:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-starbucks-mixed-berry-greek-yoghurt/
+  state:
+    shortLink: https://link.webring.in.th/2497
 9eaf114814ccb48601983661fbba0095:facebook:
   spec:
     title: ทำความรู้จักกับ NativePHP กันหน่อย [somkiat.cc]
