@@ -1615,6 +1615,32 @@
     url: https://rayriffy.com/garden/ssh-hostname-multi-address/
   state:
     shortLink: https://webring.page.link/Geg5
+0da339ca5d228e8d3441fba13fc70275:bluesky:
+  spec:
+    title: Vibe coding คืออะไร [somkiat.cc]
+    url: https://www.somkiat.cc/what-vibe-coding/
+  state:
+    cid: bafyreidot6qy65agtyw5nkql45m6bsd3n4w4ze5yy4hdfkimubool3ruqe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lmyrea45jm2k
+0da339ca5d228e8d3441fba13fc70275:facebook:
+  spec:
+    title: Vibe coding คืออะไร [somkiat.cc]
+    url: https://www.somkiat.cc/what-vibe-coding/
+  state:
+    id: '100746876247412_654442230878356'
+    url: https://www.facebook.com/100683012920950/posts/654442230878356
+0da339ca5d228e8d3441fba13fc70275:mastodon:
+  spec:
+    title: Vibe coding คืออะไร [somkiat.cc]
+    url: https://www.somkiat.cc/what-vibe-coding/
+  state:
+    id: '114352537968911605'
+    url: https://mastodon.in.th/@webring/114352537968911605
+0da339ca5d228e8d3441fba13fc70275:shorturl:
+  spec:
+    url: https://www.somkiat.cc/what-vibe-coding/
+  state:
+    shortLink: https://link.webring.in.th/2498
 0dcdc8ae5a87dac7fb2b4e009e2e8cf8:facebook:
   spec:
     title: Install OpenSSH Server on Windows 11/10 [debuggingsoft.com]
