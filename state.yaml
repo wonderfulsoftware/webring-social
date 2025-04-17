@@ -17675,6 +17675,32 @@
     url: https://jitrak.dev/posts/post-16-sops/
   state:
     shortLink: https://webring.page.link/sdNG
+9106f5d70f3c4f5be09187033cebc81b:bluesky:
+  spec:
+    title: WASM FFI performance benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2025/04/wasm-ffi-performance-benchmark/
+  state:
+    cid: bafyreiejcz7ls2xzkiqjakv3nhymubwjcsbiexcovlehce7ju3b25dcyje
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lmy66xqpu32o
+9106f5d70f3c4f5be09187033cebc81b:facebook:
+  spec:
+    title: WASM FFI performance benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2025/04/wasm-ffi-performance-benchmark/
+  state:
+    id: '100746876247412_654254424230470'
+    url: https://www.facebook.com/100683012920950/posts/654254424230470
+9106f5d70f3c4f5be09187033cebc81b:mastodon:
+  spec:
+    title: WASM FFI performance benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2025/04/wasm-ffi-performance-benchmark/
+  state:
+    id: '114351189726462528'
+    url: https://mastodon.in.th/@webring/114351189726462528
+9106f5d70f3c4f5be09187033cebc81b:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/04/wasm-ffi-performance-benchmark/
+  state:
+    shortLink: https://link.webring.in.th/2496
 912bde2cb4b236c827bac497f94759f4:bluesky:
   spec:
     title: คู่มือเบื้องต้น Google sheet ที่ใครก็เอาไปใช้ได้ ตอนที่ 1 [mymoneytoolkit.app]
