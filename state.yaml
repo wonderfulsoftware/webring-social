@@ -8789,6 +8789,32 @@
     url: https://mymoneytoolkit.app/posts/crypto-tax-google-sheet
   state:
     shortLink: https://link.webring.in.th/2265
+4c48020083350576bda0ae7b13004839:bluesky:
+  spec:
+    title: 3 วันของ DataRockie Mini Bootcamp 2025 เรียนอะไรบ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/datarockie-mini-bootcamp-2025/
+  state:
+    cid: bafyreieaex5xc4b6xwdidzqjicqimulcxfqtadxl46yhcmkxmccngmw7oe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ln56rgxjqn2d
+4c48020083350576bda0ae7b13004839:facebook:
+  spec:
+    title: 3 วันของ DataRockie Mini Bootcamp 2025 เรียนอะไรบ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/datarockie-mini-bootcamp-2025/
+  state:
+    id: '100746876247412_655807700741809'
+    url: https://www.facebook.com/100683012920950/posts/655807700741809
+4c48020083350576bda0ae7b13004839:mastodon:
+  spec:
+    title: 3 วันของ DataRockie Mini Bootcamp 2025 เรียนอะไรบ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/datarockie-mini-bootcamp-2025/
+  state:
+    id: '114362489277487561'
+    url: https://mastodon.in.th/@webring/114362489277487561
+4c48020083350576bda0ae7b13004839:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/datarockie-mini-bootcamp-2025/
+  state:
+    shortLink: https://link.webring.in.th/2499
 4c54748aa9f9ce0f01cb3b527f2b238a:facebook:
   spec:
     title: สรุปงาน Thailand Developer Day 2023 [debuggingsoft.com]
