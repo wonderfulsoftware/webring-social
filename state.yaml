@@ -12126,6 +12126,32 @@
     url: https://blog.ninprd.com/blog/estimation-newbie/
   state:
     shortLink: https://link.webring.in.th/1726
+64dcc1781b8b4294f704333896388002:bluesky:
+  spec:
+    title: จดๆจากงาน Season of AI – Thailand | Season 4 – Season of Agents [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/04/season-of-ai-thailand-season-4-season-of-agents/
+  state:
+    cid: bafyreih3gtlbcrttkqcnlj6brlt4cgxdj53dqsjolncg5qxfbdgasvuyhu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lncjh5kn4w23
+64dcc1781b8b4294f704333896388002:facebook:
+  spec:
+    title: จดๆจากงาน Season of AI – Thailand | Season 4 – Season of Agents [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/04/season-of-ai-thailand-season-4-season-of-agents/
+  state:
+    id: '100746876247412_657474513908461'
+    url: https://www.facebook.com/100683012920950/posts/657474513908461
+64dcc1781b8b4294f704333896388002:mastodon:
+  spec:
+    title: จดๆจากงาน Season of AI – Thailand | Season 4 – Season of Agents [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/04/season-of-ai-thailand-season-4-season-of-agents/
+  state:
+    id: '114374499355986848'
+    url: https://mastodon.in.th/@webring/114374499355986848
+64dcc1781b8b4294f704333896388002:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/04/season-of-ai-thailand-season-4-season-of-agents/
+  state:
+    shortLink: https://link.webring.in.th/2503
 65433d3f4af68a0d3610e55485f6711d:facebook:
   spec:
     title: ถูกใจสาย Go สร้าง Concurrency limiting goroutine pool ด้วย workerpool แบบเข้าใจง่าย ๆ [poolsawat.com]
