@@ -11623,6 +11623,32 @@
     url: https://blog.nattp.page/article/steinsgate-15th-anniversary-memories
   state:
     shortLink: https://link.webring.in.th/2255
+60efaa873f156bfe972c3fdecf3ca3f5:bluesky:
+  spec:
+    title: มา sit-in ค่าย iCreator Camp 2025 วันแรก Storytelling & Creativity [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2025-week1-storytelling-and-creativity/
+  state:
+    cid: bafyreihk4i4njbofluh77qsqos6tpvuihexxqhb4jg5djefch3mvjf3xma
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lncaeeintl2l
+60efaa873f156bfe972c3fdecf3ca3f5:facebook:
+  spec:
+    title: มา sit-in ค่าย iCreator Camp 2025 วันแรก Storytelling & Creativity [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2025-week1-storytelling-and-creativity/
+  state:
+    id: '100746876247412_657391133916799'
+    url: https://www.facebook.com/100683012920950/posts/657391133916799
+60efaa873f156bfe972c3fdecf3ca3f5:mastodon:
+  spec:
+    title: มา sit-in ค่าย iCreator Camp 2025 วันแรก Storytelling & Creativity [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2025-week1-storytelling-and-creativity/
+  state:
+    id: '114373860263435509'
+    url: https://mastodon.in.th/@webring/114373860263435509
+60efaa873f156bfe972c3fdecf3ca3f5:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/icreator-camp-2025-week1-storytelling-and-creativity/
+  state:
+    shortLink: https://link.webring.in.th/2502
 610d57730b7178b8dee0a5362c1959b8:facebook:
   spec:
     title: '[DB2] Backup offline/online and database logs [debuggingsoft.com]'
