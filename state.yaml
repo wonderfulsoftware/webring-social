@@ -16370,6 +16370,32 @@
     url: https://mikelopster.dev/posts/react-storybook/
   state:
     shortLink: https://link.webring.in.th/1751
+8461743865a0c989c57aa3193ca7b58a:bluesky:
+  spec:
+    title: สร้างระบบสั่งสินค้าผ่าน LINE OA ฟรี! ใช้แค่ HTML + Google Sheet + Google Apps Script [janescience.com]
+    url: https://janescience.com/blog/lineoa-orders-html-gas
+  state:
+    cid: bafyreibokrb3cpoxqfvxrcaoubxnf4z3wqfwpewqsggjz5vak2rdqmuj3m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lnjrmgfbtl2p
+8461743865a0c989c57aa3193ca7b58a:facebook:
+  spec:
+    title: สร้างระบบสั่งสินค้าผ่าน LINE OA ฟรี! ใช้แค่ HTML + Google Sheet + Google Apps Script [janescience.com]
+    url: https://janescience.com/blog/lineoa-orders-html-gas
+  state:
+    id: '100746876247412_659752493680663'
+    url: https://www.facebook.com/100683012920950/posts/659752493680663
+8461743865a0c989c57aa3193ca7b58a:mastodon:
+  spec:
+    title: สร้างระบบสั่งสินค้าผ่าน LINE OA ฟรี! ใช้แค่ HTML + Google Sheet + Google Apps Script [janescience.com]
+    url: https://janescience.com/blog/lineoa-orders-html-gas
+  state:
+    id: '114390836909172621'
+    url: https://mastodon.in.th/@webring/114390836909172621
+8461743865a0c989c57aa3193ca7b58a:shorturl:
+  spec:
+    url: https://janescience.com/blog/lineoa-orders-html-gas
+  state:
+    shortLink: https://link.webring.in.th/2504
 8471d89b1fceb3c1683c5224bc7dd2e5:facebook:
   spec:
     title: ลองใช้งาน Pythagora สำหรับการทำ integration test ของ Node.js และ Express [somkiat.cc]
