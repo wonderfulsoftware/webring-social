@@ -12107,6 +12107,32 @@
     url: https://dmg.st/nokair-lounge/
   state:
     shortLink: https://webring.page.link/VZxr
+64a51a009e1b321846901e37c31baadb:bluesky:
+  spec:
+    title: Acrylic Stand - Stargazer 2025 🌃 [lucian.solutions]
+    url: https://lucian.solutions/blog/stargazer-2025-acrylic-stand
+  state:
+    cid: bafyreiaahf55tksh3jabktvqugg7ev63htyorejwkbnp54o5cnfzeszlpm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lnk2tyfwdl2l
+64a51a009e1b321846901e37c31baadb:facebook:
+  spec:
+    title: Acrylic Stand - Stargazer 2025 🌃 [lucian.solutions]
+    url: https://lucian.solutions/blog/stargazer-2025-acrylic-stand
+  state:
+    id: '100746876247412_659840833671829'
+    url: https://www.facebook.com/100683012920950/posts/659840833671829
+64a51a009e1b321846901e37c31baadb:mastodon:
+  spec:
+    title: Acrylic Stand - Stargazer 2025 🌃 [lucian.solutions]
+    url: https://lucian.solutions/blog/stargazer-2025-acrylic-stand
+  state:
+    id: '114391485975593198'
+    url: https://mastodon.in.th/@webring/114391485975593198
+64a51a009e1b321846901e37c31baadb:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/stargazer-2025-acrylic-stand
+  state:
+    shortLink: https://link.webring.in.th/2505
 64cd68f3f1689d1ce5d0c7966fb65a48:facebook:
   spec:
     title: มือใหม่หัด Estimate [blog.ninprd.com]
