@@ -17589,6 +17589,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/09/reclaim-your-smartphone-space-by-delete-line-chat/
   state:
     shortLink: https://webring.page.link/gzYP
+8e2830fa40621678ab426c02a04e9ab6:bluesky:
+  spec:
+    title: ลองใช้งาน K6 Studio กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/hello-k6-studio/
+  state:
+    cid: bafyreicu7hcwwlq6l5nvtfab426thrbtnveqrzom7dgd7vmuvoneaptqiu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lnkempxb6a2i
+8e2830fa40621678ab426c02a04e9ab6:facebook:
+  spec:
+    title: ลองใช้งาน K6 Studio กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/hello-k6-studio/
+  state:
+    id: '100746876247412_659932286996017'
+    url: https://www.facebook.com/100683012920950/posts/659932286996017
+8e2830fa40621678ab426c02a04e9ab6:mastodon:
+  spec:
+    title: ลองใช้งาน K6 Studio กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/hello-k6-studio/
+  state:
+    id: '114392174552791991'
+    url: https://mastodon.in.th/@webring/114392174552791991
+8e2830fa40621678ab426c02a04e9ab6:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-k6-studio/
+  state:
+    shortLink: https://link.webring.in.th/2506
 8e47d07ca87d7f71510e78ae1787da0d:facebook:
   spec:
     title: 'Review Course: Humanistic Software Architecture [knowlats.dev]'
