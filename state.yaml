@@ -28942,6 +28942,32 @@ ee6f370001a32ad82ae1b9dc983f651b:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/01/azure-error-aadsts50079-the-user-is-required-to-use-mfa/
   state:
     shortLink: https://link.webring.in.th/2347
+ee9cdd1ca44c67d1bd806be97af4a252:bluesky:
+  spec:
+    title: มาทดสอบ Mobile app ด้วย App Testing Agent ใน Firebase [somkiat.cc]
+    url: https://www.somkiat.cc/mobile-tesing-with-app-testing-agent-ai/
+  state:
+    cid: bafyreih3lfjmvcdxc7ew2kb2dbjchryyno4uacmf3yvi3fdkgekn47jmvy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lnmc25xlqf2e
+ee9cdd1ca44c67d1bd806be97af4a252:facebook:
+  spec:
+    title: มาทดสอบ Mobile app ด้วย App Testing Agent ใน Firebase [somkiat.cc]
+    url: https://www.somkiat.cc/mobile-tesing-with-app-testing-agent-ai/
+  state:
+    id: '100746876247412_660550953600817'
+    url: https://www.facebook.com/100683012920950/posts/660550953600817
+ee9cdd1ca44c67d1bd806be97af4a252:mastodon:
+  spec:
+    title: มาทดสอบ Mobile app ด้วย App Testing Agent ใน Firebase [somkiat.cc]
+    url: https://www.somkiat.cc/mobile-tesing-with-app-testing-agent-ai/
+  state:
+    id: '114396496364168957'
+    url: https://mastodon.in.th/@webring/114396496364168957
+ee9cdd1ca44c67d1bd806be97af4a252:shorturl:
+  spec:
+    url: https://www.somkiat.cc/mobile-tesing-with-app-testing-agent-ai/
+  state:
+    shortLink: https://link.webring.in.th/2507
 eeabc048fb76d8bc6fee82ecafc71807:bluesky:
   spec:
     title: 'Playwright :: ทำ Dashboard แสดงผลการทดสอบใน Grafana [somkiat.cc]'
