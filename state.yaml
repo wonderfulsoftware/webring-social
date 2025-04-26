@@ -14126,6 +14126,32 @@
     url: https://tantatorn.xyz/posts/typescript-compiler-api/
   state:
     shortLink: https://link.webring.in.th/2068
+74d136abbf7f75189c15e3b564dde335:bluesky:
+  spec:
+    title: ทำความเข้าใจ Activity Lifecycle ง่ายนิดเดียว! [mikkipastel.com]
+    url: https://www.mikkipastel.com/android-activity-lifecycle/
+  state:
+    cid: bafyreihqnvkbdiwssvjahmqxxl7oapgp5zqh5kljv5m342c7m6hlhtunwe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lnp3n6z2y52p
+74d136abbf7f75189c15e3b564dde335:facebook:
+  spec:
+    title: ทำความเข้าใจ Activity Lifecycle ง่ายนิดเดียว! [mikkipastel.com]
+    url: https://www.mikkipastel.com/android-activity-lifecycle/
+  state:
+    id: '100746876247412_661432803512632'
+    url: https://www.facebook.com/100683012920950/posts/661432803512632
+74d136abbf7f75189c15e3b564dde335:mastodon:
+  spec:
+    title: ทำความเข้าใจ Activity Lifecycle ง่ายนิดเดียว! [mikkipastel.com]
+    url: https://www.mikkipastel.com/android-activity-lifecycle/
+  state:
+    id: '114402801194893502'
+    url: https://mastodon.in.th/@webring/114402801194893502
+74d136abbf7f75189c15e3b564dde335:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/android-activity-lifecycle/
+  state:
+    shortLink: https://link.webring.in.th/2509
 7521a222a5c3212d43c5e33155c6c41a:facebook:
   spec:
     title: '[CR] Starbucks Mixed Mushroom Whole Wheat Sandwich (อาหารเจ) [debuggingsoft.com]'
