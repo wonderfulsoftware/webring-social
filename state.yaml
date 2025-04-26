@@ -4925,6 +4925,32 @@
     url: https://www.mikkipastel.com/what-is-progressive-web-apps/
   state:
     shortLink: https://webring.page.link/tr8V
+292c215c930587fed78f2cc7ff16cd6e:bluesky:
+  spec:
+    title: บางทีปัญหา No such file or directory / Private Key ใช้ไม่ได้ สรุปเกิดจากแค่เรื่อง CTRL-M (^M) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/04/ctrl-m-characters-from-a-file-in-linux-cause-bash-problem-such-as-no-such-file-or-directory-or-private-key-not-working/
+  state:
+    cid: bafyreict5gljs7s3i4gz36u4oonogpkpaodyigjwqaptjei5zuut3extse
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lnos7dujud2f
+292c215c930587fed78f2cc7ff16cd6e:facebook:
+  spec:
+    title: บางทีปัญหา No such file or directory / Private Key ใช้ไม่ได้ สรุปเกิดจากแค่เรื่อง CTRL-M (^M) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/04/ctrl-m-characters-from-a-file-in-linux-cause-bash-problem-such-as-no-such-file-or-directory-or-private-key-not-working/
+  state:
+    id: '100746876247412_661340640188515'
+    url: https://www.facebook.com/100683012920950/posts/661340640188515
+292c215c930587fed78f2cc7ff16cd6e:mastodon:
+  spec:
+    title: บางทีปัญหา No such file or directory / Private Key ใช้ไม่ได้ สรุปเกิดจากแค่เรื่อง CTRL-M (^M) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/04/ctrl-m-characters-from-a-file-in-linux-cause-bash-problem-such-as-no-such-file-or-directory-or-private-key-not-working/
+  state:
+    id: '114402137089597021'
+    url: https://mastodon.in.th/@webring/114402137089597021
+292c215c930587fed78f2cc7ff16cd6e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/04/ctrl-m-characters-from-a-file-in-linux-cause-bash-problem-such-as-no-such-file-or-directory-or-private-key-not-working/
+  state:
+    shortLink: https://link.webring.in.th/2508
 2942650739e345cea56c06d9eae95fd2:facebook:
   spec:
     title: สรุปการใช้งาน Bun ในการพัฒนาระบบงาน [somkiat.cc]
