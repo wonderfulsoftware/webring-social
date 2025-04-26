@@ -13656,6 +13656,32 @@
     url: https://www.somkiat.cc/seleniumlibrary-6-1-3/
   state:
     shortLink: https://webring.page.link/sfv6
+7094e269c83b0161b7df22eee65cee29:bluesky:
+  spec:
+    title: มาลองใช้งาน MCP Toolbox for Databases จาก Google กัน [somkiat.cc]
+    url: https://www.somkiat.cc/mcp-toolbox-for-databases/
+  state:
+    cid: bafyreiafsbw4mebqz623tzvobwuehrms6m4awtdlbvqnsyetzfemz4f4mu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lnpfi2h7jk25
+7094e269c83b0161b7df22eee65cee29:facebook:
+  spec:
+    title: มาลองใช้งาน MCP Toolbox for Databases จาก Google กัน [somkiat.cc]
+    url: https://www.somkiat.cc/mcp-toolbox-for-databases/
+  state:
+    id: '100746876247412_661524443503468'
+    url: https://www.facebook.com/100683012920950/posts/661524443503468
+7094e269c83b0161b7df22eee65cee29:mastodon:
+  spec:
+    title: มาลองใช้งาน MCP Toolbox for Databases จาก Google กัน [somkiat.cc]
+    url: https://www.somkiat.cc/mcp-toolbox-for-databases/
+  state:
+    id: '114403493341986205'
+    url: https://mastodon.in.th/@webring/114403493341986205
+7094e269c83b0161b7df22eee65cee29:shorturl:
+  spec:
+    url: https://www.somkiat.cc/mcp-toolbox-for-databases/
+  state:
+    shortLink: https://link.webring.in.th/2510
 70a30db754020923f2232c9768fc170a:bluesky:
   spec:
     title: มารู้จักกับ gRPC และ Go กัน [mikelopster.dev]
