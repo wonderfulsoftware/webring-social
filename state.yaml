@@ -17074,6 +17074,32 @@
     url: https://www.karnwong.me/posts/2023/04/duckdb-vs-polars-vs-spark/
   state:
     shortLink: https://webring.page.link/9nvM
+882fb10f83a2118d70b9e186b4b32683:bluesky:
+  spec:
+    title: '[CR] Burger King คิงบ๊อกซ์ + บ่น [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-burger-king-kingbox2025/
+  state:
+    cid: bafyreifn5wghssuv2rogjuzlznba4zdffr5l2bu2y5iht6kpd4zngp3yxq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lnrczcr36x2k
+882fb10f83a2118d70b9e186b4b32683:facebook:
+  spec:
+    title: '[CR] Burger King คิงบ๊อกซ์ + บ่น [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-burger-king-kingbox2025/
+  state:
+    id: '100746876247412_662136783442234'
+    url: https://www.facebook.com/100683012920950/posts/662136783442234
+882fb10f83a2118d70b9e186b4b32683:mastodon:
+  spec:
+    title: '[CR] Burger King คิงบ๊อกซ์ + บ่น [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-burger-king-kingbox2025/
+  state:
+    id: '114407823550048907'
+    url: https://mastodon.in.th/@webring/114407823550048907
+882fb10f83a2118d70b9e186b4b32683:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/04/cr-burger-king-kingbox2025/
+  state:
+    shortLink: https://link.webring.in.th/2511
 889df44cb70dd2e9c5ba5a35a254477b:facebook:
   spec:
     title: Access AlmaLinux 9 via RDP [debuggingsoft.com]
