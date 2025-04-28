@@ -7007,6 +7007,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-part2/
   state:
     shortLink: https://link.webring.in.th/2449
+3b678fff2bc67e6a83a02e483c49ec7f:bluesky:
+  spec:
+    title: สรุปเรากินชาไทยได้วันละกี่แก้ว? จากผลทดสอบสีในชาไทย 15 แบรนด์ [wawasabii.com]
+    url: https://wawasabii.com/blog/how-many-thai-tea-safe-sunset-yellow/
+  state:
+    cid: bafyreigfbbd4td4agdd66kpnduqvnrqp63v7xyyr74uiep23meq6eqfhhe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lnulnmnacu2p
+3b678fff2bc67e6a83a02e483c49ec7f:facebook:
+  spec:
+    title: สรุปเรากินชาไทยได้วันละกี่แก้ว? จากผลทดสอบสีในชาไทย 15 แบรนด์ [wawasabii.com]
+    url: https://wawasabii.com/blog/how-many-thai-tea-safe-sunset-yellow/
+  state:
+    id: '100746876247412_663152850007294'
+    url: https://www.facebook.com/100683012920950/posts/663152850007294
+3b678fff2bc67e6a83a02e483c49ec7f:mastodon:
+  spec:
+    title: สรุปเรากินชาไทยได้วันละกี่แก้ว? จากผลทดสอบสีในชาไทย 15 แบรนด์ [wawasabii.com]
+    url: https://wawasabii.com/blog/how-many-thai-tea-safe-sunset-yellow/
+  state:
+    id: '114415186962788394'
+    url: https://mastodon.in.th/@webring/114415186962788394
+3b678fff2bc67e6a83a02e483c49ec7f:shorturl:
+  spec:
+    url: https://wawasabii.com/blog/how-many-thai-tea-safe-sunset-yellow/
+  state:
+    shortLink: https://link.webring.in.th/2514
 3b94626ce1218eb71b57c5381b742ee9:bluesky:
   spec:
     title: คำนวณเงินผ่อน กู้บ้าน/กู้ร่วม [mymoneytoolkit.app]
