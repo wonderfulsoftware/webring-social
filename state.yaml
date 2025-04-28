@@ -4645,6 +4645,32 @@
     url: https://notes.dt.in.th/PianoMajorScaleTrainer
   state:
     shortLink: https://link.webring.in.th/2152
+272f53f79a4ba33f5a06c57dfd5f75cd:bluesky:
+  spec:
+    title: ทำการบันทึกการแบ่งปันเรื่องการพัฒนา RESTful API [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-restful-api-development/
+  state:
+    cid: bafyreidqrbowshay76mi45szxfgtfdpy52wgrrntkf4rbeqlgu4i5ikvpi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lnu54aw3cg2e
+272f53f79a4ba33f5a06c57dfd5f75cd:facebook:
+  spec:
+    title: ทำการบันทึกการแบ่งปันเรื่องการพัฒนา RESTful API [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-restful-api-development/
+  state:
+    id: '100746876247412_663013746687871'
+    url: https://www.facebook.com/100683012920950/posts/663013746687871
+272f53f79a4ba33f5a06c57dfd5f75cd:mastodon:
+  spec:
+    title: ทำการบันทึกการแบ่งปันเรื่องการพัฒนา RESTful API [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-restful-api-development/
+  state:
+    id: '114414163796849201'
+    url: https://mastodon.in.th/@webring/114414163796849201
+272f53f79a4ba33f5a06c57dfd5f75cd:shorturl:
+  spec:
+    url: https://www.somkiat.cc/sharing-restful-api-development/
+  state:
+    shortLink: https://link.webring.in.th/2513
 2731398e6f9aee63f28f6f48fde053b6:facebook:
   spec:
     title: Git Command 101 [debuggingsoft.com]
