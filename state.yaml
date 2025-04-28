@@ -22755,6 +22755,32 @@ b82daa8ada0fbf13090ddfe172a0adca:shorturl:
     url: https://pontakorn.dev/posts/lua-small-but-powerful/
   state:
     shortLink: https://link.webring.in.th/2243
+b83a9bfa9dfb8e673014f4ccff6118cd:bluesky:
+  spec:
+    title: 'สรุป “Design Tokens ฉบับสามัญชน: ว่าด้วยการจัดการสีด้วย Figma Variable” [mikkipastel.com]'
+    url: https://www.mikkipastel.com/friend-of-figma-design-tokens-made-simple-coloring-with-variables-design-tokens/
+  state:
+    cid: bafyreigosijx4qt6zslxtuvcmkbcq3ndnmmqekavptkw3df2mkjiinsvmy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lnttn76ese2p
+b83a9bfa9dfb8e673014f4ccff6118cd:facebook:
+  spec:
+    title: 'สรุป “Design Tokens ฉบับสามัญชน: ว่าด้วยการจัดการสีด้วย Figma Variable” [mikkipastel.com]'
+    url: https://www.mikkipastel.com/friend-of-figma-design-tokens-made-simple-coloring-with-variables-design-tokens/
+  state:
+    id: '100746876247412_662925700030009'
+    url: https://www.facebook.com/100683012920950/posts/662925700030009
+b83a9bfa9dfb8e673014f4ccff6118cd:mastodon:
+  spec:
+    title: 'สรุป “Design Tokens ฉบับสามัญชน: ว่าด้วยการจัดการสีด้วย Figma Variable” [mikkipastel.com]'
+    url: https://www.mikkipastel.com/friend-of-figma-design-tokens-made-simple-coloring-with-variables-design-tokens/
+  state:
+    id: '114413497242726229'
+    url: https://mastodon.in.th/@webring/114413497242726229
+b83a9bfa9dfb8e673014f4ccff6118cd:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/friend-of-figma-design-tokens-made-simple-coloring-with-variables-design-tokens/
+  state:
+    shortLink: https://link.webring.in.th/2512
 b85adc3f8b81682910d041c22d6654c8:facebook:
   spec:
     title: ทำความรู้จักกับ Backstage สำหรับทำ software catalog [somkiat.cc]
