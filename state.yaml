@@ -13817,6 +13817,32 @@
     url: https://thanapon.info/mqtt-with-tls-on-aws-iot-core/
   state:
     shortLink: https://webring.page.link/2Lsm
+71282e14111cff1d30990f1019dd1ad3:bluesky:
+  spec:
+    title: คำนวณเงินเกษียณ ว่าเก็บเดือนละเท่านี้จะพอไหม? [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/retirement
+  state:
+    cid: bafyreidonhmsetqrw5cqkjvqe5k3jftppue7c2g2ivz3vn6utblexibmge
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lo3fcwcoxc2e
+71282e14111cff1d30990f1019dd1ad3:facebook:
+  spec:
+    title: คำนวณเงินเกษียณ ว่าเก็บเดือนละเท่านี้จะพอไหม? [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/retirement
+  state:
+    id: '100746876247412_665237836465462'
+    url: https://www.facebook.com/100683012920950/posts/665237836465462
+71282e14111cff1d30990f1019dd1ad3:mastodon:
+  spec:
+    title: คำนวณเงินเกษียณ ว่าเก็บเดือนละเท่านี้จะพอไหม? [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/retirement
+  state:
+    id: '114430504032559203'
+    url: https://mastodon.in.th/@webring/114430504032559203
+71282e14111cff1d30990f1019dd1ad3:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/retirement
+  state:
+    shortLink: https://link.webring.in.th/2515
 71668f54854eb6edd503341883e276a8:facebook:
   spec:
     title: Playwright 1.45 เพิ่ม Clock API เข้ามาแล้ว [somkiat.cc]
