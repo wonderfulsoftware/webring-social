@@ -20231,6 +20231,32 @@ a3ebac893dc428aed8491a0d811531a5:shorturl:
     url: https://www.llun.me/posts/2025-03-02-llm
   state:
     shortLink: https://link.webring.in.th/2438
+a3f8025ebb7412cc3c80a87e066c853f:bluesky:
+  spec:
+    title: ลองใช้งาน Robot Framework Dashboard [somkiat.cc]
+    url: https://www.somkiat.cc/robot-framework-dashboard/
+  state:
+    cid: bafyreidqxvmxqhrlfhwzurxth6iogfndlp53bralqgwqrrthxcw55mlsum
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lo3xumr3ji2v
+a3f8025ebb7412cc3c80a87e066c853f:facebook:
+  spec:
+    title: ลองใช้งาน Robot Framework Dashboard [somkiat.cc]
+    url: https://www.somkiat.cc/robot-framework-dashboard/
+  state:
+    id: '100746876247412_665413203114592'
+    url: https://www.facebook.com/100683012920950/posts/665413203114592
+a3f8025ebb7412cc3c80a87e066c853f:mastodon:
+  spec:
+    title: ลองใช้งาน Robot Framework Dashboard [somkiat.cc]
+    url: https://www.somkiat.cc/robot-framework-dashboard/
+  state:
+    id: '114431809681343594'
+    url: https://mastodon.in.th/@webring/114431809681343594
+a3f8025ebb7412cc3c80a87e066c853f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/robot-framework-dashboard/
+  state:
+    shortLink: https://link.webring.in.th/2517
 a4031221ddd4f040891463067c4b004e:facebook:
   spec:
     title: Robot Framework 6.1 rc 1 ออกมาแล้ว [somkiat.cc]
