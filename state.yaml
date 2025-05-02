@@ -18672,6 +18672,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/06/the-cloudcamp-open-house-2024/
   state:
     shortLink: https://link.webring.in.th/1975
+942949d186dddc9609b327293ee77d47:bluesky:
+  spec:
+    title: Hono ใช้กับ D1 Database ของ Cloudflare [amiearth.com]
+    url: https://amiearth.com/blog/hono-d1
+  state:
+    cid: bafyreid63ztkel2wqlvqkuyf7wrmaihbyifj3a3za7vbrzfv5ygdah5ne4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lo6t2fx4qa26
+942949d186dddc9609b327293ee77d47:facebook:
+  spec:
+    title: Hono ใช้กับ D1 Database ของ Cloudflare [amiearth.com]
+    url: https://amiearth.com/blog/hono-d1
+  state:
+    id: '100746876247412_666303719692207'
+    url: https://www.facebook.com/100683012920950/posts/666303719692207
+942949d186dddc9609b327293ee77d47:mastodon:
+  spec:
+    title: Hono ใช้กับ D1 Database ของ Cloudflare [amiearth.com]
+    url: https://amiearth.com/blog/hono-d1
+  state:
+    id: '114438225983240853'
+    url: https://mastodon.in.th/@webring/114438225983240853
+942949d186dddc9609b327293ee77d47:shorturl:
+  spec:
+    url: https://amiearth.com/blog/hono-d1
+  state:
+    shortLink: https://link.webring.in.th/2520
 94527e1a71871a806d1cbdbf9c26ab3a:facebook:
   spec:
     title: '[AWS EKS] ลองใช้ Cluster autoscaler สำหรับ Scale K8s [thanapon.info]'
