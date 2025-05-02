@@ -11649,6 +11649,32 @@
     url: https://janescience.com/blog/android-trigger-notification
   state:
     shortLink: https://webring.page.link/Qyvz
+60b7b1bbb7036c1f52b0d215e88e0e71:bluesky:
+  spec:
+    title: อยู่ๆ Test Report จาก dotnet test ก็หาย [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/dotnet-test-failed-but-test-report-show-all-pass/
+  state:
+    cid: bafyreihosvhbdir7um5ztz7ozvcwohjmzgprmixbdvfjaazisvmwq4bxla
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lo66kgy3gh2v
+60b7b1bbb7036c1f52b0d215e88e0e71:facebook:
+  spec:
+    title: อยู่ๆ Test Report จาก dotnet test ก็หาย [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/dotnet-test-failed-but-test-report-show-all-pass/
+  state:
+    id: '100746876247412_666104829712096'
+    url: https://www.facebook.com/100683012920950/posts/666104829712096
+60b7b1bbb7036c1f52b0d215e88e0e71:mastodon:
+  spec:
+    title: อยู่ๆ Test Report จาก dotnet test ก็หาย [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/dotnet-test-failed-but-test-report-show-all-pass/
+  state:
+    id: '114436783218968901'
+    url: https://mastodon.in.th/@webring/114436783218968901
+60b7b1bbb7036c1f52b0d215e88e0e71:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/05/dotnet-test-failed-but-test-report-show-all-pass/
+  state:
+    shortLink: https://link.webring.in.th/2519
 60daf44597dd51f2762c67ea70486f29:bluesky:
   spec:
     title: '[ชวนอ่าน] Laws of UX: ออกแบบ Digital Products ที่ผู้ใช้หลงรักด้วยหลักจิตวิทยา [mymoneytoolkit.app]'
