@@ -29733,6 +29733,32 @@ f1d76ffe531466e11467c767ce1c3d48:shorturl:
     url: https://neizod.dev/2024/04/08/lego-orrery.html
   state:
     shortLink: https://link.webring.in.th/1869
+f1e34c1f6ebf1eea72047916e177d7f6:bluesky:
+  spec:
+    title: Basic n8n ฉบับ DevDev [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/basic-n8n-for-developers/
+  state:
+    cid: bafyreicwooyfcxmd43nmgaep2p6khvbhcqst2ee2p3zvtf7zox3x64uenm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lo5vhwsxwn2p
+f1e34c1f6ebf1eea72047916e177d7f6:facebook:
+  spec:
+    title: Basic n8n ฉบับ DevDev [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/basic-n8n-for-developers/
+  state:
+    id: '100746876247412_666018133054099'
+    url: https://www.facebook.com/100683012920950/posts/666018133054099
+f1e34c1f6ebf1eea72047916e177d7f6:mastodon:
+  spec:
+    title: Basic n8n ฉบับ DevDev [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/basic-n8n-for-developers/
+  state:
+    id: '114436144680618020'
+    url: https://mastodon.in.th/@webring/114436144680618020
+f1e34c1f6ebf1eea72047916e177d7f6:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/basic-n8n-for-developers/
+  state:
+    shortLink: https://link.webring.in.th/2518
 f1fa46c7a74daef8db39789aeb01d989:facebook:
   spec:
     title: Reduce operational costs with terraform [karnwong.me]
