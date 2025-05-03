@@ -2626,6 +2626,32 @@
     url: https://jitrak.dev/posts/post-26-yoda-conditions/
   state:
     shortLink: https://link.webring.in.th/1928
+18067569d28dba8908e34fdbbe6df726:bluesky:
+  spec:
+    title: มาลองใช้งาน MCP Server ของ MongoDB และ Redis [somkiat.cc]
+    url: https://www.somkiat.cc/mcp-server-of-mongodb-and-redis/
+  state:
+    cid: bafyreihksnk4vwdkzevmzuoehxbc5vmjgabwxsgns34b7vf5mlbklrdrzu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3loafoxyxcr2e
+18067569d28dba8908e34fdbbe6df726:facebook:
+  spec:
+    title: มาลองใช้งาน MCP Server ของ MongoDB และ Redis [somkiat.cc]
+    url: https://www.somkiat.cc/mcp-server-of-mongodb-and-redis/
+  state:
+    id: '100746876247412_666788486310397'
+    url: https://www.facebook.com/100683012920950/posts/666788486310397
+18067569d28dba8908e34fdbbe6df726:mastodon:
+  spec:
+    title: มาลองใช้งาน MCP Server ของ MongoDB และ Redis [somkiat.cc]
+    url: https://www.somkiat.cc/mcp-server-of-mongodb-and-redis/
+  state:
+    id: '114441789563404417'
+    url: https://mastodon.in.th/@webring/114441789563404417
+18067569d28dba8908e34fdbbe6df726:shorturl:
+  spec:
+    url: https://www.somkiat.cc/mcp-server-of-mongodb-and-redis/
+  state:
+    shortLink: https://link.webring.in.th/2521
 181e9bb2c0298846bb338f085fbd3d82:facebook:
   spec:
     title: สรุป Software Architecture Meetup 2023 [debuggingsoft.com]
