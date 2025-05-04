@@ -19087,6 +19087,32 @@
     url: https://www.somkiat.cc/api-testing-with-hurl/
   state:
     shortLink: https://link.webring.in.th/1950
+96e2dd034b0183086a439a87fbbba93f:bluesky:
+  spec:
+    title: '[CR] Starbucks Spring Onion & Cream Cheese Bagel [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/cr-spring-onion-cream-cheese-bagel/
+  state:
+    cid: bafyreiepohq664mbdtpmqsx3vyesd73dkwg5z2argxllmndfbb6o3xlrhm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3locwn4nwwb2l
+96e2dd034b0183086a439a87fbbba93f:facebook:
+  spec:
+    title: '[CR] Starbucks Spring Onion & Cream Cheese Bagel [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/cr-spring-onion-cream-cheese-bagel/
+  state:
+    id: '100746876247412_667553909567188'
+    url: https://www.facebook.com/100683012920950/posts/667553909567188
+96e2dd034b0183086a439a87fbbba93f:mastodon:
+  spec:
+    title: '[CR] Starbucks Spring Onion & Cream Cheese Bagel [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/cr-spring-onion-cream-cheese-bagel/
+  state:
+    id: '114447485115867083'
+    url: https://mastodon.in.th/@webring/114447485115867083
+96e2dd034b0183086a439a87fbbba93f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/05/cr-spring-onion-cream-cheese-bagel/
+  state:
+    shortLink: https://link.webring.in.th/2522
 96f7739f7435b2722c08ff63bcecad53:facebook:
   spec:
     title: ว่าด้วยเรื่อง cURL ใช้อย่างไรให้ Pro ใช้อย่างไรถึงจะ Cool [poolsawat.com]
