@@ -8791,6 +8791,32 @@
     url: https://www.poolsawat.com/ebpf-101-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88/
   state:
     shortLink: https://link.webring.in.th/2108
+4b7125b5199378cf5abd5432aafa2e04:bluesky:
+  spec:
+    title: มาใช้งาน Docker MCP Catalog และ Toolkit กัน [somkiat.cc]
+    url: https://www.somkiat.cc/docker-mcp-catalog-and-toolkit/
+  state:
+    cid: bafyreidhprykjzhbb32sm7y7tq223ilz4imkxdpgqi5fkzafrhi7pcwzgq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lofgyyguul2s
+4b7125b5199378cf5abd5432aafa2e04:facebook:
+  spec:
+    title: มาใช้งาน Docker MCP Catalog และ Toolkit กัน [somkiat.cc]
+    url: https://www.somkiat.cc/docker-mcp-catalog-and-toolkit/
+  state:
+    id: '100746876247412_668316899490889'
+    url: https://www.facebook.com/100683012920950/posts/668316899490889
+4b7125b5199378cf5abd5432aafa2e04:mastodon:
+  spec:
+    title: มาใช้งาน Docker MCP Catalog และ Toolkit กัน [somkiat.cc]
+    url: https://www.somkiat.cc/docker-mcp-catalog-and-toolkit/
+  state:
+    id: '114453140948172258'
+    url: https://mastodon.in.th/@webring/114453140948172258
+4b7125b5199378cf5abd5432aafa2e04:shorturl:
+  spec:
+    url: https://www.somkiat.cc/docker-mcp-catalog-and-toolkit/
+  state:
+    shortLink: https://link.webring.in.th/2523
 4b80787b4ee3589b0b1f03f6f0a60356:facebook:
   spec:
     title: 'Go 1.20​ :: การใช้งาน multiple error [somkiat.cc]'
