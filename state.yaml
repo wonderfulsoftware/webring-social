@@ -7258,6 +7258,32 @@
     url: https://www.somkiat.cc/hello-deno-kv/
   state:
     shortLink: https://webring.page.link/dVeq
+3c366bb51f7eb5924af094dcbffcdda1:bluesky:
+  spec:
+    title: 'Spring Test Error java.lang.ClassNotFoundException: org.junit.platform.engine.reporting.OutputDirectoryProvider [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/spring-test-error-java-lang-classnotfoundexception-org-junit-platform-engine-reporting-outputdirectoryprovider/
+  state:
+    cid: bafyreidvgiejp2mrjvah3exdxnhjq4ksfjg6gghrz4ijyll73p6ahp7oqi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lohxcgemaj2o
+3c366bb51f7eb5924af094dcbffcdda1:facebook:
+  spec:
+    title: 'Spring Test Error java.lang.ClassNotFoundException: org.junit.platform.engine.reporting.OutputDirectoryProvider [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/spring-test-error-java-lang-classnotfoundexception-org-junit-platform-engine-reporting-outputdirectoryprovider/
+  state:
+    id: '100746876247412_669078292748083'
+    url: https://www.facebook.com/100683012920950/posts/669078292748083
+3c366bb51f7eb5924af094dcbffcdda1:mastodon:
+  spec:
+    title: 'Spring Test Error java.lang.ClassNotFoundException: org.junit.platform.engine.reporting.OutputDirectoryProvider [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/spring-test-error-java-lang-classnotfoundexception-org-junit-platform-engine-reporting-outputdirectoryprovider/
+  state:
+    id: '114458790889170656'
+    url: https://mastodon.in.th/@webring/114458790889170656
+3c366bb51f7eb5924af094dcbffcdda1:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/05/spring-test-error-java-lang-classnotfoundexception-org-junit-platform-engine-reporting-outputdirectoryprovider/
+  state:
+    shortLink: https://link.webring.in.th/2524
 3ca712d57af0869fde01f356de02f3f1:facebook:
   spec:
     title: แนวคิดการสร้างระบบ Ranking ของ Reddit [somkiat.cc]
