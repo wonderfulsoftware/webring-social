@@ -28295,6 +28295,32 @@ e5272d0b7b742d25a359811567a47db5:shorturl:
     url: https://www.somkiat.cc/technical-skill-for-test-automation-engineer/
   state:
     shortLink: https://link.webring.in.th/1957
+e541de11fd34d2d88404c167d0ea6e8c:bluesky:
+  spec:
+    title: 'OpenTelemetry :: เรื่อง auto instrumentation สำหรับภาษา Go [somkiat.cc]'
+    url: https://www.somkiat.cc/opentelemetry-go-auto-instrumentation/
+  state:
+    cid: bafyreiapbajmztrvfyqbirl3rjfrrvb55tzc2c6iavcoh4yxbeq7fpkjlm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lokqwelehx2p
+e541de11fd34d2d88404c167d0ea6e8c:facebook:
+  spec:
+    title: 'OpenTelemetry :: เรื่อง auto instrumentation สำหรับภาษา Go [somkiat.cc]'
+    url: https://www.somkiat.cc/opentelemetry-go-auto-instrumentation/
+  state:
+    id: '100746876247412_669903312665581'
+    url: https://www.facebook.com/100683012920950/posts/669903312665581
+e541de11fd34d2d88404c167d0ea6e8c:mastodon:
+  spec:
+    title: 'OpenTelemetry :: เรื่อง auto instrumentation สำหรับภาษา Go [somkiat.cc]'
+    url: https://www.somkiat.cc/opentelemetry-go-auto-instrumentation/
+  state:
+    id: '114465097666721991'
+    url: https://mastodon.in.th/@webring/114465097666721991
+e541de11fd34d2d88404c167d0ea6e8c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/opentelemetry-go-auto-instrumentation/
+  state:
+    shortLink: https://link.webring.in.th/2526
 e599a4a02f9215c9e43ba6de04c373fe:facebook:
   spec:
     title: Fallback fonts in VSCode [garden.narze.live]
