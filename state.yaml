@@ -2844,6 +2844,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/02/starbucks-thai-get-e-tax-e-receipt/
   state:
     shortLink: https://link.webring.in.th/2385
+191cd7fa39638543d9ad07435eb217a7:bluesky:
+  spec:
+    title: Illustration - Pinky [lucian.solutions]
+    url: https://lucian.solutions/blog/202505-pinky
+  state:
+    cid: bafyreick3bvhpdiu6lnhutnjntkytn73zxbo3szhv4ngst7s6iwc2v6uyy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lol2pmlifv2l
+191cd7fa39638543d9ad07435eb217a7:facebook:
+  spec:
+    title: Illustration - Pinky [lucian.solutions]
+    url: https://lucian.solutions/blog/202505-pinky
+  state:
+    id: '100746876247412_669984099324169'
+    url: https://www.facebook.com/100683012920950/posts/669984099324169
+191cd7fa39638543d9ad07435eb217a7:mastodon:
+  spec:
+    title: Illustration - Pinky [lucian.solutions]
+    url: https://lucian.solutions/blog/202505-pinky
+  state:
+    id: '114465786251540333'
+    url: https://mastodon.in.th/@webring/114465786251540333
+191cd7fa39638543d9ad07435eb217a7:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202505-pinky
+  state:
+    shortLink: https://link.webring.in.th/2527
 1988959ada09943e6b319e5a097ecb03:facebook:
   spec:
     title: ลอง Tim Hortons ครั้งแรก [debuggingsoft.com]
