@@ -10228,6 +10228,32 @@
     url: https://lucian.solutions/blog/foodreview-fats-angry
   state:
     shortLink: https://link.webring.in.th/2203
+5668bfeff473d5f588631fe80f986002:bluesky:
+  spec:
+    title: เวลามี Merge Request / Pull Request มีแนวทางการตรวจยังไง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/when-there-is-a-merge-request-or-pull-request-what-approach-should-be-used-to-review-it-thai/
+  state:
+    cid: bafyreiagdkryhytg57sgmyih2uklbqxyenvnhccz5qi2vodvolc2swd5mm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lokhu2n3bp2v
+5668bfeff473d5f588631fe80f986002:facebook:
+  spec:
+    title: เวลามี Merge Request / Pull Request มีแนวทางการตรวจยังไง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/when-there-is-a-merge-request-or-pull-request-what-approach-should-be-used-to-review-it-thai/
+  state:
+    id: '100746876247412_669822802673632'
+    url: https://www.facebook.com/100683012920950/posts/669822802673632
+5668bfeff473d5f588631fe80f986002:mastodon:
+  spec:
+    title: เวลามี Merge Request / Pull Request มีแนวทางการตรวจยังไง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/when-there-is-a-merge-request-or-pull-request-what-approach-should-be-used-to-review-it-thai/
+  state:
+    id: '114464459324457931'
+    url: https://mastodon.in.th/@webring/114464459324457931
+5668bfeff473d5f588631fe80f986002:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/05/when-there-is-a-merge-request-or-pull-request-what-approach-should-be-used-to-review-it-thai/
+  state:
+    shortLink: https://link.webring.in.th/2525
 56b7c9b05a831e6bbcc1a4ec542361ec:bluesky:
   spec:
     title: 2024 Year In Review [blog.ninprd.com]
