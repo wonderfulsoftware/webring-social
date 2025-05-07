@@ -30589,6 +30589,32 @@ f7f811db7157f7c89dbaae51eb20c3cf:shorturl:
     url: https://www.boonsong.dev/technical-debt-and-scrum-teams
   state:
     shortLink: https://webring.page.link/rVwR
+f8a73f67036356bd851d4bd266b4902c:bluesky:
+  spec:
+    title: หลังจากลองทำงานเป็น penetration tester เกือบ 1 ปี [annibuliful-lab.dev]
+    url: https://annibuliful-lab.dev/story/software-to-cybersec
+  state:
+    cid: bafyreicruytutqda4nq2pygvn5xfnoukj4p2k5bb55lspnaqmhjn2f2n6e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lolfiy2np327
+f8a73f67036356bd851d4bd266b4902c:facebook:
+  spec:
+    title: หลังจากลองทำงานเป็น penetration tester เกือบ 1 ปี [annibuliful-lab.dev]
+    url: https://annibuliful-lab.dev/story/software-to-cybersec
+  state:
+    id: '100746876247412_670081802647732'
+    url: https://www.facebook.com/100683012920950/posts/670081802647732
+f8a73f67036356bd851d4bd266b4902c:mastodon:
+  spec:
+    title: หลังจากลองทำงานเป็น penetration tester เกือบ 1 ปี [annibuliful-lab.dev]
+    url: https://annibuliful-lab.dev/story/software-to-cybersec
+  state:
+    id: '114466545994841676'
+    url: https://mastodon.in.th/@webring/114466545994841676
+f8a73f67036356bd851d4bd266b4902c:shorturl:
+  spec:
+    url: https://annibuliful-lab.dev/story/software-to-cybersec
+  state:
+    shortLink: https://link.webring.in.th/2528
 f8aa409e478c1a06ac5c2a6d5781269d:facebook:
   spec:
     title: แชร์ประสบการณ์การเดินทางสู่ DIY Car Detailer ตลอด 1 ปีที่ผ่านมา [yothinix.com]
