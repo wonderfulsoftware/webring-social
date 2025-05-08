@@ -4889,6 +4889,32 @@
     url: https://notes.dt.in.th/NpmCheckmark
   state:
     shortLink: https://webring.page.link/eLXa
+2853f9dfe13d573fe9e5cf3f5d61cc19:bluesky:
+  spec:
+    title: ทำความรู้จักกับ Redis Vector Sets ใน Redis 8 [somkiat.cc]
+    url: https://www.somkiat.cc/redis-vector-sets-in-redis-8/
+  state:
+    cid: bafyreiaef7q4qx5zf5cjzefo4nz2xmlrss7yscrv4kixmyd27wbqbotlhe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lomyeg54tm2s
+2853f9dfe13d573fe9e5cf3f5d61cc19:facebook:
+  spec:
+    title: ทำความรู้จักกับ Redis Vector Sets ใน Redis 8 [somkiat.cc]
+    url: https://www.somkiat.cc/redis-vector-sets-in-redis-8/
+  state:
+    id: '100746876247412_670508912605021'
+    url: https://www.facebook.com/100683012920950/posts/670508912605021
+2853f9dfe13d573fe9e5cf3f5d61cc19:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Redis Vector Sets ใน Redis 8 [somkiat.cc]
+    url: https://www.somkiat.cc/redis-vector-sets-in-redis-8/
+  state:
+    id: '114470125033479567'
+    url: https://mastodon.in.th/@webring/114470125033479567
+2853f9dfe13d573fe9e5cf3f5d61cc19:shorturl:
+  spec:
+    url: https://www.somkiat.cc/redis-vector-sets-in-redis-8/
+  state:
+    shortLink: https://link.webring.in.th/2529
 285448231fcac3421538c2e83d98be2a:facebook:
   spec:
     title: XConf Thailand 2023 [debuggingsoft.com]
