@@ -31293,6 +31293,32 @@ ff38fcbf2ad709c2081f9c009ae7f3ac:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-part1/
   state:
     shortLink: https://link.webring.in.th/2434
+ffa89d1fd03395e7cb31d08414ab732f:bluesky:
+  spec:
+    title: วันคืนล่วงไป บัดนี้เราทำอะไรอยู่ (ฉันในวัย 40) [myifew.com]
+    url: https://myifew.com/6599/my40/
+  state:
+    cid: bafyreih3e6cquk57gaksvu2w37oep4mlmzkqhvxifwoq7dbl5lnmvfd7ui
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3loprusyuni2b
+ffa89d1fd03395e7cb31d08414ab732f:facebook:
+  spec:
+    title: วันคืนล่วงไป บัดนี้เราทำอะไรอยู่ (ฉันในวัย 40) [myifew.com]
+    url: https://myifew.com/6599/my40/
+  state:
+    id: '100746876247412_671242845864961'
+    url: https://www.facebook.com/100683012920950/posts/671242845864961
+ffa89d1fd03395e7cb31d08414ab732f:mastodon:
+  spec:
+    title: วันคืนล่วงไป บัดนี้เราทำอะไรอยู่ (ฉันในวัย 40) [myifew.com]
+    url: https://myifew.com/6599/my40/
+  state:
+    id: '114476423770241047'
+    url: https://mastodon.in.th/@webring/114476423770241047
+ffa89d1fd03395e7cb31d08414ab732f:shorturl:
+  spec:
+    url: https://myifew.com/6599/my40/
+  state:
+    shortLink: https://link.webring.in.th/2531
 ffb217f929252a5de06781b9ee360de3:facebook:
   spec:
     title: How to Parse JSON in command line [debuggingsoft.com]
