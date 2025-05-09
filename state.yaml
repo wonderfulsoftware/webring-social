@@ -27837,6 +27837,32 @@ e17fce2e30aeb2102e99245725340871:shorturl:
     url: https://neizod.dev/2023/07/19/smallest-enclosing-disk.html
   state:
     shortLink: https://webring.page.link/s3Ay
+e18196b27cb56ce90ad59d6baa0ebe52:bluesky:
+  spec:
+    title: Safe Application Scaling with Graceful Shutdown [anewlife.dev]
+    url: https://www.anewlife.dev/post/graceful-shutdown-technique/
+  state:
+    cid: bafyreig4hx2k5ggpl6t3jjfiaevotommr7nmhz5dew7bqlkq7co6etxgiq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lopirnazl624
+e18196b27cb56ce90ad59d6baa0ebe52:facebook:
+  spec:
+    title: Safe Application Scaling with Graceful Shutdown [anewlife.dev]
+    url: https://www.anewlife.dev/post/graceful-shutdown-technique/
+  state:
+    id: '100746876247412_671171359205443'
+    url: https://www.facebook.com/100683012920950/posts/671171359205443
+e18196b27cb56ce90ad59d6baa0ebe52:mastodon:
+  spec:
+    title: Safe Application Scaling with Graceful Shutdown [anewlife.dev]
+    url: https://www.anewlife.dev/post/graceful-shutdown-technique/
+  state:
+    id: '114475783461432615'
+    url: https://mastodon.in.th/@webring/114475783461432615
+e18196b27cb56ce90ad59d6baa0ebe52:shorturl:
+  spec:
+    url: https://www.anewlife.dev/post/graceful-shutdown-technique/
+  state:
+    shortLink: https://link.webring.in.th/2530
 e236247690afe8700445e88dc7ec1a58:bluesky:
   spec:
     title: Illustration - わっぴ～✨ [lucian.solutions]
