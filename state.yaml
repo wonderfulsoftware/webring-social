@@ -28145,6 +28145,32 @@ e34437ae6b3c574007aae37a6f609475:shorturl:
     url: https://notes.dt.in.th/Dotenv
   state:
     shortLink: https://link.webring.in.th/2139
+e361367b5f519b9145d9f5e09fcd3fec:bluesky:
+  spec:
+    title: ทำ feature scan QR code บน Android app อย่างง่าย ด้วย ML Kit [mikkipastel.com]
+    url: https://www.mikkipastel.com/feature-scan-qr-code-android-app-ml-kit/
+  state:
+    cid: bafyreibk4a7fierfb26imd6xhaw3iv65zbbwgciyo36rcmnyqrs2siyzia
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3losc6b2eqw2f
+e361367b5f519b9145d9f5e09fcd3fec:facebook:
+  spec:
+    title: ทำ feature scan QR code บน Android app อย่างง่าย ด้วย ML Kit [mikkipastel.com]
+    url: https://www.mikkipastel.com/feature-scan-qr-code-android-app-ml-kit/
+  state:
+    id: '100746876247412_671914002464512'
+    url: https://www.facebook.com/100683012920950/posts/671914002464512
+e361367b5f519b9145d9f5e09fcd3fec:mastodon:
+  spec:
+    title: ทำ feature scan QR code บน Android app อย่างง่าย ด้วย ML Kit [mikkipastel.com]
+    url: https://www.mikkipastel.com/feature-scan-qr-code-android-app-ml-kit/
+  state:
+    id: '114482074136765662'
+    url: https://mastodon.in.th/@webring/114482074136765662
+e361367b5f519b9145d9f5e09fcd3fec:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/feature-scan-qr-code-android-app-ml-kit/
+  state:
+    shortLink: https://link.webring.in.th/2533
 e3673cb87468cc33e02ff5f0ea77c92b:facebook:
   spec:
     title: Illustration - メイドバレンタイン2024 [lucian.solutions]
