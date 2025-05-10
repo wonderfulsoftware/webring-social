@@ -13968,6 +13968,32 @@
     url: https://mikelopster.dev/posts/grpc-go/
   state:
     shortLink: https://link.webring.in.th/2222
+70dcb95e0d995dd11af2869003f5585e:bluesky:
+  spec:
+    title: '[CR] Starbucks Chicken Club Sandwich [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/cr-starbucks-chicken-club-sandwich/
+  state:
+    cid: bafyreice3fl7xlwqpeiiiqcaedeaqqrx6ip7otuevswzm34tmm3bsugpbi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lota4gpov324
+70dcb95e0d995dd11af2869003f5585e:facebook:
+  spec:
+    title: '[CR] Starbucks Chicken Club Sandwich [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/cr-starbucks-chicken-club-sandwich/
+  state:
+    id: '100746876247412_672180082437904'
+    url: https://www.facebook.com/100683012920950/posts/672180082437904
+70dcb95e0d995dd11af2869003f5585e:mastodon:
+  spec:
+    title: '[CR] Starbucks Chicken Club Sandwich [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/cr-starbucks-chicken-club-sandwich/
+  state:
+    id: '114484180950350950'
+    url: https://mastodon.in.th/@webring/114484180950350950
+70dcb95e0d995dd11af2869003f5585e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/05/cr-starbucks-chicken-club-sandwich/
+  state:
+    shortLink: https://link.webring.in.th/2536
 71013f3d8745173525156556dcc0202a:facebook:
   spec:
     title: แก้ปัญหาแอร์น้ำหยดแบบเร่งด่วน [debuggingsoft.com]
