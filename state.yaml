@@ -28705,6 +28705,32 @@ e829e9aa5d52601c3293f4226d2a86c3:shorturl:
     url: https://www.somkiat.cc/hello-grafana-beyla/
   state:
     shortLink: https://link.webring.in.th/2077
+e87f7ac5a02d4bbed04e8a59181a3919:bluesky:
+  spec:
+    title: มาสักทีกับ Grafana K6 version 1.0 [somkiat.cc]
+    url: https://www.somkiat.cc/grafana-k6-version-1/
+  state:
+    cid: bafyreictvjlhzzlqtsli4cgto2lk5okkthwukdb3ek7fq5twvjrmo4yvcq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3loswmtoxfn2d
+e87f7ac5a02d4bbed04e8a59181a3919:facebook:
+  spec:
+    title: มาสักทีกับ Grafana K6 version 1.0 [somkiat.cc]
+    url: https://www.somkiat.cc/grafana-k6-version-1/
+  state:
+    id: '100746876247412_672083592447553'
+    url: https://www.facebook.com/100683012920950/posts/672083592447553
+e87f7ac5a02d4bbed04e8a59181a3919:mastodon:
+  spec:
+    title: มาสักทีกับ Grafana K6 version 1.0 [somkiat.cc]
+    url: https://www.somkiat.cc/grafana-k6-version-1/
+  state:
+    id: '114483513112045889'
+    url: https://mastodon.in.th/@webring/114483513112045889
+e87f7ac5a02d4bbed04e8a59181a3919:shorturl:
+  spec:
+    url: https://www.somkiat.cc/grafana-k6-version-1/
+  state:
+    shortLink: https://link.webring.in.th/2535
 e8bdce8c1d9e3a095fe2c4548bdaf5a1:facebook:
   spec:
     title: มารับความรู้ฝั่ง web3 developer กับงาน Sui Workshop [mikkipastel.com]
