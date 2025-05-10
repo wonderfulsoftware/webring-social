@@ -9023,6 +9023,32 @@
     url: https://mymoneytoolkit.app/posts/crypto-tax-google-sheet
   state:
     shortLink: https://link.webring.in.th/2265
+4c44c7e07574f596c5d3e9d156fdb0a9:bluesky:
+  spec:
+    title: ว่าง ๆ ลองสร้างเอกสารจาก code กันดู ด้วย Pocket Flow [somkiat.cc]
+    url: https://www.somkiat.cc/generate-document-from-code-with-pocketflow/
+  state:
+    cid: bafyreia44u4maenxq76jsk7t2kzws6u6tgx356tpa6c65hd3nog22x45t4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3loslxw6uv723
+4c44c7e07574f596c5d3e9d156fdb0a9:facebook:
+  spec:
+    title: ว่าง ๆ ลองสร้างเอกสารจาก code กันดู ด้วย Pocket Flow [somkiat.cc]
+    url: https://www.somkiat.cc/generate-document-from-code-with-pocketflow/
+  state:
+    id: '100746876247412_671992042456708'
+    url: https://www.facebook.com/100683012920950/posts/671992042456708
+4c44c7e07574f596c5d3e9d156fdb0a9:mastodon:
+  spec:
+    title: ว่าง ๆ ลองสร้างเอกสารจาก code กันดู ด้วย Pocket Flow [somkiat.cc]
+    url: https://www.somkiat.cc/generate-document-from-code-with-pocketflow/
+  state:
+    id: '114482763785760504'
+    url: https://mastodon.in.th/@webring/114482763785760504
+4c44c7e07574f596c5d3e9d156fdb0a9:shorturl:
+  spec:
+    url: https://www.somkiat.cc/generate-document-from-code-with-pocketflow/
+  state:
+    shortLink: https://link.webring.in.th/2534
 4c48020083350576bda0ae7b13004839:bluesky:
   spec:
     title: 3 วันของ DataRockie Mini Bootcamp 2025 เรียนอะไรบ้าง? [mikkipastel.com]
