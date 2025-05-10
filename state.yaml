@@ -24946,6 +24946,32 @@ c860c0569cde5bd92e5079e8c396ff8e:shorturl:
     url: https://chrisza.me/not-simple/mistaken-simplicity/
   state:
     shortLink: https://webring.page.link/UWDE
+c875b928738e8c8520807a8630064d11:bluesky:
+  spec:
+    title: Installing Google Cloud CLI on GitHub Codespaces [dt.in.th]
+    url: https://notes.dt.in.th/InstallGcloudCliOnCodespaces
+  state:
+    cid: bafyreidima7fb2d6xlbbyl3t2zlsb73gmegud52ksepzxzje26vrujqyem
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3loryz7lp6k2o
+c875b928738e8c8520807a8630064d11:facebook:
+  spec:
+    title: Installing Google Cloud CLI on GitHub Codespaces [dt.in.th]
+    url: https://notes.dt.in.th/InstallGcloudCliOnCodespaces
+  state:
+    id: '100746876247412_671839179138661'
+    url: https://www.facebook.com/100683012920950/posts/671839179138661
+c875b928738e8c8520807a8630064d11:mastodon:
+  spec:
+    title: Installing Google Cloud CLI on GitHub Codespaces [dt.in.th]
+    url: https://notes.dt.in.th/InstallGcloudCliOnCodespaces
+  state:
+    id: '114481429234513809'
+    url: https://mastodon.in.th/@webring/114481429234513809
+c875b928738e8c8520807a8630064d11:shorturl:
+  spec:
+    url: https://notes.dt.in.th/InstallGcloudCliOnCodespaces
+  state:
+    shortLink: https://link.webring.in.th/2532
 c89ba756b06b11405c7ed39fe43acb1d:facebook:
   spec:
     title: ตอบคำถามเรื่อง แนวทางในการ shared code [somkiat.cc]
