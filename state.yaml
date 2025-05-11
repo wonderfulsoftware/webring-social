@@ -29248,6 +29248,32 @@ ec3a4076e11607e8627a80a8b706f96d:shorturl:
     url: https://www.somkiat.cc/hello-claude-code/
   state:
     shortLink: https://link.webring.in.th/2431
+ec3aa9ee3e30f03bf2fb461944511246:bluesky:
+  spec:
+    title: คำนวณภาษีหุ้นต่างประเทศ + ปันผล (เวอร์ชันปรับปรุง) [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-offshore-dividend
+  state:
+    cid: bafyreictrgbel662k3smghpav35ayycesg4wogs57dbqj34z6nw3gihj4e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lousopxlbo2l
+ec3aa9ee3e30f03bf2fb461944511246:facebook:
+  spec:
+    title: คำนวณภาษีหุ้นต่างประเทศ + ปันผล (เวอร์ชันปรับปรุง) [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-offshore-dividend
+  state:
+    id: '100746876247412_672605002395412'
+    url: https://www.facebook.com/100683012920950/posts/672605002395412
+ec3aa9ee3e30f03bf2fb461944511246:mastodon:
+  spec:
+    title: คำนวณภาษีหุ้นต่างประเทศ + ปันผล (เวอร์ชันปรับปรุง) [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-offshore-dividend
+  state:
+    id: '114487739723953828'
+    url: https://mastodon.in.th/@webring/114487739723953828
+ec3aa9ee3e30f03bf2fb461944511246:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/tax-offshore-dividend
+  state:
+    shortLink: https://link.webring.in.th/2538
 ec44d854b5b0e9faf14b591878547040:facebook:
   spec:
     title: Reverse-engineering Insta360 Link Controller WebSockets protocol [dt.in.th]
