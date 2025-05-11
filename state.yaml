@@ -8653,6 +8653,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week05-docker-compose/
   state:
     shortLink: https://webring.page.link/QgkH
+490f5fb2014140690eb54d26c0389316:bluesky:
+  spec:
+    title: แยกร่างมาฟัง Global Azure 2025 Thailand + AzureSecEve [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/global-azure-2025-thailand/
+  state:
+    cid: bafyreie56xdgpn26rniavga5peiwbe5ums553sjw4spy7holipz2zoss6q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3loujsqvvn42l
+490f5fb2014140690eb54d26c0389316:facebook:
+  spec:
+    title: แยกร่างมาฟัง Global Azure 2025 Thailand + AzureSecEve [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/global-azure-2025-thailand/
+  state:
+    id: '100746876247412_672524592403453'
+    url: https://www.facebook.com/100683012920950/posts/672524592403453
+490f5fb2014140690eb54d26c0389316:mastodon:
+  spec:
+    title: แยกร่างมาฟัง Global Azure 2025 Thailand + AzureSecEve [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/global-azure-2025-thailand/
+  state:
+    id: '114487115133971562'
+    url: https://mastodon.in.th/@webring/114487115133971562
+490f5fb2014140690eb54d26c0389316:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/05/global-azure-2025-thailand/
+  state:
+    shortLink: https://link.webring.in.th/2537
 493355bf3669ed864b7915de434ed11f:facebook:
   spec:
     title: เล่าประสบการณ์การทำ Github Actions ของงาน Compose Battle [mikkipastel.com]
