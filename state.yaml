@@ -2531,6 +2531,32 @@
     url: https://www.mikkipastel.com/content-3-0-ai-for-content-creator/
   state:
     shortLink: https://webring.page.link/mGkG
+16d9bf08e334daf5d5b3dea175499054:bluesky:
+  spec:
+    title: Session management in Elysia using Remix’s session storage [dt.in.th]
+    url: https://notes.dt.in.th/ElysiaRemixSession
+  state:
+    cid: bafyreic5vhgmrrszatmxvdt5fsgcnlobyyq5tesrhgrf4ovdohnysyu7au
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lox2danv3k23
+16d9bf08e334daf5d5b3dea175499054:facebook:
+  spec:
+    title: Session management in Elysia using Remix’s session storage [dt.in.th]
+    url: https://notes.dt.in.th/ElysiaRemixSession
+  state:
+    id: '100746876247412_673230878999491'
+    url: https://www.facebook.com/100683012920950/posts/673230878999491
+16d9bf08e334daf5d5b3dea175499054:mastodon:
+  spec:
+    title: Session management in Elysia using Remix’s session storage [dt.in.th]
+    url: https://notes.dt.in.th/ElysiaRemixSession
+  state:
+    id: '114492781207420703'
+    url: https://mastodon.in.th/@webring/114492781207420703
+16d9bf08e334daf5d5b3dea175499054:shorturl:
+  spec:
+    url: https://notes.dt.in.th/ElysiaRemixSession
+  state:
+    shortLink: https://link.webring.in.th/2539
 16dfa75a3b79a9b61231002edb38c67f:facebook:
   spec:
     title: สรุปเรื่องที่น่าสนใจจาก DevOps and Cloud Trend July 2023 จาก InfoQ [somkiat.cc]
