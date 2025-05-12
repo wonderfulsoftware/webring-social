@@ -23738,6 +23738,32 @@ bd5b134b9a6e2e7a2ba58e7013bb8047:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/10/ai102-develop-natural-language-processing-solutions-with-azure-ai-services/
   state:
     shortLink: https://link.webring.in.th/2181
+bdb9f2e225b9022af1b2912c42d7f2de:bluesky:
+  spec:
+    title: วัดผลงานการเทรดแบบหลายไม้ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/caculate-cost-v2
+  state:
+    cid: bafyreig6a632lybwxfjc2ubeizs4hpwg6cy5vblusmurw7wwfdq5ig6goa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3loxdckyieb2f
+bdb9f2e225b9022af1b2912c42d7f2de:facebook:
+  spec:
+    title: วัดผลงานการเทรดแบบหลายไม้ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/caculate-cost-v2
+  state:
+    id: '100746876247412_673307768991802'
+    url: https://www.facebook.com/100683012920950/posts/673307768991802
+bdb9f2e225b9022af1b2912c42d7f2de:mastodon:
+  spec:
+    title: วัดผลงานการเทรดแบบหลายไม้ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/caculate-cost-v2
+  state:
+    id: '114493412399818959'
+    url: https://mastodon.in.th/@webring/114493412399818959
+bdb9f2e225b9022af1b2912c42d7f2de:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/caculate-cost-v2
+  state:
+    shortLink: https://link.webring.in.th/2540
 bde97e16d926c30e48a01a38e424bee1:facebook:
   spec:
     title: 62 - garden-astro - add tests [garden.narze.live]
