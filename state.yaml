@@ -14860,6 +14860,32 @@
     url: https://yuttakhanb.dev/posts/taiwan-trip-2024/
   state:
     shortLink: https://link.webring.in.th/1947
+7712ac53f16511e73c1f144476b410a6:bluesky:
+  spec:
+    title: รื้อเสาอากาศทีวีอายุ 30 ปี !!! [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/remove-30-year-old-tv-antenna/
+  state:
+    cid: bafyreifazyixdyiivfmezgn6lbibr6is6kvq7g5aozhv23u2arnajfwicu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3loztqbm63x2b
+7712ac53f16511e73c1f144476b410a6:facebook:
+  spec:
+    title: รื้อเสาอากาศทีวีอายุ 30 ปี !!! [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/remove-30-year-old-tv-antenna/
+  state:
+    id: '100746876247412_673983735590872'
+    url: https://www.facebook.com/100683012920950/posts/673983735590872
+7712ac53f16511e73c1f144476b410a6:mastodon:
+  spec:
+    title: รื้อเสาอากาศทีวีอายุ 30 ปี !!! [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/remove-30-year-old-tv-antenna/
+  state:
+    id: '114499072307153591'
+    url: https://mastodon.in.th/@webring/114499072307153591
+7712ac53f16511e73c1f144476b410a6:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/05/remove-30-year-old-tv-antenna/
+  state:
+    shortLink: https://link.webring.in.th/2542
 7728bbf03672db361cc5a78f515d4b35:facebook:
   spec:
     title: รู้จักกับ FastAPI [mikelopster.dev]
