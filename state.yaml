@@ -30578,6 +30578,32 @@ f5109db332b0e52bdff07389f9949042:shorturl:
     url: https://www.mikkipastel.com/docker-101/
   state:
     shortLink: https://link.webring.in.th/2288
+f52de2d2cea5eaff42a900768ca9c80b:bluesky:
+  spec:
+    title: สิ่งที่น่าสนใจจากเรื่อง Goodbye Microservices จาก 100+ เหลือ 1 service [somkiat.cc]
+    url: https://www.somkiat.cc/note-goodbye-microservices/
+  state:
+    cid: bafyreie2bxkpmylxs5dwfybd7kw6eiihpdydyk7sda2ihbxke3rqcz2pva
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lozkq7qmpz2n
+f52de2d2cea5eaff42a900768ca9c80b:facebook:
+  spec:
+    title: สิ่งที่น่าสนใจจากเรื่อง Goodbye Microservices จาก 100+ เหลือ 1 service [somkiat.cc]
+    url: https://www.somkiat.cc/note-goodbye-microservices/
+  state:
+    id: '100746876247412_673913112264601'
+    url: https://www.facebook.com/100683012920950/posts/673913112264601
+f52de2d2cea5eaff42a900768ca9c80b:mastodon:
+  spec:
+    title: สิ่งที่น่าสนใจจากเรื่อง Goodbye Microservices จาก 100+ เหลือ 1 service [somkiat.cc]
+    url: https://www.somkiat.cc/note-goodbye-microservices/
+  state:
+    id: '114498438883821911'
+    url: https://mastodon.in.th/@webring/114498438883821911
+f52de2d2cea5eaff42a900768ca9c80b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-goodbye-microservices/
+  state:
+    shortLink: https://link.webring.in.th/2541
 f52e6cc105cd38ba08ddb80ada7f1b01:facebook:
   spec:
     title: Riffy's adventure to Northern Japan and choked along the way [rayriffy.com]
