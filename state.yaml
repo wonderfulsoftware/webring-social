@@ -17509,6 +17509,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/06/access-almalinux-9-via-rdp/
   state:
     shortLink: https://webring.page.link/S7cX
+88d932c60dc0a6cd53271c4d8fd0788e:bluesky:
+  spec:
+    title: '[JAVA] Json Path [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/java-json-path/
+  state:
+    cid: bafyreif5va35f5jfzyrkad3zauro6hruwoqs3wgndfenm55khqe3oohsdy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lp434vogxv2y
+88d932c60dc0a6cd53271c4d8fd0788e:facebook:
+  spec:
+    title: '[JAVA] Json Path [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/java-json-path/
+  state:
+    id: '100746876247412_674568225532423'
+    url: https://www.facebook.com/100683012920950/posts/674568225532423
+88d932c60dc0a6cd53271c4d8fd0788e:mastodon:
+  spec:
+    title: '[JAVA] Json Path [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/java-json-path/
+  state:
+    id: '114504096439178127'
+    url: https://mastodon.in.th/@webring/114504096439178127
+88d932c60dc0a6cd53271c4d8fd0788e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/05/java-json-path/
+  state:
+    shortLink: https://link.webring.in.th/2544
 890c5e29243d578175c93d741a51c5a8:facebook:
   spec:
     title: แนะนำใช้งาน RestClient ใน Spring Boot 3.2 [somkiat.cc]
