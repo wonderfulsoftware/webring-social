@@ -31425,6 +31425,32 @@ fc5aa262c05c298e3b4f9ad65f0771e5:shorturl:
     url: https://www.somkiat.cc/note-deom-why-im-no-longer-talking-to-architects-about-microservices/
   state:
     shortLink: https://link.webring.in.th/2471
+fd39516d8b107378a75b996ca4d73a93:bluesky:
+  spec:
+    title: Man Hin By Chef Man-ข้าวมันไก่ฮ่องกง 99 บาท [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/man-hin-by-chef-man-hongkong-chicken-rice/
+  state:
+    cid: bafyreianyw6qbjal5xhoziqt42ckrag5buog4vrvfdvtan6ned5jshmosq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lp6lmre34f2z
+fd39516d8b107378a75b996ca4d73a93:facebook:
+  spec:
+    title: Man Hin By Chef Man-ข้าวมันไก่ฮ่องกง 99 บาท [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/man-hin-by-chef-man-hongkong-chicken-rice/
+  state:
+    id: '100746876247412_675229135466332'
+    url: https://www.facebook.com/100683012920950/posts/675229135466332
+fd39516d8b107378a75b996ca4d73a93:mastodon:
+  spec:
+    title: Man Hin By Chef Man-ข้าวมันไก่ฮ่องกง 99 บาท [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/man-hin-by-chef-man-hongkong-chicken-rice/
+  state:
+    id: '114509760652811114'
+    url: https://mastodon.in.th/@webring/114509760652811114
+fd39516d8b107378a75b996ca4d73a93:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/05/man-hin-by-chef-man-hongkong-chicken-rice/
+  state:
+    shortLink: https://link.webring.in.th/2545
 fd4b806a1ef371b85bf738f4a8699837:facebook:
   spec:
     title: Serverless real-time machine learning inference with AWS [karnwong.me]
