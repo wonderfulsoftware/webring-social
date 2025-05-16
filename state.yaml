@@ -27931,6 +27931,32 @@ df6af564246bc5294aa7438f9791a096:shorturl:
     url: https://www.somkiat.cc/spring-initializr-with-spring-boot-3/
   state:
     shortLink: https://webring.page.link/4M9o
+e08457a1c5a5d979ca09f237ef07a091:bluesky:
+  spec:
+    title: บันทึกแนวทางการทดสอบ AWS Serverless app [somkiat.cc]
+    url: https://www.somkiat.cc/how-to-test-aws-serverless-app/
+  state:
+    cid: bafyreiauluor3arbjwabmr7mmmqwa3bvgbb6jilj2eoyna6ec55azzkkdy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lpbf4l5pvv2h
+e08457a1c5a5d979ca09f237ef07a091:facebook:
+  spec:
+    title: บันทึกแนวทางการทดสอบ AWS Serverless app [somkiat.cc]
+    url: https://www.somkiat.cc/how-to-test-aws-serverless-app/
+  state:
+    id: '100746876247412_676002585388987'
+    url: https://www.facebook.com/100683012920950/posts/676002585388987
+e08457a1c5a5d979ca09f237ef07a091:mastodon:
+  spec:
+    title: บันทึกแนวทางการทดสอบ AWS Serverless app [somkiat.cc]
+    url: https://www.somkiat.cc/how-to-test-aws-serverless-app/
+  state:
+    id: '114516058563833165'
+    url: https://mastodon.in.th/@webring/114516058563833165
+e08457a1c5a5d979ca09f237ef07a091:shorturl:
+  spec:
+    url: https://www.somkiat.cc/how-to-test-aws-serverless-app/
+  state:
+    shortLink: https://link.webring.in.th/2547
 e0a2dacf0eb89b9f955dac5d82a6e4c7:facebook:
   spec:
     title: ค่าปรับต่างๆจาก TOR ของโครงการ IT [debuggingsoft.com]
