@@ -29577,6 +29577,32 @@ ed28edc326c69e97cc7771a55b578a03:shorturl:
     url: https://www.somkiat.cc/standard-schema-with-typescript/
   state:
     shortLink: https://link.webring.in.th/2380
+ed2e5a802ebb8a2694adc1ad9221b04a:bluesky:
+  spec:
+    title: การใช้งาน VI Editor [thiti.dev]
+    url: https://thiti.dev/blog/125/
+  state:
+    cid: bafyreib2aeo6h3ilpk4viiuc7qpdq24u6ob5mszeeipk3gbwybmfnoc3py
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lpb45kmd4n2l
+ed2e5a802ebb8a2694adc1ad9221b04a:facebook:
+  spec:
+    title: การใช้งาน VI Editor [thiti.dev]
+    url: https://thiti.dev/blog/125/
+  state:
+    id: '100746876247412_675926512063261'
+    url: https://www.facebook.com/100683012920950/posts/675926512063261
+ed2e5a802ebb8a2694adc1ad9221b04a:mastodon:
+  spec:
+    title: การใช้งาน VI Editor [thiti.dev]
+    url: https://thiti.dev/blog/125/
+  state:
+    id: '114515427348316003'
+    url: https://mastodon.in.th/@webring/114515427348316003
+ed2e5a802ebb8a2694adc1ad9221b04a:shorturl:
+  spec:
+    url: https://thiti.dev/blog/125/
+  state:
+    shortLink: https://link.webring.in.th/2546
 ed3318e18af6b576baa479fe876ebec1:facebook:
   spec:
     title: 1 เว็บไซต์ต้องทำอะไรบ้าง? [tech.duckfollow.co]
