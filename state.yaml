@@ -2080,6 +2080,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/cr-starbucks-skinny-banana-muffin/
   state:
     shortLink: https://webring.page.link/5yCp
+11e8828f0d5ead913ceb5163ec5a13d4:bluesky:
+  spec:
+    title: โพยการใช้ git เมื่อทำ side project บน Github [mikkipastel.com]
+    url: https://www.mikkipastel.com/list-git-command-for-side-project-in-github/
+  state:
+    cid: bafyreiakh3tj7slgcspcwhiv7xpziu2nrssm652vboksy46iqvaetr63ru
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lpejwd5b7323
+11e8828f0d5ead913ceb5163ec5a13d4:facebook:
+  spec:
+    title: โพยการใช้ git เมื่อทำ side project บน Github [mikkipastel.com]
+    url: https://www.mikkipastel.com/list-git-command-for-side-project-in-github/
+  state:
+    id: '100746876247412_676874321968480'
+    url: https://www.facebook.com/100683012920950/posts/676874321968480
+11e8828f0d5ead913ceb5163ec5a13d4:mastodon:
+  spec:
+    title: โพยการใช้ git เมื่อทำ side project บน Github [mikkipastel.com]
+    url: https://www.mikkipastel.com/list-git-command-for-side-project-in-github/
+  state:
+    id: '114523152032975432'
+    url: https://mastodon.in.th/@webring/114523152032975432
+11e8828f0d5ead913ceb5163ec5a13d4:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/list-git-command-for-side-project-in-github/
+  state:
+    shortLink: https://link.webring.in.th/2551
 1218403ac66de1efcfacf4718fa380e4:facebook:
   spec:
     title: Oracle VirtualBox Licensed [debuggingsoft.com]
