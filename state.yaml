@@ -15332,6 +15332,32 @@
     url: https://www.somkiat.cc/redisearch-with-geolocation/
   state:
     shortLink: https://webring.page.link/49P6
+7a69580f2fd89b4a7c27f166d7f45ef2:bluesky:
+  spec:
+    title: แก้ปัญหา GitLab อาการผีหลอกก เช่น push branch หาย!! / Branch protection rule ไม่ทำงาน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/gitlab-does-not-see-new-update-such-as-new-branch-or-branch-protection-rule-not-activate/
+  state:
+    cid: bafyreif5cori7qs6asglc4ymti5joxzfl5oe6vz4ghqx7ob2eyorlt2f6y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lpdvhqroza2n
+7a69580f2fd89b4a7c27f166d7f45ef2:facebook:
+  spec:
+    title: แก้ปัญหา GitLab อาการผีหลอกก เช่น push branch หาย!! / Branch protection rule ไม่ทำงาน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/gitlab-does-not-see-new-update-such-as-new-branch-or-branch-protection-rule-not-activate/
+  state:
+    id: '100746876247412_676680245321221'
+    url: https://www.facebook.com/100683012920950/posts/676680245321221
+7a69580f2fd89b4a7c27f166d7f45ef2:mastodon:
+  spec:
+    title: แก้ปัญหา GitLab อาการผีหลอกก เช่น push branch หาย!! / Branch protection rule ไม่ทำงาน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/05/gitlab-does-not-see-new-update-such-as-new-branch-or-branch-protection-rule-not-activate/
+  state:
+    id: '114521712506008881'
+    url: https://mastodon.in.th/@webring/114521712506008881
+7a69580f2fd89b4a7c27f166d7f45ef2:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/05/gitlab-does-not-see-new-update-such-as-new-branch-or-branch-protection-rule-not-activate/
+  state:
+    shortLink: https://link.webring.in.th/2549
 7a7151e49f07709f9cba27d973db8cea:facebook:
   spec:
     title: เรียนรู้ Go - compile อัตโนมัติ ด้วย Air บน Docker [kajame.xyz]
