@@ -23021,6 +23021,32 @@ b5d5932ca6509415d3540f5fb9f9154b:shorturl:
     url: https://www.somkiat.cc/note-from-how-github-engineers-learn-new-codebases/
   state:
     shortLink: https://link.webring.in.th/2459
+b61651d425ce5c71f40c5920a62b8748:bluesky:
+  spec:
+    title: Running Grist with Google Sign-In and External Storage on Docker Compose [dt.in.th]
+    url: https://notes.dt.in.th/GristDockerCompose
+  state:
+    cid: bafyreig453rpvgmr72olciir5leic7nizhoyi7c6eeqnp6vjwrnk7yfcxq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lpdmetzqvm2d
+b61651d425ce5c71f40c5920a62b8748:facebook:
+  spec:
+    title: Running Grist with Google Sign-In and External Storage on Docker Compose [dt.in.th]
+    url: https://notes.dt.in.th/GristDockerCompose
+  state:
+    id: '100746876247412_676602785328967'
+    url: https://www.facebook.com/100683012920950/posts/676602785328967
+b61651d425ce5c71f40c5920a62b8748:mastodon:
+  spec:
+    title: Running Grist with Google Sign-In and External Storage on Docker Compose [dt.in.th]
+    url: https://notes.dt.in.th/GristDockerCompose
+  state:
+    id: '114521072885877015'
+    url: https://mastodon.in.th/@webring/114521072885877015
+b61651d425ce5c71f40c5920a62b8748:shorturl:
+  spec:
+    url: https://notes.dt.in.th/GristDockerCompose
+  state:
+    shortLink: https://link.webring.in.th/2548
 b67c68ab72b1009cf2e73735c84dba8a:facebook:
   spec:
     title: ทดลองใช้ AI generate ภาพ แบบ text-to-image จากเว็บไซต์ต่าง ๆ [mikkipastel.com]
