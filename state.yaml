@@ -7137,6 +7137,32 @@
     url: https://wawasabii.com/blog/how-many-thai-tea-safe-sunset-yellow/
   state:
     shortLink: https://link.webring.in.th/2514
+3b8d099e2f92ad22ec7ce2e0f8cb944d:bluesky:
+  spec:
+    title: พัฒนาการของเด็กในแต่ละช่วงวัย [thiti.dev]
+    url: https://thiti.dev/blog/z1/
+  state:
+    cid: bafyreiecq5nlgpvfblzbxgexyuikopaergvkapjxn2uji5y27kkwu6rom4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lpe7b4ukao2l
+3b8d099e2f92ad22ec7ce2e0f8cb944d:facebook:
+  spec:
+    title: พัฒนาการของเด็กในแต่ละช่วงวัย [thiti.dev]
+    url: https://thiti.dev/blog/z1/
+  state:
+    id: '100746876247412_676770401978872'
+    url: https://www.facebook.com/100683012920950/posts/676770401978872
+3b8d099e2f92ad22ec7ce2e0f8cb944d:mastodon:
+  spec:
+    title: พัฒนาการของเด็กในแต่ละช่วงวัย [thiti.dev]
+    url: https://thiti.dev/blog/z1/
+  state:
+    id: '114522401745486267'
+    url: https://mastodon.in.th/@webring/114522401745486267
+3b8d099e2f92ad22ec7ce2e0f8cb944d:shorturl:
+  spec:
+    url: https://thiti.dev/blog/z1/
+  state:
+    shortLink: https://link.webring.in.th/2550
 3b94626ce1218eb71b57c5381b742ee9:bluesky:
   spec:
     title: คำนวณเงินผ่อน กู้บ้าน/กู้ร่วม [mymoneytoolkit.app]
