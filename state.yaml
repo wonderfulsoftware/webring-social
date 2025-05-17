@@ -4073,6 +4073,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-r-programming-101/
   state:
     shortLink: https://link.webring.in.th/2390
+2280e924585f5926a83466b3db69b87d:bluesky:
+  spec:
+    title: มาอัพสกิลกับหลักสูตร AI Skills for Everyone [mikkipastel.com]
+    url: https://www.mikkipastel.com/microsoft-ai-skills-training-ai-skills-for-everyone/
+  state:
+    cid: bafyreiahnk7dfm63t5e7snc22vk65weqjmhbbplcz7so6sdln7c2s6dqcy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lpetdxfy2e2c
+2280e924585f5926a83466b3db69b87d:facebook:
+  spec:
+    title: มาอัพสกิลกับหลักสูตร AI Skills for Everyone [mikkipastel.com]
+    url: https://www.mikkipastel.com/microsoft-ai-skills-training-ai-skills-for-everyone/
+  state:
+    id: '100746876247412_676976135291632'
+    url: https://www.facebook.com/100683012920950/posts/676976135291632
+2280e924585f5926a83466b3db69b87d:mastodon:
+  spec:
+    title: มาอัพสกิลกับหลักสูตร AI Skills for Everyone [mikkipastel.com]
+    url: https://www.mikkipastel.com/microsoft-ai-skills-training-ai-skills-for-everyone/
+  state:
+    id: '114523815203295201'
+    url: https://mastodon.in.th/@webring/114523815203295201
+2280e924585f5926a83466b3db69b87d:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/microsoft-ai-skills-training-ai-skills-for-everyone/
+  state:
+    shortLink: https://link.webring.in.th/2552
 22831b3aad446be3ca103c999b7231d3:facebook:
   spec:
     title: The Cloud Camp Week#06 (K8S Part1) [debuggingsoft.com]
