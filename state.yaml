@@ -19477,6 +19477,32 @@
     url: https://www.somkiat.cc/api-testing-with-hurl/
   state:
     shortLink: https://link.webring.in.th/1950
+96e0f853e015a1bdbaee87581a1ebc1d:bluesky:
+  spec:
+    title: '[Eng] Distributed Scheduler The Series: Episode 0 — From Zero to Orchestrator [sujamess.com]'
+    url: https://sujamess.com/blogs/20250519-from-zero-to-orchestrator-the-series-ep-0/
+  state:
+    cid: bafyreiblguyemjy722gkpmiyjsfrnsexhdtbbirfjd5hutbp7yb3zhieyi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lplgz2t6es2f
+96e0f853e015a1bdbaee87581a1ebc1d:facebook:
+  spec:
+    title: '[Eng] Distributed Scheduler The Series: Episode 0 — From Zero to Orchestrator [sujamess.com]'
+    url: https://sujamess.com/blogs/20250519-from-zero-to-orchestrator-the-series-ep-0/
+  state:
+    id: '100746876247412_678892698433309'
+    url: https://www.facebook.com/100683012920950/posts/678892698433309
+96e0f853e015a1bdbaee87581a1ebc1d:mastodon:
+  spec:
+    title: '[Eng] Distributed Scheduler The Series: Episode 0 — From Zero to Orchestrator [sujamess.com]'
+    url: https://sujamess.com/blogs/20250519-from-zero-to-orchestrator-the-series-ep-0/
+  state:
+    id: '114538709380866769'
+    url: https://mastodon.in.th/@webring/114538709380866769
+96e0f853e015a1bdbaee87581a1ebc1d:shorturl:
+  spec:
+    url: https://sujamess.com/blogs/20250519-from-zero-to-orchestrator-the-series-ep-0/
+  state:
+    shortLink: https://link.webring.in.th/2554
 96e2dd034b0183086a439a87fbbba93f:bluesky:
   spec:
     title: '[CR] Starbucks Spring Onion & Cream Cheese Bagel [debuggingsoft.com]'
