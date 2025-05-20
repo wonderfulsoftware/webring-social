@@ -24245,6 +24245,32 @@ bfeacd2a0c7c5ebb3a3b43cf21886d8d:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/09/db2-list-which-table-data-change/
   state:
     shortLink: https://link.webring.in.th/2146
+c0464b1c69baba1814d70a391aeffb16:bluesky:
+  spec:
+    title: MCP Basic [mikelopster.dev]
+    url: https://mikelopster.dev/posts/mcp-basic/
+  state:
+    cid: bafyreigdcw7ahslg7esy63f5nyjotaha5j3bupqabolqa77fom6yaylzba
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lpl5z4gnfv2y
+c0464b1c69baba1814d70a391aeffb16:facebook:
+  spec:
+    title: MCP Basic [mikelopster.dev]
+    url: https://mikelopster.dev/posts/mcp-basic/
+  state:
+    id: '100746876247412_678810575108188'
+    url: https://www.facebook.com/100683012920950/posts/678810575108188
+c0464b1c69baba1814d70a391aeffb16:mastodon:
+  spec:
+    title: MCP Basic [mikelopster.dev]
+    url: https://mikelopster.dev/posts/mcp-basic/
+  state:
+    id: '114538076245230600'
+    url: https://mastodon.in.th/@webring/114538076245230600
+c0464b1c69baba1814d70a391aeffb16:shorturl:
+  spec:
+    url: https://mikelopster.dev/posts/mcp-basic/
+  state:
+    shortLink: https://link.webring.in.th/2553
 c04dfe0b554c94ec9d09046503f2cd9b:facebook:
   spec:
     title: '[CR] สมหมายข้าวมันไก่ [debuggingsoft.com]'
