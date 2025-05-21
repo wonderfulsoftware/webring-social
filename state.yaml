@@ -4680,6 +4680,32 @@
     url: https://amiearth.com/blog/postgres-defined-primary-key-latest
   state:
     shortLink: https://link.webring.in.th/2420
+2691cc7c50c229b04502b0393f9e14d8:bluesky:
+  spec:
+    title: '[Eng] Distributed Scheduler The Series: Episode 1 — The Naive Orchestrator [sujamess.com]'
+    url: https://sujamess.com/blogs/20250520-distributed-scheduler-the-series-ep-1/
+  state:
+    cid: bafyreidk3oa4ae7i32drqxjppp6znyfz5yysdsa56w6k2mjt5irmbe3c6i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lpnoh2gfdl2c
+2691cc7c50c229b04502b0393f9e14d8:facebook:
+  spec:
+    title: '[Eng] Distributed Scheduler The Series: Episode 1 — The Naive Orchestrator [sujamess.com]'
+    url: https://sujamess.com/blogs/20250520-distributed-scheduler-the-series-ep-1/
+  state:
+    id: '100746876247412_679535091702403'
+    url: https://www.facebook.com/100683012920950/posts/679535091702403
+2691cc7c50c229b04502b0393f9e14d8:mastodon:
+  spec:
+    title: '[Eng] Distributed Scheduler The Series: Episode 1 — The Naive Orchestrator [sujamess.com]'
+    url: https://sujamess.com/blogs/20250520-distributed-scheduler-the-series-ep-1/
+  state:
+    id: '114543736436244478'
+    url: https://mastodon.in.th/@webring/114543736436244478
+2691cc7c50c229b04502b0393f9e14d8:shorturl:
+  spec:
+    url: https://sujamess.com/blogs/20250520-distributed-scheduler-the-series-ep-1/
+  state:
+    shortLink: https://link.webring.in.th/2555
 2692d7b59877566b8f2e834f3ae1443d:facebook:
   spec:
     title: 'AI-102: Implement knowledge mining with Azure AI Search [debuggingsoft.com]'
