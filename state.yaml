@@ -31412,6 +31412,32 @@ f8e049c5ebee8c93763ff7aaa624257f:shorturl:
     url: https://notes.dt.in.th/MongoDBAuthSource
   state:
     shortLink: https://webring.page.link/jRDn
+f8e362697e79c0719932b4ef30253bea:bluesky:
+  spec:
+    title: มาลองใช้งาน Microsoft Foundry Local สำหรับ run Local LLM [somkiat.cc]
+    url: https://www.somkiat.cc/microsoft-foundry-local/
+  state:
+    cid: bafyreievffatgzxepfsxh24vue46gqq6mrfujs5s3iqtsr7a626w4eanem
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lpqhwjjnns24
+f8e362697e79c0719932b4ef30253bea:facebook:
+  spec:
+    title: มาลองใช้งาน Microsoft Foundry Local สำหรับ run Local LLM [somkiat.cc]
+    url: https://www.somkiat.cc/microsoft-foundry-local/
+  state:
+    id: '100746876247412_680350231620889'
+    url: https://www.facebook.com/100683012920950/posts/680350231620889
+f8e362697e79c0719932b4ef30253bea:mastodon:
+  spec:
+    title: มาลองใช้งาน Microsoft Foundry Local สำหรับ run Local LLM [somkiat.cc]
+    url: https://www.somkiat.cc/microsoft-foundry-local/
+  state:
+    id: '114550033230665765'
+    url: https://mastodon.in.th/@webring/114550033230665765
+f8e362697e79c0719932b4ef30253bea:shorturl:
+  spec:
+    url: https://www.somkiat.cc/microsoft-foundry-local/
+  state:
+    shortLink: https://link.webring.in.th/2558
 f95260ea32c3b591957690ea58296d2c:facebook:
   spec:
     title: ตอบคำถามเรื่อง การทดสอบ Mobile app กับระบบ network [somkiat.cc]
