@@ -19268,6 +19268,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/08/install-samsung-notes-on-windows-10-11/
   state:
     shortLink: https://webring.page.link/x7gt
+94b48cf04afe8a1404e93e0d94cb97f8:bluesky:
+  spec:
+    title: Gemini 2.5 Pro Text-to-Speech Thai Voice Previews [dt.in.th]
+    url: https://notes.dt.in.th/Gemini25ProPreviewTTSThai
+  state:
+    cid: bafyreigooncxl2jvuzqt2jhvp2pols43q4btelnhv7mhpdkf6s2rbgtv5y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lpq6w7eui327
+94b48cf04afe8a1404e93e0d94cb97f8:facebook:
+  spec:
+    title: Gemini 2.5 Pro Text-to-Speech Thai Voice Previews [dt.in.th]
+    url: https://notes.dt.in.th/Gemini25ProPreviewTTSThai
+  state:
+    id: '100746876247412_680273828295196'
+    url: https://www.facebook.com/100683012920950/posts/680273828295196
+94b48cf04afe8a1404e93e0d94cb97f8:mastodon:
+  spec:
+    title: Gemini 2.5 Pro Text-to-Speech Thai Voice Previews [dt.in.th]
+    url: https://notes.dt.in.th/Gemini25ProPreviewTTSThai
+  state:
+    id: '114549399368544067'
+    url: https://mastodon.in.th/@webring/114549399368544067
+94b48cf04afe8a1404e93e0d94cb97f8:shorturl:
+  spec:
+    url: https://notes.dt.in.th/Gemini25ProPreviewTTSThai
+  state:
+    shortLink: https://link.webring.in.th/2557
 95207831176b2d6539a3fb71cfc10f86:facebook:
   spec:
     title: How to setup GIT with SSH Authenication [debuggingsoft.com]
