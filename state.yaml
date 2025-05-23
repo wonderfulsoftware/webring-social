@@ -16005,6 +16005,32 @@
     url: https://www.mikkipastel.com/line-thailand-developer-conference-2024/
   state:
     shortLink: https://link.webring.in.th/2236
+7dc5bd7254b046072085c10753914aed:bluesky:
+  spec:
+    title: 'Cloud Native Bangkok Community Group #01 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/cloud-native-bangkok-community-group-01/
+  state:
+    cid: bafyreid6gsdqbjgchveqq7cmpfr2q75wt72uyqc3ujsihhtr6h75rocf24
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lpsyfbnaux2f
+7dc5bd7254b046072085c10753914aed:facebook:
+  spec:
+    title: 'Cloud Native Bangkok Community Group #01 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/cloud-native-bangkok-community-group-01/
+  state:
+    id: '100746876247412_681073058215273'
+    url: https://www.facebook.com/100683012920950/posts/681073058215273
+7dc5bd7254b046072085c10753914aed:mastodon:
+  spec:
+    title: 'Cloud Native Bangkok Community Group #01 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/cloud-native-bangkok-community-group-01/
+  state:
+    id: '114555695068920230'
+    url: https://mastodon.in.th/@webring/114555695068920230
+7dc5bd7254b046072085c10753914aed:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/05/cloud-native-bangkok-community-group-01/
+  state:
+    shortLink: https://link.webring.in.th/2560
 7dc5e5fb9579869856a5b83fcc4b3f42:bluesky:
   spec:
     title: Using ZRAM for compressed RAM-backed swap space in Linux [dt.in.th]
