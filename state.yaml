@@ -22477,6 +22477,32 @@ aeae4386ab11f84d2e5a3d937b2a7662:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/04/postgresql-docker-compose-for-postgresql-and-pgadmin/
   state:
     shortLink: https://link.webring.in.th/1878
+aecf31b48f98c3a4a89476eaeac4d50d:bluesky:
+  spec:
+    title: แนะนำการใช้งาน Local LLM ใน VSCode แบบง่าย ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/local-llm-in-vscode/
+  state:
+    cid: bafyreih5r27sl3khcgcxrjqwnyrpomuxi3iuwf34ow5red463oye2xwpga
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lptc5ndmh222
+aecf31b48f98c3a4a89476eaeac4d50d:facebook:
+  spec:
+    title: แนะนำการใช้งาน Local LLM ใน VSCode แบบง่าย ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/local-llm-in-vscode/
+  state:
+    id: '100746876247412_681157441540168'
+    url: https://www.facebook.com/100683012920950/posts/681157441540168
+aecf31b48f98c3a4a89476eaeac4d50d:mastodon:
+  spec:
+    title: แนะนำการใช้งาน Local LLM ใน VSCode แบบง่าย ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/local-llm-in-vscode/
+  state:
+    id: '114556381937394743'
+    url: https://mastodon.in.th/@webring/114556381937394743
+aecf31b48f98c3a4a89476eaeac4d50d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/local-llm-in-vscode/
+  state:
+    shortLink: https://link.webring.in.th/2561
 aedd782525d4406fc0085e094e96b1ea:facebook:
   spec:
     title: 'Key Takeaways: “ถ้า Agile มันทำให้ แผนกรอบข้าง ยากนัก กลับมาทำ Waterfall ก็ได้นะครับ” [myifew.com]'
