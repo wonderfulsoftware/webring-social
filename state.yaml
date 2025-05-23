@@ -26455,6 +26455,32 @@ d09e362befe037c0c29309df5304b501:shorturl:
     url: https://siravijbb.me/blog/universal-motor-presentation/
   state:
     shortLink: https://webring.page.link/qpfF
+d0bf3840ec09d38e889c21f25c56e57d:bluesky:
+  spec:
+    title: Using TypeScript natively in Node.js 22 [dt.in.th]
+    url: https://notes.dt.in.th/Node22NativeTypeScript
+  state:
+    cid: bafyreigjiphgzj7yrli5xtyhokx2q4kcqrjjisai3cgke6p5na6sorqtke
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lpsperrhej2a
+d0bf3840ec09d38e889c21f25c56e57d:facebook:
+  spec:
+    title: Using TypeScript natively in Node.js 22 [dt.in.th]
+    url: https://notes.dt.in.th/Node22NativeTypeScript
+  state:
+    id: '100746876247412_680994508223128'
+    url: https://www.facebook.com/100683012920950/posts/680994508223128
+d0bf3840ec09d38e889c21f25c56e57d:mastodon:
+  spec:
+    title: Using TypeScript natively in Node.js 22 [dt.in.th]
+    url: https://notes.dt.in.th/Node22NativeTypeScript
+  state:
+    id: '114555060843590732'
+    url: https://mastodon.in.th/@webring/114555060843590732
+d0bf3840ec09d38e889c21f25c56e57d:shorturl:
+  spec:
+    url: https://notes.dt.in.th/Node22NativeTypeScript
+  state:
+    shortLink: https://link.webring.in.th/2559
 d13fec6b11affe0625c5c98a8647178b:facebook:
   spec:
     title: เรียนรู้ - useCallback [kajame.xyz]
