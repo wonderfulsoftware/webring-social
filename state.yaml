@@ -12710,6 +12710,32 @@
     url: https://blog.zartre.com/2024/my-favourite-shots-apr-2024/
   state:
     shortLink: https://link.webring.in.th/2242
+6595f997a2aaa7f3d445139de5850319:bluesky:
+  spec:
+    title: Spring AI 1.0 ปล่อยออกมาให้ใช้งานแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/spring-ai-1-ga/
+  state:
+    cid: bafyreienfbu2qeddrrzn2q6urp6eq3byfr2wderkvemxrtso5wy55jnjwq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lpxqlr7q3j2z
+6595f997a2aaa7f3d445139de5850319:facebook:
+  spec:
+    title: Spring AI 1.0 ปล่อยออกมาให้ใช้งานแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/spring-ai-1-ga/
+  state:
+    id: '100746876247412_682489791406933'
+    url: https://www.facebook.com/100683012920950/posts/682489791406933
+6595f997a2aaa7f3d445139de5850319:mastodon:
+  spec:
+    title: Spring AI 1.0 ปล่อยออกมาให้ใช้งานแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/spring-ai-1-ga/
+  state:
+    id: '114566405469614512'
+    url: https://mastodon.in.th/@webring/114566405469614512
+6595f997a2aaa7f3d445139de5850319:shorturl:
+  spec:
+    url: https://www.somkiat.cc/spring-ai-1-ga/
+  state:
+    shortLink: https://link.webring.in.th/2562
 65b21feff8f3a6f1fa0a3ff884883911:facebook:
   spec:
     title: bcdedit enum options [debuggingsoft.com]
