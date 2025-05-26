@@ -30363,6 +30363,32 @@ eff57d26016ee16aca4a485bb694ef5b:shorturl:
     url: https://pontakorn.dev/posts/type-hint-in-python/
   state:
     shortLink: https://link.webring.in.th/2107
+effb5fc929dcbe1f2daead7d82017a43:bluesky:
+  spec:
+    title: Deploying n8n to Virtuozzo Application Platform [dt.in.th]
+    url: https://notes.dt.in.th/N8nVirtuozzoPaas
+  state:
+    cid: bafyreifhfsgqiz7tggiu6a5vgtfzspzcvnlmgn7gt63uofpyynr7l2nyke
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lq2ayncjpt2a
+effb5fc929dcbe1f2daead7d82017a43:facebook:
+  spec:
+    title: Deploying n8n to Virtuozzo Application Platform [dt.in.th]
+    url: https://notes.dt.in.th/N8nVirtuozzoPaas
+  state:
+    id: '100746876247412_683226291333283'
+    url: https://www.facebook.com/100683012920950/posts/683226291333283
+effb5fc929dcbe1f2daead7d82017a43:mastodon:
+  spec:
+    title: Deploying n8n to Virtuozzo Application Platform [dt.in.th]
+    url: https://notes.dt.in.th/N8nVirtuozzoPaas
+  state:
+    id: '114572063269396196'
+    url: https://mastodon.in.th/@webring/114572063269396196
+effb5fc929dcbe1f2daead7d82017a43:shorturl:
+  spec:
+    url: https://notes.dt.in.th/N8nVirtuozzoPaas
+  state:
+    shortLink: https://link.webring.in.th/2563
 f034ba0e2c9e8e8a763fb86bf36b431d:bluesky:
   spec:
     title: บันทึกการแบ่งปันเรื่อง การเขียน test [somkiat.cc]
