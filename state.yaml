@@ -2016,6 +2016,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/12/fix-permission-denied-var-lib-pgadmin-sessions-in-docker-when-custom-a-port/
   state:
     shortLink: https://link.webring.in.th/2283
+1120628a9ae58f996cfe73f982000aac:bluesky:
+  spec:
+    title: '[IBM][DB2.NET] SQL0902 An unexpected exception has occurred in Process: … There are no context policies. Function: AESEncryptADONET [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/ibmdb2-net-sql0902-an-unexpected-exception-has-occurred-in-process-there-are-no-context-policies-function-aesencryptadonet/
+  state:
+    cid: bafyreihvdog5ntm5dg5rfhfo6bkzjmd34e5ku5kq4na7p6f3rhiogradju
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lq7brzrusb2a
+1120628a9ae58f996cfe73f982000aac:facebook:
+  spec:
+    title: '[IBM][DB2.NET] SQL0902 An unexpected exception has occurred in Process: … There are no context policies. Function: AESEncryptADONET [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/ibmdb2-net-sql0902-an-unexpected-exception-has-occurred-in-process-there-are-no-context-policies-function-aesencryptadonet/
+  state:
+    id: '100746876247412_684701004519145'
+    url: https://www.facebook.com/100683012920950/posts/684701004519145
+1120628a9ae58f996cfe73f982000aac:mastodon:
+  spec:
+    title: '[IBM][DB2.NET] SQL0902 An unexpected exception has occurred in Process: … There are no context policies. Function: AESEncryptADONET [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/ibmdb2-net-sql0902-an-unexpected-exception-has-occurred-in-process-there-are-no-context-policies-function-aesencryptadonet/
+  state:
+    id: '114583378273529526'
+    url: https://mastodon.in.th/@webring/114583378273529526
+1120628a9ae58f996cfe73f982000aac:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/05/ibmdb2-net-sql0902-an-unexpected-exception-has-occurred-in-process-there-are-no-context-policies-function-aesencryptadonet/
+  state:
+    shortLink: https://link.webring.in.th/2564
 11ca6f63b70af5dd3b88182821293e2e:facebook:
   spec:
     title: เพิ่งเห็นว่า Mojo เป็นให้ Download แล้ว [somkiat.cc]
