@@ -18063,6 +18063,32 @@
     url: https://karnwong.me/posts/2024/01/collaboration-model-for-data-science-projects/
   state:
     shortLink: https://link.webring.in.th/1728
+8a94ed4b32dd6277770499ffbf8584d1:bluesky:
+  spec:
+    title: Approaches to Using Single Dockerfile for Multi-arch Builds [zartre.com]
+    url: https://blog.zartre.com/2025/approaches-to-using-single-dockerfile-for-multi-arch-builds/
+  state:
+    cid: bafyreicoidcuopq44dzkuziwqobhrdnmbw2pzmq6pkckce6hex3ucflhde
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lq7kqgnea42a
+8a94ed4b32dd6277770499ffbf8584d1:facebook:
+  spec:
+    title: Approaches to Using Single Dockerfile for Multi-arch Builds [zartre.com]
+    url: https://blog.zartre.com/2025/approaches-to-using-single-dockerfile-for-multi-arch-builds/
+  state:
+    id: '100746876247412_684776104511635'
+    url: https://www.facebook.com/100683012920950/posts/684776104511635
+8a94ed4b32dd6277770499ffbf8584d1:mastodon:
+  spec:
+    title: Approaches to Using Single Dockerfile for Multi-arch Builds [zartre.com]
+    url: https://blog.zartre.com/2025/approaches-to-using-single-dockerfile-for-multi-arch-builds/
+  state:
+    id: '114584007618435934'
+    url: https://mastodon.in.th/@webring/114584007618435934
+8a94ed4b32dd6277770499ffbf8584d1:shorturl:
+  spec:
+    url: https://blog.zartre.com/2025/approaches-to-using-single-dockerfile-for-multi-arch-builds/
+  state:
+    shortLink: https://link.webring.in.th/2565
 8aa95ece21691bd86118d3422acf6a61:facebook:
   spec:
     title: ตอบคำถามเรื่อง การใช้งาน ORM (Object-Relational Mapping) [somkiat.cc]
