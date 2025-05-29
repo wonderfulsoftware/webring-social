@@ -15113,6 +15113,32 @@
     url: https://www.mikkipastel.com/new-portfolio-website/
   state:
     shortLink: https://link.webring.in.th/2352
+77521e9239e1fdcf6b88612a4b717cc2:bluesky:
+  spec:
+    title: Spring Boot 3.5 ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-3-5/
+  state:
+    cid: bafyreidxa5tzerb7pmtnbyxyyupysvuv5lqmcq6fizholcl3xzhapekxwq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lqbsd4a7ci2y
+77521e9239e1fdcf6b88612a4b717cc2:facebook:
+  spec:
+    title: Spring Boot 3.5 ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-3-5/
+  state:
+    id: '100746876247412_685435961112316'
+    url: https://www.facebook.com/100683012920950/posts/685435961112316
+77521e9239e1fdcf6b88612a4b717cc2:mastodon:
+  spec:
+    title: Spring Boot 3.5 ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-3-5/
+  state:
+    id: '114589045039362265'
+    url: https://mastodon.in.th/@webring/114589045039362265
+77521e9239e1fdcf6b88612a4b717cc2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/spring-boot-3-5/
+  state:
+    shortLink: https://link.webring.in.th/2566
 775b3a0aeebfb7e382283f3feb99469a:facebook:
   spec:
     title: API Architecture Styles [tech.duckfollow.co]
