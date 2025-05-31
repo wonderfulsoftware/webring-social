@@ -15312,6 +15312,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/jenkins-jenkins-not-able-to-fetch-code-from-remote-git/
   state:
     shortLink: https://webring.page.link/UCGv
+78bbc5d4ec4f3334ad9f59dc100ad10b:bluesky:
+  spec:
+    title: รู้จัก Power BI ฉบับมือใหม่ เพิ่งเรียนมา ทำตามง่ายแน่นอน [mikkipastel.com]
+    url: https://www.mikkipastel.com/power-bi-for-beginner/
+  state:
+    cid: bafyreidfs7rhx3zkq5nf5vp34x6iaejpw2lqg3hrveo4kzmdhyovaa2jzi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lqh3zkyn5q2y
+78bbc5d4ec4f3334ad9f59dc100ad10b:facebook:
+  spec:
+    title: รู้จัก Power BI ฉบับมือใหม่ เพิ่งเรียนมา ทำตามง่ายแน่นอน [mikkipastel.com]
+    url: https://www.mikkipastel.com/power-bi-for-beginner/
+  state:
+    id: '100746876247412_687023420953570'
+    url: https://www.facebook.com/100683012920950/posts/687023420953570
+78bbc5d4ec4f3334ad9f59dc100ad10b:mastodon:
+  spec:
+    title: รู้จัก Power BI ฉบับมือใหม่ เพิ่งเรียนมา ทำตามง่ายแน่นอน [mikkipastel.com]
+    url: https://www.mikkipastel.com/power-bi-for-beginner/
+  state:
+    id: '114600986869594735'
+    url: https://mastodon.in.th/@webring/114600986869594735
+78bbc5d4ec4f3334ad9f59dc100ad10b:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/power-bi-for-beginner/
+  state:
+    shortLink: https://link.webring.in.th/2568
 78e832ad07f7467d091ed2a10ec1453d:facebook:
   spec:
     title: Android Developer ทำแอพให้รองรับ Accessibility ได้อย่างไรบ้าง? [mikkipastel.com]
