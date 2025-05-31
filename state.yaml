@@ -7746,6 +7746,32 @@
     url: https://thammarith.dev/blog/hongkong-2024/
   state:
     shortLink: https://link.webring.in.th/1948
+3f04bc577c4c7f20e1702bfae2a3b4c9:bluesky:
+  spec:
+    title: สรุป Session - Monetizing AI Innovations [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/summarize-fof-bkk-duolingo-monetizing-ai-innovations/
+  state:
+    cid: bafyreicqapvz63ovk6muvai4gmuqrbk3yzyea3hygh5smabnh53rqwy3qq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lqgt34xecs2q
+3f04bc577c4c7f20e1702bfae2a3b4c9:facebook:
+  spec:
+    title: สรุป Session - Monetizing AI Innovations [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/summarize-fof-bkk-duolingo-monetizing-ai-innovations/
+  state:
+    id: '100746876247412_686942554294990'
+    url: https://www.facebook.com/100683012920950/posts/686942554294990
+3f04bc577c4c7f20e1702bfae2a3b4c9:mastodon:
+  spec:
+    title: สรุป Session - Monetizing AI Innovations [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/summarize-fof-bkk-duolingo-monetizing-ai-innovations/
+  state:
+    id: '114600356972561888'
+    url: https://mastodon.in.th/@webring/114600356972561888
+3f04bc577c4c7f20e1702bfae2a3b4c9:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/summarize-fof-bkk-duolingo-monetizing-ai-innovations/
+  state:
+    shortLink: https://link.webring.in.th/2567
 3f093c98be3ada1966ab0a563f35f8ba:facebook:
   spec:
     title: ทำ Login with Facebook ใน React Native (ios) [kajame.xyz]
