@@ -1048,6 +1048,32 @@
     url: https://kajame.xyz/blog/%E0%B9%81%E0%B8%81%E0%B9%89%20Error%20%22xcodebuild%22%20command%20but%20it%20exited%20with%20error%20code%2065
   state:
     shortLink: https://webring.page.link/ZZUH
+091344acb45695d9c04bf647a671ebf4:bluesky:
+  spec:
+    title: 'Google Colab: Mount Google Drive [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/google-colab-mount-google-drive/
+  state:
+    cid: bafyreiajcsn2t66isxvzgekb4vdqpayl4f7o4ovir5ceznhxfrta2tutsi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lqhfsqp3nn2t
+091344acb45695d9c04bf647a671ebf4:facebook:
+  spec:
+    title: 'Google Colab: Mount Google Drive [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/google-colab-mount-google-drive/
+  state:
+    id: '100746876247412_687111917611387'
+    url: https://www.facebook.com/100683012920950/posts/687111917611387
+091344acb45695d9c04bf647a671ebf4:mastodon:
+  spec:
+    title: 'Google Colab: Mount Google Drive [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/05/google-colab-mount-google-drive/
+  state:
+    id: '114601675638650580'
+    url: https://mastodon.in.th/@webring/114601675638650580
+091344acb45695d9c04bf647a671ebf4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/05/google-colab-mount-google-drive/
+  state:
+    shortLink: https://link.webring.in.th/2569
 09504cd8c4b528117f7d8bb268d788f5:facebook:
   spec:
     title: '[AZURE] Recovery Service vault cannot be deleted as there are backup items still present in soft delete state [debuggingsoft.com]'
