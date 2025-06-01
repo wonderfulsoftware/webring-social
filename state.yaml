@@ -10912,6 +10912,32 @@
     url: https://www.somkiat.cc/intro-typespec-for-api-design/
   state:
     shortLink: https://link.webring.in.th/1996
+5979cd835cfeaf45cb4f80ac4e99b01a:bluesky:
+  spec:
+    title: My code search setup throughout the years [karnwong.me]
+    url: https://karnwong.me/posts/2025/05/my-code-search-setup-throughout-the-years/
+  state:
+    cid: bafyreibgdo44u4zxmpav3xa2kpdzrtpapljfgk24oldwkdx7m4hzmw7azi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lqjejqt3zf2f
+5979cd835cfeaf45cb4f80ac4e99b01a:facebook:
+  spec:
+    title: My code search setup throughout the years [karnwong.me]
+    url: https://karnwong.me/posts/2025/05/my-code-search-setup-throughout-the-years/
+  state:
+    id: '100746876247412_687702030885709'
+    url: https://www.facebook.com/100683012920950/posts/687702030885709
+5979cd835cfeaf45cb4f80ac4e99b01a:mastodon:
+  spec:
+    title: My code search setup throughout the years [karnwong.me]
+    url: https://karnwong.me/posts/2025/05/my-code-search-setup-throughout-the-years/
+  state:
+    id: '114606089187031014'
+    url: https://mastodon.in.th/@webring/114606089187031014
+5979cd835cfeaf45cb4f80ac4e99b01a:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/05/my-code-search-setup-throughout-the-years/
+  state:
+    shortLink: https://link.webring.in.th/2570
 59b5f3a8ce42b4d0b4587c952c438181:facebook:
   spec:
     title: Food Review - plan a. [lucian.solutions]
