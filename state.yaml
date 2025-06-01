@@ -2654,6 +2654,32 @@
     url: https://www.somkiat.cc/note-devops-and-cloud-trend-july-2023-from-infoq/
   state:
     shortLink: https://webring.page.link/GZoZ
+171c71e9321db67e903ff5894d9d5dff:bluesky:
+  spec:
+    title: Robot Framework 7.3 ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/robot-framework-7-3/
+  state:
+    cid: bafyreihziyv7jqpkfrmlfo5bcngufdjmmploaehjcndbfapts4lpqkjb3m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lqjmk6akwr2a
+171c71e9321db67e903ff5894d9d5dff:facebook:
+  spec:
+    title: Robot Framework 7.3 ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/robot-framework-7-3/
+  state:
+    id: '100746876247412_687775444211701'
+    url: https://www.facebook.com/100683012920950/posts/687775444211701
+171c71e9321db67e903ff5894d9d5dff:mastodon:
+  spec:
+    title: Robot Framework 7.3 ออกมาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/robot-framework-7-3/
+  state:
+    id: '114606652938447020'
+    url: https://mastodon.in.th/@webring/114606652938447020
+171c71e9321db67e903ff5894d9d5dff:shorturl:
+  spec:
+    url: https://www.somkiat.cc/robot-framework-7-3/
+  state:
+    shortLink: https://link.webring.in.th/2571
 173a15d8f44ecc3d67d48beec9455429:facebook:
   spec:
     title: '[K8S] kubectl enable autocomplete [debuggingsoft.com]'
