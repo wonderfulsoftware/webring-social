@@ -20114,6 +20114,32 @@
     url: https://www.somkiat.cc/virtual-thread-in-spring-boot-3/
   state:
     shortLink: https://webring.page.link/8Mwd
+9ad5dfc47dad0826840c1041ffbdd3e7:bluesky:
+  spec:
+    title: อยากทำเว็บง่าย ๆ ไม่ต้องเขียนเองล่ะ ใช้ GitHub Copilot เขียนให้ [mikkipastel.com]
+    url: https://www.mikkipastel.com/building-applications-with-github-copilot-agent-mode/
+  state:
+    cid: bafyreiewxrp3q4xbkuvwtrtlz5yskorpahw63in5vphlt4p257a53tizvu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lqoeqdrvdu2q
+9ad5dfc47dad0826840c1041ffbdd3e7:facebook:
+  spec:
+    title: อยากทำเว็บง่าย ๆ ไม่ต้องเขียนเองล่ะ ใช้ GitHub Copilot เขียนให้ [mikkipastel.com]
+    url: https://www.mikkipastel.com/building-applications-with-github-copilot-agent-mode/
+  state:
+    id: '100746876247412_689204677402111'
+    url: https://www.facebook.com/100683012920950/posts/689204677402111
+9ad5dfc47dad0826840c1041ffbdd3e7:mastodon:
+  spec:
+    title: อยากทำเว็บง่าย ๆ ไม่ต้องเขียนเองล่ะ ใช้ GitHub Copilot เขียนให้ [mikkipastel.com]
+    url: https://www.mikkipastel.com/building-applications-with-github-copilot-agent-mode/
+  state:
+    id: '114617362657082594'
+    url: https://mastodon.in.th/@webring/114617362657082594
+9ad5dfc47dad0826840c1041ffbdd3e7:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/building-applications-with-github-copilot-agent-mode/
+  state:
+    shortLink: https://link.webring.in.th/2572
 9afb2b5c8e740a4b294a025255ce9f05:facebook:
   spec:
     title: สรุปจาก The Way Of Testivus [somkiat.cc]
