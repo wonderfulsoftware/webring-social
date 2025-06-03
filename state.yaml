@@ -12520,6 +12520,32 @@
     url: https://www.somkiat.cc/try-gonew/
   state:
     shortLink: https://webring.page.link/WSiA
+6377ea2e3041a3c5d7b4986e1bd94f03:bluesky:
+  spec:
+    title: คำนวณแบ่งเงินลงทุนก้อน + DCA พร้อมดูผลตอบแทนแยกรายพอร์ต [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/split-investment-dca
+  state:
+    cid: bafyreihqvu2b6dg7yoxknl76jxcbprdbgojvbje436etemmwxa3qxzjwl4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lqonkenfbl27
+6377ea2e3041a3c5d7b4986e1bd94f03:facebook:
+  spec:
+    title: คำนวณแบ่งเงินลงทุนก้อน + DCA พร้อมดูผลตอบแทนแยกรายพอร์ต [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/split-investment-dca
+  state:
+    id: '100746876247412_689284397394139'
+    url: https://www.facebook.com/100683012920950/posts/689284397394139
+6377ea2e3041a3c5d7b4986e1bd94f03:mastodon:
+  spec:
+    title: คำนวณแบ่งเงินลงทุนก้อน + DCA พร้อมดูผลตอบแทนแยกรายพอร์ต [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/split-investment-dca
+  state:
+    id: '114617982756901750'
+    url: https://mastodon.in.th/@webring/114617982756901750
+6377ea2e3041a3c5d7b4986e1bd94f03:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/split-investment-dca
+  state:
+    shortLink: https://link.webring.in.th/2573
 63887caf0fb38a8b32bc3bc0e5eb1485:facebook:
   spec:
     title: มาดูการเปลี่ยนแปลงใน Robot Framework 7.0 alpha 1 [somkiat.cc]
