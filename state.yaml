@@ -20930,6 +20930,32 @@ a1c9279007c366f5917a9e1cacf58322:shorturl:
     url: https://bigdatarpg.com/2024/07/28/my-2022-achivements/
   state:
     shortLink: https://link.webring.in.th/2049
+a1d739dac916c91e5aae51459a4156a9:bluesky:
+  spec:
+    title: ทดลองใช้ Mistral OCR สำหรับอ่านข้อมูลจาก PDF [somkiat.cc]
+    url: https://www.somkiat.cc/try-mistral-ocr-with-pdf-file/
+  state:
+    cid: bafyreidamel7i4hv4h3r7inqtz4jwub5kiipioatmrhj4aflijgdndilk4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lqr5ytjgmb2q
+a1d739dac916c91e5aae51459a4156a9:facebook:
+  spec:
+    title: ทดลองใช้ Mistral OCR สำหรับอ่านข้อมูลจาก PDF [somkiat.cc]
+    url: https://www.somkiat.cc/try-mistral-ocr-with-pdf-file/
+  state:
+    id: '100746876247412_690044773984768'
+    url: https://www.facebook.com/100683012920950/posts/690044773984768
+a1d739dac916c91e5aae51459a4156a9:mastodon:
+  spec:
+    title: ทดลองใช้ Mistral OCR สำหรับอ่านข้อมูลจาก PDF [somkiat.cc]
+    url: https://www.somkiat.cc/try-mistral-ocr-with-pdf-file/
+  state:
+    id: '114623643935169201'
+    url: https://mastodon.in.th/@webring/114623643935169201
+a1d739dac916c91e5aae51459a4156a9:shorturl:
+  spec:
+    url: https://www.somkiat.cc/try-mistral-ocr-with-pdf-file/
+  state:
+    shortLink: https://link.webring.in.th/2575
 a1fc654eae8ca5c14e18da045946930c:facebook:
   spec:
     title: Time series data streams ใน Elasticsearch 8.6.0 [somkiat.cc]
