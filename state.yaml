@@ -19580,6 +19580,32 @@
     url: https://notes.dt.in.th/Gemini25ProPreviewTTSThai
   state:
     shortLink: https://link.webring.in.th/2557
+94eff704d1d8cdda21847b99618347f7:bluesky:
+  spec:
+    title: Model inference in onnx [karnwong.me]
+    url: https://karnwong.me/posts/2025/06/model-inference-in-onnx/
+  state:
+    cid: bafyreidxsksm5ltxrs55oeap2s7uttjmsbosxy2ccciku26jy3l5oov2sm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lqqv7ttvn72j
+94eff704d1d8cdda21847b99618347f7:facebook:
+  spec:
+    title: Model inference in onnx [karnwong.me]
+    url: https://karnwong.me/posts/2025/06/model-inference-in-onnx/
+  state:
+    id: '100746876247412_689965723992673'
+    url: https://www.facebook.com/100683012920950/posts/689965723992673
+94eff704d1d8cdda21847b99618347f7:mastodon:
+  spec:
+    title: Model inference in onnx [karnwong.me]
+    url: https://karnwong.me/posts/2025/06/model-inference-in-onnx/
+  state:
+    id: '114623026089713162'
+    url: https://mastodon.in.th/@webring/114623026089713162
+94eff704d1d8cdda21847b99618347f7:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/06/model-inference-in-onnx/
+  state:
+    shortLink: https://link.webring.in.th/2574
 95207831176b2d6539a3fb71cfc10f86:facebook:
   spec:
     title: How to setup GIT with SSH Authenication [debuggingsoft.com]
