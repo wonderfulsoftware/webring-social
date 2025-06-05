@@ -1978,6 +1978,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/04/performance-issue/
   state:
     shortLink: https://link.webring.in.th/1863
+10a151ca7dcde515e80e2cbcb21b1aba:bluesky:
+  spec:
+    title: สร้าง AI agent ด้วย Microsoft Azure Foundry กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/develop-ai-agents-on-azure/
+  state:
+    cid: bafyreiak3oblyxwz644mkpb262ow5mrdrro6v5bpnhwdc4lj5vr23r3ima
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lqtfpui5dt2q
+10a151ca7dcde515e80e2cbcb21b1aba:facebook:
+  spec:
+    title: สร้าง AI agent ด้วย Microsoft Azure Foundry กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/develop-ai-agents-on-azure/
+  state:
+    id: '100746876247412_690712027251376'
+    url: https://www.facebook.com/100683012920950/posts/690712027251376
+10a151ca7dcde515e80e2cbcb21b1aba:mastodon:
+  spec:
+    title: สร้าง AI agent ด้วย Microsoft Azure Foundry กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/develop-ai-agents-on-azure/
+  state:
+    id: '114628690883722577'
+    url: https://mastodon.in.th/@webring/114628690883722577
+10a151ca7dcde515e80e2cbcb21b1aba:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/develop-ai-agents-on-azure/
+  state:
+    shortLink: https://link.webring.in.th/2576
 10b5732a0d6a8024d6df09fdce082c4f:facebook:
   spec:
     title: '[KBTG-GO#04] API Design [debuggingsoft.com]'
