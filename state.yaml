@@ -15423,6 +15423,32 @@
     url: https://thanapon.info/ci-platform-io-semantic-release/
   state:
     shortLink: https://link.webring.in.th/2039
+7848bc53e2be9f5eed284646d39e6d76:bluesky:
+  spec:
+    title: ขั้นตอนย้าย Nameservers ของ Domain ไป Cloudflare [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/move-your-dns-name-server-to-cloudflare/
+  state:
+    cid: bafyreibfwsuvy46clav6e43wjewbyfxyejriasvey36wqzdltobzoqotq4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lqvw5an6kq2y
+7848bc53e2be9f5eed284646d39e6d76:facebook:
+  spec:
+    title: ขั้นตอนย้าย Nameservers ของ Domain ไป Cloudflare [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/move-your-dns-name-server-to-cloudflare/
+  state:
+    id: '100746876247412_691461013843144'
+    url: https://www.facebook.com/100683012920950/posts/691461013843144
+7848bc53e2be9f5eed284646d39e6d76:mastodon:
+  spec:
+    title: ขั้นตอนย้าย Nameservers ของ Domain ไป Cloudflare [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/move-your-dns-name-server-to-cloudflare/
+  state:
+    id: '114634349671264077'
+    url: https://mastodon.in.th/@webring/114634349671264077
+7848bc53e2be9f5eed284646d39e6d76:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/06/move-your-dns-name-server-to-cloudflare/
+  state:
+    shortLink: https://link.webring.in.th/2577
 788b822f1d2bb7d0aa070b35a7c53d91:facebook:
   spec:
     title: '[Jenkins] Jenkins not able to fetch code from remote git [debuggingsoft.com]'
