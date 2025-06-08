@@ -3833,6 +3833,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week04-agile/
   state:
     shortLink: https://webring.page.link/CVz3
+1f380b68867d4825f6c98367a73ee3b6:bluesky:
+  spec:
+    title: Verifying browser data via Playwright [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/playwright-browser-data/
+  state:
+    cid: bafyreibqeqp2mrkn7ndqq2h2ozvubwfug3x5andmonyuxqx5fuiyj47lr4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lr37syaw5f2j
+1f380b68867d4825f6c98367a73ee3b6:facebook:
+  spec:
+    title: Verifying browser data via Playwright [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/playwright-browser-data/
+  state:
+    id: '100746876247412_693064647016114'
+    url: https://www.facebook.com/100683012920950/posts/693064647016114
+1f380b68867d4825f6c98367a73ee3b6:mastodon:
+  spec:
+    title: Verifying browser data via Playwright [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/playwright-browser-data/
+  state:
+    id: '114646289572189176'
+    url: https://mastodon.in.th/@webring/114646289572189176
+1f380b68867d4825f6c98367a73ee3b6:shorturl:
+  spec:
+    url: https://yuttakhanb.dev/posts/playwright-browser-data/
+  state:
+    shortLink: https://link.webring.in.th/2579
 1f8529afdd9e05b4e235955572176825:bluesky:
   spec:
     title: จดๆจาก Thailand Developer Day 2025 [debuggingsoft.com]
