@@ -11436,6 +11436,32 @@
     url: https://www.somkiat.cc/fallacies-of-distributed-computing-the-network-is-reliable/
   state:
     shortLink: https://link.webring.in.th/2333
+5d61063df010c9c3d5ceb8a9f670fc11:bluesky:
+  spec:
+    title: '[CR] Sho Ryu Ramen เซ็นจูรี่ เดอะมูฟวี่พลาซ่า [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/06/cr-sho-ryu-ramen-century-the-movie-plaza/
+  state:
+    cid: bafyreihx42ewm3crt2sarnfq5vhrv2bgrgse3zf2xra4ydf6jlr6ifwp7a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lr2xgdzd6g27
+5d61063df010c9c3d5ceb8a9f670fc11:facebook:
+  spec:
+    title: '[CR] Sho Ryu Ramen เซ็นจูรี่ เดอะมูฟวี่พลาซ่า [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/06/cr-sho-ryu-ramen-century-the-movie-plaza/
+  state:
+    id: '100746876247412_692987387023840'
+    url: https://www.facebook.com/100683012920950/posts/692987387023840
+5d61063df010c9c3d5ceb8a9f670fc11:mastodon:
+  spec:
+    title: '[CR] Sho Ryu Ramen เซ็นจูรี่ เดอะมูฟวี่พลาซ่า [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/06/cr-sho-ryu-ramen-century-the-movie-plaza/
+  state:
+    id: '114645699188867218'
+    url: https://mastodon.in.th/@webring/114645699188867218
+5d61063df010c9c3d5ceb8a9f670fc11:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/06/cr-sho-ryu-ramen-century-the-movie-plaza/
+  state:
+    shortLink: https://link.webring.in.th/2578
 5d719068376edd19f96fa8863cff2d5f:facebook:
   spec:
     title: ปัญหาของ WebClient ใน Spring Boot 3 [somkiat.cc]
