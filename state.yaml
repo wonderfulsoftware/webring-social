@@ -242,6 +242,32 @@
     url: https://www.somkiat.cc/hello-event-catalog/
   state:
     shortLink: https://link.webring.in.th/2403
+01dbabd288cb76a7759c4110bce03989:bluesky:
+  spec:
+    title: บันทึกการอ่านเรื่อง Scale Now or Scale Later ? [somkiat.cc]
+    url: https://www.somkiat.cc/note-scale-now-or-scale-later/
+  state:
+    cid: bafyreidjogsiplv5nyh6q3l5dthymnxiuyyv7dzl5f5kaimifr2t47kfoa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lr5qfnjqnu2s
+01dbabd288cb76a7759c4110bce03989:facebook:
+  spec:
+    title: บันทึกการอ่านเรื่อง Scale Now or Scale Later ? [somkiat.cc]
+    url: https://www.somkiat.cc/note-scale-now-or-scale-later/
+  state:
+    id: '100746876247412_693828976939681'
+    url: https://www.facebook.com/100683012920950/posts/693828976939681
+01dbabd288cb76a7759c4110bce03989:mastodon:
+  spec:
+    title: บันทึกการอ่านเรื่อง Scale Now or Scale Later ? [somkiat.cc]
+    url: https://www.somkiat.cc/note-scale-now-or-scale-later/
+  state:
+    id: '114651960503129335'
+    url: https://mastodon.in.th/@webring/114651960503129335
+01dbabd288cb76a7759c4110bce03989:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-scale-now-or-scale-later/
+  state:
+    shortLink: https://link.webring.in.th/2581
 021656d6c4e02ae8870ed70b9607cd56:bluesky:
   spec:
     title: ใช้งาน Gemini Code Assist ใน VS Code กัน [somkiat.cc]
