@@ -14320,6 +14320,32 @@
     url: https://punn.dev/blog/let-s-create-sequence-diagram-via-mermaid
   state:
     shortLink: https://link.webring.in.th/1979
+701f152b6e157b92256120cb19d7c340:bluesky:
+  spec:
+    title: แอปคำนวณฝากประจำปลอดภาษีอันไหนคุ้มสุด [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/interest-tax-free
+  state:
+    cid: bafyreidb5aimbvndcu32dbibnnyk5tbfrtmp5rnviwyheyp534t5ddmzwq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lr5htxsfgk2j
+701f152b6e157b92256120cb19d7c340:facebook:
+  spec:
+    title: แอปคำนวณฝากประจำปลอดภาษีอันไหนคุ้มสุด [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/interest-tax-free
+  state:
+    id: '100746876247412_693752320280680'
+    url: https://www.facebook.com/100683012920950/posts/693752320280680
+701f152b6e157b92256120cb19d7c340:mastodon:
+  spec:
+    title: แอปคำนวณฝากประจำปลอดภาษีอันไหนคุ้มสุด [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/interest-tax-free
+  state:
+    id: '114651358658610750'
+    url: https://mastodon.in.th/@webring/114651358658610750
+701f152b6e157b92256120cb19d7c340:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/interest-tax-free
+  state:
+    shortLink: https://link.webring.in.th/2580
 705d3959f69b2a1e2c1902173cf9a239:facebook:
   spec:
     title: ทวิภาวะ จุด-เส้นตรง [neizod.dev]
