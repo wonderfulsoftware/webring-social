@@ -23704,6 +23704,32 @@ b535c81708ed7f7c924e3f8e7ec28e8b:shorturl:
     url: https://lucian.solutions/blog/line-stickers-lucian-solutions-definitive
   state:
     shortLink: https://link.webring.in.th/1819
+b58861333f7ad21f88fab1e779565ae9:bluesky:
+  spec:
+    title: Using Super Page Cache with Cloudflare for WordPress Page Caching [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/wordpress-super-page-cache-cloudflare-for-page-caching/
+  state:
+    cid: bafyreicaefzwmcg6tqocxgwiqwspvhofroqu64dkfermjjt6tagieufd3a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lr7y3lfgsb2q
+b58861333f7ad21f88fab1e779565ae9:facebook:
+  spec:
+    title: Using Super Page Cache with Cloudflare for WordPress Page Caching [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/wordpress-super-page-cache-cloudflare-for-page-caching/
+  state:
+    id: '100746876247412_694503476872231'
+    url: https://www.facebook.com/100683012920950/posts/694503476872231
+b58861333f7ad21f88fab1e779565ae9:mastodon:
+  spec:
+    title: Using Super Page Cache with Cloudflare for WordPress Page Caching [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/wordpress-super-page-cache-cloudflare-for-page-caching/
+  state:
+    id: '114657004946103995'
+    url: https://mastodon.in.th/@webring/114657004946103995
+b58861333f7ad21f88fab1e779565ae9:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/06/wordpress-super-page-cache-cloudflare-for-page-caching/
+  state:
+    shortLink: https://link.webring.in.th/2582
 b5ac614d961bc9892e69930519a3d5c8:bluesky:
   spec:
     title: 'Data Sci Boot Camp Batch#11: Intro to Python [debuggingsoft.com]'
