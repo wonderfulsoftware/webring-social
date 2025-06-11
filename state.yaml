@@ -870,6 +870,32 @@
     url: https://www.somkiat.cc/features-of-nodejs/
   state:
     shortLink: https://link.webring.in.th/1968
+07aba994b77ead54d4f346f395539a9e:bluesky:
+  spec:
+    title: ลองใช้งาน PostgreSQL for Visual Studio Code จาก Microsoft [somkiat.cc]
+    url: https://www.somkiat.cc/postgresql-for-visual-studio-code-from-microsoft/
+  state:
+    cid: bafyreihb5fhrpx4mrvjlcf23kcxrty2bb6x7z767m7t4q6uybl4pwif5om
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lrcrbzc72s22
+07aba994b77ead54d4f346f395539a9e:facebook:
+  spec:
+    title: ลองใช้งาน PostgreSQL for Visual Studio Code จาก Microsoft [somkiat.cc]
+    url: https://www.somkiat.cc/postgresql-for-visual-studio-code-from-microsoft/
+  state:
+    id: '100746876247412_695329236789655'
+    url: https://www.facebook.com/100683012920950/posts/695329236789655
+07aba994b77ead54d4f346f395539a9e:mastodon:
+  spec:
+    title: ลองใช้งาน PostgreSQL for Visual Studio Code จาก Microsoft [somkiat.cc]
+    url: https://www.somkiat.cc/postgresql-for-visual-studio-code-from-microsoft/
+  state:
+    id: '114663281598943964'
+    url: https://mastodon.in.th/@webring/114663281598943964
+07aba994b77ead54d4f346f395539a9e:shorturl:
+  spec:
+    url: https://www.somkiat.cc/postgresql-for-visual-studio-code-from-microsoft/
+  state:
+    shortLink: https://link.webring.in.th/2584
 07b570f18a69ca2e2f65c8de4ce9c07f:facebook:
   spec:
     title: dotnet start webapi error failed to load the dll hostfxr.dll or api-ms-win-crt-runtime-l1-1-0.dll is missing from your computer [debuggingsoft.com]
