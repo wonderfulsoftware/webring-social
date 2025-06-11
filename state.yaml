@@ -2552,6 +2552,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/09/my-note-from-helm-esstential-helm-package/
   state:
     shortLink: https://link.webring.in.th/2148
+162e67684a901c57b09b2984bf918113:bluesky:
+  spec:
+    title: Cloudflare's terraform v5 provider migration strategy [karnwong.me]
+    url: https://karnwong.me/posts/2025/06/cloudflares-terraform-v5-provider-migration-strategy/
+  state:
+    cid: bafyreihfsyivzf2e4atyvgcarozh57a4mwqgok5gb7ys5s5zlbfwakcwle
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lrcikkkqdu2q
+162e67684a901c57b09b2984bf918113:facebook:
+  spec:
+    title: Cloudflare's terraform v5 provider migration strategy [karnwong.me]
+    url: https://karnwong.me/posts/2025/06/cloudflares-terraform-v5-provider-migration-strategy/
+  state:
+    id: '100746876247412_695251390130773'
+    url: https://www.facebook.com/100683012920950/posts/695251390130773
+162e67684a901c57b09b2984bf918113:mastodon:
+  spec:
+    title: Cloudflare's terraform v5 provider migration strategy [karnwong.me]
+    url: https://karnwong.me/posts/2025/06/cloudflares-terraform-v5-provider-migration-strategy/
+  state:
+    id: '114662667421160349'
+    url: https://mastodon.in.th/@webring/114662667421160349
+162e67684a901c57b09b2984bf918113:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/06/cloudflares-terraform-v5-provider-migration-strategy/
+  state:
+    shortLink: https://link.webring.in.th/2583
 169bc83c3c9e2be7c16e7ddf0ba30b38:facebook:
   spec:
     title: เรียนรู้ว่า Product Management เอา AI มาใช้งานยังไง? กับงาน "Unlocking Product Insights" [mikkipastel.com]
