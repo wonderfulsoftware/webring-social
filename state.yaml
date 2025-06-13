@@ -14424,6 +14424,32 @@
     url: https://mymoneytoolkit.app/posts/interest-tax-free
   state:
     shortLink: https://link.webring.in.th/2580
+703c41d61c20982077d6d201c39c2659:bluesky:
+  spec:
+    title: A very quick overview on Cursor and Integration to Cursor [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/mcp-overview-cursor/
+  state:
+    cid: bafyreiahh4ld7b65yvvg7ile4qkc67p5i3l2bgw5u3tr773gp7y332qugu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lrhsa22jbc26
+703c41d61c20982077d6d201c39c2659:facebook:
+  spec:
+    title: A very quick overview on Cursor and Integration to Cursor [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/mcp-overview-cursor/
+  state:
+    id: '100746876247412_696849169970995'
+    url: https://www.facebook.com/100683012920950/posts/696849169970995
+703c41d61c20982077d6d201c39c2659:mastodon:
+  spec:
+    title: A very quick overview on Cursor and Integration to Cursor [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/mcp-overview-cursor/
+  state:
+    id: '114674606881556364'
+    url: https://mastodon.in.th/@webring/114674606881556364
+703c41d61c20982077d6d201c39c2659:shorturl:
+  spec:
+    url: https://yuttakhanb.dev/posts/mcp-overview-cursor/
+  state:
+    shortLink: https://link.webring.in.th/2586
 705d3959f69b2a1e2c1902173cf9a239:facebook:
   spec:
     title: ทวิภาวะ จุด-เส้นตรง [neizod.dev]
