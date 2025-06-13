@@ -23898,6 +23898,32 @@ b67c68ab72b1009cf2e73735c84dba8a:shorturl:
     url: https://www.mikkipastel.com/trial-generate-ai-text-to-image-website/
   state:
     shortLink: https://webring.page.link/QuAE
+b6867e65c51a16822e5cbf9c4d0ffd64:bluesky:
+  spec:
+    title: The difference between item[key] vs item.id in TS/JS [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/the-difference-between-itemkey-item-id-in-ts-js/
+  state:
+    cid: bafyreielcth3lnv2blqo5qh7nh4pzmxw5o372rz7whw32zyxxbrgixnfh4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lrhjhwv43b26
+b6867e65c51a16822e5cbf9c4d0ffd64:facebook:
+  spec:
+    title: The difference between item[key] vs item.id in TS/JS [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/the-difference-between-itemkey-item-id-in-ts-js/
+  state:
+    id: '100746876247412_696770219978890'
+    url: https://www.facebook.com/100683012920950/posts/696770219978890
+b6867e65c51a16822e5cbf9c4d0ffd64:mastodon:
+  spec:
+    title: The difference between item[key] vs item.id in TS/JS [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/the-difference-between-itemkey-item-id-in-ts-js/
+  state:
+    id: '114673990892515303'
+    url: https://mastodon.in.th/@webring/114673990892515303
+b6867e65c51a16822e5cbf9c4d0ffd64:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/06/the-difference-between-itemkey-item-id-in-ts-js/
+  state:
+    shortLink: https://link.webring.in.th/2585
 b72ce9e655fbc75368504332eba85ca6:facebook:
   spec:
     title: ปัญหา Robot Framework + Selenium 4.10 [somkiat.cc]
