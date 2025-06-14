@@ -25981,6 +25981,32 @@ c77c976cda861e4008f9c1c6fb7e389f:shorturl:
     url: https://www.mikkipastel.com/nostr-101-introduction/
   state:
     shortLink: https://link.webring.in.th/2360
+c7d218619354c0bb14b05757c53f8058:bluesky:
+  spec:
+    title: Hello Garage, goodbye MinIO [karnwong.me]
+    url: https://karnwong.me/posts/2025/06/hello-garage-goodbye-minio/
+  state:
+    cid: bafyreibdvlinvj2gn2psmpixsf2arco5ewpgl5qsxqv3ndccsmoxsqgjkq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lrjzpkznsy2a
+c7d218619354c0bb14b05757c53f8058:facebook:
+  spec:
+    title: Hello Garage, goodbye MinIO [karnwong.me]
+    url: https://karnwong.me/posts/2025/06/hello-garage-goodbye-minio/
+  state:
+    id: '100746876247412_697529919902920'
+    url: https://www.facebook.com/100683012920950/posts/697529919902920
+c7d218619354c0bb14b05757c53f8058:mastodon:
+  spec:
+    title: Hello Garage, goodbye MinIO [karnwong.me]
+    url: https://karnwong.me/posts/2025/06/hello-garage-goodbye-minio/
+  state:
+    id: '114679637223159228'
+    url: https://mastodon.in.th/@webring/114679637223159228
+c7d218619354c0bb14b05757c53f8058:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/06/hello-garage-goodbye-minio/
+  state:
+    shortLink: https://link.webring.in.th/2587
 c7e81d23ce19b1af0e9ec1e0e3ad0c5d:facebook:
   spec:
     title: '[CR] Starbucks Double Chocolate Pain Suisse [debuggingsoft.com]'
