@@ -6432,6 +6432,32 @@
     url: https://www.mikkipastel.com/icreator-camp-2024-final-day/
   state:
     shortLink: https://link.webring.in.th/2001
+31f0db6cdea63f8de50b5d2e0ad785b3:bluesky:
+  spec:
+    title: ทำความรู้จักกับ Multigres จาก Supabase [somkiat.cc]
+    url: https://www.somkiat.cc/multigres-for-supabase/
+  state:
+    cid: bafyreihbpwydsa45yzp774w5hfnjik4vrfpmlb6t7xokn7xoi5udh7tnyu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lrn4tfgawr2y
+31f0db6cdea63f8de50b5d2e0ad785b3:facebook:
+  spec:
+    title: ทำความรู้จักกับ Multigres จาก Supabase [somkiat.cc]
+    url: https://www.somkiat.cc/multigres-for-supabase/
+  state:
+    id: '100746876247412_698496023139643'
+    url: https://www.facebook.com/100683012920950/posts/698496023139643
+31f0db6cdea63f8de50b5d2e0ad785b3:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Multigres จาก Supabase [somkiat.cc]
+    url: https://www.somkiat.cc/multigres-for-supabase/
+  state:
+    id: '114686612141727083'
+    url: https://mastodon.in.th/@webring/114686612141727083
+31f0db6cdea63f8de50b5d2e0ad785b3:shorturl:
+  spec:
+    url: https://www.somkiat.cc/multigres-for-supabase/
+  state:
+    shortLink: https://link.webring.in.th/2590
 3211ed7f495d99f6c8ce8370ee0d5c0d:bluesky:
   spec:
     title: การเลือกใช้ Storage ให้เหมาะสมในพัฒนาเว็บไซต์ [boychawin.com]
