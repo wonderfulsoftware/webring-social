@@ -6062,6 +6062,32 @@
     url: https://www.mikkipastel.com/review-blog-2022/
   state:
     shortLink: https://webring.page.link/PVwT
+2e904c17f915ed0c476b7888bc4172ab:bluesky:
+  spec:
+    title: Google Sheet ประเมินมูลค่าหุ้นด้วย ChatGPT [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/valuation
+  state:
+    cid: bafyreieclcucgclp6kb7slqmkjexu3ulhpco6qk2wtg6vqsxf6fu2e3tpa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lrmknycaqr22
+2e904c17f915ed0c476b7888bc4172ab:facebook:
+  spec:
+    title: Google Sheet ประเมินมูลค่าหุ้นด้วย ChatGPT [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/valuation
+  state:
+    id: '100746876247412_698320293157216'
+    url: https://www.facebook.com/100683012920950/posts/698320293157216
+2e904c17f915ed0c476b7888bc4172ab:mastodon:
+  spec:
+    title: Google Sheet ประเมินมูลค่าหุ้นด้วย ChatGPT [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/valuation
+  state:
+    id: '114685333546154366'
+    url: https://mastodon.in.th/@webring/114685333546154366
+2e904c17f915ed0c476b7888bc4172ab:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/valuation
+  state:
+    shortLink: https://link.webring.in.th/2588
 2e9d8257c3789b6d59445d30c504e885:bluesky:
   spec:
     title: '[MS Cert] บันทึกการสอบ AZ-305 [debuggingsoft.com]'
