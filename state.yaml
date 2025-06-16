@@ -18166,6 +18166,32 @@
     url: https://www.karnwong.me/posts/2023/04/duckdb-vs-polars-vs-spark/
   state:
     shortLink: https://webring.page.link/9nvM
+882e1f7c451aba98b8564d097c37a646:bluesky:
+  spec:
+    title: สรุปงาน Microsoft Build 2025 – After Party Thailand [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/recap-microsoft-build-2025-after-party-thailand/
+  state:
+    cid: bafyreigl7sxtybwtfe54apt7pznnz57zcm4vxfnnfwqw22ahkmdm34fgeq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lrp36bkcss27
+882e1f7c451aba98b8564d097c37a646:facebook:
+  spec:
+    title: สรุปงาน Microsoft Build 2025 – After Party Thailand [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/recap-microsoft-build-2025-after-party-thailand/
+  state:
+    id: '100746876247412_699103846412194'
+    url: https://www.facebook.com/100683012920950/posts/699103846412194
+882e1f7c451aba98b8564d097c37a646:mastodon:
+  spec:
+    title: สรุปงาน Microsoft Build 2025 – After Party Thailand [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/recap-microsoft-build-2025-after-party-thailand/
+  state:
+    id: '114690998691101438'
+    url: https://mastodon.in.th/@webring/114690998691101438
+882e1f7c451aba98b8564d097c37a646:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/06/recap-microsoft-build-2025-after-party-thailand/
+  state:
+    shortLink: https://link.webring.in.th/2591
 882fb10f83a2118d70b9e186b4b32683:bluesky:
   spec:
     title: '[CR] Burger King คิงบ๊อกซ์ + บ่น [debuggingsoft.com]'
