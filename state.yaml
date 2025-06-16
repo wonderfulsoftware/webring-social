@@ -28601,6 +28601,32 @@ db73f928da036e2b544b713db8680085:shorturl:
     url: https://annibuliful-lab.dev/story/imsi-catcher
   state:
     shortLink: https://webring.page.link/LoVP
+db8d4ed25d9e792392e788eb4d36eef9:bluesky:
+  spec:
+    title: มาใช้งาน PGLite wrapper ในการทดสอบกับ Python + PostgreSQL [somkiat.cc]
+    url: https://www.somkiat.cc/pglite-wrapper-for-python-postgresql/
+  state:
+    cid: bafyreie6cs2q6kxqvtbbhv7s3wq3eb55azqlqktno6gydaocwmsy26oi74
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lrpdoyxmgx2m
+db8d4ed25d9e792392e788eb4d36eef9:facebook:
+  spec:
+    title: มาใช้งาน PGLite wrapper ในการทดสอบกับ Python + PostgreSQL [somkiat.cc]
+    url: https://www.somkiat.cc/pglite-wrapper-for-python-postgresql/
+  state:
+    id: '100746876247412_699177333071512'
+    url: https://www.facebook.com/100683012920950/posts/699177333071512
+db8d4ed25d9e792392e788eb4d36eef9:mastodon:
+  spec:
+    title: มาใช้งาน PGLite wrapper ในการทดสอบกับ Python + PostgreSQL [somkiat.cc]
+    url: https://www.somkiat.cc/pglite-wrapper-for-python-postgresql/
+  state:
+    id: '114691598443883020'
+    url: https://mastodon.in.th/@webring/114691598443883020
+db8d4ed25d9e792392e788eb4d36eef9:shorturl:
+  spec:
+    url: https://www.somkiat.cc/pglite-wrapper-for-python-postgresql/
+  state:
+    shortLink: https://link.webring.in.th/2592
 dbfdd18387cc7595596a1d631761d697:facebook:
   spec:
     title: Postman สนับสนุน MQTT แล้ว (open beta) [somkiat.cc]
