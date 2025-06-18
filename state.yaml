@@ -22425,6 +22425,32 @@ aa67646db10688578f68639df2be7909:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/08/db2-find-tables-that-recently-modified-structure-in-db2/
   state:
     shortLink: https://link.webring.in.th/2104
+aa7aa255be538e3afefbd5f6cfa87b8f:bluesky:
+  spec:
+    title: ทำความรู้จักกับ Docling สำหรับการแปลงข้อมูลจากไฟล์ต่าง ๆ ให้ง่ายต่อการนำไปใช้งาน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-docling/
+  state:
+    cid: bafyreibtm2jc22t3pec3ywjfbthyyxo4rlpreakmrcfrrcm5qvmxp464la
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lruodj2cu52y
+aa7aa255be538e3afefbd5f6cfa87b8f:facebook:
+  spec:
+    title: ทำความรู้จักกับ Docling สำหรับการแปลงข้อมูลจากไฟล์ต่าง ๆ ให้ง่ายต่อการนำไปใช้งาน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-docling/
+  state:
+    id: '100746876247412_700785859577326'
+    url: https://www.facebook.com/100683012920950/posts/700785859577326
+aa7aa255be538e3afefbd5f6cfa87b8f:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Docling สำหรับการแปลงข้อมูลจากไฟล์ต่าง ๆ ให้ง่ายต่อการนำไปใช้งาน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-docling/
+  state:
+    id: '114703606224141670'
+    url: https://mastodon.in.th/@webring/114703606224141670
+aa7aa255be538e3afefbd5f6cfa87b8f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-docling/
+  state:
+    shortLink: https://link.webring.in.th/2595
 aa94f3b86876c23634db63090b052804:facebook:
   spec:
     title: Integrating EDA with Legacy systems [boonsong.dev]
