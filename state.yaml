@@ -15159,6 +15159,32 @@
     url: https://neizod.dev/2024/10/27/hexagon-checkerboard.html
   state:
     shortLink: https://link.webring.in.th/2209
+75963c10e93762ed573dac878fedbd43:bluesky:
+  spec:
+    title: My NotebookLM Summarization Prompt [dt.in.th]
+    url: https://notes.dt.in.th/NotebookLMSummarizationPrompt
+  state:
+    cid: bafyreibr4euacqlugc3zuajn6pvvhb564asexdyhkki2a62idl4sptqz4i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lru3sjptmz2m
+75963c10e93762ed573dac878fedbd43:facebook:
+  spec:
+    title: My NotebookLM Summarization Prompt [dt.in.th]
+    url: https://notes.dt.in.th/NotebookLMSummarizationPrompt
+  state:
+    id: '100746876247412_700627396259839'
+    url: https://www.facebook.com/100683012920950/posts/700627396259839
+75963c10e93762ed573dac878fedbd43:mastodon:
+  spec:
+    title: My NotebookLM Summarization Prompt [dt.in.th]
+    url: https://notes.dt.in.th/NotebookLMSummarizationPrompt
+  state:
+    id: '114702302563453052'
+    url: https://mastodon.in.th/@webring/114702302563453052
+75963c10e93762ed573dac878fedbd43:shorturl:
+  spec:
+    url: https://notes.dt.in.th/NotebookLMSummarizationPrompt
+  state:
+    shortLink: https://link.webring.in.th/2593
 75e9044e76b5417e59930ae95bde9f45:facebook:
   spec:
     title: '[PowerShell] Snippet Script Copy Files that are listed in a text file [debuggingsoft.com]'
