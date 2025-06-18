@@ -23402,6 +23402,32 @@ b124a628a59c31f1a8c8643f17383666:shorturl:
     url: https://kusumotolab.com/how-to-mount-nfs-volume-to-container-with-sub-path/
   state:
     shortLink: https://link.webring.in.th/1924
+b139aacd10435369d0586d6e0cad38c8:bluesky:
+  spec:
+    title: How to Setup Portainer on Synology NAS [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/how-to-setup-portainer-on-synology-nas/
+  state:
+    cid: bafyreielj7nvqkifug25j7k3ecqdrbtb5hjqg3qb34tmfdyj2inzdfn5zm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lruekwkh3g26
+b139aacd10435369d0586d6e0cad38c8:facebook:
+  spec:
+    title: How to Setup Portainer on Synology NAS [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/how-to-setup-portainer-on-synology-nas/
+  state:
+    id: '100746876247412_700702599585652'
+    url: https://www.facebook.com/100683012920950/posts/700702599585652
+b139aacd10435369d0586d6e0cad38c8:mastodon:
+  spec:
+    title: How to Setup Portainer on Synology NAS [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/how-to-setup-portainer-on-synology-nas/
+  state:
+    id: '114702919093636141'
+    url: https://mastodon.in.th/@webring/114702919093636141
+b139aacd10435369d0586d6e0cad38c8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/06/how-to-setup-portainer-on-synology-nas/
+  state:
+    shortLink: https://link.webring.in.th/2594
 b1414e295ee1b03de271abe597428804:facebook:
   spec:
     title: มาดูความสามารถใหม่ ๆ ใน Robot Framework 6.1 alpha 1 [somkiat.cc]
