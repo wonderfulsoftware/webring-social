@@ -26976,6 +26976,32 @@ cd8fd59aeef7ef0d0711032bc7d7a53b:shorturl:
     url: https://www.somkiat.cc/spring-framework-testbean/
   state:
     shortLink: https://link.webring.in.th/1903
+cdb5acb3ee6d2533fe9c745ab67b3af3:bluesky:
+  spec:
+    title: DOTNET MEETUP JUNE 2025 @AGODA [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/recap-dotnet-meetup-june-2025/
+  state:
+    cid: bafyreibojaomq5kesdlvrur64k5l2upzxwrucmxlm7lpjtytof7mno7kva
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lrwmc53adl27
+cdb5acb3ee6d2533fe9c745ab67b3af3:facebook:
+  spec:
+    title: DOTNET MEETUP JUNE 2025 @AGODA [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/recap-dotnet-meetup-june-2025/
+  state:
+    id: '100746876247412_701490542840191'
+    url: https://www.facebook.com/100683012920950/posts/701490542840191
+cdb5acb3ee6d2533fe9c745ab67b3af3:mastodon:
+  spec:
+    title: DOTNET MEETUP JUNE 2025 @AGODA [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/recap-dotnet-meetup-june-2025/
+  state:
+    id: '114707966237894438'
+    url: https://mastodon.in.th/@webring/114707966237894438
+cdb5acb3ee6d2533fe9c745ab67b3af3:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/06/recap-dotnet-meetup-june-2025/
+  state:
+    shortLink: https://link.webring.in.th/2596
 cdd4e6d11a1eea1d0484785081befc37:facebook:
   spec:
     title: Postman เปิดให้ลองใช้งาน API performance testing [somkiat.cc]
