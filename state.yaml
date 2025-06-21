@@ -29582,6 +29582,32 @@ e2b9454591bd41eb9cdeea3a0a83b0c8:shorturl:
     url: https://neizod.dev/2023/06/30/solve-system-of-linear-equation-with-determinant.html
   state:
     shortLink: https://webring.page.link/4G2p
+e2c20e5432e12fce9677d66b418f9b57:bluesky:
+  spec:
+    title: ลอง Vibe Coding ด้วย ChatGPT Codex [myifew.com]
+    url: https://myifew.com/6619/%e0%b8%a5%e0%b8%ad%e0%b8%87-vibe-coding-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-chatgpt-codex/
+  state:
+    cid: bafyreibnhm2xzmek44hqmmzw4dlwtialrjxnt7t33xodhrimmvndjtclxi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ls3vtpoqsn2a
+e2c20e5432e12fce9677d66b418f9b57:facebook:
+  spec:
+    title: ลอง Vibe Coding ด้วย ChatGPT Codex [myifew.com]
+    url: https://myifew.com/6619/%e0%b8%a5%e0%b8%ad%e0%b8%87-vibe-coding-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-chatgpt-codex/
+  state:
+    id: '100746876247412_703068116015767'
+    url: https://www.facebook.com/100683012920950/posts/703068116015767
+e2c20e5432e12fce9677d66b418f9b57:mastodon:
+  spec:
+    title: ลอง Vibe Coding ด้วย ChatGPT Codex [myifew.com]
+    url: https://myifew.com/6619/%e0%b8%a5%e0%b8%ad%e0%b8%87-vibe-coding-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-chatgpt-codex/
+  state:
+    id: '114719897012907778'
+    url: https://mastodon.in.th/@webring/114719897012907778
+e2c20e5432e12fce9677d66b418f9b57:shorturl:
+  spec:
+    url: https://myifew.com/6619/%e0%b8%a5%e0%b8%ad%e0%b8%87-vibe-coding-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-chatgpt-codex/
+  state:
+    shortLink: https://link.webring.in.th/2598
 e2e3a4e13f66c1c106cfc2f9cc17ed48:bluesky:
   spec:
     title: ผมไปตรวจ VO2 Max มาครับ แล้วมันดีมากๆ [yothinix.com]
