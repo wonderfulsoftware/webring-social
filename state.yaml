@@ -1126,6 +1126,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/05/google-colab-mount-google-drive/
   state:
     shortLink: https://link.webring.in.th/2569
+092b3a7f40f8ab0cc536228011aad248:bluesky:
+  spec:
+    title: Using Nix for CI, but with a twist [karnwong.me]
+    url: https://karnwong.me/posts/2025/06/using-nix-for-ci-but-with-a-twist/
+  state:
+    cid: bafyreibq7dl2fxhri2smgo2l52sfjcwu3qlt7fbulcuv4opivtfdmk7h3y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ls3n35y3xd2a
+092b3a7f40f8ab0cc536228011aad248:facebook:
+  spec:
+    title: Using Nix for CI, but with a twist [karnwong.me]
+    url: https://karnwong.me/posts/2025/06/using-nix-for-ci-but-with-a-twist/
+  state:
+    id: '100746876247412_702988629357049'
+    url: https://www.facebook.com/100683012920950/posts/702988629357049
+092b3a7f40f8ab0cc536228011aad248:mastodon:
+  spec:
+    title: Using Nix for CI, but with a twist [karnwong.me]
+    url: https://karnwong.me/posts/2025/06/using-nix-for-ci-but-with-a-twist/
+  state:
+    id: '114719279736238144'
+    url: https://mastodon.in.th/@webring/114719279736238144
+092b3a7f40f8ab0cc536228011aad248:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/06/using-nix-for-ci-but-with-a-twist/
+  state:
+    shortLink: https://link.webring.in.th/2597
 09504cd8c4b528117f7d8bb268d788f5:facebook:
   spec:
     title: '[AZURE] Recovery Service vault cannot be deleted as there are backup items still present in soft delete state [debuggingsoft.com]'
