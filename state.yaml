@@ -18488,6 +18488,32 @@
     url: https://www.somkiat.cc/spring-boot-problemdetail/
   state:
     shortLink: https://link.webring.in.th/2076
+89e03093aace10225b35016ffd15bba8:bluesky:
+  spec:
+    title: ทำความรู้จักกับไฟล์ llms.txt กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/llm-file/
+  state:
+    cid: bafyreidj7hpgj7z5pbbyuxu65mguwuqdiqh75kqkqezzgpdfovjdnzlv4q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ls47mcy44v2p
+89e03093aace10225b35016ffd15bba8:facebook:
+  spec:
+    title: ทำความรู้จักกับไฟล์ llms.txt กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/llm-file/
+  state:
+    id: '100746876247412_703156456006933'
+    url: https://www.facebook.com/100683012920950/posts/703156456006933
+89e03093aace10225b35016ffd15bba8:mastodon:
+  spec:
+    title: ทำความรู้จักกับไฟล์ llms.txt กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/llm-file/
+  state:
+    id: '114720584727736679'
+    url: https://mastodon.in.th/@webring/114720584727736679
+89e03093aace10225b35016ffd15bba8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/llm-file/
+  state:
+    shortLink: https://link.webring.in.th/2599
 89eb43ee1e53f939f10623e29f4c525d:facebook:
   spec:
     title: จัดการ logging ใน Spring boot ด้วย Loki [somkiat.cc]
