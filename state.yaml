@@ -9064,6 +9064,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/07/my-agile-thailand-2024-note-ath2024/
   state:
     shortLink: https://link.webring.in.th/2038
+47cfae4e5ac80b03aa40b3998516db6e:bluesky:
+  spec:
+    title: จดๆ Tune WordPress 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/my-note-tune-wordpress-2025/
+  state:
+    cid: bafyreifig52i44434jucohuuryvsh4wnzotxnseo2jan3ilyrhfilmvw3m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lsfpar2fle2y
+47cfae4e5ac80b03aa40b3998516db6e:facebook:
+  spec:
+    title: จดๆ Tune WordPress 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/my-note-tune-wordpress-2025/
+  state:
+    id: '100746876247412_706011965721382'
+    url: https://www.facebook.com/100683012920950/posts/706011965721382
+47cfae4e5ac80b03aa40b3998516db6e:mastodon:
+  spec:
+    title: จดๆ Tune WordPress 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/my-note-tune-wordpress-2025/
+  state:
+    id: '114741951104636723'
+    url: https://mastodon.in.th/@webring/114741951104636723
+47cfae4e5ac80b03aa40b3998516db6e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/06/my-note-tune-wordpress-2025/
+  state:
+    shortLink: https://link.webring.in.th/2600
 48559af8f217b77f2e38101254f676bf:facebook:
   spec:
     title: LGTM stack จาก Grafana คืออะไร ? [somkiat.cc]
