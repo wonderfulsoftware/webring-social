@@ -6292,6 +6292,32 @@
     url: https://mikelopster.dev/posts/nestjs-mongo/
   state:
     shortLink: https://link.webring.in.th/1817
+301d5a454a057f8b961035817b3a2330:bluesky:
+  spec:
+    title: ขออวยยศให้ Claude Code ในการเขียนโค้ด อีกสักครั้ง [myifew.com]
+    url: https://myifew.com/6629/%e0%b8%82%e0%b8%ad%e0%b8%ad%e0%b8%a7%e0%b8%a2%e0%b8%a2%e0%b8%a8%e0%b9%83%e0%b8%ab%e0%b9%89-claude-code-%e0%b9%83%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99/
+  state:
+    cid: bafyreihz6eyvrg26nwwnhej6pxho4stpphtpebcanca7msi3r3qlr4jwce
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lsis33ynhu2y
+301d5a454a057f8b961035817b3a2330:facebook:
+  spec:
+    title: ขออวยยศให้ Claude Code ในการเขียนโค้ด อีกสักครั้ง [myifew.com]
+    url: https://myifew.com/6629/%e0%b8%82%e0%b8%ad%e0%b8%ad%e0%b8%a7%e0%b8%a2%e0%b8%a2%e0%b8%a8%e0%b9%83%e0%b8%ab%e0%b9%89-claude-code-%e0%b9%83%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99/
+  state:
+    id: '100746876247412_706973005625278'
+    url: https://www.facebook.com/100683012920950/posts/706973005625278
+301d5a454a057f8b961035817b3a2330:mastodon:
+  spec:
+    title: ขออวยยศให้ Claude Code ในการเขียนโค้ด อีกสักครั้ง [myifew.com]
+    url: https://myifew.com/6629/%e0%b8%82%e0%b8%ad%e0%b8%ad%e0%b8%a7%e0%b8%a2%e0%b8%a2%e0%b8%a8%e0%b9%83%e0%b8%ab%e0%b9%89-claude-code-%e0%b9%83%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99/
+  state:
+    id: '114748905131087886'
+    url: https://mastodon.in.th/@webring/114748905131087886
+301d5a454a057f8b961035817b3a2330:shorturl:
+  spec:
+    url: https://myifew.com/6629/%e0%b8%82%e0%b8%ad%e0%b8%ad%e0%b8%a7%e0%b8%a2%e0%b8%a2%e0%b8%a8%e0%b9%83%e0%b8%ab%e0%b9%89-claude-code-%e0%b9%83%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99/
+  state:
+    shortLink: https://link.webring.in.th/2603
 3037feb997e8677a8483fa4bcca5a901:bluesky:
   spec:
     title: 'Data Sci Boot Camp Batch#11 : SQL [debuggingsoft.com]'
