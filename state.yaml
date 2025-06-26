@@ -26158,6 +26158,32 @@ c6e37a1f78e36bfd0f69fe67d741d798:shorturl:
     url: https://neizod.dev/2024/04/18/3d-rotation-matrix-and-quaternion.html
   state:
     shortLink: https://link.webring.in.th/1881
+c6fae12eb7cfa71f9c950c7443c333e4:bluesky:
+  spec:
+    title: สองวัน Thai Creator for Real Business Workshop สร้างธุรกิจยังไงดี? [mikkipastel.com]
+    url: https://www.mikkipastel.com/thai-creator-for-real-business-workshop/
+  state:
+    cid: bafyreifiar2l4jq34sdd7tnpxds3mo3uevks2cyhewcsmjxzl3nubscvpu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lsi7meozfo2t
+c6fae12eb7cfa71f9c950c7443c333e4:facebook:
+  spec:
+    title: สองวัน Thai Creator for Real Business Workshop สร้างธุรกิจยังไงดี? [mikkipastel.com]
+    url: https://www.mikkipastel.com/thai-creator-for-real-business-workshop/
+  state:
+    id: '100746876247412_706790538976858'
+    url: https://www.facebook.com/100683012920950/posts/706790538976858
+c6fae12eb7cfa71f9c950c7443c333e4:mastodon:
+  spec:
+    title: สองวัน Thai Creator for Real Business Workshop สร้างธุรกิจยังไงดี? [mikkipastel.com]
+    url: https://www.mikkipastel.com/thai-creator-for-real-business-workshop/
+  state:
+    id: '114747606310747041'
+    url: https://mastodon.in.th/@webring/114747606310747041
+c6fae12eb7cfa71f9c950c7443c333e4:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/thai-creator-for-real-business-workshop/
+  state:
+    shortLink: https://link.webring.in.th/2601
 c732d1ae59ae80f0612fc628f16adf0c:facebook:
   spec:
     title: 'Pattern: Strangler Fig Application #1 [boonsong.dev]'
