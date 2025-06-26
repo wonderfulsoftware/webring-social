@@ -10610,6 +10610,32 @@
     url: https://blog.oatto.dev/2025/01/04/recap-2025.html
   state:
     shortLink: https://link.webring.in.th/2391
+548724e6cfce6784aed85cc426c5df88:bluesky:
+  spec:
+    title: ลองใช้งาน Gemini-cli เล่น ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/hello-gemini-cli/
+  state:
+    cid: bafyreifjhoofkekxu7johzquvbp57p3fhgnjzkkwwry56fdclo6siul4em
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lsiicj3pxq2s
+548724e6cfce6784aed85cc426c5df88:facebook:
+  spec:
+    title: ลองใช้งาน Gemini-cli เล่น ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/hello-gemini-cli/
+  state:
+    id: '100746876247412_706874732301772'
+    url: https://www.facebook.com/100683012920950/posts/706874732301772
+548724e6cfce6784aed85cc426c5df88:mastodon:
+  spec:
+    title: ลองใช้งาน Gemini-cli เล่น ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/hello-gemini-cli/
+  state:
+    id: '114748218000793659'
+    url: https://mastodon.in.th/@webring/114748218000793659
+548724e6cfce6784aed85cc426c5df88:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-gemini-cli/
+  state:
+    shortLink: https://link.webring.in.th/2602
 549c23759812c8e484692743fa0704dc:facebook:
   spec:
     title: '[WP] How to Fix the “There Has Been a Critical Error on Your Website” Error? [debuggingsoft.com]'
