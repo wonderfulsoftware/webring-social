@@ -32423,6 +32423,32 @@ f78d5beacf5c6b4e71a51d75c3737765:shorturl:
     url: https://www.somkiat.cc/note-tuning-performance-2/
   state:
     shortLink: https://webring.page.link/c2Sd
+f7c778a21d5e7862f9b7a44e52ac85c7:bluesky:
+  spec:
+    title: ลองใช้ NuGet Explorer มา Pack dll เป็น NuGet Package (.nupkg) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/use-nuget-explorer-for-pack-dll-as-nuget-package-ext-nupkg/
+  state:
+    cid: bafyreih766t6eqk4diznqimmhic42lrptvh7ufhaanammhgkkxxq575shu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lskq4o4ezm2a
+f7c778a21d5e7862f9b7a44e52ac85c7:facebook:
+  spec:
+    title: ลองใช้ NuGet Explorer มา Pack dll เป็น NuGet Package (.nupkg) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/use-nuget-explorer-for-pack-dll-as-nuget-package-ext-nupkg/
+  state:
+    id: '100746876247412_707609422228303'
+    url: https://www.facebook.com/100683012920950/posts/707609422228303
+f7c778a21d5e7862f9b7a44e52ac85c7:mastodon:
+  spec:
+    title: ลองใช้ NuGet Explorer มา Pack dll เป็น NuGet Package (.nupkg) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/06/use-nuget-explorer-for-pack-dll-as-nuget-package-ext-nupkg/
+  state:
+    id: '114753271716413200'
+    url: https://mastodon.in.th/@webring/114753271716413200
+f7c778a21d5e7862f9b7a44e52ac85c7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/06/use-nuget-explorer-for-pack-dll-as-nuget-package-ext-nupkg/
+  state:
+    shortLink: https://link.webring.in.th/2604
 f7e0a3ae316be3ad0712cdbc92667819:facebook:
   spec:
     title: ถอดเคล็ดลับ Futures Trader เทรดยังไงให้มีเงินกินหมูกระทะ [mikkipastel.com]
