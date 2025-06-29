@@ -29131,6 +29131,32 @@ dde5afb6037269ff837d22a3393e2803:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/09/try-bus-number-4-35/
   state:
     shortLink: https://link.webring.in.th/2153
+ddec3b165ed50d2dd30f80275a95a653:bluesky:
+  spec:
+    title: Illustration - 202506 Lucia [lucian.solutions]
+    url: https://lucian.solutions/blog/202506-lucia
+  state:
+    cid: bafyreieu3ezztircdtczaikxfyeedgz5wqbyrnrpozu3jif7zdmim4rff4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lspzmay7bd22
+ddec3b165ed50d2dd30f80275a95a653:facebook:
+  spec:
+    title: Illustration - 202506 Lucia [lucian.solutions]
+    url: https://lucian.solutions/blog/202506-lucia
+  state:
+    id: '100746876247412_709242092065036'
+    url: https://www.facebook.com/100683012920950/posts/709242092065036
+ddec3b165ed50d2dd30f80275a95a653:mastodon:
+  spec:
+    title: Illustration - 202506 Lucia [lucian.solutions]
+    url: https://lucian.solutions/blog/202506-lucia
+  state:
+    id: '114765198039440240'
+    url: https://mastodon.in.th/@webring/114765198039440240
+ddec3b165ed50d2dd30f80275a95a653:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202506-lucia
+  state:
+    shortLink: https://link.webring.in.th/2606
 de08409ff413586764fbc91fe46b21d3:facebook:
   spec:
     title: bcdedit enum options [debuggingsoft.com]
