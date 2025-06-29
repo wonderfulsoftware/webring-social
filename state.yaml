@@ -23150,6 +23150,32 @@ ade6ace674be4532fb45d4fc764f50b6:shorturl:
     url: https://www.somkiat.cc/puppeteer-23-support-firefox/
   state:
     shortLink: https://link.webring.in.th/2084
+adef9506cdef46d77c7c6f47faa94cce:bluesky:
+  spec:
+    title: Simplify SSH (and HTTP & Postgres) access management with Warpgate [karnwong.me]
+    url: https://karnwong.me/posts/2025/06/simplify-ssh-and-postgres-http-access-management-with-warpgate/
+  state:
+    cid: bafyreible4ikaej4ud2fmttas2slprnowl2z34c5rrjxvd3pmr7ddufub4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lspri575jf2k
+adef9506cdef46d77c7c6f47faa94cce:facebook:
+  spec:
+    title: Simplify SSH (and HTTP & Postgres) access management with Warpgate [karnwong.me]
+    url: https://karnwong.me/posts/2025/06/simplify-ssh-and-postgres-http-access-management-with-warpgate/
+  state:
+    id: '100746876247412_709167615405817'
+    url: https://www.facebook.com/100683012920950/posts/709167615405817
+adef9506cdef46d77c7c6f47faa94cce:mastodon:
+  spec:
+    title: Simplify SSH (and HTTP & Postgres) access management with Warpgate [karnwong.me]
+    url: https://karnwong.me/posts/2025/06/simplify-ssh-and-postgres-http-access-management-with-warpgate/
+  state:
+    id: '114764626298669177'
+    url: https://mastodon.in.th/@webring/114764626298669177
+adef9506cdef46d77c7c6f47faa94cce:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/06/simplify-ssh-and-postgres-http-access-management-with-warpgate/
+  state:
+    shortLink: https://link.webring.in.th/2605
 ae02d36d033da11a63af28912384f909:facebook:
   spec:
     title: Illustration - ハナエ [lucian.solutions]
