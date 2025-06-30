@@ -13114,6 +13114,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/04/season-of-ai-thailand-season-4-season-of-agents/
   state:
     shortLink: https://link.webring.in.th/2503
+6511f557bf914c75c6c13283b5239352:bluesky:
+  spec:
+    title: Gobuster คืออะไร? ใช่ขบวนการจารชน โกบัสเตอร์ ป่ะ [evanrintho.buzz]
+    url: https://blog.evanrintho.buzz/post/what-is-gobuster
+  state:
+    cid: bafyreiac3ooue5dk5zh6g32ipluqk5znn7shllrgsgkx5cpcatg56pze6e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lssbtixl7f2p
+6511f557bf914c75c6c13283b5239352:facebook:
+  spec:
+    title: Gobuster คืออะไร? ใช่ขบวนการจารชน โกบัสเตอร์ ป่ะ [evanrintho.buzz]
+    url: https://blog.evanrintho.buzz/post/what-is-gobuster
+  state:
+    id: '100746876247412_709936858662226'
+    url: https://www.facebook.com/100683012920950/posts/709936858662226
+6511f557bf914c75c6c13283b5239352:mastodon:
+  spec:
+    title: Gobuster คืออะไร? ใช่ขบวนการจารชน โกบัสเตอร์ ป่ะ [evanrintho.buzz]
+    url: https://blog.evanrintho.buzz/post/what-is-gobuster
+  state:
+    id: '114770280150912582'
+    url: https://mastodon.in.th/@webring/114770280150912582
+6511f557bf914c75c6c13283b5239352:shorturl:
+  spec:
+    url: https://blog.evanrintho.buzz/post/what-is-gobuster
+  state:
+    shortLink: https://link.webring.in.th/2607
 65433d3f4af68a0d3610e55485f6711d:facebook:
   spec:
     title: ถูกใจสาย Go สร้าง Concurrency limiting goroutine pool ด้วย workerpool แบบเข้าใจง่าย ๆ [poolsawat.com]
