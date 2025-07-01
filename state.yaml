@@ -704,6 +704,32 @@
     url: https://www.mikkipastel.com/5-ways-to-secure-your-discord-server-for-beginner-step/
   state:
     shortLink: https://link.webring.in.th/2444
+05d4f8f910dd2beec7b2920fb13b7697:bluesky:
+  spec:
+    title: I put my heart and soul into my work, and I have lost my mind in the process. [myifew.com]
+    url: https://myifew.com/6638/put-my-heart-soul-into-mywork/
+  state:
+    cid: bafyreifptierndtf3psmaew6ewrogwnnurlak3g6b6jbkw76pplj3ipci4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lsvehxoium2y
+05d4f8f910dd2beec7b2920fb13b7697:facebook:
+  spec:
+    title: I put my heart and soul into my work, and I have lost my mind in the process. [myifew.com]
+    url: https://myifew.com/6638/put-my-heart-soul-into-mywork/
+  state:
+    id: '100746876247412_710938525228726'
+    url: https://www.facebook.com/100683012920950/posts/710938525228726
+05d4f8f910dd2beec7b2920fb13b7697:mastodon:
+  spec:
+    title: I put my heart and soul into my work, and I have lost my mind in the process. [myifew.com]
+    url: https://myifew.com/6638/put-my-heart-soul-into-mywork/
+  state:
+    id: '114777221620219962'
+    url: https://mastodon.in.th/@webring/114777221620219962
+05d4f8f910dd2beec7b2920fb13b7697:shorturl:
+  spec:
+    url: https://myifew.com/6638/put-my-heart-soul-into-mywork/
+  state:
+    shortLink: https://link.webring.in.th/2610
 05dbab9861905160ded138aaaca18ab2:bluesky:
   spec:
     title: บันทึกการติดต่อ Memcached server ผ่าน terminal [somkiat.cc]
