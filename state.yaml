@@ -24893,6 +24893,32 @@ baf704b0b87e964fb3c3e8c00cd27876:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/01/az-400-implement-a-secure-continuous-deployment-using-azure-pipelines/
   state:
     shortLink: https://webring.page.link/CCfC
+bb1bed1df466cf7c7f75337932ba4302:bluesky:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง Performance Testing with Grafana K6 [somkiat.cc]
+    url: https://www.somkiat.cc/performance-testing-with-grafana-k6/
+  state:
+    cid: bafyreiepqfcwp5qrtqntkrttbnv7tmhzci4mrekpcybzatgdzr3dlfsnam
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lsvp6obwlm2y
+bb1bed1df466cf7c7f75337932ba4302:facebook:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง Performance Testing with Grafana K6 [somkiat.cc]
+    url: https://www.somkiat.cc/performance-testing-with-grafana-k6/
+  state:
+    id: '100746876247412_711047298551182'
+    url: https://www.facebook.com/100683012920950/posts/711047298551182
+bb1bed1df466cf7c7f75337932ba4302:mastodon:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง Performance Testing with Grafana K6 [somkiat.cc]
+    url: https://www.somkiat.cc/performance-testing-with-grafana-k6/
+  state:
+    id: '114777975534804952'
+    url: https://mastodon.in.th/@webring/114777975534804952
+bb1bed1df466cf7c7f75337932ba4302:shorturl:
+  spec:
+    url: https://www.somkiat.cc/performance-testing-with-grafana-k6/
+  state:
+    shortLink: https://link.webring.in.th/2611
 bb4e0d7afc761421e60fc3f8fca60214:facebook:
   spec:
     title: เมื่ออยากมี Tools ส่วนตัวใช้ในชีวิตประจำวันผ่าน LINE [janescience.com]
