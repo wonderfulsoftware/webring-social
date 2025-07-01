@@ -23769,6 +23769,32 @@ b248067f438f63e0da6c2940be830c4d:shorturl:
     url: https://www.somkiat.cc/architecture-antipatterns/
   state:
     shortLink: https://link.webring.in.th/1892
+b25c595de1b0a0742c72a3469ca4c085:bluesky:
+  spec:
+    title: 'จดๆจาก Performance Testing: Analysis Design Develop and Test in Action Workshop รุ่นที่ 1 @SCK DOJO [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/06/recap-performance-testing-analysis-design-develop-and-test-in-action-workshop-batch-1/
+  state:
+    cid: bafyreie4wbvugsfojnbswmtupob34ldpmzzyjq3lsdjavkalbiiiqo65qi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lsusl46awi2f
+b25c595de1b0a0742c72a3469ca4c085:facebook:
+  spec:
+    title: 'จดๆจาก Performance Testing: Analysis Design Develop and Test in Action Workshop รุ่นที่ 1 @SCK DOJO [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/06/recap-performance-testing-analysis-design-develop-and-test-in-action-workshop-batch-1/
+  state:
+    id: '100746876247412_710712708584641'
+    url: https://www.facebook.com/100683012920950/posts/710712708584641
+b25c595de1b0a0742c72a3469ca4c085:mastodon:
+  spec:
+    title: 'จดๆจาก Performance Testing: Analysis Design Develop and Test in Action Workshop รุ่นที่ 1 @SCK DOJO [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/06/recap-performance-testing-analysis-design-develop-and-test-in-action-workshop-batch-1/
+  state:
+    id: '114775962275770637'
+    url: https://mastodon.in.th/@webring/114775962275770637
+b25c595de1b0a0742c72a3469ca4c085:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/06/recap-performance-testing-analysis-design-develop-and-test-in-action-workshop-batch-1/
+  state:
+    shortLink: https://link.webring.in.th/2608
 b2635a0214a66b776839b28571bbc2ec:bluesky:
   spec:
     title: Clear Cache DNS Mac [amiearth.com]
