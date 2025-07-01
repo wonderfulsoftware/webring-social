@@ -11409,6 +11409,32 @@
     url: https://www.somkiat.cc/generative-api-with-mongodb-atlas/
   state:
     shortLink: https://webring.page.link/LZNu
+5af950a05de56b6003276a944eccad79:bluesky:
+  spec:
+    title: 0263 | บั๊กตู้ชาร์จ ปตท รุ่นใหม่ๆ [icez.net]
+    url: https://www.icez.net/blog/167563/0263-%e0%b8%9a%e0%b8%b1%e0%b9%8a%e0%b8%81%e0%b8%95%e0%b8%b9%e0%b9%89%e0%b8%8a%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%88-%e0%b8%9b%e0%b8%95%e0%b8%97-%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b9%83%e0%b8%ab
+  state:
+    cid: bafyreiefsqtejg4ats5eab47dowyps5acpfjkv7d7x6xjndhkiawburedu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lsv2ny5l4v2p
+5af950a05de56b6003276a944eccad79:facebook:
+  spec:
+    title: 0263 | บั๊กตู้ชาร์จ ปตท รุ่นใหม่ๆ [icez.net]
+    url: https://www.icez.net/blog/167563/0263-%e0%b8%9a%e0%b8%b1%e0%b9%8a%e0%b8%81%e0%b8%95%e0%b8%b9%e0%b9%89%e0%b8%8a%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%88-%e0%b8%9b%e0%b8%95%e0%b8%97-%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b9%83%e0%b8%ab
+  state:
+    id: '100746876247412_710783275244251'
+    url: https://www.facebook.com/100683012920950/posts/710783275244251
+5af950a05de56b6003276a944eccad79:mastodon:
+  spec:
+    title: 0263 | บั๊กตู้ชาร์จ ปตท รุ่นใหม่ๆ [icez.net]
+    url: https://www.icez.net/blog/167563/0263-%e0%b8%9a%e0%b8%b1%e0%b9%8a%e0%b8%81%e0%b8%95%e0%b8%b9%e0%b9%89%e0%b8%8a%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%88-%e0%b8%9b%e0%b8%95%e0%b8%97-%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b9%83%e0%b8%ab
+  state:
+    id: '114776531177712764'
+    url: https://mastodon.in.th/@webring/114776531177712764
+5af950a05de56b6003276a944eccad79:shorturl:
+  spec:
+    url: https://www.icez.net/blog/167563/0263-%e0%b8%9a%e0%b8%b1%e0%b9%8a%e0%b8%81%e0%b8%95%e0%b8%b9%e0%b9%89%e0%b8%8a%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%88-%e0%b8%9b%e0%b8%95%e0%b8%97-%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b9%83%e0%b8%ab
+  state:
+    shortLink: https://link.webring.in.th/2609
 5b846abf44b18f82682f9d8d2e8f43d5:facebook:
   spec:
     title: 'นิลเล่า: WordPress Basic II [blog.ninprd.com]'
