@@ -22460,6 +22460,32 @@ a8cf835a7755702715a65f8d225df574:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/02/nuxt3-with-bun-dockerfile/
   state:
     shortLink: https://link.webring.in.th/2402
+a8d511d41944d9fc72ef319be7599361:bluesky:
+  spec:
+    title: 🚀 การเขียนโปรแกรมแบบ Serverless – ทางเลือกใหม่ของการพัฒนาแอปยุค Cloud [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%81%e0%b8%a3%e0%b8%a1%e0%b9%81%e0%b8%9a%e0%b8%9a-serverless/
+  state:
+    cid: bafyreifiinkxutwy4zxlxfcv2rhlbfqfv65wcps2divxcgmsk4s7jzd4ji
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lsxl4pqekc2w
+a8d511d41944d9fc72ef319be7599361:facebook:
+  spec:
+    title: 🚀 การเขียนโปรแกรมแบบ Serverless – ทางเลือกใหม่ของการพัฒนาแอปยุค Cloud [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%81%e0%b8%a3%e0%b8%a1%e0%b9%81%e0%b8%9a%e0%b8%9a-serverless/
+  state:
+    id: '100746876247412_711706588485253'
+    url: https://www.facebook.com/100683012920950/posts/711706588485253
+a8d511d41944d9fc72ef319be7599361:mastodon:
+  spec:
+    title: 🚀 การเขียนโปรแกรมแบบ Serverless – ทางเลือกใหม่ของการพัฒนาแอปยุค Cloud [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%81%e0%b8%a3%e0%b8%a1%e0%b9%81%e0%b8%9a%e0%b8%9a-serverless/
+  state:
+    id: '114782193379401671'
+    url: https://mastodon.in.th/@webring/114782193379401671
+a8d511d41944d9fc72ef319be7599361:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%81%e0%b8%a3%e0%b8%a1%e0%b9%81%e0%b8%9a%e0%b8%9a-serverless/
+  state:
+    shortLink: https://link.webring.in.th/2613
 a8dafb07a52f8efa6d53c1fa72d3caf3:bluesky:
   spec:
     title: '[CR] 711 x เนื้อแท้ เนื้อย่างซอสแจ่วชีสโทสต์แซนวิช [debuggingsoft.com]'
