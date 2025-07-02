@@ -32574,6 +32574,32 @@ f71e908eceea50140926bf688bf08369:shorturl:
     url: https://myifew.com/6533/twitter-open-source-algorithm/
   state:
     shortLink: https://webring.page.link/jFyE
+f73050ead5efbc9b9d1ea2ec52a3e18d:bluesky:
+  spec:
+    title: Installing Samsung Notes for PC/Laptop (As of JULY 2025) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/installing-samsung-notes-for-pc-laptop-as-of-july-2025/
+  state:
+    cid: bafyreiflvcunwy7rwmzm5cgrizui7sszdj2b53ydtb3l2ffr6zoi4zkusy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lsxcjlqkcl2k
+f73050ead5efbc9b9d1ea2ec52a3e18d:facebook:
+  spec:
+    title: Installing Samsung Notes for PC/Laptop (As of JULY 2025) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/installing-samsung-notes-for-pc-laptop-as-of-july-2025/
+  state:
+    id: '100746876247412_711632961825949'
+    url: https://www.facebook.com/100683012920950/posts/711632961825949
+f73050ead5efbc9b9d1ea2ec52a3e18d:mastodon:
+  spec:
+    title: Installing Samsung Notes for PC/Laptop (As of JULY 2025) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/installing-samsung-notes-for-pc-laptop-as-of-july-2025/
+  state:
+    id: '114781588366062680'
+    url: https://mastodon.in.th/@webring/114781588366062680
+f73050ead5efbc9b9d1ea2ec52a3e18d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/07/installing-samsung-notes-for-pc-laptop-as-of-july-2025/
+  state:
+    shortLink: https://link.webring.in.th/2612
 f7553bdc711a78021430634f4a1a95e7:facebook:
   spec:
     title: บันทึกการแก้ปัญหา Cannot read properties of undefined (reading ‘REACT_APP_SC_ATTR’) [somkiat.cc]
