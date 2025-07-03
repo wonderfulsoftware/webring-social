@@ -26043,6 +26043,32 @@ c398c50193817b68dc475a64923a4c0d:shorturl:
     url: https://tinarskii.com/articles/undefined
   state:
     shortLink: https://webring.page.link/PNAf
+c39b7e9c4c693b216bd4f1ff242b3427:bluesky:
+  spec:
+    title: 'ERROR: failed to solve: process “/bin/sh -c bun install –frozen-lockfile” did not complete successfully: exit code: 1 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/07/error-failed-to-solve-process-bin-sh-c-bun-install-frozen-lockfile-did-not-complete-successfully-exit-code-1/
+  state:
+    cid: bafyreihq7fnvxfiuwsxshkldl76a4huvcsj2r72gde67nbjrmnpjxoupxy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lt23m36sat2w
+c39b7e9c4c693b216bd4f1ff242b3427:facebook:
+  spec:
+    title: 'ERROR: failed to solve: process “/bin/sh -c bun install –frozen-lockfile” did not complete successfully: exit code: 1 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/07/error-failed-to-solve-process-bin-sh-c-bun-install-frozen-lockfile-did-not-complete-successfully-exit-code-1/
+  state:
+    id: '100746876247412_712497025072876'
+    url: https://www.facebook.com/100683012920950/posts/712497025072876
+c39b7e9c4c693b216bd4f1ff242b3427:mastodon:
+  spec:
+    title: 'ERROR: failed to solve: process “/bin/sh -c bun install –frozen-lockfile” did not complete successfully: exit code: 1 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/07/error-failed-to-solve-process-bin-sh-c-bun-install-frozen-lockfile-did-not-complete-successfully-exit-code-1/
+  state:
+    id: '114787856842239106'
+    url: https://mastodon.in.th/@webring/114787856842239106
+c39b7e9c4c693b216bd4f1ff242b3427:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/07/error-failed-to-solve-process-bin-sh-c-bun-install-frozen-lockfile-did-not-complete-successfully-exit-code-1/
+  state:
+    shortLink: https://link.webring.in.th/2615
 c3b20b871614a32e6d3736c43b37ee9f:bluesky:
   spec:
     title: เอา Secret ที่ลืมไว้ออกจาก Code ด้วย BFG Repo-Cleaner [debuggingsoft.com]
