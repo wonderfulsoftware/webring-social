@@ -358,6 +358,32 @@
     url: https://mymoneytoolkit.app/posts/global-market-overview
   state:
     shortLink: https://link.webring.in.th/2436
+027980da02092edd68f422cc74592051:bluesky:
+  spec:
+    title: ทำไมทุกวันนี้ทุกคนหันมาใช้ TypeScript แทน JavaScript [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%84%e0%b8%99%e0%b8%ab%e0%b8%b1%e0%b8%99%e0%b8%a1/
+  state:
+    cid: bafyreih3nrmv43lco5jlya4jdw5t6vofwamwihm4pdc4cxtohxdq5bx5cm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lt4dfl6nxb2q
+027980da02092edd68f422cc74592051:facebook:
+  spec:
+    title: ทำไมทุกวันนี้ทุกคนหันมาใช้ TypeScript แทน JavaScript [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%84%e0%b8%99%e0%b8%ab%e0%b8%b1%e0%b8%99%e0%b8%a1/
+  state:
+    id: '100746876247412_713205181668727'
+    url: https://www.facebook.com/100683012920950/posts/713205181668727
+027980da02092edd68f422cc74592051:mastodon:
+  spec:
+    title: ทำไมทุกวันนี้ทุกคนหันมาใช้ TypeScript แทน JavaScript [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%84%e0%b8%99%e0%b8%ab%e0%b8%b1%e0%b8%99%e0%b8%a1/
+  state:
+    id: '114792908748639620'
+    url: https://mastodon.in.th/@webring/114792908748639620
+027980da02092edd68f422cc74592051:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%84%e0%b8%99%e0%b8%ab%e0%b8%b1%e0%b8%99%e0%b8%a1/
+  state:
+    shortLink: https://link.webring.in.th/2616
 02801407cdf48d2d13a844d98d3dddc0:bluesky:
   spec:
     title: ลองมาตรวจหูครั้งแรกที่โรงพยาบาลหู ตา คอ จมูก [debuggingsoft.com]
