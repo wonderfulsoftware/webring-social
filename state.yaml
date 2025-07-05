@@ -15419,6 +15419,32 @@
     url: https://notes.dt.in.th/NotebookLMSummarizationPrompt
   state:
     shortLink: https://link.webring.in.th/2593
+75a25d2e7f0886f589240170a5ecda8a:bluesky:
+  spec:
+    title: Challenges [poom.dev]
+    url: https://poom.dev/challenges/
+  state:
+    cid: bafyreig7xawqdtywmw56vi3jwr26fvtbwkqaddrjulyir2gtyullnbbyh4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lt7g5dhnap22
+75a25d2e7f0886f589240170a5ecda8a:facebook:
+  spec:
+    title: Challenges [poom.dev]
+    url: https://poom.dev/challenges/
+  state:
+    id: '100746876247412_714185708237341'
+    url: https://www.facebook.com/100683012920950/posts/714185708237341
+75a25d2e7f0886f589240170a5ecda8a:mastodon:
+  spec:
+    title: Challenges [poom.dev]
+    url: https://poom.dev/challenges/
+  state:
+    id: '114799857377214647'
+    url: https://mastodon.in.th/@webring/114799857377214647
+75a25d2e7f0886f589240170a5ecda8a:shorturl:
+  spec:
+    url: https://poom.dev/challenges/
+  state:
+    shortLink: https://link.webring.in.th/2619
 75e9044e76b5417e59930ae95bde9f45:facebook:
   spec:
     title: '[PowerShell] Snippet Script Copy Files that are listed in a text file [debuggingsoft.com]'
