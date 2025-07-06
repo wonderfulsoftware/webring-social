@@ -30339,6 +30339,32 @@ e4197f4a991b29b7c76210f790551be8:shorturl:
     url: https://www.somkiat.cc/how-to-email-testing/
   state:
     shortLink: https://webring.page.link/bLSX
+e433d23a7dd49607c1a653198690b714:bluesky:
+  spec:
+    title: สรุปนิดๆ จากที่ไปร่วมงาน Agile Thailand 2025 [myifew.com]
+    url: https://myifew.com/6656/6656/
+  state:
+    cid: bafyreierr4m72omk4b2bn4f6ibwdozpkbyycg2y2zatoizeaxnk4xnc7bq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltbmuq6rli2f
+e433d23a7dd49607c1a653198690b714:facebook:
+  spec:
+    title: สรุปนิดๆ จากที่ไปร่วมงาน Agile Thailand 2025 [myifew.com]
+    url: https://myifew.com/6656/6656/
+  state:
+    id: '100746876247412_714875521501693'
+    url: https://www.facebook.com/100683012920950/posts/714875521501693
+e433d23a7dd49607c1a653198690b714:mastodon:
+  spec:
+    title: สรุปนิดๆ จากที่ไปร่วมงาน Agile Thailand 2025 [myifew.com]
+    url: https://myifew.com/6656/6656/
+  state:
+    id: '114804834489262952'
+    url: https://mastodon.in.th/@webring/114804834489262952
+e433d23a7dd49607c1a653198690b714:shorturl:
+  spec:
+    url: https://myifew.com/6656/6656/
+  state:
+    shortLink: https://link.webring.in.th/2621
 e43970a1314a21a49eb56b03f32926c9:facebook:
   spec:
     title: ลองมาเพิ่ม Merge Request Template ใน GitLab กันครับ [debuggingsoft.com]
