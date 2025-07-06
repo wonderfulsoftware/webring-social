@@ -24451,6 +24451,32 @@ b61651d425ce5c71f40c5920a62b8748:shorturl:
     url: https://notes.dt.in.th/GristDockerCompose
   state:
     shortLink: https://link.webring.in.th/2548
+b64cd664815e1e0173d6c8ba59e3940b:bluesky:
+  spec:
+    title: API Gateway คืออะไร ทำงานอย่างไรในระบบใหญ่ [poolsawat.com]
+    url: https://www.poolsawat.com/api-gateway-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b9%83/
+  state:
+    cid: bafyreidbwkxiundcw4qieqd3qb7nybyl7zpouaxkmd5v32qkq5msxhmuue
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltbensyhkm2y
+b64cd664815e1e0173d6c8ba59e3940b:facebook:
+  spec:
+    title: API Gateway คืออะไร ทำงานอย่างไรในระบบใหญ่ [poolsawat.com]
+    url: https://www.poolsawat.com/api-gateway-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b9%83/
+  state:
+    id: '100746876247412_714796508176261'
+    url: https://www.facebook.com/100683012920950/posts/714796508176261
+b64cd664815e1e0173d6c8ba59e3940b:mastodon:
+  spec:
+    title: API Gateway คืออะไร ทำงานอย่างไรในระบบใหญ่ [poolsawat.com]
+    url: https://www.poolsawat.com/api-gateway-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b9%83/
+  state:
+    id: '114804256376672596'
+    url: https://mastodon.in.th/@webring/114804256376672596
+b64cd664815e1e0173d6c8ba59e3940b:shorturl:
+  spec:
+    url: https://www.poolsawat.com/api-gateway-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b9%83/
+  state:
+    shortLink: https://link.webring.in.th/2620
 b67c68ab72b1009cf2e73735c84dba8a:facebook:
   spec:
     title: ทดลองใช้ AI generate ภาพ แบบ text-to-image จากเว็บไซต์ต่าง ๆ [mikkipastel.com]
