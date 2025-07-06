@@ -26128,6 +26128,32 @@ c32dba6e388cd03dee106ca177bb87e9:shorturl:
     url: https://blog.zartre.com/2025/how-prime-numbers-are-the-building-blocks-of-numbers/
   state:
     shortLink: https://link.webring.in.th/2500
+c33a7417519cf9a7c91c2c8a5978d1de:bluesky:
+  spec:
+    title: 'แวะมาฟัง Agile Thailand 2025 #ATH2025 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/07/note-agile-thailand-2025-ath2025/
+  state:
+    cid: bafyreidkbvyelmwk7ntkgfytlgwit6hfumgzxlchyw4t43a4mod3hzbwd4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltbwlqjaq62a
+c33a7417519cf9a7c91c2c8a5978d1de:facebook:
+  spec:
+    title: 'แวะมาฟัง Agile Thailand 2025 #ATH2025 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/07/note-agile-thailand-2025-ath2025/
+  state:
+    id: '100746876247412_714974774825101'
+    url: https://www.facebook.com/100683012920950/posts/714974774825101
+c33a7417519cf9a7c91c2c8a5978d1de:mastodon:
+  spec:
+    title: 'แวะมาฟัง Agile Thailand 2025 #ATH2025 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/07/note-agile-thailand-2025-ath2025/
+  state:
+    id: '114805518328196190'
+    url: https://mastodon.in.th/@webring/114805518328196190
+c33a7417519cf9a7c91c2c8a5978d1de:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/07/note-agile-thailand-2025-ath2025/
+  state:
+    shortLink: https://link.webring.in.th/2622
 c3975af07113926b838e98b7b98b30a8:bluesky:
   spec:
     title: สรุปงาน Microsoft Ignite After Party Thailand 2024 [debuggingsoft.com]
