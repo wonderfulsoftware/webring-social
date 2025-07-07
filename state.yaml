@@ -29016,6 +29016,32 @@ d8fa10204a613773afd12a7eb2f61fda:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-intro-to-data-science/
   state:
     shortLink: https://link.webring.in.th/2488
+d8fba05ca5b55d5c7c31635699e19080:bluesky:
+  spec:
+    title: แนะนำ Design Pattern พื้นฐานที่โปรแกรมเมอร์ควรรู้ พร้อมตัวอย่างและภาพประกอบ อ่านจบภายใน 15 นาที [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%81%e0%b8%99%e0%b8%b0%e0%b8%99%e0%b8%b3-design-pattern-%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%81/
+  state:
+    cid: bafyreiaokf6yaprtramxiyvgubn3bs32kfhb436l673gbrv2kf6vqzcdcm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltdv4cv3pk2u
+d8fba05ca5b55d5c7c31635699e19080:facebook:
+  spec:
+    title: แนะนำ Design Pattern พื้นฐานที่โปรแกรมเมอร์ควรรู้ พร้อมตัวอย่างและภาพประกอบ อ่านจบภายใน 15 นาที [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%81%e0%b8%99%e0%b8%b0%e0%b8%99%e0%b8%b3-design-pattern-%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%81/
+  state:
+    id: '100746876247412_715596358096276'
+    url: https://www.facebook.com/100683012920950/posts/715596358096276
+d8fba05ca5b55d5c7c31635699e19080:mastodon:
+  spec:
+    title: แนะนำ Design Pattern พื้นฐานที่โปรแกรมเมอร์ควรรู้ พร้อมตัวอย่างและภาพประกอบ อ่านจบภายใน 15 นาที [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%81%e0%b8%99%e0%b8%b0%e0%b8%99%e0%b8%b3-design-pattern-%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%81/
+  state:
+    id: '114809917739118833'
+    url: https://mastodon.in.th/@webring/114809917739118833
+d8fba05ca5b55d5c7c31635699e19080:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b9%81%e0%b8%99%e0%b8%b0%e0%b8%99%e0%b8%b3-design-pattern-%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%81/
+  state:
+    shortLink: https://link.webring.in.th/2623
 d97ede9157bfaf3f331249d86b0e86a7:facebook:
   spec:
     title: ghq - Remote repo management tool [garden.narze.live]
