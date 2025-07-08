@@ -1771,6 +1771,32 @@
     url: https://rayriffy.com/garden/ssh-hostname-multi-address/
   state:
     shortLink: https://webring.page.link/Geg5
+0d97fda3b047683c225f9588f66ff239:bluesky:
+  spec:
+    title: How I render HTML in Elysia [dt.in.th]
+    url: https://notes.dt.in.th/ElysiaRenderHtml
+  state:
+    cid: bafyreigqguz7ko3c2ca7pr3ujxatc7qucxgbyokozzpyp5r4sv7lyr6b3m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltgfd3pena2g
+0d97fda3b047683c225f9588f66ff239:facebook:
+  spec:
+    title: How I render HTML in Elysia [dt.in.th]
+    url: https://notes.dt.in.th/ElysiaRenderHtml
+  state:
+    id: '100746876247412_716360254686553'
+    url: https://www.facebook.com/100683012920950/posts/716360254686553
+0d97fda3b047683c225f9588f66ff239:mastodon:
+  spec:
+    title: How I render HTML in Elysia [dt.in.th]
+    url: https://notes.dt.in.th/ElysiaRenderHtml
+  state:
+    id: '114815562264918124'
+    url: https://mastodon.in.th/@webring/114815562264918124
+0d97fda3b047683c225f9588f66ff239:shorturl:
+  spec:
+    url: https://notes.dt.in.th/ElysiaRenderHtml
+  state:
+    shortLink: https://link.webring.in.th/2624
 0da339ca5d228e8d3441fba13fc70275:bluesky:
   spec:
     title: Vibe coding คืออะไร [somkiat.cc]
