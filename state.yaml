@@ -11430,6 +11430,32 @@
     url: https://www.somkiat.cc/noise-is-problem-for-productivity/
   state:
     shortLink: https://webring.page.link/mymH
+5a38c656e7c1c9023f4c80e238f90a2d:bluesky:
+  spec:
+    title: บันทึกการใช้งาน Claude Task Master นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-task-master-ai/
+  state:
+    cid: bafyreifswptgqjk33tjgbzn4na5oip3mze73dnxbh4gkc2q4x4jvi4n3me
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltgxpfvalb2v
+5a38c656e7c1c9023f4c80e238f90a2d:facebook:
+  spec:
+    title: บันทึกการใช้งาน Claude Task Master นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-task-master-ai/
+  state:
+    id: '100746876247412_716546931334552'
+    url: https://www.facebook.com/100683012920950/posts/716546931334552
+5a38c656e7c1c9023f4c80e238f90a2d:mastodon:
+  spec:
+    title: บันทึกการใช้งาน Claude Task Master นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-task-master-ai/
+  state:
+    id: '114816855819353824'
+    url: https://mastodon.in.th/@webring/114816855819353824
+5a38c656e7c1c9023f4c80e238f90a2d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/sharing-task-master-ai/
+  state:
+    shortLink: https://link.webring.in.th/2626
 5a5fda4fb0cb71c24a3bc13ccc799868:bluesky:
   spec:
     title: WASM deployment benchmark [karnwong.me]
