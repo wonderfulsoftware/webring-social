@@ -12943,6 +12943,32 @@
     url: https://garden.narze.live/100daysofcode-r3-58-garden-astro-use-hashtags/
   state:
     shortLink: https://webring.page.link/eKZ9
+63013aaf56d5d028ad0c7cca1b5159b6:bluesky:
+  spec:
+    title: ทำความเข้าใจ Event Loop ใน JavaScript อย่างลึกซึ้ง [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b9%83%e0%b8%88-event-loop-%e0%b9%83%e0%b8%99-javascript-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87/
+  state:
+    cid: bafyreifzt7cwbpjew5phlc3mkjmaln7i5h7d3hjkjddfaqp2y2x3uhqany
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltgnw6qhkl27
+63013aaf56d5d028ad0c7cca1b5159b6:facebook:
+  spec:
+    title: ทำความเข้าใจ Event Loop ใน JavaScript อย่างลึกซึ้ง [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b9%83%e0%b8%88-event-loop-%e0%b9%83%e0%b8%99-javascript-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87/
+  state:
+    id: '100746876247412_716433344679244'
+    url: https://www.facebook.com/100683012920950/posts/716433344679244
+63013aaf56d5d028ad0c7cca1b5159b6:mastodon:
+  spec:
+    title: ทำความเข้าใจ Event Loop ใน JavaScript อย่างลึกซึ้ง [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b9%83%e0%b8%88-event-loop-%e0%b9%83%e0%b8%99-javascript-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87/
+  state:
+    id: '114816167247277504'
+    url: https://mastodon.in.th/@webring/114816167247277504
+63013aaf56d5d028ad0c7cca1b5159b6:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b9%83%e0%b8%88-event-loop-%e0%b9%83%e0%b8%99-javascript-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87/
+  state:
+    shortLink: https://link.webring.in.th/2625
 636c08d0b49b5da19bfe0eb7d2202307:facebook:
   spec:
     title: ลองใช้งาน gonew สำหรับการสร้าง project ของภาษา Go [somkiat.cc]
