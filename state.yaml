@@ -21601,6 +21601,32 @@ a1594998c2ff2ce26008ff08cc100bc3:shorturl:
     url: https://blog.ninprd.com/blog/summary-session-why-use-javascript-when-css-is-possible/
   state:
     shortLink: https://link.webring.in.th/2200
+a15aec81058a49ac4c6fdae78242fe3b:bluesky:
+  spec:
+    title: Dataframe processing benchmarks [karnwong.me]
+    url: https://karnwong.me/posts/2025/07/dataframe-processing-benchmarks/
+  state:
+    cid: bafyreifyctf6nklhaamkivrivdpkbk5hh2sqgsiqtitnssax4cfed7ws2u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltivxfvryv2s
+a15aec81058a49ac4c6fdae78242fe3b:facebook:
+  spec:
+    title: Dataframe processing benchmarks [karnwong.me]
+    url: https://karnwong.me/posts/2025/07/dataframe-processing-benchmarks/
+  state:
+    id: '100746876247412_717116984610880'
+    url: https://www.facebook.com/100683012920950/posts/717116984610880
+a15aec81058a49ac4c6fdae78242fe3b:mastodon:
+  spec:
+    title: Dataframe processing benchmarks [karnwong.me]
+    url: https://karnwong.me/posts/2025/07/dataframe-processing-benchmarks/
+  state:
+    id: '114821236360869441'
+    url: https://mastodon.in.th/@webring/114821236360869441
+a15aec81058a49ac4c6fdae78242fe3b:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/07/dataframe-processing-benchmarks/
+  state:
+    shortLink: https://link.webring.in.th/2627
 a15d7eb8a3b14282e475ad513fef573f:facebook:
   spec:
     title: How I install Python on macOS - 2023 edition [garden.narze.live]
