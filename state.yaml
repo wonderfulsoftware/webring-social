@@ -23813,6 +23813,32 @@ b0154bf4b6145a5f744da63d8bdc712b:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/02/vba-convert-excel-to-pipe-delimited-file/
   state:
     shortLink: https://link.webring.in.th/1752
+b0880eacad6dee73e7cd33e6dead57e8:bluesky:
+  spec:
+    title: Library สำหรับการอ่านข้อมูลในรูปแบบต่าง ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/library-data-ai-friendly/
+  state:
+    cid: bafyreigirkjk7wqjwdtruvza267s3qpectkcx6h3h6ofq4zldtkz3nwzsa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltji6xekfp2b
+b0880eacad6dee73e7cd33e6dead57e8:facebook:
+  spec:
+    title: Library สำหรับการอ่านข้อมูลในรูปแบบต่าง ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/library-data-ai-friendly/
+  state:
+    id: '100746876247412_717275421261703'
+    url: https://www.facebook.com/100683012920950/posts/717275421261703
+b0880eacad6dee73e7cd33e6dead57e8:mastodon:
+  spec:
+    title: Library สำหรับการอ่านข้อมูลในรูปแบบต่าง ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/library-data-ai-friendly/
+  state:
+    id: '114822519629633070'
+    url: https://mastodon.in.th/@webring/114822519629633070
+b0880eacad6dee73e7cd33e6dead57e8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/library-data-ai-friendly/
+  state:
+    shortLink: https://link.webring.in.th/2629
 b0bab9c6fb19f66e158e3667ac1fefa2:facebook:
   spec:
     title: '[CR] Starbucks-green tea red bean cake [debuggingsoft.com]'
