@@ -9673,6 +9673,32 @@
     url: https://mymoneytoolkit.app/posts/crypto-tax-google-sheet
   state:
     shortLink: https://link.webring.in.th/2265
+4c291b8dba44cdd6186062c64db05c94:bluesky:
+  spec:
+    title: การทำ Static Code Analysis ด้วย SonarQube [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b3-static-code-analysis-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-sonarqube/
+  state:
+    cid: bafyreih5d3rzouahmb4w6h46irgdsivoeisc3vtngnqp3xpfxlvvla5ijm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltj6f7xcwg2t
+4c291b8dba44cdd6186062c64db05c94:facebook:
+  spec:
+    title: การทำ Static Code Analysis ด้วย SonarQube [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b3-static-code-analysis-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-sonarqube/
+  state:
+    id: '100746876247412_717190181270227'
+    url: https://www.facebook.com/100683012920950/posts/717190181270227
+4c291b8dba44cdd6186062c64db05c94:mastodon:
+  spec:
+    title: การทำ Static Code Analysis ด้วย SonarQube [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b3-static-code-analysis-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-sonarqube/
+  state:
+    id: '114821829623141612'
+    url: https://mastodon.in.th/@webring/114821829623141612
+4c291b8dba44cdd6186062c64db05c94:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b3-static-code-analysis-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-sonarqube/
+  state:
+    shortLink: https://link.webring.in.th/2628
 4c44c7e07574f596c5d3e9d156fdb0a9:bluesky:
   spec:
     title: ว่าง ๆ ลองสร้างเอกสารจาก code กันดู ด้วย Pocket Flow [somkiat.cc]
