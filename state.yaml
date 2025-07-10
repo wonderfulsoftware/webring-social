@@ -11361,6 +11361,32 @@
     url: https://www.anuwong.com/blog/biome-come-to-rescue-you/
   state:
     shortLink: https://link.webring.in.th/2099
+59305be5ac449ee97ae5122b935bf6ec:bluesky:
+  spec:
+    title: Spring Boot Spring Native Image (GraalVM) [poolsawat.com]
+    url: https://www.poolsawat.com/spring-boot-spring-native-image-graalvm/
+  state:
+    cid: bafyreihdrt2xvzrthrmz75d3hcolmee7gyk3ur43c7322stm5gxsdz3bje
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltlovb47fd27
+59305be5ac449ee97ae5122b935bf6ec:facebook:
+  spec:
+    title: Spring Boot Spring Native Image (GraalVM) [poolsawat.com]
+    url: https://www.poolsawat.com/spring-boot-spring-native-image-graalvm/
+  state:
+    id: '100746876247412_717929341196311'
+    url: https://www.facebook.com/100683012920950/posts/717929341196311
+59305be5ac449ee97ae5122b935bf6ec:mastodon:
+  spec:
+    title: Spring Boot Spring Native Image (GraalVM) [poolsawat.com]
+    url: https://www.poolsawat.com/spring-boot-spring-native-image-graalvm/
+  state:
+    id: '114827494459405836'
+    url: https://mastodon.in.th/@webring/114827494459405836
+59305be5ac449ee97ae5122b935bf6ec:shorturl:
+  spec:
+    url: https://www.poolsawat.com/spring-boot-spring-native-image-graalvm/
+  state:
+    shortLink: https://link.webring.in.th/2631
 593122cdc6e700d15e61b1069322b2ea:facebook:
   spec:
     title: ทำความรู้จักกับ TypeSpec สำหรับการออกแบบ API [somkiat.cc]
