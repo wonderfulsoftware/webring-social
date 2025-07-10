@@ -11162,6 +11162,32 @@
     url: https://devahoy.com/tutorials/learn-css-animations/day2-card-flip
   state:
     shortLink: https://webring.page.link/2zz5
+57f178af7cdfc301ee2959c4164cca07:bluesky:
+  spec:
+    title: Quickly deploying API endpoints online with Elysia on Deno Deploy [dt.in.th]
+    url: https://notes.dt.in.th/ElysiaDenoDeploy
+  state:
+    cid: bafyreidwoytvbaoyw2nfiibusrkw5qcw56cq64e7g6zclmnxpahvwvdlae
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltlgg3s6vd2v
+57f178af7cdfc301ee2959c4164cca07:facebook:
+  spec:
+    title: Quickly deploying API endpoints online with Elysia on Deno Deploy [dt.in.th]
+    url: https://notes.dt.in.th/ElysiaDenoDeploy
+  state:
+    id: '100746876247412_717857001203545'
+    url: https://www.facebook.com/100683012920950/posts/717857001203545
+57f178af7cdfc301ee2959c4164cca07:mastodon:
+  spec:
+    title: Quickly deploying API endpoints online with Elysia on Deno Deploy [dt.in.th]
+    url: https://notes.dt.in.th/ElysiaDenoDeploy
+  state:
+    id: '114826897839329495'
+    url: https://mastodon.in.th/@webring/114826897839329495
+57f178af7cdfc301ee2959c4164cca07:shorturl:
+  spec:
+    url: https://notes.dt.in.th/ElysiaDenoDeploy
+  state:
+    shortLink: https://link.webring.in.th/2630
 57f1d7a7f792cddcbf2ea01a6c3f0280:bluesky:
   spec:
     title: '[AZ-305] Microsoft Azure Architect Design Prerequisites [debuggingsoft.com]'
