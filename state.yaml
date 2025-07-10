@@ -28726,6 +28726,32 @@ d4c6c8927d2f0b52abc1b5fe5ed395a7:shorturl:
     url: https://thiti.dev/blog/106/
   state:
     shortLink: https://link.webring.in.th/2295
+d4f88750d917f621f1bdad92531ea33a:bluesky:
+  spec:
+    title: '[CR] Kouchan Ramen Bangkok [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/07/cr-kouchan-ramen-bangkok/
+  state:
+    cid: bafyreigj2zicmuuvq4pc4k272z4uoyxtzburcbn4btubqxhs5hbvyn4exu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltlyonlkyf2h
+d4f88750d917f621f1bdad92531ea33a:facebook:
+  spec:
+    title: '[CR] Kouchan Ramen Bangkok [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/07/cr-kouchan-ramen-bangkok/
+  state:
+    id: '100746876247412_718017161187529'
+    url: https://www.facebook.com/100683012920950/posts/718017161187529
+d4f88750d917f621f1bdad92531ea33a:mastodon:
+  spec:
+    title: '[CR] Kouchan Ramen Bangkok [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/07/cr-kouchan-ramen-bangkok/
+  state:
+    id: '114828183682249386'
+    url: https://mastodon.in.th/@webring/114828183682249386
+d4f88750d917f621f1bdad92531ea33a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/07/cr-kouchan-ramen-bangkok/
+  state:
+    shortLink: https://link.webring.in.th/2632
 d4fdbd316137674b124f875782601142:facebook:
   spec:
     title: Spring Boot 3.1 สนับสนุน Docker compose [somkiat.cc]
