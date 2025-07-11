@@ -4475,6 +4475,32 @@
     url: https://www.somkiat.cc/nodejs-21/
   state:
     shortLink: https://webring.page.link/q3au
+229ef9a100f5bb663209cdbc19b44485:bluesky:
+  spec:
+    title: 'Spring WebFlux: พัฒนา Web Application แบบ Reactive ตั้งแต่เริ่มจน Deployment [poolsawat.com]'
+    url: https://www.poolsawat.com/spring-webflux-%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2-web-application-%e0%b9%81%e0%b8%9a%e0%b8%9a-reactive-%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b9%81%e0%b8%95%e0%b9%88%e0%b9%80%e0%b8%a3/
+  state:
+    cid: bafyreign6pb52n4g22maayvmyam6qzsbp4oaxgolky7faslabvbpsuuonq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltnx6s6akj2c
+229ef9a100f5bb663209cdbc19b44485:facebook:
+  spec:
+    title: 'Spring WebFlux: พัฒนา Web Application แบบ Reactive ตั้งแต่เริ่มจน Deployment [poolsawat.com]'
+    url: https://www.poolsawat.com/spring-webflux-%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2-web-application-%e0%b9%81%e0%b8%9a%e0%b8%9a-reactive-%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b9%81%e0%b8%95%e0%b9%88%e0%b9%80%e0%b8%a3/
+  state:
+    id: '100746876247412_718599831129262'
+    url: https://www.facebook.com/100683012920950/posts/718599831129262
+229ef9a100f5bb663209cdbc19b44485:mastodon:
+  spec:
+    title: 'Spring WebFlux: พัฒนา Web Application แบบ Reactive ตั้งแต่เริ่มจน Deployment [poolsawat.com]'
+    url: https://www.poolsawat.com/spring-webflux-%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2-web-application-%e0%b9%81%e0%b8%9a%e0%b8%9a-reactive-%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b9%81%e0%b8%95%e0%b9%88%e0%b9%80%e0%b8%a3/
+  state:
+    id: '114832581983713193'
+    url: https://mastodon.in.th/@webring/114832581983713193
+229ef9a100f5bb663209cdbc19b44485:shorturl:
+  spec:
+    url: https://www.poolsawat.com/spring-webflux-%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2-web-application-%e0%b9%81%e0%b8%9a%e0%b8%9a-reactive-%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b9%81%e0%b8%95%e0%b9%88%e0%b9%80%e0%b8%a3/
+  state:
+    shortLink: https://link.webring.in.th/2633
 22fd98af748775724b50ceba4595777b:bluesky:
   spec:
     title: หนทางหนี WordPress ครั้งที่ 1 ของนิล [blog.ninprd.com]
