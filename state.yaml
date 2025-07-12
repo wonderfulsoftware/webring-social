@@ -22907,6 +22907,32 @@ a98e8f2ee6f66e06a0f1e292b154474b:shorturl:
     url: https://www.somkiat.cc/summary-12-factors-with-go-and-docker/
   state:
     shortLink: https://link.webring.in.th/1939
+a9c2d6b0c0bdcf3aaf1ad242cbe98688:bluesky:
+  spec:
+    title: ทำ Distributed Tracing ด้วย OpenTelemetry [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3-distributed-tracing-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-opentelemetry/
+  state:
+    cid: bafyreifcfbuikdz54asjueduobl7l54q3dj2oerldwp2tnkbtie6cpuyrq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltqhfgghal2y
+a9c2d6b0c0bdcf3aaf1ad242cbe98688:facebook:
+  spec:
+    title: ทำ Distributed Tracing ด้วย OpenTelemetry [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3-distributed-tracing-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-opentelemetry/
+  state:
+    id: '100746876247412_719376387718273'
+    url: https://www.facebook.com/100683012920950/posts/719376387718273
+a9c2d6b0c0bdcf3aaf1ad242cbe98688:mastodon:
+  spec:
+    title: ทำ Distributed Tracing ด้วย OpenTelemetry [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3-distributed-tracing-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-opentelemetry/
+  state:
+    id: '114838226059377060'
+    url: https://mastodon.in.th/@webring/114838226059377060
+a9c2d6b0c0bdcf3aaf1ad242cbe98688:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3-distributed-tracing-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-opentelemetry/
+  state:
+    shortLink: https://link.webring.in.th/2634
 aa1d9bfcb98f4dd95f6ca55b381f3a1d:bluesky:
   spec:
     title: 'Generative UI Design Tools: A Day''s Review [unnawut.com]'
