@@ -20960,6 +20960,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/unit-test-naming-conventions/
   state:
     shortLink: https://webring.page.link/EVJy
+99c3b5dae5aeb0eaf193a45c0460b32c:bluesky:
+  spec:
+    title: รวมเครื่องมือ และโปรแกรม ที่ developer ใช้ทำงาน [mikkipastel.com]
+    url: https://www.mikkipastel.com/what-about-tool-program-for-developer-work/
+  state:
+    cid: bafyreifuvqxpreu7vrbzglp6kqjyxwrdy6vstqknusrrrmomayhonx3kyu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltqpoufmni2p
+99c3b5dae5aeb0eaf193a45c0460b32c:facebook:
+  spec:
+    title: รวมเครื่องมือ และโปรแกรม ที่ developer ใช้ทำงาน [mikkipastel.com]
+    url: https://www.mikkipastel.com/what-about-tool-program-for-developer-work/
+  state:
+    id: '100746876247412_719455631043682'
+    url: https://www.facebook.com/100683012920950/posts/719455631043682
+99c3b5dae5aeb0eaf193a45c0460b32c:mastodon:
+  spec:
+    title: รวมเครื่องมือ และโปรแกรม ที่ developer ใช้ทำงาน [mikkipastel.com]
+    url: https://www.mikkipastel.com/what-about-tool-program-for-developer-work/
+  state:
+    id: '114838809725719917'
+    url: https://mastodon.in.th/@webring/114838809725719917
+99c3b5dae5aeb0eaf193a45c0460b32c:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/what-about-tool-program-for-developer-work/
+  state:
+    shortLink: https://link.webring.in.th/2635
 9a3560e7a4e6182a66d6584f4831e98c:facebook:
   spec:
     title: How to delete a large folder that contains millions of files [debuggingsoft.com]
