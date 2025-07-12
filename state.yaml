@@ -21088,6 +21088,32 @@
     url: https://notes.dt.in.th/ResticBackup
   state:
     shortLink: https://webring.page.link/PkpM
+9b43f1d10bf579283018a0e835cb1c71:bluesky:
+  spec:
+    title: งูๆ ปลาๆ กับ Context Engineering เพื่อทำระบบคิดราคาซูชิ (Kaiten Share Calculator) [myifew.com]
+    url: https://myifew.com/6683/try-to-context-engineering/
+  state:
+    cid: bafyreibq4gnf2owv6uqwiyyspmrqhfc2xlq3ax4zt3xyttlmwhs2anp7e4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltre5gibwf2g
+9b43f1d10bf579283018a0e835cb1c71:facebook:
+  spec:
+    title: งูๆ ปลาๆ กับ Context Engineering เพื่อทำระบบคิดราคาซูชิ (Kaiten Share Calculator) [myifew.com]
+    url: https://myifew.com/6683/try-to-context-engineering/
+  state:
+    id: '100746876247412_719659667689945'
+    url: https://www.facebook.com/100683012920950/posts/719659667689945
+9b43f1d10bf579283018a0e835cb1c71:mastodon:
+  spec:
+    title: งูๆ ปลาๆ กับ Context Engineering เพื่อทำระบบคิดราคาซูชิ (Kaiten Share Calculator) [myifew.com]
+    url: https://myifew.com/6683/try-to-context-engineering/
+  state:
+    id: '114840249113277889'
+    url: https://mastodon.in.th/@webring/114840249113277889
+9b43f1d10bf579283018a0e835cb1c71:shorturl:
+  spec:
+    url: https://myifew.com/6683/try-to-context-engineering/
+  state:
+    shortLink: https://link.webring.in.th/2637
 9ba0eeec2fdf4e0c4e43715207670104:facebook:
   spec:
     title: Faster PostgreSQL during development [dt.in.th]
