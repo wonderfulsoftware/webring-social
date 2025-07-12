@@ -21107,6 +21107,32 @@
     url: https://notes.dt.in.th/PostgresDevConfig
   state:
     shortLink: https://link.webring.in.th/1717
+9c00e222d79ba2c1a6a0b29701620def:bluesky:
+  spec:
+    title: Illustration - 2025のゆきみさん🌟 [lucian.solutions]
+    url: https://lucian.solutions/blog/202507-yukimi-satsuki
+  state:
+    cid: bafyreiaxrpxbec65ivsocgcsv3lbxbq4zwann54agmhvef4inwp7qv2zaq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltqzgidudz27
+9c00e222d79ba2c1a6a0b29701620def:facebook:
+  spec:
+    title: Illustration - 2025のゆきみさん🌟 [lucian.solutions]
+    url: https://lucian.solutions/blog/202507-yukimi-satsuki
+  state:
+    id: '100746876247412_719550511034194'
+    url: https://www.facebook.com/100683012920950/posts/719550511034194
+9c00e222d79ba2c1a6a0b29701620def:mastodon:
+  spec:
+    title: Illustration - 2025のゆきみさん🌟 [lucian.solutions]
+    url: https://lucian.solutions/blog/202507-yukimi-satsuki
+  state:
+    id: '114839494981786055'
+    url: https://mastodon.in.th/@webring/114839494981786055
+9c00e222d79ba2c1a6a0b29701620def:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202507-yukimi-satsuki
+  state:
+    shortLink: https://link.webring.in.th/2636
 9c0c2a2834c4c40e9ddf391031e09d63:facebook:
   spec:
     title: NVM คืออะไร แชร์เทคนิคการใช้งาน [poolsawat.com]
