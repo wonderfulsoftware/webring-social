@@ -16151,6 +16151,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/06/move-your-dns-name-server-to-cloudflare/
   state:
     shortLink: https://link.webring.in.th/2577
+784cbbd7f6c605f320d49a0e44fe08d4:bluesky:
+  spec:
+    title: 'Rust กับ Microservices: ระบบที่เบาและเร็วสำหรับโปรดักชัน [poolsawat.com]'
+    url: https://www.poolsawat.com/rust-%e0%b8%81%e0%b8%b1%e0%b8%9a-microservices-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9a%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%80%e0%b8%a3%e0%b9%87/
+  state:
+    cid: bafyreidfq6am7mje4z6zwas37hbpnvjzcysh6rdckj4x6bvcljwnhmnaem
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltta6xyv7q2c
+784cbbd7f6c605f320d49a0e44fe08d4:facebook:
+  spec:
+    title: 'Rust กับ Microservices: ระบบที่เบาและเร็วสำหรับโปรดักชัน [poolsawat.com]'
+    url: https://www.poolsawat.com/rust-%e0%b8%81%e0%b8%b1%e0%b8%9a-microservices-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9a%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%80%e0%b8%a3%e0%b9%87/
+  state:
+    id: '100746876247412_720229934299585'
+    url: https://www.facebook.com/100683012920950/posts/720229934299585
+784cbbd7f6c605f320d49a0e44fe08d4:mastodon:
+  spec:
+    title: 'Rust กับ Microservices: ระบบที่เบาและเร็วสำหรับโปรดักชัน [poolsawat.com]'
+    url: https://www.poolsawat.com/rust-%e0%b8%81%e0%b8%b1%e0%b8%9a-microservices-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9a%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%80%e0%b8%a3%e0%b9%87/
+  state:
+    id: '114844474708174282'
+    url: https://mastodon.in.th/@webring/114844474708174282
+784cbbd7f6c605f320d49a0e44fe08d4:shorturl:
+  spec:
+    url: https://www.poolsawat.com/rust-%e0%b8%81%e0%b8%b1%e0%b8%9a-microservices-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9a%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%80%e0%b8%a3%e0%b9%87/
+  state:
+    shortLink: https://link.webring.in.th/2639
 788b822f1d2bb7d0aa070b35a7c53d91:facebook:
   spec:
     title: '[Jenkins] Jenkins not able to fetch code from remote git [debuggingsoft.com]'
