@@ -20808,6 +20808,32 @@
     url: https://nitpum.com/post/wechat-miniprogram-nanoid/
   state:
     shortLink: https://webring.page.link/TpKU
+9808520b629ef67254be3fb2505260f8:bluesky:
+  spec:
+    title: Send message to Telegram chat by Telegram bot [blog.oatto.dev]
+    url: https://blog.oatto.dev/2025/07/12/send-message-to-telegram.html
+  state:
+    cid: bafyreib5ihdtx356uccfjdzxirv6r5rlmnzbwijq45tvuissdemlq6kr3q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltsy6w65xo25
+9808520b629ef67254be3fb2505260f8:facebook:
+  spec:
+    title: Send message to Telegram chat by Telegram bot [blog.oatto.dev]
+    url: https://blog.oatto.dev/2025/07/12/send-message-to-telegram.html
+  state:
+    id: '100746876247412_720155097640402'
+    url: https://www.facebook.com/100683012920950/posts/720155097640402
+9808520b629ef67254be3fb2505260f8:mastodon:
+  spec:
+    title: Send message to Telegram chat by Telegram bot [blog.oatto.dev]
+    url: https://blog.oatto.dev/2025/07/12/send-message-to-telegram.html
+  state:
+    id: '114843911365024613'
+    url: https://mastodon.in.th/@webring/114843911365024613
+9808520b629ef67254be3fb2505260f8:shorturl:
+  spec:
+    url: https://blog.oatto.dev/2025/07/12/send-message-to-telegram.html
+  state:
+    shortLink: https://link.webring.in.th/2638
 985a9928afb39cdb17736a2949470344:facebook:
   spec:
     title: dockerfile สำหรับ .NET6 + DB2 [debuggingsoft.com]
