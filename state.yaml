@@ -8411,6 +8411,32 @@
     url: https://www.llun.me/posts/2023-10-20-keyboard
   state:
     shortLink: https://webring.page.link/As2G
+40802f40dad31293fbb894d36f356003:bluesky:
+  spec:
+    title: แนะนำ Gen AI ใน Google Chrome 138.0.7204.101 [somkiat.cc]
+    url: https://www.somkiat.cc/gen-ai-in-google-chrome/
+  state:
+    cid: bafyreie762nkw6p4exqueq3kgnsla4pjiig4famq2owasuug7ionbklswe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lttjx3iz552g
+40802f40dad31293fbb894d36f356003:facebook:
+  spec:
+    title: แนะนำ Gen AI ใน Google Chrome 138.0.7204.101 [somkiat.cc]
+    url: https://www.somkiat.cc/gen-ai-in-google-chrome/
+  state:
+    id: '100746876247412_720327194289859'
+    url: https://www.facebook.com/100683012920950/posts/720327194289859
+40802f40dad31293fbb894d36f356003:mastodon:
+  spec:
+    title: แนะนำ Gen AI ใน Google Chrome 138.0.7204.101 [somkiat.cc]
+    url: https://www.somkiat.cc/gen-ai-in-google-chrome/
+  state:
+    id: '114845161077299281'
+    url: https://mastodon.in.th/@webring/114845161077299281
+40802f40dad31293fbb894d36f356003:shorturl:
+  spec:
+    url: https://www.somkiat.cc/gen-ai-in-google-chrome/
+  state:
+    shortLink: https://link.webring.in.th/2640
 40feeb56a894ebbf5b3a69e92508ed4b:facebook:
   spec:
     title: Stupid Hackathon 8 และเบื้องหลัง Nokorun [pontakorn.dev]
