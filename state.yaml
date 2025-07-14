@@ -171,6 +171,32 @@
     url: https://taoisaman.com/2023/07/08/%e0%b8%a5%e0%b8%ad%e0%b8%87-clone-chatgpt-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-chatgpt/
   state:
     shortLink: https://webring.page.link/7fME
+015b8b52585bce79d42872a0288611ad:bluesky:
+  spec:
+    title: WebSocket คืออะไร? ทำ Real-Time Chat ง่าย ๆ [poolsawat.com]
+    url: https://www.poolsawat.com/websocket-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3-real-time-chat-%e0%b8%87%e0%b9%88%e0%b8%b2%e0%b8%a2-%e0%b9%86/
+  state:
+    cid: bafyreibqlhj4oy2kcypwmnhehn2w373smj2tzfcc4amyeqob7ybdbzrqka
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltvis222xc2m
+015b8b52585bce79d42872a0288611ad:facebook:
+  spec:
+    title: WebSocket คืออะไร? ทำ Real-Time Chat ง่าย ๆ [poolsawat.com]
+    url: https://www.poolsawat.com/websocket-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3-real-time-chat-%e0%b8%87%e0%b9%88%e0%b8%b2%e0%b8%a2-%e0%b9%86/
+  state:
+    id: '100746876247412_720941014228477'
+    url: https://www.facebook.com/100683012920950/posts/720941014228477
+015b8b52585bce79d42872a0288611ad:mastodon:
+  spec:
+    title: WebSocket คืออะไร? ทำ Real-Time Chat ง่าย ๆ [poolsawat.com]
+    url: https://www.poolsawat.com/websocket-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3-real-time-chat-%e0%b8%87%e0%b9%88%e0%b8%b2%e0%b8%a2-%e0%b9%86/
+  state:
+    id: '114849583072627688'
+    url: https://mastodon.in.th/@webring/114849583072627688
+015b8b52585bce79d42872a0288611ad:shorturl:
+  spec:
+    url: https://www.poolsawat.com/websocket-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3-real-time-chat-%e0%b8%87%e0%b9%88%e0%b8%b2%e0%b8%a2-%e0%b9%86/
+  state:
+    shortLink: https://link.webring.in.th/2641
 01702aa8974a870b80febef60336e2f5:bluesky:
   spec:
     title: มาลองใช้งาน LlamaEdge สำหรับ run LLM บนเครื่องแบบเบา ๆ [somkiat.cc]
