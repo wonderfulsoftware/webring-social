@@ -1657,6 +1657,32 @@
     url: https://blog.ninprd.com/blog/nin-mission-to-bye-bye-wordpress/
   state:
     shortLink: https://link.webring.in.th/2425
+0c39cf4cb76da86612a41e5080c4bb18:bluesky:
+  spec:
+    title: ลองทำ REST API ให้กับ Model microsoft/BitNet b1.58 2B4T เชื่อมกับ Open WebUI [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/create-simple-rest-api-for-microsoft-bitnet-b1-58-2b4t-model-to-link-with-openwebui/
+  state:
+    cid: bafyreihntm323psjqv67msxt6yltyxojtp6fcyx4x56q5felmnribx5hvm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltybaxyn4n2b
+0c39cf4cb76da86612a41e5080c4bb18:facebook:
+  spec:
+    title: ลองทำ REST API ให้กับ Model microsoft/BitNet b1.58 2B4T เชื่อมกับ Open WebUI [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/create-simple-rest-api-for-microsoft-bitnet-b1-58-2b4t-model-to-link-with-openwebui/
+  state:
+    id: '100746876247412_721808780808367'
+    url: https://www.facebook.com/100683012920950/posts/721808780808367
+0c39cf4cb76da86612a41e5080c4bb18:mastodon:
+  spec:
+    title: ลองทำ REST API ให้กับ Model microsoft/BitNet b1.58 2B4T เชื่อมกับ Open WebUI [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/create-simple-rest-api-for-microsoft-bitnet-b1-58-2b4t-model-to-link-with-openwebui/
+  state:
+    id: '114855808101538877'
+    url: https://mastodon.in.th/@webring/114855808101538877
+0c39cf4cb76da86612a41e5080c4bb18:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/07/create-simple-rest-api-for-microsoft-bitnet-b1-58-2b4t-model-to-link-with-openwebui/
+  state:
+    shortLink: https://link.webring.in.th/2643
 0c4cd8d68932281c611d1b341714f8fe:facebook:
   spec:
     title: Install Proxmox [debuggingsoft.com]
