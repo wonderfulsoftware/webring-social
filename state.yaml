@@ -25379,6 +25379,32 @@ b91d69fe0d47864d6f237fc3333124f3:shorturl:
     url: https://yuttakhanb.dev/posts/dapp-e2e-synpress/
   state:
     shortLink: https://link.webring.in.th/2348
+b93248ccb6c4fbee08860c2404e40ca3:bluesky:
+  spec:
+    title: 'ความรู้สึกหลังอ่าน: Neuromancer [blog.nattp.page]'
+    url: https://blog.nattp.page/article/neuromancer/
+  state:
+    cid: bafyreihl6ixeww3wecgyps7r5vlubkd7ubbowxpqwlluurydc7gkr3oxra
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lu2rod77yj23
+b93248ccb6c4fbee08860c2404e40ca3:facebook:
+  spec:
+    title: 'ความรู้สึกหลังอ่าน: Neuromancer [blog.nattp.page]'
+    url: https://blog.nattp.page/article/neuromancer/
+  state:
+    id: '100746876247412_722571134065465'
+    url: https://www.facebook.com/100683012920950/posts/722571134065465
+b93248ccb6c4fbee08860c2404e40ca3:mastodon:
+  spec:
+    title: 'ความรู้สึกหลังอ่าน: Neuromancer [blog.nattp.page]'
+    url: https://blog.nattp.page/article/neuromancer/
+  state:
+    id: '114861467213297853'
+    url: https://mastodon.in.th/@webring/114861467213297853
+b93248ccb6c4fbee08860c2404e40ca3:shorturl:
+  spec:
+    url: https://blog.nattp.page/article/neuromancer/
+  state:
+    shortLink: https://link.webring.in.th/2645
 b93c12bca2679456e9c2d8d4595ec8f9:facebook:
   spec:
     title: แฝงตัวในดง Bitcoiner ที่งาน Thailand Bitcoin Conference 2024 [mikkipastel.com]
