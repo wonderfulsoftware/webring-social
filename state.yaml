@@ -1659,21 +1659,21 @@
     shortLink: https://link.webring.in.th/2425
 0c39cf4cb76da86612a41e5080c4bb18:bluesky:
   spec:
-    title: ลองทำ REST API ให้กับ Model microsoft/BitNet b1.58 2B4T เชื่อมกับ Open WebUI [debuggingsoft.com]
+    title: ลองทำ REST API ให้กับ AI Model microsoft/BitNet b1.58 2B4T เชื่อมกับ Open WebUI [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2025/07/create-simple-rest-api-for-microsoft-bitnet-b1-58-2b4t-model-to-link-with-openwebui/
   state:
     cid: bafyreihntm323psjqv67msxt6yltyxojtp6fcyx4x56q5felmnribx5hvm
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ltybaxyn4n2b
 0c39cf4cb76da86612a41e5080c4bb18:facebook:
   spec:
-    title: ลองทำ REST API ให้กับ Model microsoft/BitNet b1.58 2B4T เชื่อมกับ Open WebUI [debuggingsoft.com]
+    title: ลองทำ REST API ให้กับ AI Model microsoft/BitNet b1.58 2B4T เชื่อมกับ Open WebUI [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2025/07/create-simple-rest-api-for-microsoft-bitnet-b1-58-2b4t-model-to-link-with-openwebui/
   state:
     id: '100746876247412_721808780808367'
     url: https://www.facebook.com/100683012920950/posts/721808780808367
 0c39cf4cb76da86612a41e5080c4bb18:mastodon:
   spec:
-    title: ลองทำ REST API ให้กับ Model microsoft/BitNet b1.58 2B4T เชื่อมกับ Open WebUI [debuggingsoft.com]
+    title: ลองทำ REST API ให้กับ AI Model microsoft/BitNet b1.58 2B4T เชื่อมกับ Open WebUI [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2025/07/create-simple-rest-api-for-microsoft-bitnet-b1-58-2b4t-model-to-link-with-openwebui/
   state:
     id: '114855808101538877'
@@ -17884,6 +17884,32 @@
     url: https://garden.narze.live/100daysofcode-r3-65-chatos-add-firebase-auth/
   state:
     shortLink: https://webring.page.link/wwVU
+82c0bfbabc012019622c8248a7f3b682:bluesky:
+  spec:
+    title: การจัดการ Exception Handling อย่างมืออาชีพ [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-exception-handling-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b2%e0%b8%8a/
+  state:
+    cid: bafyreidaosjstce77twkhml7qhirrzlqlgn4qmxijfljztlcmcfebbfn2a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lu2jipvumk25
+82c0bfbabc012019622c8248a7f3b682:facebook:
+  spec:
+    title: การจัดการ Exception Handling อย่างมืออาชีพ [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-exception-handling-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b2%e0%b8%8a/
+  state:
+    id: '100746876247412_722498914072687'
+    url: https://www.facebook.com/100683012920950/posts/722498914072687
+82c0bfbabc012019622c8248a7f3b682:mastodon:
+  spec:
+    title: การจัดการ Exception Handling อย่างมืออาชีพ [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-exception-handling-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b2%e0%b8%8a/
+  state:
+    id: '114860892059146464'
+    url: https://mastodon.in.th/@webring/114860892059146464
+82c0bfbabc012019622c8248a7f3b682:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-exception-handling-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b2%e0%b8%8a/
+  state:
+    shortLink: https://link.webring.in.th/2644
 82f0c5129a5902198a1f6c4813293f61:facebook:
   spec:
     title: ลองใช้งาน Firebase App Hosting กันหน่อย [somkiat.cc]
