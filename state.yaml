@@ -33121,6 +33121,32 @@ f40fc96c5154db25f74916355973cbed:shorturl:
     url: https://www.somkiat.cc/hello-chrome-for-testing/
   state:
     shortLink: https://webring.page.link/wt7k
+f44e72e3e4b2a0d11c1a2c7c8a1c3f77:bluesky:
+  spec:
+    title: 'จาก AI ที่เขียนโค้ดได้ → สู่ AI ที่ทำงานได้ทั้งระบบ: แล้วเราจะวางบทบาท “คน” ตรงไหนกันดี? [myifew.com]'
+    url: https://myifew.com/6693/ai-coding-to-context-engineering/
+  state:
+    cid: bafyreiapi52yvfz2y2f7gkd76lewtxoa4dd7dxgrnktu45y7acvqoherra
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lu5c5ehw6k2b
+f44e72e3e4b2a0d11c1a2c7c8a1c3f77:facebook:
+  spec:
+    title: 'จาก AI ที่เขียนโค้ดได้ → สู่ AI ที่ทำงานได้ทั้งระบบ: แล้วเราจะวางบทบาท “คน” ตรงไหนกันดี? [myifew.com]'
+    url: https://myifew.com/6693/ai-coding-to-context-engineering/
+  state:
+    id: '100746876247412_723320950657150'
+    url: https://www.facebook.com/100683012920950/posts/723320950657150
+f44e72e3e4b2a0d11c1a2c7c8a1c3f77:mastodon:
+  spec:
+    title: 'จาก AI ที่เขียนโค้ดได้ → สู่ AI ที่ทำงานได้ทั้งระบบ: แล้วเราจะวางบทบาท “คน” ตรงไหนกันดี? [myifew.com]'
+    url: https://myifew.com/6693/ai-coding-to-context-engineering/
+  state:
+    id: '114867129726453932'
+    url: https://mastodon.in.th/@webring/114867129726453932
+f44e72e3e4b2a0d11c1a2c7c8a1c3f77:shorturl:
+  spec:
+    url: https://myifew.com/6693/ai-coding-to-context-engineering/
+  state:
+    shortLink: https://link.webring.in.th/2647
 f4a9daa208c333c61a97a0457c8e8137:facebook:
   spec:
     title: 'VSCode :: ใช้งาน Built-in port forwarding [somkiat.cc]'
