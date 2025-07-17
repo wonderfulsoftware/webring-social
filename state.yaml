@@ -29064,6 +29064,32 @@ d4c6c8927d2f0b52abc1b5fe5ed395a7:shorturl:
     url: https://thiti.dev/blog/106/
   state:
     shortLink: https://link.webring.in.th/2295
+d4c8859e19f1254519cb3bd103122f95:bluesky:
+  spec:
+    title: Algorithm & Data Structure สำคัญอย่างไรกับการเขียนโปรแกรม [poolsawat.com]
+    url: https://www.poolsawat.com/algorithm-data-structure-%e0%b8%aa%e0%b8%b3%e0%b8%84%e0%b8%b1%e0%b8%8d%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3/
+  state:
+    cid: bafyreiarztn2k5kjquzxqmqc4fhqkjvktgk4velrqq2dzmimgq5h353bsm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lu4zwwz45j2r
+d4c8859e19f1254519cb3bd103122f95:facebook:
+  spec:
+    title: Algorithm & Data Structure สำคัญอย่างไรกับการเขียนโปรแกรม [poolsawat.com]
+    url: https://www.poolsawat.com/algorithm-data-structure-%e0%b8%aa%e0%b8%b3%e0%b8%84%e0%b8%b1%e0%b8%8d%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3/
+  state:
+    id: '100746876247412_723250537330858'
+    url: https://www.facebook.com/100683012920950/posts/723250537330858
+d4c8859e19f1254519cb3bd103122f95:mastodon:
+  spec:
+    title: Algorithm & Data Structure สำคัญอย่างไรกับการเขียนโปรแกรม [poolsawat.com]
+    url: https://www.poolsawat.com/algorithm-data-structure-%e0%b8%aa%e0%b8%b3%e0%b8%84%e0%b8%b1%e0%b8%8d%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3/
+  state:
+    id: '114866552500226608'
+    url: https://mastodon.in.th/@webring/114866552500226608
+d4c8859e19f1254519cb3bd103122f95:shorturl:
+  spec:
+    url: https://www.poolsawat.com/algorithm-data-structure-%e0%b8%aa%e0%b8%b3%e0%b8%84%e0%b8%b1%e0%b8%8d%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3/
+  state:
+    shortLink: https://link.webring.in.th/2646
 d4f88750d917f621f1bdad92531ea33a:bluesky:
   spec:
     title: '[CR] Kouchan Ramen Bangkok [debuggingsoft.com]'
