@@ -27300,6 +27300,32 @@ c7e81d23ce19b1af0e9ec1e0e3ad0c5d:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/02/cr-starbucks-double-chocolate-pain-suisse/
   state:
     shortLink: https://link.webring.in.th/1783
+c7f7fc60b101dfb3799bf25059eaafe1:bluesky:
+  spec:
+    title: วิธีใช้ Service Worker ทำ Offline Web App [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%83%e0%b8%8a%e0%b9%89-service-worker-%e0%b8%97%e0%b8%b3-offline-web-app/
+  state:
+    cid: bafyreih6mzvfvoeieuxwh5ibwqogfemxgj3sfmjkn7i54tvrqlkee6w2ve
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lu7kixdszb25
+c7f7fc60b101dfb3799bf25059eaafe1:facebook:
+  spec:
+    title: วิธีใช้ Service Worker ทำ Offline Web App [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%83%e0%b8%8a%e0%b9%89-service-worker-%e0%b8%97%e0%b8%b3-offline-web-app/
+  state:
+    id: '100746876247412_723997700589475'
+    url: https://www.facebook.com/100683012920950/posts/723997700589475
+c7f7fc60b101dfb3799bf25059eaafe1:mastodon:
+  spec:
+    title: วิธีใช้ Service Worker ทำ Offline Web App [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%83%e0%b8%8a%e0%b9%89-service-worker-%e0%b8%97%e0%b8%b3-offline-web-app/
+  state:
+    id: '114872221985329405'
+    url: https://mastodon.in.th/@webring/114872221985329405
+c7f7fc60b101dfb3799bf25059eaafe1:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%83%e0%b8%8a%e0%b9%89-service-worker-%e0%b8%97%e0%b8%b3-offline-web-app/
+  state:
+    shortLink: https://link.webring.in.th/2648
 c7f9a3cf2a3614543c815730cda88d67:bluesky:
   spec:
     title: Illustration - Valentines's 2025 💞 [lucian.solutions]
