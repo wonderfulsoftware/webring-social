@@ -8769,6 +8769,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/08/gitmoji-for-meaningful-commit/
   state:
     shortLink: https://link.webring.in.th/2092
+42a3508b4717726afce8bc99a77dbd70:bluesky:
+  spec:
+    title: ลองสร้าง VEO3 video ด้วย Prompt แบบ JSON Script [myifew.com]
+    url: https://myifew.com/6699/veo3-video-prompt-json-script/
+  state:
+    cid: bafyreieh5nntxi7ntwixcmk57kydwlhoci74fmg3ei2okbv3emk2brut2q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lua4i6cgir2g
+42a3508b4717726afce8bc99a77dbd70:facebook:
+  spec:
+    title: ลองสร้าง VEO3 video ด้วย Prompt แบบ JSON Script [myifew.com]
+    url: https://myifew.com/6699/veo3-video-prompt-json-script/
+  state:
+    id: '100746876247412_724156130573632'
+    url: https://www.facebook.com/100683012920950/posts/724156130573632
+42a3508b4717726afce8bc99a77dbd70:mastodon:
+  spec:
+    title: ลองสร้าง VEO3 video ด้วย Prompt แบบ JSON Script [myifew.com]
+    url: https://myifew.com/6699/veo3-video-prompt-json-script/
+  state:
+    id: '114873486826545620'
+    url: https://mastodon.in.th/@webring/114873486826545620
+42a3508b4717726afce8bc99a77dbd70:shorturl:
+  spec:
+    url: https://myifew.com/6699/veo3-video-prompt-json-script/
+  state:
+    shortLink: https://link.webring.in.th/2650
 43d75c093a0124d292904f36f287bf4c:facebook:
   spec:
     title: เพิ่งเห็น data test id ในหน้า web [somkiat.cc]
