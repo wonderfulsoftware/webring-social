@@ -14289,6 +14289,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/03/cr-katsu-kitchen-pork-loin-katsu-set/
   state:
     shortLink: https://link.webring.in.th/2468
+6be23aabd49d0939b1ea26a4c23fc8aa:bluesky:
+  spec:
+    title: เพิ่งรู้ว่ามันมี nugettrends ด้วย [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/i-just-found-out-nugettrends/
+  state:
+    cid: bafyreibdy2l2vs63slebvumc72ddxg5hlj7bnfan6lr6zwngc5o7pbcvtm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lu7smjwuu723
+6be23aabd49d0939b1ea26a4c23fc8aa:facebook:
+  spec:
+    title: เพิ่งรู้ว่ามันมี nugettrends ด้วย [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/i-just-found-out-nugettrends/
+  state:
+    id: '100746876247412_724068163915762'
+    url: https://www.facebook.com/100683012920950/posts/724068163915762
+6be23aabd49d0939b1ea26a4c23fc8aa:mastodon:
+  spec:
+    title: เพิ่งรู้ว่ามันมี nugettrends ด้วย [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/i-just-found-out-nugettrends/
+  state:
+    id: '114872792708642851'
+    url: https://mastodon.in.th/@webring/114872792708642851
+6be23aabd49d0939b1ea26a4c23fc8aa:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/07/i-just-found-out-nugettrends/
+  state:
+    shortLink: https://link.webring.in.th/2649
 6bedbc00d5a6d9f90d6ec9f67daadc84:facebook:
   spec:
     title: How to run curl in Kubernetes [debuggingsoft.com]
