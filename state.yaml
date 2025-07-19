@@ -16893,6 +16893,32 @@
     url: https://www.somkiat.cc/hello-semantic-kernel-from-microsoft/
   state:
     shortLink: https://link.webring.in.th/2118
+7c152703175f73416b22225695bb7b72:bluesky:
+  spec:
+    title: The true cost of deploying on EC2 [karnwong.me]
+    url: https://karnwong.me/posts/2025/07/the-true-cost-of-deploying-on-ec2/
+  state:
+    cid: bafyreifsapqc6ionhzzdmiwt5shfdgubh5thtb6nlctzb4olqhc6zkrrgi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3luc2lt7ut22g
+7c152703175f73416b22225695bb7b72:facebook:
+  spec:
+    title: The true cost of deploying on EC2 [karnwong.me]
+    url: https://karnwong.me/posts/2025/07/the-true-cost-of-deploying-on-ec2/
+  state:
+    id: '100746876247412_724750597180852'
+    url: https://www.facebook.com/100683012920950/posts/724750597180852
+7c152703175f73416b22225695bb7b72:mastodon:
+  spec:
+    title: The true cost of deploying on EC2 [karnwong.me]
+    url: https://karnwong.me/posts/2025/07/the-true-cost-of-deploying-on-ec2/
+  state:
+    id: '114877857721941724'
+    url: https://mastodon.in.th/@webring/114877857721941724
+7c152703175f73416b22225695bb7b72:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/07/the-true-cost-of-deploying-on-ec2/
+  state:
+    shortLink: https://link.webring.in.th/2651
 7c4e552ada1f101fd065861d53556ca0:facebook:
   spec:
     title: มาเขียนเอกสารด้วย JSDoc กันก่อน [somkiat.cc]
