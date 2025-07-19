@@ -14104,6 +14104,32 @@
     url: https://jitrak.dev/posts/post-23-commit-github-with-signature-verification-with-keybase/
   state:
     shortLink: https://webring.page.link/1Xfy
+69dbd0cd4542c123437d4e40c75ad1f2:bluesky:
+  spec:
+    title: เทคนิค Scale ระบบ Backend ให้รองรับผู้ใช้หลักแสน [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84-scale-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-backend-%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%9c/
+  state:
+    cid: bafyreia4gibxjkelo4nvxdjdg53sce4veumyqmw35wwc2loskhtqj64ra4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3luccyhkrw32r
+69dbd0cd4542c123437d4e40c75ad1f2:facebook:
+  spec:
+    title: เทคนิค Scale ระบบ Backend ให้รองรับผู้ใช้หลักแสน [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84-scale-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-backend-%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%9c/
+  state:
+    id: '100746876247412_724823770506868'
+    url: https://www.facebook.com/100683012920950/posts/724823770506868
+69dbd0cd4542c123437d4e40c75ad1f2:mastodon:
+  spec:
+    title: เทคนิค Scale ระบบ Backend ให้รองรับผู้ใช้หลักแสน [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84-scale-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-backend-%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%9c/
+  state:
+    id: '114878448445377734'
+    url: https://mastodon.in.th/@webring/114878448445377734
+69dbd0cd4542c123437d4e40c75ad1f2:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84-scale-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-backend-%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%9c/
+  state:
+    shortLink: https://link.webring.in.th/2652
 69e0a5175473065b3a6527ef32f4c360:facebook:
   spec:
     title: ทำ Dark mode ใน Next.js แบบ (App Directory) [kajame.xyz]
