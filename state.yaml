@@ -27916,6 +27916,32 @@ cbaf03287d2a694770fe524212013080:shorturl:
     url: https://thanapon.info/influxdb-cli-create-user/
   state:
     shortLink: https://link.webring.in.th/2228
+cbd896d49d9d7477c29d45c48a0aff34:bluesky:
+  spec:
+    title: รีวิว Github Copilot Business จากผู้ใช้ทำงานจริง! [mikkipastel.com]
+    url: https://www.mikkipastel.com/review-github-copilot-business/
+  state:
+    cid: bafyreifw4smf3dlzwaqplzbcplutslsduzkw7ak2vyq67qmoep5xtvgk5m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lucmooeksq23
+cbd896d49d9d7477c29d45c48a0aff34:facebook:
+  spec:
+    title: รีวิว Github Copilot Business จากผู้ใช้ทำงานจริง! [mikkipastel.com]
+    url: https://www.mikkipastel.com/review-github-copilot-business/
+  state:
+    id: '100746876247412_724913207164591'
+    url: https://www.facebook.com/100683012920950/posts/724913207164591
+cbd896d49d9d7477c29d45c48a0aff34:mastodon:
+  spec:
+    title: รีวิว Github Copilot Business จากผู้ใช้ทำงานจริง! [mikkipastel.com]
+    url: https://www.mikkipastel.com/review-github-copilot-business/
+  state:
+    id: '114879130483909126'
+    url: https://mastodon.in.th/@webring/114879130483909126
+cbd896d49d9d7477c29d45c48a0aff34:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/review-github-copilot-business/
+  state:
+    shortLink: https://link.webring.in.th/2653
 cbea474a75cab605aa911556501d40ff:bluesky:
   spec:
     title: 'Proxmox: How to Remove directory [debuggingsoft.com]'
