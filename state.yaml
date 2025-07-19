@@ -10512,6 +10512,32 @@
     url: https://dmg.st/microsoft-teams-limit-attendees/
   state:
     shortLink: https://link.webring.in.th/2048
+5158e2c37f2234ee928ba9d5229bde21:bluesky:
+  spec:
+    title: '[CR] ข้าวมันไก่ โรงแรมมณเฑียร [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/07/cr-chicken-rice-at-ruenton-restaurants-montien-bangkok/
+  state:
+    cid: bafyreihb6ombb5kysgwobncswtdauhw277yxsp7w3kbgbpkfzutczc2oeu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lucxhyqspl25
+5158e2c37f2234ee928ba9d5229bde21:facebook:
+  spec:
+    title: '[CR] ข้าวมันไก่ โรงแรมมณเฑียร [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/07/cr-chicken-rice-at-ruenton-restaurants-montien-bangkok/
+  state:
+    id: '100746876247412_725020297153882'
+    url: https://www.facebook.com/100683012920950/posts/725020297153882
+5158e2c37f2234ee928ba9d5229bde21:mastodon:
+  spec:
+    title: '[CR] ข้าวมันไก่ โรงแรมมณเฑียร [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/07/cr-chicken-rice-at-ruenton-restaurants-montien-bangkok/
+  state:
+    id: '114879889659336866'
+    url: https://mastodon.in.th/@webring/114879889659336866
+5158e2c37f2234ee928ba9d5229bde21:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/07/cr-chicken-rice-at-ruenton-restaurants-montien-bangkok/
+  state:
+    shortLink: https://link.webring.in.th/2654
 5196ad8f95df7d8dd9e01e3d7972d001:facebook:
   spec:
     title: รวมเว็บขอ Testnet Faucet สำหรับ developer และนักล่า airdrop [mikkipastel.com]
