@@ -20513,6 +20513,32 @@
     url: https://www.karnwong.me/posts/2023/04/use-sql-against-csv-or-other-hard-files-without-cli/
   state:
     shortLink: https://webring.page.link/TLuC
+9373654ada5df7251ac612a6ef6fc875:bluesky:
+  spec:
+    title: สรุปนิดหน่อยจาก Google Cloud Next Extended Bangkok 2025 @ KX [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/mynote-google-cloud-next-extended-bangkok-2025-kx/
+  state:
+    cid: bafyreia7tmu52cqdn3viot6gljjza5p2dsibhbs2td2paoy4heyniyekki
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lufhxovecl2b
+9373654ada5df7251ac612a6ef6fc875:facebook:
+  spec:
+    title: สรุปนิดหน่อยจาก Google Cloud Next Extended Bangkok 2025 @ KX [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/mynote-google-cloud-next-extended-bangkok-2025-kx/
+  state:
+    id: '100746876247412_725777530411492'
+    url: https://www.facebook.com/100683012920950/posts/725777530411492
+9373654ada5df7251ac612a6ef6fc875:mastodon:
+  spec:
+    title: สรุปนิดหน่อยจาก Google Cloud Next Extended Bangkok 2025 @ KX [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/mynote-google-cloud-next-extended-bangkok-2025-kx/
+  state:
+    id: '114885554020511936'
+    url: https://mastodon.in.th/@webring/114885554020511936
+9373654ada5df7251ac612a6ef6fc875:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/07/mynote-google-cloud-next-extended-bangkok-2025-kx/
+  state:
+    shortLink: https://link.webring.in.th/2658
 93d3fb644f0138ac5b2d0c2c959d2c86:facebook:
   spec:
     title: Using Google Cloud Service Accounts to authenticate between your own services [dt.in.th]
