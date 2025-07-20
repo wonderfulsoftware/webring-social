@@ -5613,6 +5613,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-01/
   state:
     shortLink: https://webring.page.link/oCFY
+29b5d52d6a320f1c79d14e5b1401d657:bluesky:
+  spec:
+    title: 🎵 ESP32 + Bluetooth Speaker เล่นเพลงผ่าน A2DP [thanapon.info]
+    url: https://thanapon.info/esp32-bluetooth-speaker-sender/
+  state:
+    cid: bafyreibor4gvgejhbfzwssb5ibnjoq2hqhtnml4hibe5binshu4sbunusq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lueth3qakx2g
+29b5d52d6a320f1c79d14e5b1401d657:facebook:
+  spec:
+    title: 🎵 ESP32 + Bluetooth Speaker เล่นเพลงผ่าน A2DP [thanapon.info]
+    url: https://thanapon.info/esp32-bluetooth-speaker-sender/
+  state:
+    id: '100746876247412_725580967097815'
+    url: https://www.facebook.com/100683012920950/posts/725580967097815
+29b5d52d6a320f1c79d14e5b1401d657:mastodon:
+  spec:
+    title: 🎵 ESP32 + Bluetooth Speaker เล่นเพลงผ่าน A2DP [thanapon.info]
+    url: https://thanapon.info/esp32-bluetooth-speaker-sender/
+  state:
+    id: '114884109910119864'
+    url: https://mastodon.in.th/@webring/114884109910119864
+29b5d52d6a320f1c79d14e5b1401d657:shorturl:
+  spec:
+    url: https://thanapon.info/esp32-bluetooth-speaker-sender/
+  state:
+    shortLink: https://link.webring.in.th/2656
 29d1374181607971fdbb315b3e5e9f83:bluesky:
   spec:
     title: 0262 | freeipa add replica stuck at ‘No status yet’ [icez.net]
