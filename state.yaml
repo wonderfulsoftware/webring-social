@@ -31152,6 +31152,32 @@ e3e492670cdf9d827313c513f4f1e0fe:shorturl:
     url: https://mymoneytoolkit.app/posts/tax-calculator
   state:
     shortLink: https://link.webring.in.th/2310
+e3ece590a81a10312ef10a817dbce488:bluesky:
+  spec:
+    title: Zero Downtime Deployment คืออะไร ทำอย่างไร [poolsawat.com]
+    url: https://www.poolsawat.com/zero-downtime-deployment-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/
+  state:
+    cid: bafyreiekw5aw5662tithgzbc4zodimtb6ghtyjg4lajsylccku7clkoycm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3luelpmbzcy25
+e3ece590a81a10312ef10a817dbce488:facebook:
+  spec:
+    title: Zero Downtime Deployment คืออะไร ทำอย่างไร [poolsawat.com]
+    url: https://www.poolsawat.com/zero-downtime-deployment-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/
+  state:
+    id: '100746876247412_725513167104595'
+    url: https://www.facebook.com/100683012920950/posts/725513167104595
+e3ece590a81a10312ef10a817dbce488:mastodon:
+  spec:
+    title: Zero Downtime Deployment คืออะไร ทำอย่างไร [poolsawat.com]
+    url: https://www.poolsawat.com/zero-downtime-deployment-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/
+  state:
+    id: '114883565673533900'
+    url: https://mastodon.in.th/@webring/114883565673533900
+e3ece590a81a10312ef10a817dbce488:shorturl:
+  spec:
+    url: https://www.poolsawat.com/zero-downtime-deployment-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/
+  state:
+    shortLink: https://link.webring.in.th/2655
 e4197f4a991b29b7c76210f790551be8:facebook:
   spec:
     title: ตอบคำถามเรื่อง Email testing [somkiat.cc]
