@@ -11351,6 +11351,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/06/aws-auto-scaling-ec2-spot-instance/
   state:
     shortLink: https://webring.page.link/Qk95
+576c673f1653ec3c1ff56a95c759713f:bluesky:
+  spec:
+    title: Progressive Web App (PWA) คืออะไร สร้างยังไงให้ใช้ได้จริง [poolsawat.com]
+    url: https://www.poolsawat.com/progressive-web-app-pwa-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87%e0%b9%83%e0%b8%ab/
+  state:
+    cid: bafyreicswokpwgbwprkbnqu25ug4nb32bjtlk3dxok634lhbfj35hatdri
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3luh462dl5d2p
+576c673f1653ec3c1ff56a95c759713f:facebook:
+  spec:
+    title: Progressive Web App (PWA) คืออะไร สร้างยังไงให้ใช้ได้จริง [poolsawat.com]
+    url: https://www.poolsawat.com/progressive-web-app-pwa-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87%e0%b9%83%e0%b8%ab/
+  state:
+    id: '100746876247412_726271910362054'
+    url: https://www.facebook.com/100683012920950/posts/726271910362054
+576c673f1653ec3c1ff56a95c759713f:mastodon:
+  spec:
+    title: Progressive Web App (PWA) คืออะไร สร้างยังไงให้ใช้ได้จริง [poolsawat.com]
+    url: https://www.poolsawat.com/progressive-web-app-pwa-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87%e0%b9%83%e0%b8%ab/
+  state:
+    id: '114889226595205119'
+    url: https://mastodon.in.th/@webring/114889226595205119
+576c673f1653ec3c1ff56a95c759713f:shorturl:
+  spec:
+    url: https://www.poolsawat.com/progressive-web-app-pwa-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87%e0%b9%83%e0%b8%ab/
+  state:
+    shortLink: https://link.webring.in.th/2659
 577af00a06b01e0f193daf5e4c105f52:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 2 - Card Flip [devahoy.com]
