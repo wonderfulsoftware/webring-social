@@ -25938,6 +25938,32 @@ bbc66c1086b2a1ffb1e0493ff6a1ebe4:shorturl:
     url: https://yuttakhanb.dev/posts/invisible-garden-0/
   state:
     shortLink: https://link.webring.in.th/2245
+bbd997e98159f1a625503d6cb41c6972:bluesky:
+  spec:
+    title: ทำการ share memory หรือ context ระหว่าง AI IDE [somkiat.cc]
+    url: https://www.somkiat.cc/share-memory-for-ai-ide/
+  state:
+    cid: bafyreiexvrvemqakvenvajo4w66vpxyxg4fhpktooawq54lw6wmqziqifi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3luhe32ptro2r
+bbd997e98159f1a625503d6cb41c6972:facebook:
+  spec:
+    title: ทำการ share memory หรือ context ระหว่าง AI IDE [somkiat.cc]
+    url: https://www.somkiat.cc/share-memory-for-ai-ide/
+  state:
+    id: '100746876247412_726341733688405'
+    url: https://www.facebook.com/100683012920950/posts/726341733688405
+bbd997e98159f1a625503d6cb41c6972:mastodon:
+  spec:
+    title: ทำการ share memory หรือ context ระหว่าง AI IDE [somkiat.cc]
+    url: https://www.somkiat.cc/share-memory-for-ai-ide/
+  state:
+    id: '114889783604493605'
+    url: https://mastodon.in.th/@webring/114889783604493605
+bbd997e98159f1a625503d6cb41c6972:shorturl:
+  spec:
+    url: https://www.somkiat.cc/share-memory-for-ai-ide/
+  state:
+    shortLink: https://link.webring.in.th/2660
 bbf3ba7b8bbc2a08473f5a00a9e75d14:bluesky:
   spec:
     title: 'แนะนำหนังสือการเงินส่วนบุคคล: เส้นทางสู่การลงทุนที่มั่นคง [mymoneytoolkit.app]'
