@@ -26130,6 +26130,32 @@ bd5b134b9a6e2e7a2ba58e7013bb8047:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/10/ai102-develop-natural-language-processing-solutions-with-azure-ai-services/
   state:
     shortLink: https://link.webring.in.th/2181
+bd6d1ed68d9e4dfcf493f176d6b5416a:bluesky:
+  spec:
+    title: Graph Database คืออะไร? ทำไม Neo4j ถึงน่าสนใจ [poolsawat.com]
+    url: https://www.poolsawat.com/graph-database-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1-neo4j-%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%aa%e0%b8%99/
+  state:
+    cid: bafyreigyaiwcznjdnl3up5yv3brpzczggc7hhdbliwqdh5c4gwvcammhva
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lujmepfquf2g
+bd6d1ed68d9e4dfcf493f176d6b5416a:facebook:
+  spec:
+    title: Graph Database คืออะไร? ทำไม Neo4j ถึงน่าสนใจ [poolsawat.com]
+    url: https://www.poolsawat.com/graph-database-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1-neo4j-%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%aa%e0%b8%99/
+  state:
+    id: '100746876247412_727071736948738'
+    url: https://www.facebook.com/100683012920950/posts/727071736948738
+bd6d1ed68d9e4dfcf493f176d6b5416a:mastodon:
+  spec:
+    title: Graph Database คืออะไร? ทำไม Neo4j ถึงน่าสนใจ [poolsawat.com]
+    url: https://www.poolsawat.com/graph-database-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1-neo4j-%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%aa%e0%b8%99/
+  state:
+    id: '114894871345379548'
+    url: https://mastodon.in.th/@webring/114894871345379548
+bd6d1ed68d9e4dfcf493f176d6b5416a:shorturl:
+  spec:
+    url: https://www.poolsawat.com/graph-database-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1-neo4j-%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%aa%e0%b8%99/
+  state:
+    shortLink: https://link.webring.in.th/2661
 bda1b60d1ba428675e52916b3e98a0c8:bluesky:
   spec:
     title: การจัดการ Memory และ Garbage Collection เบื้องหลังโค้ด [poolsawat.com]
