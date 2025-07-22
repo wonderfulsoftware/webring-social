@@ -14106,6 +14106,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/09/db2-fixed-an-unpredictable-hang-take-a-lot-of-time-when-create-a-db-connection/
   state:
     shortLink: https://webring.page.link/P7Q2
+68e2e8392268a4a089f2823a3f42d6be:bluesky:
+  spec:
+    title: Jenkins-Git username / password credentials binding [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/jenkins-git-username-password-credentials-binding/
+  state:
+    cid: bafyreifxliac5jqjdhln6wgzjtpg56iv4sugphc3coxs5s65qwf5i5w36u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lujuicls7k2r
+68e2e8392268a4a089f2823a3f42d6be:facebook:
+  spec:
+    title: Jenkins-Git username / password credentials binding [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/jenkins-git-username-password-credentials-binding/
+  state:
+    id: '100746876247412_727147306941181'
+    url: https://www.facebook.com/100683012920950/posts/727147306941181
+68e2e8392268a4a089f2823a3f42d6be:mastodon:
+  spec:
+    title: Jenkins-Git username / password credentials binding [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/jenkins-git-username-password-credentials-binding/
+  state:
+    id: '114895442124940593'
+    url: https://mastodon.in.th/@webring/114895442124940593
+68e2e8392268a4a089f2823a3f42d6be:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/07/jenkins-git-username-password-credentials-binding/
+  state:
+    shortLink: https://link.webring.in.th/2662
 68f7e1e2a856203b8a23952c314124f4:facebook:
   spec:
     title: สรุปการเปลี่ยนแปลงใน Spring Boot 3 ไว้นิดหน่อย [somkiat.cc]
