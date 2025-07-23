@@ -4119,6 +4119,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week04-agile/
   state:
     shortLink: https://webring.page.link/CVz3
+1f2cb064a3dfe5649e91e003b26055a1:bluesky:
+  spec:
+    title: Immutable vs Mutable ในภาษาโปรแกรมต่าง ๆ [poolsawat.com]
+    url: https://www.poolsawat.com/immutable-vs-mutable-%e0%b9%83%e0%b8%99%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%b2%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%81%e0%b8%a3%e0%b8%a1%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87-%e0%b9%86/
+  state:
+    cid: bafyreifa6gskglaivkdef23llikcdvfp2z4526jie2nkei7xxoaumllvlq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lumowwuube2g
+1f2cb064a3dfe5649e91e003b26055a1:facebook:
+  spec:
+    title: Immutable vs Mutable ในภาษาโปรแกรมต่าง ๆ [poolsawat.com]
+    url: https://www.poolsawat.com/immutable-vs-mutable-%e0%b9%83%e0%b8%99%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%b2%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%81%e0%b8%a3%e0%b8%a1%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87-%e0%b9%86/
+  state:
+    id: '100746876247412_728017506854161'
+    url: https://www.facebook.com/100683012920950/posts/728017506854161
+1f2cb064a3dfe5649e91e003b26055a1:mastodon:
+  spec:
+    title: Immutable vs Mutable ในภาษาโปรแกรมต่าง ๆ [poolsawat.com]
+    url: https://www.poolsawat.com/immutable-vs-mutable-%e0%b9%83%e0%b8%99%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%b2%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%81%e0%b8%a3%e0%b8%a1%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87-%e0%b9%86/
+  state:
+    id: '114901807305312870'
+    url: https://mastodon.in.th/@webring/114901807305312870
+1f2cb064a3dfe5649e91e003b26055a1:shorturl:
+  spec:
+    url: https://www.poolsawat.com/immutable-vs-mutable-%e0%b9%83%e0%b8%99%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%b2%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%81%e0%b8%a3%e0%b8%a1%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87-%e0%b9%86/
+  state:
+    shortLink: https://link.webring.in.th/2665
 1f380b68867d4825f6c98367a73ee3b6:bluesky:
   spec:
     title: Verifying browser data via Playwright [yuttakhanb.dev]
