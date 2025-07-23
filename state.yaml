@@ -7716,6 +7716,32 @@
     url: https://www.mikkipastel.com/3c-analysis/
   state:
     shortLink: https://webring.page.link/rkLv
+3b31781575c609b69f37902bcc2d84be:bluesky:
+  spec:
+    title: Terraform project structure [karnwong.me]
+    url: https://karnwong.me/posts/2025/07/terraform-project-structure/
+  state:
+    cid: bafyreicg74w5535qf3tv273ivqvvvindvf7nubbayop6w6ohsuqjk3udla
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lumeximv6v2g
+3b31781575c609b69f37902bcc2d84be:facebook:
+  spec:
+    title: Terraform project structure [karnwong.me]
+    url: https://karnwong.me/posts/2025/07/terraform-project-structure/
+  state:
+    id: '100746876247412_727924813530097'
+    url: https://www.facebook.com/100683012920950/posts/727924813530097
+3b31781575c609b69f37902bcc2d84be:mastodon:
+  spec:
+    title: Terraform project structure [karnwong.me]
+    url: https://karnwong.me/posts/2025/07/terraform-project-structure/
+  state:
+    id: '114901105139527125'
+    url: https://mastodon.in.th/@webring/114901105139527125
+3b31781575c609b69f37902bcc2d84be:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/07/terraform-project-structure/
+  state:
+    shortLink: https://link.webring.in.th/2664
 3b3ef971911d0d35ddea8432f9aa2e98:facebook:
   spec:
     title: '[KBTG-GO#02] Software Design [debuggingsoft.com]'
