@@ -23842,6 +23842,32 @@ aca5605a7c6d9434f9f9d8bee09eff8f:shorturl:
     url: https://www.somkiat.cc/go-vulnerability-management/
   state:
     shortLink: https://webring.page.link/ySHH
+acc0260ee1d36ee64a5202d738086e08:bluesky:
+  spec:
+    title: EAT RAMEN FEST 2025 @ Samyan Mitrtow [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/eat-ramen-fest-2025/
+  state:
+    cid: bafyreif6qhactym2wldb7ebuvymxz4vmucqbw23w3ysncihwjls4ief36y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lum4w2qkhl2g
+acc0260ee1d36ee64a5202d738086e08:facebook:
+  spec:
+    title: EAT RAMEN FEST 2025 @ Samyan Mitrtow [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/eat-ramen-fest-2025/
+  state:
+    id: '100746876247412_727856270203618'
+    url: https://www.facebook.com/100683012920950/posts/727856270203618
+acc0260ee1d36ee64a5202d738086e08:mastodon:
+  spec:
+    title: EAT RAMEN FEST 2025 @ Samyan Mitrtow [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/eat-ramen-fest-2025/
+  state:
+    id: '114900538975014837'
+    url: https://mastodon.in.th/@webring/114900538975014837
+acc0260ee1d36ee64a5202d738086e08:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/07/eat-ramen-fest-2025/
+  state:
+    shortLink: https://link.webring.in.th/2663
 ace02453c1ce428b12a46216b9176556:facebook:
   spec:
     title: '[CR] Starbucks-Xmas Tree Brownie [debuggingsoft.com]'
