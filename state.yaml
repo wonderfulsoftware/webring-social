@@ -15939,6 +15939,32 @@
     url: https://neizod.dev/2024/10/27/hexagon-checkerboard.html
   state:
     shortLink: https://link.webring.in.th/2209
+75708d53f4bfdcd93c042826b93910d1:bluesky:
+  spec:
+    title: Abstractions and Knowledge Graph [poom.dev]
+    url: https://poom.dev/abstractions-knowledge-graph/
+  state:
+    cid: bafyreidvqeevcgmoxa2otnmnhylw6krd55qk7724lxszd4zivtlzutadpm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lup7ctdnbs2o
+75708d53f4bfdcd93c042826b93910d1:facebook:
+  spec:
+    title: Abstractions and Knowledge Graph [poom.dev]
+    url: https://poom.dev/abstractions-knowledge-graph/
+  state:
+    id: '100746876247412_728795556776356'
+    url: https://www.facebook.com/100683012920950/posts/728795556776356
+75708d53f4bfdcd93c042826b93910d1:mastodon:
+  spec:
+    title: Abstractions and Knowledge Graph [poom.dev]
+    url: https://poom.dev/abstractions-knowledge-graph/
+  state:
+    id: '114907463237201507'
+    url: https://mastodon.in.th/@webring/114907463237201507
+75708d53f4bfdcd93c042826b93910d1:shorturl:
+  spec:
+    url: https://poom.dev/abstractions-knowledge-graph/
+  state:
+    shortLink: https://link.webring.in.th/2668
 75963c10e93762ed573dac878fedbd43:bluesky:
   spec:
     title: My NotebookLM Summarization Prompt [dt.in.th]
