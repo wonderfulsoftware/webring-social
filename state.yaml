@@ -29558,6 +29558,32 @@ d4f88750d917f621f1bdad92531ea33a:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/07/cr-kouchan-ramen-bangkok/
   state:
     shortLink: https://link.webring.in.th/2632
+d4fd6661e944c095d7ac5540d6eeefd3:bluesky:
+  spec:
+    title: วิธีตั้งค่า Lighthouse Audit เพื่อวัดคุณภาพเว็บ [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%84%e0%b9%88%e0%b8%b2-lighthouse-audit-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%84/
+  state:
+    cid: bafyreiafldcpyu44uxlz6t5yn44d3ut722pfv2eosqylopwc2d5cw3fruy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3luond22cqu2y
+d4fd6661e944c095d7ac5540d6eeefd3:facebook:
+  spec:
+    title: วิธีตั้งค่า Lighthouse Audit เพื่อวัดคุณภาพเว็บ [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%84%e0%b9%88%e0%b8%b2-lighthouse-audit-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%84/
+  state:
+    id: '100746876247412_728630366792875'
+    url: https://www.facebook.com/100683012920950/posts/728630366792875
+d4fd6661e944c095d7ac5540d6eeefd3:mastodon:
+  spec:
+    title: วิธีตั้งค่า Lighthouse Audit เพื่อวัดคุณภาพเว็บ [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%84%e0%b9%88%e0%b8%b2-lighthouse-audit-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%84/
+  state:
+    id: '114906196858742382'
+    url: https://mastodon.in.th/@webring/114906196858742382
+d4fd6661e944c095d7ac5540d6eeefd3:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%84%e0%b9%88%e0%b8%b2-lighthouse-audit-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%84/
+  state:
+    shortLink: https://link.webring.in.th/2666
 d4fdbd316137674b124f875782601142:facebook:
   spec:
     title: Spring Boot 3.1 สนับสนุน Docker compose [somkiat.cc]
