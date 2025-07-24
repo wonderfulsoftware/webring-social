@@ -8612,6 +8612,32 @@
     url: https://pontakorn.dev/posts/nokorun-stupid-hack-8/
   state:
     shortLink: https://link.webring.in.th/2032
+4127e3c883b6b13ca1b49aaf98b20cb7:bluesky:
+  spec:
+    title: Create a REST API for the Microsoft/BitNet B1.58 model and integrate it with an Open WebUI [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/create-a-rest-api-for-the-microsoft-bitnet-b1-58-model-and-integrate-it-with-an-open-webui-english/
+  state:
+    cid: bafyreihkweaf3y2ynnhi2zybg5ayb4afvyiem535l5ulsk4d72uiiffoge
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3luovgwneqh27
+4127e3c883b6b13ca1b49aaf98b20cb7:facebook:
+  spec:
+    title: Create a REST API for the Microsoft/BitNet B1.58 model and integrate it with an Open WebUI [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/create-a-rest-api-for-the-microsoft-bitnet-b1-58-model-and-integrate-it-with-an-open-webui-english/
+  state:
+    id: '100746876247412_728704463452132'
+    url: https://www.facebook.com/100683012920950/posts/728704463452132
+4127e3c883b6b13ca1b49aaf98b20cb7:mastodon:
+  spec:
+    title: Create a REST API for the Microsoft/BitNet B1.58 model and integrate it with an Open WebUI [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/07/create-a-rest-api-for-the-microsoft-bitnet-b1-58-model-and-integrate-it-with-an-open-webui-english/
+  state:
+    id: '114906768370447265'
+    url: https://mastodon.in.th/@webring/114906768370447265
+4127e3c883b6b13ca1b49aaf98b20cb7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/07/create-a-rest-api-for-the-microsoft-bitnet-b1-58-model-and-integrate-it-with-an-open-webui-english/
+  state:
+    shortLink: https://link.webring.in.th/2667
 413249c4d675278cecff171431098cf5:facebook:
   spec:
     title: Configuring Network between Host and Guest VM in VirtualBox [debuggingsoft.com]
