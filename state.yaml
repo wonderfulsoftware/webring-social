@@ -2520,6 +2520,32 @@
     url: https://www.somkiat.cc/hello-vercel-storage/
   state:
     shortLink: https://webring.page.link/WNNx
+1295bb97027906c303ea740c23ccea54:bluesky:
+  spec:
+    title: ทำความรู้จัก Solana 101 แบบเดฟ ๆ [mikkipastel.com]
+    url: https://www.mikkipastel.com/solana-101-by-developer/
+  state:
+    cid: bafyreig65v5kzbcks22cnel4cpyxwl5x5x7othogydrnrif3m4t5t35yhy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lupjzbjbet2p
+1295bb97027906c303ea740c23ccea54:facebook:
+  spec:
+    title: ทำความรู้จัก Solana 101 แบบเดฟ ๆ [mikkipastel.com]
+    url: https://www.mikkipastel.com/solana-101-by-developer/
+  state:
+    id: '100746876247412_728909070098338'
+    url: https://www.facebook.com/100683012920950/posts/728909070098338
+1295bb97027906c303ea740c23ccea54:mastodon:
+  spec:
+    title: ทำความรู้จัก Solana 101 แบบเดฟ ๆ [mikkipastel.com]
+    url: https://www.mikkipastel.com/solana-101-by-developer/
+  state:
+    id: '114908216262533234'
+    url: https://mastodon.in.th/@webring/114908216262533234
+1295bb97027906c303ea740c23ccea54:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/solana-101-by-developer/
+  state:
+    shortLink: https://link.webring.in.th/2669
 12ccc66a880a6822e0971d69e8211d41:facebook:
   spec:
     title: Mermaid [jitrak.dev]
