@@ -4242,6 +4242,32 @@
     url: https://www.somkiat.cc/kafka-3-8/
   state:
     shortLink: https://link.webring.in.th/2096
+1f8b80afdf5942b3c237a2589814a847:bluesky:
+  spec:
+    title: แนวทางการทดสอบกับระบบ OTP ผ่านมือถือ [somkiat.cc]
+    url: https://www.somkiat.cc/testing-with-otp-from-sms-mobile/
+  state:
+    cid: bafyreiawfwy5s4hhcgnqzgj4xtstzivcsvzzlezr2r7kwh6yntyshljmpy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lur5rzx5jv2r
+1f8b80afdf5942b3c237a2589814a847:facebook:
+  spec:
+    title: แนวทางการทดสอบกับระบบ OTP ผ่านมือถือ [somkiat.cc]
+    url: https://www.somkiat.cc/testing-with-otp-from-sms-mobile/
+  state:
+    id: '100746876247412_729411413381437'
+    url: https://www.facebook.com/100683012920950/posts/729411413381437
+1f8b80afdf5942b3c237a2589814a847:mastodon:
+  spec:
+    title: แนวทางการทดสอบกับระบบ OTP ผ่านมือถือ [somkiat.cc]
+    url: https://www.somkiat.cc/testing-with-otp-from-sms-mobile/
+  state:
+    id: '114911859025025259'
+    url: https://mastodon.in.th/@webring/114911859025025259
+1f8b80afdf5942b3c237a2589814a847:shorturl:
+  spec:
+    url: https://www.somkiat.cc/testing-with-otp-from-sms-mobile/
+  state:
+    shortLink: https://link.webring.in.th/2671
 1f93fdb2aec0a23db2624253e995e8e1:facebook:
   spec:
     title: สรุปจากบทความเรื่อง The SPACE of Developer Productivity [somkiat.cc]
