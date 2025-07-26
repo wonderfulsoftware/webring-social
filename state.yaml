@@ -13667,6 +13667,32 @@
     url: https://dmg.st/nokair-lounge/
   state:
     shortLink: https://webring.page.link/VZxr
+646c34bf8a091176dd8dfccb3a48c544:bluesky:
+  spec:
+    title: 'MVC vs MVVM vs MVP: เลือกใช้ Architecture แบบไหนดี [poolsawat.com]'
+    url: https://www.poolsawat.com/mvc-vs-mvvm-vs-mvp-%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b9%83%e0%b8%8a%e0%b9%89-architecture-%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b9%84%e0%b8%ab%e0%b8%99%e0%b8%94%e0%b8%b5/
+  state:
+    cid: bafyreid5madbwywbzplxm234prhulzehkjhmz2n3tq3eqos2vjynpd2vhi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3luto5gxu5527
+646c34bf8a091176dd8dfccb3a48c544:facebook:
+  spec:
+    title: 'MVC vs MVVM vs MVP: เลือกใช้ Architecture แบบไหนดี [poolsawat.com]'
+    url: https://www.poolsawat.com/mvc-vs-mvvm-vs-mvp-%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b9%83%e0%b8%8a%e0%b9%89-architecture-%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b9%84%e0%b8%ab%e0%b8%99%e0%b8%94%e0%b8%b5/
+  state:
+    id: '100746876247412_730192053303373'
+    url: https://www.facebook.com/100683012920950/posts/730192053303373
+646c34bf8a091176dd8dfccb3a48c544:mastodon:
+  spec:
+    title: 'MVC vs MVVM vs MVP: เลือกใช้ Architecture แบบไหนดี [poolsawat.com]'
+    url: https://www.poolsawat.com/mvc-vs-mvvm-vs-mvp-%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b9%83%e0%b8%8a%e0%b9%89-architecture-%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b9%84%e0%b8%ab%e0%b8%99%e0%b8%94%e0%b8%b5/
+  state:
+    id: '114917514076286630'
+    url: https://mastodon.in.th/@webring/114917514076286630
+646c34bf8a091176dd8dfccb3a48c544:shorturl:
+  spec:
+    url: https://www.poolsawat.com/mvc-vs-mvvm-vs-mvp-%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b9%83%e0%b8%8a%e0%b9%89-architecture-%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b9%84%e0%b8%ab%e0%b8%99%e0%b8%94%e0%b8%b5/
+  state:
+    shortLink: https://link.webring.in.th/2672
 64a51a009e1b321846901e37c31baadb:bluesky:
   spec:
     title: Acrylic Stand - Stargazer 2025 🌃 [lucian.solutions]
