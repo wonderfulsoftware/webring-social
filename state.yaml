@@ -5098,6 +5098,32 @@
     url: https://kajame.xyz/blog/2024/move-repository
   state:
     shortLink: https://link.webring.in.th/1809
+25a7a7f766763b6d1dad7db225e54f78:bluesky:
+  spec:
+    title: วิธีใช้ Redis Cache เพื่อเร่งความเร็วระบบ [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%83%e0%b8%8a%e0%b9%89-redis-cache-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1/
+  state:
+    cid: bafyreievxl6hiwrj4zccja7yieneowfhrg6v5i4tcoklk2oykdewv5ko3y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3luw72bqnbw23
+25a7a7f766763b6d1dad7db225e54f78:facebook:
+  spec:
+    title: วิธีใช้ Redis Cache เพื่อเร่งความเร็วระบบ [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%83%e0%b8%8a%e0%b9%89-redis-cache-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1/
+  state:
+    id: '100746876247412_730975663225012'
+    url: https://www.facebook.com/100683012920950/posts/730975663225012
+25a7a7f766763b6d1dad7db225e54f78:mastodon:
+  spec:
+    title: วิธีใช้ Redis Cache เพื่อเร่งความเร็วระบบ [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%83%e0%b8%8a%e0%b9%89-redis-cache-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1/
+  state:
+    id: '114923206897695453'
+    url: https://mastodon.in.th/@webring/114923206897695453
+25a7a7f766763b6d1dad7db225e54f78:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%83%e0%b8%8a%e0%b9%89-redis-cache-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1/
+  state:
+    shortLink: https://link.webring.in.th/2674
 2609981e0d8479ab1968d618a504003f:facebook:
   spec:
     title: '[C#] ทำ Unit Test กับ XML ครับ [debuggingsoft.com]'
