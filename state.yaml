@@ -25062,6 +25062,32 @@ b26edc1fc31a0722b6170158e92ceb27:shorturl:
     url: https://karnwong.me/posts/2023/12/setting-up-postgres-locally/
   state:
     shortLink: https://webring.page.link/QGn7
+b2868839eb9cb6089eb3189b8efca732:bluesky:
+  spec:
+    title: 'SEO สำหรับนักพัฒนาเว็บ: ทำยังไงให้ Google รู้จัก [poolsawat.com]'
+    url: https://www.poolsawat.com/seo-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2%e0%b9%80%e0%b8%a7%e0%b9%87%e0%b8%9a-%e0%b8%97%e0%b8%b3%e0%b8%a2/
+  state:
+    cid: bafyreibs4gxjadov4vtu45s2idmclgda5pdluzg3zmp6onuokx6swu3ffq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3luypintyiu23
+b2868839eb9cb6089eb3189b8efca732:facebook:
+  spec:
+    title: 'SEO สำหรับนักพัฒนาเว็บ: ทำยังไงให้ Google รู้จัก [poolsawat.com]'
+    url: https://www.poolsawat.com/seo-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2%e0%b9%80%e0%b8%a7%e0%b9%87%e0%b8%9a-%e0%b8%97%e0%b8%b3%e0%b8%a2/
+  state:
+    id: '100746876247412_731783493144229'
+    url: https://www.facebook.com/100683012920950/posts/731783493144229
+b2868839eb9cb6089eb3189b8efca732:mastodon:
+  spec:
+    title: 'SEO สำหรับนักพัฒนาเว็บ: ทำยังไงให้ Google รู้จัก [poolsawat.com]'
+    url: https://www.poolsawat.com/seo-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2%e0%b9%80%e0%b8%a7%e0%b9%87%e0%b8%9a-%e0%b8%97%e0%b8%b3%e0%b8%a2/
+  state:
+    id: '114928868148521813'
+    url: https://mastodon.in.th/@webring/114928868148521813
+b2868839eb9cb6089eb3189b8efca732:shorturl:
+  spec:
+    url: https://www.poolsawat.com/seo-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2%e0%b9%80%e0%b8%a7%e0%b9%87%e0%b8%9a-%e0%b8%97%e0%b8%b3%e0%b8%a2/
+  state:
+    shortLink: https://link.webring.in.th/2675
 b292aa949ae42c9620ef7b7a939c7426:facebook:
   spec:
     title: ลองใช้ GitLab REST API [debuggingsoft.com]
