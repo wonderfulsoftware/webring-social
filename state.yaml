@@ -28915,6 +28915,32 @@ cf64c16e9b8712becfa47eb06525d851:shorturl:
     url: https://notes.dt.in.th/HDRQRCode
   state:
     shortLink: https://webring.page.link/sMUn
+cf8fb18e0939db5ec0c7900ece1c0985:bluesky:
+  spec:
+    title: วิธีทำ Load Testing ระบบด้วย Apache JMeter หรือ k6 [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b8%97%e0%b8%b3-load-testing-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-apache-jmeter-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-k6/
+  state:
+    cid: bafyreigwes4rxna5zdd2ozptfhhodwkogmcgmqtsmfiz3aque5ihil4ev4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lv3hw4fh3y2r
+cf8fb18e0939db5ec0c7900ece1c0985:facebook:
+  spec:
+    title: วิธีทำ Load Testing ระบบด้วย Apache JMeter หรือ k6 [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b8%97%e0%b8%b3-load-testing-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-apache-jmeter-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-k6/
+  state:
+    id: '100746876247412_732634393059139'
+    url: https://www.facebook.com/100683012920950/posts/732634393059139
+cf8fb18e0939db5ec0c7900ece1c0985:mastodon:
+  spec:
+    title: วิธีทำ Load Testing ระบบด้วย Apache JMeter หรือ k6 [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b8%97%e0%b8%b3-load-testing-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-apache-jmeter-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-k6/
+  state:
+    id: '114935090060955935'
+    url: https://mastodon.in.th/@webring/114935090060955935
+cf8fb18e0939db5ec0c7900ece1c0985:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b8%97%e0%b8%b3-load-testing-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-apache-jmeter-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-k6/
+  state:
+    shortLink: https://link.webring.in.th/2677
 cf9cf52fd08e07f2a82e1f687b31a14b:bluesky:
   spec:
     title: มางานใหญ่ประจำปีของครีเอเตอร์ iCreator Conference 2024 [mikkipastel.com]
