@@ -30406,6 +30406,32 @@ da3c6b774381d77e79a0296a63ecb7e8:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/12/frozen-caveman-anti-pattern/
   state:
     shortLink: https://link.webring.in.th/2287
+da5280a826e48cd63df090dc6404f43b:bluesky:
+  spec:
+    title: เช็คสุขภาพทางการเงินง่ายๆด้วยตัวเอง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/financal-health
+  state:
+    cid: bafyreigp3gqhn7eie5irm63alzubxdqhf6ptlcud2igngr5l7bshxt2cb4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lv3a2m3fgc2v
+da5280a826e48cd63df090dc6404f43b:facebook:
+  spec:
+    title: เช็คสุขภาพทางการเงินง่ายๆด้วยตัวเอง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/financal-health
+  state:
+    id: '100746876247412_732561293066449'
+    url: https://www.facebook.com/100683012920950/posts/732561293066449
+da5280a826e48cd63df090dc6404f43b:mastodon:
+  spec:
+    title: เช็คสุขภาพทางการเงินง่ายๆด้วยตัวเอง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/financal-health
+  state:
+    id: '114934536978389318'
+    url: https://mastodon.in.th/@webring/114934536978389318
+da5280a826e48cd63df090dc6404f43b:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/financal-health
+  state:
+    shortLink: https://link.webring.in.th/2676
 da81179c3128e142b8cb38eacefc2685:facebook:
   spec:
     title: 'สรุป UXTH Meetup: UX & Biometrics [blog.ninprd.com]'
