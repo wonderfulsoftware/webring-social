@@ -26423,6 +26423,32 @@ bd23e1beee8056e729f25ba34b594968:shorturl:
     url: https://suam.wtf/posts/tdea-vs-mitm/
   state:
     shortLink: https://webring.page.link/Xzgf
+bd3220b5136a7da721305a501ec35de9:bluesky:
+  spec:
+    title: เขียน Bot ง่าย ๆ ด้วย Puppeteer หรือ Playwright [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99-bot-%e0%b8%87%e0%b9%88%e0%b8%b2%e0%b8%a2-%e0%b9%86-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-puppeteer-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-playwright/
+  state:
+    cid: bafyreiho3ecz4gba3yfzwepcmqhsgub55jkztalwvas7tx53xordpszo3m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lv5qea7nju24
+bd3220b5136a7da721305a501ec35de9:facebook:
+  spec:
+    title: เขียน Bot ง่าย ๆ ด้วย Puppeteer หรือ Playwright [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99-bot-%e0%b8%87%e0%b9%88%e0%b8%b2%e0%b8%a2-%e0%b9%86-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-puppeteer-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-playwright/
+  state:
+    id: '100746876247412_733347462987832'
+    url: https://www.facebook.com/100683012920950/posts/733347462987832
+bd3220b5136a7da721305a501ec35de9:mastodon:
+  spec:
+    title: เขียน Bot ง่าย ๆ ด้วย Puppeteer หรือ Playwright [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99-bot-%e0%b8%87%e0%b9%88%e0%b8%b2%e0%b8%a2-%e0%b9%86-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-puppeteer-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-playwright/
+  state:
+    id: '114940187585062050'
+    url: https://mastodon.in.th/@webring/114940187585062050
+bd3220b5136a7da721305a501ec35de9:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99-bot-%e0%b8%87%e0%b9%88%e0%b8%b2%e0%b8%a2-%e0%b9%86-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-puppeteer-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-playwright/
+  state:
+    shortLink: https://link.webring.in.th/2678
 bd5b134b9a6e2e7a2ba58e7013bb8047:facebook:
   spec:
     title: 'AI102: Develop natural language processing solutions with Azure AI Services [debuggingsoft.com]'
