@@ -23642,6 +23642,32 @@ a9219b54ffbacb453c42195b38473323:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/02/cr-starbucks-chocolate-flourless-cake-valentine-edition/
   state:
     shortLink: https://webring.page.link/Ljo8
+a9619d7d425cb7d0656eae3d8984d4bd:bluesky:
+  spec:
+    title: Generating Presigned GET URLs for S3-Compatible Object Storage with Deno and Minio JS SDK [dt.in.th]
+    url: https://notes.dt.in.th/DenoMinioPresignedGet
+  state:
+    cid: bafyreicqcbixviw3q3jjgrjnpp3267jhoh5x4btiyw2ic5csw5xa6ap47u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvcrtop7ae2d
+a9619d7d425cb7d0656eae3d8984d4bd:facebook:
+  spec:
+    title: Generating Presigned GET URLs for S3-Compatible Object Storage with Deno and Minio JS SDK [dt.in.th]
+    url: https://notes.dt.in.th/DenoMinioPresignedGet
+  state:
+    id: '100746876247412_734941659495079'
+    url: https://www.facebook.com/100683012920950/posts/734941659495079
+a9619d7d425cb7d0656eae3d8984d4bd:mastodon:
+  spec:
+    title: Generating Presigned GET URLs for S3-Compatible Object Storage with Deno and Minio JS SDK [dt.in.th]
+    url: https://notes.dt.in.th/DenoMinioPresignedGet
+  state:
+    id: '114951551120419327'
+    url: https://mastodon.in.th/@webring/114951551120419327
+a9619d7d425cb7d0656eae3d8984d4bd:shorturl:
+  spec:
+    url: https://notes.dt.in.th/DenoMinioPresignedGet
+  state:
+    shortLink: https://link.webring.in.th/2680
 a98ce4c18fa75cea66ed5e44a4773a6f:bluesky:
   spec:
     title: มาลองสร้าง MCP Server ด้วยภาษา Go เล่นกัน [somkiat.cc]
