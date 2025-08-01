@@ -614,6 +614,32 @@
     url: https://thiti.dev/blog/67/
   state:
     shortLink: https://link.webring.in.th/1937
+0560ec5076e28247d0ee76deac7b1898:bluesky:
+  spec:
+    title: Infrastructure as Code (IaC) คืออะไร ใช้ Terraform หรือ Pulumi [poolsawat.com]
+    url: https://www.poolsawat.com/infrastructure-as-code-iac-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%83%e0%b8%8a%e0%b9%89-terraform-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-pulumi/
+  state:
+    cid: bafyreihfvjt2zrmtt3c6unuft5pmjwnjjsykgq4dc3bipq47wki6d6sj7y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvczch3iav2o
+0560ec5076e28247d0ee76deac7b1898:facebook:
+  spec:
+    title: Infrastructure as Code (IaC) คืออะไร ใช้ Terraform หรือ Pulumi [poolsawat.com]
+    url: https://www.poolsawat.com/infrastructure-as-code-iac-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%83%e0%b8%8a%e0%b9%89-terraform-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-pulumi/
+  state:
+    id: '100746876247412_735013779487867'
+    url: https://www.facebook.com/100683012920950/posts/735013779487867
+0560ec5076e28247d0ee76deac7b1898:mastodon:
+  spec:
+    title: Infrastructure as Code (IaC) คืออะไร ใช้ Terraform หรือ Pulumi [poolsawat.com]
+    url: https://www.poolsawat.com/infrastructure-as-code-iac-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%83%e0%b8%8a%e0%b9%89-terraform-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-pulumi/
+  state:
+    id: '114952076138917300'
+    url: https://mastodon.in.th/@webring/114952076138917300
+0560ec5076e28247d0ee76deac7b1898:shorturl:
+  spec:
+    url: https://www.poolsawat.com/infrastructure-as-code-iac-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%83%e0%b8%8a%e0%b9%89-terraform-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-pulumi/
+  state:
+    shortLink: https://link.webring.in.th/2681
 0562a6cb16bb3ea71137c4f5045e6cbc:facebook:
   spec:
     title: ทำเข้าใจง่ายดี Go 1.21 All You Need to Know [somkiat.cc]
