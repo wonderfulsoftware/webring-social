@@ -17539,6 +17539,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/03/starbucks-reward-2025/
   state:
     shortLink: https://link.webring.in.th/2479
+7d65f52a2f58a59874b825d24ae5842a:bluesky:
+  spec:
+    title: มาลองใช้งาน Ollama App ตัวใหม่กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/ollama-new-app/
+  state:
+    cid: bafyreibtk5spwcskmuzqocu4jh3yvw37cpbhqyeciy427togbauy33ypfq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvdd45givj2k
+7d65f52a2f58a59874b825d24ae5842a:facebook:
+  spec:
+    title: มาลองใช้งาน Ollama App ตัวใหม่กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/ollama-new-app/
+  state:
+    id: '100746876247412_735107992811779'
+    url: https://www.facebook.com/100683012920950/posts/735107992811779
+7d65f52a2f58a59874b825d24ae5842a:mastodon:
+  spec:
+    title: มาลองใช้งาน Ollama App ตัวใหม่กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/ollama-new-app/
+  state:
+    id: '114952765849499639'
+    url: https://mastodon.in.th/@webring/114952765849499639
+7d65f52a2f58a59874b825d24ae5842a:shorturl:
+  spec:
+    url: https://www.somkiat.cc/ollama-new-app/
+  state:
+    shortLink: https://link.webring.in.th/2682
 7d852c7df9ff6eee38dfcc300cfe52dd:bluesky:
   spec:
     title: อัพเดตเทคบ้านเขียวประจำปี กับงาน LINE Thailand Developer Conference 2024 [mikkipastel.com]
