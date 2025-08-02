@@ -26508,6 +26508,32 @@ bcd6fea4f538587ba93d9e1fb9769674:shorturl:
     url: https://janescience.com/blog/jenkins-docker-kubernetes
   state:
     shortLink: https://webring.page.link/PgAn
+bd0e89719d0fac95504f2d5af81a3df5:bluesky:
+  spec:
+    title: Creating a free Google Cloud Compute Engine VM in Google Cloud Shell [dt.in.th]
+    url: https://notes.dt.in.th/GoogleCloudFreeTier
+  state:
+    cid: bafyreih4orysv5zjxonuphf2gnridyyighi2snwvtlkxdrrdlzvob67izy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvfbczal5v2z
+bd0e89719d0fac95504f2d5af81a3df5:facebook:
+  spec:
+    title: Creating a free Google Cloud Compute Engine VM in Google Cloud Shell [dt.in.th]
+    url: https://notes.dt.in.th/GoogleCloudFreeTier
+  state:
+    id: '100746876247412_735754426080469'
+    url: https://www.facebook.com/100683012920950/posts/735754426080469
+bd0e89719d0fac95504f2d5af81a3df5:mastodon:
+  spec:
+    title: Creating a free Google Cloud Compute Engine VM in Google Cloud Shell [dt.in.th]
+    url: https://notes.dt.in.th/GoogleCloudFreeTier
+  state:
+    id: '114957143997729822'
+    url: https://mastodon.in.th/@webring/114957143997729822
+bd0e89719d0fac95504f2d5af81a3df5:shorturl:
+  spec:
+    url: https://notes.dt.in.th/GoogleCloudFreeTier
+  state:
+    shortLink: https://link.webring.in.th/2683
 bd23e1beee8056e729f25ba34b594968:facebook:
   spec:
     title: TDEA (3DES) ปลอดภัยกว่า AES-128 จริงไหม [suam.wtf]
