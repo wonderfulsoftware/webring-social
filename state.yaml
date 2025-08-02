@@ -22409,6 +22409,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/wp-meetup-how-to-make-money-blogging/
   state:
     shortLink: https://webring.page.link/4b5Y
+a00a53eb7467a414778c3f00eac033b6:bluesky:
+  spec:
+    title: ทำ Automation งานประจำด้วย Python และ Cron [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3-automation-%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%88%e0%b8%b3%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-python-%e0%b9%81%e0%b8%a5%e0%b8%b0-cron/
+  state:
+    cid: bafyreiaarcb4bxhqqeovdxvajyl5k7sbxyqx5x3yon5crmer7wmnwf6on4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvfjiyxywk2r
+a00a53eb7467a414778c3f00eac033b6:facebook:
+  spec:
+    title: ทำ Automation งานประจำด้วย Python และ Cron [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3-automation-%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%88%e0%b8%b3%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-python-%e0%b9%81%e0%b8%a5%e0%b8%b0-cron/
+  state:
+    id: '100746876247412_735831912739387'
+    url: https://www.facebook.com/100683012920950/posts/735831912739387
+a00a53eb7467a414778c3f00eac033b6:mastodon:
+  spec:
+    title: ทำ Automation งานประจำด้วย Python และ Cron [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3-automation-%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%88%e0%b8%b3%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-python-%e0%b9%81%e0%b8%a5%e0%b8%b0-cron/
+  state:
+    id: '114957720108186286'
+    url: https://mastodon.in.th/@webring/114957720108186286
+a00a53eb7467a414778c3f00eac033b6:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3-automation-%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%88%e0%b8%b3%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-python-%e0%b9%81%e0%b8%a5%e0%b8%b0-cron/
+  state:
+    shortLink: https://link.webring.in.th/2684
 a05881d3256ddc47df22016c2c07e6c4:facebook:
   spec:
     title: The Cloud Camp Week#13 (Observability#2) [debuggingsoft.com]
