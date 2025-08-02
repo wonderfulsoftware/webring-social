@@ -20014,6 +20014,32 @@
     url: https://www.somkiat.cc/k6-with-result-output/
   state:
     shortLink: https://webring.page.link/4RBj
+8dd9dab9f75f126f4ba983cf6cca0476:bluesky:
+  spec:
+    title: Using Service Auth for Gitea Access via Git Client + Cloudflare Tunnel [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/using-service-auth-for-gitea-access-via-cloudflare-tunnel/
+  state:
+    cid: bafyreigxn3su5a2z3tia7dmqulyss3efrmyrmly4p2kovicf6xf4huup4m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvfte7tesi24
+8dd9dab9f75f126f4ba983cf6cca0476:facebook:
+  spec:
+    title: Using Service Auth for Gitea Access via Git Client + Cloudflare Tunnel [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/using-service-auth-for-gitea-access-via-cloudflare-tunnel/
+  state:
+    id: '100746876247412_735927976063114'
+    url: https://www.facebook.com/100683012920950/posts/735927976063114
+8dd9dab9f75f126f4ba983cf6cca0476:mastodon:
+  spec:
+    title: Using Service Auth for Gitea Access via Git Client + Cloudflare Tunnel [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/using-service-auth-for-gitea-access-via-cloudflare-tunnel/
+  state:
+    id: '114958413231913081'
+    url: https://mastodon.in.th/@webring/114958413231913081
+8dd9dab9f75f126f4ba983cf6cca0476:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/08/using-service-auth-for-gitea-access-via-cloudflare-tunnel/
+  state:
+    shortLink: https://link.webring.in.th/2685
 8df86ba058b181b3a251b38aa69721ab:facebook:
   spec:
     title: ลบ Line ข้อมูล Chat พวกรูป/วิดีโอ/ไฟล์ เพื่อคืนพื้นที่ให้เครื่อง [debuggingsoft.com]
