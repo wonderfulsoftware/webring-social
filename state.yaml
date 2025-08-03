@@ -19568,6 +19568,32 @@
     url: https://garden.narze.live/git-fatal-detected-dubious-ownership-in-repository/
   state:
     shortLink: https://webring.page.link/nPBd
+8982511a3f07c1e3059e780a41ace33a:bluesky:
+  spec:
+    title: End-to-End Test คืออะไร และทำด้วย Cypress ยังไง [poolsawat.com]
+    url: https://www.poolsawat.com/end-to-end-test-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%97%e0%b8%b3%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-cypress-%e0%b8%a2%e0%b8%b1%e0%b8%87/
+  state:
+    cid: bafyreiaootmvuoie5yhikhq3lzhvo2tbqkpjg3bm7cx4mjncdfsvo6nnnu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvhzy7enih2o
+8982511a3f07c1e3059e780a41ace33a:facebook:
+  spec:
+    title: End-to-End Test คืออะไร และทำด้วย Cypress ยังไง [poolsawat.com]
+    url: https://www.poolsawat.com/end-to-end-test-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%97%e0%b8%b3%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-cypress-%e0%b8%a2%e0%b8%b1%e0%b8%87/
+  state:
+    id: '100746876247412_736637642658814'
+    url: https://www.facebook.com/100683012920950/posts/736637642658814
+8982511a3f07c1e3059e780a41ace33a:mastodon:
+  spec:
+    title: End-to-End Test คืออะไร และทำด้วย Cypress ยังไง [poolsawat.com]
+    url: https://www.poolsawat.com/end-to-end-test-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%97%e0%b8%b3%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-cypress-%e0%b8%a2%e0%b8%b1%e0%b8%87/
+  state:
+    id: '114963382602673145'
+    url: https://mastodon.in.th/@webring/114963382602673145
+8982511a3f07c1e3059e780a41ace33a:shorturl:
+  spec:
+    url: https://www.poolsawat.com/end-to-end-test-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%97%e0%b8%b3%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-cypress-%e0%b8%a2%e0%b8%b1%e0%b8%87/
+  state:
+    shortLink: https://link.webring.in.th/2687
 89c2677b4928fc6afe47f025ee7b6492:facebook:
   spec:
     title: Stress-less web server with Caddy [rayriffy.com]
