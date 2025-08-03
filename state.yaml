@@ -9029,6 +9029,32 @@
     url: https://myifew.com/6699/veo3-video-prompt-json-script/
   state:
     shortLink: https://link.webring.in.th/2650
+4362aa154dfd2114ca6fc7c1d0e1190e:bluesky:
+  spec:
+    title: แนะนำ Course ฟรี เรื่อง 100 Exercises to Learn Rust [somkiat.cc]
+    url: https://www.somkiat.cc/course-100-exercises-to-learn-rust/
+  state:
+    cid: bafyreihnwwp7426jeebavsnpr4pjo4yyhuzhkiu7iwvpulcmcnwbthyh5u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvhsirfdov2p
+4362aa154dfd2114ca6fc7c1d0e1190e:facebook:
+  spec:
+    title: แนะนำ Course ฟรี เรื่อง 100 Exercises to Learn Rust [somkiat.cc]
+    url: https://www.somkiat.cc/course-100-exercises-to-learn-rust/
+  state:
+    id: '100746876247412_736556719333573'
+    url: https://www.facebook.com/100683012920950/posts/736556719333573
+4362aa154dfd2114ca6fc7c1d0e1190e:mastodon:
+  spec:
+    title: แนะนำ Course ฟรี เรื่อง 100 Exercises to Learn Rust [somkiat.cc]
+    url: https://www.somkiat.cc/course-100-exercises-to-learn-rust/
+  state:
+    id: '114962856490907013'
+    url: https://mastodon.in.th/@webring/114962856490907013
+4362aa154dfd2114ca6fc7c1d0e1190e:shorturl:
+  spec:
+    url: https://www.somkiat.cc/course-100-exercises-to-learn-rust/
+  state:
+    shortLink: https://link.webring.in.th/2686
 43d75c093a0124d292904f36f287bf4c:facebook:
   spec:
     title: เพิ่งเห็น data test id ในหน้า web [somkiat.cc]
