@@ -11739,6 +11739,32 @@
     url: https://wawasabii.com/blog/thailand-lottery-statistic-30-years/
   state:
     shortLink: https://link.webring.in.th/1891
+589e1dd2814b5177903766e5a559c96b:bluesky:
+  spec:
+    title: 10 ข้อศิลปะการปรับปรุง AI Products แบบ 100x [bigdatarpg.com]
+    url: https://bigdatarpg.com/2025/08/03/ai-product-improvement-tips-100x/
+  state:
+    cid: bafyreiemtby6itjodcz2uiuj4xqgftg6ykzzzxq4tcl2n4vcgjgvmjnypi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvkdcdz2d225
+589e1dd2814b5177903766e5a559c96b:facebook:
+  spec:
+    title: 10 ข้อศิลปะการปรับปรุง AI Products แบบ 100x [bigdatarpg.com]
+    url: https://bigdatarpg.com/2025/08/03/ai-product-improvement-tips-100x/
+  state:
+    id: '100746876247412_737393989249846'
+    url: https://www.facebook.com/100683012920950/posts/737393989249846
+589e1dd2814b5177903766e5a559c96b:mastodon:
+  spec:
+    title: 10 ข้อศิลปะการปรับปรุง AI Products แบบ 100x [bigdatarpg.com]
+    url: https://bigdatarpg.com/2025/08/03/ai-product-improvement-tips-100x/
+  state:
+    id: '114968542043538421'
+    url: https://mastodon.in.th/@webring/114968542043538421
+589e1dd2814b5177903766e5a559c96b:shorturl:
+  spec:
+    url: https://bigdatarpg.com/2025/08/03/ai-product-improvement-tips-100x/
+  state:
+    shortLink: https://link.webring.in.th/2688
 58ce427791b3755e5b5b07d1a84a4d0d:bluesky:
   spec:
     title: การใช้งาน Data structure ใน Redis [somkiat.cc]
