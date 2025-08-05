@@ -500,6 +500,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/vue-multiselect-typeerror-cannot-read-properties-of-undefined-reading-_cvue3/
   state:
     shortLink: https://webring.page.link/qMY5
+03ff427d89b2ff60d0b2b157030e431c:bluesky:
+  spec:
+    title: '[maven] build container image with Buildpacks [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/maven-build-container-image-with-buildpacks/
+  state:
+    cid: bafyreia22zw6x3jtlzj7bljkv45iurct2t4s3ksgihpntkunsrcy3ocxvi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvnf266pch2z
+03ff427d89b2ff60d0b2b157030e431c:facebook:
+  spec:
+    title: '[maven] build container image with Buildpacks [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/maven-build-container-image-with-buildpacks/
+  state:
+    id: '100746876247412_738395749149670'
+    url: https://www.facebook.com/100683012920950/posts/738395749149670
+03ff427d89b2ff60d0b2b157030e431c:mastodon:
+  spec:
+    title: '[maven] build container image with Buildpacks [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/maven-build-container-image-with-buildpacks/
+  state:
+    id: '114975420307261659'
+    url: https://mastodon.in.th/@webring/114975420307261659
+03ff427d89b2ff60d0b2b157030e431c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/08/maven-build-container-image-with-buildpacks/
+  state:
+    shortLink: https://link.webring.in.th/2691
 045913b2cacefc0ec8ea4a3ea742e0f8:facebook:
   spec:
     title: ยืดอายุแบต MacBook ด้วย AlDente [nuttdam.com]
