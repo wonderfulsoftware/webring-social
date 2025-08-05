@@ -31965,6 +31965,32 @@ e3c7ac2201ce2dd77fabcb72e3d1f9d7:shorturl:
     url: https://www.somkiat.cc/review-ectreport/
   state:
     shortLink: https://webring.page.link/vmYr
+e3d0e41792da17defc19bd63cf62a25e:bluesky:
+  spec:
+    title: AWS cost optimization tactics [karnwong.me]
+    url: https://karnwong.me/posts/2025/08/aws-cost-optimization-tactics/
+  state:
+    cid: bafyreidumrmubnkwqdcy2foveductkl5x2wdqg45gg7ieeswajhpglrnqm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvmtdktwf32g
+e3d0e41792da17defc19bd63cf62a25e:facebook:
+  spec:
+    title: AWS cost optimization tactics [karnwong.me]
+    url: https://karnwong.me/posts/2025/08/aws-cost-optimization-tactics/
+  state:
+    id: '100746876247412_738222732500305'
+    url: https://www.facebook.com/100683012920950/posts/738222732500305
+e3d0e41792da17defc19bd63cf62a25e:mastodon:
+  spec:
+    title: AWS cost optimization tactics [karnwong.me]
+    url: https://karnwong.me/posts/2025/08/aws-cost-optimization-tactics/
+  state:
+    id: '114974174375335478'
+    url: https://mastodon.in.th/@webring/114974174375335478
+e3d0e41792da17defc19bd63cf62a25e:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/08/aws-cost-optimization-tactics/
+  state:
+    shortLink: https://link.webring.in.th/2689
 e3da53994cc5cd25dc503476c8b16e92:facebook:
   spec:
     title: ทำไม SeleniumLibrary 6 ถึงปิด browser ให้อัตโนมัติ ? [somkiat.cc]
