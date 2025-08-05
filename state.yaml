@@ -7009,6 +7009,32 @@
     url: https://mikelopster.dev/posts/web-vitals/
   state:
     shortLink: https://link.webring.in.th/1731
+334223b1a499d7183b38585f95de6ce1:bluesky:
+  spec:
+    title: TDD (Test Driven Development) คืออะไร? มีประโยชน์จริงหรือ? [poolsawat.com]
+    url: https://www.poolsawat.com/tdd-test-driven-development-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%a1%e0%b8%b5%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%82%e0%b8%a2%e0%b8%8a%e0%b8%99%e0%b9%8c%e0%b8%88/
+  state:
+    cid: bafyreiesadw64tumq65drtew7npzlgs5q4hbrcxyojcih2xsic23a7hglm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvn35znw6q25
+334223b1a499d7183b38585f95de6ce1:facebook:
+  spec:
+    title: TDD (Test Driven Development) คืออะไร? มีประโยชน์จริงหรือ? [poolsawat.com]
+    url: https://www.poolsawat.com/tdd-test-driven-development-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%a1%e0%b8%b5%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%82%e0%b8%a2%e0%b8%8a%e0%b8%99%e0%b9%8c%e0%b8%88/
+  state:
+    id: '100746876247412_738297439159501'
+    url: https://www.facebook.com/100683012920950/posts/738297439159501
+334223b1a499d7183b38585f95de6ce1:mastodon:
+  spec:
+    title: TDD (Test Driven Development) คืออะไร? มีประโยชน์จริงหรือ? [poolsawat.com]
+    url: https://www.poolsawat.com/tdd-test-driven-development-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%a1%e0%b8%b5%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%82%e0%b8%a2%e0%b8%8a%e0%b8%99%e0%b9%8c%e0%b8%88/
+  state:
+    id: '114974725199837763'
+    url: https://mastodon.in.th/@webring/114974725199837763
+334223b1a499d7183b38585f95de6ce1:shorturl:
+  spec:
+    url: https://www.poolsawat.com/tdd-test-driven-development-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%a1%e0%b8%b5%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%82%e0%b8%a2%e0%b8%8a%e0%b8%99%e0%b9%8c%e0%b8%88/
+  state:
+    shortLink: https://link.webring.in.th/2690
 340785e5f77f427c536a4c4e805af358:facebook:
   spec:
     title: 'ลองใช้งาน Runme :: เมื่อไฟล์ Markdown สามารถ execute ได้ [somkiat.cc]'
