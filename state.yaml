@@ -6945,6 +6945,32 @@
     url: https://lucian.solutions/blog/lucia-uncaught-typeerror
   state:
     shortLink: https://webring.page.link/DFxT
+328cce8c84965761f8b3dc872938e79f:bluesky:
+  spec:
+    title: Upserting data into Grist using n8n [dt.in.th]
+    url: https://notes.dt.in.th/GristUpsertN8n
+  state:
+    cid: bafyreifqm2yfdbtznbf6237lnr6qbncqsxrwzv6kkybsbcepnrltyqloyi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvpdokv76t2g
+328cce8c84965761f8b3dc872938e79f:facebook:
+  spec:
+    title: Upserting data into Grist using n8n [dt.in.th]
+    url: https://notes.dt.in.th/GristUpsertN8n
+  state:
+    id: '100746876247412_739028489086396'
+    url: https://www.facebook.com/100683012920950/posts/739028489086396
+328cce8c84965761f8b3dc872938e79f:mastodon:
+  spec:
+    title: Upserting data into Grist using n8n [dt.in.th]
+    url: https://notes.dt.in.th/GristUpsertN8n
+  state:
+    id: '114979828119798667'
+    url: https://mastodon.in.th/@webring/114979828119798667
+328cce8c84965761f8b3dc872938e79f:shorturl:
+  spec:
+    url: https://notes.dt.in.th/GristUpsertN8n
+  state:
+    shortLink: https://link.webring.in.th/2692
 32d3570811fb5339292b7c13461e2dcd:bluesky:
   spec:
     title: 'Data Sci Boot Camp Batch#11 : ใช้ Spreadsheet / Excel มา 10 ปี เพิ่งรู้ว่าทำแบบนี้ได้ [debuggingsoft.com]'
