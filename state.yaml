@@ -35557,6 +35557,32 @@ ff1a08452a4f002b3d483fa32639fb1d:shorturl:
     url: https://www.somkiat.cc/stack-overflow-with-ai/
   state:
     shortLink: https://webring.page.link/5Bce
+ff1e32aee4d9588b19b830e853398647:bluesky:
+  spec:
+    title: การ convert Postman collection ไปยัง Apache JMeter Test script [somkiat.cc]
+    url: https://www.somkiat.cc/convert-postman-to-jmeter/
+  state:
+    cid: bafyreidwiestlse6bose3dj2seqr2essifapvr2wxti2odejznxlpgw6fa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvuwflsgr62o
+ff1e32aee4d9588b19b830e853398647:facebook:
+  spec:
+    title: การ convert Postman collection ไปยัง Apache JMeter Test script [somkiat.cc]
+    url: https://www.somkiat.cc/convert-postman-to-jmeter/
+  state:
+    id: '100746876247412_740784358910809'
+    url: https://www.facebook.com/100683012920950/posts/740784358910809
+ff1e32aee4d9588b19b830e853398647:mastodon:
+  spec:
+    title: การ convert Postman collection ไปยัง Apache JMeter Test script [somkiat.cc]
+    url: https://www.somkiat.cc/convert-postman-to-jmeter/
+  state:
+    id: '114992404331325604'
+    url: https://mastodon.in.th/@webring/114992404331325604
+ff1e32aee4d9588b19b830e853398647:shorturl:
+  spec:
+    url: https://www.somkiat.cc/convert-postman-to-jmeter/
+  state:
+    shortLink: https://link.webring.in.th/2697
 ff38fcbf2ad709c2081f9c009ae7f3ac:bluesky:
   spec:
     title: 'Data Sci Boot Camp Batch#11: Essential Statistics #1 [debuggingsoft.com]'
