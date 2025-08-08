@@ -936,6 +936,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/12/how-to-get-output-from-dotnet-test/
   state:
     shortLink: https://webring.page.link/rZFZ
+06e87451e22257226f5a46a15402a80a:bluesky:
+  spec:
+    title: How to remove fixed IP in RHEL [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/how-to-remove-fixed-ip-in-rhel/
+  state:
+    cid: bafyreicqnv2j2xjxwzfvkpx4mhrrikuke4sp2sgolvs7nmo4kjb2ybpehi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvumjvwabg2z
+06e87451e22257226f5a46a15402a80a:facebook:
+  spec:
+    title: How to remove fixed IP in RHEL [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/how-to-remove-fixed-ip-in-rhel/
+  state:
+    id: '100746876247412_740693402253238'
+    url: https://www.facebook.com/100683012920950/posts/740693402253238
+06e87451e22257226f5a46a15402a80a:mastodon:
+  spec:
+    title: How to remove fixed IP in RHEL [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/how-to-remove-fixed-ip-in-rhel/
+  state:
+    id: '114991710050858378'
+    url: https://mastodon.in.th/@webring/114991710050858378
+06e87451e22257226f5a46a15402a80a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/08/how-to-remove-fixed-ip-in-rhel/
+  state:
+    shortLink: https://link.webring.in.th/2696
 0759428909a43d5305f1209ceca8525e:facebook:
   spec:
     title: How to implement cross-tab communication [punn.dev]
