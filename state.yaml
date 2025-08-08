@@ -23494,6 +23494,32 @@ a5c0bfee23562431810f8fa395169ac4:shorturl:
     url: https://www.somkiat.cc/testing-your-flutter-app/
   state:
     shortLink: https://webring.page.link/F2rX
+a5e95a7c62b3201292a1835d93df8dbc:bluesky:
+  spec:
+    title: WebFlux คืออะไร? ต่างจาก Spring MVC อย่างไร [poolsawat.com]
+    url: https://www.poolsawat.com/webflux-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%88%e0%b8%b2%e0%b8%81-spring-mvc-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87/
+  state:
+    cid: bafyreigbnnjd37jmkeqo2iuf72t4lryxso4rmzbz3lobkree2amob43wzu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvuelilfnv2k
+a5e95a7c62b3201292a1835d93df8dbc:facebook:
+  spec:
+    title: WebFlux คืออะไร? ต่างจาก Spring MVC อย่างไร [poolsawat.com]
+    url: https://www.poolsawat.com/webflux-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%88%e0%b8%b2%e0%b8%81-spring-mvc-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87/
+  state:
+    id: '100746876247412_740619405593971'
+    url: https://www.facebook.com/100683012920950/posts/740619405593971
+a5e95a7c62b3201292a1835d93df8dbc:mastodon:
+  spec:
+    title: WebFlux คืออะไร? ต่างจาก Spring MVC อย่างไร [poolsawat.com]
+    url: https://www.poolsawat.com/webflux-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%88%e0%b8%b2%e0%b8%81-spring-mvc-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87/
+  state:
+    id: '114991150597851042'
+    url: https://mastodon.in.th/@webring/114991150597851042
+a5e95a7c62b3201292a1835d93df8dbc:shorturl:
+  spec:
+    url: https://www.poolsawat.com/webflux-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%88%e0%b8%b2%e0%b8%81-spring-mvc-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87/
+  state:
+    shortLink: https://link.webring.in.th/2695
 a5f43ba40dfecb2178a9a61737e2731c:bluesky:
   spec:
     title: '[AZ-305] Build great solutions with the Microsoft Azure Well-Architected Framework [debuggingsoft.com]'
