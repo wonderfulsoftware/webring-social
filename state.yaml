@@ -7362,6 +7362,32 @@
     url: https://garden.narze.live/VSCode-Extension-Pack/
   state:
     shortLink: https://webring.page.link/SiJ8
+3551b54f1c5bc50ce2e258c4d1b2dbbb:bluesky:
+  spec:
+    title: '[🐈] ไส้อั่วกลับดาวแมวแล้ว ⭐️ [amiearth.com]'
+    url: https://amiearth.com/blog/rip-sai-oua
+  state:
+    cid: bafyreidoon4jtl2pkehkilfrtxd5zobjn3njj6xjgci2x3fl3qocexp6pq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvwuaf72i32t
+3551b54f1c5bc50ce2e258c4d1b2dbbb:facebook:
+  spec:
+    title: '[🐈] ไส้อั่วกลับดาวแมวแล้ว ⭐️ [amiearth.com]'
+    url: https://amiearth.com/blog/rip-sai-oua
+  state:
+    id: '100746876247412_741417392180839'
+    url: https://www.facebook.com/100683012920950/posts/741417392180839
+3551b54f1c5bc50ce2e258c4d1b2dbbb:mastodon:
+  spec:
+    title: '[🐈] ไส้อั่วกลับดาวแมวแล้ว ⭐️ [amiearth.com]'
+    url: https://amiearth.com/blog/rip-sai-oua
+  state:
+    id: '114996755354754849'
+    url: https://mastodon.in.th/@webring/114996755354754849
+3551b54f1c5bc50ce2e258c4d1b2dbbb:shorturl:
+  spec:
+    url: https://amiearth.com/blog/rip-sai-oua
+  state:
+    shortLink: https://link.webring.in.th/2698
 3563eeb1b3e9425c603ace4021b6602e:facebook:
   spec:
     title: การแปลงสัมพรรค [neizod.dev]
