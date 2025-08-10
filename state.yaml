@@ -10660,6 +10660,32 @@
     url: https://www.somkiat.cc/note-from-database-journey-at-discord/
   state:
     shortLink: https://webring.page.link/xU6T
+4e74ed114a0c8eb99604d88b206404b5:bluesky:
+  spec:
+    title: การสร้าง REST API แรกด้วย Spring WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87-rest-api-%e0%b9%81%e0%b8%a3%e0%b8%81%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-spring-webflux/
+  state:
+    cid: bafyreihvlzsjb3n2fk4iencglju3jcvopbmet6rl7zmplalkwc5rnunlte
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvznaydumj2p
+4e74ed114a0c8eb99604d88b206404b5:facebook:
+  spec:
+    title: การสร้าง REST API แรกด้วย Spring WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87-rest-api-%e0%b9%81%e0%b8%a3%e0%b8%81%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-spring-webflux/
+  state:
+    id: '100746876247412_742320122090566'
+    url: https://www.facebook.com/100683012920950/posts/742320122090566
+4e74ed114a0c8eb99604d88b206404b5:mastodon:
+  spec:
+    title: การสร้าง REST API แรกด้วย Spring WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87-rest-api-%e0%b9%81%e0%b8%a3%e0%b8%81%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-spring-webflux/
+  state:
+    id: '115003019890110366'
+    url: https://mastodon.in.th/@webring/115003019890110366
+4e74ed114a0c8eb99604d88b206404b5:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87-rest-api-%e0%b9%81%e0%b8%a3%e0%b8%81%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-spring-webflux/
+  state:
+    shortLink: https://link.webring.in.th/2701
 4e8a82e54d67a5b37902f549fa90a52a:facebook:
   spec:
     title: 56 - puppeteer rabbit hole [garden.narze.live]
