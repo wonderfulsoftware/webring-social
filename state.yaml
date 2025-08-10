@@ -14076,6 +14076,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/04/season-of-ai-thailand-season-4-season-of-agents/
   state:
     shortLink: https://link.webring.in.th/2503
+64f2ee81b78ab500417ef4a82fddc5b7:bluesky:
+  spec:
+    title: Zerotier on UDR [rayriffy.com]
+    url: https://rayriffy.com/garden/zerotier-udr/
+  state:
+    cid: bafyreiesnrbecilseuksxjeb4qra6vzz5exvwipe6zte2hyxew5dttcqpy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvzwy5cli32z
+64f2ee81b78ab500417ef4a82fddc5b7:facebook:
+  spec:
+    title: Zerotier on UDR [rayriffy.com]
+    url: https://rayriffy.com/garden/zerotier-udr/
+  state:
+    id: '100746876247412_742414488747796'
+    url: https://www.facebook.com/100683012920950/posts/742414488747796
+64f2ee81b78ab500417ef4a82fddc5b7:mastodon:
+  spec:
+    title: Zerotier on UDR [rayriffy.com]
+    url: https://rayriffy.com/garden/zerotier-udr/
+  state:
+    id: '115003703959986544'
+    url: https://mastodon.in.th/@webring/115003703959986544
+64f2ee81b78ab500417ef4a82fddc5b7:shorturl:
+  spec:
+    url: https://rayriffy.com/garden/zerotier-udr/
+  state:
+    shortLink: https://link.webring.in.th/2702
 6511f557bf914c75c6c13283b5239352:bluesky:
   spec:
     title: Gobuster คืออะไร? ใช่ขบวนการจารชน โกบัสเตอร์ ป่ะ [evanrintho.buzz]
