@@ -22702,6 +22702,32 @@
     url: https://kajame.xyz/blog/2024/learn-nestjs
   state:
     shortLink: https://link.webring.in.th/2098
+9fa6b7dcc77b9db6656fb25fd2973b7e:bluesky:
+  spec:
+    title: '[CR] บุฟเฟ่ต์ไก่คาราอาเกะ Daidai Restaurant : Nishitetsu Hotel Croom Bangkok Silom [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/cr-karaage-buffet-daidai-restaurant-nishitetsu-hotel-silom/
+  state:
+    cid: bafyreigevmnlhef32jev3mayc7wgm6cucqzw4cdmcsdruv2qnmjqqo3q64
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lvzfgkv6o324
+9fa6b7dcc77b9db6656fb25fd2973b7e:facebook:
+  spec:
+    title: '[CR] บุฟเฟ่ต์ไก่คาราอาเกะ Daidai Restaurant : Nishitetsu Hotel Croom Bangkok Silom [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/cr-karaage-buffet-daidai-restaurant-nishitetsu-hotel-silom/
+  state:
+    id: '100746876247412_742245075431404'
+    url: https://www.facebook.com/100683012920950/posts/742245075431404
+9fa6b7dcc77b9db6656fb25fd2973b7e:mastodon:
+  spec:
+    title: '[CR] บุฟเฟ่ต์ไก่คาราอาเกะ Daidai Restaurant : Nishitetsu Hotel Croom Bangkok Silom [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/cr-karaage-buffet-daidai-restaurant-nishitetsu-hotel-silom/
+  state:
+    id: '115002469233457804'
+    url: https://mastodon.in.th/@webring/115002469233457804
+9fa6b7dcc77b9db6656fb25fd2973b7e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/08/cr-karaage-buffet-daidai-restaurant-nishitetsu-hotel-silom/
+  state:
+    shortLink: https://link.webring.in.th/2700
 9ff6714c31d9573f7ab389657b90089a:facebook:
   spec:
     title: '[WP] สรุป Meetup สร้างรายได้จาก การเขียนบทความ แบบไม่ต้องรอลูกค้าลงโฆษณา [debuggingsoft.com]'
