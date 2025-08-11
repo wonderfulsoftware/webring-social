@@ -20679,6 +20679,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/01/install-excalidraw-self-hosted-docker/
   state:
     shortLink: https://link.webring.in.th/1732
+90aeabf2da6a3a7817e0001f5f81656f:bluesky:
+  spec:
+    title: ทำความรู้จักกับ Mono และ Flux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%9a-mono-%e0%b9%81%e0%b8%a5%e0%b8%b0-flux/
+  state:
+    cid: bafyreietakyz5sq7os22un53ent7kwvtacyjbfdalbuqxivjhxypapqhka
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lw3vxs2qjo2g
+90aeabf2da6a3a7817e0001f5f81656f:facebook:
+  spec:
+    title: ทำความรู้จักกับ Mono และ Flux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%9a-mono-%e0%b9%81%e0%b8%a5%e0%b8%b0-flux/
+  state:
+    id: '100746876247412_743034945352417'
+    url: https://www.facebook.com/100683012920950/posts/743034945352417
+90aeabf2da6a3a7817e0001f5f81656f:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Mono และ Flux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%9a-mono-%e0%b9%81%e0%b8%a5%e0%b8%b0-flux/
+  state:
+    id: '115008136585843646'
+    url: https://mastodon.in.th/@webring/115008136585843646
+90aeabf2da6a3a7817e0001f5f81656f:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%9a-mono-%e0%b9%81%e0%b8%a5%e0%b8%b0-flux/
+  state:
+    shortLink: https://link.webring.in.th/2703
 90b5325b88c0224232908a3e1cbec2cf:facebook:
   spec:
     title: รู้จักกับ Design Pattern - Structural (Part 2/3) [mikelopster.dev]
