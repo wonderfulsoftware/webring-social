@@ -7452,6 +7452,32 @@
     url: https://www.mikkipastel.com/android-bangkok-conference-2023/
   state:
     shortLink: https://webring.page.link/dQMy
+358bfdecc9b3da6edfc3306d8e230818:bluesky:
+  spec:
+    title: 'LINQ Technique: Group / Group Join [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/linq-technique-group-gropujoin/
+  state:
+    cid: bafyreidz3za5tn65dv6jqcbmpetwrw6x6lm26sjv6bev2p5roxcq573wsq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lw6obdleot25
+358bfdecc9b3da6edfc3306d8e230818:facebook:
+  spec:
+    title: 'LINQ Technique: Group / Group Join [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/linq-technique-group-gropujoin/
+  state:
+    id: '100746876247412_743980005257911'
+    url: https://www.facebook.com/100683012920950/posts/743980005257911
+358bfdecc9b3da6edfc3306d8e230818:mastodon:
+  spec:
+    title: 'LINQ Technique: Group / Group Join [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/linq-technique-group-gropujoin/
+  state:
+    id: '115014349654853318'
+    url: https://mastodon.in.th/@webring/115014349654853318
+358bfdecc9b3da6edfc3306d8e230818:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/08/linq-technique-group-gropujoin/
+  state:
+    shortLink: https://link.webring.in.th/2705
 35b71def96fcce225b82264ba0a44ce2:facebook:
   spec:
     title: กลับมาอีกครั้งในรอบ 4 ปี กับ Kotlin Meetup 2024.1 [mikkipastel.com]
