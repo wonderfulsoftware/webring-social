@@ -34596,6 +34596,32 @@ f4a9daa208c333c61a97a0457c8e8137:shorturl:
     url: https://www.somkiat.cc/vscode-built-in-port-forwarding/
   state:
     shortLink: https://webring.page.link/MtNj
+f4b29f9ca6e9caffb5b7751a68ef246a:bluesky:
+  spec:
+    title: Reactive Stack กับ Servlet Stack ต่างกันอย่างไร [poolsawat.com]
+    url: https://www.poolsawat.com/reactive-stack-%e0%b8%81%e0%b8%b1%e0%b8%9a-servlet-stack-%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/
+  state:
+    cid: bafyreiglcnkewlpbi77arhmsszwwvmwfub5q2ykq67hr7zhizkawb5trha
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lw6fjbfdvu2l
+f4b29f9ca6e9caffb5b7751a68ef246a:facebook:
+  spec:
+    title: Reactive Stack กับ Servlet Stack ต่างกันอย่างไร [poolsawat.com]
+    url: https://www.poolsawat.com/reactive-stack-%e0%b8%81%e0%b8%b1%e0%b8%9a-servlet-stack-%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/
+  state:
+    id: '100746876247412_743897401932838'
+    url: https://www.facebook.com/100683012920950/posts/743897401932838
+f4b29f9ca6e9caffb5b7751a68ef246a:mastodon:
+  spec:
+    title: Reactive Stack กับ Servlet Stack ต่างกันอย่างไร [poolsawat.com]
+    url: https://www.poolsawat.com/reactive-stack-%e0%b8%81%e0%b8%b1%e0%b8%9a-servlet-stack-%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/
+  state:
+    id: '115013734153874045'
+    url: https://mastodon.in.th/@webring/115013734153874045
+f4b29f9ca6e9caffb5b7751a68ef246a:shorturl:
+  spec:
+    url: https://www.poolsawat.com/reactive-stack-%e0%b8%81%e0%b8%b1%e0%b8%9a-servlet-stack-%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/
+  state:
+    shortLink: https://link.webring.in.th/2704
 f4b516ab02686d39d28034af5c439d23:facebook:
   spec:
     title: 'Git error: src refspec master does not match any [debuggingsoft.com]'
