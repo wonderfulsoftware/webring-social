@@ -20622,6 +20622,32 @@
     url: https://www.somkiat.cc/docker-build-cloud/
   state:
     shortLink: https://link.webring.in.th/1735
+8fd1d837f897b528090369bd0e1e357a:bluesky:
+  spec:
+    title: โครงสร้างโปรเจกต์ WebFlux แบบง่าย ๆ [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%80%e0%b8%88%e0%b8%81%e0%b8%95%e0%b9%8c-webflux-%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b8%87/
+  state:
+    cid: bafyreie542zxeltlmlimb2qqlgn7ljfcguz36p5yo7tcrskeyg6rzfxv4i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwaw4r2dqv25
+8fd1d837f897b528090369bd0e1e357a:facebook:
+  spec:
+    title: โครงสร้างโปรเจกต์ WebFlux แบบง่าย ๆ [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%80%e0%b8%88%e0%b8%81%e0%b8%95%e0%b9%8c-webflux-%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b8%87/
+  state:
+    id: '100746876247412_744694151853163'
+    url: https://www.facebook.com/100683012920950/posts/744694151853163
+8fd1d837f897b528090369bd0e1e357a:mastodon:
+  spec:
+    title: โครงสร้างโปรเจกต์ WebFlux แบบง่าย ๆ [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%80%e0%b8%88%e0%b8%81%e0%b8%95%e0%b9%8c-webflux-%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b8%87/
+  state:
+    id: '115019406422071323'
+    url: https://mastodon.in.th/@webring/115019406422071323
+8fd1d837f897b528090369bd0e1e357a:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%80%e0%b8%88%e0%b8%81%e0%b8%95%e0%b9%8c-webflux-%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b8%87/
+  state:
+    shortLink: https://link.webring.in.th/2706
 8fdbccf1e100abece85cb78ca94e3814:facebook:
   spec:
     title: Store git directory externally [garden.narze.live]
