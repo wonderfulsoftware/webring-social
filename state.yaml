@@ -12632,6 +12632,32 @@
     url: https://blog.ninprd.com/blog/wordpress-basic-iii/
   state:
     shortLink: https://link.webring.in.th/1998
+5cb39f80f9b662c31567faced7efe939:bluesky:
+  spec:
+    title: 'LangExtract :: ทำการแปลงข้อมูลจาก unstructured มาเป็น structure [somkiat.cc]'
+    url: https://www.somkiat.cc/langextract-unstructure-to-structure-data/
+  state:
+    cid: bafyreiezqzsevowebwtpqvuoxwdh2h2ehlz4rzn2xzf2negtybtrl6au6i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwdyyzp6kl2f
+5cb39f80f9b662c31567faced7efe939:facebook:
+  spec:
+    title: 'LangExtract :: ทำการแปลงข้อมูลจาก unstructured มาเป็น structure [somkiat.cc]'
+    url: https://www.somkiat.cc/langextract-unstructure-to-structure-data/
+  state:
+    id: '100746876247412_745685781754000'
+    url: https://www.facebook.com/100683012920950/posts/745685781754000
+5cb39f80f9b662c31567faced7efe939:mastodon:
+  spec:
+    title: 'LangExtract :: ทำการแปลงข้อมูลจาก unstructured มาเป็น structure [somkiat.cc]'
+    url: https://www.somkiat.cc/langextract-unstructure-to-structure-data/
+  state:
+    id: '115026364867110693'
+    url: https://mastodon.in.th/@webring/115026364867110693
+5cb39f80f9b662c31567faced7efe939:shorturl:
+  spec:
+    url: https://www.somkiat.cc/langextract-unstructure-to-structure-data/
+  state:
+    shortLink: https://link.webring.in.th/2709
 5cbd428614e6310376c1bfb60e3f5d04:bluesky:
   spec:
     title: Fallacies of Distributed Computing เรื่องที่ 1 The network is reliable [somkiat.cc]
