@@ -20629,6 +20629,32 @@
     url: https://p4perf4ce.me/articles/25/well-no
   state:
     shortLink: https://link.webring.in.th/2451
+8f1a3fda16a7a28b7fd8cac6667dd1b4:bluesky:
+  spec:
+    title: First Second Third Party Data คืออะไร? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/what-are-first-second-third-party-data/
+  state:
+    cid: bafyreiccmyntngovclimsxuyipydmb324glyfi77k4ioxwdc7sehpd7y2y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwdp7k7taq26
+8f1a3fda16a7a28b7fd8cac6667dd1b4:facebook:
+  spec:
+    title: First Second Third Party Data คืออะไร? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/what-are-first-second-third-party-data/
+  state:
+    id: '100746876247412_745588975097014'
+    url: https://www.facebook.com/100683012920950/posts/745588975097014
+8f1a3fda16a7a28b7fd8cac6667dd1b4:mastodon:
+  spec:
+    title: First Second Third Party Data คืออะไร? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/what-are-first-second-third-party-data/
+  state:
+    id: '115025675275225473'
+    url: https://mastodon.in.th/@webring/115025675275225473
+8f1a3fda16a7a28b7fd8cac6667dd1b4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/08/what-are-first-second-third-party-data/
+  state:
+    shortLink: https://link.webring.in.th/2708
 8f89bdd71a62a90d8569da41343b6204:facebook:
   spec:
     title: มาลองใช้งาน Docker Build Cloud กัน [somkiat.cc]
