@@ -2916,6 +2916,32 @@
     url: https://karnwong.me/posts/2025/06/cloudflares-terraform-v5-provider-migration-strategy/
   state:
     shortLink: https://link.webring.in.th/2583
+16306359f842ae11627935c0fb45f3e2:bluesky:
+  spec:
+    title: การใช้งาน @RestController และ Router Functions [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-restcontroller-%e0%b9%81%e0%b8%a5%e0%b8%b0-router-functions/
+  state:
+    cid: bafyreid7fmfcuivjht3lopivittqb75w2qwwkoqqwrpm3zwsyhtrwdxtum
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwdgmwkwhw2l
+16306359f842ae11627935c0fb45f3e2:facebook:
+  spec:
+    title: การใช้งาน @RestController และ Router Functions [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-restcontroller-%e0%b9%81%e0%b8%a5%e0%b8%b0-router-functions/
+  state:
+    id: '100746876247412_745507675105144'
+    url: https://www.facebook.com/100683012920950/posts/745507675105144
+16306359f842ae11627935c0fb45f3e2:mastodon:
+  spec:
+    title: การใช้งาน @RestController และ Router Functions [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-restcontroller-%e0%b9%81%e0%b8%a5%e0%b8%b0-router-functions/
+  state:
+    id: '115025071477708631'
+    url: https://mastodon.in.th/@webring/115025071477708631
+16306359f842ae11627935c0fb45f3e2:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-restcontroller-%e0%b9%81%e0%b8%a5%e0%b8%b0-router-functions/
+  state:
+    shortLink: https://link.webring.in.th/2707
 169bc83c3c9e2be7c16e7ddf0ba30b38:facebook:
   spec:
     title: เรียนรู้ว่า Product Management เอา AI มาใช้งานยังไง? กับงาน "Unlocking Product Insights" [mikkipastel.com]
