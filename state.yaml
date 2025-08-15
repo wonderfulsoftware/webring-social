@@ -20278,6 +20278,32 @@
     url: https://www.mikkipastel.com/technologista-international-womens-day-bangkok-2025/
   state:
     shortLink: https://link.webring.in.th/2475
+8b3eff62ddce55ed4b66e12b8e5c2eb6:bluesky:
+  spec:
+    title: มาดู feature ใหม่ ๆ ใน Java 25 [somkiat.cc]
+    url: https://www.somkiat.cc/java-25/
+  state:
+    cid: bafyreibfn75inij76ku7cywepzacdun26jgzjzpqao5uszd5d76re6o72u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwg7nviybe2i
+8b3eff62ddce55ed4b66e12b8e5c2eb6:facebook:
+  spec:
+    title: มาดู feature ใหม่ ๆ ใน Java 25 [somkiat.cc]
+    url: https://www.somkiat.cc/java-25/
+  state:
+    id: '100746876247412_746426545013257'
+    url: https://www.facebook.com/100683012920950/posts/746426545013257
+8b3eff62ddce55ed4b66e12b8e5c2eb6:mastodon:
+  spec:
+    title: มาดู feature ใหม่ ๆ ใน Java 25 [somkiat.cc]
+    url: https://www.somkiat.cc/java-25/
+  state:
+    id: '115031336515452911'
+    url: https://mastodon.in.th/@webring/115031336515452911
+8b3eff62ddce55ed4b66e12b8e5c2eb6:shorturl:
+  spec:
+    url: https://www.somkiat.cc/java-25/
+  state:
+    shortLink: https://link.webring.in.th/2711
 8babbbc0b10abcb53c2b5cd0fabd36ae:facebook:
   spec:
     title: 'A Networking God Tale: All I Want is to Run a Speedtest Behind a Firewall [karnwong.me]'
