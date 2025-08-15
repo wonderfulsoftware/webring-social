@@ -20188,6 +20188,32 @@
     url: https://www.somkiat.cc/database-sql-or-orm/
   state:
     shortLink: https://webring.page.link/YHo1
+8aca6867c1af5433a015627c6b74f285:bluesky:
+  spec:
+    title: HTTP Status และ ResponseEntity ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/http-status-%e0%b9%81%e0%b8%a5%e0%b8%b0-responseentity-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    cid: bafyreiaf4uk55fpt3lgiif5cnt6g3b2lhqhkhghoj5zrqo3zwlxh2xpj4e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwfx5ck2nx2g
+8aca6867c1af5433a015627c6b74f285:facebook:
+  spec:
+    title: HTTP Status และ ResponseEntity ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/http-status-%e0%b9%81%e0%b8%a5%e0%b8%b0-responseentity-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    id: '100746876247412_746337038355541'
+    url: https://www.facebook.com/100683012920950/posts/746337038355541
+8aca6867c1af5433a015627c6b74f285:mastodon:
+  spec:
+    title: HTTP Status และ ResponseEntity ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/http-status-%e0%b9%81%e0%b8%a5%e0%b8%b0-responseentity-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    id: '115030737033166778'
+    url: https://mastodon.in.th/@webring/115030737033166778
+8aca6867c1af5433a015627c6b74f285:shorturl:
+  spec:
+    url: https://www.poolsawat.com/http-status-%e0%b9%81%e0%b8%a5%e0%b8%b0-responseentity-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    shortLink: https://link.webring.in.th/2710
 8ad23d67bedef65ab07d18d65512b4ae:facebook:
   spec:
     title: ใช้งาน PostgreSQL สำหรับการทดสอบ ใน Spring Boot [somkiat.cc]
