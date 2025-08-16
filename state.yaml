@@ -16020,6 +16020,32 @@
     url: https://www.somkiat.cc/playwright-with-clock-api/
   state:
     shortLink: https://link.webring.in.th/2007
+71756c41013ec2d7967498d36b815938:bluesky:
+  spec:
+    title: มาลองใช้ GitHub Copilot ในส่วนของ Pull Request (PR) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/github-copilot-pull-request-first-time/
+  state:
+    cid: bafyreiefvn5qlk622rwkuzdtntrhdh6uhrgtjip7hqqn5hbmzqiip5dzru
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwjehz46kj2w
+71756c41013ec2d7967498d36b815938:facebook:
+  spec:
+    title: มาลองใช้ GitHub Copilot ในส่วนของ Pull Request (PR) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/github-copilot-pull-request-first-time/
+  state:
+    id: '100746876247412_747492684906643'
+    url: https://www.facebook.com/100683012920950/posts/747492684906643
+71756c41013ec2d7967498d36b815938:mastodon:
+  spec:
+    title: มาลองใช้ GitHub Copilot ในส่วนของ Pull Request (PR) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/github-copilot-pull-request-first-time/
+  state:
+    id: '115038430893625770'
+    url: https://mastodon.in.th/@webring/115038430893625770
+71756c41013ec2d7967498d36b815938:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/08/github-copilot-pull-request-first-time/
+  state:
+    shortLink: https://link.webring.in.th/2715
 71864f03d756807268ceb95dfb1b9f5e:facebook:
   spec:
     title: สรุปจากการอ่านบทความเรื่อง Redesigning Pinterest’s Ad Serving Systems with Zero Downtime [somkiat.cc]
