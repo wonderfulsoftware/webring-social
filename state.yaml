@@ -16594,6 +16594,32 @@
     url: https://www.mikkipastel.com/my-bio-website-by-glitch-in-bio/
   state:
     shortLink: https://webring.page.link/M6zS
+762bd917f117a651d593e83f75924c5e:bluesky:
+  spec:
+    title: ใช้ WebClient แทน RestTemplate อย่างไร [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%83%e0%b8%8a%e0%b9%89-webclient-%e0%b9%81%e0%b8%97%e0%b8%99-resttemplate-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/
+  state:
+    cid: bafyreiavqp4ija62lzwvswnb4fnyi6ydsrogoqyjcsiq2x2nq45mg2zouu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwipyplqie2p
+762bd917f117a651d593e83f75924c5e:facebook:
+  spec:
+    title: ใช้ WebClient แทน RestTemplate อย่างไร [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%83%e0%b8%8a%e0%b9%89-webclient-%e0%b9%81%e0%b8%97%e0%b8%99-resttemplate-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/
+  state:
+    id: '100746876247412_747258551596723'
+    url: https://www.facebook.com/100683012920950/posts/747258551596723
+762bd917f117a651d593e83f75924c5e:mastodon:
+  spec:
+    title: ใช้ WebClient แทน RestTemplate อย่างไร [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%83%e0%b8%8a%e0%b9%89-webclient-%e0%b9%81%e0%b8%97%e0%b8%99-resttemplate-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/
+  state:
+    id: '115036989355267666'
+    url: https://mastodon.in.th/@webring/115036989355267666
+762bd917f117a651d593e83f75924c5e:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b9%83%e0%b8%8a%e0%b9%89-webclient-%e0%b9%81%e0%b8%97%e0%b8%99-resttemplate-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/
+  state:
+    shortLink: https://link.webring.in.th/2713
 76454586560dead3b0cf54ea058c6474:facebook:
   spec:
     title: Movement, group, and torus [neizod.dev]
