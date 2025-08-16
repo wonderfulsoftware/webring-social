@@ -10015,6 +10015,32 @@
     url: https://www.mikkipastel.com/th-compose-camp-first-half/
   state:
     shortLink: https://webring.page.link/YpiY
+4a7d1367412749d486d69b01494a7fc7:bluesky:
+  spec:
+    title: 'หารนะ MINI: เว็บช่วยหารค่าอาหาร Grab, LINE MAN และเดลิเวอรี [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/hannah-mini
+  state:
+    cid: bafyreidmad5iswu5fwiweek6rx3fzr4pzbht5lur5wma6cxyg4kdlbxkea
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwih7zkomy26
+4a7d1367412749d486d69b01494a7fc7:facebook:
+  spec:
+    title: 'หารนะ MINI: เว็บช่วยหารค่าอาหาร Grab, LINE MAN และเดลิเวอรี [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/hannah-mini
+  state:
+    id: '100746876247412_747169111605667'
+    url: https://www.facebook.com/100683012920950/posts/747169111605667
+4a7d1367412749d486d69b01494a7fc7:mastodon:
+  spec:
+    title: 'หารนะ MINI: เว็บช่วยหารค่าอาหาร Grab, LINE MAN และเดลิเวอรี [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/hannah-mini
+  state:
+    id: '115036371715024734'
+    url: https://mastodon.in.th/@webring/115036371715024734
+4a7d1367412749d486d69b01494a7fc7:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/hannah-mini
+  state:
+    shortLink: https://link.webring.in.th/2712
 4a8e1f5a13736045ed051f0e23303230:facebook:
   spec:
     title: เปิดประสบการณ์ใหม่ กับงานเทคในโรงหนัง กับ Google IO Extended 2023 [mikkipastel.com]
