@@ -30477,6 +30477,32 @@ d3c60a81134e9b5a6b40422a669d3582:shorturl:
     url: https://www.somkiat.cc/why-database-slow/
   state:
     shortLink: https://link.webring.in.th/2399
+d3ef6475c6b0815afe83972f631cb1db:bluesky:
+  spec:
+    title: ทาง Google ปล่อย Gemma 3 270M เป็น model ขนาดเล็กใช้ RAM เพียง 500 MB เท่านั้น [somkiat.cc]
+    url: https://www.somkiat.cc/gemma-3-270m/
+  state:
+    cid: bafyreih3xslpd7ki3cgoxpgscgssawoealbny2s2gzwomju6elbscgcaya
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwizqekpoh2o
+d3ef6475c6b0815afe83972f631cb1db:facebook:
+  spec:
+    title: ทาง Google ปล่อย Gemma 3 270M เป็น model ขนาดเล็กใช้ RAM เพียง 500 MB เท่านั้น [somkiat.cc]
+    url: https://www.somkiat.cc/gemma-3-270m/
+  state:
+    id: '100746876247412_747356794920232'
+    url: https://www.facebook.com/100683012920950/posts/747356794920232
+d3ef6475c6b0815afe83972f631cb1db:mastodon:
+  spec:
+    title: ทาง Google ปล่อย Gemma 3 270M เป็น model ขนาดเล็กใช้ RAM เพียง 500 MB เท่านั้น [somkiat.cc]
+    url: https://www.somkiat.cc/gemma-3-270m/
+  state:
+    id: '115037674970855406'
+    url: https://mastodon.in.th/@webring/115037674970855406
+d3ef6475c6b0815afe83972f631cb1db:shorturl:
+  spec:
+    url: https://www.somkiat.cc/gemma-3-270m/
+  state:
+    shortLink: https://link.webring.in.th/2714
 d40ad8b3ea627e5c21411eb46ba2c158:bluesky:
   spec:
     title: รู้จักกับ Drizzle ORM ผ่าน Next.js [mikelopster.dev]
