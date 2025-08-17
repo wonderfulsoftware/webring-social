@@ -2719,6 +2719,32 @@
     url: https://www.somkiat.cc/note-from-sharing-automated-test/
   state:
     shortLink: https://webring.page.link/JPwN
+14609821a188c6ee2103603ad1ea041f:bluesky:
+  spec:
+    title: Error Handling ใน Spring WebFlux ด้วย Functional Approach [poolsawat.com]
+    url: https://www.poolsawat.com/error-handling-%e0%b9%83%e0%b8%99-spring-webflux-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-functional-approach/
+  state:
+    cid: bafyreibd7u57igkxwq4ftm7ln4x3jxndlbl4basvype2tzlxogddnb2x4e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwlais7lpp2p
+14609821a188c6ee2103603ad1ea041f:facebook:
+  spec:
+    title: Error Handling ใน Spring WebFlux ด้วย Functional Approach [poolsawat.com]
+    url: https://www.poolsawat.com/error-handling-%e0%b9%83%e0%b8%99-spring-webflux-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-functional-approach/
+  state:
+    id: '100746876247412_748117784844133'
+    url: https://www.facebook.com/100683012920950/posts/748117784844133
+14609821a188c6ee2103603ad1ea041f:mastodon:
+  spec:
+    title: Error Handling ใน Spring WebFlux ด้วย Functional Approach [poolsawat.com]
+    url: https://www.poolsawat.com/error-handling-%e0%b9%83%e0%b8%99-spring-webflux-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-functional-approach/
+  state:
+    id: '115042654654232168'
+    url: https://mastodon.in.th/@webring/115042654654232168
+14609821a188c6ee2103603ad1ea041f:shorturl:
+  spec:
+    url: https://www.poolsawat.com/error-handling-%e0%b9%83%e0%b8%99-spring-webflux-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-functional-approach/
+  state:
+    shortLink: https://link.webring.in.th/2717
 147f58ef6a5d7a13cce45ccf263b2183:facebook:
   spec:
     title: สรุปจาก Bangkok Elastic Meetup 2023 [somkiat.cc]
