@@ -13125,6 +13125,32 @@
     url: https://www.somkiat.cc/note-microservices-sharing-at-skooldio-13/
   state:
     shortLink: https://webring.page.link/hukJ
+5f9cd4cd7dc06a46eb579da6f689f257:bluesky:
+  spec:
+    title: มาลองใช้ Obsidian คู่กับ Astro กันเถอะ! [blog.luckytime1996.dev]
+    url: https://blog.luckytime1996.dev/blog/9-how-to-use-obsidian-with-astro/
+  state:
+    cid: bafyreibqag464tnrwn2upxzjwlysmoxrtrwi4ltygfkhozmyl5uwyschmm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwkya5djkp2f
+5f9cd4cd7dc06a46eb579da6f689f257:facebook:
+  spec:
+    title: มาลองใช้ Obsidian คู่กับ Astro กันเถอะ! [blog.luckytime1996.dev]
+    url: https://blog.luckytime1996.dev/blog/9-how-to-use-obsidian-with-astro/
+  state:
+    id: '100746876247412_748014834854428'
+    url: https://www.facebook.com/100683012920950/posts/748014834854428
+5f9cd4cd7dc06a46eb579da6f689f257:mastodon:
+  spec:
+    title: มาลองใช้ Obsidian คู่กับ Astro กันเถอะ! [blog.luckytime1996.dev]
+    url: https://blog.luckytime1996.dev/blog/9-how-to-use-obsidian-with-astro/
+  state:
+    id: '115042072693037307'
+    url: https://mastodon.in.th/@webring/115042072693037307
+5f9cd4cd7dc06a46eb579da6f689f257:shorturl:
+  spec:
+    url: https://blog.luckytime1996.dev/blog/9-how-to-use-obsidian-with-astro/
+  state:
+    shortLink: https://link.webring.in.th/2716
 5fa036d23bd8b34dcf0b9855c36d16cb:facebook:
   spec:
     title: หนึ่งปีที่ผ่านมาใน Netherlands [llun.me]
