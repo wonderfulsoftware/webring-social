@@ -24661,6 +24661,32 @@ aa7aa255be538e3afefbd5f6cfa87b8f:shorturl:
     url: https://www.somkiat.cc/hello-docling/
   state:
     shortLink: https://link.webring.in.th/2595
+aa90a1b269352ecce7039358f5a4d9ef:bluesky:
+  spec:
+    title: Patchies - Patch Ideas from Amazing Humans [poom.dev]
+    url: https://poom.dev/patchies-amazing-humans/
+  state:
+    cid: bafyreian3xfvo7wcphr6ynygpyxi3aq7fjey32pc75aozaf74zrlbnakui
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwo2y2c3x22y
+aa90a1b269352ecce7039358f5a4d9ef:facebook:
+  spec:
+    title: Patchies - Patch Ideas from Amazing Humans [poom.dev]
+    url: https://poom.dev/patchies-amazing-humans/
+  state:
+    id: '100746876247412_749038211418757'
+    url: https://www.facebook.com/100683012920950/posts/749038211418757
+aa90a1b269352ecce7039358f5a4d9ef:mastodon:
+  spec:
+    title: Patchies - Patch Ideas from Amazing Humans [poom.dev]
+    url: https://poom.dev/patchies-amazing-humans/
+  state:
+    id: '115049021334040082'
+    url: https://mastodon.in.th/@webring/115049021334040082
+aa90a1b269352ecce7039358f5a4d9ef:shorturl:
+  spec:
+    url: https://poom.dev/patchies-amazing-humans/
+  state:
+    shortLink: https://link.webring.in.th/2720
 aa94f3b86876c23634db63090b052804:facebook:
   spec:
     title: Integrating EDA with Legacy systems [boonsong.dev]
