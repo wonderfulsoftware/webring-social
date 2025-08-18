@@ -28502,6 +28502,32 @@ c5358b1399a3c3894e1e2a9737733317:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/06/az-104-deploy-and-manage-azure-compute-resources/
   state:
     shortLink: https://link.webring.in.th/1966
+c558a52d3cb339ce49af063a40284efa:bluesky:
+  spec:
+    title: การจัดการ Timeout และ Retry ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-timeout-%e0%b9%81%e0%b8%a5%e0%b8%b0-retry-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    cid: bafyreicqwyski6jgefqlyaopntm2mvbq5zzhbainr3eb5l7wa7dqk6mb44
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwnr5utsff26
+c558a52d3cb339ce49af063a40284efa:facebook:
+  spec:
+    title: การจัดการ Timeout และ Retry ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-timeout-%e0%b9%81%e0%b8%a5%e0%b8%b0-retry-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    id: '100746876247412_748944494761462'
+    url: https://www.facebook.com/100683012920950/posts/748944494761462
+c558a52d3cb339ce49af063a40284efa:mastodon:
+  spec:
+    title: การจัดการ Timeout และ Retry ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-timeout-%e0%b9%81%e0%b8%a5%e0%b8%b0-retry-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    id: '115048330446778776'
+    url: https://mastodon.in.th/@webring/115048330446778776
+c558a52d3cb339ce49af063a40284efa:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-timeout-%e0%b9%81%e0%b8%a5%e0%b8%b0-retry-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    shortLink: https://link.webring.in.th/2719
 c56e5547bb9ae969baa17ee2f8911eda:facebook:
   spec:
     title: 'How to Fixed: Feature ‘raw string literals’ is not available. Please use language version 11.0 or greater [debuggingsoft.com]'
