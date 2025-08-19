@@ -29694,6 +29694,32 @@ cd58f7521350b697b0e61720ccf7fde9:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/01/sqlite-data-type/
   state:
     shortLink: https://link.webring.in.th/2366
+cd5d8b9b683023b50a79dbf11a43c3c2:bluesky:
+  spec:
+    title: เตรียมความพร้อมกับ Spring Boot 4 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-4/
+  state:
+    cid: bafyreihfrrbzzmqt7skq3qvuupcq3iduj2m5nfbpil2cjek3lyjlz3pqyy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwql6dzojh2n
+cd5d8b9b683023b50a79dbf11a43c3c2:facebook:
+  spec:
+    title: เตรียมความพร้อมกับ Spring Boot 4 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-4/
+  state:
+    id: '100746876247412_749864161336162'
+    url: https://www.facebook.com/100683012920950/posts/749864161336162
+cd5d8b9b683023b50a79dbf11a43c3c2:mastodon:
+  spec:
+    title: เตรียมความพร้อมกับ Spring Boot 4 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-4/
+  state:
+    id: '115054664715269545'
+    url: https://mastodon.in.th/@webring/115054664715269545
+cd5d8b9b683023b50a79dbf11a43c3c2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/spring-boot-4/
+  state:
+    shortLink: https://link.webring.in.th/2723
 cd681895875b13da5ecd82d625bb4620:facebook:
   spec:
     title: สภาพแวดล้อมที่เหมาะสม [tech.duckfollow.co]
