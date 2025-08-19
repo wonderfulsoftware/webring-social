@@ -33255,6 +33255,32 @@ e829e9aa5d52601c3293f4226d2a86c3:shorturl:
     url: https://www.somkiat.cc/hello-grafana-beyla/
   state:
     shortLink: https://link.webring.in.th/2077
+e846890df3a0cf0ff4c28f0b0ff75850:bluesky:
+  spec:
+    title: 'อยู่ๆ Jenkins Agents ฟ้อง Error MSB3554: Cannot write to the output file [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/jenkins-agents-suddenly-error-msb3554-cannot-write-to-the-output-fileerror-msb3554-cannot-write-to-the-output-file/
+  state:
+    cid: bafyreifkx2cmsw4cbkawtj2kjbjcfhtgjlwwtw5lxqsps4jdksm6h7azuy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwqbhyaanb2i
+e846890df3a0cf0ff4c28f0b0ff75850:facebook:
+  spec:
+    title: 'อยู่ๆ Jenkins Agents ฟ้อง Error MSB3554: Cannot write to the output file [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/jenkins-agents-suddenly-error-msb3554-cannot-write-to-the-output-fileerror-msb3554-cannot-write-to-the-output-file/
+  state:
+    id: '100746876247412_749771531345425'
+    url: https://www.facebook.com/100683012920950/posts/749771531345425
+e846890df3a0cf0ff4c28f0b0ff75850:mastodon:
+  spec:
+    title: 'อยู่ๆ Jenkins Agents ฟ้อง Error MSB3554: Cannot write to the output file [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/jenkins-agents-suddenly-error-msb3554-cannot-write-to-the-output-fileerror-msb3554-cannot-write-to-the-output-file/
+  state:
+    id: '115053981905548066'
+    url: https://mastodon.in.th/@webring/115053981905548066
+e846890df3a0cf0ff4c28f0b0ff75850:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/08/jenkins-agents-suddenly-error-msb3554-cannot-write-to-the-output-fileerror-msb3554-cannot-write-to-the-output-file/
+  state:
+    shortLink: https://link.webring.in.th/2722
 e87f7ac5a02d4bbed04e8a59181a3919:bluesky:
   spec:
     title: มาสักทีกับ Grafana K6 version 1.0 [somkiat.cc]
