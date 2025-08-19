@@ -10349,6 +10349,32 @@
     url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b3-static-code-analysis-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-sonarqube/
   state:
     shortLink: https://link.webring.in.th/2628
+4c37b3bf662e42936bfa527f45484e22:bluesky:
+  spec:
+    title: Context Propagation และ MDC ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/context-propagation-%e0%b9%81%e0%b8%a5%e0%b8%b0-mdc-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    cid: bafyreid6r2t3dzqejpzok7yigy557cr2kfkc5iftenc2ha3txxuw35hkuq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwpyfeutmu2w
+4c37b3bf662e42936bfa527f45484e22:facebook:
+  spec:
+    title: Context Propagation และ MDC ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/context-propagation-%e0%b9%81%e0%b8%a5%e0%b8%b0-mdc-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    id: '100746876247412_749688151353763'
+    url: https://www.facebook.com/100683012920950/posts/749688151353763
+4c37b3bf662e42936bfa527f45484e22:mastodon:
+  spec:
+    title: Context Propagation และ MDC ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/context-propagation-%e0%b9%81%e0%b8%a5%e0%b8%b0-mdc-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    id: '115053343215117945'
+    url: https://mastodon.in.th/@webring/115053343215117945
+4c37b3bf662e42936bfa527f45484e22:shorturl:
+  spec:
+    url: https://www.poolsawat.com/context-propagation-%e0%b9%81%e0%b8%a5%e0%b8%b0-mdc-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    shortLink: https://link.webring.in.th/2721
 4c44c7e07574f596c5d3e9d156fdb0a9:bluesky:
   spec:
     title: ว่าง ๆ ลองสร้างเอกสารจาก code กันดู ด้วย Pocket Flow [somkiat.cc]
