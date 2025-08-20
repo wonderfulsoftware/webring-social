@@ -22110,6 +22110,32 @@
     url: https://blog.ninprd.com/blog/first-abroad-alone-in-taipei/
   state:
     shortLink: https://link.webring.in.th/1852
+966785c528427933076c4c8c80644e81:bluesky:
+  spec:
+    title: 'Fixed PackExcelAddIn error DNA-818471385: Exception: System.IO.FileLoadException: Could not load file or assembly Microsoft.Bcl.AsyncInterfaces [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/fixed-packexceladdin-error-dna-818471385-exception-system-io-fileloadexception-could-not-load-file-or-assembly-microsoft-bcl-asyncinterfaces/
+  state:
+    cid: bafyreicf4kiteigk4ljccy5sgfodlncwucbjchkb4tetrnpwvmg5wwkyau
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwsrwuyxst26
+966785c528427933076c4c8c80644e81:facebook:
+  spec:
+    title: 'Fixed PackExcelAddIn error DNA-818471385: Exception: System.IO.FileLoadException: Could not load file or assembly Microsoft.Bcl.AsyncInterfaces [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/fixed-packexceladdin-error-dna-818471385-exception-system-io-fileloadexception-could-not-load-file-or-assembly-microsoft-bcl-asyncinterfaces/
+  state:
+    id: '100746876247412_750576754598236'
+    url: https://www.facebook.com/100683012920950/posts/750576754598236
+966785c528427933076c4c8c80644e81:mastodon:
+  spec:
+    title: 'Fixed PackExcelAddIn error DNA-818471385: Exception: System.IO.FileLoadException: Could not load file or assembly Microsoft.Bcl.AsyncInterfaces [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/fixed-packexceladdin-error-dna-818471385-exception-system-io-fileloadexception-could-not-load-file-or-assembly-microsoft-bcl-asyncinterfaces/
+  state:
+    id: '115059644505077198'
+    url: https://mastodon.in.th/@webring/115059644505077198
+966785c528427933076c4c8c80644e81:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/08/fixed-packexceladdin-error-dna-818471385-exception-system-io-fileloadexception-could-not-load-file-or-assembly-microsoft-bcl-asyncinterfaces/
+  state:
+    shortLink: https://link.webring.in.th/2725
 969682a3757802e9fd0edffeed4362bd:facebook:
   spec:
     title: สวัสดี Hurl ใช้สำหรับ API testing [somkiat.cc]
