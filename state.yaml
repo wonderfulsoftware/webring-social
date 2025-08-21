@@ -24066,6 +24066,32 @@ a5e95a7c62b3201292a1835d93df8dbc:shorturl:
     url: https://www.poolsawat.com/webflux-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%88%e0%b8%b2%e0%b8%81-spring-mvc-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87/
   state:
     shortLink: https://link.webring.in.th/2695
+a5ef55b29026ad8e9ea40229d96a7cde:bluesky:
+  spec:
+    title: การเขียน Test ให้กับ WebFlux Controller [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99-test-%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%81%e0%b8%b1%e0%b8%9a-webflux-controller/
+  state:
+    cid: bafyreifqi7mescjoqgquwuxjmxn663ia5b5hrc4t24mhh3lznxtek5tw5i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwuz7yt57u2p
+a5ef55b29026ad8e9ea40229d96a7cde:facebook:
+  spec:
+    title: การเขียน Test ให้กับ WebFlux Controller [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99-test-%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%81%e0%b8%b1%e0%b8%9a-webflux-controller/
+  state:
+    id: '100746876247412_751290564526855'
+    url: https://www.facebook.com/100683012920950/posts/751290564526855
+a5ef55b29026ad8e9ea40229d96a7cde:mastodon:
+  spec:
+    title: การเขียน Test ให้กับ WebFlux Controller [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99-test-%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%81%e0%b8%b1%e0%b8%9a-webflux-controller/
+  state:
+    id: '115064660616892035'
+    url: https://mastodon.in.th/@webring/115064660616892035
+a5ef55b29026ad8e9ea40229d96a7cde:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99-test-%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%81%e0%b8%b1%e0%b8%9a-webflux-controller/
+  state:
+    shortLink: https://link.webring.in.th/2726
 a5f43ba40dfecb2178a9a61737e2731c:bluesky:
   spec:
     title: '[AZ-305] Build great solutions with the Microsoft Azure Well-Architected Framework [debuggingsoft.com]'
