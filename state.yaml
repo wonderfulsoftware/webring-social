@@ -14187,6 +14187,32 @@
     url: https://www.poolsawat.com/mvc-vs-mvvm-vs-mvp-%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b9%83%e0%b8%8a%e0%b9%89-architecture-%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b9%84%e0%b8%ab%e0%b8%99%e0%b8%94%e0%b8%b5/
   state:
     shortLink: https://link.webring.in.th/2672
+646c5b009443b38d1ac597bba0521e11:bluesky:
+  spec:
+    title: .NET Meetup Thailand Aug 2025 @Seven Peaks Software [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/dotnet-meetup-thailand-aug-2025/
+  state:
+    cid: bafyreignbiwyfzr5utwihnklg7heyfs7552qwcynrykxxnhpyofmh7x4cm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwvm4j4xkv2n
+646c5b009443b38d1ac597bba0521e11:facebook:
+  spec:
+    title: .NET Meetup Thailand Aug 2025 @Seven Peaks Software [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/dotnet-meetup-thailand-aug-2025/
+  state:
+    id: '100746876247412_751466131175965'
+    url: https://www.facebook.com/100683012920950/posts/751466131175965
+646c5b009443b38d1ac597bba0521e11:mastodon:
+  spec:
+    title: .NET Meetup Thailand Aug 2025 @Seven Peaks Software [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/dotnet-meetup-thailand-aug-2025/
+  state:
+    id: '115065990043944437'
+    url: https://mastodon.in.th/@webring/115065990043944437
+646c5b009443b38d1ac597bba0521e11:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/08/dotnet-meetup-thailand-aug-2025/
+  state:
+    shortLink: https://link.webring.in.th/2728
 64a51a009e1b321846901e37c31baadb:bluesky:
   spec:
     title: Acrylic Stand - Stargazer 2025 🌃 [lucian.solutions]
