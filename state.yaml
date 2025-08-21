@@ -18554,6 +18554,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/09/dotnet-graphql-net8-with-hotchocolate-library-part2-mutation-with-tidb/
   state:
     shortLink: https://link.webring.in.th/2111
+805583956b390b25666b00bca379aab4:bluesky:
+  spec:
+    title: มาใช้งาน Node Version Manager Desktop [somkiat.cc]
+    url: https://www.somkiat.cc/node-version-manager-desktop/
+  state:
+    cid: bafyreibxbkzjisjcbnnxi6k7ur5anngd7gbnmfrk7nan6m2ab3sy22egey
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwvcwx2zqr2o
+805583956b390b25666b00bca379aab4:facebook:
+  spec:
+    title: มาใช้งาน Node Version Manager Desktop [somkiat.cc]
+    url: https://www.somkiat.cc/node-version-manager-desktop/
+  state:
+    id: '100746876247412_751380244517887'
+    url: https://www.facebook.com/100683012920950/posts/751380244517887
+805583956b390b25666b00bca379aab4:mastodon:
+  spec:
+    title: มาใช้งาน Node Version Manager Desktop [somkiat.cc]
+    url: https://www.somkiat.cc/node-version-manager-desktop/
+  state:
+    id: '115065344483738247'
+    url: https://mastodon.in.th/@webring/115065344483738247
+805583956b390b25666b00bca379aab4:shorturl:
+  spec:
+    url: https://www.somkiat.cc/node-version-manager-desktop/
+  state:
+    shortLink: https://link.webring.in.th/2727
 8057ca8dfc31aae5cc0187e4e24b3ba9:facebook:
   spec:
     title: Using Apache Iceberg to reduce data lake operations overhead [karnwong.me]
