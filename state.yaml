@@ -27112,6 +27112,32 @@ b9e46c4a2f8550e14a6fe11fba4be49d:shorturl:
     url: https://ntsd.dev/secure-home-server-by-cloudflare-zero-trust-and-tunnel/
   state:
     shortLink: https://link.webring.in.th/2052
+ba36354e787c0fca879a83f6023d9216:bluesky:
+  spec:
+    title: การใช้งาน Filter และ Interceptor ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-filter-%e0%b9%81%e0%b8%a5%e0%b8%b0-interceptor-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    cid: bafyreibslzdw5p445re4xc3wml6ct5ipptezxk7gdnivwgcdb372ibl5ii
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwxjq4usoo2g
+ba36354e787c0fca879a83f6023d9216:facebook:
+  spec:
+    title: การใช้งาน Filter และ Interceptor ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-filter-%e0%b9%81%e0%b8%a5%e0%b8%b0-interceptor-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    id: '100746876247412_752126941109884'
+    url: https://www.facebook.com/100683012920950/posts/752126941109884
+ba36354e787c0fca879a83f6023d9216:mastodon:
+  spec:
+    title: การใช้งาน Filter และ Interceptor ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-filter-%e0%b9%81%e0%b8%a5%e0%b8%b0-interceptor-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    id: '115070325474327976'
+    url: https://mastodon.in.th/@webring/115070325474327976
+ba36354e787c0fca879a83f6023d9216:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-filter-%e0%b9%81%e0%b8%a5%e0%b8%b0-interceptor-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    shortLink: https://link.webring.in.th/2729
 ba6e89eed9cfacea1b7ea04b5707cdc4:facebook:
   spec:
     title: '[C#] Array Spread [debuggingsoft.com]'
