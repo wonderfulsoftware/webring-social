@@ -7978,6 +7978,32 @@
     url: https://kajame.xyz/blog/ssh-with-host
   state:
     shortLink: https://webring.page.link/B5Pu
+39978aac8b6f43e66e67c4630e2e8cc7:bluesky:
+  spec:
+    title: ลองใช้ Locale Emulator สำหรับ App เก่าๆที่ต้องการ Locale เป็นพิเศษ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/use-locale-emulator-for-legacy-app/
+  state:
+    cid: bafyreih7y7vgdiwstblrsp3f6lw6sqjhiquxqs64waaonyhtomlrzyjo3u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lx2d7bpztg2g
+39978aac8b6f43e66e67c4630e2e8cc7:facebook:
+  spec:
+    title: ลองใช้ Locale Emulator สำหรับ App เก่าๆที่ต้องการ Locale เป็นพิเศษ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/use-locale-emulator-for-legacy-app/
+  state:
+    id: '100746876247412_753017814354130'
+    url: https://www.facebook.com/100683012920950/posts/753017814354130
+39978aac8b6f43e66e67c4630e2e8cc7:mastodon:
+  spec:
+    title: ลองใช้ Locale Emulator สำหรับ App เก่าๆที่ต้องการ Locale เป็นพิเศษ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/use-locale-emulator-for-legacy-app/
+  state:
+    id: '115076621689826797'
+    url: https://mastodon.in.th/@webring/115076621689826797
+39978aac8b6f43e66e67c4630e2e8cc7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/08/use-locale-emulator-for-legacy-app/
+  state:
+    shortLink: https://link.webring.in.th/2731
 39c8b7672c846d8654aed5ca06b78122:facebook:
   spec:
     title: มางาน Apetimism 1st Anniversary แล้วได้อะไรบ้าง? [mikkipastel.com]
