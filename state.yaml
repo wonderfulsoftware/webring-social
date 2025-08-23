@@ -29959,6 +29959,32 @@ cdd4e6d11a1eea1d0484785081befc37:shorturl:
     url: https://www.somkiat.cc/postman-with-api-performance-testing/
   state:
     shortLink: https://webring.page.link/jXJD
+cde1cf57d7d818499520a02a741b631c:bluesky:
+  spec:
+    title: การตั้งค่า CORS และ Security เบื้องต้นใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%84%e0%b9%88%e0%b8%b2-cors-%e0%b9%81%e0%b8%a5%e0%b8%b0-security-%e0%b9%80%e0%b8%9a%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95/
+  state:
+    cid: bafyreichh4y6e4yglo22cn3hchjvnrggqzkhv234ejouuemtebyk7iqzfa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lwzzurg4vl2w
+cde1cf57d7d818499520a02a741b631c:facebook:
+  spec:
+    title: การตั้งค่า CORS และ Security เบื้องต้นใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%84%e0%b9%88%e0%b8%b2-cors-%e0%b9%81%e0%b8%a5%e0%b8%b0-security-%e0%b9%80%e0%b8%9a%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95/
+  state:
+    id: '100746876247412_752930031029575'
+    url: https://www.facebook.com/100683012920950/posts/752930031029575
+cde1cf57d7d818499520a02a741b631c:mastodon:
+  spec:
+    title: การตั้งค่า CORS และ Security เบื้องต้นใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%84%e0%b9%88%e0%b8%b2-cors-%e0%b9%81%e0%b8%a5%e0%b8%b0-security-%e0%b9%80%e0%b8%9a%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95/
+  state:
+    id: '115075965323930972'
+    url: https://mastodon.in.th/@webring/115075965323930972
+cde1cf57d7d818499520a02a741b631c:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%84%e0%b9%88%e0%b8%b2-cors-%e0%b9%81%e0%b8%a5%e0%b8%b0-security-%e0%b9%80%e0%b8%9a%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95/
+  state:
+    shortLink: https://link.webring.in.th/2730
 ce06de73e3209c44a60c731ffb955d09:facebook:
   spec:
     title: ทำความรู้จักกับ Kamal หรือ MRSK ของ 37Signals [somkiat.cc]
