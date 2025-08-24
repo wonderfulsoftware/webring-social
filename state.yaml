@@ -33363,6 +33363,32 @@ e6e6490ab81ce963083760091dd30b46:shorturl:
     url: https://www.somkiat.cc/project-crac-with-spring-framework/
   state:
     shortLink: https://webring.page.link/e8Ge
+e6f0d554b707aecadf4454cf94de988d:bluesky:
+  spec:
+    title: ลอง N8N ให้ AI สรุป devblogs.microsoft แล้วดันไม่มีข่าวอะไร ?? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/n8n-automation-ai-powered-microsoft-devblog-summarization-returns-empty-thai-ver/
+  state:
+    cid: bafyreia26ykyup73bvng24gia6mezk5ye42ccj3utogxpqtm6nkscnh534
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lx4tq23rrv26
+e6f0d554b707aecadf4454cf94de988d:facebook:
+  spec:
+    title: ลอง N8N ให้ AI สรุป devblogs.microsoft แล้วดันไม่มีข่าวอะไร ?? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/n8n-automation-ai-powered-microsoft-devblog-summarization-returns-empty-thai-ver/
+  state:
+    id: '100746876247412_753817180940860'
+    url: https://www.facebook.com/100683012920950/posts/753817180940860
+e6f0d554b707aecadf4454cf94de988d:mastodon:
+  spec:
+    title: ลอง N8N ให้ AI สรุป devblogs.microsoft แล้วดันไม่มีข่าวอะไร ?? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/n8n-automation-ai-powered-microsoft-devblog-summarization-returns-empty-thai-ver/
+  state:
+    id: '115082288241697315'
+    url: https://mastodon.in.th/@webring/115082288241697315
+e6f0d554b707aecadf4454cf94de988d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/08/n8n-automation-ai-powered-microsoft-devblog-summarization-returns-empty-thai-ver/
+  state:
+    shortLink: https://link.webring.in.th/2733
 e708470a2975e5b696cd986ace5b9348:facebook:
   spec:
     title: สรุปจากงาน LINE Conference Thailand 2023 (LCT23) [somkiat.cc]
