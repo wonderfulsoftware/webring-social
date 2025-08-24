@@ -4960,6 +4960,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/07/i-have-received-a-computer-from-the-company-in-almost-9-years/
   state:
     shortLink: https://link.webring.in.th/2043
+23cd1dcacd90c1bcd066b8ce5f435e59:bluesky:
+  spec:
+    title: การจัดการ Backpressure ใน Spring WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-backpressure-%e0%b9%83%e0%b8%99-spring-webflux/
+  state:
+    cid: bafyreid5p77cmphwlni3kl3uvrnp7r4sownufej6y3y2qz2zcuw4chaaai
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lx4l2nvn2o26
+23cd1dcacd90c1bcd066b8ce5f435e59:facebook:
+  spec:
+    title: การจัดการ Backpressure ใน Spring WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-backpressure-%e0%b9%83%e0%b8%99-spring-webflux/
+  state:
+    id: '100746876247412_753732154282696'
+    url: https://www.facebook.com/100683012920950/posts/753732154282696
+23cd1dcacd90c1bcd066b8ce5f435e59:mastodon:
+  spec:
+    title: การจัดการ Backpressure ใน Spring WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-backpressure-%e0%b9%83%e0%b8%99-spring-webflux/
+  state:
+    id: '115081677931321945'
+    url: https://mastodon.in.th/@webring/115081677931321945
+23cd1dcacd90c1bcd066b8ce5f435e59:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-backpressure-%e0%b9%83%e0%b8%99-spring-webflux/
+  state:
+    shortLink: https://link.webring.in.th/2732
 23f42859595eb63edbe22fa6cc779fe1:bluesky:
   spec:
     title: เรื่องของ ambiguous match exception และการจัดการในมุม Performance [debuggingsoft.com]
