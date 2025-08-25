@@ -3468,6 +3468,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/02/starbucks-thai-get-e-tax-e-receipt/
   state:
     shortLink: https://link.webring.in.th/2385
+19149a5092155b9149a57c2306030e5f:bluesky:
+  spec:
+    title: Nestjs Cron [amiearth.com]
+    url: https://amiearth.com/blog/nestjs-cron
+  state:
+    cid: bafyreibms6mdzpkzikhooirztrsxwpojkzauntlkfbekgsseov52ratdom
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lx73hweptn2f
+19149a5092155b9149a57c2306030e5f:facebook:
+  spec:
+    title: Nestjs Cron [amiearth.com]
+    url: https://amiearth.com/blog/nestjs-cron
+  state:
+    id: '100746876247412_754545567534688'
+    url: https://www.facebook.com/100683012920950/posts/754545567534688
+19149a5092155b9149a57c2306030e5f:mastodon:
+  spec:
+    title: Nestjs Cron [amiearth.com]
+    url: https://amiearth.com/blog/nestjs-cron
+  state:
+    id: '115087336860948929'
+    url: https://mastodon.in.th/@webring/115087336860948929
+19149a5092155b9149a57c2306030e5f:shorturl:
+  spec:
+    url: https://amiearth.com/blog/nestjs-cron
+  state:
+    shortLink: https://link.webring.in.th/2734
 191cd7fa39638543d9ad07435eb217a7:bluesky:
   spec:
     title: Illustration - Pinky [lucian.solutions]
