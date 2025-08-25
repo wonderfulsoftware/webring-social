@@ -27491,6 +27491,32 @@ bc21ca650beccd2c6aa2dc4f08b132c8:shorturl:
     url: https://www.somkiat.cc/tips-use-profile-in-docker-compose/
   state:
     shortLink: https://link.webring.in.th/1938
+bc3963bbc12dab31d40820a43e83dd1c:bluesky:
+  spec:
+    title: Reactive Streams กับ Project Reactor ลึก ๆ [poolsawat.com]
+    url: https://www.poolsawat.com/reactive-streams-%e0%b8%81%e0%b8%b1%e0%b8%9a-project-reactor-%e0%b8%a5%e0%b8%b6%e0%b8%81-%e0%b9%86/
+  state:
+    cid: bafyreianpnswv4o7qkr2ew5mg4cy5mxpmt4trd4r7bzg6dipmhs7uhwnzq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lx7eegzugz2p
+bc3963bbc12dab31d40820a43e83dd1c:facebook:
+  spec:
+    title: Reactive Streams กับ Project Reactor ลึก ๆ [poolsawat.com]
+    url: https://www.poolsawat.com/reactive-streams-%e0%b8%81%e0%b8%b1%e0%b8%9a-project-reactor-%e0%b8%a5%e0%b8%b6%e0%b8%81-%e0%b9%86/
+  state:
+    id: '100746876247412_754627150859863'
+    url: https://www.facebook.com/100683012920950/posts/754627150859863
+bc3963bbc12dab31d40820a43e83dd1c:mastodon:
+  spec:
+    title: Reactive Streams กับ Project Reactor ลึก ๆ [poolsawat.com]
+    url: https://www.poolsawat.com/reactive-streams-%e0%b8%81%e0%b8%b1%e0%b8%9a-project-reactor-%e0%b8%a5%e0%b8%b6%e0%b8%81-%e0%b9%86/
+  state:
+    id: '115087962417986316'
+    url: https://mastodon.in.th/@webring/115087962417986316
+bc3963bbc12dab31d40820a43e83dd1c:shorturl:
+  spec:
+    url: https://www.poolsawat.com/reactive-streams-%e0%b8%81%e0%b8%b1%e0%b8%9a-project-reactor-%e0%b8%a5%e0%b8%b6%e0%b8%81-%e0%b9%86/
+  state:
+    shortLink: https://link.webring.in.th/2735
 bc645b001d4ec584afbf9728d89dc43d:facebook:
   spec:
     title: ค้นหาบนพิสัยผ่านทวิภาวะจุด-เส้นตรง [neizod.dev]
