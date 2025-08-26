@@ -22868,6 +22868,32 @@
     url: https://www.poolsawat.com/nvm-useful-js-developer/
   state:
     shortLink: https://webring.page.link/DqEJ
+9c1ff4912cd6c5fd7ea8f556bb20c123:bluesky:
+  spec:
+    title: Google Sheet ดู EMA หลายหุ้นพร้อมกัน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/ema
+  state:
+    cid: bafyreidl2i4ob5pkhbehmhgou53hqrgdceje7sgpeyvtocjkm7ntzxjq2e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxcjdx5ylc2b
+9c1ff4912cd6c5fd7ea8f556bb20c123:facebook:
+  spec:
+    title: Google Sheet ดู EMA หลายหุ้นพร้อมกัน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/ema
+  state:
+    id: '100746876247412_755689317420313'
+    url: https://www.facebook.com/100683012920950/posts/755689317420313
+9c1ff4912cd6c5fd7ea8f556bb20c123:mastodon:
+  spec:
+    title: Google Sheet ดู EMA หลายหุ้นพร้อมกัน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/ema
+  state:
+    id: '115095068773029022'
+    url: https://mastodon.in.th/@webring/115095068773029022
+9c1ff4912cd6c5fd7ea8f556bb20c123:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/ema
+  state:
+    shortLink: https://link.webring.in.th/2738
 9c363ddb48157779d09842df47fb6674:facebook:
   spec:
     title: อัพเดตโปรเจควงแหวนเว็บ, เปิดเพจ Facebook, Mastodon [dt.in.th]
