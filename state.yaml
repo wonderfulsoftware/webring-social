@@ -1780,6 +1780,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/02/install-proxmox/
   state:
     shortLink: https://link.webring.in.th/1777
+0c93a1d13f0951faa4dd4dd5178b7886:bluesky:
+  spec:
+    title: การใช้ Scheduler และ Thread Context ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-scheduler-%e0%b9%81%e0%b8%a5%e0%b8%b0-thread-context-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    cid: bafyreibfnveo57k46ktudy2wpgnuyu2s73jawc2uecy7brf2tgd5r7yecm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxblnfho2t2p
+0c93a1d13f0951faa4dd4dd5178b7886:facebook:
+  spec:
+    title: การใช้ Scheduler และ Thread Context ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-scheduler-%e0%b9%81%e0%b8%a5%e0%b8%b0-thread-context-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    id: '100746876247412_755383627450882'
+    url: https://www.facebook.com/100683012920950/posts/755383627450882
+0c93a1d13f0951faa4dd4dd5178b7886:mastodon:
+  spec:
+    title: การใช้ Scheduler และ Thread Context ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-scheduler-%e0%b9%81%e0%b8%a5%e0%b8%b0-thread-context-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    id: '115092978384352528'
+    url: https://mastodon.in.th/@webring/115092978384352528
+0c93a1d13f0951faa4dd4dd5178b7886:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-scheduler-%e0%b9%81%e0%b8%a5%e0%b8%b0-thread-context-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    shortLink: https://link.webring.in.th/2736
 0cbda8cf028fdba0f3a493c2ec41b5c5:facebook:
   spec:
     title: Moving data from one PostgreSQL database to another [dt.in.th]
