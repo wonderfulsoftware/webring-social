@@ -8570,6 +8570,32 @@
     url: https://karnwong.me/posts/2024/01/what-is-platform-engineering/
   state:
     shortLink: https://link.webring.in.th/1729
+3cddafb85f764cdc1e8be7fc85256853:bluesky:
+  spec:
+    title: '[C#] Semantic Kernel – Error System.Text.Json.JsonException: The JSON value could not be converted to System.String. Path: $.properties.month.type [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/csharp-semantic-kernel-error-system-text-json-jsonexception-the-json-value-could-not-be-converted-to-system-string-path-properties-month-type/
+  state:
+    cid: bafyreifcf5d2ecwppmf3dqiuizjk4fuldnyudcqnqhw7l77lponwlri35a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxbuqtwcef2o
+3cddafb85f764cdc1e8be7fc85256853:facebook:
+  spec:
+    title: '[C#] Semantic Kernel – Error System.Text.Json.JsonException: The JSON value could not be converted to System.String. Path: $.properties.month.type [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/csharp-semantic-kernel-error-system-text-json-jsonexception-the-json-value-could-not-be-converted-to-system-string-path-properties-month-type/
+  state:
+    id: '100746876247412_755469077442337'
+    url: https://www.facebook.com/100683012920950/posts/755469077442337
+3cddafb85f764cdc1e8be7fc85256853:mastodon:
+  spec:
+    title: '[C#] Semantic Kernel – Error System.Text.Json.JsonException: The JSON value could not be converted to System.String. Path: $.properties.month.type [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/csharp-semantic-kernel-error-system-text-json-jsonexception-the-json-value-could-not-be-converted-to-system-string-path-properties-month-type/
+  state:
+    id: '115093619169203708'
+    url: https://mastodon.in.th/@webring/115093619169203708
+3cddafb85f764cdc1e8be7fc85256853:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/08/csharp-semantic-kernel-error-system-text-json-jsonexception-the-json-value-could-not-be-converted-to-system-string-path-properties-month-type/
+  state:
+    shortLink: https://link.webring.in.th/2737
 3cea4ef330c99603adf00102b2bb25c5:facebook:
   spec:
     title: เรียนรู้ และใช้งาน ThaiBuddhistDate บน Java [poolsawat.com]
