@@ -30658,6 +30658,27 @@ d1ad19f97d9b3f20233a358110d452dc:shorturl:
     url: https://www.somkiat.cc/note-moving-io-to-the-edges-of-your-app/
   state:
     shortLink: https://link.webring.in.th/2128
+d1db345ac237ee077dd96efc0427c1c8:bluesky:
+  spec:
+    title: การ Integrate กับ Kafka (Reactive Kafka / Kafka Streams) [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-integrate-%e0%b8%81%e0%b8%b1%e0%b8%9a-kafka-reactive-kafka-kafka-streams/
+  state:
+    cid: bafyreihroek7iueichhsgfyst7nucv5x5k3j7uui267tsob33edshp2ff4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxe3qmt5yu2o
+d1db345ac237ee077dd96efc0427c1c8:facebook:
+  spec:
+    title: การ Integrate กับ Kafka (Reactive Kafka / Kafka Streams) [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-integrate-%e0%b8%81%e0%b8%b1%e0%b8%9a-kafka-reactive-kafka-kafka-streams/
+  state:
+    id: '100746876247412_756248070697771'
+    url: https://www.facebook.com/100683012920950/posts/756248070697771
+d1db345ac237ee077dd96efc0427c1c8:mastodon:
+  spec:
+    title: การ Integrate กับ Kafka (Reactive Kafka / Kafka Streams) [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-integrate-%e0%b8%81%e0%b8%b1%e0%b8%9a-kafka-reactive-kafka-kafka-streams/
+  state:
+    id: '115098614524702126'
+    url: https://mastodon.in.th/@webring/115098614524702126
 d1db345ac237ee077dd96efc0427c1c8:shorturl:
   spec:
     url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-integrate-%e0%b8%81%e0%b8%b1%e0%b8%9a-kafka-reactive-kafka-kafka-streams/
