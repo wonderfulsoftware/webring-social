@@ -10012,6 +10012,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/12/review-the-cloud-camp-1-by-jumpbox/
   state:
     shortLink: https://webring.page.link/oAxb
+486a6580b7266212bd234fecf92f9b17:bluesky:
+  spec:
+    title: Custom Operator ด้วย Reactor [poolsawat.com]
+    url: https://www.poolsawat.com/custom-operator-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-reactor/
+  state:
+    cid: bafyreiehr67uru4jmekx6wtxx4tmpvip36dgzqibudlrwcwyddqbeyguda
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxgvnd5n6d25
+486a6580b7266212bd234fecf92f9b17:facebook:
+  spec:
+    title: Custom Operator ด้วย Reactor [poolsawat.com]
+    url: https://www.poolsawat.com/custom-operator-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-reactor/
+  state:
+    id: '100746876247412_757133367275908'
+    url: https://www.facebook.com/100683012920950/posts/757133367275908
+486a6580b7266212bd234fecf92f9b17:mastodon:
+  spec:
+    title: Custom Operator ด้วย Reactor [poolsawat.com]
+    url: https://www.poolsawat.com/custom-operator-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-reactor/
+  state:
+    id: '115104940802478496'
+    url: https://mastodon.in.th/@webring/115104940802478496
+486a6580b7266212bd234fecf92f9b17:shorturl:
+  spec:
+    url: https://www.poolsawat.com/custom-operator-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-reactor/
+  state:
+    shortLink: https://link.webring.in.th/2741
 48c868a890766b59f38728d1b46e0def:facebook:
   spec:
     title: The Cloud Camp Week#05 (docker compose) [debuggingsoft.com]
