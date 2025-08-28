@@ -18679,6 +18679,32 @@
     url: https://lucian.solutions/blog/202503-sabrina
   state:
     shortLink: https://link.webring.in.th/2446
+7f9e7a4c7bac6600a19878b8d0be6b87:bluesky:
+  spec:
+    title: ลองใช้งาน Green Tea GC ใน Go 1.25 นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/go-green-tea-gc/
+  state:
+    cid: bafyreihc5lq6kfantkbxy77ib4qcvumy2mdb3zljyvicv6jtjbwa7zwh54
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxh7ehredu2q
+7f9e7a4c7bac6600a19878b8d0be6b87:facebook:
+  spec:
+    title: ลองใช้งาน Green Tea GC ใน Go 1.25 นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/go-green-tea-gc/
+  state:
+    id: '100746876247412_757226043933307'
+    url: https://www.facebook.com/100683012920950/posts/757226043933307
+7f9e7a4c7bac6600a19878b8d0be6b87:mastodon:
+  spec:
+    title: ลองใช้งาน Green Tea GC ใน Go 1.25 นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/go-green-tea-gc/
+  state:
+    id: '115105625093183006'
+    url: https://mastodon.in.th/@webring/115105625093183006
+7f9e7a4c7bac6600a19878b8d0be6b87:shorturl:
+  spec:
+    url: https://www.somkiat.cc/go-green-tea-gc/
+  state:
+    shortLink: https://link.webring.in.th/2742
 7fee71deec17169280f6837f28ac7a60:facebook:
   spec:
     title: RubyConf TH 2023 [garden.narze.live]
