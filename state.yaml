@@ -24722,6 +24722,32 @@ a833fa47677dcf689583248f92b4dca0:shorturl:
     url: https://www.somkiat.cc/use-json-crack-editor/
   state:
     shortLink: https://link.webring.in.th/1830
+a8cdca53f2da6717543bb03d15655b96:bluesky:
+  spec:
+    title: The SqlDbType enumeration value, 0, is invalid. (Parameter ‘SqlDbType’) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/the-sqldbtype-enumeration-value-0-is-invalid-parameter-sqldbtype/
+  state:
+    cid: bafyreiadb6kvihcgf5ssytvwig7nd2urbtx4gz3452lwvdbxq54uipomme
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxhk57l6kp24
+a8cdca53f2da6717543bb03d15655b96:facebook:
+  spec:
+    title: The SqlDbType enumeration value, 0, is invalid. (Parameter ‘SqlDbType’) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/the-sqldbtype-enumeration-value-0-is-invalid-parameter-sqldbtype/
+  state:
+    id: '100746876247412_757336493922262'
+    url: https://www.facebook.com/100683012920950/posts/757336493922262
+a8cdca53f2da6717543bb03d15655b96:mastodon:
+  spec:
+    title: The SqlDbType enumeration value, 0, is invalid. (Parameter ‘SqlDbType’) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/08/the-sqldbtype-enumeration-value-0-is-invalid-parameter-sqldbtype/
+  state:
+    id: '115106383117741720'
+    url: https://mastodon.in.th/@webring/115106383117741720
+a8cdca53f2da6717543bb03d15655b96:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/08/the-sqldbtype-enumeration-value-0-is-invalid-parameter-sqldbtype/
+  state:
+    shortLink: https://link.webring.in.th/2743
 a8cf835a7755702715a65f8d225df574:bluesky:
   spec:
     title: Nuxt3 with Bun Dockerfile [debuggingsoft.com]
