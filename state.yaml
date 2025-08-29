@@ -31288,6 +31288,32 @@ d44c9ec0dcffb1617db79dc483e97645:shorturl:
     url: https://www.somkiat.cc/hello-chiselled-ubuntu-containers/
   state:
     shortLink: https://webring.page.link/irZz
+d46f7a7b68d1ee28db2940e159bd34ba:bluesky:
+  spec:
+    title: การ Optimise Memory และ Performance ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-optimise-memory-%e0%b9%81%e0%b8%a5%e0%b8%b0-performance-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    cid: bafyreic43a53qzlnvdwufxu6trcftrhigrd5bvcatmjb5dbl5tnazbmyge
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxjg3e5rsw2h
+d46f7a7b68d1ee28db2940e159bd34ba:facebook:
+  spec:
+    title: การ Optimise Memory และ Performance ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-optimise-memory-%e0%b9%81%e0%b8%a5%e0%b8%b0-performance-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    id: '100746876247412_757911897198055'
+    url: https://www.facebook.com/100683012920950/posts/757911897198055
+d46f7a7b68d1ee28db2940e159bd34ba:mastodon:
+  spec:
+    title: การ Optimise Memory และ Performance ใน WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-optimise-memory-%e0%b9%81%e0%b8%a5%e0%b8%b0-performance-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    id: '115110601275277360'
+    url: https://mastodon.in.th/@webring/115110601275277360
+d46f7a7b68d1ee28db2940e159bd34ba:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-optimise-memory-%e0%b9%81%e0%b8%a5%e0%b8%b0-performance-%e0%b9%83%e0%b8%99-webflux/
+  state:
+    shortLink: https://link.webring.in.th/2745
 d47dd84677a86fff8e5d7709626ec765:facebook:
   spec:
     title: จัดการ dotfiles ด้วย chezmoi [anuwong.com]
