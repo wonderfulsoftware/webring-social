@@ -1652,6 +1652,32 @@
     url: https://garden.narze.live/how-to-hide-qwerty-layout-from-macos/
   state:
     shortLink: https://webring.page.link/Nqnn
+0b9d5ed85dd4f3b3de07ae754fbbda9f:bluesky:
+  spec:
+    title: Making Playwright test reports easily accessible from GitHub Actions [dt.in.th]
+    url: https://notes.dt.in.th/PlaywrightAccessibleTestReports
+  state:
+    cid: bafyreib7eoy5gi7a6vy2fqbye67t3ncwhj4d5jnyxcx456ebi25agxgny4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxj4nn4oav2t
+0b9d5ed85dd4f3b3de07ae754fbbda9f:facebook:
+  spec:
+    title: Making Playwright test reports easily accessible from GitHub Actions [dt.in.th]
+    url: https://notes.dt.in.th/PlaywrightAccessibleTestReports
+  state:
+    id: '100746876247412_757825747206670'
+    url: https://www.facebook.com/100683012920950/posts/757825747206670
+0b9d5ed85dd4f3b3de07ae754fbbda9f:mastodon:
+  spec:
+    title: Making Playwright test reports easily accessible from GitHub Actions [dt.in.th]
+    url: https://notes.dt.in.th/PlaywrightAccessibleTestReports
+  state:
+    id: '115109937084142908'
+    url: https://mastodon.in.th/@webring/115109937084142908
+0b9d5ed85dd4f3b3de07ae754fbbda9f:shorturl:
+  spec:
+    url: https://notes.dt.in.th/PlaywrightAccessibleTestReports
+  state:
+    shortLink: https://link.webring.in.th/2744
 0bd953547f101a647271033d87d5e0f4:facebook:
   spec:
     title: Campervan to Slovenia 2024 🇳🇱🇩🇪🇦🇹🇸🇮 [llun.me]
