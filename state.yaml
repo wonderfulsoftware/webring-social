@@ -88,6 +88,32 @@
     url: https://thanapon.info/aws-iot-credential-provider/
   state:
     shortLink: https://webring.page.link/gvFA
+00b37589aa167997ccde7ee5a00e5221:bluesky:
+  spec:
+    title: '[CR] Starbucks Oolong Yuzu [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/cr-starbucks-oolong-yuzu/
+  state:
+    cid: bafyreiblggwkykhgdhiwdsjcjyp3ynkk5coi7bzw4qebomydhk7hsm2o3y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxlwg3up562p
+00b37589aa167997ccde7ee5a00e5221:facebook:
+  spec:
+    title: '[CR] Starbucks Oolong Yuzu [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/cr-starbucks-oolong-yuzu/
+  state:
+    id: '100746876247412_758678053788106'
+    url: https://www.facebook.com/100683012920950/posts/758678053788106
+00b37589aa167997ccde7ee5a00e5221:mastodon:
+  spec:
+    title: '[CR] Starbucks Oolong Yuzu [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/08/cr-starbucks-oolong-yuzu/
+  state:
+    id: '115116254139312314'
+    url: https://mastodon.in.th/@webring/115116254139312314
+00b37589aa167997ccde7ee5a00e5221:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/08/cr-starbucks-oolong-yuzu/
+  state:
+    shortLink: https://link.webring.in.th/2747
 00b4d94934b5d1091671eae421f436f3:facebook:
   spec:
     title: 64 - live-guestbook [garden.narze.live]
