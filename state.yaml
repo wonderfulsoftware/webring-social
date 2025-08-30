@@ -6961,6 +6961,32 @@
     url: https://lucian.solutions/blog/202404-fateaura
   state:
     shortLink: https://link.webring.in.th/1889
+30866ecc7c6d0cbb829cc1ed5703966d:bluesky:
+  spec:
+    title: การสร้าง Custom WebFilter / HandlerStrategies [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87-custom-webfilter-handlerstrategies/
+  state:
+    cid: bafyreidubchg3e2igfacwhyjc2ppardyomuacl24cdhony7npr2ikhftue
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxlmrc6kio2z
+30866ecc7c6d0cbb829cc1ed5703966d:facebook:
+  spec:
+    title: การสร้าง Custom WebFilter / HandlerStrategies [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87-custom-webfilter-handlerstrategies/
+  state:
+    id: '100746876247412_758589583796953'
+    url: https://www.facebook.com/100683012920950/posts/758589583796953
+30866ecc7c6d0cbb829cc1ed5703966d:mastodon:
+  spec:
+    title: การสร้าง Custom WebFilter / HandlerStrategies [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87-custom-webfilter-handlerstrategies/
+  state:
+    id: '115115575333216080'
+    url: https://mastodon.in.th/@webring/115115575333216080
+30866ecc7c6d0cbb829cc1ed5703966d:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87-custom-webfilter-handlerstrategies/
+  state:
+    shortLink: https://link.webring.in.th/2746
 308d6911f2a8f3c648cb15aaecd28812:facebook:
   spec:
     title: '#แก้ชงปีเถาะ ที่ดันเจี้ยนวัดมังกรกมลาวาส และวัดทิพยวารีวิหาร [debuggingsoft.com]'
