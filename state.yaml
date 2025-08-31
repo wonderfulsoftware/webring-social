@@ -29771,6 +29771,32 @@ ca36726214f549883d5b641d97065a1a:shorturl:
     url: https://www.boonsong.dev/sso-authentication-with-sidecar-ontainers
   state:
     shortLink: https://webring.page.link/dNFt
+ca3c9f3c3e73a1bc1647d8bc29c191f1:bluesky:
+  spec:
+    title: Illustration - ダスカ(2025) [lucian.solutions]
+    url: https://lucian.solutions/blog/202508-daiwascarlet
+  state:
+    cid: bafyreidosut45qhrovsh4binx4yvdrcrjwfhjbnrebbmpg7n6yjb57sycy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxoqms2kr72n
+ca3c9f3c3e73a1bc1647d8bc29c191f1:facebook:
+  spec:
+    title: Illustration - ダスカ(2025) [lucian.solutions]
+    url: https://lucian.solutions/blog/202508-daiwascarlet
+  state:
+    id: '100746876247412_759554540367124'
+    url: https://www.facebook.com/100683012920950/posts/759554540367124
+ca3c9f3c3e73a1bc1647d8bc29c191f1:mastodon:
+  spec:
+    title: Illustration - ダスカ(2025) [lucian.solutions]
+    url: https://lucian.solutions/blog/202508-daiwascarlet
+  state:
+    id: '115122601799104283'
+    url: https://mastodon.in.th/@webring/115122601799104283
+ca3c9f3c3e73a1bc1647d8bc29c191f1:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202508-daiwascarlet
+  state:
+    shortLink: https://link.webring.in.th/2750
 ca4aaa11e81667f6024ea4862aeda30d:bluesky:
   spec:
     title: Google sheet ติดตามหุ้นอ้างอิง DR DRX [mymoneytoolkit.app]
