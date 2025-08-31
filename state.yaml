@@ -31257,6 +31257,32 @@ d3b7895f3b3f07080b4fa161f27f29fe:shorturl:
     url: https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/
   state:
     shortLink: https://link.webring.in.th/1866
+d3c2bcc4ae74b077870fcb9f045e09b1:bluesky:
+  spec:
+    title: คำนวณต้นทุน USD สำหรับฝาก FCD & การลงทุนทอง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/caculate-cost-usd-v2
+  state:
+    cid: bafyreihffvxwszhbwy47rhf2w5jzl3gk4kd5hubdjooyndiatpofndbkay
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxp3ebhiym2v
+d3c2bcc4ae74b077870fcb9f045e09b1:facebook:
+  spec:
+    title: คำนวณต้นทุน USD สำหรับฝาก FCD & การลงทุนทอง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/caculate-cost-usd-v2
+  state:
+    id: '100746876247412_759700760352502'
+    url: https://www.facebook.com/100683012920950/posts/759700760352502
+d3c2bcc4ae74b077870fcb9f045e09b1:mastodon:
+  spec:
+    title: คำนวณต้นทุน USD สำหรับฝาก FCD & การลงทุนทอง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/caculate-cost-usd-v2
+  state:
+    id: '115123357638270604'
+    url: https://mastodon.in.th/@webring/115123357638270604
+d3c2bcc4ae74b077870fcb9f045e09b1:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/caculate-cost-usd-v2
+  state:
+    shortLink: https://link.webring.in.th/2751
 d3c60a81134e9b5a6b40422a669d3582:bluesky:
   spec:
     title: 'คำถาม :: Code ทำงานเร็วมาก แต่เมื่อเชื่อมต่อ Database กลับช้า ? [somkiat.cc]'
