@@ -32985,6 +32985,32 @@ e18196b27cb56ce90ad59d6baa0ebe52:shorturl:
     url: https://www.anewlife.dev/post/graceful-shutdown-technique/
   state:
     shortLink: https://link.webring.in.th/2530
+e18cfc332bd7a5ded1fa4da2e2404e8a:bluesky:
+  spec:
+    title: Spatial join performance [karnwong.me]
+    url: https://karnwong.me/posts/2025/08/spatial-join-performance/
+  state:
+    cid: bafyreieavbkhz2v36aomvguvk3cemlgquu3xw4twcdjfscgldivebivbzm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxo5pxjjoq2n
+e18cfc332bd7a5ded1fa4da2e2404e8a:facebook:
+  spec:
+    title: Spatial join performance [karnwong.me]
+    url: https://karnwong.me/posts/2025/08/spatial-join-performance/
+  state:
+    id: '100746876247412_759370963718815'
+    url: https://www.facebook.com/100683012920950/posts/759370963718815
+e18cfc332bd7a5ded1fa4da2e2404e8a:mastodon:
+  spec:
+    title: Spatial join performance [karnwong.me]
+    url: https://karnwong.me/posts/2025/08/spatial-join-performance/
+  state:
+    id: '115121272338584524'
+    url: https://mastodon.in.th/@webring/115121272338584524
+e18cfc332bd7a5ded1fa4da2e2404e8a:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/08/spatial-join-performance/
+  state:
+    shortLink: https://link.webring.in.th/2748
 e236247690afe8700445e88dc7ec1a58:bluesky:
   spec:
     title: Illustration - わっぴ～✨ [lucian.solutions]
