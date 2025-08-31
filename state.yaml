@@ -28448,6 +28448,32 @@ c0f4d46f03201013e89536d1d847c99a:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/06/html-in-jsx-tsx/
   state:
     shortLink: https://link.webring.in.th/1980
+c0f68f873f9e60959ea32d9d29a31f07:bluesky:
+  spec:
+    title: Security Reactive อย่างลึกด้วย Spring Security WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/security-reactive-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-spring-security-webflux/
+  state:
+    cid: bafyreigqyfrhqwzskrytckt2d2ekdkrxg67xzkzp37bg7sevvpxqmnbxha
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxogw7ivkk2n
+c0f68f873f9e60959ea32d9d29a31f07:facebook:
+  spec:
+    title: Security Reactive อย่างลึกด้วย Spring Security WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/security-reactive-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-spring-security-webflux/
+  state:
+    id: '100746876247412_759460563709855'
+    url: https://www.facebook.com/100683012920950/posts/759460563709855
+c0f68f873f9e60959ea32d9d29a31f07:mastodon:
+  spec:
+    title: Security Reactive อย่างลึกด้วย Spring Security WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/security-reactive-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-spring-security-webflux/
+  state:
+    id: '115121919338438664'
+    url: https://mastodon.in.th/@webring/115121919338438664
+c0f68f873f9e60959ea32d9d29a31f07:shorturl:
+  spec:
+    url: https://www.poolsawat.com/security-reactive-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-spring-security-webflux/
+  state:
+    shortLink: https://link.webring.in.th/2749
 c1084fc3c584a1f15dc8d8441f55c870:facebook:
   spec:
     title: 2023 การเปลี่ยนแปลง [debuggingsoft.com]
