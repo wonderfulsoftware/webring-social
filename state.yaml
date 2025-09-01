@@ -20239,6 +20239,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/06/access-almalinux-9-via-rdp/
   state:
     shortLink: https://webring.page.link/S7cX
+88ce76c862ef24915a37e752a4221f5c:bluesky:
+  spec:
+    title: แนะนำ web ที่อธิบายเรื่อง Big O notation [somkiat.cc]
+    url: https://www.somkiat.cc/web-big-o-notation/
+  state:
+    cid: bafyreifdtghp7dmdw2akvmnyv3mr7nd4erumpbxgcgdfwmy2xadhunpzuy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxqxmnwzux2g
+88ce76c862ef24915a37e752a4221f5c:facebook:
+  spec:
+    title: แนะนำ web ที่อธิบายเรื่อง Big O notation [somkiat.cc]
+    url: https://www.somkiat.cc/web-big-o-notation/
+  state:
+    id: '100746876247412_760258293630082'
+    url: https://www.facebook.com/100683012920950/posts/760258293630082
+88ce76c862ef24915a37e752a4221f5c:mastodon:
+  spec:
+    title: แนะนำ web ที่อธิบายเรื่อง Big O notation [somkiat.cc]
+    url: https://www.somkiat.cc/web-big-o-notation/
+  state:
+    id: '115127598169783977'
+    url: https://mastodon.in.th/@webring/115127598169783977
+88ce76c862ef24915a37e752a4221f5c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/web-big-o-notation/
+  state:
+    shortLink: https://link.webring.in.th/2753
 88d932c60dc0a6cd53271c4d8fd0788e:bluesky:
   spec:
     title: '[JAVA] Json Path [debuggingsoft.com]'
