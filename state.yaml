@@ -11389,6 +11389,32 @@
     url: https://mikelopster.dev/posts/rust-basic-2/
   state:
     shortLink: https://link.webring.in.th/2308
+51a0dec3758ed66c7c970ec7d296885c:bluesky:
+  spec:
+    title: เขียน WebSocket แบบ Reactive ด้วย WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99-websocket-%e0%b9%81%e0%b8%9a%e0%b8%9a-reactive-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-webflux/
+  state:
+    cid: bafyreihsljhicjj6nophp56zunl47um4fluj54hxbxutaed6gp7agqt6qm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxqoyjqek22t
+51a0dec3758ed66c7c970ec7d296885c:facebook:
+  spec:
+    title: เขียน WebSocket แบบ Reactive ด้วย WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99-websocket-%e0%b9%81%e0%b8%9a%e0%b8%9a-reactive-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-webflux/
+  state:
+    id: '100746876247412_760182830304295'
+    url: https://www.facebook.com/100683012920950/posts/760182830304295
+51a0dec3758ed66c7c970ec7d296885c:mastodon:
+  spec:
+    title: เขียน WebSocket แบบ Reactive ด้วย WebFlux [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99-websocket-%e0%b9%81%e0%b8%9a%e0%b8%9a-reactive-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-webflux/
+  state:
+    id: '115126990904205840'
+    url: https://mastodon.in.th/@webring/115126990904205840
+51a0dec3758ed66c7c970ec7d296885c:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99-websocket-%e0%b9%81%e0%b8%9a%e0%b8%9a-reactive-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-webflux/
+  state:
+    shortLink: https://link.webring.in.th/2752
 51b11668b365c174562f4bbc869d6108:facebook:
   spec:
     title: 75 - ChatOS - Debug app on iPad [garden.narze.live]
