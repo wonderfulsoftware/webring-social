@@ -13418,6 +13418,32 @@
     url: https://www.mikkipastel.com/why-facebook-page-use-dot-to-between-content-line/
   state:
     shortLink: https://link.webring.in.th/1875
+5f6d14e1b7052bb1dcc295a33217e27a:bluesky:
+  spec:
+    title: การทำ Rate Limiting และ Circuit Breaker (Resilience4J กับ WebFlux) [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b3-rate-limiting-%e0%b9%81%e0%b8%a5%e0%b8%b0-circuit-breaker-resilience4j-%e0%b8%81%e0%b8%b1%e0%b8%9a-webflux/
+  state:
+    cid: bafyreielzl54u2dfbducyijya2m6va2yn4bm62fixltmzdncx4n4fj7ujq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxvojb7xy225
+5f6d14e1b7052bb1dcc295a33217e27a:facebook:
+  spec:
+    title: การทำ Rate Limiting และ Circuit Breaker (Resilience4J กับ WebFlux) [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b3-rate-limiting-%e0%b9%81%e0%b8%a5%e0%b8%b0-circuit-breaker-resilience4j-%e0%b8%81%e0%b8%b1%e0%b8%9a-webflux/
+  state:
+    id: '100746876247412_761697226819522'
+    url: https://www.facebook.com/100683012920950/posts/761697226819522
+5f6d14e1b7052bb1dcc295a33217e27a:mastodon:
+  spec:
+    title: การทำ Rate Limiting และ Circuit Breaker (Resilience4J กับ WebFlux) [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b3-rate-limiting-%e0%b9%81%e0%b8%a5%e0%b8%b0-circuit-breaker-resilience4j-%e0%b8%81%e0%b8%b1%e0%b8%9a-webflux/
+  state:
+    id: '115138215747730936'
+    url: https://mastodon.in.th/@webring/115138215747730936
+5f6d14e1b7052bb1dcc295a33217e27a:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b3-rate-limiting-%e0%b9%81%e0%b8%a5%e0%b8%b0-circuit-breaker-resilience4j-%e0%b8%81%e0%b8%b1%e0%b8%9a-webflux/
+  state:
+    shortLink: https://link.webring.in.th/2755
 5f7af807a03a029959d668b8ba80afc5:facebook:
   spec:
     title: สรุปการแบ่งปันเรื่อง Microservices ตั้งแต่ design -> develop -> testing -> deploy [somkiat.cc]
