@@ -7205,6 +7205,32 @@
     url: https://lucian.solutions/blog/lucia-uncaught-typeerror
   state:
     shortLink: https://webring.page.link/DFxT
+32427c531cce9b526e834d970205758a:bluesky:
+  spec:
+    title: WP – Updating failed. Could not update post in the database [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/wp-updating-failed-could-not-update-post-in-the-database/
+  state:
+    cid: bafyreia6z5qcmm2w447n5yenjypioq222d3dtemq6cge7q2pdjmpkbt3ke
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxvyekm5sd2s
+32427c531cce9b526e834d970205758a:facebook:
+  spec:
+    title: WP – Updating failed. Could not update post in the database [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/wp-updating-failed-could-not-update-post-in-the-database/
+  state:
+    id: '100746876247412_761782956810949'
+    url: https://www.facebook.com/100683012920950/posts/761782956810949
+32427c531cce9b526e834d970205758a:mastodon:
+  spec:
+    title: WP – Updating failed. Could not update post in the database [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/wp-updating-failed-could-not-update-post-in-the-database/
+  state:
+    id: '115138909763326246'
+    url: https://mastodon.in.th/@webring/115138909763326246
+32427c531cce9b526e834d970205758a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/09/wp-updating-failed-could-not-update-post-in-the-database/
+  state:
+    shortLink: https://link.webring.in.th/2756
 328cce8c84965761f8b3dc872938e79f:bluesky:
   spec:
     title: Upserting data into Grist using n8n [dt.in.th]
