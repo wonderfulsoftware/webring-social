@@ -36337,6 +36337,32 @@ f7553bdc711a78021430634f4a1a95e7:shorturl:
     url: https://www.somkiat.cc/problem-cannot-read-react-app-sc-attr/
   state:
     shortLink: https://webring.page.link/Hx55
+f767cf0e21ba8c85292ade8351ad9577:bluesky:
+  spec:
+    title: บันทึกการติดตั้ง ArgoCD ใน minikube ไว้นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/install-argocd-with-minikube/
+  state:
+    cid: bafyreieytypdes6gktxg5ovu6bdtmhf3kcugefacsx3xmbn7atjm4h36ae
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxwc56px7323
+f767cf0e21ba8c85292ade8351ad9577:facebook:
+  spec:
+    title: บันทึกการติดตั้ง ArgoCD ใน minikube ไว้นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/install-argocd-with-minikube/
+  state:
+    id: '100746876247412_761873180135260'
+    url: https://www.facebook.com/100683012920950/posts/761873180135260
+f767cf0e21ba8c85292ade8351ad9577:mastodon:
+  spec:
+    title: บันทึกการติดตั้ง ArgoCD ใน minikube ไว้นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/install-argocd-with-minikube/
+  state:
+    id: '115139597243905243'
+    url: https://mastodon.in.th/@webring/115139597243905243
+f767cf0e21ba8c85292ade8351ad9577:shorturl:
+  spec:
+    url: https://www.somkiat.cc/install-argocd-with-minikube/
+  state:
+    shortLink: https://link.webring.in.th/2757
 f78d5beacf5c6b4e71a51d75c3737765:mastodon:
   spec:
     title: บันทึกการพูดคุยเรื่อง tuning performance กันนิดหน่อย [somkiat.cc]
