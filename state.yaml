@@ -24721,6 +24721,32 @@ a645d567cf8145f9a0a3f55aa5864645:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/02/rmarkdown-common-error-pdf-export/
   state:
     shortLink: https://link.webring.in.th/2428
+a6b48e06b9a80a998400db40827068ba:bluesky:
+  spec:
+    title: 'Managing Knowledge Publicly: Unlocking Unexpected Growth [dt.in.th]'
+    url: https://notes.dt.in.th/ManagingKnowledgePublicly
+  state:
+    cid: bafyreidhxcah6xdxtetb4qict7hrffw5m3efndylngsceswslr65uk326e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxy6zmaf5j2l
+a6b48e06b9a80a998400db40827068ba:facebook:
+  spec:
+    title: 'Managing Knowledge Publicly: Unlocking Unexpected Growth [dt.in.th]'
+    url: https://notes.dt.in.th/ManagingKnowledgePublicly
+  state:
+    id: '100746876247412_762472946741950'
+    url: https://www.facebook.com/100683012920950/posts/762472946741950
+a6b48e06b9a80a998400db40827068ba:mastodon:
+  spec:
+    title: 'Managing Knowledge Publicly: Unlocking Unexpected Growth [dt.in.th]'
+    url: https://notes.dt.in.th/ManagingKnowledgePublicly
+  state:
+    id: '115143881907398314'
+    url: https://mastodon.in.th/@webring/115143881907398314
+a6b48e06b9a80a998400db40827068ba:shorturl:
+  spec:
+    url: https://notes.dt.in.th/ManagingKnowledgePublicly
+  state:
+    shortLink: https://link.webring.in.th/2758
 a6de025a25774489bcdaef4241f8eb10:facebook:
   spec:
     title: 'ตอบคำถามจาก Microservices design :: เรื่องของ Software Architecture ที่เปลี่ยนไป [somkiat.cc]'
