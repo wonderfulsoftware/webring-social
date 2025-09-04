@@ -2375,6 +2375,32 @@
     url: https://nitpum.com/post/edge-z-index-tool/
   state:
     shortLink: https://webring.page.link/Hv1E
+101a2dacb823c18b32b1c828cd45d5ba:bluesky:
+  spec:
+    title: สร้างระบบ Notification (Push Event) ด้วย SSE หรือ WebSocket [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-notification-push-event-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-sse-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-websocket/
+  state:
+    cid: bafyreifvklmtytohlsfsjhji2toiuqvrcpheu7rddee4wn73cow4bqr3tq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lxyiuhp4lp2o
+101a2dacb823c18b32b1c828cd45d5ba:facebook:
+  spec:
+    title: สร้างระบบ Notification (Push Event) ด้วย SSE หรือ WebSocket [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-notification-push-event-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-sse-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-websocket/
+  state:
+    id: '100746876247412_762560393399872'
+    url: https://www.facebook.com/100683012920950/posts/762560393399872
+101a2dacb823c18b32b1c828cd45d5ba:mastodon:
+  spec:
+    title: สร้างระบบ Notification (Push Event) ด้วย SSE หรือ WebSocket [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-notification-push-event-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-sse-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-websocket/
+  state:
+    id: '115144574306075024'
+    url: https://mastodon.in.th/@webring/115144574306075024
+101a2dacb823c18b32b1c828cd45d5ba:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-notification-push-event-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-sse-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-websocket/
+  state:
+    shortLink: https://link.webring.in.th/2759
 107b336db7cada02ff15afc348b83d45:facebook:
   spec:
     title: Performance Issue [debuggingsoft.com]
