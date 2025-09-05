@@ -13228,6 +13228,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/06/how-to-change-redirect-apache-tomcat-port-number/
   state:
     shortLink: https://webring.page.link/xoM5
+5dbe64ad73477a26e9dd361347d3a87b:bluesky:
+  spec:
+    title: การ Logging ที่เหมาะสมในระบบ Reactive [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-logging-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%a1%e0%b9%83%e0%b8%99%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-reactive/
+  state:
+    cid: bafyreicuedsoqnppzaaptaigxolce4vakzsq5hdc6bxaqa6e7fc2hgobae
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ly2pomfqmu2q
+5dbe64ad73477a26e9dd361347d3a87b:facebook:
+  spec:
+    title: การ Logging ที่เหมาะสมในระบบ Reactive [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-logging-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%a1%e0%b9%83%e0%b8%99%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-reactive/
+  state:
+    id: '100746876247412_763254576663787'
+    url: https://www.facebook.com/100683012920950/posts/763254576663787
+5dbe64ad73477a26e9dd361347d3a87b:mastodon:
+  spec:
+    title: การ Logging ที่เหมาะสมในระบบ Reactive [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-logging-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%a1%e0%b9%83%e0%b8%99%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-reactive/
+  state:
+    id: '115149557405618846'
+    url: https://mastodon.in.th/@webring/115149557405618846
+5dbe64ad73477a26e9dd361347d3a87b:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-logging-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%a1%e0%b9%83%e0%b8%99%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-reactive/
+  state:
+    shortLink: https://link.webring.in.th/2760
 5dc6b85d89c764f53044a5675ecccd05:facebook:
   spec:
     title: ทำบล็อกแบบง่าย ๆ แบบไม่ต้องใช้ CMS ผ่าน Glitch กัน [mikkipastel.com]
