@@ -21011,6 +21011,32 @@
     url: https://www.poolsawat.com/converting-images-to-webp/
   state:
     shortLink: https://webring.page.link/YBDR
+8bf7b3345d4e3de4bba10bf065a6d83c:bluesky:
+  spec:
+    title: เริ่มเรียนว่ายน้ำใหม่ตอนอายุสามสิบกว่า [thammarith.dev]
+    url: https://thammarith.dev/blog/learn-swim-30s-2025/
+  state:
+    cid: bafyreianpeqrstbrp457vugzj32ky4k76lomcdrgacyfymvpew6qyubyji
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ly57uhjt7d23
+8bf7b3345d4e3de4bba10bf065a6d83c:facebook:
+  spec:
+    title: เริ่มเรียนว่ายน้ำใหม่ตอนอายุสามสิบกว่า [thammarith.dev]
+    url: https://thammarith.dev/blog/learn-swim-30s-2025/
+  state:
+    id: '100746876247412_764065646582680'
+    url: https://www.facebook.com/100683012920950/posts/764065646582680
+8bf7b3345d4e3de4bba10bf065a6d83c:mastodon:
+  spec:
+    title: เริ่มเรียนว่ายน้ำใหม่ตอนอายุสามสิบกว่า [thammarith.dev]
+    url: https://thammarith.dev/blog/learn-swim-30s-2025/
+  state:
+    id: '115155199860208483'
+    url: https://mastodon.in.th/@webring/115155199860208483
+8bf7b3345d4e3de4bba10bf065a6d83c:shorturl:
+  spec:
+    url: https://thammarith.dev/blog/learn-swim-30s-2025/
+  state:
+    shortLink: https://link.webring.in.th/2761
 8c1155234a00fe26d3ba740362fad770:facebook:
   spec:
     title: ว่าด้วยเรื่องของ Observability บน Grafana + Loki + Tempo [somkiat.cc]
