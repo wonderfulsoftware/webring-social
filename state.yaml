@@ -8276,6 +8276,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/07/how-to-add-podman-as-an-agent-in-portainer/
   state:
     shortLink: https://link.webring.in.th/2033
+3a2761a2050adf43da69d5b2447a68ec:bluesky:
+  spec:
+    title: Deploy WebFlux App บน Kubernetes และทำ Healthcheck [poolsawat.com]
+    url: https://www.poolsawat.com/deploy-webflux-app-%e0%b8%9a%e0%b8%99-kubernetes-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%97%e0%b8%b3-healthcheck/
+  state:
+    cid: bafyreie2dtj5clpog4nmdjuz6eboisuoipcpdcmw3uqvfvio5lm37t66vi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ly5jnrw5ws27
+3a2761a2050adf43da69d5b2447a68ec:facebook:
+  spec:
+    title: Deploy WebFlux App บน Kubernetes และทำ Healthcheck [poolsawat.com]
+    url: https://www.poolsawat.com/deploy-webflux-app-%e0%b8%9a%e0%b8%99-kubernetes-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%97%e0%b8%b3-healthcheck/
+  state:
+    id: '100746876247412_764156533240258'
+    url: https://www.facebook.com/100683012920950/posts/764156533240258
+3a2761a2050adf43da69d5b2447a68ec:mastodon:
+  spec:
+    title: Deploy WebFlux App บน Kubernetes และทำ Healthcheck [poolsawat.com]
+    url: https://www.poolsawat.com/deploy-webflux-app-%e0%b8%9a%e0%b8%99-kubernetes-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%97%e0%b8%b3-healthcheck/
+  state:
+    id: '115155888700629739'
+    url: https://mastodon.in.th/@webring/115155888700629739
+3a2761a2050adf43da69d5b2447a68ec:shorturl:
+  spec:
+    url: https://www.poolsawat.com/deploy-webflux-app-%e0%b8%9a%e0%b8%99-kubernetes-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%97%e0%b8%b3-healthcheck/
+  state:
+    shortLink: https://link.webring.in.th/2762
 3a28a47007fceec38b474db799ceb5c7:facebook:
   spec:
     title: 'มาฟัง Agile Thailand 2023 #ATH2023 [debuggingsoft.com]'
