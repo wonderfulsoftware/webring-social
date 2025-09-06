@@ -14956,6 +14956,32 @@
     url: https://www.somkiat.cc/go-print-vs-fmt-print/
   state:
     shortLink: https://webring.page.link/3QSS
+664ca08889ba6d471d9a4bc79186be94:bluesky:
+  spec:
+    title: Spring Boot @ConditionalOnProperty [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/spring-boot-conditionalonproperty/
+  state:
+    cid: bafyreiam7jeblvjd6iujo2ly4jqthinlrblhw76aj7rhzpojoyhrirol5e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ly5tfx4dej27
+664ca08889ba6d471d9a4bc79186be94:facebook:
+  spec:
+    title: Spring Boot @ConditionalOnProperty [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/spring-boot-conditionalonproperty/
+  state:
+    id: '100746876247412_764246629897915'
+    url: https://www.facebook.com/100683012920950/posts/764246629897915
+664ca08889ba6d471d9a4bc79186be94:mastodon:
+  spec:
+    title: Spring Boot @ConditionalOnProperty [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/spring-boot-conditionalonproperty/
+  state:
+    id: '115156575480018762'
+    url: https://mastodon.in.th/@webring/115156575480018762
+664ca08889ba6d471d9a4bc79186be94:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/09/spring-boot-conditionalonproperty/
+  state:
+    shortLink: https://link.webring.in.th/2763
 66534e47af8611298cc005c4a0f0e410:bluesky:
   spec:
     title: แวะมาฟัง Microsoft AI Skills Program Kick-off and Azure AI Training [debuggingsoft.com]
