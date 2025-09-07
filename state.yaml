@@ -2401,6 +2401,32 @@
     url: https://www.poolsawat.com/%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-notification-push-event-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-sse-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-websocket/
   state:
     shortLink: https://link.webring.in.th/2759
+106b9ec87ce2d45963568eb8bfe0c506:bluesky:
+  spec:
+    title: How to delete stuck terminating namespace in k8s [jitrak.dev]
+    url: https://jitrak.dev/posts/post-33-how-to-delete-stuck-terminating-namespace-in-k8s/
+  state:
+    cid: bafyreib6x57ngndx47zhfq63ecs4w5ki6fk5odvridxmm53kwcwn5rbgwu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ly7qqp4vrw2g
+106b9ec87ce2d45963568eb8bfe0c506:facebook:
+  spec:
+    title: How to delete stuck terminating namespace in k8s [jitrak.dev]
+    url: https://jitrak.dev/posts/post-33-how-to-delete-stuck-terminating-namespace-in-k8s/
+  state:
+    id: '100746876247412_764829096506335'
+    url: https://www.facebook.com/100683012920950/posts/764829096506335
+106b9ec87ce2d45963568eb8bfe0c506:mastodon:
+  spec:
+    title: How to delete stuck terminating namespace in k8s [jitrak.dev]
+    url: https://jitrak.dev/posts/post-33-how-to-delete-stuck-terminating-namespace-in-k8s/
+  state:
+    id: '115160891623837964'
+    url: https://mastodon.in.th/@webring/115160891623837964
+106b9ec87ce2d45963568eb8bfe0c506:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-33-how-to-delete-stuck-terminating-namespace-in-k8s/
+  state:
+    shortLink: https://link.webring.in.th/2764
 107b336db7cada02ff15afc348b83d45:facebook:
   spec:
     title: Performance Issue [debuggingsoft.com]
