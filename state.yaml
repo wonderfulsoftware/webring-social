@@ -36972,6 +36972,32 @@ fa6cc51098bb916e09966214732aa018:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/10/az-104-prerequisites-for-azure-administrators/
   state:
     shortLink: https://webring.page.link/rDdQ
+faca33682862facd52ea03a0f689f59d:bluesky:
+  spec:
+    title: ใช้ WebFlux กับ GraphQL [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%83%e0%b8%8a%e0%b9%89-webflux-%e0%b8%81%e0%b8%b1%e0%b8%9a-graphql/
+  state:
+    cid: bafyreiguknffddwyno3tfoikh6ya3vofxgwyqpbhp3w75ggerif6eoekry
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lya24zsn472j
+faca33682862facd52ea03a0f689f59d:facebook:
+  spec:
+    title: ใช้ WebFlux กับ GraphQL [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%83%e0%b8%8a%e0%b9%89-webflux-%e0%b8%81%e0%b8%b1%e0%b8%9a-graphql/
+  state:
+    id: '100746876247412_764915766497668'
+    url: https://www.facebook.com/100683012920950/posts/764915766497668
+faca33682862facd52ea03a0f689f59d:mastodon:
+  spec:
+    title: ใช้ WebFlux กับ GraphQL [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%83%e0%b8%8a%e0%b9%89-webflux-%e0%b8%81%e0%b8%b1%e0%b8%9a-graphql/
+  state:
+    id: '115161551998513363'
+    url: https://mastodon.in.th/@webring/115161551998513363
+faca33682862facd52ea03a0f689f59d:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b9%83%e0%b8%8a%e0%b9%89-webflux-%e0%b8%81%e0%b8%b1%e0%b8%9a-graphql/
+  state:
+    shortLink: https://link.webring.in.th/2765
 fb195ce46fb3fa2e8954f2f1b9d0241d:facebook:
   spec:
     title: มาดู feature ที่น่าสนใจใน Java 21 GA ที่เพิ่งปล่อยออกมา [somkiat.cc]
