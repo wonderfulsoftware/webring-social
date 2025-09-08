@@ -23590,6 +23590,32 @@
     url: https://p4perf4ce.me/articles/23/new-home
   state:
     shortLink: https://webring.page.link/2NHj
+9e3450f114161411d7bf46a83b748312:bluesky:
+  spec:
+    title: การ Integrate WebFlux กับ OpenTelemetry เพื่อ Trace Request [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-integrate-webflux-%e0%b8%81%e0%b8%b1%e0%b8%9a-opentelemetry-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad-trace-request/
+  state:
+    cid: bafyreihqu2zhsa5w356uqzenf2xlyrbmu5vqjjchgbjhm5vqnbi3bx2hxi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lycbks3qfy2h
+9e3450f114161411d7bf46a83b748312:facebook:
+  spec:
+    title: การ Integrate WebFlux กับ OpenTelemetry เพื่อ Trace Request [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-integrate-webflux-%e0%b8%81%e0%b8%b1%e0%b8%9a-opentelemetry-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad-trace-request/
+  state:
+    id: '100746876247412_765617689760809'
+    url: https://www.facebook.com/100683012920950/posts/765617689760809
+9e3450f114161411d7bf46a83b748312:mastodon:
+  spec:
+    title: การ Integrate WebFlux กับ OpenTelemetry เพื่อ Trace Request [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-integrate-webflux-%e0%b8%81%e0%b8%b1%e0%b8%9a-opentelemetry-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad-trace-request/
+  state:
+    id: '115166577672456766'
+    url: https://mastodon.in.th/@webring/115166577672456766
+9e3450f114161411d7bf46a83b748312:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-integrate-webflux-%e0%b8%81%e0%b8%b1%e0%b8%9a-opentelemetry-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad-trace-request/
+  state:
+    shortLink: https://link.webring.in.th/2766
 9e3b5547b030bead038b9ba17e5f8507:facebook:
   spec:
     title: '[DOTNET] GraphQL บน NET8 ด้วย HotChocolate Library #01 (Query) [debuggingsoft.com]'
