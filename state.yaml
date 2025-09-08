@@ -8797,6 +8797,32 @@
     url: https://www.poolsawat.com/learning-using-thaibuddhistdate-java/
   state:
     shortLink: https://webring.page.link/wzRZ
+3cf2e0ecce195001e4ae020f1ed34cbd:bluesky:
+  spec:
+    title: ทำความรู้จักกับ Agent Client Protocol (ACP) จากทีมพัฒนาของ Zed [somkiat.cc]
+    url: https://www.somkiat.cc/agent-client-protocol/
+  state:
+    cid: bafyreihwmle5a6snnkll4rt6kndav6eqpnmsz6znur6naqw7i6abwq7vry
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lycktesppv2d
+3cf2e0ecce195001e4ae020f1ed34cbd:facebook:
+  spec:
+    title: ทำความรู้จักกับ Agent Client Protocol (ACP) จากทีมพัฒนาของ Zed [somkiat.cc]
+    url: https://www.somkiat.cc/agent-client-protocol/
+  state:
+    id: '100746876247412_765702986418946'
+    url: https://www.facebook.com/100683012920950/posts/765702986418946
+3cf2e0ecce195001e4ae020f1ed34cbd:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Agent Client Protocol (ACP) จากทีมพัฒนาของ Zed [somkiat.cc]
+    url: https://www.somkiat.cc/agent-client-protocol/
+  state:
+    id: '115167230284010315'
+    url: https://mastodon.in.th/@webring/115167230284010315
+3cf2e0ecce195001e4ae020f1ed34cbd:shorturl:
+  spec:
+    url: https://www.somkiat.cc/agent-client-protocol/
+  state:
+    shortLink: https://link.webring.in.th/2767
 3d2b97c3f81a65dee76e48b2701c4547:facebook:
   spec:
     title: มาสร้าง Diagram ง่าย ๆ ด้วย Excalidraw AI [somkiat.cc]
