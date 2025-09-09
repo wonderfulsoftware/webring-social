@@ -29656,6 +29656,32 @@ c64d664351c42aa2d360ae9a7ea85998:shorturl:
     url: https://kusumotolab.com/first-time-singapore-trip-ep-4/
   state:
     shortLink: https://link.webring.in.th/2285
+c69cb6167c4d93873bf6fca47bd5b0a0:bluesky:
+  spec:
+    title: How to Install rpm / Update RHEL Locally via DVD / ISO [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/how-to-install-rpm-update-rhel-locally-via-dvd-iso/
+  state:
+    cid: bafyreiabwyzm3o2bcpggswfxe2m2jhjz6vlv2u6brj6cqampwagzzk6ebm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lyf3anbkjb27
+c69cb6167c4d93873bf6fca47bd5b0a0:facebook:
+  spec:
+    title: How to Install rpm / Update RHEL Locally via DVD / ISO [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/how-to-install-rpm-update-rhel-locally-via-dvd-iso/
+  state:
+    id: '100746876247412_766455439677034'
+    url: https://www.facebook.com/100683012920950/posts/766455439677034
+c69cb6167c4d93873bf6fca47bd5b0a0:mastodon:
+  spec:
+    title: How to Install rpm / Update RHEL Locally via DVD / ISO [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/how-to-install-rpm-update-rhel-locally-via-dvd-iso/
+  state:
+    id: '115172889022237526'
+    url: https://mastodon.in.th/@webring/115172889022237526
+c69cb6167c4d93873bf6fca47bd5b0a0:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/09/how-to-install-rpm-update-rhel-locally-via-dvd-iso/
+  state:
+    shortLink: https://link.webring.in.th/2769
 c6a8ae664eba1a51749366e09cff6a06:facebook:
   spec:
     title: 'ทำความรู้จักกับ YARP: Yet Another Reverse Proxy [somkiat.cc]'
