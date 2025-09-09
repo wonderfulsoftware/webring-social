@@ -17161,6 +17161,32 @@
     url: https://poom.dev/challenges/
   state:
     shortLink: https://link.webring.in.th/2619
+75e23a798d1f1b8136db8ec13eb378e4:bluesky:
+  spec:
+    title: เชื่อมต่อกับ Redis แบบ Reactive [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a1%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b8%81%e0%b8%b1%e0%b8%9a-redis-%e0%b9%81%e0%b8%9a%e0%b8%9a-reactive-2/
+  state:
+    cid: bafyreicgfgsr6ll2tsipvnbw2deuuh4egf6gjpimtesixa3wv3wtvtv4le
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lyerqe5qur2l
+75e23a798d1f1b8136db8ec13eb378e4:facebook:
+  spec:
+    title: เชื่อมต่อกับ Redis แบบ Reactive [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a1%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b8%81%e0%b8%b1%e0%b8%9a-redis-%e0%b9%81%e0%b8%9a%e0%b8%9a-reactive-2/
+  state:
+    id: '100746876247412_766371376352107'
+    url: https://www.facebook.com/100683012920950/posts/766371376352107
+75e23a798d1f1b8136db8ec13eb378e4:mastodon:
+  spec:
+    title: เชื่อมต่อกับ Redis แบบ Reactive [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a1%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b8%81%e0%b8%b1%e0%b8%9a-redis-%e0%b9%81%e0%b8%9a%e0%b8%9a-reactive-2/
+  state:
+    id: '115172220160787116'
+    url: https://mastodon.in.th/@webring/115172220160787116
+75e23a798d1f1b8136db8ec13eb378e4:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a1%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b8%81%e0%b8%b1%e0%b8%9a-redis-%e0%b9%81%e0%b8%9a%e0%b8%9a-reactive-2/
+  state:
+    shortLink: https://link.webring.in.th/2768
 75e9044e76b5417e59930ae95bde9f45:facebook:
   spec:
     title: '[PowerShell] Snippet Script Copy Files that are listed in a text file [debuggingsoft.com]'
