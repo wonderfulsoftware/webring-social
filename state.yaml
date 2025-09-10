@@ -21603,6 +21603,32 @@
     url: https://garden.narze.live/Store-git-directory-externally/
   state:
     shortLink: https://webring.page.link/L2PD
+900e2eb8d108f1fa39e510dc7932d02d:bluesky:
+  spec:
+    title: เหมาะสำหรับคนที่เพิ่งเริ่มใช้ PostgreSQL หรือเพิ่งเปลี่ยนจาก MySQL/SQLite [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%84%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9e%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80/
+  state:
+    cid: bafyreihdj43g23xmvxlaiiwpgb2b5fnm5nfl3gc4or4ikanwflsmkzbnda
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lyhbrkjioj2d
+900e2eb8d108f1fa39e510dc7932d02d:facebook:
+  spec:
+    title: เหมาะสำหรับคนที่เพิ่งเริ่มใช้ PostgreSQL หรือเพิ่งเปลี่ยนจาก MySQL/SQLite [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%84%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9e%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80/
+  state:
+    id: '100746876247412_767139979608580'
+    url: https://www.facebook.com/100683012920950/posts/767139979608580
+900e2eb8d108f1fa39e510dc7932d02d:mastodon:
+  spec:
+    title: เหมาะสำหรับคนที่เพิ่งเริ่มใช้ PostgreSQL หรือเพิ่งเปลี่ยนจาก MySQL/SQLite [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%84%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9e%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80/
+  state:
+    id: '115177852102406975'
+    url: https://mastodon.in.th/@webring/115177852102406975
+900e2eb8d108f1fa39e510dc7932d02d:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b9%80%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%84%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9e%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80/
+  state:
+    shortLink: https://link.webring.in.th/2770
 902007814da25cabe6c95d74d9762c33:bluesky:
   spec:
     title: 'จดๆจากงาน National Coding Day 2024: Conference Day [debuggingsoft.com]'
