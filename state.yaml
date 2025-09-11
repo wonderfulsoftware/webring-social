@@ -29753,6 +29753,32 @@ c6a8ae664eba1a51749366e09cff6a06:shorturl:
     url: https://www.somkiat.cc/hello-yarp-yet-another-reverse-proxy/
   state:
     shortLink: https://link.webring.in.th/1855
+c6b5bd63e9b3c10a0fbe9e9bcc99eb88:bluesky:
+  spec:
+    title: ทำความรู้จัก PostgreSQL คืออะไร และแตกต่างจาก MySQL อย่างไร [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81-postgresql-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%81/
+  state:
+    cid: bafyreibevp3alxh6gwsb5vgdjjkhmwzwe7wboapncveqcjkecutb6qxwja
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lykfue45ow2q
+c6b5bd63e9b3c10a0fbe9e9bcc99eb88:facebook:
+  spec:
+    title: ทำความรู้จัก PostgreSQL คืออะไร และแตกต่างจาก MySQL อย่างไร [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81-postgresql-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%81/
+  state:
+    id: '100746876247412_768156966173548'
+    url: https://www.facebook.com/100683012920950/posts/768156966173548
+c6b5bd63e9b3c10a0fbe9e9bcc99eb88:mastodon:
+  spec:
+    title: ทำความรู้จัก PostgreSQL คืออะไร และแตกต่างจาก MySQL อย่างไร [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81-postgresql-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%81/
+  state:
+    id: '115184895213017689'
+    url: https://mastodon.in.th/@webring/115184895213017689
+c6b5bd63e9b3c10a0fbe9e9bcc99eb88:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81-postgresql-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%81/
+  state:
+    shortLink: https://link.webring.in.th/2772
 c6e37a1f78e36bfd0f69fe67d741d798:facebook:
   spec:
     title: การหมุนในสามมิติ (เมทริกซ์และควอเทอร์เนียน) [neizod.dev]
