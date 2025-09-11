@@ -36447,6 +36447,32 @@ f52e6cc105cd38ba08ddb80ada7f1b01:shorturl:
     url: https://blog.rayriffy.com/choke-in-japan-2022/
   state:
     shortLink: https://webring.page.link/co4n
+f53bf7ad92b077330001b4cbb503f408:bluesky:
+  spec:
+    title: 'Cloud Native Bangkok Community Group #02 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/09/cloud-native-bangkok-community-group-02/
+  state:
+    cid: bafyreie53tv2zyvybkg62mdyjws6cqk6qekuf3dusyfann53e5zi4kjavm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lykql3bwgn2i
+f53bf7ad92b077330001b4cbb503f408:facebook:
+  spec:
+    title: 'Cloud Native Bangkok Community Group #02 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/09/cloud-native-bangkok-community-group-02/
+  state:
+    id: '100746876247412_768274292828482'
+    url: https://www.facebook.com/100683012920950/posts/768274292828482
+f53bf7ad92b077330001b4cbb503f408:mastodon:
+  spec:
+    title: 'Cloud Native Bangkok Community Group #02 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/09/cloud-native-bangkok-community-group-02/
+  state:
+    id: '115185648938037246'
+    url: https://mastodon.in.th/@webring/115185648938037246
+f53bf7ad92b077330001b4cbb503f408:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/09/cloud-native-bangkok-community-group-02/
+  state:
+    shortLink: https://link.webring.in.th/2773
 f540c3a4033ce458139b45f9f4888b8c:facebook:
   spec:
     title: How to reduce windows.edb size [debuggingsoft.com]
