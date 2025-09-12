@@ -33564,6 +33564,32 @@ e150e4a5487779c75ec30d4996e3058d:shorturl:
     url: https://thiti.dev/blog/105/
   state:
     shortLink: https://webring.page.link/EXPc
+e15edff66b3dd0602594b1670b19a162:bluesky:
+  spec:
+    title: Create a moon (relay network) on Zerotier [rayriffy.com]
+    url: https://rayriffy.com/garden/zerotier-moon/
+  state:
+    cid: bafyreicggn3bqe422nfoehkqkv3cv767ukrcnye6hgxc7vsvjmw6su4q6q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lynb24higl2p
+e15edff66b3dd0602594b1670b19a162:facebook:
+  spec:
+    title: Create a moon (relay network) on Zerotier [rayriffy.com]
+    url: https://rayriffy.com/garden/zerotier-moon/
+  state:
+    id: '100746876247412_769084616080783'
+    url: https://www.facebook.com/100683012920950/posts/769084616080783
+e15edff66b3dd0602594b1670b19a162:mastodon:
+  spec:
+    title: Create a moon (relay network) on Zerotier [rayriffy.com]
+    url: https://rayriffy.com/garden/zerotier-moon/
+  state:
+    id: '115191311418196132'
+    url: https://mastodon.in.th/@webring/115191311418196132
+e15edff66b3dd0602594b1670b19a162:shorturl:
+  spec:
+    url: https://rayriffy.com/garden/zerotier-moon/
+  state:
+    shortLink: https://link.webring.in.th/2777
 e17fce2e30aeb2102e99245725340871:facebook:
   spec:
     title: ปัญหาดิสก์ปิดครอบเล็กที่สุด [neizod.dev]
