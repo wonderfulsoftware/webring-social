@@ -808,6 +808,32 @@
     url: https://mymoneytoolkit.app/posts/recover-loss
   state:
     shortLink: https://link.webring.in.th/2410
+05bc87b5b373d006ab2df644c4e6791a:bluesky:
+  spec:
+    title: Multi-machine work setup [karnwong.me]
+    url: https://karnwong.me/posts/2025/09/multi-machine-work-setup/
+  state:
+    cid: bafyreiced6un7nprh3serq3whob2xfeijil75l2chyxy7fqojqaku7fdj4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lymcp3bm3p2t
+05bc87b5b373d006ab2df644c4e6791a:facebook:
+  spec:
+    title: Multi-machine work setup [karnwong.me]
+    url: https://karnwong.me/posts/2025/09/multi-machine-work-setup/
+  state:
+    id: '100746876247412_768781726111072'
+    url: https://www.facebook.com/100683012920950/posts/768781726111072
+05bc87b5b373d006ab2df644c4e6791a:mastodon:
+  spec:
+    title: Multi-machine work setup [karnwong.me]
+    url: https://karnwong.me/posts/2025/09/multi-machine-work-setup/
+  state:
+    id: '115189176173754081'
+    url: https://mastodon.in.th/@webring/115189176173754081
+05bc87b5b373d006ab2df644c4e6791a:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2025/09/multi-machine-work-setup/
+  state:
+    shortLink: https://link.webring.in.th/2774
 05c9b96c341a37c99fd77671ce9998cc:bluesky:
   spec:
     title: 5 วิธี ดูแล Server Discord ยังไง? ให้ปลอดภัยขั้นต้น! [mikkipastel.com]
