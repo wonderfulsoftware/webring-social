@@ -9321,6 +9321,32 @@
     url: https://www.somkiat.cc/gen-ai-in-google-chrome/
   state:
     shortLink: https://link.webring.in.th/2640
+40a88d236ed6b9897f5db1cc8d37e5bb:bluesky:
+  spec:
+    title: การติดตั้ง PostgreSQL บน Windows / Mac / Linux / Docker [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87-postgresql-%e0%b8%9a%e0%b8%99-windows-mac-linux-docker/
+  state:
+    cid: bafyreigtk2bb54eigzrsp7uawiznwbbxnztgzwn2olay5dpeddr4xe3if4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lymmldhh7n2x
+40a88d236ed6b9897f5db1cc8d37e5bb:facebook:
+  spec:
+    title: การติดตั้ง PostgreSQL บน Windows / Mac / Linux / Docker [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87-postgresql-%e0%b8%9a%e0%b8%99-windows-mac-linux-docker/
+  state:
+    id: '100746876247412_768872316102013'
+    url: https://www.facebook.com/100683012920950/posts/768872316102013
+40a88d236ed6b9897f5db1cc8d37e5bb:mastodon:
+  spec:
+    title: การติดตั้ง PostgreSQL บน Windows / Mac / Linux / Docker [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87-postgresql-%e0%b8%9a%e0%b8%99-windows-mac-linux-docker/
+  state:
+    id: '115189871538671890'
+    url: https://mastodon.in.th/@webring/115189871538671890
+40a88d236ed6b9897f5db1cc8d37e5bb:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87-postgresql-%e0%b8%9a%e0%b8%99-windows-mac-linux-docker/
+  state:
+    shortLink: https://link.webring.in.th/2775
 40feeb56a894ebbf5b3a69e92508ed4b:facebook:
   spec:
     title: Stupid Hackathon 8 และเบื้องหลัง Nokorun [pontakorn.dev]
