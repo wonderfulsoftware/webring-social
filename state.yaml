@@ -36231,6 +36231,32 @@ f2c2df3dbfc439a1bc5ead97f83d7be1:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/05/global-azure-2023-thailand/
   state:
     shortLink: https://webring.page.link/Nbzv
+f2f2f35133c4f904cfeb0c6c82f4095c:bluesky:
+  spec:
+    title: Deploying modern Single Page Applications to Azure Static Web Apps [dt.in.th]
+    url: https://dt.in.th/AzureStaticWebAppsSPA
+  state:
+    cid: bafyreigb7oylp5sfgag4dk2erjj6a2fqhftsh524jswlk5qswcvjr4e2hu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lynkf7bpyg2p
+f2f2f35133c4f904cfeb0c6c82f4095c:facebook:
+  spec:
+    title: Deploying modern Single Page Applications to Azure Static Web Apps [dt.in.th]
+    url: https://dt.in.th/AzureStaticWebAppsSPA
+  state:
+    id: '100746876247412_769198592736052'
+    url: https://www.facebook.com/100683012920950/posts/769198592736052
+f2f2f35133c4f904cfeb0c6c82f4095c:mastodon:
+  spec:
+    title: Deploying modern Single Page Applications to Azure Static Web Apps [dt.in.th]
+    url: https://dt.in.th/AzureStaticWebAppsSPA
+  state:
+    id: '115191969300956436'
+    url: https://mastodon.in.th/@webring/115191969300956436
+f2f2f35133c4f904cfeb0c6c82f4095c:shorturl:
+  spec:
+    url: https://dt.in.th/AzureStaticWebAppsSPA
+  state:
+    shortLink: https://link.webring.in.th/2778
 f3595483661f27cb859e42aaa5c6ff1d:facebook:
   spec:
     title: 'Bebe Fit Routine: เล่า Journey การออกกำลังกายตามคอร์สเบเบ้ [mesodiar.com]'
