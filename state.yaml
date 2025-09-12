@@ -37168,6 +37168,32 @@ f9df194d4d5bb322739a70883216f975:shorturl:
     url: https://amiearth.com/standard-commit-name-git
   state:
     shortLink: https://link.webring.in.th/2407
+f9e72c204d61967dd7c310dde42b1e7f:bluesky:
+  spec:
+    title: มาลองใช้งาน Spec-Driven Development (SDD) [somkiat.cc]
+    url: https://www.somkiat.cc/spec-driven-development/
+  state:
+    cid: bafyreifnxxcswakvzd4bwjo3bh5btxfzjecdadykvpt7xixc6z7mq2oz2u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lymwd2mh2z2t
+f9e72c204d61967dd7c310dde42b1e7f:facebook:
+  spec:
+    title: มาลองใช้งาน Spec-Driven Development (SDD) [somkiat.cc]
+    url: https://www.somkiat.cc/spec-driven-development/
+  state:
+    id: '100746876247412_768969952758916'
+    url: https://www.facebook.com/100683012920950/posts/768969952758916
+f9e72c204d61967dd7c310dde42b1e7f:mastodon:
+  spec:
+    title: มาลองใช้งาน Spec-Driven Development (SDD) [somkiat.cc]
+    url: https://www.somkiat.cc/spec-driven-development/
+  state:
+    id: '115190557129043508'
+    url: https://mastodon.in.th/@webring/115190557129043508
+f9e72c204d61967dd7c310dde42b1e7f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/spec-driven-development/
+  state:
+    shortLink: https://link.webring.in.th/2776
 fa1998ff308540e1de6ec1a02f2ac409:bluesky:
   spec:
     title: Enabling gzip/zstd compression in Caddy [dt.in.th]
