@@ -15655,6 +15655,32 @@
     url: https://www.anuwong.com/blog/2024-01-29-redis-watch/
   state:
     shortLink: https://link.webring.in.th/1746
+6b029bfa2d443d8e924d6626307bcc71:bluesky:
+  spec:
+    title: Internationalized domain name converter [rayriffy.com]
+    url: https://rayriffy.com/garden/punycode-converter/
+  state:
+    cid: bafyreid4hziicemn7w2yobmloxpsembrwln6yaxpc4f6tsxf7zkazemcga
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lyp4wa55ip24
+6b029bfa2d443d8e924d6626307bcc71:facebook:
+  spec:
+    title: Internationalized domain name converter [rayriffy.com]
+    url: https://rayriffy.com/garden/punycode-converter/
+  state:
+    id: '100746876247412_769693026019942'
+    url: https://www.facebook.com/100683012920950/posts/769693026019942
+6b029bfa2d443d8e924d6626307bcc71:mastodon:
+  spec:
+    title: Internationalized domain name converter [rayriffy.com]
+    url: https://rayriffy.com/garden/punycode-converter/
+  state:
+    id: '115195525050157699'
+    url: https://mastodon.in.th/@webring/115195525050157699
+6b029bfa2d443d8e924d6626307bcc71:shorturl:
+  spec:
+    url: https://rayriffy.com/garden/punycode-converter/
+  state:
+    shortLink: https://link.webring.in.th/2780
 6b38db67eb623b3b1162a1bf23052785:bluesky:
   spec:
     title: 'Tips :: ใช้ Playwright ในการบันทึก screenshot หน้า web ที่ต้องการ [somkiat.cc]'
