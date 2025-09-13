@@ -30471,6 +30471,32 @@ cb2f955d46e62ac97a54f9473dbb1d27:shorturl:
     url: https://www.somkiat.cc/java-trends-november-2023-from-infoq/
   state:
     shortLink: https://webring.page.link/gwAu
+cb703a73786ff103779273c9a6097181:bluesky:
+  spec:
+    title: ทำความเข้าใจ Database, Schema, Table, Row, Column [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b9%83%e0%b8%88-database-schema-table-row-column/
+  state:
+    cid: bafyreif4olcgzoux33y67khyujia3ogilgmtv3qzttwe2nbxwx4zaphyny
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lyosth6gdi2f
+cb703a73786ff103779273c9a6097181:facebook:
+  spec:
+    title: ทำความเข้าใจ Database, Schema, Table, Row, Column [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b9%83%e0%b8%88-database-schema-table-row-column/
+  state:
+    id: '100746876247412_769590179363560'
+    url: https://www.facebook.com/100683012920950/posts/769590179363560
+cb703a73786ff103779273c9a6097181:mastodon:
+  spec:
+    title: ทำความเข้าใจ Database, Schema, Table, Row, Column [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b9%83%e0%b8%88-database-schema-table-row-column/
+  state:
+    id: '115194815240972535'
+    url: https://mastodon.in.th/@webring/115194815240972535
+cb703a73786ff103779273c9a6097181:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b9%83%e0%b8%88-database-schema-table-row-column/
+  state:
+    shortLink: https://link.webring.in.th/2779
 cb78da3a7aa388550ab0a4e95c0e23fe:bluesky:
   spec:
     title: How to use Stream Pipe and Transform in Node.js [ntsd.dev]
