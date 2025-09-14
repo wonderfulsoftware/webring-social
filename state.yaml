@@ -37599,6 +37599,32 @@ fded27a275c0ab5923370e23e7a5b37e:shorturl:
     url: https://blog.ninprd.com/blog/even-though-im-not-here-company-still-running-properly/
   state:
     shortLink: https://link.webring.in.th/1921
+fe322b855cd91128f230f9f87e0fa24f:bluesky:
+  spec:
+    title: 'คำสั่ง SQL พื้นฐาน: CREATE TABLE, INSERT, UPDATE, DELETE, SELECT [poolsawat.com]'
+    url: https://www.poolsawat.com/%e0%b8%84%e0%b8%b3%e0%b8%aa%e0%b8%b1%e0%b9%88%e0%b8%87-sql-%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%90%e0%b8%b2%e0%b8%99-create-table-insert-update-delete-select/
+  state:
+    cid: bafyreiaswbpwztfb3lovpsmivqmmv4sanahsq4jotpf576eacerghpfru4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lyrdyu7ei324
+fe322b855cd91128f230f9f87e0fa24f:facebook:
+  spec:
+    title: 'คำสั่ง SQL พื้นฐาน: CREATE TABLE, INSERT, UPDATE, DELETE, SELECT [poolsawat.com]'
+    url: https://www.poolsawat.com/%e0%b8%84%e0%b8%b3%e0%b8%aa%e0%b8%b1%e0%b9%88%e0%b8%87-sql-%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%90%e0%b8%b2%e0%b8%99-create-table-insert-update-delete-select/
+  state:
+    id: '100746876247412_770439369278641'
+    url: https://www.facebook.com/100683012920950/posts/770439369278641
+fe322b855cd91128f230f9f87e0fa24f:mastodon:
+  spec:
+    title: 'คำสั่ง SQL พื้นฐาน: CREATE TABLE, INSERT, UPDATE, DELETE, SELECT [poolsawat.com]'
+    url: https://www.poolsawat.com/%e0%b8%84%e0%b8%b3%e0%b8%aa%e0%b8%b1%e0%b9%88%e0%b8%87-sql-%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%90%e0%b8%b2%e0%b8%99-create-table-insert-update-delete-select/
+  state:
+    id: '115200526978136667'
+    url: https://mastodon.in.th/@webring/115200526978136667
+fe322b855cd91128f230f9f87e0fa24f:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%84%e0%b8%b3%e0%b8%aa%e0%b8%b1%e0%b9%88%e0%b8%87-sql-%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%90%e0%b8%b2%e0%b8%99-create-table-insert-update-delete-select/
+  state:
+    shortLink: https://link.webring.in.th/2781
 fe4a245e5e48be95a259df2927b47550:bluesky:
   spec:
     title: แนะนำการใช้งาน MokAPI [somkiat.cc]
