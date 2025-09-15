@@ -13128,6 +13128,32 @@
     url: https://www.somkiat.cc/goodbye-visual-studio-for-mac/
   state:
     shortLink: https://webring.page.link/jt9f
+5c4eac9c113a6c413e1b169e08daec92:bluesky:
+  spec:
+    title: 'Tips :: ปรับปรุงการทำงานของ Spring Boot Test Context ให้รวดเร็วขึ้น [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-spring-boot-test-context-optimization/
+  state:
+    cid: bafyreickaqixunelf4vzubynhlwzdcaf3wtuoeig5tfke6tvpatthzouri
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lyuhtqir252f
+5c4eac9c113a6c413e1b169e08daec92:facebook:
+  spec:
+    title: 'Tips :: ปรับปรุงการทำงานของ Spring Boot Test Context ให้รวดเร็วขึ้น [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-spring-boot-test-context-optimization/
+  state:
+    id: '100746876247412_771436702512241'
+    url: https://www.facebook.com/100683012920950/posts/771436702512241
+5c4eac9c113a6c413e1b169e08daec92:mastodon:
+  spec:
+    title: 'Tips :: ปรับปรุงการทำงานของ Spring Boot Test Context ให้รวดเร็วขึ้น [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-spring-boot-test-context-optimization/
+  state:
+    id: '115207552502011685'
+    url: https://mastodon.in.th/@webring/115207552502011685
+5c4eac9c113a6c413e1b169e08daec92:shorturl:
+  spec:
+    url: https://www.somkiat.cc/tips-spring-boot-test-context-optimization/
+  state:
+    shortLink: https://link.webring.in.th/2784
 5c5eff6eafbd94fa3e6a566b6a65d6d2:facebook:
   spec:
     title: The Cloud Camp Week#07 (K8S Part2) [debuggingsoft.com]
