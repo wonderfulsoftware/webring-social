@@ -5794,6 +5794,32 @@
     url: https://www.llun.me/posts/dev/2024-07-13-opentelemetry-google-cloud-trace-nextjs
   state:
     shortLink: https://link.webring.in.th/2022
+27ac80866684439f5e7e975c1179f7f2:bluesky:
+  spec:
+    title: จดๆจากงาน LINE DEV CONF 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/recap-line-dev-conf-2025/
+  state:
+    cid: bafyreihyls5ymnvnxdznqbercwjrj3gtas6wzxskkcp5vkc7qztrf4uscm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lytuu2iorp2u
+27ac80866684439f5e7e975c1179f7f2:facebook:
+  spec:
+    title: จดๆจากงาน LINE DEV CONF 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/recap-line-dev-conf-2025/
+  state:
+    id: '100746876247412_771254885863756'
+    url: https://www.facebook.com/100683012920950/posts/771254885863756
+27ac80866684439f5e7e975c1179f7f2:mastodon:
+  spec:
+    title: จดๆจากงาน LINE DEV CONF 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/recap-line-dev-conf-2025/
+  state:
+    id: '115206216368930578'
+    url: https://mastodon.in.th/@webring/115206216368930578
+27ac80866684439f5e7e975c1179f7f2:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/09/recap-line-dev-conf-2025/
+  state:
+    shortLink: https://link.webring.in.th/2782
 27d4cc70465ada5fa6ddabb730dae576:bluesky:
   spec:
     title: '[Google Sheet] หารตัง: หารเงินไม่ปวดหัว [mymoneytoolkit.app]'
