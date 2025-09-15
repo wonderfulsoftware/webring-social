@@ -6524,6 +6524,32 @@
     url: https://www.somkiat.cc/go-with-slog/
   state:
     shortLink: https://webring.page.link/4VZF
+2c91e5a0d175566be922c6c7b49fd9a9:bluesky:
+  spec:
+    title: การใช้งาน pgAdmin / psql CLI เบื้องต้น [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-pgadmin-psql-cli-%e0%b9%80%e0%b8%9a%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b9%89%e0%b8%99/
+  state:
+    cid: bafyreiav3uuudperupuv336lwhevj7kt6uckhuclfrwliaz7hfezm5ljni
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lyu63kzpcj2n
+2c91e5a0d175566be922c6c7b49fd9a9:facebook:
+  spec:
+    title: การใช้งาน pgAdmin / psql CLI เบื้องต้น [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-pgadmin-psql-cli-%e0%b9%80%e0%b8%9a%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b9%89%e0%b8%99/
+  state:
+    id: '100746876247412_771341922521719'
+    url: https://www.facebook.com/100683012920950/posts/771341922521719
+2c91e5a0d175566be922c6c7b49fd9a9:mastodon:
+  spec:
+    title: การใช้งาน pgAdmin / psql CLI เบื้องต้น [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-pgadmin-psql-cli-%e0%b9%80%e0%b8%9a%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b9%89%e0%b8%99/
+  state:
+    id: '115206866191674241'
+    url: https://mastodon.in.th/@webring/115206866191674241
+2c91e5a0d175566be922c6c7b49fd9a9:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-pgadmin-psql-cli-%e0%b9%80%e0%b8%9a%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b9%89%e0%b8%99/
+  state:
+    shortLink: https://link.webring.in.th/2783
 2c9d457cb94cfd4860db6141c09abff5:facebook:
   spec:
     title: XLOOKUP ใช้ ยังไงให้เจ๋ง? เพิ่มประสิทธิภาพด้วย Binary Search [wawasabii.com]
