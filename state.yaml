@@ -28029,6 +28029,32 @@ b9d19f43cf76cd1b1e3cf24dd3f46818:shorturl:
     url: https://notes.dt.in.th/RandomPort
   state:
     shortLink: https://webring.page.link/UKhw
+b9ddeb138d10a85b1280fff0545ef6bf:bluesky:
+  spec:
+    title: 'Longevity: กระแสยืดอายุ ที่ใคร ๆ ก็พูดถึง แต่ไม่ใช่ทุกคนที่จะได้ทำจริง [myifew.com]'
+    url: https://myifew.com/6708/longevity/
+  state:
+    cid: bafyreiapdiubj6sz5d7nz44zwnag5r7ohnigqgnmuctg42jn5koltyzr6a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lyusjjl74z2q
+b9ddeb138d10a85b1280fff0545ef6bf:facebook:
+  spec:
+    title: 'Longevity: กระแสยืดอายุ ที่ใคร ๆ ก็พูดถึง แต่ไม่ใช่ทุกคนที่จะได้ทำจริง [myifew.com]'
+    url: https://myifew.com/6708/longevity/
+  state:
+    id: '100746876247412_771547609167817'
+    url: https://www.facebook.com/100683012920950/posts/771547609167817
+b9ddeb138d10a85b1280fff0545ef6bf:mastodon:
+  spec:
+    title: 'Longevity: กระแสยืดอายุ ที่ใคร ๆ ก็พูดถึง แต่ไม่ใช่ทุกคนที่จะได้ทำจริง [myifew.com]'
+    url: https://myifew.com/6708/longevity/
+  state:
+    id: '115208304253073761'
+    url: https://mastodon.in.th/@webring/115208304253073761
+b9ddeb138d10a85b1280fff0545ef6bf:shorturl:
+  spec:
+    url: https://myifew.com/6708/longevity/
+  state:
+    shortLink: https://link.webring.in.th/2785
 b9e46c4a2f8550e14a6fe11fba4be49d:facebook:
   spec:
     title: Secure home server by Cloudflare Zero Trust and Cloudflare Tunnel [ntsd.dev]
