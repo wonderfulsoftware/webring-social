@@ -2837,6 +2837,32 @@
     url: https://mesodiar.com/2024/04/06/iwd-vientiane-2024/
   state:
     shortLink: https://link.webring.in.th/1867
+13b984a19d860e3fc872b1236cdeaade:bluesky:
+  spec:
+    title: การใช้ PRIMARY KEY, FOREIGN KEY, UNIQUE, CHECK [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-primary-key-foreign-key-unique-check/
+  state:
+    cid: bafyreibuh3tigmk4drcmg4scw3bi7irmjyexk5sohvyzbgxelonktqo3ce
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lywyagxzv72w
+13b984a19d860e3fc872b1236cdeaade:facebook:
+  spec:
+    title: การใช้ PRIMARY KEY, FOREIGN KEY, UNIQUE, CHECK [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-primary-key-foreign-key-unique-check/
+  state:
+    id: '100746876247412_772232275766017'
+    url: https://www.facebook.com/100683012920950/posts/772232275766017
+13b984a19d860e3fc872b1236cdeaade:mastodon:
+  spec:
+    title: การใช้ PRIMARY KEY, FOREIGN KEY, UNIQUE, CHECK [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-primary-key-foreign-key-unique-check/
+  state:
+    id: '115213210094479128'
+    url: https://mastodon.in.th/@webring/115213210094479128
+13b984a19d860e3fc872b1236cdeaade:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-primary-key-foreign-key-unique-check/
+  state:
+    shortLink: https://link.webring.in.th/2788
 13fa91c6861ebfb475508351fa2dfa09:facebook:
   spec:
     title: ทำสองภาษาใน Next.js ที่เป็น App directory [kajame.xyz]
