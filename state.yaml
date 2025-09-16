@@ -11822,6 +11822,32 @@
     url: https://www.somkiat.cc/note-chatgpt-prompt-engineering-for-developers/
   state:
     shortLink: https://webring.page.link/iQLk
+522c941fffdfb7befd17cede16927877:bluesky:
+  spec:
+    title: Using Bun on Cloudflare Pages [dt.in.th]
+    url: https://dt.in.th/BunCloudflarePages
+  state:
+    cid: bafyreicndh4jrn4g733pi75x4rpbm64d5gxdeg377eqab634z35mm4aoke
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lywensn4522q
+522c941fffdfb7befd17cede16927877:facebook:
+  spec:
+    title: Using Bun on Cloudflare Pages [dt.in.th]
+    url: https://dt.in.th/BunCloudflarePages
+  state:
+    id: '100746876247412_772044362451475'
+    url: https://www.facebook.com/100683012920950/posts/772044362451475
+522c941fffdfb7befd17cede16927877:mastodon:
+  spec:
+    title: Using Bun on Cloudflare Pages [dt.in.th]
+    url: https://dt.in.th/BunCloudflarePages
+  state:
+    id: '115211832298504780'
+    url: https://mastodon.in.th/@webring/115211832298504780
+522c941fffdfb7befd17cede16927877:shorturl:
+  spec:
+    url: https://dt.in.th/BunCloudflarePages
+  state:
+    shortLink: https://link.webring.in.th/2786
 525e4681a8d58d43d64e145c50bc4802:bluesky:
   spec:
     title: รายชื่อเครื่องมือสำหรับ Mock API Server ที่น่าสนใจ มีอะไรบ้าง ? [somkiat.cc]
