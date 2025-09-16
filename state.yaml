@@ -36439,6 +36439,32 @@ f2f2f35133c4f904cfeb0c6c82f4095c:shorturl:
     url: https://dt.in.th/AzureStaticWebAppsSPA
   state:
     shortLink: https://link.webring.in.th/2778
+f33e571c89cf1afe5a27891ee86591cc:bluesky:
+  spec:
+    title: Git re-clone to existing folder with files [garden.narze.live]
+    url: https://garden.narze.live/git-re-clone-to-existing-folder-with-files/
+  state:
+    cid: bafyreiam2nigmew552pv6mvwrpc3ai4ibwvzm2cmzv4jyzguqrel2bzigq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lywoifybuv2q
+f33e571c89cf1afe5a27891ee86591cc:facebook:
+  spec:
+    title: Git re-clone to existing folder with files [garden.narze.live]
+    url: https://garden.narze.live/git-re-clone-to-existing-folder-with-files/
+  state:
+    id: '100746876247412_772137945775450'
+    url: https://www.facebook.com/100683012920950/posts/772137945775450
+f33e571c89cf1afe5a27891ee86591cc:mastodon:
+  spec:
+    title: Git re-clone to existing folder with files [garden.narze.live]
+    url: https://garden.narze.live/git-re-clone-to-existing-folder-with-files/
+  state:
+    id: '115212523748873968'
+    url: https://mastodon.in.th/@webring/115212523748873968
+f33e571c89cf1afe5a27891ee86591cc:shorturl:
+  spec:
+    url: https://garden.narze.live/git-re-clone-to-existing-folder-with-files/
+  state:
+    shortLink: https://link.webring.in.th/2787
 f3595483661f27cb859e42aaa5c6ff1d:facebook:
   spec:
     title: 'Bebe Fit Routine: เล่า Journey การออกกำลังกายตามคอร์สเบเบ้ [mesodiar.com]'
