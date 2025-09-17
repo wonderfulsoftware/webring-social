@@ -20484,6 +20484,32 @@
     url: https://www.mikkipastel.com/true-digital-academy-enhancing-business-performance-with-generative-ai/
   state:
     shortLink: https://link.webring.in.th/2110
+86bd8bb3cb9b5b88e9b19b8cf376eed4:bluesky:
+  spec:
+    title: Split long screen image into single pdf file [garden.narze.live]
+    url: https://garden.narze.live/split-long-screen-image-into-single-pdf-file/
+  state:
+    cid: bafyreicsixxwtnxoswvdwjj4w2ow7t75ojgxcigjzvi3ljceturhynct4i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lyyv324jzr2w
+86bd8bb3cb9b5b88e9b19b8cf376eed4:facebook:
+  spec:
+    title: Split long screen image into single pdf file [garden.narze.live]
+    url: https://garden.narze.live/split-long-screen-image-into-single-pdf-file/
+  state:
+    id: '100746876247412_772856682370243'
+    url: https://www.facebook.com/100683012920950/posts/772856682370243
+86bd8bb3cb9b5b88e9b19b8cf376eed4:mastodon:
+  spec:
+    title: Split long screen image into single pdf file [garden.narze.live]
+    url: https://garden.narze.live/split-long-screen-image-into-single-pdf-file/
+  state:
+    id: '115217490336550397'
+    url: https://mastodon.in.th/@webring/115217490336550397
+86bd8bb3cb9b5b88e9b19b8cf376eed4:shorturl:
+  spec:
+    url: https://garden.narze.live/split-long-screen-image-into-single-pdf-file/
+  state:
+    shortLink: https://link.webring.in.th/2789
 86be171e9c13d54d7f6f00c883907b91:facebook:
   spec:
     title: ลบชื่อ Server ออกจาก response header (Nginx) [trwkc.dev]
