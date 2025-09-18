@@ -26803,6 +26803,32 @@ b0154bf4b6145a5f744da63d8bdc712b:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/02/vba-convert-excel-to-pipe-delimited-file/
   state:
     shortLink: https://link.webring.in.th/1752
+b04cbec960689f27fac77cb0b818acb6:bluesky:
+  spec:
+    title: การออกแบบ Database Schema ที่ดี (Normalization vs Denormalization) [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9a%e0%b8%9a-database-schema-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%94%e0%b8%b5-normalization-vs-denormalization/
+  state:
+    cid: bafyreig2qbana4s2zdl25hg56zxh4vuv44c5wek24ah425cnyqc3t7wu4a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lz3focftj62n
+b04cbec960689f27fac77cb0b818acb6:facebook:
+  spec:
+    title: การออกแบบ Database Schema ที่ดี (Normalization vs Denormalization) [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9a%e0%b8%9a-database-schema-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%94%e0%b8%b5-normalization-vs-denormalization/
+  state:
+    id: '100746876247412_773687888953789'
+    url: https://www.facebook.com/100683012920950/posts/773687888953789
+b04cbec960689f27fac77cb0b818acb6:mastodon:
+  spec:
+    title: การออกแบบ Database Schema ที่ดี (Normalization vs Denormalization) [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9a%e0%b8%9a-database-schema-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%94%e0%b8%b5-normalization-vs-denormalization/
+  state:
+    id: '115223162661729905'
+    url: https://mastodon.in.th/@webring/115223162661729905
+b04cbec960689f27fac77cb0b818acb6:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9a%e0%b8%9a-database-schema-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%94%e0%b8%b5-normalization-vs-denormalization/
+  state:
+    shortLink: https://link.webring.in.th/2791
 b0880eacad6dee73e7cd33e6dead57e8:bluesky:
   spec:
     title: Library สำหรับการอ่านข้อมูลในรูปแบบต่าง ๆ [somkiat.cc]
