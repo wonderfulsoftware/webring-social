@@ -21498,6 +21498,32 @@
     url: https://www.somkiat.cc/observability-with-grafana-platform/
   state:
     shortLink: https://webring.page.link/8Hxo
+8c90426c8265e985cb8a5374c142a398:bluesky:
+  spec:
+    title: '[CR] Starbucks Parisian Ham 3 Cheeses Multigrain [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/09/cr-starbucks-parisian-ham-3-cheeses-multigrain/
+  state:
+    cid: bafyreidojwwkj5iucfrbytnetsuk3y3hjhg5p2umsd7idgn357baakchui
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lz6uffbcoz2r
+8c90426c8265e985cb8a5374c142a398:facebook:
+  spec:
+    title: '[CR] Starbucks Parisian Ham 3 Cheeses Multigrain [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/09/cr-starbucks-parisian-ham-3-cheeses-multigrain/
+  state:
+    id: '100746876247412_774806688841909'
+    url: https://www.facebook.com/100683012920950/posts/774806688841909
+8c90426c8265e985cb8a5374c142a398:mastodon:
+  spec:
+    title: '[CR] Starbucks Parisian Ham 3 Cheeses Multigrain [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/09/cr-starbucks-parisian-ham-3-cheeses-multigrain/
+  state:
+    id: '115230953998746488'
+    url: https://mastodon.in.th/@webring/115230953998746488
+8c90426c8265e985cb8a5374c142a398:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/09/cr-starbucks-parisian-ham-3-cheeses-multigrain/
+  state:
+    shortLink: https://link.webring.in.th/2793
 8c90a80fa45f3db5583498dcfcfd5209:bluesky:
   spec:
     title: 'Go :: มาทำการทดสอบระบบงานกับ Database ด้วย TestContainer กัน [somkiat.cc]'
