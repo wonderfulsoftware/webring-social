@@ -17272,6 +17272,32 @@
     url: https://www.mikkipastel.com/android-activity-lifecycle/
   state:
     shortLink: https://link.webring.in.th/2509
+7502665f0e8ade5a37a8ba27f6010eb4:bluesky:
+  spec:
+    title: การใช้ Index (B-Tree, Hash, GIN, BRIN) เพื่อเร่งความเร็ว Query [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-index-b-tree-hash-gin-brin-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2/
+  state:
+    cid: bafyreieohqhyx6jaggfva5kvuuj6t3qjpv67kdowpvmaf2nyig7kwykzn4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lz5wdhpirh2c
+7502665f0e8ade5a37a8ba27f6010eb4:facebook:
+  spec:
+    title: การใช้ Index (B-Tree, Hash, GIN, BRIN) เพื่อเร่งความเร็ว Query [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-index-b-tree-hash-gin-brin-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2/
+  state:
+    id: '100746876247412_774497588872819'
+    url: https://www.facebook.com/100683012920950/posts/774497588872819
+7502665f0e8ade5a37a8ba27f6010eb4:mastodon:
+  spec:
+    title: การใช้ Index (B-Tree, Hash, GIN, BRIN) เพื่อเร่งความเร็ว Query [poolsawat.com]
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-index-b-tree-hash-gin-brin-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2/
+  state:
+    id: '115228838557299370'
+    url: https://mastodon.in.th/@webring/115228838557299370
+7502665f0e8ade5a37a8ba27f6010eb4:shorturl:
+  spec:
+    url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-index-b-tree-hash-gin-brin-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2/
+  state:
+    shortLink: https://link.webring.in.th/2792
 7521a222a5c3212d43c5e33155c6c41a:facebook:
   spec:
     title: '[CR] Starbucks Mixed Mushroom Whole Wheat Sandwich (อาหารเจ) [debuggingsoft.com]'
