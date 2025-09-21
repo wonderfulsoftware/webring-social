@@ -37342,6 +37342,32 @@ f8aa409e478c1a06ac5c2a6d5781269d:shorturl:
     url: https://yothinix.com/detailing-journey/
   state:
     shortLink: https://webring.page.link/gt15
+f8ad661e690864949ed3fcbeb94f0a58:bluesky:
+  spec:
+    title: Chrome's undocumented DownloadURL API for drag-and-drop file downloads [dt.in.th]
+    url: https://dt.in.th/DownloadURL
+  state:
+    cid: bafyreic4ynxv7zd7qxgh5p6yp3v4trdwunt4jcpx5pd2dbjdxga6drmwhm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lzcxl44vyt2p
+f8ad661e690864949ed3fcbeb94f0a58:facebook:
+  spec:
+    title: Chrome's undocumented DownloadURL API for drag-and-drop file downloads [dt.in.th]
+    url: https://dt.in.th/DownloadURL
+  state:
+    id: '100746876247412_776186328703945'
+    url: https://www.facebook.com/100683012920950/posts/776186328703945
+f8ad661e690864949ed3fcbeb94f0a58:mastodon:
+  spec:
+    title: Chrome's undocumented DownloadURL API for drag-and-drop file downloads [dt.in.th]
+    url: https://dt.in.th/DownloadURL
+  state:
+    id: '115240184779555606'
+    url: https://mastodon.in.th/@webring/115240184779555606
+f8ad661e690864949ed3fcbeb94f0a58:shorturl:
+  spec:
+    url: https://dt.in.th/DownloadURL
+  state:
+    shortLink: https://link.webring.in.th/2794
 f8ad872b85cdc856802d713c5248c9ee:facebook:
   spec:
     title: รูปแบบของการออกแบบ Service ที่แปลก ๆ [somkiat.cc]
