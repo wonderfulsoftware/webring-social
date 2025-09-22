@@ -31221,6 +31221,32 @@ cd681895875b13da5ecd82d625bb4620:shorturl:
     url: https://tech.duckfollow.co/view/env
   state:
     shortLink: https://link.webring.in.th/2005
+cd7c0ae122e04df36fb0fa67a8a1d6c3:bluesky:
+  spec:
+    title: Force macOS to go to sleep after a set time [garden.narze.live]
+    url: https://garden.narze.live/force-macos-to-go-to-sleep-after-a-set-time/
+  state:
+    cid: bafyreianvdoqpfzsnufnkz2yhkdvb3bollor6n2ratmjp2ixobdb3mvy6i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lzgfto2wqo2i
+cd7c0ae122e04df36fb0fa67a8a1d6c3:facebook:
+  spec:
+    title: Force macOS to go to sleep after a set time [garden.narze.live]
+    url: https://garden.narze.live/force-macos-to-go-to-sleep-after-a-set-time/
+  state:
+    id: '100746876247412_777329535256291'
+    url: https://www.facebook.com/100683012920950/posts/777329535256291
+cd7c0ae122e04df36fb0fa67a8a1d6c3:mastodon:
+  spec:
+    title: Force macOS to go to sleep after a set time [garden.narze.live]
+    url: https://garden.narze.live/force-macos-to-go-to-sleep-after-a-set-time/
+  state:
+    id: '115247943629008498'
+    url: https://mastodon.in.th/@webring/115247943629008498
+cd7c0ae122e04df36fb0fa67a8a1d6c3:shorturl:
+  spec:
+    url: https://garden.narze.live/force-macos-to-go-to-sleep-after-a-set-time/
+  state:
+    shortLink: https://link.webring.in.th/2796
 cd8fd59aeef7ef0d0711032bc7d7a53b:facebook:
   spec:
     title: 'Spring Framework 6.2.0-M1 :: มาใช้งาน @TestBean ใน test กัน [somkiat.cc]'
