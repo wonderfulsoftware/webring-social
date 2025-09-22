@@ -2588,6 +2588,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/05/ibmdb2-net-sql0902-an-unexpected-exception-has-occurred-in-process-there-are-no-context-policies-function-aesencryptadonet/
   state:
     shortLink: https://link.webring.in.th/2564
+113efb9c7d2b1de5db1f37f250fae284:bluesky:
+  spec:
+    title: วางแผนเกษียณแบบเห็นภาพ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/retirement-web
+  state:
+    cid: bafyreifthd2dr7btqvl4ixiifewayg2kiklxlcu3sn6rp23h7z4j2nb7zi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lzfi2qeoqm2i
+113efb9c7d2b1de5db1f37f250fae284:facebook:
+  spec:
+    title: วางแผนเกษียณแบบเห็นภาพ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/retirement-web
+  state:
+    id: '100746876247412_777018928620685'
+    url: https://www.facebook.com/100683012920950/posts/777018928620685
+113efb9c7d2b1de5db1f37f250fae284:mastodon:
+  spec:
+    title: วางแผนเกษียณแบบเห็นภาพ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/retirement-web
+  state:
+    id: '115245848674045707'
+    url: https://mastodon.in.th/@webring/115245848674045707
+113efb9c7d2b1de5db1f37f250fae284:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/retirement-web
+  state:
+    shortLink: https://link.webring.in.th/2795
 11ca6f63b70af5dd3b88182821293e2e:facebook:
   spec:
     title: เพิ่งเห็นว่า Mojo เป็นให้ Download แล้ว [somkiat.cc]
