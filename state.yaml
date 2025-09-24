@@ -26127,6 +26127,32 @@ ab4df5526e56d1472f72d0ed3efb9755:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/09/cr-%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%94%e0%b8%b5/
   state:
     shortLink: https://webring.page.link/FrT7
+ab72239dec847c28a5ba636c9b0b7595:bluesky:
+  spec:
+    title: มารู้จัก Webull – อีกหนึ่ง Trading App ระดับสากลที่เราอยากให้ลอง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/webull
+  state:
+    cid: bafyreid52zf2xnhjeofxwhg6m45ee3mi52367vks23m3hy6yrvr334floe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lzkiwsz6jw2w
+ab72239dec847c28a5ba636c9b0b7595:facebook:
+  spec:
+    title: มารู้จัก Webull – อีกหนึ่ง Trading App ระดับสากลที่เราอยากให้ลอง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/webull
+  state:
+    id: '100746876247412_778642441791667'
+    url: https://www.facebook.com/100683012920950/posts/778642441791667
+ab72239dec847c28a5ba636c9b0b7595:mastodon:
+  spec:
+    title: มารู้จัก Webull – อีกหนึ่ง Trading App ระดับสากลที่เราอยากให้ลอง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/webull
+  state:
+    id: '115257169341101482'
+    url: https://mastodon.in.th/@webring/115257169341101482
+ab72239dec847c28a5ba636c9b0b7595:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/webull
+  state:
+    shortLink: https://link.webring.in.th/2798
 ab7279ac3fb2c468cb3702240d9f5fb7:facebook:
   spec:
     title: 'Bkk.js #18 [tech.duckfollow.co]'
