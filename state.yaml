@@ -31318,6 +31318,32 @@ cd8fd59aeef7ef0d0711032bc7d7a53b:shorturl:
     url: https://www.somkiat.cc/spring-framework-testbean/
   state:
     shortLink: https://link.webring.in.th/1903
+cd97933c280d402c94a4b07b18ad68fd:bluesky:
+  spec:
+    title: Error This implementation is not part of the Windows Platform FIPS validated cryptographic algorithms [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/error-this-implementation-is-not-part-of-the-windows-platform-fips-validated-cryptographic-algorithms/
+  state:
+    cid: bafyreibz5kyzl3vbknuxc5uspifi3l7g24g7k5my32jhd257gtjpf4ng2q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lzmz6ebwkf2f
+cd97933c280d402c94a4b07b18ad68fd:facebook:
+  spec:
+    title: Error This implementation is not part of the Windows Platform FIPS validated cryptographic algorithms [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/error-this-implementation-is-not-part-of-the-windows-platform-fips-validated-cryptographic-algorithms/
+  state:
+    id: '100746876247412_779459265043318'
+    url: https://www.facebook.com/100683012920950/posts/779459265043318
+cd97933c280d402c94a4b07b18ad68fd:mastodon:
+  spec:
+    title: Error This implementation is not part of the Windows Platform FIPS validated cryptographic algorithms [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/error-this-implementation-is-not-part-of-the-windows-platform-fips-validated-cryptographic-algorithms/
+  state:
+    id: '115262815373028612'
+    url: https://mastodon.in.th/@webring/115262815373028612
+cd97933c280d402c94a4b07b18ad68fd:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/09/error-this-implementation-is-not-part-of-the-windows-platform-fips-validated-cryptographic-algorithms/
+  state:
+    shortLink: https://link.webring.in.th/2799
 cdb5acb3ee6d2533fe9c745ab67b3af3:bluesky:
   spec:
     title: DOTNET MEETUP JUNE 2025 @AGODA [debuggingsoft.com]
