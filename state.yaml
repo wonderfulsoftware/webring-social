@@ -4542,6 +4542,32 @@
     url: https://blog.ninprd.com/blog/wordpress-basic-iv/
   state:
     shortLink: https://link.webring.in.th/2037
+1edf45554742784fced304085562862a:bluesky:
+  spec:
+    title: สวัสดี GitHub Copilot CLI [somkiat.cc]
+    url: https://www.somkiat.cc/hello-github-copilot-cli/
+  state:
+    cid: bafyreigwqiqzu765345uq37jqnuopopdlnl7ivt7boik4objpva7jdcozq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lzrzpj4c3t2c
+1edf45554742784fced304085562862a:facebook:
+  spec:
+    title: สวัสดี GitHub Copilot CLI [somkiat.cc]
+    url: https://www.somkiat.cc/hello-github-copilot-cli/
+  state:
+    id: '100746876247412_781062518216326'
+    url: https://www.facebook.com/100683012920950/posts/781062518216326
+1edf45554742784fced304085562862a:mastodon:
+  spec:
+    title: สวัสดี GitHub Copilot CLI [somkiat.cc]
+    url: https://www.somkiat.cc/hello-github-copilot-cli/
+  state:
+    id: '115274112083344186'
+    url: https://mastodon.in.th/@webring/115274112083344186
+1edf45554742784fced304085562862a:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-github-copilot-cli/
+  state:
+    shortLink: https://link.webring.in.th/2800
 1f1fd6c136e3be021ea09978deb73d81:facebook:
   spec:
     title: The Cloud Camp Week#04 (Agile) [debuggingsoft.com]
