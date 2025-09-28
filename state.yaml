@@ -17032,6 +17032,32 @@
     url: https://www.somkiat.cc/dependency-track-sbom/
   state:
     shortLink: https://link.webring.in.th/2083
+722d14ac31ba738123d121c11731d3d3:bluesky:
+  spec:
+    title: 'Tip :: แนวทางการตรวจสอบ folder ที่เปลี่ยนแปลงใน Jenkins pipeline [somkiat.cc]'
+    url: https://www.somkiat.cc/tip-jenkins-pipeline-detect-changes-by-folder/
+  state:
+    cid: bafyreifvap6eq26aevq4ysvfq7toosh7y5yewoznbrhdccgedteqi5seja
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lzuku75oa72u
+722d14ac31ba738123d121c11731d3d3:facebook:
+  spec:
+    title: 'Tip :: แนวทางการตรวจสอบ folder ที่เปลี่ยนแปลงใน Jenkins pipeline [somkiat.cc]'
+    url: https://www.somkiat.cc/tip-jenkins-pipeline-detect-changes-by-folder/
+  state:
+    id: '100746876247412_781895518133026'
+    url: https://www.facebook.com/100683012920950/posts/781895518133026
+722d14ac31ba738123d121c11731d3d3:mastodon:
+  spec:
+    title: 'Tip :: แนวทางการตรวจสอบ folder ที่เปลี่ยนแปลงใน Jenkins pipeline [somkiat.cc]'
+    url: https://www.somkiat.cc/tip-jenkins-pipeline-detect-changes-by-folder/
+  state:
+    id: '115279822309662339'
+    url: https://mastodon.in.th/@webring/115279822309662339
+722d14ac31ba738123d121c11731d3d3:shorturl:
+  spec:
+    url: https://www.somkiat.cc/tip-jenkins-pipeline-detect-changes-by-folder/
+  state:
+    shortLink: https://link.webring.in.th/2801
 72768184c51657927356c238e101729e:facebook:
   spec:
     title: How to retag a Docker image on a remote registry without pulling the image to local machine [dt.in.th]
