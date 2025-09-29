@@ -30446,6 +30446,32 @@ c7e81d23ce19b1af0e9ec1e0e3ad0c5d:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/02/cr-starbucks-double-chocolate-pain-suisse/
   state:
     shortLink: https://link.webring.in.th/1783
+c7ea5dab05bec4eaef1305f6f086ef83:bluesky:
+  spec:
+    title: ว่าง ๆ มาใช้งาน SubAgent ใน Claude Code แบบง่าย ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/subagent-with-claude-code/
+  state:
+    cid: bafyreidr7lnxet6sd4rbhu5xfnpcyjjuubpxeuy33v7zipral4sxeidzoy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lzx3ancymv2n
+c7ea5dab05bec4eaef1305f6f086ef83:facebook:
+  spec:
+    title: ว่าง ๆ มาใช้งาน SubAgent ใน Claude Code แบบง่าย ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/subagent-with-claude-code/
+  state:
+    id: '100746876247412_782720224717222'
+    url: https://www.facebook.com/100683012920950/posts/782720224717222
+c7ea5dab05bec4eaef1305f6f086ef83:mastodon:
+  spec:
+    title: ว่าง ๆ มาใช้งาน SubAgent ใน Claude Code แบบง่าย ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/subagent-with-claude-code/
+  state:
+    id: '115285479315355266'
+    url: https://mastodon.in.th/@webring/115285479315355266
+c7ea5dab05bec4eaef1305f6f086ef83:shorturl:
+  spec:
+    url: https://www.somkiat.cc/subagent-with-claude-code/
+  state:
+    shortLink: https://link.webring.in.th/2802
 c7f7fc60b101dfb3799bf25059eaafe1:bluesky:
   spec:
     title: วิธีใช้ Service Worker ทำ Offline Web App [poolsawat.com]
