@@ -11682,6 +11682,32 @@
     url: https://dmg.st/microsoft-teams-limit-attendees/
   state:
     shortLink: https://link.webring.in.th/2048
+515594a19db4d166938d4ba1d3d1b939:bluesky:
+  spec:
+    title: Code-signing macOS binary [rayriffy.com]
+    url: https://rayriffy.com/garden/code-signing-macos-binary/
+  state:
+    cid: bafyreibvfjmh7mzfvhmubejpq64gckrtktaor6uwyxrzyhndfu7li3yuc4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lzxen6px4z2j
+515594a19db4d166938d4ba1d3d1b939:facebook:
+  spec:
+    title: Code-signing macOS binary [rayriffy.com]
+    url: https://rayriffy.com/garden/code-signing-macos-binary/
+  state:
+    id: '100746876247412_782812864707958'
+    url: https://www.facebook.com/100683012920950/posts/782812864707958
+515594a19db4d166938d4ba1d3d1b939:mastodon:
+  spec:
+    title: Code-signing macOS binary [rayriffy.com]
+    url: https://rayriffy.com/garden/code-signing-macos-binary/
+  state:
+    id: '115286140054502440'
+    url: https://mastodon.in.th/@webring/115286140054502440
+515594a19db4d166938d4ba1d3d1b939:shorturl:
+  spec:
+    url: https://rayriffy.com/garden/code-signing-macos-binary/
+  state:
+    shortLink: https://link.webring.in.th/2803
 5158e2c37f2234ee928ba9d5229bde21:bluesky:
   spec:
     title: '[CR] ข้าวมันไก่ โรงแรมมณเฑียร [debuggingsoft.com]'
