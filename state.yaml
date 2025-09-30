@@ -9342,6 +9342,32 @@
     url: https://www.somkiat.cc/how-to-develop-artifacts/
   state:
     shortLink: https://link.webring.in.th/2114
+3fca07eb2f132a9a9d5e2ed4dbbf2e2a:bluesky:
+  spec:
+    title: 9arm ชวนกิน Taco Bell [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/9arm-sell-taco-bell/
+  state:
+    cid: bafyreihiwfa45ekyrfi242f742v7qdgaoc2ytsokdxzqbhz7btuj2rjcaa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3lzzleesjmu2n
+3fca07eb2f132a9a9d5e2ed4dbbf2e2a:facebook:
+  spec:
+    title: 9arm ชวนกิน Taco Bell [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/9arm-sell-taco-bell/
+  state:
+    id: '100746876247412_783555667967011'
+    url: https://www.facebook.com/100683012920950/posts/783555667967011
+3fca07eb2f132a9a9d5e2ed4dbbf2e2a:mastodon:
+  spec:
+    title: 9arm ชวนกิน Taco Bell [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/09/9arm-sell-taco-bell/
+  state:
+    id: '115291116881234420'
+    url: https://mastodon.in.th/@webring/115291116881234420
+3fca07eb2f132a9a9d5e2ed4dbbf2e2a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/09/9arm-sell-taco-bell/
+  state:
+    shortLink: https://link.webring.in.th/2804
 3fdf7f429586c1dfd71c1b409cf6cb17:bluesky:
   spec:
     title: 'สรุป Session จากงาน SCBX Unleashing CX: EP3 Figma Bangkok Meetup [blog.ninprd.com]'
