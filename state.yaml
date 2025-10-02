@@ -3657,6 +3657,32 @@
     url: https://blog.ninprd.com/blog/summarize-oc-24-what-does-it-mean-for-software-development-to-be-joyful/
   state:
     shortLink: https://link.webring.in.th/2258
+18fc7d7aa3fa5428a74f51508a996c42:bluesky:
+  spec:
+    title: Automatically saving Gmail messages to Google Drive as EML files using Google Apps Script [dt.in.th]
+    url: https://dt.in.th/GmailToGoogleDrive
+  state:
+    cid: bafyreihzdc3uqdln2dr4ccr5hza64nxvafqgha7g54suvyzduo77nfbbvq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m26m5xw6552y
+18fc7d7aa3fa5428a74f51508a996c42:facebook:
+  spec:
+    title: Automatically saving Gmail messages to Google Drive as EML files using Google Apps Script [dt.in.th]
+    url: https://dt.in.th/GmailToGoogleDrive
+  state:
+    id: '100746876247412_785307841125127'
+    url: https://www.facebook.com/100683012920950/posts/785307841125127
+18fc7d7aa3fa5428a74f51508a996c42:mastodon:
+  spec:
+    title: Automatically saving Gmail messages to Google Drive as EML files using Google Apps Script [dt.in.th]
+    url: https://dt.in.th/GmailToGoogleDrive
+  state:
+    id: '115302432178691788'
+    url: https://mastodon.in.th/@webring/115302432178691788
+18fc7d7aa3fa5428a74f51508a996c42:shorturl:
+  spec:
+    url: https://dt.in.th/GmailToGoogleDrive
+  state:
+    shortLink: https://link.webring.in.th/2805
 18fcc495ea7b49a95cc38ea91ce27c0a:facebook:
   spec:
     title: TCP + JSON บน Windows7 แล้ว JSON แหว่งง [debuggingsoft.com]
