@@ -4205,6 +4205,32 @@
     url: https://www.somkiat.cc/hello-postbot-in-postman/
   state:
     shortLink: https://webring.page.link/UzgP
+1c328d5837f016fe4288d3a7fc00ed34:bluesky:
+  spec:
+    title: ลองใช้ Microsoft SQL Server mcp server กับ Claude Desktop กัน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/how-to-microsoft-sql-server-mcp-server-with-claude-desktop/
+  state:
+    cid: bafyreifotsr3ixf3gkokbd4xlgbac7guiqbo4zho3ovxsxzfyegblg7jl4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m26vwtoivw2c
+1c328d5837f016fe4288d3a7fc00ed34:facebook:
+  spec:
+    title: ลองใช้ Microsoft SQL Server mcp server กับ Claude Desktop กัน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/how-to-microsoft-sql-server-mcp-server-with-claude-desktop/
+  state:
+    id: '100746876247412_785409494448295'
+    url: https://www.facebook.com/100683012920950/posts/785409494448295
+1c328d5837f016fe4288d3a7fc00ed34:mastodon:
+  spec:
+    title: ลองใช้ Microsoft SQL Server mcp server กับ Claude Desktop กัน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/how-to-microsoft-sql-server-mcp-server-with-claude-desktop/
+  state:
+    id: '115303120282913155'
+    url: https://mastodon.in.th/@webring/115303120282913155
+1c328d5837f016fe4288d3a7fc00ed34:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/10/how-to-microsoft-sql-server-mcp-server-with-claude-desktop/
+  state:
+    shortLink: https://link.webring.in.th/2806
 1c8662a8f933bfebc549b1fdf2d465cb:facebook:
   spec:
     title: Short note from book "metamorphosis" [yuttakhanb.dev]
