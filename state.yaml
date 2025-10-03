@@ -15045,6 +15045,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/08/dotnet-meetup-thailand-aug-2025/
   state:
     shortLink: https://link.webring.in.th/2728
+649826f56365d653e9be4937dd1941d9:bluesky:
+  spec:
+    title: มาลองใช้งาน PostgreSQL สำหรับเก็บ data caching ด้วย Unlogged table [somkiat.cc]
+    url: https://www.somkiat.cc/postgresql-with-data-caching-with-unlogged-table/
+  state:
+    cid: bafyreid7uryanuo7dlwtgjibn6e5bpl34act2v5p5rzsz6og7qrgkp54jy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m2b4l3hpvu2n
+649826f56365d653e9be4937dd1941d9:facebook:
+  spec:
+    title: มาลองใช้งาน PostgreSQL สำหรับเก็บ data caching ด้วย Unlogged table [somkiat.cc]
+    url: https://www.somkiat.cc/postgresql-with-data-caching-with-unlogged-table/
+  state:
+    id: '100746876247412_786192721036639'
+    url: https://www.facebook.com/100683012920950/posts/786192721036639
+649826f56365d653e9be4937dd1941d9:mastodon:
+  spec:
+    title: มาลองใช้งาน PostgreSQL สำหรับเก็บ data caching ด้วย Unlogged table [somkiat.cc]
+    url: https://www.somkiat.cc/postgresql-with-data-caching-with-unlogged-table/
+  state:
+    id: '115308090457520567'
+    url: https://mastodon.in.th/@webring/115308090457520567
+649826f56365d653e9be4937dd1941d9:shorturl:
+  spec:
+    url: https://www.somkiat.cc/postgresql-with-data-caching-with-unlogged-table/
+  state:
+    shortLink: https://link.webring.in.th/2807
 64a51a009e1b321846901e37c31baadb:bluesky:
   spec:
     title: Acrylic Stand - Stargazer 2025 🌃 [lucian.solutions]
