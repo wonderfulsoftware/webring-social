@@ -37635,6 +37635,32 @@ f7f811db7157f7c89dbaae51eb20c3cf:shorturl:
     url: https://www.boonsong.dev/technical-debt-and-scrum-teams
   state:
     shortLink: https://webring.page.link/rVwR
+f80e132e6f8665d796364e0d73c587cb:bluesky:
+  spec:
+    title: ลองมาทำ Data Dictionary โดยใช้ Claude Desktop + MCP Server กัน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/create-data-dictionary-by-using-claude-desktop-mcp-server/
+  state:
+    cid: bafyreigsjjbrgge5yusahnkvs7dmtsgfwae2bv7paequfbgrhccgv7ally
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m2dmrvi34f2v
+f80e132e6f8665d796364e0d73c587cb:facebook:
+  spec:
+    title: ลองมาทำ Data Dictionary โดยใช้ Claude Desktop + MCP Server กัน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/create-data-dictionary-by-using-claude-desktop-mcp-server/
+  state:
+    id: '100746876247412_787069364282308'
+    url: https://www.facebook.com/100683012920950/posts/787069364282308
+f80e132e6f8665d796364e0d73c587cb:mastodon:
+  spec:
+    title: ลองมาทำ Data Dictionary โดยใช้ Claude Desktop + MCP Server กัน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/create-data-dictionary-by-using-claude-desktop-mcp-server/
+  state:
+    id: '115313735005815622'
+    url: https://mastodon.in.th/@webring/115313735005815622
+f80e132e6f8665d796364e0d73c587cb:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/10/create-data-dictionary-by-using-claude-desktop-mcp-server/
+  state:
+    shortLink: https://link.webring.in.th/2808
 f8a73f67036356bd851d4bd266b4902c:bluesky:
   spec:
     title: หลังจากลองทำงานเป็น penetration tester เกือบ 1 ปี [annibuliful-lab.dev]
