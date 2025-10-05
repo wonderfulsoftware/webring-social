@@ -5644,6 +5644,32 @@
     url: https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%83%e0%b8%8a%e0%b9%89-redis-cache-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1/
   state:
     shortLink: https://link.webring.in.th/2674
+25b8d504cee0ceabe591d55e7958c7da:bluesky:
+  spec:
+    title: '[CR] Starbucks Éclair Vanilla [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/10/cr-starbucks-eclair-vanilla/
+  state:
+    cid: bafyreihp6cwlpy7fpqk6hwvkguz5hrxl2z2faba7m6ue3nkb3o773yk54u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m2g5xleq6g2w
+25b8d504cee0ceabe591d55e7958c7da:facebook:
+  spec:
+    title: '[CR] Starbucks Éclair Vanilla [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/10/cr-starbucks-eclair-vanilla/
+  state:
+    id: '100746876247412_787987934190451'
+    url: https://www.facebook.com/100683012920950/posts/787987934190451
+25b8d504cee0ceabe591d55e7958c7da:mastodon:
+  spec:
+    title: '[CR] Starbucks Éclair Vanilla [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/10/cr-starbucks-eclair-vanilla/
+  state:
+    id: '115319447433255452'
+    url: https://mastodon.in.th/@webring/115319447433255452
+25b8d504cee0ceabe591d55e7958c7da:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/10/cr-starbucks-eclair-vanilla/
+  state:
+    shortLink: https://link.webring.in.th/2809
 2609981e0d8479ab1968d618a504003f:facebook:
   spec:
     title: '[C#] ทำ Unit Test กับ XML ครับ [debuggingsoft.com]'
