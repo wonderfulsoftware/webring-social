@@ -33870,6 +33870,32 @@ dce3b50304c90fc9b55bd6eca9ba2b21:shorturl:
     url: https://www.somkiat.cc/note-from-use-ai-insoftware-development/
   state:
     shortLink: https://link.webring.in.th/2314
+ddbf009139a92e4918abaff4b3cc2b61:bluesky:
+  spec:
+    title: How to mock Datetime in Jest [jitrak.dev]
+    url: https://jitrak.dev/posts/post-34-how-to-mock-datetime-in-jest/
+  state:
+    cid: bafyreifp57toefpjvgpzkyrms4zpby3hf627m2gjppbqlz7nw7xrsgd6jq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m2iod6ytf42u
+ddbf009139a92e4918abaff4b3cc2b61:facebook:
+  spec:
+    title: How to mock Datetime in Jest [jitrak.dev]
+    url: https://jitrak.dev/posts/post-34-how-to-mock-datetime-in-jest/
+  state:
+    id: '100746876247412_788911837431394'
+    url: https://www.facebook.com/100683012920950/posts/788911837431394
+ddbf009139a92e4918abaff4b3cc2b61:mastodon:
+  spec:
+    title: How to mock Datetime in Jest [jitrak.dev]
+    url: https://jitrak.dev/posts/post-34-how-to-mock-datetime-in-jest/
+  state:
+    id: '115325102502791783'
+    url: https://mastodon.in.th/@webring/115325102502791783
+ddbf009139a92e4918abaff4b3cc2b61:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-34-how-to-mock-datetime-in-jest/
+  state:
+    shortLink: https://link.webring.in.th/2810
 dde5afb6037269ff837d22a3393e2803:facebook:
   spec:
     title: ลองนั่งรถเมล์สาย 4-35 [debuggingsoft.com]
