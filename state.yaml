@@ -4978,6 +4978,32 @@
     url: https://kusumotolab.com/how-to-fix-cannot-boot-when-change-ec2-instance-type-from-xen-to-nitro-for-suse-linux-enterprise-for-sap-15/
   state:
     shortLink: https://webring.page.link/6wT2
+21c1f801759ae07557b8bc37f4ab775b:bluesky:
+  spec:
+    title: Let’s try using Microsoft SQL Server MCP server with Claude Desktop [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/lets-try-using-microsoft-sql-server-mcp-server-with-claude-desktop/
+  state:
+    cid: bafyreiff52jotdwhavrq24jbs3drgrf2qtxxhn57fvquobzdmpvce3qnk4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m2l6l7fgfh2j
+21c1f801759ae07557b8bc37f4ab775b:facebook:
+  spec:
+    title: Let’s try using Microsoft SQL Server MCP server with Claude Desktop [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/lets-try-using-microsoft-sql-server-mcp-server-with-claude-desktop/
+  state:
+    id: '100746876247412_789818040674107'
+    url: https://www.facebook.com/100683012920950/posts/789818040674107
+21c1f801759ae07557b8bc37f4ab775b:mastodon:
+  spec:
+    title: Let’s try using Microsoft SQL Server MCP server with Claude Desktop [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/lets-try-using-microsoft-sql-server-mcp-server-with-claude-desktop/
+  state:
+    id: '115330749578395801'
+    url: https://mastodon.in.th/@webring/115330749578395801
+21c1f801759ae07557b8bc37f4ab775b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/10/lets-try-using-microsoft-sql-server-mcp-server-with-claude-desktop/
+  state:
+    shortLink: https://link.webring.in.th/2811
 21f4a335030a5b27bc78206536bc4d24:facebook:
   spec:
     title: เพิ่งเห็นว่า Text Editor ชื่อ Atom นั้นหยุดพัฒนาไปแล้ว [somkiat.cc]
