@@ -8197,6 +8197,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/cr-hua-seng-hong-taro-paste-with-ginkgo-bun/
   state:
     shortLink: https://webring.page.link/wV1N
+36c6f3542a421183d9ac7fe4f303fa8c:bluesky:
+  spec:
+    title: '[CR] Gin Sara-Chirashi 3 Layers Matsu Set [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/10/cr-gin-sara-chirashi-3-layers-matsu-set/
+  state:
+    cid: bafyreifm7xvubis6u6m2htfec4heziko67au7dfikti5by3n3w6oorv42m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m2noz64mfc2j
+36c6f3542a421183d9ac7fe4f303fa8c:facebook:
+  spec:
+    title: '[CR] Gin Sara-Chirashi 3 Layers Matsu Set [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/10/cr-gin-sara-chirashi-3-layers-matsu-set/
+  state:
+    id: '100746876247412_790741157248462'
+    url: https://www.facebook.com/100683012920950/posts/790741157248462
+36c6f3542a421183d9ac7fe4f303fa8c:mastodon:
+  spec:
+    title: '[CR] Gin Sara-Chirashi 3 Layers Matsu Set [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/10/cr-gin-sara-chirashi-3-layers-matsu-set/
+  state:
+    id: '115336409864627894'
+    url: https://mastodon.in.th/@webring/115336409864627894
+36c6f3542a421183d9ac7fe4f303fa8c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/10/cr-gin-sara-chirashi-3-layers-matsu-set/
+  state:
+    shortLink: https://link.webring.in.th/2812
 3700e2bbc1c93c79c9ca961d5f37c23e:bluesky:
   spec:
     title: 'สรุป OC24: LeSSExample [blog.ninprd.com]'
