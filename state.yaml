@@ -507,6 +507,32 @@
     url: https://lucian.solutions/blog/2023-free-bustup
   state:
     shortLink: https://webring.page.link/VxxC
+0324fd9bf4f3658bb16e0102f8f9985b:bluesky:
+  spec:
+    title: Using swag (from swaggo) to generating Swagger/OpenAPI documentation in your Go project [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/using-swag-from-swaggo-to-generating-swagger-openapi-documentation-in-your-go-project/
+  state:
+    cid: bafyreiez6y56tzchetpgezqnvkblrmemku4lswtxaqdb2cidpkax7u7e3i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m2sq44w6ps2r
+0324fd9bf4f3658bb16e0102f8f9985b:facebook:
+  spec:
+    title: Using swag (from swaggo) to generating Swagger/OpenAPI documentation in your Go project [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/using-swag-from-swaggo-to-generating-swagger-openapi-documentation-in-your-go-project/
+  state:
+    id: '100746876247412_792565767066001'
+    url: https://www.facebook.com/100683012920950/posts/792565767066001
+0324fd9bf4f3658bb16e0102f8f9985b:mastodon:
+  spec:
+    title: Using swag (from swaggo) to generating Swagger/OpenAPI documentation in your Go project [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/using-swag-from-swaggo-to-generating-swagger-openapi-documentation-in-your-go-project/
+  state:
+    id: '115347745609795385'
+    url: https://mastodon.in.th/@webring/115347745609795385
+0324fd9bf4f3658bb16e0102f8f9985b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/10/using-swag-from-swaggo-to-generating-swagger-openapi-documentation-in-your-go-project/
+  state:
+    shortLink: https://link.webring.in.th/2813
 032d7ad7ea1d8dac652641e39b8c321c:facebook:
   spec:
     title: '[Vue3] vue-multiselect TypeError: Cannot read properties of undefined (reading ‘_c’) [debuggingsoft.com]'
