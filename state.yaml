@@ -995,6 +995,32 @@
     url: https://www.mikkipastel.com/disc-people-personally-assessment-tool/
   state:
     shortLink: https://webring.page.link/xaKQ
+06cc66b4dc29fd4f3d61f63c1065856e:bluesky:
+  spec:
+    title: สวัสดี Playwright Agents ใน Playwright 1.56 [somkiat.cc]
+    url: https://www.somkiat.cc/playwright-agents/
+  state:
+    cid: bafyreihneaz2odifkfq6ldi2ktlzl7dzccenidqslllsq3e7lp5ramnxki
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m2szptdpql2n
+06cc66b4dc29fd4f3d61f63c1065856e:facebook:
+  spec:
+    title: สวัสดี Playwright Agents ใน Playwright 1.56 [somkiat.cc]
+    url: https://www.somkiat.cc/playwright-agents/
+  state:
+    id: '100746876247412_792679263721318'
+    url: https://www.facebook.com/100683012920950/posts/792679263721318
+06cc66b4dc29fd4f3d61f63c1065856e:mastodon:
+  spec:
+    title: สวัสดี Playwright Agents ใน Playwright 1.56 [somkiat.cc]
+    url: https://www.somkiat.cc/playwright-agents/
+  state:
+    id: '115348422242360999'
+    url: https://mastodon.in.th/@webring/115348422242360999
+06cc66b4dc29fd4f3d61f63c1065856e:shorturl:
+  spec:
+    url: https://www.somkiat.cc/playwright-agents/
+  state:
+    shortLink: https://link.webring.in.th/2814
 06dd645390b22fe236afe63d2dc28c7c:facebook:
   spec:
     title: How to get output from dotnet test [debuggingsoft.com]
