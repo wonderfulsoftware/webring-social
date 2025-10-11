@@ -21047,6 +21047,32 @@
     url: https://karnwong.me/posts/2024/12/information-gathering-infrastructure/
   state:
     shortLink: https://link.webring.in.th/2321
+87f9b366b584453b8ccae783e0830712:bluesky:
+  spec:
+    title: 'LL: SEGA account injection incident on 2022 [rayriffy.com]'
+    url: https://rayriffy.com/garden/sega-account-inject-2022/
+  state:
+    cid: bafyreidff3odfcr75t6n5jrlomh5spg5xk573sjhjy6bxubsdk7z32avri
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m2va67cppz2c
+87f9b366b584453b8ccae783e0830712:facebook:
+  spec:
+    title: 'LL: SEGA account injection incident on 2022 [rayriffy.com]'
+    url: https://rayriffy.com/garden/sega-account-inject-2022/
+  state:
+    id: '100746876247412_793536710302240'
+    url: https://www.facebook.com/100683012920950/posts/793536710302240
+87f9b366b584453b8ccae783e0830712:mastodon:
+  spec:
+    title: 'LL: SEGA account injection incident on 2022 [rayriffy.com]'
+    url: https://rayriffy.com/garden/sega-account-inject-2022/
+  state:
+    id: '115353379804676863'
+    url: https://mastodon.in.th/@webring/115353379804676863
+87f9b366b584453b8ccae783e0830712:shorturl:
+  spec:
+    url: https://rayriffy.com/garden/sega-account-inject-2022/
+  state:
+    shortLink: https://link.webring.in.th/2815
 8809d348998c4f65dd73d5ed0cddb577:facebook:
   spec:
     title: Microsoft Ignite Cloud Skills Challenge 2023 [debuggingsoft.com]
