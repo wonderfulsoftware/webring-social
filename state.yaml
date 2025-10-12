@@ -9730,6 +9730,32 @@
     url: https://pontakorn.dev/posts/nokorun-stupid-hack-8/
   state:
     shortLink: https://link.webring.in.th/2032
+410639773b1a74d5c36096b608b7adc2:bluesky:
+  spec:
+    title: Connection String สำหรับ App ที่ต่อกับ MSSQL ที่กำหนด MultiSubnetFailover [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/connection-string-for-application-that-connect-with-mssql-with-multi-subnet-failover/
+  state:
+    cid: bafyreieuubzp5gqq4kldmp36tpdyf56sydhemzanrfhoq3yp2cqgjojycq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m2xr46ygxt2u
+410639773b1a74d5c36096b608b7adc2:facebook:
+  spec:
+    title: Connection String สำหรับ App ที่ต่อกับ MSSQL ที่กำหนด MultiSubnetFailover [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/connection-string-for-application-that-connect-with-mssql-with-multi-subnet-failover/
+  state:
+    id: '100746876247412_794457210210190'
+    url: https://www.facebook.com/100683012920950/posts/794457210210190
+410639773b1a74d5c36096b608b7adc2:mastodon:
+  spec:
+    title: Connection String สำหรับ App ที่ต่อกับ MSSQL ที่กำหนด MultiSubnetFailover [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/connection-string-for-application-that-connect-with-mssql-with-multi-subnet-failover/
+  state:
+    id: '115359075186287646'
+    url: https://mastodon.in.th/@webring/115359075186287646
+410639773b1a74d5c36096b608b7adc2:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/10/connection-string-for-application-that-connect-with-mssql-with-multi-subnet-failover/
+  state:
+    shortLink: https://link.webring.in.th/2816
 4127e3c883b6b13ca1b49aaf98b20cb7:bluesky:
   spec:
     title: Create a REST API for the Microsoft/BitNet B1.58 model and integrate it with an Open WebUI [debuggingsoft.com]
