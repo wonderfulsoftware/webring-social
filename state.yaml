@@ -23694,6 +23694,32 @@
     url: https://nitpum.com/post/wechat-miniprogram-nanoid/
   state:
     shortLink: https://webring.page.link/TpKU
+975dc5625be12f2b62dc1a9d3aa84372:bluesky:
+  spec:
+    title: มาลองใช้งาน Python 3.14 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-python-3-14/
+  state:
+    cid: bafyreibftoleh3xb2mnptfsw4f3d65v7u6tocmifdzs3ionymnbrylx5aq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m32c2mlmdm2y
+975dc5625be12f2b62dc1a9d3aa84372:facebook:
+  spec:
+    title: มาลองใช้งาน Python 3.14 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-python-3-14/
+  state:
+    id: '100746876247412_795330383456206'
+    url: https://www.facebook.com/100683012920950/posts/795330383456206
+975dc5625be12f2b62dc1a9d3aa84372:mastodon:
+  spec:
+    title: มาลองใช้งาน Python 3.14 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-python-3-14/
+  state:
+    id: '115364771244798208'
+    url: https://mastodon.in.th/@webring/115364771244798208
+975dc5625be12f2b62dc1a9d3aa84372:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-python-3-14/
+  state:
+    shortLink: https://link.webring.in.th/2817
 9808520b629ef67254be3fb2505260f8:bluesky:
   spec:
     title: Send message to Telegram chat by Telegram bot [blog.oatto.dev]
