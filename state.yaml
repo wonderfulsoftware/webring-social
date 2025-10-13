@@ -24678,6 +24678,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/08/cr-karaage-buffet-daidai-restaurant-nishitetsu-hotel-silom/
   state:
     shortLink: https://link.webring.in.th/2700
+9fecd482c6cffadbbf2143f85406222b:bluesky:
+  spec:
+    title: Thought dump on doing side project [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/side-project-thought-dump/
+  state:
+    cid: bafyreigyofvqk5336gnrhcseczlsnkjbogztvdc3htl7vaunp4ld7kuk6e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m32l5vh6on2v
+9fecd482c6cffadbbf2143f85406222b:facebook:
+  spec:
+    title: Thought dump on doing side project [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/side-project-thought-dump/
+  state:
+    id: '100746876247412_795416073447637'
+    url: https://www.facebook.com/100683012920950/posts/795416073447637
+9fecd482c6cffadbbf2143f85406222b:mastodon:
+  spec:
+    title: Thought dump on doing side project [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/side-project-thought-dump/
+  state:
+    id: '115365412050149533'
+    url: https://mastodon.in.th/@webring/115365412050149533
+9fecd482c6cffadbbf2143f85406222b:shorturl:
+  spec:
+    url: https://yuttakhanb.dev/posts/side-project-thought-dump/
+  state:
+    shortLink: https://link.webring.in.th/2818
 9ff6714c31d9573f7ab389657b90089a:facebook:
   spec:
     title: '[WP] สรุป Meetup สร้างรายได้จาก การเขียนบทความ แบบไม่ต้องรอลูกค้าลงโฆษณา [debuggingsoft.com]'
