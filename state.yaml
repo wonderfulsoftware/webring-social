@@ -8576,6 +8576,32 @@
     url: https://kajame.xyz/blog/ssh-with-host
   state:
     shortLink: https://webring.page.link/B5Pu
+396573904f2fbb8698ed6bcabd0d24ac:bluesky:
+  spec:
+    title: เมื่อ DEV ลองไป Workshop Windows Server and Active Directory Domain Services [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/dev-take-course-workshop-windows-server-and-active-directory-domain-services/
+  state:
+    cid: bafyreihmquei3ksaayxosfg24mi7itf4iggwjwkpqgxm2theli35gtzka4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m35fcqjyqa2y
+396573904f2fbb8698ed6bcabd0d24ac:facebook:
+  spec:
+    title: เมื่อ DEV ลองไป Workshop Windows Server and Active Directory Domain Services [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/dev-take-course-workshop-windows-server-and-active-directory-domain-services/
+  state:
+    id: '100746876247412_796389756683602'
+    url: https://www.facebook.com/100683012920950/posts/796389756683602
+396573904f2fbb8698ed6bcabd0d24ac:mastodon:
+  spec:
+    title: เมื่อ DEV ลองไป Workshop Windows Server and Active Directory Domain Services [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/dev-take-course-workshop-windows-server-and-active-directory-domain-services/
+  state:
+    id: '115371756056866497'
+    url: https://mastodon.in.th/@webring/115371756056866497
+396573904f2fbb8698ed6bcabd0d24ac:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/10/dev-take-course-workshop-windows-server-and-active-directory-domain-services/
+  state:
+    shortLink: https://link.webring.in.th/2821
 39978aac8b6f43e66e67c4630e2e8cc7:bluesky:
   spec:
     title: ลองใช้ Locale Emulator สำหรับ App เก่าๆที่ต้องการ Locale เป็นพิเศษ [debuggingsoft.com]
