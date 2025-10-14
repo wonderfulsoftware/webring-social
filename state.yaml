@@ -37091,6 +37091,32 @@ f1e34c1f6ebf1eea72047916e177d7f6:shorturl:
     url: https://blog.ninprd.com/blog/basic-n8n-for-developers/
   state:
     shortLink: https://link.webring.in.th/2518
+f1f8540da367c2c81b1bd95a525ba542:bluesky:
+  spec:
+    title: DR ไหน — เว็บสำรวจ คำนวณราคา และใช้ AI ช่วยสรุปข่าวหุ้นต่างประเทศได้ในที่เดียว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/dr-web
+  state:
+    cid: bafyreid73tmw2vgkymenprshbvadbms5buhvztp5xhvq3j4chgnwdgfi5m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m353llfr7m2j
+f1f8540da367c2c81b1bd95a525ba542:facebook:
+  spec:
+    title: DR ไหน — เว็บสำรวจ คำนวณราคา และใช้ AI ช่วยสรุปข่าวหุ้นต่างประเทศได้ในที่เดียว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/dr-web
+  state:
+    id: '100746876247412_796296563359588'
+    url: https://www.facebook.com/100683012920950/posts/796296563359588
+f1f8540da367c2c81b1bd95a525ba542:mastodon:
+  spec:
+    title: DR ไหน — เว็บสำรวจ คำนวณราคา และใช้ AI ช่วยสรุปข่าวหุ้นต่างประเทศได้ในที่เดียว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/dr-web
+  state:
+    id: '115371071688050260'
+    url: https://mastodon.in.th/@webring/115371071688050260
+f1f8540da367c2c81b1bd95a525ba542:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/dr-web
+  state:
+    shortLink: https://link.webring.in.th/2820
 f1fa46c7a74daef8db39789aeb01d989:facebook:
   spec:
     title: Reduce operational costs with terraform [karnwong.me]
