@@ -37053,6 +37053,32 @@ f1b008a8ee1a5dc11cb9a75cdf86dcb4:shorturl:
     url: https://www.somkiat.cc/playwright-run-only-changed/
   state:
     shortLink: https://link.webring.in.th/2323
+f1c24c9426e8924f476caa6adc32b1fa:bluesky:
+  spec:
+    title: 'สวัสดี Bun 1.3 :: Full‑stack JavaScript [somkiat.cc]'
+    url: https://www.somkiat.cc/try-bun-1-3/
+  state:
+    cid: bafyreibpi3z7v6ofw7srz22f5odmxtp6cepai42e5u6ve6zwpntgqwgcei
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m37cowdncj2j
+f1c24c9426e8924f476caa6adc32b1fa:facebook:
+  spec:
+    title: 'สวัสดี Bun 1.3 :: Full‑stack JavaScript [somkiat.cc]'
+    url: https://www.somkiat.cc/try-bun-1-3/
+  state:
+    id: '100746876247412_797011776621400'
+    url: https://www.facebook.com/100683012920950/posts/797011776621400
+f1c24c9426e8924f476caa6adc32b1fa:mastodon:
+  spec:
+    title: 'สวัสดี Bun 1.3 :: Full‑stack JavaScript [somkiat.cc]'
+    url: https://www.somkiat.cc/try-bun-1-3/
+  state:
+    id: '115376075270476858'
+    url: https://mastodon.in.th/@webring/115376075270476858
+f1c24c9426e8924f476caa6adc32b1fa:shorturl:
+  spec:
+    url: https://www.somkiat.cc/try-bun-1-3/
+  state:
+    shortLink: https://link.webring.in.th/2822
 f1c5165867c774257acfde73e1ec6b5e:facebook:
   spec:
     title: '[MS Cert] บันทึกการสอบ AZ-104 [debuggingsoft.com]'
