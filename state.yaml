@@ -7332,6 +7332,32 @@
     url: https://myifew.com/6629/%e0%b8%82%e0%b8%ad%e0%b8%ad%e0%b8%a7%e0%b8%a2%e0%b8%a2%e0%b8%a8%e0%b9%83%e0%b8%ab%e0%b9%89-claude-code-%e0%b9%83%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99/
   state:
     shortLink: https://link.webring.in.th/2603
+302bb20abd9235d6c154422866baf334:bluesky:
+  spec:
+    title: Bambu Lab A1 Essentials [garden.narze.live]
+    url: https://garden.narze.live/bambu-lab-a1-essentials/
+  state:
+    cid: bafyreigqalii7oy3s4k22utebkyz23nawmwyrefxgtbzfe2tlr6fcve3km
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m3bt5vz54s2y
+302bb20abd9235d6c154422866baf334:facebook:
+  spec:
+    title: Bambu Lab A1 Essentials [garden.narze.live]
+    url: https://garden.narze.live/bambu-lab-a1-essentials/
+  state:
+    id: '100746876247412_797855546537023'
+    url: https://www.facebook.com/100683012920950/posts/797855546537023
+302bb20abd9235d6c154422866baf334:mastodon:
+  spec:
+    title: Bambu Lab A1 Essentials [garden.narze.live]
+    url: https://garden.narze.live/bambu-lab-a1-essentials/
+  state:
+    id: '115381737378867330'
+    url: https://mastodon.in.th/@webring/115381737378867330
+302bb20abd9235d6c154422866baf334:shorturl:
+  spec:
+    url: https://garden.narze.live/bambu-lab-a1-essentials/
+  state:
+    shortLink: https://link.webring.in.th/2823
 3037feb997e8677a8483fa4bcca5a901:bluesky:
   spec:
     title: 'Data Sci Boot Camp Batch#11 : SQL [debuggingsoft.com]'
