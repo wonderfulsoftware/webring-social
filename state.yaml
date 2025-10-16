@@ -38885,6 +38885,32 @@ ff38fcbf2ad709c2081f9c009ae7f3ac:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-part1/
   state:
     shortLink: https://link.webring.in.th/2434
+ff84fb4335b5f14c4b66e4fa4e4d8f8a:bluesky:
+  spec:
+    title: เมืองคอง ที่คิด(ไม่)ถึง [myifew.com]
+    url: https://myifew.com/6719/muang-kong/
+  state:
+    cid: bafyreidxx7soh3rmwrtxz5wvenlwf5vndyypayerhxiqqqbt4e23mocd7e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m3c4jdj3nm2j
+ff84fb4335b5f14c4b66e4fa4e4d8f8a:facebook:
+  spec:
+    title: เมืองคอง ที่คิด(ไม่)ถึง [myifew.com]
+    url: https://myifew.com/6719/muang-kong/
+  state:
+    id: '100746876247412_797946276527950'
+    url: https://www.facebook.com/100683012920950/posts/797946276527950
+ff84fb4335b5f14c4b66e4fa4e4d8f8a:mastodon:
+  spec:
+    title: เมืองคอง ที่คิด(ไม่)ถึง [myifew.com]
+    url: https://myifew.com/6719/muang-kong/
+  state:
+    id: '115382396050580541'
+    url: https://mastodon.in.th/@webring/115382396050580541
+ff84fb4335b5f14c4b66e4fa4e4d8f8a:shorturl:
+  spec:
+    url: https://myifew.com/6719/muang-kong/
+  state:
+    shortLink: https://link.webring.in.th/2824
 ffa89d1fd03395e7cb31d08414ab732f:bluesky:
   spec:
     title: วันคืนล่วงไป บัดนี้เราทำอะไรอยู่ (ฉันในวัย 40) [myifew.com]
