@@ -6464,6 +6464,32 @@
     url: https://www.somkiat.cc/demo-spring-boot-and-crac/
   state:
     shortLink: https://webring.page.link/UWK2
+2a80c86e42afc04d257e58abb2a61fdf:bluesky:
+  spec:
+    title: Service Discontinuation of PaiLeaw [rayriffy.com]
+    url: https://rayriffy.com/garden/paileaw-discontinuation/
+  state:
+    cid: bafyreidoc56xy6dodugbbynkgv3qaa3sdphvpaasuuvs47mu7twyy3j2t4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m3edhmqz672n
+2a80c86e42afc04d257e58abb2a61fdf:facebook:
+  spec:
+    title: Service Discontinuation of PaiLeaw [rayriffy.com]
+    url: https://rayriffy.com/garden/paileaw-discontinuation/
+  state:
+    id: '100746876247412_798691376453440'
+    url: https://www.facebook.com/100683012920950/posts/798691376453440
+2a80c86e42afc04d257e58abb2a61fdf:mastodon:
+  spec:
+    title: Service Discontinuation of PaiLeaw [rayriffy.com]
+    url: https://rayriffy.com/garden/paileaw-discontinuation/
+  state:
+    id: '115387388296307647'
+    url: https://mastodon.in.th/@webring/115387388296307647
+2a80c86e42afc04d257e58abb2a61fdf:shorturl:
+  spec:
+    url: https://rayriffy.com/garden/paileaw-discontinuation/
+  state:
+    shortLink: https://link.webring.in.th/2825
 2aa3e01408c05a47e59ef43642292402:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 6 - Card Game [devahoy.com]
