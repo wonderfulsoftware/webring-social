@@ -2941,6 +2941,32 @@
     url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-primary-key-foreign-key-unique-check/
   state:
     shortLink: https://link.webring.in.th/2788
+13dcf2f95ab7b941a53960786698aa4d:bluesky:
+  spec:
+    title: จดๆจาก From Chaos to Clarity จูนทีมเทคให้ตรงจุดจนสร้าง Product ได้ตรงใจ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/kbtg-from-chaos-to-clarity-tune-team-good-product/
+  state:
+    cid: bafyreibuwkkodg6mzilw2p6coyshvfrvujbsn5s27hd5lyksqxkxa5kpke
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m3emwiqvwp2e
+13dcf2f95ab7b941a53960786698aa4d:facebook:
+  spec:
+    title: จดๆจาก From Chaos to Clarity จูนทีมเทคให้ตรงจุดจนสร้าง Product ได้ตรงใจ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/kbtg-from-chaos-to-clarity-tune-team-good-product/
+  state:
+    id: '100746876247412_798784679777443'
+    url: https://www.facebook.com/100683012920950/posts/798784679777443
+13dcf2f95ab7b941a53960786698aa4d:mastodon:
+  spec:
+    title: จดๆจาก From Chaos to Clarity จูนทีมเทคให้ตรงจุดจนสร้าง Product ได้ตรงใจ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/kbtg-from-chaos-to-clarity-tune-team-good-product/
+  state:
+    id: '115388054539924682'
+    url: https://mastodon.in.th/@webring/115388054539924682
+13dcf2f95ab7b941a53960786698aa4d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/10/kbtg-from-chaos-to-clarity-tune-team-good-product/
+  state:
+    shortLink: https://link.webring.in.th/2826
 13e9fc2623268be55339b4d6e1775696:bluesky:
   spec:
     title: ตรวจ domain ปลอมด้วย dnstwist.it [debuggingsoft.com]
