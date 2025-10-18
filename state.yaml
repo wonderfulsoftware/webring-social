@@ -13463,6 +13463,32 @@
     url: https://www.icez.net/blog/167563/0263-%e0%b8%9a%e0%b8%b1%e0%b9%8a%e0%b8%81%e0%b8%95%e0%b8%b9%e0%b9%89%e0%b8%8a%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%88-%e0%b8%9b%e0%b8%95%e0%b8%97-%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b9%83%e0%b8%ab
   state:
     shortLink: https://link.webring.in.th/2609
+5afbaf9df4e63087a1092f26e3123482:bluesky:
+  spec:
+    title: บันทึกการทำระบบสำหรับโครงการ AI for Teachers ด้วย Supabase เพื่อรองรับการใช้งานพร้อมกันหลักหมื่นคน [dt.in.th]
+    url: https://dt.in.th/AIforTeachersWriteup
+  state:
+    cid: bafyreiacklblixzfcn5obooar22dj2q5v37tnindxhv5sygxocejrdbsp4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m3h5chsulu2a
+5afbaf9df4e63087a1092f26e3123482:facebook:
+  spec:
+    title: บันทึกการทำระบบสำหรับโครงการ AI for Teachers ด้วย Supabase เพื่อรองรับการใช้งานพร้อมกันหลักหมื่นคน [dt.in.th]
+    url: https://dt.in.th/AIforTeachersWriteup
+  state:
+    id: '100746876247412_799634626359115'
+    url: https://www.facebook.com/100683012920950/posts/799634626359115
+5afbaf9df4e63087a1092f26e3123482:mastodon:
+  spec:
+    title: บันทึกการทำระบบสำหรับโครงการ AI for Teachers ด้วย Supabase เพื่อรองรับการใช้งานพร้อมกันหลักหมื่นคน [dt.in.th]
+    url: https://dt.in.th/AIforTeachersWriteup
+  state:
+    id: '115393710445295361'
+    url: https://mastodon.in.th/@webring/115393710445295361
+5afbaf9df4e63087a1092f26e3123482:shorturl:
+  spec:
+    url: https://dt.in.th/AIforTeachersWriteup
+  state:
+    shortLink: https://link.webring.in.th/2828
 5b846abf44b18f82682f9d8d2e8f43d5:facebook:
   spec:
     title: 'นิลเล่า: WordPress Basic II [blog.ninprd.com]'
