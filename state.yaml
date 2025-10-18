@@ -23850,6 +23850,32 @@
     url: https://blog.oatto.dev/2025/07/12/send-message-to-telegram.html
   state:
     shortLink: https://link.webring.in.th/2638
+9847bb49a1bbea79428f876f7ad7672e:bluesky:
+  spec:
+    title: OpenSSL คืออะไร [thiti.dev]
+    url: https://thiti.dev/blog/29/
+  state:
+    cid: bafyreifwdd65rq7qr6tkozh7qxjgube6wd4h7gtbgicfxuynvzsgzkuyuy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m3gtk2ii5j2r
+9847bb49a1bbea79428f876f7ad7672e:facebook:
+  spec:
+    title: OpenSSL คืออะไร [thiti.dev]
+    url: https://thiti.dev/blog/29/
+  state:
+    id: '100746876247412_799535816368996'
+    url: https://www.facebook.com/100683012920950/posts/799535816368996
+9847bb49a1bbea79428f876f7ad7672e:mastodon:
+  spec:
+    title: OpenSSL คืออะไร [thiti.dev]
+    url: https://thiti.dev/blog/29/
+  state:
+    id: '115393023472045807'
+    url: https://mastodon.in.th/@webring/115393023472045807
+9847bb49a1bbea79428f876f7ad7672e:shorturl:
+  spec:
+    url: https://thiti.dev/blog/29/
+  state:
+    shortLink: https://link.webring.in.th/2827
 985a9928afb39cdb17736a2949470344:facebook:
   spec:
     title: dockerfile สำหรับ .NET6 + DB2 [debuggingsoft.com]
