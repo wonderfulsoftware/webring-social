@@ -30025,6 +30025,32 @@ c17082f763f2e844e8afd34a9069afdd:shorturl:
     url: https://www.mikkipastel.com/review-skooldio-tech-course/
   state:
     shortLink: https://webring.page.link/q6si
+c1887aa27a91b13fe9350fa1a88edee7:bluesky:
+  spec:
+    title: เพิ่ม GitLab Runner โดยใช้ Authentication Token [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/add-gitlab-runner-by-authentication-token/
+  state:
+    cid: bafyreid3nre5jr5b433j5s7rn3zc644sct43p3gyoyhj5ijs363tmhcnbq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m3hgzyeezk2j
+c1887aa27a91b13fe9350fa1a88edee7:facebook:
+  spec:
+    title: เพิ่ม GitLab Runner โดยใช้ Authentication Token [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/add-gitlab-runner-by-authentication-token/
+  state:
+    id: '100746876247412_799731323016112'
+    url: https://www.facebook.com/100683012920950/posts/799731323016112
+c1887aa27a91b13fe9350fa1a88edee7:mastodon:
+  spec:
+    title: เพิ่ม GitLab Runner โดยใช้ Authentication Token [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/add-gitlab-runner-by-authentication-token/
+  state:
+    id: '115394395477205137'
+    url: https://mastodon.in.th/@webring/115394395477205137
+c1887aa27a91b13fe9350fa1a88edee7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/10/add-gitlab-runner-by-authentication-token/
+  state:
+    shortLink: https://link.webring.in.th/2829
 c1a414466d4446fd56af4c6ff7abc8ab:facebook:
   spec:
     title: Performance Issue [debuggingsoft.com]
