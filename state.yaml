@@ -9654,6 +9654,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/09/9arm-sell-taco-bell/
   state:
     shortLink: https://link.webring.in.th/2804
+3fd3c9dde1a2757ba76ce11e1b10353a:bluesky:
+  spec:
+    title: Biome ยุติสงครามระหว่าง ESLint และ Prettier [anuwong.com]
+    url: https://www.anuwong.com/blogs/2025/10/18-biome-come-to-save-your-ass/
+  state:
+    cid: bafyreidkbm2n3h6vfdeknibclnlpimo3d4s2ph3e2n62zb7vsxfj5bf3qe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m3jezyewk32a
+3fd3c9dde1a2757ba76ce11e1b10353a:facebook:
+  spec:
+    title: Biome ยุติสงครามระหว่าง ESLint และ Prettier [anuwong.com]
+    url: https://www.anuwong.com/blogs/2025/10/18-biome-come-to-save-your-ass/
+  state:
+    id: '100746876247412_800393692949875'
+    url: https://www.facebook.com/100683012920950/posts/800393692949875
+3fd3c9dde1a2757ba76ce11e1b10353a:mastodon:
+  spec:
+    title: Biome ยุติสงครามระหว่าง ESLint และ Prettier [anuwong.com]
+    url: https://www.anuwong.com/blogs/2025/10/18-biome-come-to-save-your-ass/
+  state:
+    id: '115398758054497913'
+    url: https://mastodon.in.th/@webring/115398758054497913
+3fd3c9dde1a2757ba76ce11e1b10353a:shorturl:
+  spec:
+    url: https://www.anuwong.com/blogs/2025/10/18-biome-come-to-save-your-ass/
+  state:
+    shortLink: https://link.webring.in.th/2830
 3fdf7f429586c1dfd71c1b409cf6cb17:bluesky:
   spec:
     title: 'สรุป Session จากงาน SCBX Unleashing CX: EP3 Figma Bangkok Meetup [blog.ninprd.com]'
