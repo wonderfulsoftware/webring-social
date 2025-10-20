@@ -36332,6 +36332,32 @@ ec58600cd82560a725f20b89864bd793:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day5-open-24-hours
   state:
     shortLink: https://webring.page.link/1QMP
+ec5b2bbd3a064d270e2a5af1768f1b7e:bluesky:
+  spec:
+    title: Redis บันทึกการใช้งาน Set และ Sorted Set (ZSET) [anuwong.com]
+    url: https://www.anuwong.com/blogs/2025/10/19-redis-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-set-%E0%B9%81%E0%B8%A5%E0%B8%B0-sorted-set/
+  state:
+    cid: bafyreif3qg2hpm3nr5aai2ffb5hfaazuozi4lb5p5epoif4qpqv4crya7q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m3lvmio3ih2z
+ec5b2bbd3a064d270e2a5af1768f1b7e:facebook:
+  spec:
+    title: Redis บันทึกการใช้งาน Set และ Sorted Set (ZSET) [anuwong.com]
+    url: https://www.anuwong.com/blogs/2025/10/19-redis-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-set-%E0%B9%81%E0%B8%A5%E0%B8%B0-sorted-set/
+  state:
+    id: '100746876247412_801246032864641'
+    url: https://www.facebook.com/100683012920950/posts/801246032864641
+ec5b2bbd3a064d270e2a5af1768f1b7e:mastodon:
+  spec:
+    title: Redis บันทึกการใช้งาน Set และ Sorted Set (ZSET) [anuwong.com]
+    url: https://www.anuwong.com/blogs/2025/10/19-redis-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-set-%E0%B9%81%E0%B8%A5%E0%B8%B0-sorted-set/
+  state:
+    id: '115404428485445109'
+    url: https://mastodon.in.th/@webring/115404428485445109
+ec5b2bbd3a064d270e2a5af1768f1b7e:shorturl:
+  spec:
+    url: https://www.anuwong.com/blogs/2025/10/19-redis-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-set-%E0%B9%81%E0%B8%A5%E0%B8%B0-sorted-set/
+  state:
+    shortLink: https://link.webring.in.th/2831
 ec6c4e9103c393ca0be4f297d96f332d:bluesky:
   spec:
     title: Android device ที่ใช้ได้บน Firebase Test Lab มีกี่รุ่นกันนะ? [mikkipastel.com]
