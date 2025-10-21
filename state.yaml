@@ -26642,6 +26642,32 @@ aab344661da8a53a3aac248bfedc54d3:shorturl:
     url: https://garden.narze.live/100daysofcode-r3-69-garden-astro-replace-degit-with-octokit/
   state:
     shortLink: https://webring.page.link/5XFi
+aaed558a7930462912c88380645fbbea:bluesky:
+  spec:
+    title: Try using NuGet Explorer to Pack dll into a NuGet Package (.nupkg) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/use-nuget-explorer-for-pack-dll-as-nuget-package-ext-nupkg-english-blog/
+  state:
+    cid: bafyreifyncv6ajirsaav4bmoeyh7l6yetovum25x4myzt3lv62voli7zra
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m3oflq4sc72e
+aaed558a7930462912c88380645fbbea:facebook:
+  spec:
+    title: Try using NuGet Explorer to Pack dll into a NuGet Package (.nupkg) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/use-nuget-explorer-for-pack-dll-as-nuget-package-ext-nupkg-english-blog/
+  state:
+    id: '100746876247412_802127689443142'
+    url: https://www.facebook.com/100683012920950/posts/802127689443142
+aaed558a7930462912c88380645fbbea:mastodon:
+  spec:
+    title: Try using NuGet Explorer to Pack dll into a NuGet Package (.nupkg) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/use-nuget-explorer-for-pack-dll-as-nuget-package-ext-nupkg-english-blog/
+  state:
+    id: '115410055861252209'
+    url: https://mastodon.in.th/@webring/115410055861252209
+aaed558a7930462912c88380645fbbea:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/10/use-nuget-explorer-for-pack-dll-as-nuget-package-ext-nupkg-english-blog/
+  state:
+    shortLink: https://link.webring.in.th/2832
 aaf877059c5822ad544decf67851c49d:facebook:
   spec:
     title: รู้จักกับ Auth0 [mikelopster.dev]
