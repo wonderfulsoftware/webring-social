@@ -14916,6 +14916,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/01/convert-console-app-to-nuget-net-tools/
   state:
     shortLink: https://webring.page.link/5x93
+6236bfa989fee60932a8db69d4686825:bluesky:
+  spec:
+    title: How to Install Windows 11 with a Local Account [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/how-to-install-windows-11-with-a-local-account/
+  state:
+    cid: bafyreiddu2xx4hbsfhdeopd5talwtuysah5a5ljpz3vjz45ag66rj4nnha
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m3qwdqpsfn2z
+6236bfa989fee60932a8db69d4686825:facebook:
+  spec:
+    title: How to Install Windows 11 with a Local Account [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/how-to-install-windows-11-with-a-local-account/
+  state:
+    id: '100746876247412_802949772694267'
+    url: https://www.facebook.com/100683012920950/posts/802949772694267
+6236bfa989fee60932a8db69d4686825:mastodon:
+  spec:
+    title: How to Install Windows 11 with a Local Account [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/10/how-to-install-windows-11-with-a-local-account/
+  state:
+    id: '115415738639168087'
+    url: https://mastodon.in.th/@webring/115415738639168087
+6236bfa989fee60932a8db69d4686825:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/10/how-to-install-windows-11-with-a-local-account/
+  state:
+    shortLink: https://link.webring.in.th/2833
 6246e695e01f50a8bb3312b54045c8af:facebook:
   spec:
     title: สร้าง Web Application ด้วย Vite + React และ TypeScript [toupawa.com]
