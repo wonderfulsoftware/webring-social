@@ -133,6 +133,32 @@
     url: https://garden.narze.live/100daysofcode-r3-64-live-guestbook/
   state:
     shortLink: https://webring.page.link/54wK
+00b8975a5b36f4762372a8e0b2a09ea9:bluesky:
+  spec:
+    title: 'ความรู้สึกหลังอ่าน: I hope this doesn''t find you [blog.nattp.page]'
+    url: https://blog.nattp.page/article/i-hope-this-doesnt-find-you/
+  state:
+    cid: bafyreidcqxs626kqqqvv7oac3lntj4nuo235ukz7juxuy4oolhhcpkgk5e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m3r7dyrfhb2v
+00b8975a5b36f4762372a8e0b2a09ea9:facebook:
+  spec:
+    title: 'ความรู้สึกหลังอ่าน: I hope this doesn''t find you [blog.nattp.page]'
+    url: https://blog.nattp.page/article/i-hope-this-doesnt-find-you/
+  state:
+    id: '100746876247412_803036356018942'
+    url: https://www.facebook.com/100683012920950/posts/803036356018942
+00b8975a5b36f4762372a8e0b2a09ea9:mastodon:
+  spec:
+    title: 'ความรู้สึกหลังอ่าน: I hope this doesn''t find you [blog.nattp.page]'
+    url: https://blog.nattp.page/article/i-hope-this-doesnt-find-you/
+  state:
+    id: '115416372196225926'
+    url: https://mastodon.in.th/@webring/115416372196225926
+00b8975a5b36f4762372a8e0b2a09ea9:shorturl:
+  spec:
+    url: https://blog.nattp.page/article/i-hope-this-doesnt-find-you/
+  state:
+    shortLink: https://link.webring.in.th/2834
 00fd0deb350dacbbca8b5afbc0734e89:bluesky:
   spec:
     title: มารู้จักกับ vConsole เครื่องมือ Debug บน App [boychawin.com]
