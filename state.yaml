@@ -20546,6 +20546,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/09/cr-starbucks-malty-delight-chocolate-coffee-frappuccino-less-sweet-option/
   state:
     shortLink: https://link.webring.in.th/2155
+83662b2d5ecaff5fb0725015bc135c07:bluesky:
+  spec:
+    title: เมื่อ Langchain 1.0 ปล่อยออกมา งานจึงเข้า !! [somkiat.cc]
+    url: https://www.somkiat.cc/langchain-1/
+  state:
+    cid: bafyreiez5cta7apl7pchncxvzwuanlq4m7os3rmtsxjfyo4sgezc4bbrgi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m3tgexnot32a
+83662b2d5ecaff5fb0725015bc135c07:facebook:
+  spec:
+    title: เมื่อ Langchain 1.0 ปล่อยออกมา งานจึงเข้า !! [somkiat.cc]
+    url: https://www.somkiat.cc/langchain-1/
+  state:
+    id: '100746876247412_803795342609710'
+    url: https://www.facebook.com/100683012920950/posts/803795342609710
+83662b2d5ecaff5fb0725015bc135c07:mastodon:
+  spec:
+    title: เมื่อ Langchain 1.0 ปล่อยออกมา งานจึงเข้า !! [somkiat.cc]
+    url: https://www.somkiat.cc/langchain-1/
+  state:
+    id: '115421370548242883'
+    url: https://mastodon.in.th/@webring/115421370548242883
+83662b2d5ecaff5fb0725015bc135c07:shorturl:
+  spec:
+    url: https://www.somkiat.cc/langchain-1/
+  state:
+    shortLink: https://link.webring.in.th/2835
 839384dd4c1a9c237f8984ea146a698e:facebook:
   spec:
     title: รู้ยัง Notion มีส่วนลดจาก Credit อยู่นะ [debuggingsoft.com]
