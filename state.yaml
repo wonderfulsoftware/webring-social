@@ -2135,6 +2135,32 @@
     url: https://www.somkiat.cc/what-vibe-coding/
   state:
     shortLink: https://link.webring.in.th/2498
+0dc99b3ecd08ea9c2c9f0c152f55af11:bluesky:
+  spec:
+    title: 'สนามเทรลแรกในชีวิต: Pong Yaeng Trail 20 KM [mesodiar.com]'
+    url: https://mesodiar.com/2025/10/23/pong-yaeng-trail-20km-2025/
+  state:
+    cid: bafyreig3l5b4tb73t2hazlxao56oq2ddfrw5ridul3zg4ch7phx22bi6ju
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m3vwotjcf52e
+0dc99b3ecd08ea9c2c9f0c152f55af11:facebook:
+  spec:
+    title: 'สนามเทรลแรกในชีวิต: Pong Yaeng Trail 20 KM [mesodiar.com]'
+    url: https://mesodiar.com/2025/10/23/pong-yaeng-trail-20km-2025/
+  state:
+    id: '100746876247412_804682645854313'
+    url: https://www.facebook.com/100683012920950/posts/804682645854313
+0dc99b3ecd08ea9c2c9f0c152f55af11:mastodon:
+  spec:
+    title: 'สนามเทรลแรกในชีวิต: Pong Yaeng Trail 20 KM [mesodiar.com]'
+    url: https://mesodiar.com/2025/10/23/pong-yaeng-trail-20km-2025/
+  state:
+    id: '115427022044956943'
+    url: https://mastodon.in.th/@webring/115427022044956943
+0dc99b3ecd08ea9c2c9f0c152f55af11:shorturl:
+  spec:
+    url: https://mesodiar.com/2025/10/23/pong-yaeng-trail-20km-2025/
+  state:
+    shortLink: https://link.webring.in.th/2836
 0dcdc8ae5a87dac7fb2b4e009e2e8cf8:facebook:
   spec:
     title: Install OpenSSH Server on Windows 11/10 [debuggingsoft.com]
