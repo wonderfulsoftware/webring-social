@@ -4648,6 +4648,32 @@
     url: https://www.boonsong.dev/pattern-event-driven-architecture-1
   state:
     shortLink: https://webring.page.link/dhgB
+1e29b48b5c35cb030f270febee9db369:bluesky:
+  spec:
+    title: 'จดๆจากงาน Data + AI Day 2025: Empowering Intelligence [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/10/recap-data-ai-day-2025-empowering-intelligence/
+  state:
+    cid: bafyreifzeyxdn4vhnzefc4w3l64fyzxodffw3ztazm3oin7azt443yq5iq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m45j4d3ckp2x
+1e29b48b5c35cb030f270febee9db369:facebook:
+  spec:
+    title: 'จดๆจากงาน Data + AI Day 2025: Empowering Intelligence [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/10/recap-data-ai-day-2025-empowering-intelligence/
+  state:
+    id: '100746876247412_807364362252808'
+    url: https://www.facebook.com/100683012920950/posts/807364362252808
+1e29b48b5c35cb030f270febee9db369:mastodon:
+  spec:
+    title: 'จดๆจากงาน Data + AI Day 2025: Empowering Intelligence [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/10/recap-data-ai-day-2025-empowering-intelligence/
+  state:
+    id: '115444080987130233'
+    url: https://mastodon.in.th/@webring/115444080987130233
+1e29b48b5c35cb030f270febee9db369:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/10/recap-data-ai-day-2025-empowering-intelligence/
+  state:
+    shortLink: https://link.webring.in.th/2838
 1e6d5d7ac2671688361333c8235f9e31:facebook:
   spec:
     title: เพิ่งเห็น Resource Saver Mode ใน Docker Destop [somkiat.cc]
