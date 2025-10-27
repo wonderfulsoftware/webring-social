@@ -32598,6 +32598,32 @@ d0587613e80512f822d887310b6320c6:shorturl:
     url: https://boychawin.com/2024/11/28/js-loops-performance.html
   state:
     shortLink: https://link.webring.in.th/2270
+d066827e8b63625c7f13a68885dc4e90:bluesky:
+  spec:
+    title: 'The Day I Became a Triathlete: บันทึกสนามแรกที่เปลี่ยนชีวิต [mesodiar.com]'
+    url: https://mesodiar.com/2025/10/26/the-day-i-became-a-triathlete/
+  state:
+    cid: bafyreih2dmnz6s3ev2vijk7sw2zuo2lnef765claeyxcwfsvm7ghjdsnhi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m45rrzbt7b2j
+d066827e8b63625c7f13a68885dc4e90:facebook:
+  spec:
+    title: 'The Day I Became a Triathlete: บันทึกสนามแรกที่เปลี่ยนชีวิต [mesodiar.com]'
+    url: https://mesodiar.com/2025/10/26/the-day-i-became-a-triathlete/
+  state:
+    id: '100746876247412_807450795577498'
+    url: https://www.facebook.com/100683012920950/posts/807450795577498
+d066827e8b63625c7f13a68885dc4e90:mastodon:
+  spec:
+    title: 'The Day I Became a Triathlete: บันทึกสนามแรกที่เปลี่ยนชีวิต [mesodiar.com]'
+    url: https://mesodiar.com/2025/10/26/the-day-i-became-a-triathlete/
+  state:
+    id: '115444691439796131'
+    url: https://mastodon.in.th/@webring/115444691439796131
+d066827e8b63625c7f13a68885dc4e90:shorturl:
+  spec:
+    url: https://mesodiar.com/2025/10/26/the-day-i-became-a-triathlete/
+  state:
+    shortLink: https://link.webring.in.th/2839
 d09e362befe037c0c29309df5304b501:facebook:
   spec:
     title: '[Presentation] Universal Motor [siravijbb.me]'
