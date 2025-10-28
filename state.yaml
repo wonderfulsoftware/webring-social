@@ -4501,6 +4501,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/03/c-dump-object-as-json-visual-studio/
   state:
     shortLink: https://link.webring.in.th/1823
+1d046340a4368b86503c2687a5981b22:bluesky:
+  spec:
+    title: '[DB2] ERROR [55039] [IBM][DB2/LINUXX8664] SQL0290N Table space access is not allowed. [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/10/db2-error-55039-ibmdb2-linuxx8664-sql0290n-table-space-access-is-not-allowed/
+  state:
+    cid: bafyreig27sc445363gxegpjamibtwunqzutg2ejcbfe6ugf7awqiql3rli
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m47yyr3bop2m
+1d046340a4368b86503c2687a5981b22:facebook:
+  spec:
+    title: '[DB2] ERROR [55039] [IBM][DB2/LINUXX8664] SQL0290N Table space access is not allowed. [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/10/db2-error-55039-ibmdb2-linuxx8664-sql0290n-table-space-access-is-not-allowed/
+  state:
+    id: '100746876247412_808199098836001'
+    url: https://www.facebook.com/100683012920950/posts/808199098836001
+1d046340a4368b86503c2687a5981b22:mastodon:
+  spec:
+    title: '[DB2] ERROR [55039] [IBM][DB2/LINUXX8664] SQL0290N Table space access is not allowed. [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/10/db2-error-55039-ibmdb2-linuxx8664-sql0290n-table-space-access-is-not-allowed/
+  state:
+    id: '115449702577216888'
+    url: https://mastodon.in.th/@webring/115449702577216888
+1d046340a4368b86503c2687a5981b22:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/10/db2-error-55039-ibmdb2-linuxx8664-sql0290n-table-space-access-is-not-allowed/
+  state:
+    shortLink: https://link.webring.in.th/2840
 1d0510cdc13188d655121e445da16c0f:facebook:
   spec:
     title: เรียนรู้การใช้งาน Strapi เบื้องต้น (find, findOne) [kajame.xyz]
