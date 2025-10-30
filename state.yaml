@@ -35788,6 +35788,32 @@ e62e98a40baa3f224c56ce2e303cb53d:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/08/cr-ugreen-145w-power-bank-for-laptop/
   state:
     shortLink: https://link.webring.in.th/2087
+e6536a5c5665e080b3b55f35075db946:bluesky:
+  spec:
+    title: บันทึกการเทรด มาดูกันว่าตามสถิติ เราเก่งแค่ไหน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/trading-journal
+  state:
+    cid: bafyreicez37h2fqi75mg5pbbnoruzkzcwwmb3rfydmkl4vnkzjdlkyvszm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m4ezzvom3j2l
+e6536a5c5665e080b3b55f35075db946:facebook:
+  spec:
+    title: บันทึกการเทรด มาดูกันว่าตามสถิติ เราเก่งแค่ไหน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/trading-journal
+  state:
+    id: '100746876247412_809774055345172'
+    url: https://www.facebook.com/100683012920950/posts/809774055345172
+e6536a5c5665e080b3b55f35075db946:mastodon:
+  spec:
+    title: บันทึกการเทรด มาดูกันว่าตามสถิติ เราเก่งแค่ไหน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/trading-journal
+  state:
+    id: '115461034404117638'
+    url: https://mastodon.in.th/@webring/115461034404117638
+e6536a5c5665e080b3b55f35075db946:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/trading-journal
+  state:
+    shortLink: https://link.webring.in.th/2841
 e6e6490ab81ce963083760091dd30b46:facebook:
   spec:
     title: ว่าด้วยเรื่อง Project CRaC กับ Spring framework [somkiat.cc]
