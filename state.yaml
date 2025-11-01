@@ -16921,6 +16921,32 @@
     url: https://kusumotolab.com/how-to-manage-e-tax-invoice-in-email-style-geek-geek/
   state:
     shortLink: https://webring.page.link/aj3W
+6ea285560ce3b60e7bf7d7fca6465e90:bluesky:
+  spec:
+    title: 'Spring Boot 4​ :: เรื่อง modularization [somkiat.cc]'
+    url: https://www.somkiat.cc/spring-boot-4-modularization/
+  state:
+    cid: bafyreicgpk7bitbxfp6dxh47qztr5sjnsatig5e22kv3omcckwdv6tdrwu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m4k2xfdexa2c
+6ea285560ce3b60e7bf7d7fca6465e90:facebook:
+  spec:
+    title: 'Spring Boot 4​ :: เรื่อง modularization [somkiat.cc]'
+    url: https://www.somkiat.cc/spring-boot-4-modularization/
+  state:
+    id: '100746876247412_811424108513500'
+    url: https://www.facebook.com/100683012920950/posts/811424108513500
+6ea285560ce3b60e7bf7d7fca6465e90:mastodon:
+  spec:
+    title: 'Spring Boot 4​ :: เรื่อง modularization [somkiat.cc]'
+    url: https://www.somkiat.cc/spring-boot-4-modularization/
+  state:
+    id: '115472358276554148'
+    url: https://mastodon.in.th/@webring/115472358276554148
+6ea285560ce3b60e7bf7d7fca6465e90:shorturl:
+  spec:
+    url: https://www.somkiat.cc/spring-boot-4-modularization/
+  state:
+    shortLink: https://link.webring.in.th/2842
 6ea664674e5299a96e34f7346ae67060:facebook:
   spec:
     title: Wishlist [garden.narze.live]
