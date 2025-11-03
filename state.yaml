@@ -29853,6 +29853,32 @@ be3212ad8848257559abae0cb255e58f:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week14-recap-qa/
   state:
     shortLink: https://webring.page.link/6yNH
+be39ab387eeea74d4b73a6db9d347664:bluesky:
+  spec:
+    title: DevFest Cloud Bangkok 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/11/recap-devfest-cloud-bangkok-2025/
+  state:
+    cid: bafyreiggs27chnuk4qef47brapzssnlfisigjb3wboir6tuyfmsquvlheq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m4p4c54g2p2l
+be39ab387eeea74d4b73a6db9d347664:facebook:
+  spec:
+    title: DevFest Cloud Bangkok 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/11/recap-devfest-cloud-bangkok-2025/
+  state:
+    id: '100746876247412_813197235002854'
+    url: https://www.facebook.com/100683012920950/posts/813197235002854
+be39ab387eeea74d4b73a6db9d347664:mastodon:
+  spec:
+    title: DevFest Cloud Bangkok 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/11/recap-devfest-cloud-bangkok-2025/
+  state:
+    id: '115483711201858768'
+    url: https://mastodon.in.th/@webring/115483711201858768
+be39ab387eeea74d4b73a6db9d347664:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/11/recap-devfest-cloud-bangkok-2025/
+  state:
+    shortLink: https://link.webring.in.th/2843
 be3afbe7918165c2ade79139ed1a358f:facebook:
   spec:
     title: 2023 [llun.me]
