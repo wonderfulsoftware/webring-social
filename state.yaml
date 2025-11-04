@@ -31439,6 +31439,32 @@ c89ba756b06b11405c7ed39fe43acb1d:shorturl:
     url: https://www.somkiat.cc/tips-shared-code/
   state:
     shortLink: https://link.webring.in.th/1933
+c8bcf95517d0d08709291ff1e3b96353:bluesky:
+  spec:
+    title: '[NET] Blazor detected a change in the application’s culture that is not supported with the current project [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/11/net-blazor-detected-a-change-in-the-applications-culture-that-is-not-supported-with-the-current-project/
+  state:
+    cid: bafyreiaxxt55edpzaeffmoo4ssozhvfsd7rim6dburzdf73dti34p3y4ui
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m4rmdprnme2o
+c8bcf95517d0d08709291ff1e3b96353:facebook:
+  spec:
+    title: '[NET] Blazor detected a change in the application’s culture that is not supported with the current project [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/11/net-blazor-detected-a-change-in-the-applications-culture-that-is-not-supported-with-the-current-project/
+  state:
+    id: '100746876247412_814044251584819'
+    url: https://www.facebook.com/100683012920950/posts/814044251584819
+c8bcf95517d0d08709291ff1e3b96353:mastodon:
+  spec:
+    title: '[NET] Blazor detected a change in the application’s culture that is not supported with the current project [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/11/net-blazor-detected-a-change-in-the-applications-culture-that-is-not-supported-with-the-current-project/
+  state:
+    id: '115489344113900548'
+    url: https://mastodon.in.th/@webring/115489344113900548
+c8bcf95517d0d08709291ff1e3b96353:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/11/net-blazor-detected-a-change-in-the-applications-culture-that-is-not-supported-with-the-current-project/
+  state:
+    shortLink: https://link.webring.in.th/2844
 c8dc3bb0686e3750b4fe768c991dee53:facebook:
   spec:
     title: Robocopy ERROR 3 (0x00000003) Accessing Source Directory C:\172.1.0.56\gen\ [debuggingsoft.com]
