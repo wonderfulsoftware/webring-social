@@ -31984,6 +31984,32 @@ cbf22d74bdf5a85bd8b44bc46fcb9435:shorturl:
     url: https://www.somkiat.cc/flutter-unable-to-find-bundled-java-version/
   state:
     shortLink: https://webring.page.link/xdDT
+cc18fdb6ea362e31a21c1f6197c5ab6e:bluesky:
+  spec:
+    title: '[CR] Starbucks Egg Bacon Truffle Brioche [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/11/cr-starbucks-egg-bacon-truffle-brioche/
+  state:
+    cid: bafyreif6v325riag2jhhvfxhoglar7sazj6ngoru2twhidkgqmmer3pmvq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m4wnjrx5y42o
+cc18fdb6ea362e31a21c1f6197c5ab6e:facebook:
+  spec:
+    title: '[CR] Starbucks Egg Bacon Truffle Brioche [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/11/cr-starbucks-egg-bacon-truffle-brioche/
+  state:
+    id: '100746876247412_815753898080521'
+    url: https://www.facebook.com/100683012920950/posts/815753898080521
+cc18fdb6ea362e31a21c1f6197c5ab6e:mastodon:
+  spec:
+    title: '[CR] Starbucks Egg Bacon Truffle Brioche [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/11/cr-starbucks-egg-bacon-truffle-brioche/
+  state:
+    id: '115500687041031098'
+    url: https://mastodon.in.th/@webring/115500687041031098
+cc18fdb6ea362e31a21c1f6197c5ab6e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/11/cr-starbucks-egg-bacon-truffle-brioche/
+  state:
+    shortLink: https://link.webring.in.th/2845
 cc30539ef4ecb2d125ba6879b5001bef:facebook:
   spec:
     title: MSTest 3.4 สนับสนุน WinUI และ Playwright แล้ว [somkiat.cc]
