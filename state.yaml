@@ -578,6 +578,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/vue-multiselect-typeerror-cannot-read-properties-of-undefined-reading-_cvue3/
   state:
     shortLink: https://webring.page.link/qMY5
+036915015eaa3344dc1190e0a41e06fe:bluesky:
+  spec:
+    title: การใช้งาน Share Consumer Support (Kafka Queues) ใน Spring for Apache Kafka [somkiat.cc]
+    url: https://www.somkiat.cc/kafka-queues-in-spring-for-apache-kafka/
+  state:
+    cid: bafyreiaim6pu2hcysa3wlntqgl6oxzpbsfaev4iji33tiznysyywfqgqve
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m5diogsbqo2c
+036915015eaa3344dc1190e0a41e06fe:facebook:
+  spec:
+    title: การใช้งาน Share Consumer Support (Kafka Queues) ใน Spring for Apache Kafka [somkiat.cc]
+    url: https://www.somkiat.cc/kafka-queues-in-spring-for-apache-kafka/
+  state:
+    id: '100746876247412_820155944306983'
+    url: https://www.facebook.com/100683012920950/posts/820155944306983
+036915015eaa3344dc1190e0a41e06fe:mastodon:
+  spec:
+    title: การใช้งาน Share Consumer Support (Kafka Queues) ใน Spring for Apache Kafka [somkiat.cc]
+    url: https://www.somkiat.cc/kafka-queues-in-spring-for-apache-kafka/
+  state:
+    id: '115529618790997607'
+    url: https://mastodon.in.th/@webring/115529618790997607
+036915015eaa3344dc1190e0a41e06fe:shorturl:
+  spec:
+    url: https://www.somkiat.cc/kafka-queues-in-spring-for-apache-kafka/
+  state:
+    shortLink: https://link.webring.in.th/2847
 03ff427d89b2ff60d0b2b157030e431c:bluesky:
   spec:
     title: '[maven] build container image with Buildpacks [debuggingsoft.com]'
