@@ -21624,6 +21624,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/04/cr-burger-king-kingbox2025/
   state:
     shortLink: https://link.webring.in.th/2511
+883a659219cdb66c97940ef550ed035c:bluesky:
+  spec:
+    title: Generating Material Design 3 Dynamic Color Scheme with JavaScript [dt.in.th]
+    url: https://dt.in.th/M3DynamicColorJS
+  state:
+    cid: bafyreigwwpnfluqgvo6ebwz53cni2buuvqnzk7xqstekl7uspohttbf6hi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m5kr5otatc2o
+883a659219cdb66c97940ef550ed035c:facebook:
+  spec:
+    title: Generating Material Design 3 Dynamic Color Scheme with JavaScript [dt.in.th]
+    url: https://dt.in.th/M3DynamicColorJS
+  state:
+    id: '100746876247412_822500460739198'
+    url: https://www.facebook.com/100683012920950/posts/822500460739198
+883a659219cdb66c97940ef550ed035c:mastodon:
+  spec:
+    title: Generating Material Design 3 Dynamic Color Scheme with JavaScript [dt.in.th]
+    url: https://dt.in.th/M3DynamicColorJS
+  state:
+    id: '115545977879891948'
+    url: https://mastodon.in.th/@webring/115545977879891948
+883a659219cdb66c97940ef550ed035c:shorturl:
+  spec:
+    url: https://dt.in.th/M3DynamicColorJS
+  state:
+    shortLink: https://link.webring.in.th/2848
 889df44cb70dd2e9c5ba5a35a254477b:facebook:
   spec:
     title: Access AlmaLinux 9 via RDP [debuggingsoft.com]
