@@ -604,6 +604,32 @@
     url: https://www.somkiat.cc/kafka-queues-in-spring-for-apache-kafka/
   state:
     shortLink: https://link.webring.in.th/2847
+03a7a3ac148df27a704c814a07610dbc:bluesky:
+  spec:
+    title: DevExpress XtraReport Hide Header on Last Page If no record [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/11/devexpress-xtrareport-hide-header-on-last-page-if-no-record/
+  state:
+    cid: bafyreicqj7nlnslmwrrr2t46pvtitubrfhz7q45brj2qpze5zpkgxdgotu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m5l23fs4xi2j
+03a7a3ac148df27a704c814a07610dbc:facebook:
+  spec:
+    title: DevExpress XtraReport Hide Header on Last Page If no record [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/11/devexpress-xtrareport-hide-header-on-last-page-if-no-record/
+  state:
+    id: '100746876247412_822586474063930'
+    url: https://www.facebook.com/100683012920950/posts/822586474063930
+03a7a3ac148df27a704c814a07610dbc:mastodon:
+  spec:
+    title: DevExpress XtraReport Hide Header on Last Page If no record [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/11/devexpress-xtrareport-hide-header-on-last-page-if-no-record/
+  state:
+    id: '115546606151120627'
+    url: https://mastodon.in.th/@webring/115546606151120627
+03a7a3ac148df27a704c814a07610dbc:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/11/devexpress-xtrareport-hide-header-on-last-page-if-no-record/
+  state:
+    shortLink: https://link.webring.in.th/2849
 03ff427d89b2ff60d0b2b157030e431c:bluesky:
   spec:
     title: '[maven] build container image with Buildpacks [debuggingsoft.com]'
