@@ -23076,6 +23076,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/11/unit-test-can-detect-concurrent-thread-problem/
   state:
     shortLink: https://link.webring.in.th/2252
+916ac2f5628d1a8b6398cdbb45d867fe:bluesky:
+  spec:
+    title: PocketBase TypeScript Type Generator [dt.in.th]
+    url: https://dt.in.th/PocketBaseTypeGen
+  state:
+    cid: bafyreiheys5nfd2jrzlzrfif4jix3ctubdonwzsoul5m3jyilxl5eqop5e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m5psayh4nm2w
+916ac2f5628d1a8b6398cdbb45d867fe:facebook:
+  spec:
+    title: PocketBase TypeScript Type Generator [dt.in.th]
+    url: https://dt.in.th/PocketBaseTypeGen
+  state:
+    id: '100746876247412_824037763918801'
+    url: https://www.facebook.com/100683012920950/posts/824037763918801
+916ac2f5628d1a8b6398cdbb45d867fe:mastodon:
+  spec:
+    title: PocketBase TypeScript Type Generator [dt.in.th]
+    url: https://dt.in.th/PocketBaseTypeGen
+  state:
+    id: '115557314421910423'
+    url: https://mastodon.in.th/@webring/115557314421910423
+916ac2f5628d1a8b6398cdbb45d867fe:shorturl:
+  spec:
+    url: https://dt.in.th/PocketBaseTypeGen
+  state:
+    shortLink: https://link.webring.in.th/2850
 916d2e1460fe8dfa08af2cf230aa0b6f:facebook:
   spec:
     title: บันทึก - เรียนรู้ Typescript (Any กับ Unknow ใน Typescript) [kajame.xyz]
