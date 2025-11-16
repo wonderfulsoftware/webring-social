@@ -14529,6 +14529,32 @@
     url: https://blog.luckytime1996.dev/blog/9-how-to-use-obsidian-with-astro/
   state:
     shortLink: https://link.webring.in.th/2716
+5f9e9caaa87caf632481f28488f85ffd:bluesky:
+  spec:
+    title: ทำความรู้จักกับ Token-Oriented Object Notation (TOON) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-toon/
+  state:
+    cid: bafyreihddxkzzg5jhnthd7cv7q6kc44got7xuylarfi5bpa65kjh3vcxry
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m5q2wi4ss22w
+5f9e9caaa87caf632481f28488f85ffd:facebook:
+  spec:
+    title: ทำความรู้จักกับ Token-Oriented Object Notation (TOON) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-toon/
+  state:
+    id: '100746876247412_824115973910980'
+    url: https://www.facebook.com/100683012920950/posts/824115973910980
+5f9e9caaa87caf632481f28488f85ffd:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Token-Oriented Object Notation (TOON) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-toon/
+  state:
+    id: '115557924602044241'
+    url: https://mastodon.in.th/@webring/115557924602044241
+5f9e9caaa87caf632481f28488f85ffd:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-toon/
+  state:
+    shortLink: https://link.webring.in.th/2851
 5fa036d23bd8b34dcf0b9855c36d16cb:facebook:
   spec:
     title: หนึ่งปีที่ผ่านมาใน Netherlands [llun.me]
