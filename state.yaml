@@ -2379,6 +2379,32 @@
     url: https://www.somkiat.cc/hello-spring-boot-3-4-0/
   state:
     shortLink: https://link.webring.in.th/2267
+0f6d32d8c8797d932f7fe6eab390365b:bluesky:
+  spec:
+    title: Implementing Conditional Updates in PocketBase [dt.in.th]
+    url: https://dt.in.th/PocketBaseConditionalUpdates
+  state:
+    cid: bafyreicscnyooqrvgiokbqvdlu2cjusjttgbnynnbgjw23avixczjpv5su
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m5scqdmzgq2y
+0f6d32d8c8797d932f7fe6eab390365b:facebook:
+  spec:
+    title: Implementing Conditional Updates in PocketBase [dt.in.th]
+    url: https://dt.in.th/PocketBaseConditionalUpdates
+  state:
+    id: '100746876247412_824796700509574'
+    url: https://www.facebook.com/100683012920950/posts/824796700509574
+0f6d32d8c8797d932f7fe6eab390365b:mastodon:
+  spec:
+    title: Implementing Conditional Updates in PocketBase [dt.in.th]
+    url: https://dt.in.th/PocketBaseConditionalUpdates
+  state:
+    id: '115562977681045063'
+    url: https://mastodon.in.th/@webring/115562977681045063
+0f6d32d8c8797d932f7fe6eab390365b:shorturl:
+  spec:
+    url: https://dt.in.th/PocketBaseConditionalUpdates
+  state:
+    shortLink: https://link.webring.in.th/2852
 0f805c1f0f69a66b260d489b0d0eec5e:facebook:
   spec:
     title: changesets warn received 404 for npm info on pre-release [nitpum.com]
