@@ -24515,6 +24515,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/10/how-to-delete-a-large-folder-that-contains-millions-of-files/
   state:
     shortLink: https://link.webring.in.th/2178
+9a9808c9ef0804732f512a2b12bfdecb:bluesky:
+  spec:
+    title: DCA เหมือนกันแต่ค่าธรรมเนียมต่างกันมีผลแค่ไหน? [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/dca-compare
+  state:
+    cid: bafyreied4e2exup3ayxb7flwxwgwdephzl6spa5a4kjlyh3krbct55meia
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m5sljz4ejb2n
+9a9808c9ef0804732f512a2b12bfdecb:facebook:
+  spec:
+    title: DCA เหมือนกันแต่ค่าธรรมเนียมต่างกันมีผลแค่ไหน? [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/dca-compare
+  state:
+    id: '100746876247412_824876040501640'
+    url: https://www.facebook.com/100683012920950/posts/824876040501640
+9a9808c9ef0804732f512a2b12bfdecb:mastodon:
+  spec:
+    title: DCA เหมือนกันแต่ค่าธรรมเนียมต่างกันมีผลแค่ไหน? [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/dca-compare
+  state:
+    id: '115563597106231394'
+    url: https://mastodon.in.th/@webring/115563597106231394
+9a9808c9ef0804732f512a2b12bfdecb:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/dca-compare
+  state:
+    shortLink: https://link.webring.in.th/2853
 9ac5ae6b0dd3a8bca3e9f4010bb29b69:facebook:
   spec:
     title: ลองใช้งาน Virtual Thread ของ Java 19 ใน Spring Boot 3 [somkiat.cc]
