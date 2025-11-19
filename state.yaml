@@ -39426,6 +39426,32 @@ fd4c99d9de04a89c412bcc7e7ba14c61:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/11/how-to-limit-memory-usage-on-vmmemwsl/
   state:
     shortLink: https://link.webring.in.th/2244
+fd91f4e0655993f578f0bf1f2c0e7e0b:bluesky:
+  spec:
+    title: มาลองปรับ Code .NET(REST API) เดิมเป็น MCP Server [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/11/how-to-modernize-current-dotnet-restapi-to-mcp-server-th-blog/
+  state:
+    cid: bafyreidkpacpdj6hq73x6wkx4prl7meoaoijfq7tlllddf42wu4tgnxezm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m5xdgkbg4l2n
+fd91f4e0655993f578f0bf1f2c0e7e0b:facebook:
+  spec:
+    title: มาลองปรับ Code .NET(REST API) เดิมเป็น MCP Server [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/11/how-to-modernize-current-dotnet-restapi-to-mcp-server-th-blog/
+  state:
+    id: '100746876247412_826306343691943'
+    url: https://www.facebook.com/100683012920950/posts/826306343691943
+fd91f4e0655993f578f0bf1f2c0e7e0b:mastodon:
+  spec:
+    title: มาลองปรับ Code .NET(REST API) เดิมเป็น MCP Server [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/11/how-to-modernize-current-dotnet-restapi-to-mcp-server-th-blog/
+  state:
+    id: '115574285620283024'
+    url: https://mastodon.in.th/@webring/115574285620283024
+fd91f4e0655993f578f0bf1f2c0e7e0b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/11/how-to-modernize-current-dotnet-restapi-to-mcp-server-th-blog/
+  state:
+    shortLink: https://link.webring.in.th/2854
 fded27a275c0ab5923370e23e7a5b37e:facebook:
   spec:
     title: ต่อให้ไม่มีเรา บริษัทก็อยู่ได้ [blog.ninprd.com]
