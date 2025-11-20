@@ -8862,6 +8862,32 @@
     url: https://kajame.xyz/blog/ssh-with-host
   state:
     shortLink: https://webring.page.link/B5Pu
+394b3e863b71f2e38f8840c952d6c64c:bluesky:
+  spec:
+    title: แวะมาพบเพื่อน Golang Beyond Meetup 2025 @KKP [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/11/reunioun-my-ex-colleagues-at-golang-beyond-meetup-2025/
+  state:
+    cid: bafyreihyaoj2d77gzwbsqf5cxcnx2l72tpjzwiuhtyam2plzu6uy5vq55a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m5ztufjfqh2b
+394b3e863b71f2e38f8840c952d6c64c:facebook:
+  spec:
+    title: แวะมาพบเพื่อน Golang Beyond Meetup 2025 @KKP [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/11/reunioun-my-ex-colleagues-at-golang-beyond-meetup-2025/
+  state:
+    id: '100746876247412_827048040284440'
+    url: https://www.facebook.com/100683012920950/posts/827048040284440
+394b3e863b71f2e38f8840c952d6c64c:mastodon:
+  spec:
+    title: แวะมาพบเพื่อน Golang Beyond Meetup 2025 @KKP [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/11/reunioun-my-ex-colleagues-at-golang-beyond-meetup-2025/
+  state:
+    id: '115579945567209451'
+    url: https://mastodon.in.th/@webring/115579945567209451
+394b3e863b71f2e38f8840c952d6c64c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/11/reunioun-my-ex-colleagues-at-golang-beyond-meetup-2025/
+  state:
+    shortLink: https://link.webring.in.th/2855
 396573904f2fbb8698ed6bcabd0d24ac:bluesky:
   spec:
     title: เมื่อ DEV ลองไป Workshop Windows Server and Active Directory Domain Services [debuggingsoft.com]
