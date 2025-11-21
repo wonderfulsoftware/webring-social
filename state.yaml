@@ -30132,6 +30132,32 @@ be3afbe7918165c2ade79139ed1a358f:shorturl:
     url: https://www.llun.me/posts/2023-12-31-2023
   state:
     shortLink: https://webring.page.link/ct6K
+be564a84f451950d51a6face2375b102:bluesky:
+  spec:
+    title: How I initialize a Node.js project (Node 24.x + TypeScript without build step) [dt.in.th]
+    url: https://dt.in.th/NodeInit
+  state:
+    cid: bafyreifst5qeykdsjcx5exdhefm5ne7ww5kno7zpi5ac3sj627q4fyf5kq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m64ecb3v4d2n
+be564a84f451950d51a6face2375b102:facebook:
+  spec:
+    title: How I initialize a Node.js project (Node 24.x + TypeScript without build step) [dt.in.th]
+    url: https://dt.in.th/NodeInit
+  state:
+    id: '100746876247412_827861456869765'
+    url: https://www.facebook.com/100683012920950/posts/827861456869765
+be564a84f451950d51a6face2375b102:mastodon:
+  spec:
+    title: How I initialize a Node.js project (Node 24.x + TypeScript without build step) [dt.in.th]
+    url: https://dt.in.th/NodeInit
+  state:
+    id: '115585605564300024'
+    url: https://mastodon.in.th/@webring/115585605564300024
+be564a84f451950d51a6face2375b102:shorturl:
+  spec:
+    url: https://dt.in.th/NodeInit
+  state:
+    shortLink: https://link.webring.in.th/2856
 be56de5543df8c2ff82b0329771c7a49:facebook:
   spec:
     title: '[CR] Starbucks Dark Chocolate with Custard Bun [debuggingsoft.com]'
