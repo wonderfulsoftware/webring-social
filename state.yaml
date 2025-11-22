@@ -19633,6 +19633,32 @@
     url: https://mymoneytoolkit.app/posts/tax-rd-2567
   state:
     shortLink: https://link.webring.in.th/2398
+7d0d8524a77f601721be84c9b0499fb1:bluesky:
+  spec:
+    title: Persistent aliases in Fish [dt.in.th]
+    url: https://dt.in.th/FishPersistentAlias
+  state:
+    cid: bafyreicswl3uhknnxq45bm3qs5wxchxhbkppvgk4asiy3h6s5tw2f5gfea
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m66uhwwwtg2l
+7d0d8524a77f601721be84c9b0499fb1:facebook:
+  spec:
+    title: Persistent aliases in Fish [dt.in.th]
+    url: https://dt.in.th/FishPersistentAlias
+  state:
+    id: '100746876247412_828682983454279'
+    url: https://www.facebook.com/100683012920950/posts/828682983454279
+7d0d8524a77f601721be84c9b0499fb1:mastodon:
+  spec:
+    title: Persistent aliases in Fish [dt.in.th]
+    url: https://dt.in.th/FishPersistentAlias
+  state:
+    id: '115591247561724465'
+    url: https://mastodon.in.th/@webring/115591247561724465
+7d0d8524a77f601721be84c9b0499fb1:shorturl:
+  spec:
+    url: https://dt.in.th/FishPersistentAlias
+  state:
+    shortLink: https://link.webring.in.th/2857
 7d1fd9a29818985fb59c07b5660b9ea8:facebook:
   spec:
     title: การสร้าง Commitment [blog.ninprd.com]
