@@ -2258,6 +2258,32 @@
     url: https://yuttakhanb.dev/posts/figma-mcp-writeup/
   state:
     shortLink: https://link.webring.in.th/2657
+0e388ea16fb1db74316abada3f748f65:bluesky:
+  spec:
+    title: บันทึกการติดตั้ง n8n ใน queue mode และแยก task runner ออกมา [somkiat.cc]
+    url: https://www.somkiat.cc/n8n-queue-mode-and-task-runner/
+  state:
+    cid: bafyreic4ard5puh2d7nk7myznbjeyc7shx6gks42qli67q2bhiismvga2i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m675oj6yzh2b
+0e388ea16fb1db74316abada3f748f65:facebook:
+  spec:
+    title: บันทึกการติดตั้ง n8n ใน queue mode และแยก task runner ออกมา [somkiat.cc]
+    url: https://www.somkiat.cc/n8n-queue-mode-and-task-runner/
+  state:
+    id: '100746876247412_828769510112293'
+    url: https://www.facebook.com/100683012920950/posts/828769510112293
+0e388ea16fb1db74316abada3f748f65:mastodon:
+  spec:
+    title: บันทึกการติดตั้ง n8n ใน queue mode และแยก task runner ออกมา [somkiat.cc]
+    url: https://www.somkiat.cc/n8n-queue-mode-and-task-runner/
+  state:
+    id: '115591895257544057'
+    url: https://mastodon.in.th/@webring/115591895257544057
+0e388ea16fb1db74316abada3f748f65:shorturl:
+  spec:
+    url: https://www.somkiat.cc/n8n-queue-mode-and-task-runner/
+  state:
+    shortLink: https://link.webring.in.th/2858
 0e855bef5a144f4a5f248f944d511e13:facebook:
   spec:
     title: DTO คืออะไร [pontakorn.dev]
