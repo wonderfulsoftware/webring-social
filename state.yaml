@@ -8985,6 +8985,32 @@
     url: https://www.mikkipastel.com/apetimism-1st-anniversary/
   state:
     shortLink: https://webring.page.link/a4o3
+39f5d249517b8eee0c228b9e711d2673:bluesky:
+  spec:
+    title: Using Docker CLI locally against a remote Docker Daemon via SSH [dt.in.th]
+    url: https://dt.in.th/DockerRemoteContext
+  state:
+    cid: bafyreid2q32dnskwbsuu6fvnxq5ym2qcnw5ezyvf3kquhkrs2z2imldgfm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6bfznv4td2a
+39f5d249517b8eee0c228b9e711d2673:facebook:
+  spec:
+    title: Using Docker CLI locally against a remote Docker Daemon via SSH [dt.in.th]
+    url: https://dt.in.th/DockerRemoteContext
+  state:
+    id: '100746876247412_829466423375935'
+    url: https://www.facebook.com/100683012920950/posts/829466423375935
+39f5d249517b8eee0c228b9e711d2673:mastodon:
+  spec:
+    title: Using Docker CLI locally against a remote Docker Daemon via SSH [dt.in.th]
+    url: https://dt.in.th/DockerRemoteContext
+  state:
+    id: '115596986444309234'
+    url: https://mastodon.in.th/@webring/115596986444309234
+39f5d249517b8eee0c228b9e711d2673:shorturl:
+  spec:
+    url: https://dt.in.th/DockerRemoteContext
+  state:
+    shortLink: https://link.webring.in.th/2859
 3a01980013d657bdd3a8bc4a07a291ed:bluesky:
   spec:
     title: คำนวณต้นทุนซื้อขายหลายไม้(ถัว) [mymoneytoolkit.app]
