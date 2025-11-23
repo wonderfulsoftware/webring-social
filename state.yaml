@@ -37496,6 +37496,32 @@ eeabc048fb76d8bc6fee82ecafc71807:shorturl:
     url: https://www.somkiat.cc/playwright-test-report-in-grafana-dashboard/
   state:
     shortLink: https://link.webring.in.th/2386
+eeb6c9d2ef3eb372598566cb7ebd9602:bluesky:
+  spec:
+    title: DJMAX - DPC2025 Review by Lucian & Torakaze [lucian.solutions]
+    url: https://lucian.solutions/blog/2025-dpc-reviews
+  state:
+    cid: bafyreifjwiqwawxiamf4uorgrzocaudi2mjjqwsmciwrslkx3c5ytu4ae4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6bo6whlc32w
+eeb6c9d2ef3eb372598566cb7ebd9602:facebook:
+  spec:
+    title: DJMAX - DPC2025 Review by Lucian & Torakaze [lucian.solutions]
+    url: https://lucian.solutions/blog/2025-dpc-reviews
+  state:
+    id: '100746876247412_829541063368471'
+    url: https://www.facebook.com/100683012920950/posts/829541063368471
+eeb6c9d2ef3eb372598566cb7ebd9602:mastodon:
+  spec:
+    title: DJMAX - DPC2025 Review by Lucian & Torakaze [lucian.solutions]
+    url: https://lucian.solutions/blog/2025-dpc-reviews
+  state:
+    id: '115597560555335200'
+    url: https://mastodon.in.th/@webring/115597560555335200
+eeb6c9d2ef3eb372598566cb7ebd9602:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/2025-dpc-reviews
+  state:
+    shortLink: https://link.webring.in.th/2860
 eebf657a35cac352e6cd61927b08d016:facebook:
   spec:
     title: Software Developer ได้เรียนรู้อะไรจากเหตุการณ์จาก CrowdStrike บ้าง ? [somkiat.cc]
