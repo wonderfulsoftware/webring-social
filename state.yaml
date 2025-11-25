@@ -14422,6 +14422,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/06/jsx-conditional-rendering/
   state:
     shortLink: https://link.webring.in.th/1991
+5ed6ba590b3c763fd1ea904645016e77:bluesky:
+  spec:
+    title: '[CR] Starbucks Banana Choc Chip Loaf Cake [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/11/cr-starbucks-banana-choc-chip-loaf-cake/
+  state:
+    cid: bafyreiaqcq44rqwacmmcqv46snb2tivwj6zfmu3oawjag2gj5rtf6bnr5y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6gpbkkw7p2y
+5ed6ba590b3c763fd1ea904645016e77:facebook:
+  spec:
+    title: '[CR] Starbucks Banana Choc Chip Loaf Cake [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/11/cr-starbucks-banana-choc-chip-loaf-cake/
+  state:
+    id: '100746876247412_831069479882296'
+    url: https://www.facebook.com/100683012920950/posts/831069479882296
+5ed6ba590b3c763fd1ea904645016e77:mastodon:
+  spec:
+    title: '[CR] Starbucks Banana Choc Chip Loaf Cake [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/11/cr-starbucks-banana-choc-chip-loaf-cake/
+  state:
+    id: '115608895989737626'
+    url: https://mastodon.in.th/@webring/115608895989737626
+5ed6ba590b3c763fd1ea904645016e77:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/11/cr-starbucks-banana-choc-chip-loaf-cake/
+  state:
+    shortLink: https://link.webring.in.th/2862
 5efc5ce24e8bdc1194e500102b25cb55:facebook:
   spec:
     title: LLM กับข้อสอบ O-NET ม.6 [dt.in.th]
