@@ -19073,6 +19073,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/09/vs-code-sync-setting/
   state:
     shortLink: https://link.webring.in.th/2117
+79ac418105dada9019fb274dac016a85:bluesky:
+  spec:
+    title: MML Player [dt.in.th]
+    url: https://dt.in.th/MMLPlayer
+  state:
+    cid: bafyreidswrlzqsfwdlajpun2b6va2j7c2dbexd336vxxccl6zbzr5lo5mu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6gghfgxc62k
+79ac418105dada9019fb274dac016a85:facebook:
+  spec:
+    title: MML Player [dt.in.th]
+    url: https://dt.in.th/MMLPlayer
+  state:
+    id: '100746876247412_830990336556877'
+    url: https://www.facebook.com/100683012920950/posts/830990336556877
+79ac418105dada9019fb274dac016a85:mastodon:
+  spec:
+    title: MML Player [dt.in.th]
+    url: https://dt.in.th/MMLPlayer
+  state:
+    id: '115608275590341995'
+    url: https://mastodon.in.th/@webring/115608275590341995
+79ac418105dada9019fb274dac016a85:shorturl:
+  spec:
+    url: https://dt.in.th/MMLPlayer
+  state:
+    shortLink: https://link.webring.in.th/2861
 79bd23cd4fa887c2dc51700b8a3e63bb:facebook:
   spec:
     title: มาลองเขียน comment รูปแบบ Markdown ใน Java 23 กัน [somkiat.cc]
