@@ -294,6 +294,32 @@
     url: https://www.mikkipastel.com/notion-meetup-thailand-2023-first-love-with-notion/
   state:
     shortLink: https://webring.page.link/izwK
+01bcc6fc9b59cd052a39c07f524d2a6a:bluesky:
+  spec:
+    title: '[NET] Dockerfile for Blazer WASM [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/11/dotnet-dockerfile-for-blazer-wasm/
+  state:
+    cid: bafyreidxxxjn4pkv3f2rmejmnszsftk7rzuznrts2yrofotcw6xbynkvny
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6lh6rgsds2t
+01bcc6fc9b59cd052a39c07f524d2a6a:facebook:
+  spec:
+    title: '[NET] Dockerfile for Blazer WASM [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/11/dotnet-dockerfile-for-blazer-wasm/
+  state:
+    id: '100746876247412_832529409736303'
+    url: https://www.facebook.com/100683012920950/posts/832529409736303
+01bcc6fc9b59cd052a39c07f524d2a6a:mastodon:
+  spec:
+    title: '[NET] Dockerfile for Blazer WASM [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/11/dotnet-dockerfile-for-blazer-wasm/
+  state:
+    id: '115619585778212460'
+    url: https://mastodon.in.th/@webring/115619585778212460
+01bcc6fc9b59cd052a39c07f524d2a6a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/11/dotnet-dockerfile-for-blazer-wasm/
+  state:
+    shortLink: https://link.webring.in.th/2863
 01d072eaaced8e9f7493a992d0d9236f:bluesky:
   spec:
     title: มาลองใช้งาน EventCatalog สำหรับ OpenAPI และ AsyncAPI [somkiat.cc]
