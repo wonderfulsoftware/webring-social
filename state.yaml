@@ -11791,6 +11791,32 @@
     url: https://karnwong.me/posts/2025/01/my-journey-for-fully-switching-from-windows-over-to-linux/
   state:
     shortLink: https://link.webring.in.th/2361
+4c853ed364c95149d4f305023ed353dc:bluesky:
+  spec:
+    title: จด ๆ จากงาน Typhoon เฮ็ดให้ AI ใจอีสาน [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/typhoon-ai-isan/
+  state:
+    cid: bafyreigjgmrqzad25upm4qopg3jynvigyce267c5fm7n345z2owajgslmq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6nxnkaeq32y
+4c853ed364c95149d4f305023ed353dc:facebook:
+  spec:
+    title: จด ๆ จากงาน Typhoon เฮ็ดให้ AI ใจอีสาน [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/typhoon-ai-isan/
+  state:
+    id: '100746876247412_833278192994758'
+    url: https://www.facebook.com/100683012920950/posts/833278192994758
+4c853ed364c95149d4f305023ed353dc:mastodon:
+  spec:
+    title: จด ๆ จากงาน Typhoon เฮ็ดให้ AI ใจอีสาน [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/typhoon-ai-isan/
+  state:
+    id: '115625247594242185'
+    url: https://mastodon.in.th/@webring/115625247594242185
+4c853ed364c95149d4f305023ed353dc:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/typhoon-ai-isan/
+  state:
+    shortLink: https://link.webring.in.th/2864
 4c9ee40f6dce3051343dd388fba6b36c:facebook:
   spec:
     title: DB2 Restore backup DB2 database with different database name [debuggingsoft.com]
