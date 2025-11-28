@@ -32066,6 +32066,32 @@ c9c25b647853b0f69a16ce356ff174eb:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/06/level-up-with-github-codespaces-and-copilot-thailand/
   state:
     shortLink: https://webring.page.link/ke3s
+c9e4603374dfc430b98f98e49881e333:bluesky:
+  spec:
+    title: Web speech-to-text [dt.in.th]
+    url: https://dt.in.th/WebSpeechToText
+  state:
+    cid: bafyreih5m74ll5cgvdfhboprd3gmfj4m77xbrdffwgw3ev3vpnwkut4t4y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6oanyr7un2k
+c9e4603374dfc430b98f98e49881e333:facebook:
+  spec:
+    title: Web speech-to-text [dt.in.th]
+    url: https://dt.in.th/WebSpeechToText
+  state:
+    id: '100746876247412_833354899653754'
+    url: https://www.facebook.com/100683012920950/posts/833354899653754
+c9e4603374dfc430b98f98e49881e333:mastodon:
+  spec:
+    title: Web speech-to-text [dt.in.th]
+    url: https://dt.in.th/WebSpeechToText
+  state:
+    id: '115625882284984573'
+    url: https://mastodon.in.th/@webring/115625882284984573
+c9e4603374dfc430b98f98e49881e333:shorturl:
+  spec:
+    url: https://dt.in.th/WebSpeechToText
+  state:
+    shortLink: https://link.webring.in.th/2865
 ca36726214f549883d5b641d97065a1a:facebook:
   spec:
     title: SSO Authentication ด้วย Sidecar Containers [boonsong.dev]
