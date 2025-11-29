@@ -8703,6 +8703,32 @@
     url: https://tech.duckfollow.co/view/react-hook
   state:
     shortLink: https://link.webring.in.th/2070
+37a1d5a68f0940dc41ca985bffac896e:bluesky:
+  spec:
+    title: Google Sheet คำนวณ Margin of Safety ของหุ้น [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/margin-of-safety
+  state:
+    cid: bafyreih6ywhkbfobxuugotomuvuuwibrtlcjceqkdutrbxnucbdlrqqt44
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6qi4c2u652n
+37a1d5a68f0940dc41ca985bffac896e:facebook:
+  spec:
+    title: Google Sheet คำนวณ Margin of Safety ของหุ้น [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/margin-of-safety
+  state:
+    id: '100746876247412_833992949589949'
+    url: https://www.facebook.com/100683012920950/posts/833992949589949
+37a1d5a68f0940dc41ca985bffac896e:mastodon:
+  spec:
+    title: Google Sheet คำนวณ Margin of Safety ของหุ้น [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/margin-of-safety
+  state:
+    id: '115630909727167747'
+    url: https://mastodon.in.th/@webring/115630909727167747
+37a1d5a68f0940dc41ca985bffac896e:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/margin-of-safety
+  state:
+    shortLink: https://link.webring.in.th/2866
 37b0db029719a356a7084b3d86cb633b:facebook:
   spec:
     title: หนังสือ Learning Go 2nd edition ออกมาแล้ว [somkiat.cc]
