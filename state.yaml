@@ -24730,6 +24730,32 @@
     url: https://www.mikkipastel.com/what-about-tool-program-for-developer-work/
   state:
     shortLink: https://link.webring.in.th/2635
+99d74b414e9299d518db042f720476a7:bluesky:
+  spec:
+    title: สวัสดี Spring Boot 4.0.0 [somkiat.cc]
+    url: https://www.somkiat.cc/hello-spring-boot-4/
+  state:
+    cid: bafyreifer6esfxfr5qjlla4mpjpz7g4a3on2rytl4t357bp6lgedmqvnu4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6qqykp75o2b
+99d74b414e9299d518db042f720476a7:facebook:
+  spec:
+    title: สวัสดี Spring Boot 4.0.0 [somkiat.cc]
+    url: https://www.somkiat.cc/hello-spring-boot-4/
+  state:
+    id: '100746876247412_834066266249284'
+    url: https://www.facebook.com/100683012920950/posts/834066266249284
+99d74b414e9299d518db042f720476a7:mastodon:
+  spec:
+    title: สวัสดี Spring Boot 4.0.0 [somkiat.cc]
+    url: https://www.somkiat.cc/hello-spring-boot-4/
+  state:
+    id: '115631534758750356'
+    url: https://mastodon.in.th/@webring/115631534758750356
+99d74b414e9299d518db042f720476a7:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-spring-boot-4/
+  state:
+    shortLink: https://link.webring.in.th/2867
 9a3560e7a4e6182a66d6584f4831e98c:facebook:
   spec:
     title: How to delete a large folder that contains millions of files [debuggingsoft.com]
