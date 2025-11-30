@@ -35092,6 +35092,32 @@ dc9406027d9ba4a11c760c9a94512164:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/03/%e0%b8%a5%e0%b8%ad%e0%b8%87-vue-version-on-windows-error-unauthorizedaccess/
   state:
     shortLink: https://webring.page.link/GVNd
+dca10a05467f8e88d937961307813ac8:bluesky:
+  spec:
+    title: คู่มือการใช้งาน แพลนตัง วางแผนเกษียณ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/retirement-web-handbook
+  state:
+    cid: bafyreigatyxn57i6t6pghztaxtwpddsrewzx7lco65zokng4xgbope3p6m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6szcuqbzh2q
+dca10a05467f8e88d937961307813ac8:facebook:
+  spec:
+    title: คู่มือการใช้งาน แพลนตัง วางแผนเกษียณ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/retirement-web-handbook
+  state:
+    id: '100746876247412_834717442850833'
+    url: https://www.facebook.com/100683012920950/posts/834717442850833
+dca10a05467f8e88d937961307813ac8:mastodon:
+  spec:
+    title: คู่มือการใช้งาน แพลนตัง วางแผนเกษียณ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/retirement-web-handbook
+  state:
+    id: '115636624146732971'
+    url: https://mastodon.in.th/@webring/115636624146732971
+dca10a05467f8e88d937961307813ac8:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/retirement-web-handbook
+  state:
+    shortLink: https://link.webring.in.th/2868
 dcdd89d83a2d1464ee942f6ffd6b9f46:bluesky:
   spec:
     title: มาลองใช้งาน GitHub Copilot ใน Agent mode กัน [somkiat.cc]
