@@ -758,6 +758,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/12/net6-error-system-notsupportedexception-no-data-is-available-for-encoding-874/
   state:
     shortLink: https://webring.page.link/efxx
+04c987845bbd58517e4665b6edbf2daf:bluesky:
+  spec:
+    title: การใช้งาน OpenTelemetry ใน Spring Boot 4.0.0 [somkiat.cc]
+    url: https://www.somkiat.cc/opentelemetry-in-spring-boot-4/
+  state:
+    cid: bafyreihwnzud7cld57j6cuf54hqxhvont35caj6msg7oqptcdp5wnpob2i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6tbiwu3yq2j
+04c987845bbd58517e4665b6edbf2daf:facebook:
+  spec:
+    title: การใช้งาน OpenTelemetry ใน Spring Boot 4.0.0 [somkiat.cc]
+    url: https://www.somkiat.cc/opentelemetry-in-spring-boot-4/
+  state:
+    id: '100746876247412_834787939510450'
+    url: https://www.facebook.com/100683012920950/posts/834787939510450
+04c987845bbd58517e4665b6edbf2daf:mastodon:
+  spec:
+    title: การใช้งาน OpenTelemetry ใน Spring Boot 4.0.0 [somkiat.cc]
+    url: https://www.somkiat.cc/opentelemetry-in-spring-boot-4/
+  state:
+    id: '115637200345830051'
+    url: https://mastodon.in.th/@webring/115637200345830051
+04c987845bbd58517e4665b6edbf2daf:shorturl:
+  spec:
+    url: https://www.somkiat.cc/opentelemetry-in-spring-boot-4/
+  state:
+    shortLink: https://link.webring.in.th/2869
 04f73bef92fc97d4c1e334d487563df9:facebook:
   spec:
     title: เมื่อเป็ดไปงาน FirebaseDevDay2023 [tech.duckfollow.co]
