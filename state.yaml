@@ -5586,6 +5586,32 @@
     url: https://karnwong.me/posts/2024/10/various-notes-on-career-related-stuff/
   state:
     shortLink: https://link.webring.in.th/2199
+236641d92fe400114e1be5fde6ca0064:bluesky:
+  spec:
+    title: สรุปงาน .NET Conf TH 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/11/recap-dotnet-conf-th-2025/
+  state:
+    cid: bafyreienszxbabcc4ylyqgkogui6jg3c7xo52zavvjuhoc5qxkpsxozwzq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6w42qztkm2k
+236641d92fe400114e1be5fde6ca0064:facebook:
+  spec:
+    title: สรุปงาน .NET Conf TH 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/11/recap-dotnet-conf-th-2025/
+  state:
+    id: '100746876247412_835600506095860'
+    url: https://www.facebook.com/100683012920950/posts/835600506095860
+236641d92fe400114e1be5fde6ca0064:mastodon:
+  spec:
+    title: สรุปงาน .NET Conf TH 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/11/recap-dotnet-conf-th-2025/
+  state:
+    id: '115643572851315809'
+    url: https://mastodon.in.th/@webring/115643572851315809
+236641d92fe400114e1be5fde6ca0064:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/11/recap-dotnet-conf-th-2025/
+  state:
+    shortLink: https://link.webring.in.th/2872
 236954767bc9158e3586b9b5b78e6788:facebook:
   spec:
     title: '[NUGET] error NU1101 + warning NU1801 ตอน Build ผ่าน Jenkins Windows Service [debuggingsoft.com]'
