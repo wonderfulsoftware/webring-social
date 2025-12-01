@@ -39131,6 +39131,32 @@ f78d5beacf5c6b4e71a51d75c3737765:shorturl:
     url: https://www.somkiat.cc/note-tuning-performance-2/
   state:
     shortLink: https://webring.page.link/c2Sd
+f79084cde131cbb612225ef4532c31f1:bluesky:
+  spec:
+    title: มาลองใช้งาน Kiro CLI กัน [somkiat.cc]
+    url: https://www.somkiat.cc/kiro-cli/
+  state:
+    cid: bafyreicvzsgry6cc26ybegyzsj5pevsqlvas3bvps4h2562nhhusxz3t4u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6vs6q2alm2o
+f79084cde131cbb612225ef4532c31f1:facebook:
+  spec:
+    title: มาลองใช้งาน Kiro CLI กัน [somkiat.cc]
+    url: https://www.somkiat.cc/kiro-cli/
+  state:
+    id: '100746876247412_835514839437760'
+    url: https://www.facebook.com/100683012920950/posts/835514839437760
+f79084cde131cbb612225ef4532c31f1:mastodon:
+  spec:
+    title: มาลองใช้งาน Kiro CLI กัน [somkiat.cc]
+    url: https://www.somkiat.cc/kiro-cli/
+  state:
+    id: '115642877329411044'
+    url: https://mastodon.in.th/@webring/115642877329411044
+f79084cde131cbb612225ef4532c31f1:shorturl:
+  spec:
+    url: https://www.somkiat.cc/kiro-cli/
+  state:
+    shortLink: https://link.webring.in.th/2871
 f7c778a21d5e7862f9b7a44e52ac85c7:bluesky:
   spec:
     title: ลองใช้ NuGet Explorer มา Pack dll เป็น NuGet Package (.nupkg) [debuggingsoft.com]
