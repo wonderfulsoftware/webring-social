@@ -24391,6 +24391,32 @@
     url: https://www.somkiat.cc/api-testing-with-hurl/
   state:
     shortLink: https://link.webring.in.th/1950
+96a5e6d89b8ac992709d684865b7977b:bluesky:
+  spec:
+    title: เชื่อม Codex กับ Figma MCP [blog.luckytime1996.dev]
+    url: https://blog.luckytime1996.dev/blog/10-how-to-use-figma-mcp-with-codex/
+  state:
+    cid: bafyreiff4euuil5uxbmwkky375o6rw3kjrjtp6nhnd6vlj7d5k4p4pihpq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6vkjdhzkd2c
+96a5e6d89b8ac992709d684865b7977b:facebook:
+  spec:
+    title: เชื่อม Codex กับ Figma MCP [blog.luckytime1996.dev]
+    url: https://blog.luckytime1996.dev/blog/10-how-to-use-figma-mcp-with-codex/
+  state:
+    id: '100746876247412_835449402777637'
+    url: https://www.facebook.com/100683012920950/posts/835449402777637
+96a5e6d89b8ac992709d684865b7977b:mastodon:
+  spec:
+    title: เชื่อม Codex กับ Figma MCP [blog.luckytime1996.dev]
+    url: https://blog.luckytime1996.dev/blog/10-how-to-use-figma-mcp-with-codex/
+  state:
+    id: '115642338221805178'
+    url: https://mastodon.in.th/@webring/115642338221805178
+96a5e6d89b8ac992709d684865b7977b:shorturl:
+  spec:
+    url: https://blog.luckytime1996.dev/blog/10-how-to-use-figma-mcp-with-codex/
+  state:
+    shortLink: https://link.webring.in.th/2870
 96e0f853e015a1bdbaee87581a1ebc1d:bluesky:
   spec:
     title: '[Eng] Distributed Scheduler The Series: Episode 0 — From Zero to Orchestrator [sujamess.com]'
