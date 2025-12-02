@@ -39797,6 +39797,32 @@ fbaf2aa50410c6804e405b6bf2436f76:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/01/create-a-gitignore-file-with-dotnet-cli/
   state:
     shortLink: https://link.webring.in.th/1721
+fc343bd3e0e383c039de5dc6c1e3a5b7:bluesky:
+  spec:
+    title: วาร์ปมาจด AI Community Day Bangkok 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/recap-ai-community-day-bangkok-2025/
+  state:
+    cid: bafyreih4qp6g6cygssjmhsuy65ttg3e7dic3sca3twfzfcguao3ekiclw4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6xzwopo262n
+fc343bd3e0e383c039de5dc6c1e3a5b7:facebook:
+  spec:
+    title: วาร์ปมาจด AI Community Day Bangkok 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/recap-ai-community-day-bangkok-2025/
+  state:
+    id: '100746876247412_836170696038841'
+    url: https://www.facebook.com/100683012920950/posts/836170696038841
+fc343bd3e0e383c039de5dc6c1e3a5b7:mastodon:
+  spec:
+    title: วาร์ปมาจด AI Community Day Bangkok 2025 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/recap-ai-community-day-bangkok-2025/
+  state:
+    id: '115647926661256712'
+    url: https://mastodon.in.th/@webring/115647926661256712
+fc343bd3e0e383c039de5dc6c1e3a5b7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/12/recap-ai-community-day-bangkok-2025/
+  state:
+    shortLink: https://link.webring.in.th/2873
 fc5aa262c05c298e3b4f9ad65f0771e5:bluesky:
   spec:
     title: สรุปจากบทความเรื่อง Why I’m No Longer Talking to Architects About Microservices [somkiat.cc]
