@@ -16915,6 +16915,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/03/cr-katsu-kitchen-pork-loin-katsu-set/
   state:
     shortLink: https://link.webring.in.th/2468
+6bdc164fe03529b367d939fa40951198:bluesky:
+  spec:
+    title: แนะนำการใช้งาน TSDiagram [somkiat.cc]
+    url: https://www.somkiat.cc/hello-tsdiagram/
+  state:
+    cid: bafyreigaxp6yyjrtwwy6caovastvuqbdi3btc4higbeljekmrubuznuaym
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m6yckupkga2y
+6bdc164fe03529b367d939fa40951198:facebook:
+  spec:
+    title: แนะนำการใช้งาน TSDiagram [somkiat.cc]
+    url: https://www.somkiat.cc/hello-tsdiagram/
+  state:
+    id: '100746876247412_836244209364823'
+    url: https://www.facebook.com/100683012920950/posts/836244209364823
+6bdc164fe03529b367d939fa40951198:mastodon:
+  spec:
+    title: แนะนำการใช้งาน TSDiagram [somkiat.cc]
+    url: https://www.somkiat.cc/hello-tsdiagram/
+  state:
+    id: '115648533778374201'
+    url: https://mastodon.in.th/@webring/115648533778374201
+6bdc164fe03529b367d939fa40951198:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-tsdiagram/
+  state:
+    shortLink: https://link.webring.in.th/2874
 6be23aabd49d0939b1ea26a4c23fc8aa:bluesky:
   spec:
     title: เพิ่งรู้ว่ามันมี nugettrends ด้วย [debuggingsoft.com]
