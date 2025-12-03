@@ -29994,6 +29994,32 @@ bbd997e98159f1a625503d6cb41c6972:shorturl:
     url: https://www.somkiat.cc/share-memory-for-ai-ide/
   state:
     shortLink: https://link.webring.in.th/2660
+bbde77d6d7b65321d63d6953e14ce22b:bluesky:
+  spec:
+    title: Grist TypeScript Type Generator [dt.in.th]
+    url: https://dt.in.th/GristTypeGenerator
+  state:
+    cid: bafyreiaeutwy7tf3h6mgukhv7c5npwwyxv5wh23zb3a7jn5ejctrq5kr6e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m72kdtgqzy2a
+bbde77d6d7b65321d63d6953e14ce22b:facebook:
+  spec:
+    title: Grist TypeScript Type Generator [dt.in.th]
+    url: https://dt.in.th/GristTypeGenerator
+  state:
+    id: '100746876247412_836888522633725'
+    url: https://www.facebook.com/100683012920950/posts/836888522633725
+bbde77d6d7b65321d63d6953e14ce22b:mastodon:
+  spec:
+    title: Grist TypeScript Type Generator [dt.in.th]
+    url: https://dt.in.th/GristTypeGenerator
+  state:
+    id: '115653584876164692'
+    url: https://mastodon.in.th/@webring/115653584876164692
+bbde77d6d7b65321d63d6953e14ce22b:shorturl:
+  spec:
+    url: https://dt.in.th/GristTypeGenerator
+  state:
+    shortLink: https://link.webring.in.th/2875
 bbf3ba7b8bbc2a08473f5a00a9e75d14:bluesky:
   spec:
     title: 'แนะนำหนังสือการเงินส่วนบุคคล: เส้นทางสู่การลงทุนที่มั่นคง [mymoneytoolkit.app]'
