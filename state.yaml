@@ -22701,6 +22701,32 @@
     url: https://www.poolsawat.com/converting-images-to-webp/
   state:
     shortLink: https://webring.page.link/YBDR
+8bf1e7f49a0fbb565471a683aed549d7:bluesky:
+  spec:
+    title: How to modernize current dotnet REST API to MCP Server [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/how-to-modernize-current-dotnet-rest-api-to-mcp-server/
+  state:
+    cid: bafyreig7hmocv2hghgwoiy5dlddmog7up6uftmvom62pqzin2jxumxduxy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m72sz2ufki2w
+8bf1e7f49a0fbb565471a683aed549d7:facebook:
+  spec:
+    title: How to modernize current dotnet REST API to MCP Server [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/how-to-modernize-current-dotnet-rest-api-to-mcp-server/
+  state:
+    id: '100746876247412_836956339293610'
+    url: https://www.facebook.com/100683012920950/posts/836956339293610
+8bf1e7f49a0fbb565471a683aed549d7:mastodon:
+  spec:
+    title: How to modernize current dotnet REST API to MCP Server [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/how-to-modernize-current-dotnet-rest-api-to-mcp-server/
+  state:
+    id: '115654194691818893'
+    url: https://mastodon.in.th/@webring/115654194691818893
+8bf1e7f49a0fbb565471a683aed549d7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/12/how-to-modernize-current-dotnet-rest-api-to-mcp-server/
+  state:
+    shortLink: https://link.webring.in.th/2876
 8bf7b3345d4e3de4bba10bf065a6d83c:bluesky:
   spec:
     title: เริ่มเรียนว่ายน้ำใหม่ตอนอายุสามสิบกว่า [thammarith.dev]
