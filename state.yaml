@@ -21694,6 +21694,32 @@
     url: https://www.somkiat.cc/hello-dotnet-aspire/
   state:
     shortLink: https://webring.page.link/m5UD
+866bf28d667be9e03f448b24a2ed6ad9:bluesky:
+  spec:
+    title: Spring Boot 4.0.0 กับการทดสอบที่มาพร้อมกับ JUnit 6 [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-testing-with-spring-boot-4/
+  state:
+    cid: bafyreib6loejgc35k67binkgyxoq3q5iaclhitcz2gqblmjtq2i5h4j2n4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m734tlqfal25
+866bf28d667be9e03f448b24a2ed6ad9:facebook:
+  spec:
+    title: Spring Boot 4.0.0 กับการทดสอบที่มาพร้อมกับ JUnit 6 [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-testing-with-spring-boot-4/
+  state:
+    id: '100746876247412_837034492619128'
+    url: https://www.facebook.com/100683012920950/posts/837034492619128
+866bf28d667be9e03f448b24a2ed6ad9:mastodon:
+  spec:
+    title: Spring Boot 4.0.0 กับการทดสอบที่มาพร้อมกับ JUnit 6 [somkiat.cc]
+    url: https://www.somkiat.cc/spring-boot-testing-with-spring-boot-4/
+  state:
+    id: '115654886397276279'
+    url: https://mastodon.in.th/@webring/115654886397276279
+866bf28d667be9e03f448b24a2ed6ad9:shorturl:
+  spec:
+    url: https://www.somkiat.cc/spring-boot-testing-with-spring-boot-4/
+  state:
+    shortLink: https://link.webring.in.th/2877
 86728c2b7cd76900f995187ccc5c2b72:facebook:
   spec:
     title: 55 - garden-astro - Move website & add RSS feed [garden.narze.live]
