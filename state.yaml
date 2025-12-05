@@ -9764,6 +9764,32 @@
     url: https://jitrak.dev/posts/post-20-test-double/
   state:
     shortLink: https://webring.page.link/DtK7
+3db5c074beb46a11e87ebb236aca01b7:bluesky:
+  spec:
+    title: '[GIT] เพิ่มไฟล์ลงใน .gitignore แต่ไฟล์ยังอยู่หลอกหลอนเรา [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/12/how-to-handle-when-file-was-already-committed-before-adding-it-to-gitignore-th/
+  state:
+    cid: bafyreigbhsu5ci3uh6ww2pfkv7tioa7hue5fxtld5emjlqolrvfu4drza4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m77lbz2vut2n
+3db5c074beb46a11e87ebb236aca01b7:facebook:
+  spec:
+    title: '[GIT] เพิ่มไฟล์ลงใน .gitignore แต่ไฟล์ยังอยู่หลอกหลอนเรา [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/12/how-to-handle-when-file-was-already-committed-before-adding-it-to-gitignore-th/
+  state:
+    id: '100746876247412_838326359156608'
+    url: https://www.facebook.com/100683012920950/posts/838326359156608
+3db5c074beb46a11e87ebb236aca01b7:mastodon:
+  spec:
+    title: '[GIT] เพิ่มไฟล์ลงใน .gitignore แต่ไฟล์ยังอยู่หลอกหลอนเรา [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/12/how-to-handle-when-file-was-already-committed-before-adding-it-to-gitignore-th/
+  state:
+    id: '115664910569898649'
+    url: https://mastodon.in.th/@webring/115664910569898649
+3db5c074beb46a11e87ebb236aca01b7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/12/how-to-handle-when-file-was-already-committed-before-adding-it-to-gitignore-th/
+  state:
+    shortLink: https://link.webring.in.th/2878
 3dd310f1fbc4e102df7847ee29f808e5:facebook:
   spec:
     title: อัพเดตโปรเจควงแหวนเว็บ, integrate กับ Bluesky [dt.in.th]
