@@ -27166,6 +27166,32 @@ a8dafb07a52f8efa6d53c1fa72d3caf3:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/04/cr-711_nuatair_sandwich_thai_spicy-_dipping_sauce/
   state:
     shortLink: https://link.webring.in.th/2495
+a8dcca3d394f6ceaf855de0e6f9518e7:bluesky:
+  spec:
+    title: มากินที่งาน German Christmas Market [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/let-eat-german-christmas-market/
+  state:
+    cid: bafyreigknoysmtbwoigwylbfc3xvh7zihkyptyg7qlphtxgsafu3qnweaq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m7c3b3ih542t
+a8dcca3d394f6ceaf855de0e6f9518e7:facebook:
+  spec:
+    title: มากินที่งาน German Christmas Market [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/let-eat-german-christmas-market/
+  state:
+    id: '100746876247412_839049795750931'
+    url: https://www.facebook.com/100683012920950/posts/839049795750931
+a8dcca3d394f6ceaf855de0e6f9518e7:mastodon:
+  spec:
+    title: มากินที่งาน German Christmas Market [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/let-eat-german-christmas-market/
+  state:
+    id: '115670538086439120'
+    url: https://mastodon.in.th/@webring/115670538086439120
+a8dcca3d394f6ceaf855de0e6f9518e7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/12/let-eat-german-christmas-market/
+  state:
+    shortLink: https://link.webring.in.th/2879
 a90a52b9eb3224a11d4b8ed31e7331ea:facebook:
   spec:
     title: รีวิว Work From Home Workspace หลังจากที่ใช้งานมาระยะหนึ่งแล้ว [mikkipastel.com]
