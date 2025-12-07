@@ -37303,6 +37303,32 @@ eb82941eeb3ea9ead9c3fc12d2c19408:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/04/convert-date-time-to-number/
   state:
     shortLink: https://link.webring.in.th/1894
+eb881dace0a6cd8c02047d47cf94d492:bluesky:
+  spec:
+    title: Service Accounts in Grist [dt.in.th]
+    url: https://dt.in.th/GristServiceAccounts
+  state:
+    cid: bafyreifx74i4gufgoikfrj3joxag3hb2dwt5n4tzvrvhelrpuofy7stfni
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m7eml5pqry2c
+eb881dace0a6cd8c02047d47cf94d492:facebook:
+  spec:
+    title: Service Accounts in Grist [dt.in.th]
+    url: https://dt.in.th/GristServiceAccounts
+  state:
+    id: '100746876247412_839778169011427'
+    url: https://www.facebook.com/100683012920950/posts/839778169011427
+eb881dace0a6cd8c02047d47cf94d492:mastodon:
+  spec:
+    title: Service Accounts in Grist [dt.in.th]
+    url: https://dt.in.th/GristServiceAccounts
+  state:
+    id: '115676259468832727'
+    url: https://mastodon.in.th/@webring/115676259468832727
+eb881dace0a6cd8c02047d47cf94d492:shorturl:
+  spec:
+    url: https://dt.in.th/GristServiceAccounts
+  state:
+    shortLink: https://link.webring.in.th/2880
 eba0071a589487ca0ea39b0e43921ab1:facebook:
   spec:
     title: XConf Thailand 2023 [garden.narze.live]
