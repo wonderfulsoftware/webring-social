@@ -19874,6 +19874,32 @@
     url: https://yothinix.com/working-how-to-work/
   state:
     shortLink: https://webring.page.link/o1tu
+7cc8aeb5d81a5067ea9ad2c7d03c3231:bluesky:
+  spec:
+    title: '[JAVA] com.jcraft.jsch.JSchException: invalid privatekey [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/12/java-com-jcraft-jsch-jschexception-invalid-privatekey/
+  state:
+    cid: bafyreidftizmeretdb5w2idqkehderovxbhhv4tiwpcf53n2fcxp7njnae
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m7m5uv6yvs2z
+7cc8aeb5d81a5067ea9ad2c7d03c3231:facebook:
+  spec:
+    title: '[JAVA] com.jcraft.jsch.JSchException: invalid privatekey [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/12/java-com-jcraft-jsch-jschexception-invalid-privatekey/
+  state:
+    id: '100746876247412_841970078792236'
+    url: https://www.facebook.com/100683012920950/posts/841970078792236
+7cc8aeb5d81a5067ea9ad2c7d03c3231:mastodon:
+  spec:
+    title: '[JAVA] com.jcraft.jsch.JSchException: invalid privatekey [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/12/java-com-jcraft-jsch-jschexception-invalid-privatekey/
+  state:
+    id: '115693240191199217'
+    url: https://mastodon.in.th/@webring/115693240191199217
+7cc8aeb5d81a5067ea9ad2c7d03c3231:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/12/java-com-jcraft-jsch-jschexception-invalid-privatekey/
+  state:
+    shortLink: https://link.webring.in.th/2881
 7ccc9fcac6f06c75d1fb5aa38590a1cd:facebook:
   spec:
     title: Skincare Routine ฉบับเรียบง่ายสไตล์โปรแกรมเมอร์ [anuwong.com]
