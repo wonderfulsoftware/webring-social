@@ -17586,6 +17586,32 @@
     url: https://rayriffy.com/garden/airport-tier-list/
   state:
     shortLink: https://link.webring.in.th/2176
+6fc5591c18f41ca1ddf12cb2d2b1fb90:bluesky:
+  spec:
+    title: Illustration - Hikari [lucian.solutions]
+    url: https://lucian.solutions/blog/202512-hikari
+  state:
+    cid: bafyreibmzqpgzvvzudzzuuur7q6rnoa4apumziv2syqdw72emeht6ogp2u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m7owu6qhoe2v
+6fc5591c18f41ca1ddf12cb2d2b1fb90:facebook:
+  spec:
+    title: Illustration - Hikari [lucian.solutions]
+    url: https://lucian.solutions/blog/202512-hikari
+  state:
+    id: '100746876247412_842785348710709'
+    url: https://www.facebook.com/100683012920950/posts/842785348710709
+6fc5591c18f41ca1ddf12cb2d2b1fb90:mastodon:
+  spec:
+    title: Illustration - Hikari [lucian.solutions]
+    url: https://lucian.solutions/blog/202512-hikari
+  state:
+    id: '115699501078002189'
+    url: https://mastodon.in.th/@webring/115699501078002189
+6fc5591c18f41ca1ddf12cb2d2b1fb90:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202512-hikari
+  state:
+    shortLink: https://link.webring.in.th/2883
 6fc5638deae1e0269daf6422b680139d:facebook:
   spec:
     title: 'IWD 2023: Protect sensitive data in pipeline with Tink and Cloud KMS as Envelope Encryption [mesodiar.com]'
