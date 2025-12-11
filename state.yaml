@@ -1170,6 +1170,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/12/how-to-get-output-from-dotnet-test/
   state:
     shortLink: https://webring.page.link/rZFZ
+06e0d6ec6b5f92ef8bee327136ebb7ae:bluesky:
+  spec:
+    title: สรุปเรากินชาไทยได้วันละกี่แก้ว? จากผลทดสอบสีในชาไทย 15 แบรนด์ [wawasabii.com]
+    url: https://wawasabii.com/how-many-thai-tea-safe-sunset-yellow/
+  state:
+    cid: bafyreig5dwtjq5rexbmx674v65ffv2bxwox264x3srfcdnweb3wzxp6jpm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m7oogx3d2v2m
+06e0d6ec6b5f92ef8bee327136ebb7ae:facebook:
+  spec:
+    title: สรุปเรากินชาไทยได้วันละกี่แก้ว? จากผลทดสอบสีในชาไทย 15 แบรนด์ [wawasabii.com]
+    url: https://wawasabii.com/how-many-thai-tea-safe-sunset-yellow/
+  state:
+    id: '100746876247412_842713118717932'
+    url: https://www.facebook.com/100683012920950/posts/842713118717932
+06e0d6ec6b5f92ef8bee327136ebb7ae:mastodon:
+  spec:
+    title: สรุปเรากินชาไทยได้วันละกี่แก้ว? จากผลทดสอบสีในชาไทย 15 แบรนด์ [wawasabii.com]
+    url: https://wawasabii.com/how-many-thai-tea-safe-sunset-yellow/
+  state:
+    id: '115698909401551239'
+    url: https://mastodon.in.th/@webring/115698909401551239
+06e0d6ec6b5f92ef8bee327136ebb7ae:shorturl:
+  spec:
+    url: https://wawasabii.com/how-many-thai-tea-safe-sunset-yellow/
+  state:
+    shortLink: https://link.webring.in.th/2882
 06e87451e22257226f5a46a15402a80a:bluesky:
   spec:
     title: How to remove fixed IP in RHEL [debuggingsoft.com]
