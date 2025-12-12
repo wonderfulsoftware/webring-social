@@ -37914,6 +37914,32 @@ edda9e635515fde6e153388671b1f70f:shorturl:
     url: https://blog.ninprd.com/blog/how-ready-you-have-to-be-before-applying-for-jobs/
   state:
     shortLink: https://link.webring.in.th/1887
+ede41df71bebe7417abc79449148d78b:bluesky:
+  spec:
+    title: '[NET] System.MissingMethodException: Method not found: System.Object Microsoft.Extensions.AI.ChatOptions.get_ContinuationToken() [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/12/net-system-missingmethodexception-method-not-found-system-object-microsoft-extensions-ai-chatoptions-get_continuationtoken/
+  state:
+    cid: bafyreiekr25e3miukafhwkvtucua7kir377nteroaulmea457eum2ocgta
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m7rhbqdh2326
+ede41df71bebe7417abc79449148d78b:facebook:
+  spec:
+    title: '[NET] System.MissingMethodException: Method not found: System.Object Microsoft.Extensions.AI.ChatOptions.get_ContinuationToken() [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/12/net-system-missingmethodexception-method-not-found-system-object-microsoft-extensions-ai-chatoptions-get_continuationtoken/
+  state:
+    id: '100746876247412_843533088635935'
+    url: https://www.facebook.com/100683012920950/posts/843533088635935
+ede41df71bebe7417abc79449148d78b:mastodon:
+  spec:
+    title: '[NET] System.MissingMethodException: Method not found: System.Object Microsoft.Extensions.AI.ChatOptions.get_ContinuationToken() [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/12/net-system-missingmethodexception-method-not-found-system-object-microsoft-extensions-ai-chatoptions-get_continuationtoken/
+  state:
+    id: '115705160679616815'
+    url: https://mastodon.in.th/@webring/115705160679616815
+ede41df71bebe7417abc79449148d78b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/12/net-system-missingmethodexception-method-not-found-system-object-microsoft-extensions-ai-chatoptions-get_continuationtoken/
+  state:
+    shortLink: https://link.webring.in.th/2885
 edeb94abe2f98a95e84818306238de37:facebook:
   spec:
     title: Create Kubernetes service accounts with Terraform [karnwong.me]
