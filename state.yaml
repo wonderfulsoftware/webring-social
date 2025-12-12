@@ -35572,6 +35572,32 @@ de08409ff413586764fbc91fe46b21d3:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/06/bcdedit-enum-options/
   state:
     shortLink: https://link.webring.in.th/1967
+de1582407c66322eea965ab9f03cda31:bluesky:
+  spec:
+    title: ระบบติดตามหุ้น + แจ้งเตือนผ่าน Telegram [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/doi-v1
+  state:
+    cid: bafyreih2g7c2355q4kkdhkim74vbpa4mpt36rvspxy2vbcbpw6ojbcg2i4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m7r6vs62xd2v
+de1582407c66322eea965ab9f03cda31:facebook:
+  spec:
+    title: ระบบติดตามหุ้น + แจ้งเตือนผ่าน Telegram [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/doi-v1
+  state:
+    id: '100746876247412_843459491976628'
+    url: https://www.facebook.com/100683012920950/posts/843459491976628
+de1582407c66322eea965ab9f03cda31:mastodon:
+  spec:
+    title: ระบบติดตามหุ้น + แจ้งเตือนผ่าน Telegram [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/doi-v1
+  state:
+    id: '115704571553133439'
+    url: https://mastodon.in.th/@webring/115704571553133439
+de1582407c66322eea965ab9f03cda31:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/doi-v1
+  state:
+    shortLink: https://link.webring.in.th/2884
 de5432ed497ce622a0289f8f8d90cc4f:facebook:
   spec:
     title: มาลองเป็น Public Speaker เรื่อง OOAD [debuggingsoft.com]
