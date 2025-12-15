@@ -13720,6 +13720,32 @@
     url: https://www.somkiat.cc/intro-typespec-for-api-design/
   state:
     shortLink: https://link.webring.in.th/1996
+593e2cbffec721bdfdf9c0e2bd38fe4c:bluesky:
+  spec:
+    title: Microsoft Ignite 2025– After Party Thailand [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/microsoft-ignite-2025-after-party-thailand/
+  state:
+    cid: bafyreicysc34tmoij2mqm2isyfouuh6wb7fewd4q6434nw3ph4b3gwq6k4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3m7yqp3omtv27
+593e2cbffec721bdfdf9c0e2bd38fe4c:facebook:
+  spec:
+    title: Microsoft Ignite 2025– After Party Thailand [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/microsoft-ignite-2025-after-party-thailand/
+  state:
+    id: '100746876247412_845658258423418'
+    url: https://www.facebook.com/100683012920950/posts/845658258423418
+593e2cbffec721bdfdf9c0e2bd38fe4c:mastodon:
+  spec:
+    title: Microsoft Ignite 2025– After Party Thailand [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/microsoft-ignite-2025-after-party-thailand/
+  state:
+    id: '115721586047834092'
+    url: https://mastodon.in.th/@webring/115721586047834092
+593e2cbffec721bdfdf9c0e2bd38fe4c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/12/microsoft-ignite-2025-after-party-thailand/
+  state:
+    shortLink: https://link.webring.in.th/2886
 5979cd835cfeaf45cb4f80ac4e99b01a:bluesky:
   spec:
     title: My code search setup throughout the years [karnwong.me]
