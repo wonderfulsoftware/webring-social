@@ -26156,6 +26156,32 @@ a1c9279007c366f5917a9e1cacf58322:shorturl:
     url: https://bigdatarpg.com/2024/07/28/my-2022-achivements/
   state:
     shortLink: https://link.webring.in.th/2049
+a1d06a7bbbd4fe3a1a43bd4442778ed0:bluesky:
+  spec:
+    title: Illustration - Skyriser [lucian.solutions]
+    url: https://lucian.solutions/blog/202512-skyriser
+  state:
+    cid: bafyreiftho7eb5sxwl2g6gkddl77dvw2a2k26cu7qmzd3zchoo2aiqqs6i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ma3j5oajnk2v
+a1d06a7bbbd4fe3a1a43bd4442778ed0:facebook:
+  spec:
+    title: Illustration - Skyriser [lucian.solutions]
+    url: https://lucian.solutions/blog/202512-skyriser
+  state:
+    id: '100746876247412_846449805010930'
+    url: https://www.facebook.com/100683012920950/posts/846449805010930
+a1d06a7bbbd4fe3a1a43bd4442778ed0:mastodon:
+  spec:
+    title: Illustration - Skyriser [lucian.solutions]
+    url: https://lucian.solutions/blog/202512-skyriser
+  state:
+    id: '115727810343547251'
+    url: https://mastodon.in.th/@webring/115727810343547251
+a1d06a7bbbd4fe3a1a43bd4442778ed0:shorturl:
+  spec:
+    url: https://lucian.solutions/blog/202512-skyriser
+  state:
+    shortLink: https://link.webring.in.th/2888
 a1d739dac916c91e5aae51459a4156a9:bluesky:
   spec:
     title: ทดลองใช้ Mistral OCR สำหรับอ่านข้อมูลจาก PDF [somkiat.cc]
