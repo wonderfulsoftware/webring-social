@@ -25331,6 +25331,32 @@
     url: https://notes.dt.in.th/20230103T095819Z9158
   state:
     shortLink: https://webring.page.link/ADpo
+9c59533ca8149369ed08d7b327523969:bluesky:
+  spec:
+    title: Using GitHub’s official Remote MCP Server with Claude Web [dt.in.th]
+    url: https://dt.in.th/ClaudeWebGitHubMCP
+  state:
+    cid: bafyreih6lnrsg7udsihg6zqn2uv23gbucn74kef3vjbb7hd5qtw7uakpci
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ma3asiy2lv2v
+9c59533ca8149369ed08d7b327523969:facebook:
+  spec:
+    title: Using GitHub’s official Remote MCP Server with Claude Web [dt.in.th]
+    url: https://dt.in.th/ClaudeWebGitHubMCP
+  state:
+    id: '100746876247412_846377555018155'
+    url: https://www.facebook.com/100683012920950/posts/846377555018155
+9c59533ca8149369ed08d7b327523969:mastodon:
+  spec:
+    title: Using GitHub’s official Remote MCP Server with Claude Web [dt.in.th]
+    url: https://dt.in.th/ClaudeWebGitHubMCP
+  state:
+    id: '115727223188084242'
+    url: https://mastodon.in.th/@webring/115727223188084242
+9c59533ca8149369ed08d7b327523969:shorturl:
+  spec:
+    url: https://dt.in.th/ClaudeWebGitHubMCP
+  state:
+    shortLink: https://link.webring.in.th/2887
 9c5d3f568c175f705d512e0d77363874:facebook:
   spec:
     title: ประหยัดเงินค่า Coding Assistant ด้วย TabbyML [anuwong.com]
