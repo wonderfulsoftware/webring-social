@@ -1810,6 +1810,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/11/recap-dotnet-conf-th-2024/
   state:
     shortLink: https://link.webring.in.th/2264
+0b169b68555920fc3648cfe1efc401f8:bluesky:
+  spec:
+    title: 2025, Joining 40 Club [llun.me]
+    url: https://www.llun.me/posts/2025-12-16-2025
+  state:
+    cid: bafyreibjrb26w3fyhe65gfzksi2zseaiynj2wjrad5agqtotp6mqd2v2ya
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ma5r3jdxmv2j
+0b169b68555920fc3648cfe1efc401f8:facebook:
+  spec:
+    title: 2025, Joining 40 Club [llun.me]
+    url: https://www.llun.me/posts/2025-12-16-2025
+  state:
+    id: '100746876247412_847103684945542'
+    url: https://www.facebook.com/100683012920950/posts/847103684945542
+0b169b68555920fc3648cfe1efc401f8:mastodon:
+  spec:
+    title: 2025, Joining 40 Club [llun.me]
+    url: https://www.llun.me/posts/2025-12-16-2025
+  state:
+    id: '115732872330181120'
+    url: https://mastodon.in.th/@webring/115732872330181120
+0b169b68555920fc3648cfe1efc401f8:shorturl:
+  spec:
+    url: https://www.llun.me/posts/2025-12-16-2025
+  state:
+    shortLink: https://link.webring.in.th/2889
 0b3121917ca50b357167e5e8b2ca98e2:facebook:
   spec:
     title: infra อะไรยังไง? [tech.duckfollow.co]
