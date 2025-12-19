@@ -34759,6 +34759,32 @@ d65c4e4272a7fe7aa895c24776ff75db:shorturl:
     url: https://www.somkiat.cc/sharing-postman-in-the-right-way-2024/
   state:
     shortLink: https://link.webring.in.th/1848
+d69b4b3e291a3efc75ca6c3cfd5297cc:bluesky:
+  spec:
+    title: '[NET] EF Core Cannot write DateTime with Kind=Unspecified to PostgreSQL type ‘timestamp with time zone’ only UTC is supported [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/12/net-ef-core-cannot-write-datetime-with-kindunspecified-to-postgresql-type-timestamp-with-time-zone-only-utc-is-supported/
+  state:
+    cid: bafyreifmtdeyi2czizcvtoaa4n6islllfjk5lyi27aqjp5aez3x3yzfysi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3macs6h4y4v2z
+d69b4b3e291a3efc75ca6c3cfd5297cc:facebook:
+  spec:
+    title: '[NET] EF Core Cannot write DateTime with Kind=Unspecified to PostgreSQL type ‘timestamp with time zone’ only UTC is supported [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/12/net-ef-core-cannot-write-datetime-with-kindunspecified-to-postgresql-type-timestamp-with-time-zone-only-utc-is-supported/
+  state:
+    id: '100746876247412_848571434798767'
+    url: https://www.facebook.com/100683012920950/posts/848571434798767
+d69b4b3e291a3efc75ca6c3cfd5297cc:mastodon:
+  spec:
+    title: '[NET] EF Core Cannot write DateTime with Kind=Unspecified to PostgreSQL type ‘timestamp with time zone’ only UTC is supported [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/12/net-ef-core-cannot-write-datetime-with-kindunspecified-to-postgresql-type-timestamp-with-time-zone-only-utc-is-supported/
+  state:
+    id: '115744208376428457'
+    url: https://mastodon.in.th/@webring/115744208376428457
+d69b4b3e291a3efc75ca6c3cfd5297cc:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/12/net-ef-core-cannot-write-datetime-with-kindunspecified-to-postgresql-type-timestamp-with-time-zone-only-utc-is-supported/
+  state:
+    shortLink: https://link.webring.in.th/2890
 d6a35221f6cfb34ebfb9500385db369c:facebook:
   spec:
     title: The HustleGPT challenge [dt.in.th]
