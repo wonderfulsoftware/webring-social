@@ -13296,6 +13296,32 @@
     url: https://lucian.solutions/blog/foodreview-fats-angry
   state:
     shortLink: https://link.webring.in.th/2203
+565d2da2ae98b67e134554eff8dbd5c8:bluesky:
+  spec:
+    title: ทำความรู้จัก Cloudflare WARP กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/cloudflare-warp/
+  state:
+    cid: bafyreibj5s2gycfbqbg7cfc3qiltjj4tgu6pevtobierwxgrtjxov5nc3e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mafc4p7d252h
+565d2da2ae98b67e134554eff8dbd5c8:facebook:
+  spec:
+    title: ทำความรู้จัก Cloudflare WARP กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/cloudflare-warp/
+  state:
+    id: '100746876247412_849363821386195'
+    url: https://www.facebook.com/100683012920950/posts/849363821386195
+565d2da2ae98b67e134554eff8dbd5c8:mastodon:
+  spec:
+    title: ทำความรู้จัก Cloudflare WARP กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/cloudflare-warp/
+  state:
+    id: '115749833933299338'
+    url: https://mastodon.in.th/@webring/115749833933299338
+565d2da2ae98b67e134554eff8dbd5c8:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/cloudflare-warp/
+  state:
+    shortLink: https://link.webring.in.th/2891
 5668bfeff473d5f588631fe80f986002:bluesky:
   spec:
     title: เวลามี Merge Request / Pull Request มีแนวทางการตรวจยังไง [debuggingsoft.com]
