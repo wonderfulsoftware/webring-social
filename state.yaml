@@ -14220,6 +14220,32 @@
     url: https://www.somkiat.cc/goodbye-visual-studio-for-mac/
   state:
     shortLink: https://webring.page.link/jt9f
+5c3733f18f9aca2037cb420237be0427:bluesky:
+  spec:
+    title: '[CR] SENDO Ramen – Oyster Shio Ramen “Vongole” Style [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/12/cr-sendo-ramen-oyster-shio-ramen-vongole-style/
+  state:
+    cid: bafyreibr5n3pvg5wz2zkhtyhcxfmpcdvvjoqs4zqtklchyb4rui3bgmdbe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mafkuicu2g2j
+5c3733f18f9aca2037cb420237be0427:facebook:
+  spec:
+    title: '[CR] SENDO Ramen – Oyster Shio Ramen “Vongole” Style [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/12/cr-sendo-ramen-oyster-shio-ramen-vongole-style/
+  state:
+    id: '100746876247412_849444218044822'
+    url: https://www.facebook.com/100683012920950/posts/849444218044822
+5c3733f18f9aca2037cb420237be0427:mastodon:
+  spec:
+    title: '[CR] SENDO Ramen – Oyster Shio Ramen “Vongole” Style [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2025/12/cr-sendo-ramen-oyster-shio-ramen-vongole-style/
+  state:
+    id: '115750449263458030'
+    url: https://mastodon.in.th/@webring/115750449263458030
+5c3733f18f9aca2037cb420237be0427:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/12/cr-sendo-ramen-oyster-shio-ramen-vongole-style/
+  state:
+    shortLink: https://link.webring.in.th/2892
 5c4eac9c113a6c413e1b169e08daec92:bluesky:
   spec:
     title: 'Tips :: ปรับปรุงการทำงานของ Spring Boot Test Context ให้รวดเร็วขึ้น [somkiat.cc]'
