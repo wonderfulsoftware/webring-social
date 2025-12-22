@@ -3431,6 +3431,32 @@
     url: https://garden.narze.live/Getting-full-Github-URL-of-the-latest-commit/
   state:
     shortLink: https://webring.page.link/zSGL
+157051178dafe558afd3fbc8fa6fca2e:bluesky:
+  spec:
+    title: 2025 Year In Review [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/2025-year-in-review/
+  state:
+    cid: bafyreieflqgnahii2dqjqgimwvlc32kho6ukarzgce4vyzlmpm7kpdu524
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3makdye6f2f2h
+157051178dafe558afd3fbc8fa6fca2e:facebook:
+  spec:
+    title: 2025 Year In Review [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/2025-year-in-review/
+  state:
+    id: '100746876247412_850868794569031'
+    url: https://www.facebook.com/100683012920950/posts/850868794569031
+157051178dafe558afd3fbc8fa6fca2e:mastodon:
+  spec:
+    title: 2025 Year In Review [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/2025-year-in-review/
+  state:
+    id: '115761224195193866'
+    url: https://mastodon.in.th/@webring/115761224195193866
+157051178dafe558afd3fbc8fa6fca2e:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/2025-year-in-review/
+  state:
+    shortLink: https://link.webring.in.th/2893
 15f6d4c93246913afa7fce1c9f912813:facebook:
   spec:
     title: ว่าด้วยเรื่องของ Cell-Based Architecture มันเป็นอย่างไร ? [somkiat.cc]
