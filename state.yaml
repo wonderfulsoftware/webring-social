@@ -28312,6 +28312,32 @@ ada3c109d3aea986567d816aafaea221:shorturl:
     url: https://mymoneytoolkit.app/posts/leveraged-etf-chart
   state:
     shortLink: https://link.webring.in.th/2473
+adb06f3a0e3c54a444335d6e94e7f249:bluesky:
+  spec:
+    title: ออกแบบ “บทสนทนา” ใน Chatbot ยังไง? ให้ AI คุยกับคนได้ดีขึ้น! [mikkipastel.com]
+    url: https://www.mikkipastel.com/friends-of-figma-bangkok-conversation-design/
+  state:
+    cid: bafyreigj6wzpu6oxcljs2chylyvr7ls4hbfhg2sropylydzegeshay2f4i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3maklzdyrtb2a
+adb06f3a0e3c54a444335d6e94e7f249:facebook:
+  spec:
+    title: ออกแบบ “บทสนทนา” ใน Chatbot ยังไง? ให้ AI คุยกับคนได้ดีขึ้น! [mikkipastel.com]
+    url: https://www.mikkipastel.com/friends-of-figma-bangkok-conversation-design/
+  state:
+    id: '100746876247412_850936807895563'
+    url: https://www.facebook.com/100683012920950/posts/850936807895563
+adb06f3a0e3c54a444335d6e94e7f249:mastodon:
+  spec:
+    title: ออกแบบ “บทสนทนา” ใน Chatbot ยังไง? ให้ AI คุยกับคนได้ดีขึ้น! [mikkipastel.com]
+    url: https://www.mikkipastel.com/friends-of-figma-bangkok-conversation-design/
+  state:
+    id: '115761789109985678'
+    url: https://mastodon.in.th/@webring/115761789109985678
+adb06f3a0e3c54a444335d6e94e7f249:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/friends-of-figma-bangkok-conversation-design/
+  state:
+    shortLink: https://link.webring.in.th/2894
 adccbcd7c3c0dfb613d704db35b4de67:bluesky:
   spec:
     title: 'Data Sci Boot Camp Batch#11 : W3CSchool / WordPress [debuggingsoft.com]'
