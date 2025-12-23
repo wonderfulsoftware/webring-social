@@ -26639,6 +26639,32 @@ a44c41ad243cfa047948159d3ca67f03:shorturl:
     url: https://www.somkiat.cc/grafana-alloy/
   state:
     shortLink: https://link.webring.in.th/1971
+a4562cfdcdd8a72322823efa2d15ee1c:bluesky:
+  spec:
+    title: บางที dotnet watch run แล้วไม่คืน port [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/after-stop-dotnet-watch-run-not-release-port/
+  state:
+    cid: bafyreicktbexqd7yjthuseeinzr3jiyxkkm46a6qhmz6weg3o7xesgqdii
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mamu6qvxku2u
+a4562cfdcdd8a72322823efa2d15ee1c:facebook:
+  spec:
+    title: บางที dotnet watch run แล้วไม่คืน port [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/after-stop-dotnet-watch-run-not-release-port/
+  state:
+    id: '100746876247412_851596381162939'
+    url: https://www.facebook.com/100683012920950/posts/851596381162939
+a4562cfdcdd8a72322823efa2d15ee1c:mastodon:
+  spec:
+    title: บางที dotnet watch run แล้วไม่คืน port [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/after-stop-dotnet-watch-run-not-release-port/
+  state:
+    id: '115766867768227808'
+    url: https://mastodon.in.th/@webring/115766867768227808
+a4562cfdcdd8a72322823efa2d15ee1c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/12/after-stop-dotnet-watch-run-not-release-port/
+  state:
+    shortLink: https://link.webring.in.th/2895
 a474c8fc55f6da5107eba26e954e282b:facebook:
   spec:
     title: สอนแคปจอจาก Google Chrome แบบจับมือทำ [mikkipastel.com]
