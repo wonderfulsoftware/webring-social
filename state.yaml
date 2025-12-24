@@ -13374,6 +13374,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/05/when-there-is-a-merge-request-or-pull-request-what-approach-should-be-used-to-review-it-thai/
   state:
     shortLink: https://link.webring.in.th/2525
+568e348ad0251719a41d47b7cd634852:bluesky:
+  spec:
+    title: มาลองใช้งาน Docker Hardened Images (DHI) [somkiat.cc]
+    url: https://www.somkiat.cc/docker-hardened-images-hdi/
+  state:
+    cid: bafyreifaqmfept5gd7iwrcaehw4ehcrfnxciltnhtzwe3ycdxpolo75p7u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mapejf7mhk2f
+568e348ad0251719a41d47b7cd634852:facebook:
+  spec:
+    title: มาลองใช้งาน Docker Hardened Images (DHI) [somkiat.cc]
+    url: https://www.somkiat.cc/docker-hardened-images-hdi/
+  state:
+    id: '100746876247412_852301321092445'
+    url: https://www.facebook.com/100683012920950/posts/852301321092445
+568e348ad0251719a41d47b7cd634852:mastodon:
+  spec:
+    title: มาลองใช้งาน Docker Hardened Images (DHI) [somkiat.cc]
+    url: https://www.somkiat.cc/docker-hardened-images-hdi/
+  state:
+    id: '115772520343939294'
+    url: https://mastodon.in.th/@webring/115772520343939294
+568e348ad0251719a41d47b7cd634852:shorturl:
+  spec:
+    url: https://www.somkiat.cc/docker-hardened-images-hdi/
+  state:
+    shortLink: https://link.webring.in.th/2896
 56b7c9b05a831e6bbcc1a4ec542361ec:bluesky:
   spec:
     title: 2024 Year In Review [blog.ninprd.com]
