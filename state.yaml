@@ -31846,6 +31846,32 @@ c448996e45d208cd178b210b5e25e2ab:shorturl:
     url: https://www.somkiat.cc/asynchronous-logging-in-java/
   state:
     shortLink: https://link.webring.in.th/1789
+c4afa079ea8095864cb655505b27f513:bluesky:
+  spec:
+    title: ทำความรู้จักกับ FunctionGemma model จาก Google [somkiat.cc]
+    url: https://www.somkiat.cc/functiongemma-model-from-google/
+  state:
+    cid: bafyreiax4p6hjvltc5fyxspdrhjtsieslp2linnhxoue4ktd4x7ihquqcy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mas5cvomuz2f
+c4afa079ea8095864cb655505b27f513:facebook:
+  spec:
+    title: ทำความรู้จักกับ FunctionGemma model จาก Google [somkiat.cc]
+    url: https://www.somkiat.cc/functiongemma-model-from-google/
+  state:
+    id: '100746876247412_853122141010363'
+    url: https://www.facebook.com/100683012920950/posts/853122141010363
+c4afa079ea8095864cb655505b27f513:mastodon:
+  spec:
+    title: ทำความรู้จักกับ FunctionGemma model จาก Google [somkiat.cc]
+    url: https://www.somkiat.cc/functiongemma-model-from-google/
+  state:
+    id: '115778769169021235'
+    url: https://mastodon.in.th/@webring/115778769169021235
+c4afa079ea8095864cb655505b27f513:shorturl:
+  spec:
+    url: https://www.somkiat.cc/functiongemma-model-from-google/
+  state:
+    shortLink: https://link.webring.in.th/2898
 c4bc6a941df1a17cd83aea42714f85aa:facebook:
   spec:
     title: 'เรื่องที่น่าสนใจจาก Prime Video​ :: สำหรับการ Rearchitecture ของระบบ VDO monitoring [somkiat.cc]'
