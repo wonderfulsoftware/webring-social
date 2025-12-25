@@ -19923,6 +19923,32 @@
     url: https://www.somkiat.cc/github-two-factor-authentication/
   state:
     shortLink: https://webring.page.link/Beva
+7beaeb435fc54132784e5db166779835:bluesky:
+  spec:
+    title: ใช้ opencode แบบไม่ต้องเฝ้าจอ [blog.luckytime1996.dev]
+    url: https://blog.luckytime1996.dev/blog/11-how-to-use-opencode-without-monitor/
+  state:
+    cid: bafyreic4zelz2unat7pxxf2vimchsnyeiojy5eswep5up2l5a4mtlfwbdq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3marv4dqy5o2b
+7beaeb435fc54132784e5db166779835:facebook:
+  spec:
+    title: ใช้ opencode แบบไม่ต้องเฝ้าจอ [blog.luckytime1996.dev]
+    url: https://blog.luckytime1996.dev/blog/11-how-to-use-opencode-without-monitor/
+  state:
+    id: '100746876247412_853043494351561'
+    url: https://www.facebook.com/100683012920950/posts/853043494351561
+7beaeb435fc54132784e5db166779835:mastodon:
+  spec:
+    title: ใช้ opencode แบบไม่ต้องเฝ้าจอ [blog.luckytime1996.dev]
+    url: https://blog.luckytime1996.dev/blog/11-how-to-use-opencode-without-monitor/
+  state:
+    id: '115778191648903801'
+    url: https://mastodon.in.th/@webring/115778191648903801
+7beaeb435fc54132784e5db166779835:shorturl:
+  spec:
+    url: https://blog.luckytime1996.dev/blog/11-how-to-use-opencode-without-monitor/
+  state:
+    shortLink: https://link.webring.in.th/2897
 7bee0296ac4dca7d277cff504e0fc797:facebook:
   spec:
     title: สรุปการแบ่งปันเรื่อง API-First development (Design-First) [somkiat.cc]
