@@ -5420,6 +5420,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/10/lets-try-using-microsoft-sql-server-mcp-server-with-claude-desktop/
   state:
     shortLink: https://link.webring.in.th/2811
+21daa656ec2317e08d12122ce5fc5379:bluesky:
+  spec:
+    title: เธอโผล่มาจากไหน \Temp\VSTelem [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/low-disk-space-from-localappdata-temp-vstelem-full/
+  state:
+    cid: bafyreihqtwrhhxscqyb4bohiulthhwwxrknf3scbjhlkmhoafuypmpziym
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3max65aexeu2a
+21daa656ec2317e08d12122ce5fc5379:facebook:
+  spec:
+    title: เธอโผล่มาจากไหน \Temp\VSTelem [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/low-disk-space-from-localappdata-temp-vstelem-full/
+  state:
+    id: '100746876247412_854546337534610'
+    url: https://www.facebook.com/100683012920950/posts/854546337534610
+21daa656ec2317e08d12122ce5fc5379:mastodon:
+  spec:
+    title: เธอโผล่มาจากไหน \Temp\VSTelem [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/low-disk-space-from-localappdata-temp-vstelem-full/
+  state:
+    id: '115790085921430185'
+    url: https://mastodon.in.th/@webring/115790085921430185
+21daa656ec2317e08d12122ce5fc5379:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/12/low-disk-space-from-localappdata-temp-vstelem-full/
+  state:
+    shortLink: https://link.webring.in.th/2900
 21f4a335030a5b27bc78206536bc4d24:facebook:
   spec:
     title: เพิ่งเห็นว่า Text Editor ชื่อ Atom นั้นหยุดพัฒนาไปแล้ว [somkiat.cc]
