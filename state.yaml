@@ -33578,6 +33578,32 @@ ce1978c4d292926e7f9a4a84ee166d95:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/09/cr-starbucks-ham-cheese-egg-wrap-low-crab/
   state:
     shortLink: https://link.webring.in.th/2130
+ce817cbbd1783fbbaab630396dbe6677:bluesky:
+  spec:
+    title: รู้ยัง ใช้ NotebookLM บน Gemini ได้แล้วนะ! [mikkipastel.com]
+    url: https://www.mikkipastel.com/notebooklm-gemini/
+  state:
+    cid: bafyreie5b3p6gu7uljopwfpxh5obfgb6gmbuaxs7ylm2diyn2xq4ke3epq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mawvso7x3a2f
+ce817cbbd1783fbbaab630396dbe6677:facebook:
+  spec:
+    title: รู้ยัง ใช้ NotebookLM บน Gemini ได้แล้วนะ! [mikkipastel.com]
+    url: https://www.mikkipastel.com/notebooklm-gemini/
+  state:
+    id: '100746876247412_854476910874886'
+    url: https://www.facebook.com/100683012920950/posts/854476910874886
+ce817cbbd1783fbbaab630396dbe6677:mastodon:
+  spec:
+    title: รู้ยัง ใช้ NotebookLM บน Gemini ได้แล้วนะ! [mikkipastel.com]
+    url: https://www.mikkipastel.com/notebooklm-gemini/
+  state:
+    id: '115789499713980339'
+    url: https://mastodon.in.th/@webring/115789499713980339
+ce817cbbd1783fbbaab630396dbe6677:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/notebooklm-gemini/
+  state:
+    shortLink: https://link.webring.in.th/2899
 ceb4f776701cd5fba42a49796dd183ba:facebook:
   spec:
     title: น่าสนใจสำหรับตารางเครื่องมือสำหรับ Kubernetes [somkiat.cc]
