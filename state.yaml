@@ -28165,6 +28165,32 @@ ac53c77ae545084ecfde1bdb874ac9f5:shorturl:
     url: https://www.somkiat.cc/net-9-preview-1/
   state:
     shortLink: https://link.webring.in.th/1778
+ac6d4316a15c945ab9c1a8a0067f9038:bluesky:
+  spec:
+    title: What the Duck 2025 (AdToy DataRockie) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/recap-what-the-duck-2025/
+  state:
+    cid: bafyreihjxryhwkzymgggwjqbijgnko5tlijlmc4tqysdtromkmjzlnhaca
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mazgwaddpj2j
+ac6d4316a15c945ab9c1a8a0067f9038:facebook:
+  spec:
+    title: What the Duck 2025 (AdToy DataRockie) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/recap-what-the-duck-2025/
+  state:
+    id: '100746876247412_855184117470832'
+    url: https://www.facebook.com/100683012920950/posts/855184117470832
+ac6d4316a15c945ab9c1a8a0067f9038:mastodon:
+  spec:
+    title: What the Duck 2025 (AdToy DataRockie) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/recap-what-the-duck-2025/
+  state:
+    id: '115795207616488860'
+    url: https://mastodon.in.th/@webring/115795207616488860
+ac6d4316a15c945ab9c1a8a0067f9038:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/12/recap-what-the-duck-2025/
+  state:
+    shortLink: https://link.webring.in.th/2901
 aca5605a7c6d9434f9f9d8bee09eff8f:facebook:
   spec:
     title: ลองใช้งาน Go Vulnerability Management ในการตรวจสอบเรื่องความปลอดภัย [somkiat.cc]
