@@ -28615,6 +28615,32 @@ ae2156eca179a00cde7cd19a8250a65b:shorturl:
     url: https://notes.dt.in.th/Win98IE5
   state:
     shortLink: https://link.webring.in.th/2173
+ae430919bcdaee092baf7bee1c860601:bluesky:
+  spec:
+    title: 1st half marathon [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/1st-half-marathon/
+  state:
+    cid: bafyreib4drcopwu4argn4xgsjy5fzivmitiv5rvjvxgrfnuvpzspbg4jk4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mb3xjakysx2h
+ae430919bcdaee092baf7bee1c860601:facebook:
+  spec:
+    title: 1st half marathon [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/1st-half-marathon/
+  state:
+    id: '100746876247412_855892074066703'
+    url: https://www.facebook.com/100683012920950/posts/855892074066703
+ae430919bcdaee092baf7bee1c860601:mastodon:
+  spec:
+    title: 1st half marathon [yuttakhanb.dev]
+    url: https://yuttakhanb.dev/posts/1st-half-marathon/
+  state:
+    id: '115800878528099908'
+    url: https://mastodon.in.th/@webring/115800878528099908
+ae430919bcdaee092baf7bee1c860601:shorturl:
+  spec:
+    url: https://yuttakhanb.dev/posts/1st-half-marathon/
+  state:
+    shortLink: https://link.webring.in.th/2902
 ae4a4da87c7ad5fbb2b27e66cfad5b12:facebook:
   spec:
     title: สรุปจากบทความเรื่อง Go back to coding, engineering leader [somkiat.cc]
