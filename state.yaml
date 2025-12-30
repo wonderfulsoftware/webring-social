@@ -12260,6 +12260,32 @@
     url: https://www.somkiat.cc/robot-framework-disabled-notification-in-web-browser/
   state:
     shortLink: https://webring.page.link/yX5h
+4e2500d3126345b7edb28a1637fef278:bluesky:
+  spec:
+    title: มาลองใช้งาน contextualized chunk embedding model ชื่อว่า voyage-context-3 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/contextualized-chunk-embedding/
+  state:
+    cid: bafyreihhpu3kfurqwwutvbjkd36jprlz46xpy767jdhioddboz3j6zj7em
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mb6hjj4qqz27
+4e2500d3126345b7edb28a1637fef278:facebook:
+  spec:
+    title: มาลองใช้งาน contextualized chunk embedding model ชื่อว่า voyage-context-3 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/contextualized-chunk-embedding/
+  state:
+    id: '100746876247412_856603110662266'
+    url: https://www.facebook.com/100683012920950/posts/856603110662266
+4e2500d3126345b7edb28a1637fef278:mastodon:
+  spec:
+    title: มาลองใช้งาน contextualized chunk embedding model ชื่อว่า voyage-context-3 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/contextualized-chunk-embedding/
+  state:
+    id: '115806508736914909'
+    url: https://mastodon.in.th/@webring/115806508736914909
+4e2500d3126345b7edb28a1637fef278:shorturl:
+  spec:
+    url: https://www.somkiat.cc/contextualized-chunk-embedding/
+  state:
+    shortLink: https://link.webring.in.th/2903
 4e2ad1faf1e789970c623e88c98b5c6b:facebook:
   spec:
     title: 'นิลเล่า: WordPress Basic I [blog.ninprd.com]'
