@@ -10745,6 +10745,32 @@
     url: https://www.somkiat.cc/course-100-exercises-to-learn-rust/
   state:
     shortLink: https://link.webring.in.th/2686
+43cde530a992195f818d049db322881a:bluesky:
+  spec:
+    title: แนวทางในการออกแบบระบบเพื่อรองรับความผิดพลาดต่าง ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/design-for-failure-2/
+  state:
+    cid: bafyreifvrf3anrn3q35sx6jwymzp3bomzsisz42zjpxe32q5tm46vsggxi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mbaxxio7tx2u
+43cde530a992195f818d049db322881a:facebook:
+  spec:
+    title: แนวทางในการออกแบบระบบเพื่อรองรับความผิดพลาดต่าง ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/design-for-failure-2/
+  state:
+    id: '100746876247412_857322387257005'
+    url: https://www.facebook.com/100683012920950/posts/857322387257005
+43cde530a992195f818d049db322881a:mastodon:
+  spec:
+    title: แนวทางในการออกแบบระบบเพื่อรองรับความผิดพลาดต่าง ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/design-for-failure-2/
+  state:
+    id: '115812169275783967'
+    url: https://mastodon.in.th/@webring/115812169275783967
+43cde530a992195f818d049db322881a:shorturl:
+  spec:
+    url: https://www.somkiat.cc/design-for-failure-2/
+  state:
+    shortLink: https://link.webring.in.th/2904
 43d75c093a0124d292904f36f287bf4c:facebook:
   spec:
     title: เพิ่งเห็น data test id ในหน้า web [somkiat.cc]
