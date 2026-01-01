@@ -27769,6 +27769,32 @@ a9c2d6b0c0bdcf3aaf1ad242cbe98688:shorturl:
     url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3-distributed-tracing-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-opentelemetry/
   state:
     shortLink: https://link.webring.in.th/2634
+aa01d08f945f89129e18a90dc49a5209:bluesky:
+  spec:
+    title: Recap 2025 ปีแห่ง AI และน้องเนยพุงเต่งสุดน่ารัก [mikkipastel.com]
+    url: https://www.mikkipastel.com/recap-2025-ai-year/
+  state:
+    cid: bafyreiaevvewdzpdswvkfhnqbts3mz6ypl2qdrn4gvdoij6dp2vrhrzgge
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mbdiw5f5wo2b
+aa01d08f945f89129e18a90dc49a5209:facebook:
+  spec:
+    title: Recap 2025 ปีแห่ง AI และน้องเนยพุงเต่งสุดน่ารัก [mikkipastel.com]
+    url: https://www.mikkipastel.com/recap-2025-ai-year/
+  state:
+    id: '100746876247412_858603113795599'
+    url: https://www.facebook.com/100683012920950/posts/858603113795599
+aa01d08f945f89129e18a90dc49a5209:mastodon:
+  spec:
+    title: Recap 2025 ปีแห่ง AI และน้องเนยพุงเต่งสุดน่ารัก [mikkipastel.com]
+    url: https://www.mikkipastel.com/recap-2025-ai-year/
+  state:
+    id: '115817865992052751'
+    url: https://mastodon.in.th/@webring/115817865992052751
+aa01d08f945f89129e18a90dc49a5209:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/recap-2025-ai-year/
+  state:
+    shortLink: https://link.webring.in.th/2905
 aa1d9bfcb98f4dd95f6ca55b381f3a1d:bluesky:
   spec:
     title: 'Generative UI Design Tools: A Day''s Review [unnawut.com]'
