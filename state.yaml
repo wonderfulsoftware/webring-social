@@ -5375,6 +5375,32 @@
     url: https://www.somkiat.cc/note-sql-query-optimization/
   state:
     shortLink: https://webring.page.link/X7sW
+214d0a3c3de6d063cdefa3a39b4750a7:bluesky:
+  spec:
+    title: 2025 เสียงในหัวดังไปหน่อย [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/2025-year-in-review/
+  state:
+    cid: bafyreidkmklpg7bmmh25dgmgg52o6lpgfx3wnfis4jrhqmul4qfy4chr5y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mbdqmd5uf32f
+214d0a3c3de6d063cdefa3a39b4750a7:facebook:
+  spec:
+    title: 2025 เสียงในหัวดังไปหน่อย [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/2025-year-in-review/
+  state:
+    id: '100746876247412_858688960453681'
+    url: https://www.facebook.com/100683012920950/posts/858688960453681
+214d0a3c3de6d063cdefa3a39b4750a7:mastodon:
+  spec:
+    title: 2025 เสียงในหัวดังไปหน่อย [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2025/12/2025-year-in-review/
+  state:
+    id: '115818407490225887'
+    url: https://mastodon.in.th/@webring/115818407490225887
+214d0a3c3de6d063cdefa3a39b4750a7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2025/12/2025-year-in-review/
+  state:
+    shortLink: https://link.webring.in.th/2906
 216d062a540f0e351a69b726e1aeb6b8:facebook:
   spec:
     title: How to fix cannot boot when change EC2 instance type from Xen to Nitro for SUSE Linux Enterprise for SAP 15 [kusumotolab.com]
