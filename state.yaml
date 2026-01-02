@@ -31497,6 +31497,32 @@ c06480cfcd8692f5cc8bc4ed79782aa8:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/05/note-vmware-esxi-on-windows/
   state:
     shortLink: https://webring.page.link/rfPF
+c09100597f834df0754236fde225f2ba:bluesky:
+  spec:
+    title: Line ขึ้นขอบคุณที่ส่งข้อความถึงเรา [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/01/line-bot-this-account-cannot-reply/
+  state:
+    cid: bafyreibefel3izj2zfolx2krak3arme2x2tuun4kwiaiu3w37nvnlkjm2e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mbh6rrq7h22u
+c09100597f834df0754236fde225f2ba:facebook:
+  spec:
+    title: Line ขึ้นขอบคุณที่ส่งข้อความถึงเรา [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/01/line-bot-this-account-cannot-reply/
+  state:
+    id: '100746876247412_859722580350319'
+    url: https://www.facebook.com/100683012920950/posts/859722580350319
+c09100597f834df0754236fde225f2ba:mastodon:
+  spec:
+    title: Line ขึ้นขอบคุณที่ส่งข้อความถึงเรา [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/01/line-bot-this-account-cannot-reply/
+  state:
+    id: '115826159271689633'
+    url: https://mastodon.in.th/@webring/115826159271689633
+c09100597f834df0754236fde225f2ba:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/01/line-bot-this-account-cannot-reply/
+  state:
+    shortLink: https://link.webring.in.th/2910
 c0f4d46f03201013e89536d1d847c99a:facebook:
   spec:
     title: HTML in JSX/TSX [debuggingsoft.com]
