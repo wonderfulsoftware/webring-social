@@ -33227,6 +33227,32 @@ cb78da3a7aa388550ab0a4e95c0e23fe:shorturl:
     url: https://ntsd.dev/node-stream-pipe-and-transform/
   state:
     shortLink: https://link.webring.in.th/2263
+cba79ea261b6bfc423bec33aad9ce19a:bluesky:
+  spec:
+    title: คำแนะนำสำหรับแก้ไขปัญหา MongoBleed (CVE-2025-14847) เบื้องต้น [somkiat.cc]
+    url: https://www.somkiat.cc/mongobleed-problem/
+  state:
+    cid: bafyreiaswxgzzbsiz7qxd44csaxim7dv72hqriqw7feewgiv2zpkexpi3m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mbgb3ertkh27
+cba79ea261b6bfc423bec33aad9ce19a:facebook:
+  spec:
+    title: คำแนะนำสำหรับแก้ไขปัญหา MongoBleed (CVE-2025-14847) เบื้องต้น [somkiat.cc]
+    url: https://www.somkiat.cc/mongobleed-problem/
+  state:
+    id: '100746876247412_859443273711583'
+    url: https://www.facebook.com/100683012920950/posts/859443273711583
+cba79ea261b6bfc423bec33aad9ce19a:mastodon:
+  spec:
+    title: คำแนะนำสำหรับแก้ไขปัญหา MongoBleed (CVE-2025-14847) เบื้องต้น [somkiat.cc]
+    url: https://www.somkiat.cc/mongobleed-problem/
+  state:
+    id: '115824070015369347'
+    url: https://mastodon.in.th/@webring/115824070015369347
+cba79ea261b6bfc423bec33aad9ce19a:shorturl:
+  spec:
+    url: https://www.somkiat.cc/mongobleed-problem/
+  state:
+    shortLink: https://link.webring.in.th/2909
 cbad40833b0865bf6319124c0d563fa1:facebook:
   spec:
     title: สุ่มผู้โชคดีในโลก web3 ด้วย Chainlink VRF [mikkipastel.com]
