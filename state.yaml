@@ -29065,6 +29065,32 @@ b0880eacad6dee73e7cd33e6dead57e8:shorturl:
     url: https://www.somkiat.cc/library-data-ai-friendly/
   state:
     shortLink: https://link.webring.in.th/2629
+b0b5f76a0c7cd5f6837f87595bcc4333:bluesky:
+  spec:
+    title: Tyndale's One Year Bible Reading Plan for The Word of Promise Audio Bible app [dt.in.th]
+    url: https://dt.in.th/OneYearBiblePlanForWordOfPromiseApp
+  state:
+    cid: bafyreigdiifiblzzyr6l6qribwexi2gbrhtya7cap2qmsnaa43u6sxpnkq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mbfz2hwoug2f
+b0b5f76a0c7cd5f6837f87595bcc4333:facebook:
+  spec:
+    title: Tyndale's One Year Bible Reading Plan for The Word of Promise Audio Bible app [dt.in.th]
+    url: https://dt.in.th/OneYearBiblePlanForWordOfPromiseApp
+  state:
+    id: '100746876247412_859379573717953'
+    url: https://www.facebook.com/100683012920950/posts/859379573717953
+b0b5f76a0c7cd5f6837f87595bcc4333:mastodon:
+  spec:
+    title: Tyndale's One Year Bible Reading Plan for The Word of Promise Audio Bible app [dt.in.th]
+    url: https://dt.in.th/OneYearBiblePlanForWordOfPromiseApp
+  state:
+    id: '115823505182919949'
+    url: https://mastodon.in.th/@webring/115823505182919949
+b0b5f76a0c7cd5f6837f87595bcc4333:shorturl:
+  spec:
+    url: https://dt.in.th/OneYearBiblePlanForWordOfPromiseApp
+  state:
+    shortLink: https://link.webring.in.th/2908
 b0bab9c6fb19f66e158e3667ac1fefa2:facebook:
   spec:
     title: '[CR] Starbucks-green tea red bean cake [debuggingsoft.com]'
