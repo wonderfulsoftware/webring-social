@@ -33118,6 +33118,32 @@ ca7481ec9c7c70e4edc5d7c73d473a8e:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/07/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-the-cloud-camp-%e0%b8%a3%e0%b8%ad%e0%b8%9a-audition/
   state:
     shortLink: https://webring.page.link/XEjq
+caaa45774e3cfbfcfd97771f27966a91:bluesky:
+  spec:
+    title: Prepare exam to renew GCP Professional Cloud Architecture 2025 [jitrak.dev]
+    url: https://jitrak.dev/posts/post-35-prepare-to-renew-exame-gcp-professional-cloud-architecture-2025/
+  state:
+    cid: bafyreiclr3u7qtukpgtcrs2kwkwrgmymbb2sa3ilnxuajky4rzjmg4unbm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mbij254bu32z
+caaa45774e3cfbfcfd97771f27966a91:facebook:
+  spec:
+    title: Prepare exam to renew GCP Professional Cloud Architecture 2025 [jitrak.dev]
+    url: https://jitrak.dev/posts/post-35-prepare-to-renew-exame-gcp-professional-cloud-architecture-2025/
+  state:
+    id: '100746876247412_860074403648470'
+    url: https://www.facebook.com/100683012920950/posts/860074403648470
+caaa45774e3cfbfcfd97771f27966a91:mastodon:
+  spec:
+    title: Prepare exam to renew GCP Professional Cloud Architecture 2025 [jitrak.dev]
+    url: https://jitrak.dev/posts/post-35-prepare-to-renew-exame-gcp-professional-cloud-architecture-2025/
+  state:
+    id: '115829133885190360'
+    url: https://mastodon.in.th/@webring/115829133885190360
+caaa45774e3cfbfcfd97771f27966a91:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-35-prepare-to-renew-exame-gcp-professional-cloud-architecture-2025/
+  state:
+    shortLink: https://link.webring.in.th/2911
 cab2d49cb1782d2546b7a6aa2a3683c5:bluesky:
   spec:
     title: ความสามารถใหม่ ๆ ใน Apache Airflow 3.0 [somkiat.cc]
