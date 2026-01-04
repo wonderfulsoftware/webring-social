@@ -17502,6 +17502,32 @@
     url: https://garden.narze.live/100daysofcode-r3-60-setup-linux-vm-on-digitalocean/
   state:
     shortLink: https://webring.page.link/88CH
+6d9a33ac0c4ec1305359f9a761e60b80:bluesky:
+  spec:
+    title: เดินป่าข้ามปี หว่าหวาโจ หงอนไก่ ปุยหลวง แม่ฮ่องสอน [myifew.com]
+    url: https://myifew.com/6747/wawajo-puiluang-maehongson/
+  state:
+    cid: bafyreihpljgjrvmzrvg422peba5lkodal3hl3dd2bxmb4y6vdqubzckbfu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mbl2epw55n2v
+6d9a33ac0c4ec1305359f9a761e60b80:facebook:
+  spec:
+    title: เดินป่าข้ามปี หว่าหวาโจ หงอนไก่ ปุยหลวง แม่ฮ่องสอน [myifew.com]
+    url: https://myifew.com/6747/wawajo-puiluang-maehongson/
+  state:
+    id: '100746876247412_860795340243043'
+    url: https://www.facebook.com/100683012920950/posts/860795340243043
+6d9a33ac0c4ec1305359f9a761e60b80:mastodon:
+  spec:
+    title: เดินป่าข้ามปี หว่าหวาโจ หงอนไก่ ปุยหลวง แม่ฮ่องสอน [myifew.com]
+    url: https://myifew.com/6747/wawajo-puiluang-maehongson/
+  state:
+    id: '115834857017149737'
+    url: https://mastodon.in.th/@webring/115834857017149737
+6d9a33ac0c4ec1305359f9a761e60b80:shorturl:
+  spec:
+    url: https://myifew.com/6747/wawajo-puiluang-maehongson/
+  state:
+    shortLink: https://link.webring.in.th/2912
 6db2c3e242cea9d5dce6743a7ed572c6:facebook:
   spec:
     title: 78 - ChatOS - Encrypt message with TweetNaCl.js [garden.narze.live]
