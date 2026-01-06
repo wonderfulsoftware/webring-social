@@ -35044,6 +35044,32 @@ d4c8859e19f1254519cb3bd103122f95:shorturl:
     url: https://www.poolsawat.com/algorithm-data-structure-%e0%b8%aa%e0%b8%b3%e0%b8%84%e0%b8%b1%e0%b8%8d%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3/
   state:
     shortLink: https://link.webring.in.th/2646
+d4ecd7f566ebcc5fd721c031c4ce583b:bluesky:
+  spec:
+    title: NUXT UI 4.3.0 – Failed to resolve peer dependency ‘@tiptap/extension-collaboration [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/01/nuxt-ui-4-3-0-failed-to-resolve-peer-dependency-tiptap-extension-collaboration/
+  state:
+    cid: bafyreicq2k6mt2ibffle5ccpmxycyk7kj5shs4cms7esyslij6xdvuyvge
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mbq2t4trce2v
+d4ecd7f566ebcc5fd721c031c4ce583b:facebook:
+  spec:
+    title: NUXT UI 4.3.0 – Failed to resolve peer dependency ‘@tiptap/extension-collaboration [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/01/nuxt-ui-4-3-0-failed-to-resolve-peer-dependency-tiptap-extension-collaboration/
+  state:
+    id: '100746876247412_862261586763085'
+    url: https://www.facebook.com/100683012920950/posts/862261586763085
+d4ecd7f566ebcc5fd721c031c4ce583b:mastodon:
+  spec:
+    title: NUXT UI 4.3.0 – Failed to resolve peer dependency ‘@tiptap/extension-collaboration [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/01/nuxt-ui-4-3-0-failed-to-resolve-peer-dependency-tiptap-extension-collaboration/
+  state:
+    id: '115846147764253111'
+    url: https://mastodon.in.th/@webring/115846147764253111
+d4ecd7f566ebcc5fd721c031c4ce583b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/01/nuxt-ui-4-3-0-failed-to-resolve-peer-dependency-tiptap-extension-collaboration/
+  state:
+    shortLink: https://link.webring.in.th/2913
 d4f88750d917f621f1bdad92531ea33a:bluesky:
   spec:
     title: '[CR] Kouchan Ramen Bangkok [debuggingsoft.com]'
