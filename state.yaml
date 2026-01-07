@@ -1222,6 +1222,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/08/how-to-remove-fixed-ip-in-rhel/
   state:
     shortLink: https://link.webring.in.th/2696
+0702a36eb9802c8803efc4c3038e61ca:bluesky:
+  spec:
+    title: '[CR] Onkijung(온기정) – Central Pinklao [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/01/cr-onkijung-central-pinklao/
+  state:
+    cid: bafyreiehndjbt6zhcmtab4sxn7aynh73sfo4w4fiu3kccntufoppbp7orq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mbstg7coet24
+0702a36eb9802c8803efc4c3038e61ca:facebook:
+  spec:
+    title: '[CR] Onkijung(온기정) – Central Pinklao [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/01/cr-onkijung-central-pinklao/
+  state:
+    id: '100746876247412_863106176678626'
+    url: https://www.facebook.com/100683012920950/posts/863106176678626
+0702a36eb9802c8803efc4c3038e61ca:mastodon:
+  spec:
+    title: '[CR] Onkijung(온기정) – Central Pinklao [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/01/cr-onkijung-central-pinklao/
+  state:
+    id: '115852382178514585'
+    url: https://mastodon.in.th/@webring/115852382178514585
+0702a36eb9802c8803efc4c3038e61ca:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/01/cr-onkijung-central-pinklao/
+  state:
+    shortLink: https://link.webring.in.th/2915
 0759428909a43d5305f1209ceca8525e:facebook:
   spec:
     title: How to implement cross-tab communication [punn.dev]
