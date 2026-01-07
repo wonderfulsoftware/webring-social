@@ -19107,6 +19107,32 @@
     url: https://pontakorn.dev/posts/python-unit-test/
   state:
     shortLink: https://link.webring.in.th/2126
+76a0638fa4d145757357e49b860007c7:bluesky:
+  spec:
+    title: มาลองใช้งาน MCP Search Tool กันจาก Warp [somkiat.cc]
+    url: https://www.somkiat.cc/warp-mcp-search-tool/
+  state:
+    cid: bafyreidduav7kq4x572xh2ch6kf3yxrv4u7cdonx6rfjeq3uieljvvvu3q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mbsldbwfk42a
+76a0638fa4d145757357e49b860007c7:facebook:
+  spec:
+    title: มาลองใช้งาน MCP Search Tool กันจาก Warp [somkiat.cc]
+    url: https://www.somkiat.cc/warp-mcp-search-tool/
+  state:
+    id: '100746876247412_863037676685476'
+    url: https://www.facebook.com/100683012920950/posts/863037676685476
+76a0638fa4d145757357e49b860007c7:mastodon:
+  spec:
+    title: มาลองใช้งาน MCP Search Tool กันจาก Warp [somkiat.cc]
+    url: https://www.somkiat.cc/warp-mcp-search-tool/
+  state:
+    id: '115851812630164643'
+    url: https://mastodon.in.th/@webring/115851812630164643
+76a0638fa4d145757357e49b860007c7:shorturl:
+  spec:
+    url: https://www.somkiat.cc/warp-mcp-search-tool/
+  state:
+    shortLink: https://link.webring.in.th/2914
 76b65391d44572174157706578afa1cf:facebook:
   spec:
     title: ทำงานไม่มีเวลา แล้วจะทำ content ยังไงให้ปัง โดยคุณอิง ดาริน [mikkipastel.com]
