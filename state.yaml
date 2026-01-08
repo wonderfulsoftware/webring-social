@@ -38149,6 +38149,32 @@ eb4f6149a90a02c41b779305b02b1476:shorturl:
     url: https://neizod.dev/2024/10/16/joker-folie-a-deux.html
   state:
     shortLink: https://link.webring.in.th/2193
+eb560743682e9c40bd8de386c544691d:bluesky:
+  spec:
+    title: ONNX Multi-platform benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/
+  state:
+    cid: bafyreiczmtyya3qtb4xz5ttkmlblipt2yfjbcoi2pmaa6nc3og2j5s3nui
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mbv3risri42w
+eb560743682e9c40bd8de386c544691d:facebook:
+  spec:
+    title: ONNX Multi-platform benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/
+  state:
+    id: '100746876247412_863799319942645'
+    url: https://www.facebook.com/100683012920950/posts/863799319942645
+eb560743682e9c40bd8de386c544691d:mastodon:
+  spec:
+    title: ONNX Multi-platform benchmark [karnwong.me]
+    url: https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/
+  state:
+    id: '115857473481348749'
+    url: https://mastodon.in.th/@webring/115857473481348749
+eb560743682e9c40bd8de386c544691d:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/
+  state:
+    shortLink: https://link.webring.in.th/2916
 eb5e4a06a6444396d5198023c5e650dc:facebook:
   spec:
     title: สอนแคปจอบน macbook แบบจับมือทำ [mikkipastel.com]
