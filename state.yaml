@@ -20967,6 +20967,32 @@
     url: https://www.somkiat.cc/go-green-tea-gc/
   state:
     shortLink: https://link.webring.in.th/2742
+7febf4d71accdb5f33e2aa7e631df913:bluesky:
+  spec:
+    title: บันทึกก่อนออกเทรด [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/trading-prep
+  state:
+    cid: bafyreifc4zgczhuv6v536qr527qzwpiboqdvwn7squelseybwpivah5e6u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mbvdwra2lw2j
+7febf4d71accdb5f33e2aa7e631df913:facebook:
+  spec:
+    title: บันทึกก่อนออกเทรด [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/trading-prep
+  state:
+    id: '100746876247412_863870273268883'
+    url: https://www.facebook.com/100683012920950/posts/863870273268883
+7febf4d71accdb5f33e2aa7e631df913:mastodon:
+  spec:
+    title: บันทึกก่อนออกเทรด [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/trading-prep
+  state:
+    id: '115858048020453704'
+    url: https://mastodon.in.th/@webring/115858048020453704
+7febf4d71accdb5f33e2aa7e631df913:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/trading-prep
+  state:
+    shortLink: https://link.webring.in.th/2917
 7fee71deec17169280f6837f28ac7a60:facebook:
   spec:
     title: RubyConf TH 2023 [garden.narze.live]
