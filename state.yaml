@@ -30980,6 +30980,32 @@ bcd6fea4f538587ba93d9e1fb9769674:shorturl:
     url: https://janescience.com/blog/jenkins-docker-kubernetes
   state:
     shortLink: https://webring.page.link/PgAn
+bcdba3f08060ca31d6434a9d0ebd5625:bluesky:
+  spec:
+    title: '[DB2] SQL1477N For table “SCHEMA.XXX” an object “YYYY” in table space “ZZ” cannot be accessed. SQLSTATE=55019. [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/01/dotnet-sql1477n-for-table-schema-xxx-an-object-yyyy-in-table-space-zz-cannot-be-accessed-sqlstate55019/
+  state:
+    cid: bafyreig45btspkxanug33argxdkq72v7z3757o5y2sjjuagalcjsqle7dq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mbxmanxmkm2u
+bcdba3f08060ca31d6434a9d0ebd5625:facebook:
+  spec:
+    title: '[DB2] SQL1477N For table “SCHEMA.XXX” an object “YYYY” in table space “ZZ” cannot be accessed. SQLSTATE=55019. [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/01/dotnet-sql1477n-for-table-schema-xxx-an-object-yyyy-in-table-space-zz-cannot-be-accessed-sqlstate55019/
+  state:
+    id: '100746876247412_864555496533694'
+    url: https://www.facebook.com/100683012920950/posts/864555496533694
+bcdba3f08060ca31d6434a9d0ebd5625:mastodon:
+  spec:
+    title: '[DB2] SQL1477N For table “SCHEMA.XXX” an object “YYYY” in table space “ZZ” cannot be accessed. SQLSTATE=55019. [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/01/dotnet-sql1477n-for-table-schema-xxx-an-object-yyyy-in-table-space-zz-cannot-be-accessed-sqlstate55019/
+  state:
+    id: '115863136206201533'
+    url: https://mastodon.in.th/@webring/115863136206201533
+bcdba3f08060ca31d6434a9d0ebd5625:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/01/dotnet-sql1477n-for-table-schema-xxx-an-object-yyyy-in-table-space-zz-cannot-be-accessed-sqlstate55019/
+  state:
+    shortLink: https://link.webring.in.th/2918
 bd0e89719d0fac95504f2d5af81a3df5:bluesky:
   spec:
     title: Creating a free Google Cloud Compute Engine VM in Google Cloud Shell [dt.in.th]
