@@ -18616,6 +18616,32 @@
     url: https://www.mikkipastel.com/devfest-bangkok-2023/
   state:
     shortLink: https://webring.page.link/LR78
+72ff136abbd9eb392fad28459d99bca2:bluesky:
+  spec:
+    title: ทำความรู้จักกับ Universal Commerce Protocol (UCP) [somkiat.cc]
+    url: https://www.somkiat.cc/universal-commerce-protocol-ucp-from-google/
+  state:
+    cid: bafyreihcf3my2cwu7x2n7ujyotxki65ezlxhc7pargwaxghqprutqalc3q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mcca5tbzzl2f
+72ff136abbd9eb392fad28459d99bca2:facebook:
+  spec:
+    title: ทำความรู้จักกับ Universal Commerce Protocol (UCP) [somkiat.cc]
+    url: https://www.somkiat.cc/universal-commerce-protocol-ucp-from-google/
+  state:
+    id: '100746876247412_867568612899049'
+    url: https://www.facebook.com/100683012920950/posts/867568612899049
+72ff136abbd9eb392fad28459d99bca2:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Universal Commerce Protocol (UCP) [somkiat.cc]
+    url: https://www.somkiat.cc/universal-commerce-protocol-ucp-from-google/
+  state:
+    id: '115887055435718847'
+    url: https://mastodon.in.th/@webring/115887055435718847
+72ff136abbd9eb392fad28459d99bca2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/universal-commerce-protocol-ucp-from-google/
+  state:
+    shortLink: https://link.webring.in.th/2921
 7323903c80c8d85a2914c258cb1d46c5:facebook:
   spec:
     title: โกยซีหมี่ ตลาดวงเวียนใหญ่ [debuggingsoft.com]
