@@ -5453,6 +5453,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/12/2025-year-in-review/
   state:
     shortLink: https://link.webring.in.th/2906
+2157d972ad64a08229927e1cf0c88b0e:bluesky:
+  spec:
+    title: How to View CPU frequency and temperature in htop [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/01/how-to-view-cpu-frequency-and-temperature-in-htop/
+  state:
+    cid: bafyreiet7ygnfiur6kzpsftjrrafbkz4gjx2gw4vyfv7yvs555lz2dfrae
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mcbwb2wjth2v
+2157d972ad64a08229927e1cf0c88b0e:facebook:
+  spec:
+    title: How to View CPU frequency and temperature in htop [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/01/how-to-view-cpu-frequency-and-temperature-in-htop/
+  state:
+    id: '100746876247412_867485202907390'
+    url: https://www.facebook.com/100683012920950/posts/867485202907390
+2157d972ad64a08229927e1cf0c88b0e:mastodon:
+  spec:
+    title: How to View CPU frequency and temperature in htop [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/01/how-to-view-cpu-frequency-and-temperature-in-htop/
+  state:
+    id: '115886358918821754'
+    url: https://mastodon.in.th/@webring/115886358918821754
+2157d972ad64a08229927e1cf0c88b0e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/01/how-to-view-cpu-frequency-and-temperature-in-htop/
+  state:
+    shortLink: https://link.webring.in.th/2920
 216d062a540f0e351a69b726e1aeb6b8:facebook:
   spec:
     title: How to fix cannot boot when change EC2 instance type from Xen to Nitro for SUSE Linux Enterprise for SAP 15 [kusumotolab.com]
