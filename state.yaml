@@ -9046,6 +9046,32 @@
     url: https://www.anewlife.dev/post/try-gcp-runtimeconfig/
   state:
     shortLink: https://link.webring.in.th/1801
+3822574c1fe98393775d44ff704861f8:bluesky:
+  spec:
+    title: 'แพลนตัง Flow: เห็นภาพการเงินชัดเจนในหน้าเดียว [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/flow
+  state:
+    cid: bafyreibzn4kultqdml3iqtmlm6oodfmocschbmfh55qaz6ipxrqv33nh4i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mcbo57c2r723
+3822574c1fe98393775d44ff704861f8:facebook:
+  spec:
+    title: 'แพลนตัง Flow: เห็นภาพการเงินชัดเจนในหน้าเดียว [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/flow
+  state:
+    id: '100746876247412_867419169580660'
+    url: https://www.facebook.com/100683012920950/posts/867419169580660
+3822574c1fe98393775d44ff704861f8:mastodon:
+  spec:
+    title: 'แพลนตัง Flow: เห็นภาพการเงินชัดเจนในหน้าเดียว [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/flow
+  state:
+    id: '115885787379744782'
+    url: https://mastodon.in.th/@webring/115885787379744782
+3822574c1fe98393775d44ff704861f8:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/flow
+  state:
+    shortLink: https://link.webring.in.th/2919
 3855b574765ad0ebdd57bd97bf918d5c:facebook:
   spec:
     title: 70 - garden-astro - Test image links [garden.narze.live]
