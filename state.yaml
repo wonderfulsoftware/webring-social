@@ -35899,6 +35899,32 @@ d97ede9157bfaf3f331249d86b0e86a7:shorturl:
     url: https://garden.narze.live/ghq-remote-repo-management-tool/
   state:
     shortLink: https://webring.page.link/s4Yv
+d986ce90f15b9d9979d4a9c80a2ad9bd:bluesky:
+  spec:
+    title: บันทึก development workflow การใช้งาน Claude Code จากผู้สร้าง [somkiat.cc]
+    url: https://www.somkiat.cc/note-development-workflow-of-claude-code/
+  state:
+    cid: bafyreifxu3qm7v4khcvnrojsfvist5o4my6bpkccodxqfndabog4po3tf4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mce6vxf4sj2u
+d986ce90f15b9d9979d4a9c80a2ad9bd:facebook:
+  spec:
+    title: บันทึก development workflow การใช้งาน Claude Code จากผู้สร้าง [somkiat.cc]
+    url: https://www.somkiat.cc/note-development-workflow-of-claude-code/
+  state:
+    id: '100746876247412_868144319508145'
+    url: https://www.facebook.com/100683012920950/posts/868144319508145
+d986ce90f15b9d9979d4a9c80a2ad9bd:mastodon:
+  spec:
+    title: บันทึก development workflow การใช้งาน Claude Code จากผู้สร้าง [somkiat.cc]
+    url: https://www.somkiat.cc/note-development-workflow-of-claude-code/
+  state:
+    id: '115891471317441038'
+    url: https://mastodon.in.th/@webring/115891471317441038
+d986ce90f15b9d9979d4a9c80a2ad9bd:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-development-workflow-of-claude-code/
+  state:
+    shortLink: https://link.webring.in.th/2922
 d9efbdce1358663c882dabc04d53db9b:facebook:
   spec:
     title: เราไป Google I/O Connect 2023 ที่ Bengaluru ประเทศอินเดียมา [mesodiar.com]
