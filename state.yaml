@@ -11584,6 +11584,32 @@
     url: https://www.mikkipastel.com/github-action-android-compose-battle/
   state:
     shortLink: https://link.webring.in.th/1806
+4989c04c40dde57358ef07e2239c6bb6:bluesky:
+  spec:
+    title: 'Jenkins Error com.thoughtworks.xstream.mapper.CannotResolveClassException: hudson.security.ProjectMatrixAuthorizationStrategy [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/01/jenkin-error-com-thoughtworks-xstream-mapper-cannotresolveclassexception-hudson-security-projectmatrixauthorizationstrategy/
+  state:
+    cid: bafyreidcg3dasfxwp33zzyr3ihqgzdjmfx6dj4zbp5f2txs4spmzafqivi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mcgp6jfvu42v
+4989c04c40dde57358ef07e2239c6bb6:facebook:
+  spec:
+    title: 'Jenkins Error com.thoughtworks.xstream.mapper.CannotResolveClassException: hudson.security.ProjectMatrixAuthorizationStrategy [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/01/jenkin-error-com-thoughtworks-xstream-mapper-cannotresolveclassexception-hudson-security-projectmatrixauthorizationstrategy/
+  state:
+    id: '100746876247412_868896309432946'
+    url: https://www.facebook.com/100683012920950/posts/868896309432946
+4989c04c40dde57358ef07e2239c6bb6:mastodon:
+  spec:
+    title: 'Jenkins Error com.thoughtworks.xstream.mapper.CannotResolveClassException: hudson.security.ProjectMatrixAuthorizationStrategy [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/01/jenkin-error-com-thoughtworks-xstream-mapper-cannotresolveclassexception-hudson-security-projectmatrixauthorizationstrategy/
+  state:
+    id: '115897119751599640'
+    url: https://mastodon.in.th/@webring/115897119751599640
+4989c04c40dde57358ef07e2239c6bb6:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/01/jenkin-error-com-thoughtworks-xstream-mapper-cannotresolveclassexception-hudson-security-projectmatrixauthorizationstrategy/
+  state:
+    shortLink: https://link.webring.in.th/2923
 49aab119dce1f8700889951156c52cce:facebook:
   spec:
     title: 'Java 21 :: รูปแบบการเขียนที่ง่ายต่อคนเริ่มต้น [somkiat.cc]'
