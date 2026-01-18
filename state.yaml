@@ -39845,6 +39845,32 @@ f2f2f35133c4f904cfeb0c6c82f4095c:shorturl:
     url: https://dt.in.th/AzureStaticWebAppsSPA
   state:
     shortLink: https://link.webring.in.th/2778
+f315cec1423b186f1c2f56b1cab26189:bluesky:
+  spec:
+    title: การใช้งาน SKIP LOCKED ใน PostgreSQL database [somkiat.cc]
+    url: https://www.somkiat.cc/skip-locked-in-postgresql/
+  state:
+    cid: bafyreiaqqs5bwmcdgymqwuc44ho53epj2vto54otepl2ebheobyqvthhqu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mcpg5fzgel2i
+f315cec1423b186f1c2f56b1cab26189:facebook:
+  spec:
+    title: การใช้งาน SKIP LOCKED ใน PostgreSQL database [somkiat.cc]
+    url: https://www.somkiat.cc/skip-locked-in-postgresql/
+  state:
+    id: '100746876247412_871605202495390'
+    url: https://www.facebook.com/100683012920950/posts/871605202495390
+f315cec1423b186f1c2f56b1cab26189:mastodon:
+  spec:
+    title: การใช้งาน SKIP LOCKED ใน PostgreSQL database [somkiat.cc]
+    url: https://www.somkiat.cc/skip-locked-in-postgresql/
+  state:
+    id: '115916750196770992'
+    url: https://mastodon.in.th/@webring/115916750196770992
+f315cec1423b186f1c2f56b1cab26189:shorturl:
+  spec:
+    url: https://www.somkiat.cc/skip-locked-in-postgresql/
+  state:
+    shortLink: https://link.webring.in.th/2925
 f33e571c89cf1afe5a27891ee86591cc:bluesky:
   spec:
     title: Git re-clone to existing folder with files [garden.narze.live]
