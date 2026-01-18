@@ -31994,6 +31994,32 @@ c1f24298824aaacb48f91cd5ddebe2e4:shorturl:
     url: https://blog.zartre.com/2024/2024-a-year-in-review/
   state:
     shortLink: https://link.webring.in.th/2304
+c2027aaa811c92c7ff116c9d7187fe13:bluesky:
+  spec:
+    title: Using Mise in GitHub Actions [dt.in.th]
+    url: https://dt.in.th/GitHubActionsMise
+  state:
+    cid: bafyreigx2qb3kucrvbjefov6s36lijwlfyhdmrwkoltqfv34imsw3akbjq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mcoamnj25k2t
+c2027aaa811c92c7ff116c9d7187fe13:facebook:
+  spec:
+    title: Using Mise in GitHub Actions [dt.in.th]
+    url: https://dt.in.th/GitHubActionsMise
+  state:
+    id: '100746876247412_871226569199920'
+    url: https://www.facebook.com/100683012920950/posts/871226569199920
+c2027aaa811c92c7ff116c9d7187fe13:mastodon:
+  spec:
+    title: Using Mise in GitHub Actions [dt.in.th]
+    url: https://dt.in.th/GitHubActionsMise
+  state:
+    id: '115914109703978210'
+    url: https://mastodon.in.th/@webring/115914109703978210
+c2027aaa811c92c7ff116c9d7187fe13:shorturl:
+  spec:
+    url: https://dt.in.th/GitHubActionsMise
+  state:
+    shortLink: https://link.webring.in.th/2924
 c25a1751edc8f9642937cb00ebca5982:facebook:
   spec:
     title: Building a Second Brain [garden.narze.live]
