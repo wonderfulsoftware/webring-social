@@ -8790,6 +8790,32 @@
     url: https://www.somkiat.cc/fun-with-improve-code/
   state:
     shortLink: https://link.webring.in.th/2299
+36292a9009de31bf632388cb3f9a2947:bluesky:
+  spec:
+    title: '2025''s Security Landscape: Why Memory-Safe Languages Aren''t Optional Anymore [fasu.dev]'
+    url: https://fasu.dev/writings/2025s-security-landscape-why-memory-safe-languages-arent-optional-anymore
+  state:
+    cid: bafyreif2jhzn4ydbzdutctnw3w5jorusfxmaol44v6ctv5effhzeawkg44
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mcqrgivbtr2i
+36292a9009de31bf632388cb3f9a2947:facebook:
+  spec:
+    title: '2025''s Security Landscape: Why Memory-Safe Languages Aren''t Optional Anymore [fasu.dev]'
+    url: https://fasu.dev/writings/2025s-security-landscape-why-memory-safe-languages-arent-optional-anymore
+  state:
+    id: '100746876247412_872016715787572'
+    url: https://www.facebook.com/100683012920950/posts/872016715787572
+36292a9009de31bf632388cb3f9a2947:mastodon:
+  spec:
+    title: '2025''s Security Landscape: Why Memory-Safe Languages Aren''t Optional Anymore [fasu.dev]'
+    url: https://fasu.dev/writings/2025s-security-landscape-why-memory-safe-languages-arent-optional-anymore
+  state:
+    id: '115919795117366776'
+    url: https://mastodon.in.th/@webring/115919795117366776
+36292a9009de31bf632388cb3f9a2947:shorturl:
+  spec:
+    url: https://fasu.dev/writings/2025s-security-landscape-why-memory-safe-languages-arent-optional-anymore
+  state:
+    shortLink: https://link.webring.in.th/2926
 36521a47e5099dd12aa41ad7af79dd32:facebook:
   spec:
     title: วิธีการแก้ไขปัญหา Asynchronous Function บน React.js Hook (useEfffect) ด้วยวิธี IIFE [toupawa.com]
