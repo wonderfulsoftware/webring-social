@@ -38179,6 +38179,32 @@ e9822615918005ebb85bf166a15df5cf:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/06/my-note-from-build-graphql-api-with-go/
   state:
     shortLink: https://link.webring.in.th/1962
+e9df67dfeb031ca9d1831af2b5b85c72:bluesky:
+  spec:
+    title: 4 ขั้นตอนในการ inspect หน้า WebView ในแอพ Android แบบง่ายมาก ๆ [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-inspect-webview-in-android-app/
+  state:
+    cid: bafyreiaow6o5elktomatm7fpznq6opdcvcxda5tdrztbfk6vfo2m57oxri
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mctbn2cawv2a
+e9df67dfeb031ca9d1831af2b5b85c72:facebook:
+  spec:
+    title: 4 ขั้นตอนในการ inspect หน้า WebView ในแอพ Android แบบง่ายมาก ๆ [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-inspect-webview-in-android-app/
+  state:
+    id: '100746876247412_872794005709843'
+    url: https://www.facebook.com/100683012920950/posts/872794005709843
+e9df67dfeb031ca9d1831af2b5b85c72:mastodon:
+  spec:
+    title: 4 ขั้นตอนในการ inspect หน้า WebView ในแอพ Android แบบง่ายมาก ๆ [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-inspect-webview-in-android-app/
+  state:
+    id: '115925439871897799'
+    url: https://mastodon.in.th/@webring/115925439871897799
+e9df67dfeb031ca9d1831af2b5b85c72:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/how-to-inspect-webview-in-android-app/
+  state:
+    shortLink: https://link.webring.in.th/2927
 ea1c3d27b980b85915487951ef642a84:facebook:
   spec:
     title: 'AZ-104: Manage identities and governance in Azure [debuggingsoft.com]'
@@ -38385,21 +38411,21 @@ eb4f6149a90a02c41b779305b02b1476:shorturl:
     shortLink: https://link.webring.in.th/2193
 eb560743682e9c40bd8de386c544691d:bluesky:
   spec:
-    title: ONNX Multi-platform benchmark [karnwong.me]
+    title: ONNX multi-platform benchmark [karnwong.me]
     url: https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/
   state:
     cid: bafyreiczmtyya3qtb4xz5ttkmlblipt2yfjbcoi2pmaa6nc3og2j5s3nui
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mbv3risri42w
 eb560743682e9c40bd8de386c544691d:facebook:
   spec:
-    title: ONNX Multi-platform benchmark [karnwong.me]
+    title: ONNX multi-platform benchmark [karnwong.me]
     url: https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/
   state:
     id: '100746876247412_863799319942645'
     url: https://www.facebook.com/100683012920950/posts/863799319942645
 eb560743682e9c40bd8de386c544691d:mastodon:
   spec:
-    title: ONNX Multi-platform benchmark [karnwong.me]
+    title: ONNX multi-platform benchmark [karnwong.me]
     url: https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/
   state:
     id: '115857473481348749'
