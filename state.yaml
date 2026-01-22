@@ -24595,6 +24595,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/07/mynote-google-cloud-next-extended-bangkok-2025-kx/
   state:
     shortLink: https://link.webring.in.th/2658
+938f770244a8aacaf918914e63cbc2c8:bluesky:
+  spec:
+    title: มาลองใช้งาน React Agent Skills จาก Vercel กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-react-agent-skills-from-vercel/
+  state:
+    cid: bafyreifgrg7wgasfq2ehod6mskch4uk65ktszjbb7w3nonsyk7ntc5xm7u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mcyco5ihy72k
+938f770244a8aacaf918914e63cbc2c8:facebook:
+  spec:
+    title: มาลองใช้งาน React Agent Skills จาก Vercel กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-react-agent-skills-from-vercel/
+  state:
+    id: '100746876247412_874423805546863'
+    url: https://www.facebook.com/100683012920950/posts/874423805546863
+938f770244a8aacaf918914e63cbc2c8:mastodon:
+  spec:
+    title: มาลองใช้งาน React Agent Skills จาก Vercel กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-react-agent-skills-from-vercel/
+  state:
+    id: '115936771698780763'
+    url: https://mastodon.in.th/@webring/115936771698780763
+938f770244a8aacaf918914e63cbc2c8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-react-agent-skills-from-vercel/
+  state:
+    shortLink: https://link.webring.in.th/2928
 93d3fb644f0138ac5b2d0c2c959d2c86:facebook:
   spec:
     title: Using Google Cloud Service Accounts to authenticate between your own services [dt.in.th]
