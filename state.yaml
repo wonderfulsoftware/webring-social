@@ -1907,6 +1907,32 @@
     url: https://www.somkiat.cc/model-context-protocol/
   state:
     shortLink: https://link.webring.in.th/2271
+0b5c9ebc1b86684b30612c318a1cc317:bluesky:
+  spec:
+    title: ใช้งาน Claude Code กับ Ollama ได้แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/use-claude-code-with-ollama/
+  state:
+    cid: bafyreigbvox5hvvhqivxihjx7vnhb5dphtqo45nzbjzi245mzxn7kch2ku
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3md2sw4yxoq2a
+0b5c9ebc1b86684b30612c318a1cc317:facebook:
+  spec:
+    title: ใช้งาน Claude Code กับ Ollama ได้แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/use-claude-code-with-ollama/
+  state:
+    id: '100746876247412_875228148799762'
+    url: https://www.facebook.com/100683012920950/posts/875228148799762
+0b5c9ebc1b86684b30612c318a1cc317:mastodon:
+  spec:
+    title: ใช้งาน Claude Code กับ Ollama ได้แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/use-claude-code-with-ollama/
+  state:
+    id: '115942418769016430'
+    url: https://mastodon.in.th/@webring/115942418769016430
+0b5c9ebc1b86684b30612c318a1cc317:shorturl:
+  spec:
+    url: https://www.somkiat.cc/use-claude-code-with-ollama/
+  state:
+    shortLink: https://link.webring.in.th/2929
 0b6b5210b72bf25f93c1e92d1943e83c:facebook:
   spec:
     title: Illustration - クルミ隊 💛❤️💙 [lucian.solutions]
