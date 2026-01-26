@@ -33643,6 +33643,32 @@ cb78da3a7aa388550ab0a4e95c0e23fe:shorturl:
     url: https://ntsd.dev/node-stream-pipe-and-transform/
   state:
     shortLink: https://link.webring.in.th/2263
+cb7c741bbf3a056babc7be86da6ba10f:bluesky:
+  spec:
+    title: Hello world! [thanapon.info]
+    url: https://thanapon.info/2026/01/25/hello-world/
+  state:
+    cid: bafyreigouslrzsiocwf2egmzkpwjgwwab3ljwh4gfei2bqbgip5ktljlp4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdcmiqvhr22b
+cb7c741bbf3a056babc7be86da6ba10f:facebook:
+  spec:
+    title: Hello world! [thanapon.info]
+    url: https://thanapon.info/2026/01/25/hello-world/
+  state:
+    id: '100746876247412_877891801866730'
+    url: https://www.facebook.com/100683012920950/posts/877891801866730
+cb7c741bbf3a056babc7be86da6ba10f:mastodon:
+  spec:
+    title: Hello world! [thanapon.info]
+    url: https://thanapon.info/2026/01/25/hello-world/
+  state:
+    id: '115959981492201659'
+    url: https://mastodon.in.th/@webring/115959981492201659
+cb7c741bbf3a056babc7be86da6ba10f:shorturl:
+  spec:
+    url: https://thanapon.info/2026/01/25/hello-world/
+  state:
+    shortLink: https://link.webring.in.th/2931
 cba79ea261b6bfc423bec33aad9ce19a:bluesky:
   spec:
     title: คำแนะนำสำหรับแก้ไขปัญหา MongoBleed (CVE-2025-14847) เบื้องต้น [somkiat.cc]
