@@ -10652,6 +10652,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/10/share-experience-transfrom-requirement-to-an-application/
   state:
     shortLink: https://link.webring.in.th/2192
+4155ce59d1c4714f15049936eff791c0:bluesky:
+  spec:
+    title: จดๆจากงาน National Coding Day 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/01/recap-national-coding-day-2026/
+  state:
+    cid: bafyreig4uwibo2gbujmb5qd23dubd7a2huus4vbv5omuoizn7aywaar6qu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdcewsndoj2a
+4155ce59d1c4714f15049936eff791c0:facebook:
+  spec:
+    title: จดๆจากงาน National Coding Day 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/01/recap-national-coding-day-2026/
+  state:
+    id: '100746876247412_877808575208386'
+    url: https://www.facebook.com/100683012920950/posts/877808575208386
+4155ce59d1c4714f15049936eff791c0:mastodon:
+  spec:
+    title: จดๆจากงาน National Coding Day 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/01/recap-national-coding-day-2026/
+  state:
+    id: '115959449519454841'
+    url: https://mastodon.in.th/@webring/115959449519454841
+4155ce59d1c4714f15049936eff791c0:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/01/recap-national-coding-day-2026/
+  state:
+    shortLink: https://link.webring.in.th/2930
 415fb9b9d57c36451a434b78184af23e:bluesky:
   spec:
     title: Illustration - Can We Talk [lucian.solutions]
