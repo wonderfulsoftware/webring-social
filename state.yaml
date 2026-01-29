@@ -8122,6 +8122,32 @@
     url: https://www.mikkipastel.com/icreator-camp-2024-final-day/
   state:
     shortLink: https://link.webring.in.th/2001
+31e18bd87384f59c5afc32a836856e04:bluesky:
+  spec:
+    title: '[CR] Starbucks Éclair Green Tea [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/01/cr-starbucks-eclair-green-tea/
+  state:
+    cid: bafyreiedkwbmnsdhs5yyd4dk5jp4b3g5ueubxfwxx7inprzseanmg2s7za
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdjwxdh7u32x
+31e18bd87384f59c5afc32a836856e04:facebook:
+  spec:
+    title: '[CR] Starbucks Éclair Green Tea [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/01/cr-starbucks-eclair-green-tea/
+  state:
+    id: '100746876247412_880419908280586'
+    url: https://www.facebook.com/100683012920950/posts/880419908280586
+31e18bd87384f59c5afc32a836856e04:mastodon:
+  spec:
+    title: '[CR] Starbucks Éclair Green Tea [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/01/cr-starbucks-eclair-green-tea/
+  state:
+    id: '115976479811325736'
+    url: https://mastodon.in.th/@webring/115976479811325736
+31e18bd87384f59c5afc32a836856e04:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/01/cr-starbucks-eclair-green-tea/
+  state:
+    shortLink: https://link.webring.in.th/2932
 31f0db6cdea63f8de50b5d2e0ad785b3:bluesky:
   spec:
     title: ทำความรู้จักกับ Multigres จาก Supabase [somkiat.cc]
