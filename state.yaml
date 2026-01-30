@@ -8844,21 +8844,21 @@
     shortLink: https://link.webring.in.th/2299
 36292a9009de31bf632388cb3f9a2947:bluesky:
   spec:
-    title: '2025''s Security Landscape: Why Memory-Safe Languages Aren''t Optional Anymore [fasu.dev]'
+    title: '2025''s Security Crisis: Why Memory-Safe Languages Matter [fasu.dev]'
     url: https://fasu.dev/writings/2025s-security-landscape-why-memory-safe-languages-arent-optional-anymore
   state:
     cid: bafyreif2jhzn4ydbzdutctnw3w5jorusfxmaol44v6ctv5effhzeawkg44
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mcqrgivbtr2i
 36292a9009de31bf632388cb3f9a2947:facebook:
   spec:
-    title: '2025''s Security Landscape: Why Memory-Safe Languages Aren''t Optional Anymore [fasu.dev]'
+    title: '2025''s Security Crisis: Why Memory-Safe Languages Matter [fasu.dev]'
     url: https://fasu.dev/writings/2025s-security-landscape-why-memory-safe-languages-arent-optional-anymore
   state:
     id: '100746876247412_872016715787572'
     url: https://www.facebook.com/100683012920950/posts/872016715787572
 36292a9009de31bf632388cb3f9a2947:mastodon:
   spec:
-    title: '2025''s Security Landscape: Why Memory-Safe Languages Aren''t Optional Anymore [fasu.dev]'
+    title: '2025''s Security Crisis: Why Memory-Safe Languages Matter [fasu.dev]'
     url: https://fasu.dev/writings/2025s-security-landscape-why-memory-safe-languages-arent-optional-anymore
   state:
     id: '115919795117366776'
@@ -12330,6 +12330,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/04/db2-restore-backup-db2-database-with-different-database-name/
   state:
     shortLink: https://link.webring.in.th/1874
+4cbe56403f63662204d1a23baa60614b:bluesky:
+  spec:
+    title: '[Eng] Distributed Scheduler The Series: Episode 2 — Only One Leader [sujamess.com]'
+    url: https://sujamess.com/blogs/20260129-distributed-scheduler-the-series-ep-2/
+  state:
+    cid: bafyreifq424shrunvginzmb4pwjmviazd6a5rjs5dynnkk4ihrs4jbo7ve
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdmhkamprl2e
+4cbe56403f63662204d1a23baa60614b:facebook:
+  spec:
+    title: '[Eng] Distributed Scheduler The Series: Episode 2 — Only One Leader [sujamess.com]'
+    url: https://sujamess.com/blogs/20260129-distributed-scheduler-the-series-ep-2/
+  state:
+    id: '100746876247412_881277081528202'
+    url: https://www.facebook.com/100683012920950/posts/881277081528202
+4cbe56403f63662204d1a23baa60614b:mastodon:
+  spec:
+    title: '[Eng] Distributed Scheduler The Series: Episode 2 — Only One Leader [sujamess.com]'
+    url: https://sujamess.com/blogs/20260129-distributed-scheduler-the-series-ep-2/
+  state:
+    id: '115982150655781615'
+    url: https://mastodon.in.th/@webring/115982150655781615
+4cbe56403f63662204d1a23baa60614b:shorturl:
+  spec:
+    url: https://sujamess.com/blogs/20260129-distributed-scheduler-the-series-ep-2/
+  state:
+    shortLink: https://link.webring.in.th/2933
 4cd3a125ff570cac1a897923b73a3cc3:facebook:
   spec:
     title: Side Projects Talk [garden.narze.live]
