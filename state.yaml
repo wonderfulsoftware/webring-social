@@ -13591,6 +13591,32 @@
     url: https://www.somkiat.cc/sharing-about-chatgpt-and-usecase/
   state:
     shortLink: https://webring.page.link/RgzX
+556ff7135f417235229cf0f9489dddaa:bluesky:
+  spec:
+    title: Sheet บันทึกเตรียมยื่นภาษี Easy / เที่ยวดีมีคืน / รายได้ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-prep-sheet
+  state:
+    cid: bafyreiddby2ltimenkpgjh66olabldoxhvtkb7ahsiskmn5duzqp72ibie
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdmoxmzcih2a
+556ff7135f417235229cf0f9489dddaa:facebook:
+  spec:
+    title: Sheet บันทึกเตรียมยื่นภาษี Easy / เที่ยวดีมีคืน / รายได้ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-prep-sheet
+  state:
+    id: '100746876247412_881351394854104'
+    url: https://www.facebook.com/100683012920950/posts/881351394854104
+556ff7135f417235229cf0f9489dddaa:mastodon:
+  spec:
+    title: Sheet บันทึกเตรียมยื่นภาษี Easy / เที่ยวดีมีคืน / รายได้ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-prep-sheet
+  state:
+    id: '115982672979284100'
+    url: https://mastodon.in.th/@webring/115982672979284100
+556ff7135f417235229cf0f9489dddaa:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/tax-prep-sheet
+  state:
+    shortLink: https://link.webring.in.th/2934
 55d432f65669702a856c519f2d1c4b12:facebook:
   spec:
     title: มาลองใช้งาน Fetch Mock สำหรับการจำลอง HTTP Request ของ fetch API [somkiat.cc]
