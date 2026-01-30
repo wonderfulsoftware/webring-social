@@ -26524,6 +26524,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/08/cr-karaage-buffet-daidai-restaurant-nishitetsu-hotel-silom/
   state:
     shortLink: https://link.webring.in.th/2700
+9fd672f7a4b0bd800e2ae555e0bb1649:bluesky:
+  spec:
+    title: สิ่งที่น่าสนใจจากเรื่องการ scale PostgreSQL database ของระบบ ChatGPT และ OpenAI API [somkiat.cc]
+    url: https://www.somkiat.cc/note-scale-postgresql-at-openai/
+  state:
+    cid: bafyreiduwgbkdojs276e6zfpqqbbu3b5552rcf3a7c4tq4fttnv3yucdki
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdmymk7yhz2i
+9fd672f7a4b0bd800e2ae555e0bb1649:facebook:
+  spec:
+    title: สิ่งที่น่าสนใจจากเรื่องการ scale PostgreSQL database ของระบบ ChatGPT และ OpenAI API [somkiat.cc]
+    url: https://www.somkiat.cc/note-scale-postgresql-at-openai/
+  state:
+    id: '100746876247412_881450338177543'
+    url: https://www.facebook.com/100683012920950/posts/881450338177543
+9fd672f7a4b0bd800e2ae555e0bb1649:mastodon:
+  spec:
+    title: สิ่งที่น่าสนใจจากเรื่องการ scale PostgreSQL database ของระบบ ChatGPT และ OpenAI API [somkiat.cc]
+    url: https://www.somkiat.cc/note-scale-postgresql-at-openai/
+  state:
+    id: '115983352317128403'
+    url: https://mastodon.in.th/@webring/115983352317128403
+9fd672f7a4b0bd800e2ae555e0bb1649:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-scale-postgresql-at-openai/
+  state:
+    shortLink: https://link.webring.in.th/2935
 9fecd482c6cffadbbf2143f85406222b:bluesky:
   spec:
     title: Thought dump on doing side project [yuttakhanb.dev]
