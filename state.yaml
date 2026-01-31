@@ -26275,6 +26275,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/03/bkk-earthquake-impact-28-mar-2025/
   state:
     shortLink: https://link.webring.in.th/2476
+9da0f942bc2dd46ba7a0d63a266108ef:bluesky:
+  spec:
+    title: '2025''s Security Crisis: Why Memory-Safe Languages Matter [fasu.dev]'
+    url: https://fasu.dev/writings/2025s-security-crisis-why-memory-safe-languages-matter
+  state:
+    cid: bafyreifgjyqit62kcwphncrtwd35qslnef5vyxjv2syqeymee3svoz7jwa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdoxrbp2rb2e
+9da0f942bc2dd46ba7a0d63a266108ef:facebook:
+  spec:
+    title: '2025''s Security Crisis: Why Memory-Safe Languages Matter [fasu.dev]'
+    url: https://fasu.dev/writings/2025s-security-crisis-why-memory-safe-languages-matter
+  state:
+    id: '100746876247412_882140518108525'
+    url: https://www.facebook.com/100683012920950/posts/882140518108525
+9da0f942bc2dd46ba7a0d63a266108ef:mastodon:
+  spec:
+    title: '2025''s Security Crisis: Why Memory-Safe Languages Matter [fasu.dev]'
+    url: https://fasu.dev/writings/2025s-security-crisis-why-memory-safe-languages-matter
+  state:
+    id: '115987795704608388'
+    url: https://mastodon.in.th/@webring/115987795704608388
+9da0f942bc2dd46ba7a0d63a266108ef:shorturl:
+  spec:
+    url: https://fasu.dev/writings/2025s-security-crisis-why-memory-safe-languages-matter
+  state:
+    shortLink: https://link.webring.in.th/2936
 9dd372d9894958f226807a0c2c999118:facebook:
   spec:
     title: New Blog | บ้านใหม่ [p4perf4ce.me]
