@@ -25718,6 +25718,32 @@
     url: https://www.somkiat.cc/hello-spring-boot-4/
   state:
     shortLink: https://link.webring.in.th/2867
+99f8a52835b90fbdfc9a51023367a782:bluesky:
+  spec:
+    title: LLM Architecture Dense vs MoE ต่างกันยังไง ? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/01/llm-architecture-dense-vs-moe-what-are-difference/
+  state:
+    cid: bafyreic7qm6kjmfiiroey45rzkqpzjjthhtqycoak5z72ihyobxvjpsw4q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdpija5jnz2w
+99f8a52835b90fbdfc9a51023367a782:facebook:
+  spec:
+    title: LLM Architecture Dense vs MoE ต่างกันยังไง ? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/01/llm-architecture-dense-vs-moe-what-are-difference/
+  state:
+    id: '100746876247412_882318468090730'
+    url: https://www.facebook.com/100683012920950/posts/882318468090730
+99f8a52835b90fbdfc9a51023367a782:mastodon:
+  spec:
+    title: LLM Architecture Dense vs MoE ต่างกันยังไง ? [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/01/llm-architecture-dense-vs-moe-what-are-difference/
+  state:
+    id: '115988974299091552'
+    url: https://mastodon.in.th/@webring/115988974299091552
+99f8a52835b90fbdfc9a51023367a782:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/01/llm-architecture-dense-vs-moe-what-are-difference/
+  state:
+    shortLink: https://link.webring.in.th/2938
 9a3560e7a4e6182a66d6584f4831e98c:facebook:
   spec:
     title: How to delete a large folder that contains millions of files [debuggingsoft.com]
