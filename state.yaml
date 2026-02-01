@@ -20763,6 +20763,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/03/starbucks-reward-2025/
   state:
     shortLink: https://link.webring.in.th/2479
+7d61681f2880c1bfc47cf68e9ebd85a7:bluesky:
+  spec:
+    title: 'Git from Zero to Pull Request: A Practical Guide [fasu.dev]'
+    url: https://fasu.dev/writings/git-from-zero-to-pull-request-a-practical-guide
+  state:
+    cid: bafyreigvue2srs3x5fluec3cm73tfhrb7o6j6f3xgoctpytsxrhkxcq4p4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdrk5h7l542a
+7d61681f2880c1bfc47cf68e9ebd85a7:facebook:
+  spec:
+    title: 'Git from Zero to Pull Request: A Practical Guide [fasu.dev]'
+    url: https://fasu.dev/writings/git-from-zero-to-pull-request-a-practical-guide
+  state:
+    id: '100746876247412_882929811362929'
+    url: https://www.facebook.com/100683012920950/posts/882929811362929
+7d61681f2880c1bfc47cf68e9ebd85a7:mastodon:
+  spec:
+    title: 'Git from Zero to Pull Request: A Practical Guide [fasu.dev]'
+    url: https://fasu.dev/writings/git-from-zero-to-pull-request-a-practical-guide
+  state:
+    id: '115993592847177358'
+    url: https://mastodon.in.th/@webring/115993592847177358
+7d61681f2880c1bfc47cf68e9ebd85a7:shorturl:
+  spec:
+    url: https://fasu.dev/writings/git-from-zero-to-pull-request-a-practical-guide
+  state:
+    shortLink: https://link.webring.in.th/2939
 7d65f52a2f58a59874b825d24ae5842a:bluesky:
   spec:
     title: มาลองใช้งาน Ollama App ตัวใหม่กันหน่อย [somkiat.cc]
