@@ -3452,6 +3452,32 @@
     url: https://www.icez.net/blog/167533/0258-ev-faq
   state:
     shortLink: https://webring.page.link/oUMT
+14dda543c3e418b8757c1d15c1f65c38:bluesky:
+  spec:
+    title: มาซื้อไฟล์เพลงญี่ปุ่นถูกลิขสิทธิ์แบบ DRM-Free กันเถอะ! ด้วย Ototoy [nitpum.com]
+    url: https://nitpum.com/post/ototoy/
+  state:
+    cid: bafyreiermnkf7fxtuj3etvn5pz4scagxpg4467rtzoigke2bljrqe4ki3a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdu2fs5yxo2e
+14dda543c3e418b8757c1d15c1f65c38:facebook:
+  spec:
+    title: มาซื้อไฟล์เพลงญี่ปุ่นถูกลิขสิทธิ์แบบ DRM-Free กันเถอะ! ด้วย Ototoy [nitpum.com]
+    url: https://nitpum.com/post/ototoy/
+  state:
+    id: '100746876247412_883676741288236'
+    url: https://www.facebook.com/100683012920950/posts/883676741288236
+14dda543c3e418b8757c1d15c1f65c38:mastodon:
+  spec:
+    title: มาซื้อไฟล์เพลงญี่ปุ่นถูกลิขสิทธิ์แบบ DRM-Free กันเถอะ! ด้วย Ototoy [nitpum.com]
+    url: https://nitpum.com/post/ototoy/
+  state:
+    id: '115999240727679441'
+    url: https://mastodon.in.th/@webring/115999240727679441
+14dda543c3e418b8757c1d15c1f65c38:shorturl:
+  spec:
+    url: https://nitpum.com/post/ototoy/
+  state:
+    shortLink: https://link.webring.in.th/2941
 14dda9553c090ffc24395fcc4986d27c:facebook:
   spec:
     title: มาทำความรู้จัก Growth Mindset กัน [mikkipastel.com]
