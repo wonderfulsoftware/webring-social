@@ -39569,6 +39569,32 @@ eebf657a35cac352e6cd61927b08d016:shorturl:
     url: https://www.somkiat.cc/software-developer-learn-from-bsod/
   state:
     shortLink: https://link.webring.in.th/2042
+eec6644f80b5754fd66b640cbf53b53f:bluesky:
+  spec:
+    title: (ตอนที่ 1) พยายามอ่านและจัดรูปแบบข้อความในไฟล์หลายล้านบรรทัด โดยใช้ทรัพยากรให้น้อยที่สุด ด้วย Spring WebFlux [kusumotolab.com]
+    url: https://kusumotolab.com/try-to-read-and-revise-payload-structure-with-uses-few-resources-with-spring-web-flux/
+  state:
+    cid: bafyreic36ejmxg5e7znrfnj2b5wbzuqobub36dwo7hwekkouvvvxcdfdva
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdubb44p3c2w
+eec6644f80b5754fd66b640cbf53b53f:facebook:
+  spec:
+    title: (ตอนที่ 1) พยายามอ่านและจัดรูปแบบข้อความในไฟล์หลายล้านบรรทัด โดยใช้ทรัพยากรให้น้อยที่สุด ด้วย Spring WebFlux [kusumotolab.com]
+    url: https://kusumotolab.com/try-to-read-and-revise-payload-structure-with-uses-few-resources-with-spring-web-flux/
+  state:
+    id: '100746876247412_883733951282515'
+    url: https://www.facebook.com/100683012920950/posts/883733951282515
+eec6644f80b5754fd66b640cbf53b53f:mastodon:
+  spec:
+    title: (ตอนที่ 1) พยายามอ่านและจัดรูปแบบข้อความในไฟล์หลายล้านบรรทัด โดยใช้ทรัพยากรให้น้อยที่สุด ด้วย Spring WebFlux [kusumotolab.com]
+    url: https://kusumotolab.com/try-to-read-and-revise-payload-structure-with-uses-few-resources-with-spring-web-flux/
+  state:
+    id: '115999723039755562'
+    url: https://mastodon.in.th/@webring/115999723039755562
+eec6644f80b5754fd66b640cbf53b53f:shorturl:
+  spec:
+    url: https://kusumotolab.com/try-to-read-and-revise-payload-structure-with-uses-few-resources-with-spring-web-flux/
+  state:
+    shortLink: https://link.webring.in.th/2942
 ef0afef9d3c5abe506982b8c2f0d82b0:facebook:
   spec:
     title: ตามรอยชานมไต้หวัน 2024 [blog.ninprd.com]
