@@ -30379,6 +30379,32 @@ b5d5932ca6509415d3540f5fb9f9154b:shorturl:
     url: https://www.somkiat.cc/note-from-how-github-engineers-learn-new-codebases/
   state:
     shortLink: https://link.webring.in.th/2459
+b5ee09365a3b871b0b2b1458b15c298a:bluesky:
+  spec:
+    title: วิวัฒนาการของคอมพิวเตอร์มีกี่ยุคบ้าง? แล้วทำอย่างไรให้คอมคุยกับคนรู้เรื่อง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/friends-of-figma-bangkok-from-hci-to-ux-ui/
+  state:
+    cid: bafyreiajqefa7yr6fyl6hbbf7x3xkff7eu2pf7h5sgfz3ovac4u4nccuiq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdwqwu54gg2a
+b5ee09365a3b871b0b2b1458b15c298a:facebook:
+  spec:
+    title: วิวัฒนาการของคอมพิวเตอร์มีกี่ยุคบ้าง? แล้วทำอย่างไรให้คอมคุยกับคนรู้เรื่อง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/friends-of-figma-bangkok-from-hci-to-ux-ui/
+  state:
+    id: '100746876247412_884530884536155'
+    url: https://www.facebook.com/100683012920950/posts/884530884536155
+b5ee09365a3b871b0b2b1458b15c298a:mastodon:
+  spec:
+    title: วิวัฒนาการของคอมพิวเตอร์มีกี่ยุคบ้าง? แล้วทำอย่างไรให้คอมคุยกับคนรู้เรื่อง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/friends-of-figma-bangkok-from-hci-to-ux-ui/
+  state:
+    id: '116005330083700340'
+    url: https://mastodon.in.th/@webring/116005330083700340
+b5ee09365a3b871b0b2b1458b15c298a:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/friends-of-figma-bangkok-from-hci-to-ux-ui/
+  state:
+    shortLink: https://link.webring.in.th/2944
 b61651d425ce5c71f40c5920a62b8748:bluesky:
   spec:
     title: Running Grist with Google Sign-In and External Storage on Docker Compose [dt.in.th]
