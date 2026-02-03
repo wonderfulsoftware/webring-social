@@ -20481,6 +20481,32 @@
     url: https://www.somkiat.cc/hello-semantic-kernel-from-microsoft/
   state:
     shortLink: https://link.webring.in.th/2118
+7c086d434e420a2c7a4d834cfc261d02:bluesky:
+  spec:
+    title: บันทึกการแบ่งปันความรู้พื้นฐานเรื่อง AI ในการ coding [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-ai-agent-for-coding/
+  state:
+    cid: bafyreidemyd7ny5odatqtvzyifyp2ozxu6hh4picvzv5kgvrtwma2oxpfa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdx2m3aol52x
+7c086d434e420a2c7a4d834cfc261d02:facebook:
+  spec:
+    title: บันทึกการแบ่งปันความรู้พื้นฐานเรื่อง AI ในการ coding [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-ai-agent-for-coding/
+  state:
+    id: '100746876247412_884624941193416'
+    url: https://www.facebook.com/100683012920950/posts/884624941193416
+7c086d434e420a2c7a4d834cfc261d02:mastodon:
+  spec:
+    title: บันทึกการแบ่งปันความรู้พื้นฐานเรื่อง AI ในการ coding [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-ai-agent-for-coding/
+  state:
+    id: '116006010076581084'
+    url: https://mastodon.in.th/@webring/116006010076581084
+7c086d434e420a2c7a4d834cfc261d02:shorturl:
+  spec:
+    url: https://www.somkiat.cc/sharing-ai-agent-for-coding/
+  state:
+    shortLink: https://link.webring.in.th/2945
 7c152703175f73416b22225695bb7b72:bluesky:
   spec:
     title: The true cost of deploying on EC2 [karnwong.me]
