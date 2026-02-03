@@ -40415,6 +40415,32 @@ f3c43d47dc5b52590706b07701ceeb1f:shorturl:
     url: https://bigdatarpg.com/2024/05/04/review-web-for-impact/
   state:
     shortLink: https://link.webring.in.th/1911
+f3e639520df88cfbb4faa9bf4dab67ec:bluesky:
+  spec:
+    title: ການຕໍ່ອາຍຸ Visa Non-B ດ້ວຍຕົວເອງ [xiengperm.dev]
+    url: https://xiengperm.dev/posts/renew-visa-non-b-thailand-lo/
+  state:
+    cid: bafyreihy2yqvkm2pzmky4lwmevzbjlxrlfs2vireyfvm2lf6o2a5nps57q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdwkbmncxq2x
+f3e639520df88cfbb4faa9bf4dab67ec:facebook:
+  spec:
+    title: ການຕໍ່ອາຍຸ Visa Non-B ດ້ວຍຕົວເອງ [xiengperm.dev]
+    url: https://xiengperm.dev/posts/renew-visa-non-b-thailand-lo/
+  state:
+    id: '100746876247412_884458554543388'
+    url: https://www.facebook.com/100683012920950/posts/884458554543388
+f3e639520df88cfbb4faa9bf4dab67ec:mastodon:
+  spec:
+    title: ການຕໍ່ອາຍຸ Visa Non-B ດ້ວຍຕົວເອງ [xiengperm.dev]
+    url: https://xiengperm.dev/posts/renew-visa-non-b-thailand-lo/
+  state:
+    id: '116004860961657121'
+    url: https://mastodon.in.th/@webring/116004860961657121
+f3e639520df88cfbb4faa9bf4dab67ec:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/renew-visa-non-b-thailand-lo/
+  state:
+    shortLink: https://link.webring.in.th/2943
 f3ff98ffe6527d7fe3795a4c0c9a45d5:facebook:
   spec:
     title: Load balancer 101, thou shalt not be alone [karnwong.me]
