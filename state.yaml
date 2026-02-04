@@ -30277,6 +30277,32 @@ b47f8a24a2c66d9b2e30023073029cef:shorturl:
     url: https://www.somkiat.cc/docker-desktop-with-disk-usage/
   state:
     shortLink: https://link.webring.in.th/1992
+b4b16d8452493c3ed47d8b8f1807252a:bluesky:
+  spec:
+    title: '[CR] Starbuck Mangosteen with Butterfly Pea Juice [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/02/cr-starbuck-mangosteen-with-butterfly-pea-juice/
+  state:
+    cid: bafyreic7wujarhhdyowgyufjpis2bhnw2mezygcsmt2s5wvedheno4ul54
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdzl7ka6u22b
+b4b16d8452493c3ed47d8b8f1807252a:facebook:
+  spec:
+    title: '[CR] Starbuck Mangosteen with Butterfly Pea Juice [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/02/cr-starbuck-mangosteen-with-butterfly-pea-juice/
+  state:
+    id: '100746876247412_885466301109280'
+    url: https://www.facebook.com/100683012920950/posts/885466301109280
+b4b16d8452493c3ed47d8b8f1807252a:mastodon:
+  spec:
+    title: '[CR] Starbuck Mangosteen with Butterfly Pea Juice [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/02/cr-starbuck-mangosteen-with-butterfly-pea-juice/
+  state:
+    id: '116011682228407089'
+    url: https://mastodon.in.th/@webring/116011682228407089
+b4b16d8452493c3ed47d8b8f1807252a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/02/cr-starbuck-mangosteen-with-butterfly-pea-juice/
+  state:
+    shortLink: https://link.webring.in.th/2948
 b523496aaef0dbab15c8fab0cdfbdc26:facebook:
   spec:
     title: เทคนิคการฝึกพูด present และ public speaking สำหรับมือใหม่ [mesodiar.com]
