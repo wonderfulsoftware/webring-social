@@ -26379,6 +26379,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/03/bkk-earthquake-impact-28-mar-2025/
   state:
     shortLink: https://link.webring.in.th/2476
+9d5617e9a5908c0738c90deaaadb7cb0:bluesky:
+  spec:
+    title: Reduce workload attack surface with distroless image [karnwong.me]
+    url: https://karnwong.me/posts/2026/02/reduce-workload-attack-surface-with-distroless-image/
+  state:
+    cid: bafyreid7esz6ggs4wj4jo7lt7ptyddeelb534vskogmotugvdigh3fcq4m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdyzsuni7p2f
+9d5617e9a5908c0738c90deaaadb7cb0:facebook:
+  spec:
+    title: Reduce workload attack surface with distroless image [karnwong.me]
+    url: https://karnwong.me/posts/2026/02/reduce-workload-attack-surface-with-distroless-image/
+  state:
+    id: '100746876247412_885297397792837'
+    url: https://www.facebook.com/100683012920950/posts/885297397792837
+9d5617e9a5908c0738c90deaaadb7cb0:mastodon:
+  spec:
+    title: Reduce workload attack surface with distroless image [karnwong.me]
+    url: https://karnwong.me/posts/2026/02/reduce-workload-attack-surface-with-distroless-image/
+  state:
+    id: '116010457889021109'
+    url: https://mastodon.in.th/@webring/116010457889021109
+9d5617e9a5908c0738c90deaaadb7cb0:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/02/reduce-workload-attack-surface-with-distroless-image/
+  state:
+    shortLink: https://link.webring.in.th/2946
 9da0f942bc2dd46ba7a0d63a266108ef:bluesky:
   spec:
     title: '2025''s Security Crisis: Why Memory-Safe Languages Matter [fasu.dev]'
