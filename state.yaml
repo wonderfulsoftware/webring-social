@@ -34277,6 +34277,32 @@ cc82886eef1266035395308e0fbe1e6e:shorturl:
     url: https://www.poolsawat.com/barcode-scanners-hardware-device-get-barcode-text-with-javascript-code/
   state:
     shortLink: https://link.webring.in.th/1755
+cd20a3ce47518f7b5e7f10e15d1da6f8:bluesky:
+  spec:
+    title: มาลองใช้งาน Kimi Code กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/hello-kimi-code/
+  state:
+    cid: bafyreieyls7xr6qhw7o5vb3oxfqhiew5nrxxxi2tyj5defj2h2rlrzl2ma
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdzbgpda7o2a
+cd20a3ce47518f7b5e7f10e15d1da6f8:facebook:
+  spec:
+    title: มาลองใช้งาน Kimi Code กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/hello-kimi-code/
+  state:
+    id: '100746876247412_885370287785548'
+    url: https://www.facebook.com/100683012920950/posts/885370287785548
+cd20a3ce47518f7b5e7f10e15d1da6f8:mastodon:
+  spec:
+    title: มาลองใช้งาน Kimi Code กันหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/hello-kimi-code/
+  state:
+    id: '116010994313952539'
+    url: https://mastodon.in.th/@webring/116010994313952539
+cd20a3ce47518f7b5e7f10e15d1da6f8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-kimi-code/
+  state:
+    shortLink: https://link.webring.in.th/2947
 cd3f1042e1ae4055bed5a79a0b023e46:facebook:
   spec:
     title: Thoughts on summarization service's system design [karnwong.me]
