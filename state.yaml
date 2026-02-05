@@ -11249,6 +11249,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/11/cr-starbucks-frozen-shine-muscat-grape-oolong-tea/
   state:
     shortLink: https://link.webring.in.th/2224
+452678fe8ea2fcfb004b7734ac8daccf:bluesky:
+  spec:
+    title: 'Stop Fighting `localhost`: Stable Dev URLs with Cloudflared [fasu.dev]'
+    url: https://fasu.dev/writings/stop-fighting-localhost-stable-dev-urls-with-cloudflared
+  state:
+    cid: bafyreihw5kpmgel6foo5yp5f76doqccisrczuno3v4s5nhb7dsnufspg6e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3me3seimbv22e
+452678fe8ea2fcfb004b7734ac8daccf:facebook:
+  spec:
+    title: 'Stop Fighting `localhost`: Stable Dev URLs with Cloudflared [fasu.dev]'
+    url: https://fasu.dev/writings/stop-fighting-localhost-stable-dev-urls-with-cloudflared
+  state:
+    id: '100746876247412_886257171030193'
+    url: https://www.facebook.com/100683012920950/posts/886257171030193
+452678fe8ea2fcfb004b7734ac8daccf:mastodon:
+  spec:
+    title: 'Stop Fighting `localhost`: Stable Dev URLs with Cloudflared [fasu.dev]'
+    url: https://fasu.dev/writings/stop-fighting-localhost-stable-dev-urls-with-cloudflared
+  state:
+    id: '116016689314667941'
+    url: https://mastodon.in.th/@webring/116016689314667941
+452678fe8ea2fcfb004b7734ac8daccf:shorturl:
+  spec:
+    url: https://fasu.dev/writings/stop-fighting-localhost-stable-dev-urls-with-cloudflared
+  state:
+    shortLink: https://link.webring.in.th/2950
 45560dec23746f948a3a62e355f408f4:facebook:
   spec:
     title: GraphQL คืออะไร หลักการใช้งานที่ควรคำนึง ตัวอย่างการใช้งานกับ Apollo Client [poolsawat.com]
