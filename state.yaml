@@ -37445,6 +37445,32 @@ e105152541d5300917555523fc7f8bba:shorturl:
     url: https://www.somkiat.cc/sharing-basic-postgresql/
   state:
     shortLink: https://link.webring.in.th/2494
+e10a6f3032c8d6c47865b0d1f8b14d73:bluesky:
+  spec:
+    title: คาดคะเนผลตอบแทนทองคำ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/gold-return
+  state:
+    cid: bafyreiaky7k7g3ltfkgryn3c45pvdqflim4lypbgqw3zb25jvamudgnxwm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3me3lcjsljk2k
+e10a6f3032c8d6c47865b0d1f8b14d73:facebook:
+  spec:
+    title: คาดคะเนผลตอบแทนทองคำ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/gold-return
+  state:
+    id: '100746876247412_886183581037552'
+    url: https://www.facebook.com/100683012920950/posts/886183581037552
+e10a6f3032c8d6c47865b0d1f8b14d73:mastodon:
+  spec:
+    title: คาดคะเนผลตอบแทนทองคำ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/gold-return
+  state:
+    id: '116016192466063348'
+    url: https://mastodon.in.th/@webring/116016192466063348
+e10a6f3032c8d6c47865b0d1f8b14d73:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/gold-return
+  state:
+    shortLink: https://link.webring.in.th/2949
 e150e4a5487779c75ec30d4996e3058d:facebook:
   spec:
     title: Bun คืออะไร? [thiti.dev]
