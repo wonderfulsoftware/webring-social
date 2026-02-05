@@ -7491,6 +7491,32 @@
     url: https://mymoneytoolkit.app/posts/crypto-tax
   state:
     shortLink: https://link.webring.in.th/2250
+2d1d53851881be865f3b3ab7888c5cff:bluesky:
+  spec:
+    title: bun run build – Error null is not an object (evaluating ‘currentRenderingInstance.ce’) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/bun-run-build-error-null-is-not-an-object-evaluating-currentrenderinginstance-ce-th-blog/
+  state:
+    cid: bafyreieejitz4w6oz4fn2wtdypdolip773rgnre45gsgy2nwhx6xifng5i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3me43ph64km2f
+2d1d53851881be865f3b3ab7888c5cff:facebook:
+  spec:
+    title: bun run build – Error null is not an object (evaluating ‘currentRenderingInstance.ce’) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/bun-run-build-error-null-is-not-an-object-evaluating-currentrenderinginstance-ce-th-blog/
+  state:
+    id: '100746876247412_886360801019830'
+    url: https://www.facebook.com/100683012920950/posts/886360801019830
+2d1d53851881be865f3b3ab7888c5cff:mastodon:
+  spec:
+    title: bun run build – Error null is not an object (evaluating ‘currentRenderingInstance.ce’) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/bun-run-build-error-null-is-not-an-object-evaluating-currentrenderinginstance-ce-th-blog/
+  state:
+    id: '116017346785675542'
+    url: https://mastodon.in.th/@webring/116017346785675542
+2d1d53851881be865f3b3ab7888c5cff:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/02/bun-run-build-error-null-is-not-an-object-evaluating-currentrenderinginstance-ce-th-blog/
+  state:
+    shortLink: https://link.webring.in.th/2951
 2d5074053e3175acf551175b9db713dd:facebook:
   spec:
     title: ว่าด้วยเรื่องของ Vector Database [somkiat.cc]
