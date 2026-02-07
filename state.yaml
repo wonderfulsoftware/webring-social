@@ -9408,6 +9408,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/10/dev-take-course-workshop-windows-server-and-active-directory-domain-services/
   state:
     shortLink: https://link.webring.in.th/2821
+397bc2ffd8688e3f9d180468f49af865:bluesky:
+  spec:
+    title: 3 ขั้นตอนเอา Jetpack Compose มาใช้ในโปรเจกต์เดิม [mikkipastel.com]
+    url: https://www.mikkipastel.com/3-step-to-add-jetpack-compose-to-your-android-project/
+  state:
+    cid: bafyreiefauupgk2v43h4jy4ypa63p5wps5m6d55p67famrralewukwuxq4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3meal7iv3ie2m
+397bc2ffd8688e3f9d180468f49af865:facebook:
+  spec:
+    title: 3 ขั้นตอนเอา Jetpack Compose มาใช้ในโปรเจกต์เดิม [mikkipastel.com]
+    url: https://www.mikkipastel.com/3-step-to-add-jetpack-compose-to-your-android-project/
+  state:
+    id: '100746876247412_887979157524661'
+    url: https://www.facebook.com/100683012920950/posts/887979157524661
+397bc2ffd8688e3f9d180468f49af865:mastodon:
+  spec:
+    title: 3 ขั้นตอนเอา Jetpack Compose มาใช้ในโปรเจกต์เดิม [mikkipastel.com]
+    url: https://www.mikkipastel.com/3-step-to-add-jetpack-compose-to-your-android-project/
+  state:
+    id: '116027444653208045'
+    url: https://mastodon.in.th/@webring/116027444653208045
+397bc2ffd8688e3f9d180468f49af865:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/3-step-to-add-jetpack-compose-to-your-android-project/
+  state:
+    shortLink: https://link.webring.in.th/2952
 39978aac8b6f43e66e67c4630e2e8cc7:bluesky:
   spec:
     title: ลองใช้ Locale Emulator สำหรับ App เก่าๆที่ต้องการ Locale เป็นพิเศษ [debuggingsoft.com]
