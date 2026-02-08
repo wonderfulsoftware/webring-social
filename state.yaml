@@ -40739,6 +40739,32 @@ f44e72e3e4b2a0d11c1a2c7c8a1c3f77:shorturl:
     url: https://myifew.com/6693/ai-coding-to-context-engineering/
   state:
     shortLink: https://link.webring.in.th/2647
+f476e3c22a8ab6621bd95a010241919f:bluesky:
+  spec:
+    title: First Time Publishing an App to Google Play Store [xiengperm.dev]
+    url: https://xiengperm.dev/posts/first-time-publish-app-play-store-en/
+  state:
+    cid: bafyreifmoeimcab4oh4qakjx5qminhxqgcbjzd2xvlmuw2bmq2c7bria7m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3med5ij2mw42s
+f476e3c22a8ab6621bd95a010241919f:facebook:
+  spec:
+    title: First Time Publishing an App to Google Play Store [xiengperm.dev]
+    url: https://xiengperm.dev/posts/first-time-publish-app-play-store-en/
+  state:
+    id: '100746876247412_888879960767914'
+    url: https://www.facebook.com/100683012920950/posts/888879960767914
+f476e3c22a8ab6621bd95a010241919f:mastodon:
+  spec:
+    title: First Time Publishing an App to Google Play Store [xiengperm.dev]
+    url: https://xiengperm.dev/posts/first-time-publish-app-play-store-en/
+  state:
+    id: '116033234831073525'
+    url: https://mastodon.in.th/@webring/116033234831073525
+f476e3c22a8ab6621bd95a010241919f:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/first-time-publish-app-play-store-en/
+  state:
+    shortLink: https://link.webring.in.th/2953
 f4a9daa208c333c61a97a0457c8e8137:facebook:
   spec:
     title: 'VSCode :: ใช้งาน Built-in port forwarding [somkiat.cc]'
