@@ -33827,6 +33827,32 @@ ca36726214f549883d5b641d97065a1a:shorturl:
     url: https://www.boonsong.dev/sso-authentication-with-sidecar-ontainers
   state:
     shortLink: https://webring.page.link/dNFt
+ca37bb19e1d9a7718aa9a4f4eb7116d5:bluesky:
+  spec:
+    title: คําอธิษฐานในวันที่เลือกตั้ง 2569 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/election-69/
+  state:
+    cid: bafyreihfo6ibfxmk5qka2ynxxcst3g2jm5ovgebkl5hwgrekze7y6u66yu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mefnsui2ue2x
+ca37bb19e1d9a7718aa9a4f4eb7116d5:facebook:
+  spec:
+    title: คําอธิษฐานในวันที่เลือกตั้ง 2569 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/election-69/
+  state:
+    id: '100746876247412_889768750679035'
+    url: https://www.facebook.com/100683012920950/posts/889768750679035
+ca37bb19e1d9a7718aa9a4f4eb7116d5:mastodon:
+  spec:
+    title: คําอธิษฐานในวันที่เลือกตั้ง 2569 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/election-69/
+  state:
+    id: '116038887169918794'
+    url: https://mastodon.in.th/@webring/116038887169918794
+ca37bb19e1d9a7718aa9a4f4eb7116d5:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/02/election-69/
+  state:
+    shortLink: https://link.webring.in.th/2954
 ca3c9f3c3e73a1bc1647d8bc29c191f1:bluesky:
   spec:
     title: Illustration - ダスカ(2025) [lucian.solutions]
