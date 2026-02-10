@@ -21632,6 +21632,32 @@
     url: https://www.anuwong.com/blog/personal-assistant-bot-with-telegram-and-notion/
   state:
     shortLink: https://webring.page.link/LnqZ
+8117d92a230eedad4cdb4134c42bbc2a:bluesky:
+  spec:
+    title: '[GITLAB] ปรับ Notification ยังไงนะ [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/02/gitlab-notification-setting/
+  state:
+    cid: bafyreibnvb5ajboz3j34yknc4lscbldd5vcwoqlfmokxlwxrgsgz5wg6z4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3meif3dpvne2e
+8117d92a230eedad4cdb4134c42bbc2a:facebook:
+  spec:
+    title: '[GITLAB] ปรับ Notification ยังไงนะ [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/02/gitlab-notification-setting/
+  state:
+    id: '100746876247412_890682613920982'
+    url: https://www.facebook.com/100683012920950/posts/890682613920982
+8117d92a230eedad4cdb4134c42bbc2a:mastodon:
+  spec:
+    title: '[GITLAB] ปรับ Notification ยังไงนะ [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/02/gitlab-notification-setting/
+  state:
+    id: '116045027545590725'
+    url: https://mastodon.in.th/@webring/116045027545590725
+8117d92a230eedad4cdb4134c42bbc2a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/02/gitlab-notification-setting/
+  state:
+    shortLink: https://link.webring.in.th/2956
 811c3b29977ce95649fcdd984ea4071b:bluesky:
   spec:
     title: '[🎙️] Recap Skoodio CEO Mfec [amiearth.com]'
