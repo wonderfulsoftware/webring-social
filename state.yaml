@@ -29421,6 +29421,32 @@ ae2156eca179a00cde7cd19a8250a65b:shorturl:
     url: https://notes.dt.in.th/Win98IE5
   state:
     shortLink: https://link.webring.in.th/2173
+ae2de6cbc9a991136d56ac6308999fe5:bluesky:
+  spec:
+    title: สร้าง workflow ง่าย ๆ ผ่าน Google Workspace Studio [mikkipastel.com]
+    url: https://www.mikkipastel.com/create-workflow-google-workspace-studio/
+  state:
+    cid: bafyreihhwuj5j4kjqw6lguodf37dexlhkznf2i3lil52oyksjyw6zqgyua
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3meioyw4f2p2b
+ae2de6cbc9a991136d56ac6308999fe5:facebook:
+  spec:
+    title: สร้าง workflow ง่าย ๆ ผ่าน Google Workspace Studio [mikkipastel.com]
+    url: https://www.mikkipastel.com/create-workflow-google-workspace-studio/
+  state:
+    id: '100746876247412_890783063910937'
+    url: https://www.facebook.com/100683012920950/posts/890783063910937
+ae2de6cbc9a991136d56ac6308999fe5:mastodon:
+  spec:
+    title: สร้าง workflow ง่าย ๆ ผ่าน Google Workspace Studio [mikkipastel.com]
+    url: https://www.mikkipastel.com/create-workflow-google-workspace-studio/
+  state:
+    id: '116045726176020115'
+    url: https://mastodon.in.th/@webring/116045726176020115
+ae2de6cbc9a991136d56ac6308999fe5:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/create-workflow-google-workspace-studio/
+  state:
+    shortLink: https://link.webring.in.th/2957
 ae430919bcdaee092baf7bee1c860601:bluesky:
   spec:
     title: 1st half marathon [yuttakhanb.dev]
