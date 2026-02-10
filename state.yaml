@@ -39431,6 +39431,32 @@ ece90ea8e02c36b89c8401ec96c6c72e:shorturl:
     url: https://www.somkiat.cc/storybook-7/
   state:
     shortLink: https://webring.page.link/f3zG
+ed087d59c26b73e40cda0f69da145a16:bluesky:
+  spec:
+    title: The Stack That Runs This Site (And Why I Chose It) [fasu.dev]
+    url: https://fasu.dev/writings/the-stack-that-runs-this-site-and-why-i-chose-it
+  state:
+    cid: bafyreihzt2cyrkjfpmkznminlojw4udiyyxssed6vkiz37ifizpp7stsau
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mei6huauo72m
+ed087d59c26b73e40cda0f69da145a16:facebook:
+  spec:
+    title: The Stack That Runs This Site (And Why I Chose It) [fasu.dev]
+    url: https://fasu.dev/writings/the-stack-that-runs-this-site-and-why-i-chose-it
+  state:
+    id: '100746876247412_890619220593988'
+    url: https://www.facebook.com/100683012920950/posts/890619220593988
+ed087d59c26b73e40cda0f69da145a16:mastodon:
+  spec:
+    title: The Stack That Runs This Site (And Why I Chose It) [fasu.dev]
+    url: https://fasu.dev/writings/the-stack-that-runs-this-site-and-why-i-chose-it
+  state:
+    id: '116044562799103859'
+    url: https://mastodon.in.th/@webring/116044562799103859
+ed087d59c26b73e40cda0f69da145a16:shorturl:
+  spec:
+    url: https://fasu.dev/writings/the-stack-that-runs-this-site-and-why-i-chose-it
+  state:
+    shortLink: https://link.webring.in.th/2955
 ed28edc326c69e97cc7771a55b578a03:bluesky:
   spec:
     title: มาใช้งาน Standard Schema สำหรับการตรวจสอบโครงสร้างข้อมูลกัน [somkiat.cc]
