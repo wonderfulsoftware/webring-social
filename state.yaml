@@ -38575,6 +38575,32 @@ e767273327732b9b733efc2d47f3198a:shorturl:
     url: https://mesodiar.com/%E0%B9%81%E0%B8%8A%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%B3%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%9A-google-cloud-certification-data-engineer-%E0%B8%9B%E0%B8%B5-2024-2c98dc639c67?source=rss----698ac1e5dc8c---4
   state:
     shortLink: https://webring.page.link/W63V
+e77cc4b9bc21e16ce4ce27eed915bb62:bluesky:
+  spec:
+    title: Book Highlights - Of Monsters and Mainframes by Barbara Truelove [karnwong.me]
+    url: https://karnwong.me/posts/2026/02/book-highlights---of-monsters-and-mainframes-by-barbara-truelove/
+  state:
+    cid: bafyreigjr5b3i6sqno7gezjdee65sxgqcl6tsavqt3xdbiramft2iapomq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mekovdkhhy2x
+e77cc4b9bc21e16ce4ce27eed915bb62:facebook:
+  spec:
+    title: Book Highlights - Of Monsters and Mainframes by Barbara Truelove [karnwong.me]
+    url: https://karnwong.me/posts/2026/02/book-highlights---of-monsters-and-mainframes-by-barbara-truelove/
+  state:
+    id: '100746876247412_891462147176362'
+    url: https://www.facebook.com/100683012920950/posts/891462147176362
+e77cc4b9bc21e16ce4ce27eed915bb62:mastodon:
+  spec:
+    title: Book Highlights - Of Monsters and Mainframes by Barbara Truelove [karnwong.me]
+    url: https://karnwong.me/posts/2026/02/book-highlights---of-monsters-and-mainframes-by-barbara-truelove/
+  state:
+    id: '116050222027940056'
+    url: https://mastodon.in.th/@webring/116050222027940056
+e77cc4b9bc21e16ce4ce27eed915bb62:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/02/book-highlights---of-monsters-and-mainframes-by-barbara-truelove/
+  state:
+    shortLink: https://link.webring.in.th/2958
 e7c7514d9313d04a3574694b208472dc:facebook:
   spec:
     title: Global Azure 2024 – Thailand [debuggingsoft.com]
