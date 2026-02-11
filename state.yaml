@@ -29658,6 +29658,32 @@ af0d66f1608392b526416d0bc6f58c52:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/10/db2-archive-logs-not-clear/
   state:
     shortLink: https://link.webring.in.th/2205
+af5589be6a6f90180f773f56c6c85e44:bluesky:
+  spec:
+    title: ลองใช้งาน Agent Browser CLI จาก vercel กัน [somkiat.cc]
+    url: https://www.somkiat.cc/try-agent-browser-cli/
+  state:
+    cid: bafyreigw5vx2kigvbwmqbffcunan5umuibvsltnu2uxp57iy4eav4yo654
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mekvf4eo3y2x
+af5589be6a6f90180f773f56c6c85e44:facebook:
+  spec:
+    title: ลองใช้งาน Agent Browser CLI จาก vercel กัน [somkiat.cc]
+    url: https://www.somkiat.cc/try-agent-browser-cli/
+  state:
+    id: '100746876247412_891524957170081'
+    url: https://www.facebook.com/100683012920950/posts/891524957170081
+af5589be6a6f90180f773f56c6c85e44:mastodon:
+  spec:
+    title: ลองใช้งาน Agent Browser CLI จาก vercel กัน [somkiat.cc]
+    url: https://www.somkiat.cc/try-agent-browser-cli/
+  state:
+    id: '116050678678325329'
+    url: https://mastodon.in.th/@webring/116050678678325329
+af5589be6a6f90180f773f56c6c85e44:shorturl:
+  spec:
+    url: https://www.somkiat.cc/try-agent-browser-cli/
+  state:
+    shortLink: https://link.webring.in.th/2959
 af9b33063511bcb7ec78eb6619d2c651:facebook:
   spec:
     title: ความสามารถที่น่าสนใจของ Apache Airflow 2.10 [somkiat.cc]
