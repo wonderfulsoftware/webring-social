@@ -4073,6 +4073,32 @@
     url: https://www.somkiat.cc/tester-day-2023-everything-you-can-test/
   state:
     shortLink: https://webring.page.link/dd67
+18a727cf977b4dde1a58ac9ce0487ea7:bluesky:
+  spec:
+    title: สรุป Flow พบหมอ รพ. ตากสิน 2026 (อาคารบวรเวชรัตน์) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/go-to-the-doctor-at-king-taksin-memorial-hospital-2026/
+  state:
+    cid: bafyreib5r7323ox7k6bm3pwbnxy7bhfqpt67eqn7h7v7t2wzro57vd4zre
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3men743tyba2a
+18a727cf977b4dde1a58ac9ce0487ea7:facebook:
+  spec:
+    title: สรุป Flow พบหมอ รพ. ตากสิน 2026 (อาคารบวรเวชรัตน์) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/go-to-the-doctor-at-king-taksin-memorial-hospital-2026/
+  state:
+    id: '100746876247412_892350707087506'
+    url: https://www.facebook.com/100683012920950/posts/892350707087506
+18a727cf977b4dde1a58ac9ce0487ea7:mastodon:
+  spec:
+    title: สรุป Flow พบหมอ รพ. ตากสิน 2026 (อาคารบวรเวชรัตน์) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/go-to-the-doctor-at-king-taksin-memorial-hospital-2026/
+  state:
+    id: '116055866244459996'
+    url: https://mastodon.in.th/@webring/116055866244459996
+18a727cf977b4dde1a58ac9ce0487ea7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/02/go-to-the-doctor-at-king-taksin-memorial-hospital-2026/
+  state:
+    shortLink: https://link.webring.in.th/2960
 18ca4ed82ae8c8ec914d83fd317bb400:bluesky:
   spec:
     title: mock-service-worker for mocking API [yuttakhanb.dev]
