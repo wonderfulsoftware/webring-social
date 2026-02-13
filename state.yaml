@@ -28748,6 +28748,32 @@ aab344661da8a53a3aac248bfedc54d3:shorturl:
     url: https://garden.narze.live/100daysofcode-r3-69-garden-astro-replace-degit-with-octokit/
   state:
     shortLink: https://webring.page.link/5XFi
+aae74c4d9b83217a61764e058bcb998a:bluesky:
+  spec:
+    title: '[Case Study] เมื่อ User บอกว่าพี่ใช้มานาน มันทำได้อยู่แล้ว ทั้งที่จริงมโนล้วนๆ [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/02/user-claim-its-a-legacy-feature-but-its-actually-non-existent/
+  state:
+    cid: bafyreigyvmyn5ghr6lh6dv3k6phhb7y5nksawyka6xop3ksbg25hkp4rni
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3meq7g7dy2i2e
+aae74c4d9b83217a61764e058bcb998a:facebook:
+  spec:
+    title: '[Case Study] เมื่อ User บอกว่าพี่ใช้มานาน มันทำได้อยู่แล้ว ทั้งที่จริงมโนล้วนๆ [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/02/user-claim-its-a-legacy-feature-but-its-actually-non-existent/
+  state:
+    id: '100746876247412_893324346990142'
+    url: https://www.facebook.com/100683012920950/posts/893324346990142
+aae74c4d9b83217a61764e058bcb998a:mastodon:
+  spec:
+    title: '[Case Study] เมื่อ User บอกว่าพี่ใช้มานาน มันทำได้อยู่แล้ว ทั้งที่จริงมโนล้วนๆ [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/02/user-claim-its-a-legacy-feature-but-its-actually-non-existent/
+  state:
+    id: '116062643958679702'
+    url: https://mastodon.in.th/@webring/116062643958679702
+aae74c4d9b83217a61764e058bcb998a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/02/user-claim-its-a-legacy-feature-but-its-actually-non-existent/
+  state:
+    shortLink: https://link.webring.in.th/2963
 aaed558a7930462912c88380645fbbea:bluesky:
   spec:
     title: Try using NuGet Explorer to Pack dll into a NuGet Package (.nupkg) [debuggingsoft.com]
