@@ -13112,6 +13112,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/07/cr-chicken-rice-at-ruenton-restaurants-montien-bangkok/
   state:
     shortLink: https://link.webring.in.th/2654
+516fe6e3f79aeb7af6e9f2bc6203e1d8:bluesky:
+  spec:
+    title: Recap 2025 [birdmusic.cc]
+    url: https://birdmusic.cc//2026/02/02/Recap2025.html
+  state:
+    cid: bafyreieynmyvryyx2fsux632yrrnaf2zyvwztwx6w5752vuqz6e6v2k7ae
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mepw7jv6ml2f
+516fe6e3f79aeb7af6e9f2bc6203e1d8:facebook:
+  spec:
+    title: Recap 2025 [birdmusic.cc]
+    url: https://birdmusic.cc//2026/02/02/Recap2025.html
+  state:
+    id: '100746876247412_893230810332829'
+    url: https://www.facebook.com/100683012920950/posts/893230810332829
+516fe6e3f79aeb7af6e9f2bc6203e1d8:mastodon:
+  spec:
+    title: Recap 2025 [birdmusic.cc]
+    url: https://birdmusic.cc//2026/02/02/Recap2025.html
+  state:
+    id: '116061995544035712'
+    url: https://mastodon.in.th/@webring/116061995544035712
+516fe6e3f79aeb7af6e9f2bc6203e1d8:shorturl:
+  spec:
+    url: https://birdmusic.cc//2026/02/02/Recap2025.html
+  state:
+    shortLink: https://link.webring.in.th/2962
 5196ad8f95df7d8dd9e01e3d7972d001:facebook:
   spec:
     title: รวมเว็บขอ Testnet Faucet สำหรับ developer และนักล่า airdrop [mikkipastel.com]
