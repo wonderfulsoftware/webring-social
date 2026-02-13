@@ -4699,6 +4699,32 @@
     url: https://www.somkiat.cc/hello-postbot-in-postman/
   state:
     shortLink: https://webring.page.link/UzgP
+1c2734d271b45164186a59fb18903058:bluesky:
+  spec:
+    title: Kumano Kodo (熊野古道) — เส้นทางแสวงบุญพันปี กลางป่าศักดิ์สิทธิ์แห่งญี่ปุ่น [myifew.com]
+    url: https://myifew.com/6811/kumano-kodo-%e7%86%8a%e9%87%8e%e5%8f%a4%e9%81%93-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%81%e0%b8%aa%e0%b8%a7%e0%b8%87%e0%b8%9a%e0%b8%b8%e0%b8%8d%e0%b8%9e/
+  state:
+    cid: bafyreia3cuvdp5jzke7qmkga3yr42ckpidlekhy737t2o6khfuuu67n5ki
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3meqjrlwtdk2b
+1c2734d271b45164186a59fb18903058:facebook:
+  spec:
+    title: Kumano Kodo (熊野古道) — เส้นทางแสวงบุญพันปี กลางป่าศักดิ์สิทธิ์แห่งญี่ปุ่น [myifew.com]
+    url: https://myifew.com/6811/kumano-kodo-%e7%86%8a%e9%87%8e%e5%8f%a4%e9%81%93-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%81%e0%b8%aa%e0%b8%a7%e0%b8%87%e0%b8%9a%e0%b8%b8%e0%b8%8d%e0%b8%9e/
+  state:
+    id: '100746876247412_893456333643610'
+    url: https://www.facebook.com/100683012920950/posts/893456333643610
+1c2734d271b45164186a59fb18903058:mastodon:
+  spec:
+    title: Kumano Kodo (熊野古道) — เส้นทางแสวงบุญพันปี กลางป่าศักดิ์สิทธิ์แห่งญี่ปุ่น [myifew.com]
+    url: https://myifew.com/6811/kumano-kodo-%e7%86%8a%e9%87%8e%e5%8f%a4%e9%81%93-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%81%e0%b8%aa%e0%b8%a7%e0%b8%87%e0%b8%9a%e0%b8%b8%e0%b8%8d%e0%b8%9e/
+  state:
+    id: '116063372428266966'
+    url: https://mastodon.in.th/@webring/116063372428266966
+1c2734d271b45164186a59fb18903058:shorturl:
+  spec:
+    url: https://myifew.com/6811/kumano-kodo-%e7%86%8a%e9%87%8e%e5%8f%a4%e9%81%93-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%81%e0%b8%aa%e0%b8%a7%e0%b8%87%e0%b8%9a%e0%b8%b8%e0%b8%8d%e0%b8%9e/
+  state:
+    shortLink: https://link.webring.in.th/2964
 1c328d5837f016fe4288d3a7fc00ed34:bluesky:
   spec:
     title: ลองใช้ Microsoft SQL Server mcp server กับ Claude Desktop กัน [debuggingsoft.com]
