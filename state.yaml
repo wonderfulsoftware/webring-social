@@ -40305,6 +40305,32 @@ f0c84e27b5f9f4ec7e401ae61cd59aaa:shorturl:
     url: https://www.somkiat.cc/litellm-llm-proxy-server/
   state:
     shortLink: https://link.webring.in.th/2171
+f10abf09a819b363bbaa2658e500526a:bluesky:
+  spec:
+    title: Using Rclone with a Public Google Drive folder [dt.in.th]
+    url: https://dt.in.th/RcloneGoogleDrivePublicFolder
+  state:
+    cid: bafyreic6sr5ol5dmjezok2cqw5io4stfb6qakdkwojfxjbtptkamomitjm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3meppce63m42e
+f10abf09a819b363bbaa2658e500526a:facebook:
+  spec:
+    title: Using Rclone with a Public Google Drive folder [dt.in.th]
+    url: https://dt.in.th/RcloneGoogleDrivePublicFolder
+  state:
+    id: '100746876247412_893163060339604'
+    url: https://www.facebook.com/100683012920950/posts/893163060339604
+f10abf09a819b363bbaa2658e500526a:mastodon:
+  spec:
+    title: Using Rclone with a Public Google Drive folder [dt.in.th]
+    url: https://dt.in.th/RcloneGoogleDrivePublicFolder
+  state:
+    id: '116061509092145314'
+    url: https://mastodon.in.th/@webring/116061509092145314
+f10abf09a819b363bbaa2658e500526a:shorturl:
+  spec:
+    url: https://dt.in.th/RcloneGoogleDrivePublicFolder
+  state:
+    shortLink: https://link.webring.in.th/2961
 f1105ee47d2932418692fb98e62e0aaa:bluesky:
   spec:
     title: Spring Boot 3.4 สนับสนุน Docker compose แบบหลาย ๆ ไฟล์แล้ว [somkiat.cc]
