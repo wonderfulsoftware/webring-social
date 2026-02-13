@@ -3004,6 +3004,32 @@
     url: https://mymoneytoolkit.app/posts/retirement-web
   state:
     shortLink: https://link.webring.in.th/2795
+117a87acd2329b5b3bcb4f9f901dd0f6:bluesky:
+  spec:
+    title: Torres del Paine W Trek — เส้นทางเทรคในฝันแห่ง Patagonia ชิลี 🏔️🇨🇱 [myifew.com]
+    url: https://myifew.com/6816/torres-del-paine-w-trek-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84%e0%b9%83%e0%b8%99%e0%b8%9d%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%ab/
+  state:
+    cid: bafyreibtg6eualgr4xzbzli37g7l5ys2xgk3pa5mzjcewdvyqvykv4gbly
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3meqthz3hcx23
+117a87acd2329b5b3bcb4f9f901dd0f6:facebook:
+  spec:
+    title: Torres del Paine W Trek — เส้นทางเทรคในฝันแห่ง Patagonia ชิลี 🏔️🇨🇱 [myifew.com]
+    url: https://myifew.com/6816/torres-del-paine-w-trek-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84%e0%b9%83%e0%b8%99%e0%b8%9d%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%ab/
+  state:
+    id: '100746876247412_893582990297611'
+    url: https://www.facebook.com/100683012920950/posts/893582990297611
+117a87acd2329b5b3bcb4f9f901dd0f6:mastodon:
+  spec:
+    title: Torres del Paine W Trek — เส้นทางเทรคในฝันแห่ง Patagonia ชิลี 🏔️🇨🇱 [myifew.com]
+    url: https://myifew.com/6816/torres-del-paine-w-trek-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84%e0%b9%83%e0%b8%99%e0%b8%9d%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%ab/
+  state:
+    id: '116064055151054657'
+    url: https://mastodon.in.th/@webring/116064055151054657
+117a87acd2329b5b3bcb4f9f901dd0f6:shorturl:
+  spec:
+    url: https://myifew.com/6816/torres-del-paine-w-trek-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84%e0%b9%83%e0%b8%99%e0%b8%9d%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%ab/
+  state:
+    shortLink: https://link.webring.in.th/2965
 11ca6f63b70af5dd3b88182821293e2e:facebook:
   spec:
     title: เพิ่งเห็นว่า Mojo เป็นให้ Download แล้ว [somkiat.cc]
