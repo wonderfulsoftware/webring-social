@@ -5052,6 +5052,32 @@
     url: https://www.somkiat.cc/mongodb-go-driver-2/
   state:
     shortLink: https://link.webring.in.th/2350
+1da055f2bf1e56fd0254bf2893d7d0f8:bluesky:
+  spec:
+    title: วันศุกร์ที่ 13 กุมภาพันธ์ — วันที่ชมพูเริ่มเข้าใจคำว่า ‘ทำงานร่วมกัน’ [myifew.com]
+    url: https://myifew.com/6819/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a8%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88-13-%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c/
+  state:
+    cid: bafyreifb3xjnfcjd7ttzvg7b7yfb2yllzg42atx4ldqt5g2f4ruykdmhd4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mes6lp5urm2e
+1da055f2bf1e56fd0254bf2893d7d0f8:facebook:
+  spec:
+    title: วันศุกร์ที่ 13 กุมภาพันธ์ — วันที่ชมพูเริ่มเข้าใจคำว่า ‘ทำงานร่วมกัน’ [myifew.com]
+    url: https://myifew.com/6819/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a8%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88-13-%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c/
+  state:
+    id: '100746876247412_894045510251359'
+    url: https://www.facebook.com/100683012920950/posts/894045510251359
+1da055f2bf1e56fd0254bf2893d7d0f8:mastodon:
+  spec:
+    title: วันศุกร์ที่ 13 กุมภาพันธ์ — วันที่ชมพูเริ่มเข้าใจคำว่า ‘ทำงานร่วมกัน’ [myifew.com]
+    url: https://myifew.com/6819/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a8%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88-13-%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c/
+  state:
+    id: '116067089184148522'
+    url: https://mastodon.in.th/@webring/116067089184148522
+1da055f2bf1e56fd0254bf2893d7d0f8:shorturl:
+  spec:
+    url: https://myifew.com/6819/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a8%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88-13-%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c/
+  state:
+    shortLink: https://link.webring.in.th/2966
 1dd2626ad790e1d2e73e8e2831b8ae6d:facebook:
   spec:
     title: การใช้งาน Generic type ใน TypeScript [thiti.dev]
