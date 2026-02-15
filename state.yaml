@@ -5116,6 +5116,32 @@
     url: https://www.boonsong.dev/pattern-event-driven-architecture-1
   state:
     shortLink: https://webring.page.link/dhgB
+1e1a622fc4d9a99e621f216433a063ad:bluesky:
+  spec:
+    title: むむむむむ [neizod.dev]
+    url: https://neizod.dev/2026/02/14/no-no-no-no-no.html
+  state:
+    cid: bafyreidd7fpoynno4afs4fso56lgg6xe2vde67ob3mb67qnfwquuniwi6q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3meuqclk3ra2j
+1e1a622fc4d9a99e621f216433a063ad:facebook:
+  spec:
+    title: むむむむむ [neizod.dev]
+    url: https://neizod.dev/2026/02/14/no-no-no-no-no.html
+  state:
+    id: '100746876247412_894971893492054'
+    url: https://www.facebook.com/100683012920950/posts/894971893492054
+1e1a622fc4d9a99e621f216433a063ad:mastodon:
+  spec:
+    title: むむむむむ [neizod.dev]
+    url: https://neizod.dev/2026/02/14/no-no-no-no-no.html
+  state:
+    id: '116072839404885478'
+    url: https://mastodon.in.th/@webring/116072839404885478
+1e1a622fc4d9a99e621f216433a063ad:shorturl:
+  spec:
+    url: https://neizod.dev/2026/02/14/no-no-no-no-no.html
+  state:
+    shortLink: https://link.webring.in.th/2967
 1e29b48b5c35cb030f270febee9db369:bluesky:
   spec:
     title: 'จดๆจากงาน Data + AI Day 2025: Empowering Intelligence [debuggingsoft.com]'
