@@ -40539,6 +40539,32 @@ f10abf09a819b363bbaa2658e500526a:shorturl:
     url: https://dt.in.th/RcloneGoogleDrivePublicFolder
   state:
     shortLink: https://link.webring.in.th/2961
+f10d14bf4f854e6bb6f991f79be6e295:bluesky:
+  spec:
+    title: วางแผนอนาคต เปลี่ยนฝันให้เป็นจริง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/future-planner
+  state:
+    cid: bafyreiabwjfmssihmmhwy4gab23bxxgmcy7qd4dfm7xhmbpzdtrhh5jhrq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mezr5l3ztp2y
+f10d14bf4f854e6bb6f991f79be6e295:facebook:
+  spec:
+    title: วางแผนอนาคต เปลี่ยนฝันให้เป็นจริง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/future-planner
+  state:
+    id: '100746876247412_896765803312663'
+    url: https://www.facebook.com/100683012920950/posts/896765803312663
+f10d14bf4f854e6bb6f991f79be6e295:mastodon:
+  spec:
+    title: วางแผนอนาคต เปลี่ยนฝันให้เป็นจริง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/future-planner
+  state:
+    id: '116084157735724162'
+    url: https://mastodon.in.th/@webring/116084157735724162
+f10d14bf4f854e6bb6f991f79be6e295:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/future-planner
+  state:
+    shortLink: https://link.webring.in.th/2970
 f1105ee47d2932418692fb98e62e0aaa:bluesky:
   spec:
     title: Spring Boot 3.4 สนับสนุน Docker compose แบบหลาย ๆ ไฟล์แล้ว [somkiat.cc]
