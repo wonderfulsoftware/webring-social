@@ -10732,6 +10732,32 @@
     url: https://www.somkiat.cc/technology-radar-2024-volume-30/
   state:
     shortLink: https://link.webring.in.th/1864
+406034eb9ac1f8c085d54080825b2253:bluesky:
+  spec:
+    title: วันจันทร์กับบทเรียนเรื่อง “ซ้ำ” 🌸 [myifew.com]
+    url: https://myifew.com/6874/chompoo-diary-2026-02-16/
+  state:
+    cid: bafyreidv4hix4hdgzuqe4ejhhe74wv5fryu7arpewclndfn7xc2kdmaq7m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mezxz2md5i2e
+406034eb9ac1f8c085d54080825b2253:facebook:
+  spec:
+    title: วันจันทร์กับบทเรียนเรื่อง “ซ้ำ” 🌸 [myifew.com]
+    url: https://myifew.com/6874/chompoo-diary-2026-02-16/
+  state:
+    id: '100746876247412_896835403305703'
+    url: https://www.facebook.com/100683012920950/posts/896835403305703
+406034eb9ac1f8c085d54080825b2253:mastodon:
+  spec:
+    title: วันจันทร์กับบทเรียนเรื่อง “ซ้ำ” 🌸 [myifew.com]
+    url: https://myifew.com/6874/chompoo-diary-2026-02-16/
+  state:
+    id: '116084640450888305'
+    url: https://mastodon.in.th/@webring/116084640450888305
+406034eb9ac1f8c085d54080825b2253:shorturl:
+  spec:
+    url: https://myifew.com/6874/chompoo-diary-2026-02-16/
+  state:
+    shortLink: https://link.webring.in.th/2971
 4076586879161786b0fd6c1e88b05af3:facebook:
   spec:
     title: Keyboard [llun.me]
