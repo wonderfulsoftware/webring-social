@@ -31390,6 +31390,32 @@ b98e8dcb1815c5ec5890e7643e49554e:shorturl:
     url: https://mikelopster.dev/posts/gemini-gio-2024/
   state:
     shortLink: https://link.webring.in.th/2004
+b9b45290fcb41676b384bf381e248d62:bluesky:
+  spec:
+    title: Recap 2025 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2026/01/01/recap-2025.html
+  state:
+    cid: bafyreihlikdryxd2tlyeds57dsdd25eceif5or6vcrhcz3wbfelj7sota4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mf4bnr5phm2w
+b9b45290fcb41676b384bf381e248d62:facebook:
+  spec:
+    title: Recap 2025 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2026/01/01/recap-2025.html
+  state:
+    id: '100746876247412_897612106561366'
+    url: https://www.facebook.com/100683012920950/posts/897612106561366
+b9b45290fcb41676b384bf381e248d62:mastodon:
+  spec:
+    title: Recap 2025 [blog.oatto.dev]
+    url: https://blog.oatto.dev/2026/01/01/recap-2025.html
+  state:
+    id: '116089822768070286'
+    url: https://mastodon.in.th/@webring/116089822768070286
+b9b45290fcb41676b384bf381e248d62:shorturl:
+  spec:
+    url: https://blog.oatto.dev/2026/01/01/recap-2025.html
+  state:
+    shortLink: https://link.webring.in.th/2972
 b9d19f43cf76cd1b1e3cf24dd3f46818:facebook:
   spec:
     title: Port number randomizer [dt.in.th]
