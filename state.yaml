@@ -13590,6 +13590,32 @@
     url: https://www.somkiat.cc/review-distributed-monolith/
   state:
     shortLink: https://link.webring.in.th/2481
+52f17b297d42f661da6e7db133fdd960:bluesky:
+  spec:
+    title: ฝึกออกแบบ key-value ใน redis สำหรับเก็บข้อมูลการค้นหา [somkiat.cc]
+    url: https://www.somkiat.cc/try-design-key-value-in-redis-01/
+  state:
+    cid: bafyreieur3mxxok4uahbfs2oyerrerersdoxm3f2jlxuke2ikrbhzlxbj4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mf4inu4mux2a
+52f17b297d42f661da6e7db133fdd960:facebook:
+  spec:
+    title: ฝึกออกแบบ key-value ใน redis สำหรับเก็บข้อมูลการค้นหา [somkiat.cc]
+    url: https://www.somkiat.cc/try-design-key-value-in-redis-01/
+  state:
+    id: '100746876247412_897679259887984'
+    url: https://www.facebook.com/100683012920950/posts/897679259887984
+52f17b297d42f661da6e7db133fdd960:mastodon:
+  spec:
+    title: ฝึกออกแบบ key-value ใน redis สำหรับเก็บข้อมูลการค้นหา [somkiat.cc]
+    url: https://www.somkiat.cc/try-design-key-value-in-redis-01/
+  state:
+    id: '116090315614739929'
+    url: https://mastodon.in.th/@webring/116090315614739929
+52f17b297d42f661da6e7db133fdd960:shorturl:
+  spec:
+    url: https://www.somkiat.cc/try-design-key-value-in-redis-01/
+  state:
+    shortLink: https://link.webring.in.th/2973
 53421a8f5a6f8ce1ffe357014a815a94:facebook:
   spec:
     title: Fixed Node ‘ERR_OSSL_EVP_UNSUPPORTED (0308010C:digital envelope routines::unsupported) [debuggingsoft.com]
