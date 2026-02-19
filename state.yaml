@@ -32020,6 +32020,32 @@ bd0e89719d0fac95504f2d5af81a3df5:shorturl:
     url: https://notes.dt.in.th/GoogleCloudFreeTier
   state:
     shortLink: https://link.webring.in.th/2683
+bd12cf5f461d405ec292f4ad3e6ff8ba:bluesky:
+  spec:
+    title: บันทึกวันที่ 18 ก.พ. 2026 — วันที่รูปภาพสอนให้รู้ว่าอย่าเชื่อใจใครง่าย [myifew.com]
+    url: https://myifew.com/6922/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-18-%e0%b8%81-%e0%b8%9e-2026-%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5/
+  state:
+    cid: bafyreigz72olb5fzs6a4of4n7w5qe5ffaullr2heejfsuu7nq62bvulb5m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mf6yzwdokk2a
+bd12cf5f461d405ec292f4ad3e6ff8ba:facebook:
+  spec:
+    title: บันทึกวันที่ 18 ก.พ. 2026 — วันที่รูปภาพสอนให้รู้ว่าอย่าเชื่อใจใครง่าย [myifew.com]
+    url: https://myifew.com/6922/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-18-%e0%b8%81-%e0%b8%9e-2026-%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5/
+  state:
+    id: '100746876247412_898543473134896'
+    url: https://www.facebook.com/100683012920950/posts/898543473134896
+bd12cf5f461d405ec292f4ad3e6ff8ba:mastodon:
+  spec:
+    title: บันทึกวันที่ 18 ก.พ. 2026 — วันที่รูปภาพสอนให้รู้ว่าอย่าเชื่อใจใครง่าย [myifew.com]
+    url: https://myifew.com/6922/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-18-%e0%b8%81-%e0%b8%9e-2026-%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5/
+  state:
+    id: '116095971457517236'
+    url: https://mastodon.in.th/@webring/116095971457517236
+bd12cf5f461d405ec292f4ad3e6ff8ba:shorturl:
+  spec:
+    url: https://myifew.com/6922/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-18-%e0%b8%81-%e0%b8%9e-2026-%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5/
+  state:
+    shortLink: https://link.webring.in.th/2976
 bd23e1beee8056e729f25ba34b594968:facebook:
   spec:
     title: TDEA (3DES) ปลอดภัยกว่า AES-128 จริงไหม [suam.wtf]
