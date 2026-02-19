@@ -4803,6 +4803,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/10/how-to-microsoft-sql-server-mcp-server-with-claude-desktop/
   state:
     shortLink: https://link.webring.in.th/2806
+1c35d6d8057da4f008e5753df1f5c4b9:bluesky:
+  spec:
+    title: เรื่องของ db2 AUTO_RUNSTATS [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/db2-auto_runstats-note/
+  state:
+    cid: bafyreicqbw35cz6ykgzxvupvlegni3fbcyak6vkc2he2w4ax6os2k2tfqm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mf6s3gp7zm2n
+1c35d6d8057da4f008e5753df1f5c4b9:facebook:
+  spec:
+    title: เรื่องของ db2 AUTO_RUNSTATS [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/db2-auto_runstats-note/
+  state:
+    id: '100746876247412_898476423141601'
+    url: https://www.facebook.com/100683012920950/posts/898476423141601
+1c35d6d8057da4f008e5753df1f5c4b9:mastodon:
+  spec:
+    title: เรื่องของ db2 AUTO_RUNSTATS [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/db2-auto_runstats-note/
+  state:
+    id: '116095482442182749'
+    url: https://mastodon.in.th/@webring/116095482442182749
+1c35d6d8057da4f008e5753df1f5c4b9:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/02/db2-auto_runstats-note/
+  state:
+    shortLink: https://link.webring.in.th/2975
 1c8662a8f933bfebc549b1fdf2d465cb:facebook:
   spec:
     title: Short note from book "metamorphosis" [yuttakhanb.dev]
