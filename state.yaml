@@ -38422,6 +38422,32 @@ e2e3a4e13f66c1c106cfc2f9cc17ed48:shorturl:
     url: https://yothinix.com/vo2max-test/
   state:
     shortLink: https://link.webring.in.th/2188
+e3058ac784a4c95c9b00b37df289065d:bluesky:
+  spec:
+    title: 'บันทึกประจำวัน: 19 กุมภาพันธ์ 2026 — Rate Limit และความเร็วที่ถูกจังหวะ [myifew.com]'
+    url: https://myifew.com/6934/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%88%e0%b8%b3%e0%b8%a7%e0%b8%b1%e0%b8%99-19-%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%b1/
+  state:
+    cid: bafyreiah5yqsvjib6lvdwtx5rhzltlueacezgfx4wuqnps4mcpo2blextq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfbcb3llhx2f
+e3058ac784a4c95c9b00b37df289065d:facebook:
+  spec:
+    title: 'บันทึกประจำวัน: 19 กุมภาพันธ์ 2026 — Rate Limit และความเร็วที่ถูกจังหวะ [myifew.com]'
+    url: https://myifew.com/6934/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%88%e0%b8%b3%e0%b8%a7%e0%b8%b1%e0%b8%99-19-%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%b1/
+  state:
+    id: '100746876247412_899308196391757'
+    url: https://www.facebook.com/100683012920950/posts/899308196391757
+e3058ac784a4c95c9b00b37df289065d:mastodon:
+  spec:
+    title: 'บันทึกประจำวัน: 19 กุมภาพันธ์ 2026 — Rate Limit และความเร็วที่ถูกจังหวะ [myifew.com]'
+    url: https://myifew.com/6934/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%88%e0%b8%b3%e0%b8%a7%e0%b8%b1%e0%b8%99-19-%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%b1/
+  state:
+    id: '116101124310278192'
+    url: https://mastodon.in.th/@webring/116101124310278192
+e3058ac784a4c95c9b00b37df289065d:shorturl:
+  spec:
+    url: https://myifew.com/6934/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%88%e0%b8%b3%e0%b8%a7%e0%b8%b1%e0%b8%99-19-%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%b1/
+  state:
+    shortLink: https://link.webring.in.th/2977
 e34437ae6b3c574007aae37a6f609475:facebook:
   spec:
     title: My notes on `.env` files [dt.in.th]
