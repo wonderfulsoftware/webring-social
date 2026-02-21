@@ -34463,6 +34463,32 @@ cac1bc35b5b13f8ec50018f199b9aff1:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/10/what-is-logical-volume-manager-lvm/
   state:
     shortLink: https://webring.page.link/2Fzz
+cae2f6941e5f378252488ce8aaf25f06:bluesky:
+  spec:
+    title: จดจากงาน QA&Testers Thailand Meetup FEB 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-qa-testers-thailand-meetup-feb-2026/
+  state:
+    cid: bafyreigj427ueqj2m76wrgi2zvhglckry6ipmg5wp3y34stoy67b4om2q4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfdrn3fxiw2n
+cae2f6941e5f378252488ce8aaf25f06:facebook:
+  spec:
+    title: จดจากงาน QA&Testers Thailand Meetup FEB 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-qa-testers-thailand-meetup-feb-2026/
+  state:
+    id: '100746876247412_900152659640644'
+    url: https://www.facebook.com/100683012920950/posts/900152659640644
+cae2f6941e5f378252488ce8aaf25f06:mastodon:
+  spec:
+    title: จดจากงาน QA&Testers Thailand Meetup FEB 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-qa-testers-thailand-meetup-feb-2026/
+  state:
+    id: '116106709806593329'
+    url: https://mastodon.in.th/@webring/116106709806593329
+cae2f6941e5f378252488ce8aaf25f06:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-qa-testers-thailand-meetup-feb-2026/
+  state:
+    shortLink: https://link.webring.in.th/2978
 cb2ed3a464a2b5ff06f6d013580a5351:facebook:
   spec:
     title: Rust ถูก fork ออกมาในชื่อว่า CrabLang [somkiat.cc]
