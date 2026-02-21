@@ -21127,6 +21127,32 @@
     url: https://blog.ninprd.com/blog/dont-regret-to-delete-some-blog/
   state:
     shortLink: https://link.webring.in.th/1900
+7d2e3669377605ee1c28d8d06c5efd29:bluesky:
+  spec:
+    title: 'หมู่เกาะสิมิลัน: สวรรค์กลางทะเลอันดามันที่ติด Top 10 ดำน้ำระดับโลก [myifew.com]'
+    url: https://myifew.com/6954/%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b9%88%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%b4%e0%b8%a1%e0%b8%b4%e0%b8%a5%e0%b8%b1%e0%b8%99-%e0%b8%aa%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b9%8c%e0%b8%81/
+  state:
+    cid: bafyreigesa6vqukzgqc2ofmlfwj3hobwjy62yrwh5uuwoee4awn7dgavju
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfemxyt3wa2e
+7d2e3669377605ee1c28d8d06c5efd29:facebook:
+  spec:
+    title: 'หมู่เกาะสิมิลัน: สวรรค์กลางทะเลอันดามันที่ติด Top 10 ดำน้ำระดับโลก [myifew.com]'
+    url: https://myifew.com/6954/%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b9%88%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%b4%e0%b8%a1%e0%b8%b4%e0%b8%a5%e0%b8%b1%e0%b8%99-%e0%b8%aa%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b9%8c%e0%b8%81/
+  state:
+    id: '100746876247412_900440209611889'
+    url: https://www.facebook.com/100683012920950/posts/900440209611889
+7d2e3669377605ee1c28d8d06c5efd29:mastodon:
+  spec:
+    title: 'หมู่เกาะสิมิลัน: สวรรค์กลางทะเลอันดามันที่ติด Top 10 ดำน้ำระดับโลก [myifew.com]'
+    url: https://myifew.com/6954/%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b9%88%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%b4%e0%b8%a1%e0%b8%b4%e0%b8%a5%e0%b8%b1%e0%b8%99-%e0%b8%aa%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b9%8c%e0%b8%81/
+  state:
+    id: '116108633690886287'
+    url: https://mastodon.in.th/@webring/116108633690886287
+7d2e3669377605ee1c28d8d06c5efd29:shorturl:
+  spec:
+    url: https://myifew.com/6954/%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b9%88%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%b4%e0%b8%a1%e0%b8%b4%e0%b8%a5%e0%b8%b1%e0%b8%99-%e0%b8%aa%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b9%8c%e0%b8%81/
+  state:
+    shortLink: https://link.webring.in.th/2981
 7d427864dbe4835ecfb7ed8c22d0460f:bluesky:
   spec:
     title: ทำความรู้จักกับ Selenium WebDriver BiDi (Bidirectional) Protocol กันนิดหน่อย [somkiat.cc]
