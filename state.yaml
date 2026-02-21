@@ -25769,6 +25769,32 @@
     url: https://www.somkiat.cc/api-testing-with-hurl/
   state:
     shortLink: https://link.webring.in.th/1950
+9699f5d092dc09631c1d8170734f2c52:bluesky:
+  spec:
+    title: แก้ไขปัญหา Ollama ใน VS Code + Github Copilot Chat [somkiat.cc]
+    url: https://www.somkiat.cc/workaround-ollama-in-vscode-and-github-copilot-chat/
+  state:
+    cid: bafyreidxbcz54rmsihe3vzrcx2n2gaojt7lsgbza4aespbcvewe3fbk4ja
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfecfh7fg22f
+9699f5d092dc09631c1d8170734f2c52:facebook:
+  spec:
+    title: แก้ไขปัญหา Ollama ใน VS Code + Github Copilot Chat [somkiat.cc]
+    url: https://www.somkiat.cc/workaround-ollama-in-vscode-and-github-copilot-chat/
+  state:
+    id: '100746876247412_900323032956940'
+    url: https://www.facebook.com/100683012920950/posts/900323032956940
+9699f5d092dc09631c1d8170734f2c52:mastodon:
+  spec:
+    title: แก้ไขปัญหา Ollama ใน VS Code + Github Copilot Chat [somkiat.cc]
+    url: https://www.somkiat.cc/workaround-ollama-in-vscode-and-github-copilot-chat/
+  state:
+    id: '116107889388060766'
+    url: https://mastodon.in.th/@webring/116107889388060766
+9699f5d092dc09631c1d8170734f2c52:shorturl:
+  spec:
+    url: https://www.somkiat.cc/workaround-ollama-in-vscode-and-github-copilot-chat/
+  state:
+    shortLink: https://link.webring.in.th/2980
 96a5e6d89b8ac992709d684865b7977b:bluesky:
   spec:
     title: เชื่อม Codex กับ Figma MCP [blog.luckytime1996.dev]
