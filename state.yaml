@@ -159,6 +159,32 @@
     url: https://blog.nattp.page/article/i-hope-this-doesnt-find-you/
   state:
     shortLink: https://link.webring.in.th/2834
+00c79d937359355b5d8146060fa1969c:bluesky:
+  spec:
+    title: เป็นเดฟแล้วต้องยื่นภาษียังไง? ง่ายนิดเดียว [mikkipastel.com]
+    url: https://www.mikkipastel.com/tax-101-for-developer/
+  state:
+    cid: bafyreibqu64gizb2sivb5okvbdeqigjrc42j2eggshdk5frym4exxnxc3a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfdyvytrks2v
+00c79d937359355b5d8146060fa1969c:facebook:
+  spec:
+    title: เป็นเดฟแล้วต้องยื่นภาษียังไง? ง่ายนิดเดียว [mikkipastel.com]
+    url: https://www.mikkipastel.com/tax-101-for-developer/
+  state:
+    id: '100746876247412_900226326299944'
+    url: https://www.facebook.com/100683012920950/posts/900226326299944
+00c79d937359355b5d8146060fa1969c:mastodon:
+  spec:
+    title: เป็นเดฟแล้วต้องยื่นภาษียังไง? ง่ายนิดเดียว [mikkipastel.com]
+    url: https://www.mikkipastel.com/tax-101-for-developer/
+  state:
+    id: '116107222066743671'
+    url: https://mastodon.in.th/@webring/116107222066743671
+00c79d937359355b5d8146060fa1969c:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/tax-101-for-developer/
+  state:
+    shortLink: https://link.webring.in.th/2979
 00fd0deb350dacbbca8b5afbc0734e89:bluesky:
   spec:
     title: มารู้จักกับ vConsole เครื่องมือ Debug บน App [boychawin.com]
