@@ -14232,6 +14232,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/11/dev-take-course-workshop-microsoft-365-admin-with-microsoft-defender-by-zabbix-in-thailand/
   state:
     shortLink: https://link.webring.in.th/2230
+5712f9cd0f0cd99daf957f397f956ca2:bluesky:
+  spec:
+    title: มาลองใช้งาน Markdown for Agents จาก Cloudflare กัน [somkiat.cc]
+    url: https://www.somkiat.cc/markdown-for-agents-from-cloudflare/
+  state:
+    cid: bafyreibhllggpqdsji3k7hrnegcr4pbwtko5isbsuzey4vuzcju2omn6a4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfgdbxywgw2j
+5712f9cd0f0cd99daf957f397f956ca2:facebook:
+  spec:
+    title: มาลองใช้งาน Markdown for Agents จาก Cloudflare กัน [somkiat.cc]
+    url: https://www.somkiat.cc/markdown-for-agents-from-cloudflare/
+  state:
+    id: '100746876247412_901036216218955'
+    url: https://www.facebook.com/100683012920950/posts/901036216218955
+5712f9cd0f0cd99daf957f397f956ca2:mastodon:
+  spec:
+    title: มาลองใช้งาน Markdown for Agents จาก Cloudflare กัน [somkiat.cc]
+    url: https://www.somkiat.cc/markdown-for-agents-from-cloudflare/
+  state:
+    id: '116112455664462458'
+    url: https://mastodon.in.th/@webring/116112455664462458
+5712f9cd0f0cd99daf957f397f956ca2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/markdown-for-agents-from-cloudflare/
+  state:
+    shortLink: https://link.webring.in.th/2982
 5723f243bab4f11f0b9bfdd15a1188b3:facebook:
   spec:
     title: Paste image to decode QR code [dt.in.th]
