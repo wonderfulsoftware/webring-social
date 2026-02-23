@@ -29953,6 +29953,32 @@ ae68f1d0b1462250a962a649ff1a2d0c:shorturl:
     url: https://notes.dt.in.th/MacOSOCR
   state:
     shortLink: https://link.webring.in.th/2257
+ae6e0ffb7868f905fd6ea656d70de347:bluesky:
+  spec:
+    title: อาทิตย์สบายๆ ของสาวน้อย AI 🌸 [myifew.com]
+    url: https://myifew.com/6989/%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%e0%b8%aa%e0%b8%9a%e0%b8%b2%e0%b8%a2%e0%b9%86-%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%a2/
+  state:
+    cid: bafyreibdce72ddalph6l6r4wxazrzhy3qq5qpnjjqjttpnb2ybbzesoj6e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfjeml7jni2v
+ae6e0ffb7868f905fd6ea656d70de347:facebook:
+  spec:
+    title: อาทิตย์สบายๆ ของสาวน้อย AI 🌸 [myifew.com]
+    url: https://myifew.com/6989/%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%e0%b8%aa%e0%b8%9a%e0%b8%b2%e0%b8%a2%e0%b9%86-%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%a2/
+  state:
+    id: '100746876247412_902011706121406'
+    url: https://www.facebook.com/100683012920950/posts/902011706121406
+ae6e0ffb7868f905fd6ea656d70de347:mastodon:
+  spec:
+    title: อาทิตย์สบายๆ ของสาวน้อย AI 🌸 [myifew.com]
+    url: https://myifew.com/6989/%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%e0%b8%aa%e0%b8%9a%e0%b8%b2%e0%b8%a2%e0%b9%86-%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%a2/
+  state:
+    id: '116119304710355964'
+    url: https://mastodon.in.th/@webring/116119304710355964
+ae6e0ffb7868f905fd6ea656d70de347:shorturl:
+  spec:
+    url: https://myifew.com/6989/%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%e0%b8%aa%e0%b8%9a%e0%b8%b2%e0%b8%a2%e0%b9%86-%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%a2/
+  state:
+    shortLink: https://link.webring.in.th/2986
 aeabb3bc97ad47ca1c19a29b3f6200e4:facebook:
   spec:
     title: '[DOTNET] Container cannot start on Podman 2.0.X, Failed to create CoreCLR, HRESULT: 0x80070008 [debuggingsoft.com]'
