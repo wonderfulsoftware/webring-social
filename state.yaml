@@ -1151,6 +1151,32 @@
     url: https://www.mikkipastel.com/disc-people-personally-assessment-tool/
   state:
     shortLink: https://webring.page.link/xaKQ
+06c77aba04311132163711f86cead5b8:bluesky:
+  spec:
+    title: จดจากงาน AgentCon – Bangkok 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-agentcon-bangkok-2026/
+  state:
+    cid: bafyreifjvsmcxyc42puj3v6pwpi5g5sl7o3s3vmz7kro55o4mmmces4xgq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfj35fha6b2t
+06c77aba04311132163711f86cead5b8:facebook:
+  spec:
+    title: จดจากงาน AgentCon – Bangkok 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-agentcon-bangkok-2026/
+  state:
+    id: '100746876247412_901931476129429'
+    url: https://www.facebook.com/100683012920950/posts/901931476129429
+06c77aba04311132163711f86cead5b8:mastodon:
+  spec:
+    title: จดจากงาน AgentCon – Bangkok 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-agentcon-bangkok-2026/
+  state:
+    id: '116118637982114427'
+    url: https://mastodon.in.th/@webring/116118637982114427
+06c77aba04311132163711f86cead5b8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-agentcon-bangkok-2026/
+  state:
+    shortLink: https://link.webring.in.th/2985
 06cc66b4dc29fd4f3d61f63c1065856e:bluesky:
   spec:
     title: สวัสดี Playwright Agents ใน Playwright 1.56 [somkiat.cc]
