@@ -39415,6 +39415,32 @@ e968b42e190c1a3f489f1776fdf6818f:shorturl:
     url: https://www.mikkipastel.com/icreator-camp-2024-week2-content-marketing/
   state:
     shortLink: https://link.webring.in.th/1952
+e97466bab49ba5fddaeacc4905684b85:bluesky:
+  spec:
+    title: วิธีโหลดแอพจาก Google play มาลงเครื่องที่ไม่มี Google play [nitpum.com]
+    url: https://nitpum.com/post/install-playstore-app-on-none-playstore-device/
+  state:
+    cid: bafyreig2dmxoict34f3gwogbko7w45gzztkvcldvclrxuayqdduxli2ema
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfiuainxqg2t
+e97466bab49ba5fddaeacc4905684b85:facebook:
+  spec:
+    title: วิธีโหลดแอพจาก Google play มาลงเครื่องที่ไม่มี Google play [nitpum.com]
+    url: https://nitpum.com/post/install-playstore-app-on-none-playstore-device/
+  state:
+    id: '100746876247412_901878329468077'
+    url: https://www.facebook.com/100683012920950/posts/901878329468077
+e97466bab49ba5fddaeacc4905684b85:mastodon:
+  spec:
+    title: วิธีโหลดแอพจาก Google play มาลงเครื่องที่ไม่มี Google play [nitpum.com]
+    url: https://nitpum.com/post/install-playstore-app-on-none-playstore-device/
+  state:
+    id: '116118152273457488'
+    url: https://mastodon.in.th/@webring/116118152273457488
+e97466bab49ba5fddaeacc4905684b85:shorturl:
+  spec:
+    url: https://nitpum.com/post/install-playstore-app-on-none-playstore-device/
+  state:
+    shortLink: https://link.webring.in.th/2984
 e98225653ec2dc395aed60f883d0bebf:facebook:
   spec:
     title: Auto-merging dependabot PRs [dt.in.th]
