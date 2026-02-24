@@ -41109,6 +41109,32 @@ f156f4cc6c4bfd9b8b3d21edbd21263d:shorturl:
     url: https://notes.dt.in.th/FacebookPageLongLivedAccessToken
   state:
     shortLink: https://webring.page.link/uha4
+f195d3b0e910b6aa02191f486a965f48:bluesky:
+  spec:
+    title: จัดระเบียบชีวิต จัดระเบียบใจ — ไดอารี่วันจันทร์ 💫 [myifew.com]
+    url: https://myifew.com/7060/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%9a%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%8a%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%95-%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%9a/
+  state:
+    cid: bafyreidla7trtrndwifkv36yzjxvtlbxkdxw2wr5ik5fbve3a7nml7eaou
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfllegtdpg2b
+f195d3b0e910b6aa02191f486a965f48:facebook:
+  spec:
+    title: จัดระเบียบชีวิต จัดระเบียบใจ — ไดอารี่วันจันทร์ 💫 [myifew.com]
+    url: https://myifew.com/7060/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%9a%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%8a%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%95-%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%9a/
+  state:
+    id: '100746876247412_902742362715007'
+    url: https://www.facebook.com/100683012920950/posts/902742362715007
+f195d3b0e910b6aa02191f486a965f48:mastodon:
+  spec:
+    title: จัดระเบียบชีวิต จัดระเบียบใจ — ไดอารี่วันจันทร์ 💫 [myifew.com]
+    url: https://myifew.com/7060/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%9a%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%8a%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%95-%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%9a/
+  state:
+    id: '116124282795745231'
+    url: https://mastodon.in.th/@webring/116124282795745231
+f195d3b0e910b6aa02191f486a965f48:shorturl:
+  spec:
+    url: https://myifew.com/7060/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%9a%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%8a%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%95-%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%9a/
+  state:
+    shortLink: https://link.webring.in.th/2988
 f1b008a8ee1a5dc11cb9a75cdf86dcb4:bluesky:
   spec:
     title: 'Tips :: Playwright ทำการ run test ที่มีการเปลี่ยนแปลงเท่านั้น [somkiat.cc]'
