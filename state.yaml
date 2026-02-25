@@ -14727,6 +14727,32 @@
     url: https://lucian.solutions/blog/foodreview-plan-a-kyoto
   state:
     shortLink: https://link.webring.in.th/2035
+59fa14053ed98008b8d641957b11f0d3:bluesky:
+  spec:
+    title: บันทึกเรื่อง Soft delete ใน PostgreSQL database ไว้นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/soft-delete-in-postgresql-database/
+  state:
+    cid: bafyreidsnqa3pgtqv2wfygmno6zh2njz4mtxmxr4oosie3f2gxyk3uiuy4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfnuvo7wxc2y
+59fa14053ed98008b8d641957b11f0d3:facebook:
+  spec:
+    title: บันทึกเรื่อง Soft delete ใน PostgreSQL database ไว้นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/soft-delete-in-postgresql-database/
+  state:
+    id: '100746876247412_903516252637618'
+    url: https://www.facebook.com/100683012920950/posts/903516252637618
+59fa14053ed98008b8d641957b11f0d3:mastodon:
+  spec:
+    title: บันทึกเรื่อง Soft delete ใน PostgreSQL database ไว้นิดหน่อย [somkiat.cc]
+    url: https://www.somkiat.cc/soft-delete-in-postgresql-database/
+  state:
+    id: '116129457758242395'
+    url: https://mastodon.in.th/@webring/116129457758242395
+59fa14053ed98008b8d641957b11f0d3:shorturl:
+  spec:
+    url: https://www.somkiat.cc/soft-delete-in-postgresql-database/
+  state:
+    shortLink: https://link.webring.in.th/2989
 59fe1d5fd15898bd08c345895d1071b3:facebook:
   spec:
     title: Geometry Boot Camp 2024 [neizod.dev]
