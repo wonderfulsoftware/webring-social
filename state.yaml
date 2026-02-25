@@ -9945,6 +9945,32 @@
     url: https://wawasabii.com/blog/how-many-thai-tea-safe-sunset-yellow/
   state:
     shortLink: https://link.webring.in.th/2514
+3b7ee6c6f31609116ad28c15a38fdd07:bluesky:
+  spec:
+    title: ลงทุนนอกที่ไหนดี? — เจาะลึก DR vs กองทุน (FIF) vs ลงทุนตรง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/invest-aboard
+  state:
+    cid: bafyreihbv53oxk2rltxcwow4iz6adj7hihw66vtyixx3rthhdpeal3ghdm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfofj7rs2t2y
+3b7ee6c6f31609116ad28c15a38fdd07:facebook:
+  spec:
+    title: ลงทุนนอกที่ไหนดี? — เจาะลึก DR vs กองทุน (FIF) vs ลงทุนตรง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/invest-aboard
+  state:
+    id: '100746876247412_903683315954245'
+    url: https://www.facebook.com/100683012920950/posts/903683315954245
+3b7ee6c6f31609116ad28c15a38fdd07:mastodon:
+  spec:
+    title: ลงทุนนอกที่ไหนดี? — เจาะลึก DR vs กองทุน (FIF) vs ลงทุนตรง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/invest-aboard
+  state:
+    id: '116130626813138361'
+    url: https://mastodon.in.th/@webring/116130626813138361
+3b7ee6c6f31609116ad28c15a38fdd07:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/invest-aboard
+  state:
+    shortLink: https://link.webring.in.th/2991
 3b8d099e2f92ad22ec7ce2e0f8cb944d:bluesky:
   spec:
     title: พัฒนาการของเด็กในแต่ละช่วงวัย [thiti.dev]
