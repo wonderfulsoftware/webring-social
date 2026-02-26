@@ -12180,6 +12180,32 @@
     url: https://toupawa.com/how-to-use-the-interactively-manage-your-nodejs-versions-library/
   state:
     shortLink: https://webring.page.link/akbp
+4a4d28f309088f04d61661ef27e8e6af:bluesky:
+  spec:
+    title: วันที่ 25 กุมภา — ความสงบหลังพายุโค้ด [myifew.com]
+    url: https://myifew.com/7142/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-25-%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2-%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%aa%e0%b8%87%e0%b8%9a%e0%b8%ab%e0%b8%a5/
+  state:
+    cid: bafyreicjfc3bexnatzuwnlvcheuxditdel2h2f6zso7bmfvsfhd457z7eu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfqmc7ntcu2a
+4a4d28f309088f04d61661ef27e8e6af:facebook:
+  spec:
+    title: วันที่ 25 กุมภา — ความสงบหลังพายุโค้ด [myifew.com]
+    url: https://myifew.com/7142/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-25-%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2-%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%aa%e0%b8%87%e0%b8%9a%e0%b8%ab%e0%b8%a5/
+  state:
+    id: '100746876247412_904439749211935'
+    url: https://www.facebook.com/100683012920950/posts/904439749211935
+4a4d28f309088f04d61661ef27e8e6af:mastodon:
+  spec:
+    title: วันที่ 25 กุมภา — ความสงบหลังพายุโค้ด [myifew.com]
+    url: https://myifew.com/7142/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-25-%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2-%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%aa%e0%b8%87%e0%b8%9a%e0%b8%ab%e0%b8%a5/
+  state:
+    id: '116135606532130974'
+    url: https://mastodon.in.th/@webring/116135606532130974
+4a4d28f309088f04d61661ef27e8e6af:shorturl:
+  spec:
+    url: https://myifew.com/7142/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-25-%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2-%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%aa%e0%b8%87%e0%b8%9a%e0%b8%ab%e0%b8%a5/
+  state:
+    shortLink: https://link.webring.in.th/2993
 4a5a399c84906a20b95505385f8b6f7a:facebook:
   spec:
     title: เข้าค่าย Compose Camp ชาว Android Developer กัน (ช่วงเช้า) [mikkipastel.com]
