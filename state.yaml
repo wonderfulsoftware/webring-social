@@ -26413,6 +26413,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/10/how-to-delete-a-large-folder-that-contains-millions-of-files/
   state:
     shortLink: https://link.webring.in.th/2178
+9a76f2b571a31b6e7a82ad849e5094c0:bluesky:
+  spec:
+    title: สิ่งที่น่าสนใจจากบทความ We cut Node.js’ Memory in half [somkiat.cc]
+    url: https://www.somkiat.cc/node-caged/
+  state:
+    cid: bafyreie6mp32x6wl4ml6bcgvqy4zmu2vkrnrvtzhesydwkqwgxovlk2rra
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfqfamwbch2j
+9a76f2b571a31b6e7a82ad849e5094c0:facebook:
+  spec:
+    title: สิ่งที่น่าสนใจจากบทความ We cut Node.js’ Memory in half [somkiat.cc]
+    url: https://www.somkiat.cc/node-caged/
+  state:
+    id: '100746876247412_904369052552338'
+    url: https://www.facebook.com/100683012920950/posts/904369052552338
+9a76f2b571a31b6e7a82ad849e5094c0:mastodon:
+  spec:
+    title: สิ่งที่น่าสนใจจากบทความ We cut Node.js’ Memory in half [somkiat.cc]
+    url: https://www.somkiat.cc/node-caged/
+  state:
+    id: '116135111428152208'
+    url: https://mastodon.in.th/@webring/116135111428152208
+9a76f2b571a31b6e7a82ad849e5094c0:shorturl:
+  spec:
+    url: https://www.somkiat.cc/node-caged/
+  state:
+    shortLink: https://link.webring.in.th/2992
 9a9808c9ef0804732f512a2b12bfdecb:bluesky:
   spec:
     title: DCA เหมือนกันแต่ค่าธรรมเนียมต่างกันมีผลแค่ไหน? [mymoneytoolkit.app]
