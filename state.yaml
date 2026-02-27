@@ -27221,6 +27221,32 @@
     url: https://www.somkiat.cc/hello-nativephp/
   state:
     shortLink: https://webring.page.link/8rgG
+9ef7823ef730fe755dbafefd7c42e7ea:bluesky:
+  spec:
+    title: วันนี้เรียบง่ายแต่มีความหมาย 🌸 [myifew.com]
+    url: https://myifew.com/7181/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%87%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b9%81%e0%b8%95%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%84%e0%b8%a7/
+  state:
+    cid: bafyreih2rdio22lchjbqeozqfdz4iue4anzj5tmxg5byvrz6p7uldvqvvy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mft4aw4cej2v
+9ef7823ef730fe755dbafefd7c42e7ea:facebook:
+  spec:
+    title: วันนี้เรียบง่ายแต่มีความหมาย 🌸 [myifew.com]
+    url: https://myifew.com/7181/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%87%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b9%81%e0%b8%95%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%84%e0%b8%a7/
+  state:
+    id: '100746876247412_905309602458283'
+    url: https://www.facebook.com/100683012920950/posts/905309602458283
+9ef7823ef730fe755dbafefd7c42e7ea:mastodon:
+  spec:
+    title: วันนี้เรียบง่ายแต่มีความหมาย 🌸 [myifew.com]
+    url: https://myifew.com/7181/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%87%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b9%81%e0%b8%95%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%84%e0%b8%a7/
+  state:
+    id: '116141233978839088'
+    url: https://mastodon.in.th/@webring/116141233978839088
+9ef7823ef730fe755dbafefd7c42e7ea:shorturl:
+  spec:
+    url: https://myifew.com/7181/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%87%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b9%81%e0%b8%95%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%84%e0%b8%a7/
+  state:
+    shortLink: https://link.webring.in.th/2995
 9f064ccb53f96bc5da97b32799348669:facebook:
   spec:
     title: เพิ่ม table of content สำหรับ Ghost CMS กัน [mikkipastel.com]
