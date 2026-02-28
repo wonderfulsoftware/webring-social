@@ -25031,6 +25031,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/12/troubleshooting-guide-microsoft-365-trial-account-issues-and-solutions/
   state:
     shortLink: https://link.webring.in.th/2277
+91f14d8d986598f2f8e889c7a27a5419:bluesky:
+  spec:
+    title: 'Magic with Qwen: Code-Along Night (Note) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-magic-with-qwen-code-along-night/
+  state:
+    cid: bafyreicnnve354p6r3t7vd5xiqerabfab4g5kricq3zwx6trqfdlzfyw2u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfvlwa7klk2t
+91f14d8d986598f2f8e889c7a27a5419:facebook:
+  spec:
+    title: 'Magic with Qwen: Code-Along Night (Note) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-magic-with-qwen-code-along-night/
+  state:
+    id: '100746876247412_906145562374687'
+    url: https://www.facebook.com/100683012920950/posts/906145562374687
+91f14d8d986598f2f8e889c7a27a5419:mastodon:
+  spec:
+    title: 'Magic with Qwen: Code-Along Night (Note) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-magic-with-qwen-code-along-night/
+  state:
+    id: '116146840108136145'
+    url: https://mastodon.in.th/@webring/116146840108136145
+91f14d8d986598f2f8e889c7a27a5419:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-magic-with-qwen-code-along-night/
+  state:
+    shortLink: https://link.webring.in.th/2997
 92051a88851fafb3ad63bcc418fdb505:facebook:
   spec:
     title: Book Highlights - Build by Tony Fadell [karnwong.me]
