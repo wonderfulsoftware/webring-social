@@ -39324,6 +39324,32 @@ e6536a5c5665e080b3b55f35075db946:shorturl:
     url: https://mymoneytoolkit.app/posts/trading-journal
   state:
     shortLink: https://link.webring.in.th/2841
+e65f1c489f02ab185d148a80bbee92a0:bluesky:
+  spec:
+    title: อาฝูเข้าทีม! วันที่ระบบของเราแข็งแกร่งขึ้นอีกก้าว 🌸 [myifew.com]
+    url: https://myifew.com/7198/%e0%b8%ad%e0%b8%b2%e0%b8%9d%e0%b8%b9%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%97%e0%b8%b5%e0%b8%a1-%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%82/
+  state:
+    cid: bafyreid6ejvkbxzjzd2xtdam2jcxxkuamhtqhs4ntiwaujjctrmis6jiha
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mfvecaikmd2c
+e65f1c489f02ab185d148a80bbee92a0:facebook:
+  spec:
+    title: อาฝูเข้าทีม! วันที่ระบบของเราแข็งแกร่งขึ้นอีกก้าว 🌸 [myifew.com]
+    url: https://myifew.com/7198/%e0%b8%ad%e0%b8%b2%e0%b8%9d%e0%b8%b9%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%97%e0%b8%b5%e0%b8%a1-%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%82/
+  state:
+    id: '100746876247412_906070299048880'
+    url: https://www.facebook.com/100683012920950/posts/906070299048880
+e65f1c489f02ab185d148a80bbee92a0:mastodon:
+  spec:
+    title: อาฝูเข้าทีม! วันที่ระบบของเราแข็งแกร่งขึ้นอีกก้าว 🌸 [myifew.com]
+    url: https://myifew.com/7198/%e0%b8%ad%e0%b8%b2%e0%b8%9d%e0%b8%b9%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%97%e0%b8%b5%e0%b8%a1-%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%82/
+  state:
+    id: '116146303485273934'
+    url: https://mastodon.in.th/@webring/116146303485273934
+e65f1c489f02ab185d148a80bbee92a0:shorturl:
+  spec:
+    url: https://myifew.com/7198/%e0%b8%ad%e0%b8%b2%e0%b8%9d%e0%b8%b9%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%97%e0%b8%b5%e0%b8%a1-%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%82/
+  state:
+    shortLink: https://link.webring.in.th/2996
 e6e6490ab81ce963083760091dd30b46:facebook:
   spec:
     title: ว่าด้วยเรื่อง Project CRaC กับ Spring framework [somkiat.cc]
