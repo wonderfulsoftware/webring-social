@@ -13855,6 +13855,32 @@
     url: https://pontakorn.dev/posts/introduction-to-deno/
   state:
     shortLink: https://link.webring.in.th/2190
+53b090ed6f47d87ce1319b19229c7db6:bluesky:
+  spec:
+    title: Multi-account git setup [karnwong.me]
+    url: https://karnwong.me/posts/2026/03/multi-account-git-setup/
+  state:
+    cid: bafyreifcaqfqgkojp67vtx7ivy7hq5e3nxht5obbmnmekdffp5jwflsoju
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mg2nxpsxfp2c
+53b090ed6f47d87ce1319b19229c7db6:facebook:
+  spec:
+    title: Multi-account git setup [karnwong.me]
+    url: https://karnwong.me/posts/2026/03/multi-account-git-setup/
+  state:
+    id: '100746876247412_907821262207117'
+    url: https://www.facebook.com/100683012920950/posts/907821262207117
+53b090ed6f47d87ce1319b19229c7db6:mastodon:
+  spec:
+    title: Multi-account git setup [karnwong.me]
+    url: https://karnwong.me/posts/2026/03/multi-account-git-setup/
+  state:
+    id: '116158243228105049'
+    url: https://mastodon.in.th/@webring/116158243228105049
+53b090ed6f47d87ce1319b19229c7db6:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/03/multi-account-git-setup/
+  state:
+    shortLink: https://link.webring.in.th/3001
 53d66b3662db807580cc1669e4510b95:facebook:
   spec:
     title: Hello (blog) World! [punn.dev]
