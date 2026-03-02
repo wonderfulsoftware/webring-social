@@ -24204,6 +24204,32 @@
     url: https://www.somkiat.cc/java-25/
   state:
     shortLink: https://link.webring.in.th/2711
+8b610e0de309463766bdc8d9be3ebc50:bluesky:
+  spec:
+    title: สิ่งที่น่าสนใจจากบทความเรื่อง The State of Java on Kubernetes 2026 [somkiat.cc]
+    url: https://www.somkiat.cc/note-the-state-of-java-on-kubernetes-2026/
+  state:
+    cid: bafyreic5r2kp36qad2bmtsqw3kn4qemjpxy3blrvvu7i2jf7igrwlbxomy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mg2xkkgr462y
+8b610e0de309463766bdc8d9be3ebc50:facebook:
+  spec:
+    title: สิ่งที่น่าสนใจจากบทความเรื่อง The State of Java on Kubernetes 2026 [somkiat.cc]
+    url: https://www.somkiat.cc/note-the-state-of-java-on-kubernetes-2026/
+  state:
+    id: '100746876247412_907914475531129'
+    url: https://www.facebook.com/100683012920950/posts/907914475531129
+8b610e0de309463766bdc8d9be3ebc50:mastodon:
+  spec:
+    title: สิ่งที่น่าสนใจจากบทความเรื่อง The State of Java on Kubernetes 2026 [somkiat.cc]
+    url: https://www.somkiat.cc/note-the-state-of-java-on-kubernetes-2026/
+  state:
+    id: '116158917886590123'
+    url: https://mastodon.in.th/@webring/116158917886590123
+8b610e0de309463766bdc8d9be3ebc50:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-the-state-of-java-on-kubernetes-2026/
+  state:
+    shortLink: https://link.webring.in.th/3002
 8babbbc0b10abcb53c2b5cd0fabd36ae:facebook:
   spec:
     title: 'A Networking God Tale: All I Want is to Run a Speedtest Behind a Firewall [karnwong.me]'
