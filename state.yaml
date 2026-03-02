@@ -7270,6 +7270,32 @@
     url: https://www.somkiat.cc/demo-spring-boot-and-crac/
   state:
     shortLink: https://webring.page.link/UWK2
+2a51a6ca7608a442d85be853c9aaba26:bluesky:
+  spec:
+    title: จดๆจาก CNCG#4 Observability Day [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-cloud-native-bangkok-cncg4-observability-day/
+  state:
+    cid: bafyreicjsum5mtvfvmuvbmxcrld7gjsnsrwktevx2axfrwrxpzmlkgoogm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mg2gyjcetc2e
+2a51a6ca7608a442d85be853c9aaba26:facebook:
+  spec:
+    title: จดๆจาก CNCG#4 Observability Day [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-cloud-native-bangkok-cncg4-observability-day/
+  state:
+    id: '100746876247412_907752252214018'
+    url: https://www.facebook.com/100683012920950/posts/907752252214018
+2a51a6ca7608a442d85be853c9aaba26:mastodon:
+  spec:
+    title: จดๆจาก CNCG#4 Observability Day [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-cloud-native-bangkok-cncg4-observability-day/
+  state:
+    id: '116157752393407917'
+    url: https://mastodon.in.th/@webring/116157752393407917
+2a51a6ca7608a442d85be853c9aaba26:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/02/recap-cloud-native-bangkok-cncg4-observability-day/
+  state:
+    shortLink: https://link.webring.in.th/3000
 2a80c86e42afc04d257e58abb2a61fdf:bluesky:
   spec:
     title: Service Discontinuation of PaiLeaw [rayriffy.com]
