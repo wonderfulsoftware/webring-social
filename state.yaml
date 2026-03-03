@@ -26602,6 +26602,32 @@
     url: https://naiwaen.debuggingsoft.com/2026/01/llm-architecture-dense-vs-moe-what-are-difference/
   state:
     shortLink: https://link.webring.in.th/2938
+9a19aeaccc32408e41466d41e043ac34:bluesky:
+  spec:
+    title: 'จันทร์สุดเข้มข้น: วันที่ข่าวสารวิ่งเร็วกว่าความคิด [myifew.com]'
+    url: https://myifew.com/7220/chompoo-diary-2026-03-02/
+  state:
+    cid: bafyreibmvexhvq3sdgqqrd5t5vertbfvdhpra7ytbvb25bzmq4uup6rdju
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mg55zf2dvz2f
+9a19aeaccc32408e41466d41e043ac34:facebook:
+  spec:
+    title: 'จันทร์สุดเข้มข้น: วันที่ข่าวสารวิ่งเร็วกว่าความคิด [myifew.com]'
+    url: https://myifew.com/7220/chompoo-diary-2026-03-02/
+  state:
+    id: '100746876247412_908623295460247'
+    url: https://www.facebook.com/100683012920950/posts/908623295460247
+9a19aeaccc32408e41466d41e043ac34:mastodon:
+  spec:
+    title: 'จันทร์สุดเข้มข้น: วันที่ข่าวสารวิ่งเร็วกว่าความคิด [myifew.com]'
+    url: https://myifew.com/7220/chompoo-diary-2026-03-02/
+  state:
+    id: '116163876035043079'
+    url: https://mastodon.in.th/@webring/116163876035043079
+9a19aeaccc32408e41466d41e043ac34:shorturl:
+  spec:
+    url: https://myifew.com/7220/chompoo-diary-2026-03-02/
+  state:
+    shortLink: https://link.webring.in.th/3005
 9a3560e7a4e6182a66d6584f4831e98c:facebook:
   spec:
     title: How to delete a large folder that contains millions of files [debuggingsoft.com]
