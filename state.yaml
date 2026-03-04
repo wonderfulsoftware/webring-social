@@ -34720,6 +34720,32 @@ c933e277bd4b40830366b1f3ef12a5c5:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-02/
   state:
     shortLink: https://webring.page.link/Jjch
+c9451dcb08803f6af7e329e9a13ff649:bluesky:
+  spec:
+    title: Update n8n 1.106.3 > 2.9.4 มีอะไรเปลี่ยนแปลงบ้าง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/update-n8n-1-106-3-to-2-9-4-changenote/
+  state:
+    cid: bafyreiakmsm3muvkkwsg4mkvzxgm5hm4m2u3eiah3t4d5qs4yy6a6rk6qq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mg7gv52s5h2t
+c9451dcb08803f6af7e329e9a13ff649:facebook:
+  spec:
+    title: Update n8n 1.106.3 > 2.9.4 มีอะไรเปลี่ยนแปลงบ้าง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/update-n8n-1-106-3-to-2-9-4-changenote/
+  state:
+    id: '100746876247412_909305322058711'
+    url: https://www.facebook.com/100683012920950/posts/909305322058711
+c9451dcb08803f6af7e329e9a13ff649:mastodon:
+  spec:
+    title: Update n8n 1.106.3 > 2.9.4 มีอะไรเปลี่ยนแปลงบ้าง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/update-n8n-1-106-3-to-2-9-4-changenote/
+  state:
+    id: '116169003893540430'
+    url: https://mastodon.in.th/@webring/116169003893540430
+c9451dcb08803f6af7e329e9a13ff649:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/03/update-n8n-1-106-3-to-2-9-4-changenote/
+  state:
+    shortLink: https://link.webring.in.th/3006
 c968d875dae5e9d9afb80e13bae7b6b1:facebook:
   spec:
     title: มาลองใช้งาน Garnet จาก Microsoft [somkiat.cc]
