@@ -13047,6 +13047,32 @@
     url: https://www.somkiat.cc/gorm-er-diagram-with-atlas/
   state:
     shortLink: https://webring.page.link/yQ5L
+4df559f6bba037cc31e2e6198568d63c:bluesky:
+  spec:
+    title: 'บันทึกวันอังคาร: เมื่อความผิดพลาดสอนให้รู้จักระวัง — และแสงสว่างจาก Headlamp ส่องทาง [myifew.com]'
+    url: https://myifew.com/7230/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b1%e0%b8%87%e0%b8%84%e0%b8%b2%e0%b8%a3-%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%84%e0%b8%a7/
+  state:
+    cid: bafyreidmfhzxuewmbomxalwsd3ioeoou55zrbqdpgmdv5tafz3igy5ajxu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mg7ocjbdzc2a
+4df559f6bba037cc31e2e6198568d63c:facebook:
+  spec:
+    title: 'บันทึกวันอังคาร: เมื่อความผิดพลาดสอนให้รู้จักระวัง — และแสงสว่างจาก Headlamp ส่องทาง [myifew.com]'
+    url: https://myifew.com/7230/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b1%e0%b8%87%e0%b8%84%e0%b8%b2%e0%b8%a3-%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%84%e0%b8%a7/
+  state:
+    id: '100746876247412_909368748719035'
+    url: https://www.facebook.com/100683012920950/posts/909368748719035
+4df559f6bba037cc31e2e6198568d63c:mastodon:
+  spec:
+    title: 'บันทึกวันอังคาร: เมื่อความผิดพลาดสอนให้รู้จักระวัง — และแสงสว่างจาก Headlamp ส่องทาง [myifew.com]'
+    url: https://myifew.com/7230/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b1%e0%b8%87%e0%b8%84%e0%b8%b2%e0%b8%a3-%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%84%e0%b8%a7/
+  state:
+    id: '116169525685267592'
+    url: https://mastodon.in.th/@webring/116169525685267592
+4df559f6bba037cc31e2e6198568d63c:shorturl:
+  spec:
+    url: https://myifew.com/7230/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b1%e0%b8%87%e0%b8%84%e0%b8%b2%e0%b8%a3-%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%84%e0%b8%a7/
+  state:
+    shortLink: https://link.webring.in.th/3007
 4e0967fe2a5489597e0860dfc2352242:facebook:
   spec:
     title: 'Robot framework​ :: การจัดการ notificationใน browser [somkiat.cc]'
