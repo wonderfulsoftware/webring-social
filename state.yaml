@@ -29606,6 +29606,32 @@ aaed558a7930462912c88380645fbbea:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/10/use-nuget-explorer-for-pack-dll-as-nuget-package-ext-nupkg-english-blog/
   state:
     shortLink: https://link.webring.in.th/2832
+aaf06d39b4615c67d47cb6b21e5316c8:bluesky:
+  spec:
+    title: มาลองใช้งาน Agent Scan จาก Synk เพื่อ scan AI Agent, MCP server และ Agent skills [somkiat.cc]
+    url: https://www.somkiat.cc/agent-scan-with-security/
+  state:
+    cid: bafyreihfz7jseaexvugdadxnepf4b6fffpljlef4aqtwd6gqqtab53ihp4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgct6k7o4a2u
+aaf06d39b4615c67d47cb6b21e5316c8:facebook:
+  spec:
+    title: มาลองใช้งาน Agent Scan จาก Synk เพื่อ scan AI Agent, MCP server และ Agent skills [somkiat.cc]
+    url: https://www.somkiat.cc/agent-scan-with-security/
+  state:
+    id: '100746876247412_910306568625253'
+    url: https://www.facebook.com/100683012920950/posts/910306568625253
+aaf06d39b4615c67d47cb6b21e5316c8:mastodon:
+  spec:
+    title: มาลองใช้งาน Agent Scan จาก Synk เพื่อ scan AI Agent, MCP server และ Agent skills [somkiat.cc]
+    url: https://www.somkiat.cc/agent-scan-with-security/
+  state:
+    id: '116176624324206245'
+    url: https://mastodon.in.th/@webring/116176624324206245
+aaf06d39b4615c67d47cb6b21e5316c8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/agent-scan-with-security/
+  state:
+    shortLink: https://link.webring.in.th/3011
 aaf877059c5822ad544decf67851c49d:facebook:
   spec:
     title: รู้จักกับ Auth0 [mikelopster.dev]
