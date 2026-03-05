@@ -6106,6 +6106,32 @@
     url: https://karnwong.me/posts/2024/10/various-notes-on-career-related-stuff/
   state:
     shortLink: https://link.webring.in.th/2199
+236281a68d8e00d22044b3b543980529:bluesky:
+  spec:
+    title: 6 Pillars of code quality [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/6-pillars-of-code-quality-th/
+  state:
+    cid: bafyreifr6bml4cafs7qxv4swagipf6qaiwx6t5o5iiiuojm3c5jgzwmimu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgc6y3zsni2v
+236281a68d8e00d22044b3b543980529:facebook:
+  spec:
+    title: 6 Pillars of code quality [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/6-pillars-of-code-quality-th/
+  state:
+    id: '100746876247412_910123941976849'
+    url: https://www.facebook.com/100683012920950/posts/910123941976849
+236281a68d8e00d22044b3b543980529:mastodon:
+  spec:
+    title: 6 Pillars of code quality [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/6-pillars-of-code-quality-th/
+  state:
+    id: '116175202914020419'
+    url: https://mastodon.in.th/@webring/116175202914020419
+236281a68d8e00d22044b3b543980529:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/03/6-pillars-of-code-quality-th/
+  state:
+    shortLink: https://link.webring.in.th/3009
 236641d92fe400114e1be5fde6ca0064:bluesky:
   spec:
     title: สรุปงาน .NET Conf TH 2025 [debuggingsoft.com]
