@@ -26583,6 +26583,32 @@
     url: https://garden.narze.live/Why-I-use-Arc-Browser/
   state:
     shortLink: https://webring.page.link/XD65
+99874a93970a0949b56378c190f48783:bluesky:
+  spec:
+    title: 7 เทคนิคป้องกันแพ้ความสูง (Altitude Sickness) ฉบับนักเทรคกิ้ง! 🏔️ [myifew.com]
+    url: https://myifew.com/7234/7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%9b%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%9e%e0%b9%89%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%aa%e0%b8%b9/
+  state:
+    cid: bafyreiairt3cyfdoeug3epd3izd5jw7dhtzq6wfktfyo2ei5vpzkjbi4ga
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgciphaovb2f
+99874a93970a0949b56378c190f48783:facebook:
+  spec:
+    title: 7 เทคนิคป้องกันแพ้ความสูง (Altitude Sickness) ฉบับนักเทรคกิ้ง! 🏔️ [myifew.com]
+    url: https://myifew.com/7234/7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%9b%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%9e%e0%b9%89%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%aa%e0%b8%b9/
+  state:
+    id: '100746876247412_910205631968680'
+    url: https://www.facebook.com/100683012920950/posts/910205631968680
+99874a93970a0949b56378c190f48783:mastodon:
+  spec:
+    title: 7 เทคนิคป้องกันแพ้ความสูง (Altitude Sickness) ฉบับนักเทรคกิ้ง! 🏔️ [myifew.com]
+    url: https://myifew.com/7234/7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%9b%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%9e%e0%b9%89%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%aa%e0%b8%b9/
+  state:
+    id: '116175887123285274'
+    url: https://mastodon.in.th/@webring/116175887123285274
+99874a93970a0949b56378c190f48783:shorturl:
+  spec:
+    url: https://myifew.com/7234/7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%9b%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%9e%e0%b9%89%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%aa%e0%b8%b9/
+  state:
+    shortLink: https://link.webring.in.th/3010
 99a395c9356cf0646c65136c3e45c7e4:facebook:
   spec:
     title: ตั้งชื่อ Unit Test กันยังไงนะ ? [debuggingsoft.com]
