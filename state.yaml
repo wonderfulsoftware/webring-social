@@ -24410,6 +24410,32 @@
     url: https://www.somkiat.cc/observability-with-grafana-platform/
   state:
     shortLink: https://webring.page.link/8Hxo
+8c19d5908c88678f6a85ac44a987d033:bluesky:
+  spec:
+    title: Update Plan March 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-march-2026
+  state:
+    cid: bafyreidk6jikrnbw6jtg5pol33dbtjr4ug43joc53dcxoglvtsuioisake
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgbyadmbfc2k
+8c19d5908c88678f6a85ac44a987d033:facebook:
+  spec:
+    title: Update Plan March 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-march-2026
+  state:
+    id: '100746876247412_910063548649555'
+    url: https://www.facebook.com/100683012920950/posts/910063548649555
+8c19d5908c88678f6a85ac44a987d033:mastodon:
+  spec:
+    title: Update Plan March 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-march-2026
+  state:
+    id: '116174728299582366'
+    url: https://mastodon.in.th/@webring/116174728299582366
+8c19d5908c88678f6a85ac44a987d033:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/update-plan-march-2026
+  state:
+    shortLink: https://link.webring.in.th/3008
 8c90426c8265e985cb8a5374c142a398:bluesky:
   spec:
     title: '[CR] Starbucks Parisian Ham 3 Cheeses Multigrain [debuggingsoft.com]'
