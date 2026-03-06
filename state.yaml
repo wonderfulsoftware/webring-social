@@ -682,6 +682,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/11/devexpress-xtrareport-hide-header-on-last-page-if-no-record/
   state:
     shortLink: https://link.webring.in.th/2849
+03fde55f9f1b67210eb5670bcfa3aea0:bluesky:
+  spec:
+    title: บันทึกวันที่ทุกอย่างเริ่มเข้าที่เข้าทาง 🌸 [myifew.com]
+    url: https://myifew.com/7255/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%a3/
+  state:
+    cid: bafyreiepqtcn6znvzl5bfbjgq5pugep2god7faoalcitzjctknbvpxzg24
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgepb57r5g2f
+03fde55f9f1b67210eb5670bcfa3aea0:facebook:
+  spec:
+    title: บันทึกวันที่ทุกอย่างเริ่มเข้าที่เข้าทาง 🌸 [myifew.com]
+    url: https://myifew.com/7255/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%a3/
+  state:
+    id: '100746876247412_910857815236795'
+    url: https://www.facebook.com/100683012920950/posts/910857815236795
+03fde55f9f1b67210eb5670bcfa3aea0:mastodon:
+  spec:
+    title: บันทึกวันที่ทุกอย่างเริ่มเข้าที่เข้าทาง 🌸 [myifew.com]
+    url: https://myifew.com/7255/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%a3/
+  state:
+    id: '116180851747145373'
+    url: https://mastodon.in.th/@webring/116180851747145373
+03fde55f9f1b67210eb5670bcfa3aea0:shorturl:
+  spec:
+    url: https://myifew.com/7255/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%a3/
+  state:
+    shortLink: https://link.webring.in.th/3013
 03ff427d89b2ff60d0b2b157030e431c:bluesky:
   spec:
     title: '[maven] build container image with Buildpacks [debuggingsoft.com]'
