@@ -8609,6 +8609,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/09/wp-updating-failed-could-not-update-post-in-the-database/
   state:
     shortLink: https://link.webring.in.th/2756
+326463c5b7327ad5a624a6d10eb99e3d:bluesky:
+  spec:
+    title: ใช้งาน RTK-AI สำหรับลดขนาด output ของคำสั่งต่าง ๆ ใน terminal [somkiat.cc]
+    url: https://www.somkiat.cc/use-rtk-ai-with-terminal/
+  state:
+    cid: bafyreiej4c3iapj7azvwr7ylm5fwqcdc3dh2gqf2uyfzca5lwauulfevy4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgehwvt2s32u
+326463c5b7327ad5a624a6d10eb99e3d:facebook:
+  spec:
+    title: ใช้งาน RTK-AI สำหรับลดขนาด output ของคำสั่งต่าง ๆ ใน terminal [somkiat.cc]
+    url: https://www.somkiat.cc/use-rtk-ai-with-terminal/
+  state:
+    id: '100746876247412_910795051909738'
+    url: https://www.facebook.com/100683012920950/posts/910795051909738
+326463c5b7327ad5a624a6d10eb99e3d:mastodon:
+  spec:
+    title: ใช้งาน RTK-AI สำหรับลดขนาด output ของคำสั่งต่าง ๆ ใน terminal [somkiat.cc]
+    url: https://www.somkiat.cc/use-rtk-ai-with-terminal/
+  state:
+    id: '116180337137211059'
+    url: https://mastodon.in.th/@webring/116180337137211059
+326463c5b7327ad5a624a6d10eb99e3d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/use-rtk-ai-with-terminal/
+  state:
+    shortLink: https://link.webring.in.th/3012
 328cce8c84965761f8b3dc872938e79f:bluesky:
   spec:
     title: Upserting data into Grist using n8n [dt.in.th]
