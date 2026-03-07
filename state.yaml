@@ -6134,21 +6134,21 @@
     shortLink: https://link.webring.in.th/2199
 236281a68d8e00d22044b3b543980529:bluesky:
   spec:
-    title: 6 Pillars of code quality [debuggingsoft.com]
+    title: สรุป 6 Pillars of code quality [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2026/03/6-pillars-of-code-quality-th/
   state:
     cid: bafyreifr6bml4cafs7qxv4swagipf6qaiwx6t5o5iiiuojm3c5jgzwmimu
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgc6y3zsni2v
 236281a68d8e00d22044b3b543980529:facebook:
   spec:
-    title: 6 Pillars of code quality [debuggingsoft.com]
+    title: สรุป 6 Pillars of code quality [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2026/03/6-pillars-of-code-quality-th/
   state:
     id: '100746876247412_910123941976849'
     url: https://www.facebook.com/100683012920950/posts/910123941976849
 236281a68d8e00d22044b3b543980529:mastodon:
   spec:
-    title: 6 Pillars of code quality [debuggingsoft.com]
+    title: สรุป 6 Pillars of code quality [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2026/03/6-pillars-of-code-quality-th/
   state:
     id: '116175202914020419'
@@ -16115,6 +16115,32 @@
     url: https://www.somkiat.cc/note-microservices-sharing-at-skooldio-13/
   state:
     shortLink: https://webring.page.link/hukJ
+5f821b9b08514ffca54ca9361029070a:bluesky:
+  spec:
+    title: 7 เทคนิคเดินป่าหน้าร้อนอย่างปลอดภัย — ฉบับนักเทรคกิ้ง 2026\! [myifew.com]
+    url: https://myifew.com/7280/7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%99%e0%b8%ad/
+  state:
+    cid: bafyreibnlur2lbdlt36e6orahid2vrq4hvngyib4xevtrg7meapcfcnmle
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mggxvlcfn62k
+5f821b9b08514ffca54ca9361029070a:facebook:
+  spec:
+    title: 7 เทคนิคเดินป่าหน้าร้อนอย่างปลอดภัย — ฉบับนักเทรคกิ้ง 2026\! [myifew.com]
+    url: https://myifew.com/7280/7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%99%e0%b8%ad/
+  state:
+    id: '100746876247412_911542265168350'
+    url: https://www.facebook.com/100683012920950/posts/911542265168350
+5f821b9b08514ffca54ca9361029070a:mastodon:
+  spec:
+    title: 7 เทคนิคเดินป่าหน้าร้อนอย่างปลอดภัย — ฉบับนักเทรคกิ้ง 2026\! [myifew.com]
+    url: https://myifew.com/7280/7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%99%e0%b8%ad/
+  state:
+    id: '116185963308288492'
+    url: https://mastodon.in.th/@webring/116185963308288492
+5f821b9b08514ffca54ca9361029070a:shorturl:
+  spec:
+    url: https://myifew.com/7280/7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%99%e0%b8%ad/
+  state:
+    shortLink: https://link.webring.in.th/3014
 5f9cd4cd7dc06a46eb579da6f689f257:bluesky:
   spec:
     title: มาลองใช้ Obsidian คู่กับ Astro กันเถอะ! [blog.luckytime1996.dev]
