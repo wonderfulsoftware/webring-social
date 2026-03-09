@@ -18044,6 +18044,32 @@
     url: https://notes.dt.in.th/FreeTypeJSBlackWhiteText
   state:
     shortLink: https://link.webring.in.th/1890
+692005aa0ddbb1962389f86159daebcd:bluesky:
+  spec:
+    title: หนึ่งในแนวทางการลดจำนวน token ด้วย Smart Model Routing [somkiat.cc]
+    url: https://www.somkiat.cc/smart-model-routing-with-plano/
+  state:
+    cid: bafyreicjc4pnrekjh3ukbkjsw2kxpodwpygnf5kmaz2t37gjev3lhhvtiy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgmbirganv2n
+692005aa0ddbb1962389f86159daebcd:facebook:
+  spec:
+    title: หนึ่งในแนวทางการลดจำนวน token ด้วย Smart Model Routing [somkiat.cc]
+    url: https://www.somkiat.cc/smart-model-routing-with-plano/
+  state:
+    id: '100746876247412_913136815008895'
+    url: https://www.facebook.com/100683012920950/posts/913136815008895
+692005aa0ddbb1962389f86159daebcd:mastodon:
+  spec:
+    title: หนึ่งในแนวทางการลดจำนวน token ด้วย Smart Model Routing [somkiat.cc]
+    url: https://www.somkiat.cc/smart-model-routing-with-plano/
+  state:
+    id: '116197898122446449'
+    url: https://mastodon.in.th/@webring/116197898122446449
+692005aa0ddbb1962389f86159daebcd:shorturl:
+  spec:
+    url: https://www.somkiat.cc/smart-model-routing-with-plano/
+  state:
+    shortLink: https://link.webring.in.th/3017
 6933f70422dc4ce0706e48123ce9d282:bluesky:
   spec:
     title: เขียนโค้ดด้วยหลักการ SOLID ด้วย JavaScript [amiearth.com]
