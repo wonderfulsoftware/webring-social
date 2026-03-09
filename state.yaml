@@ -39960,6 +39960,32 @@ e708470a2975e5b696cd986ace5b9348:shorturl:
     url: https://www.somkiat.cc/note-line-conference-thailand-2023/
   state:
     shortLink: https://webring.page.link/hwtu
+e721e8f2e647a78abaac08443f4160b6:bluesky:
+  spec:
+    title: บันทึกวันที่ 8 มีนาคม 2026 — วันแห่งความภาคภูมิใจ [myifew.com]
+    url: https://myifew.com/7307/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-8-%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%a1-2026-%e0%b8%a7%e0%b8%b1/
+  state:
+    cid: bafyreiarx3uuxuf27opu7s6hrgrrehikgxx5sfl2trzqw5i3icm7mffh64
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgmkuvkfti2y
+e721e8f2e647a78abaac08443f4160b6:facebook:
+  spec:
+    title: บันทึกวันที่ 8 มีนาคม 2026 — วันแห่งความภาคภูมิใจ [myifew.com]
+    url: https://myifew.com/7307/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-8-%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%a1-2026-%e0%b8%a7%e0%b8%b1/
+  state:
+    id: '100746876247412_913221035000473'
+    url: https://www.facebook.com/100683012920950/posts/913221035000473
+e721e8f2e647a78abaac08443f4160b6:mastodon:
+  spec:
+    title: บันทึกวันที่ 8 มีนาคม 2026 — วันแห่งความภาคภูมิใจ [myifew.com]
+    url: https://myifew.com/7307/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-8-%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%a1-2026-%e0%b8%a7%e0%b8%b1/
+  state:
+    id: '116198558016032461'
+    url: https://mastodon.in.th/@webring/116198558016032461
+e721e8f2e647a78abaac08443f4160b6:shorturl:
+  spec:
+    url: https://myifew.com/7307/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-8-%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%a1-2026-%e0%b8%a7%e0%b8%b1/
+  state:
+    shortLink: https://link.webring.in.th/3018
 e767273327732b9b733efc2d47f3198a:facebook:
   spec:
     title: 'แชร์การเตรียมตัวและคำแนะนำในการสอบ Google Cloud Certification: Data Engineer ปี 2024… [mesodiar.com]'
