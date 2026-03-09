@@ -12452,6 +12452,32 @@
     url: https://mymoneytoolkit.app/posts/port-usa
   state:
     shortLink: https://link.webring.in.th/2239
+4ad32db0cb1d77c6aba8586c002c5d31:bluesky:
+  spec:
+    title: สรุปงาน FOSSASIA 2026 Community Day [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-fossasia-2026-community-day-th/
+  state:
+    cid: bafyreidbsigdcvfir7kr5bxtgwh57plmu3lndo6zu3u7ocgf2rcavevycm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgm2gcft7n2n
+4ad32db0cb1d77c6aba8586c002c5d31:facebook:
+  spec:
+    title: สรุปงาน FOSSASIA 2026 Community Day [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-fossasia-2026-community-day-th/
+  state:
+    id: '100746876247412_913078281681415'
+    url: https://www.facebook.com/100683012920950/posts/913078281681415
+4ad32db0cb1d77c6aba8586c002c5d31:mastodon:
+  spec:
+    title: สรุปงาน FOSSASIA 2026 Community Day [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-fossasia-2026-community-day-th/
+  state:
+    id: '116197400152667643'
+    url: https://mastodon.in.th/@webring/116197400152667643
+4ad32db0cb1d77c6aba8586c002c5d31:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-fossasia-2026-community-day-th/
+  state:
+    shortLink: https://link.webring.in.th/3016
 4b07b4990059066df6cf4d6f52f1c604:facebook:
   spec:
     title: แชร์วิธีการเทส deeplink สำหรับ Android Developer [mikkipastel.com]
