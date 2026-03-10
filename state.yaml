@@ -27158,6 +27158,32 @@
     url: https://www.poolsawat.com/nvm-useful-js-developer/
   state:
     shortLink: https://webring.page.link/DqEJ
+9c1a86e6ecc0b825f8b674d7ff2ec518:bluesky:
+  spec:
+    title: 7 ข่าวท่องเที่ยวธรรมชาติประจำวัน — 9 มีนาคม 2026 [myifew.com]
+    url: https://myifew.com/7311/7-%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7%e0%b8%97%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b8%98%e0%b8%a3%e0%b8%a3%e0%b8%a1%e0%b8%8a%e0%b8%b2%e0%b8%95-15/
+  state:
+    cid: bafyreidj4y5ngbsr4gznf2rmp6qpkwhdbors2u3mauvux5clrecqhwproa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgojrmsglv2w
+9c1a86e6ecc0b825f8b674d7ff2ec518:facebook:
+  spec:
+    title: 7 ข่าวท่องเที่ยวธรรมชาติประจำวัน — 9 มีนาคม 2026 [myifew.com]
+    url: https://myifew.com/7311/7-%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7%e0%b8%97%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b8%98%e0%b8%a3%e0%b8%a3%e0%b8%a1%e0%b8%8a%e0%b8%b2%e0%b8%95-15/
+  state:
+    id: '100746876247412_913807811608462'
+    url: https://www.facebook.com/100683012920950/posts/913807811608462
+9c1a86e6ecc0b825f8b674d7ff2ec518:mastodon:
+  spec:
+    title: 7 ข่าวท่องเที่ยวธรรมชาติประจำวัน — 9 มีนาคม 2026 [myifew.com]
+    url: https://myifew.com/7311/7-%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7%e0%b8%97%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b8%98%e0%b8%a3%e0%b8%a3%e0%b8%a1%e0%b8%8a%e0%b8%b2%e0%b8%95-15/
+  state:
+    id: '116202983790558167'
+    url: https://mastodon.in.th/@webring/116202983790558167
+9c1a86e6ecc0b825f8b674d7ff2ec518:shorturl:
+  spec:
+    url: https://myifew.com/7311/7-%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7%e0%b8%97%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b8%98%e0%b8%a3%e0%b8%a3%e0%b8%a1%e0%b8%8a%e0%b8%b2%e0%b8%95-15/
+  state:
+    shortLink: https://link.webring.in.th/3019
 9c1ff4912cd6c5fd7ea8f556bb20c123:bluesky:
   spec:
     title: Google Sheet ดู EMA หลายหุ้นพร้อมกัน [mymoneytoolkit.app]
