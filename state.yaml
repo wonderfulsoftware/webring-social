@@ -41261,6 +41261,32 @@ edeb94abe2f98a95e84818306238de37:shorturl:
     url: https://www.karnwong.me/posts/2023/08/create-kubernetes-service-accounts-with-terraform/
   state:
     shortLink: https://webring.page.link/ieeR
+ee02ccbc3d8c74d7cdde39e0593c3b8a:bluesky:
+  spec:
+    title: 'AgentsView :: ทำการ monitor session ต่าง ๆ ของ AI Agent [somkiat.cc]'
+    url: https://www.somkiat.cc/agentsview-monitor-ai-agent/
+  state:
+    cid: bafyreidzt4edsssvottp36b5l5kmyzcxnicn2kgzt5zpbpsh7wv6ahj3ui
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgp33lqqxc2b
+ee02ccbc3d8c74d7cdde39e0593c3b8a:facebook:
+  spec:
+    title: 'AgentsView :: ทำการ monitor session ต่าง ๆ ของ AI Agent [somkiat.cc]'
+    url: https://www.somkiat.cc/agentsview-monitor-ai-agent/
+  state:
+    id: '100746876247412_913955894926987'
+    url: https://www.facebook.com/100683012920950/posts/913955894926987
+ee02ccbc3d8c74d7cdde39e0593c3b8a:mastodon:
+  spec:
+    title: 'AgentsView :: ทำการ monitor session ต่าง ๆ ของ AI Agent [somkiat.cc]'
+    url: https://www.somkiat.cc/agentsview-monitor-ai-agent/
+  state:
+    id: '116204202374701479'
+    url: https://mastodon.in.th/@webring/116204202374701479
+ee02ccbc3d8c74d7cdde39e0593c3b8a:shorturl:
+  spec:
+    url: https://www.somkiat.cc/agentsview-monitor-ai-agent/
+  state:
+    shortLink: https://link.webring.in.th/3021
 ee22cbeffe6e048cde35897709cf1337:facebook:
   spec:
     title: Configuring Open WebUI and LiteLLM with Docker Compose to talk to OpenAI, Anthropic, and Gemini APIs [dt.in.th]
