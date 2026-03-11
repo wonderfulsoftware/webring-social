@@ -25177,6 +25177,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/01/install-excalidraw-self-hosted-docker/
   state:
     shortLink: https://link.webring.in.th/1732
+90a861cb8fc082381c5b89c27827c824:bluesky:
+  spec:
+    title: Step Create PKCS#12 Self Cert Note (Dev) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/step-create-pkcs12-self-cert-note-dev/
+  state:
+    cid: bafyreibl6tsjktkhpbf7mgtoe7pnwkrqiecws7qpruzy4iql3fluidd4me
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgrbt6ilw62u
+90a861cb8fc082381c5b89c27827c824:facebook:
+  spec:
+    title: Step Create PKCS#12 Self Cert Note (Dev) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/step-create-pkcs12-self-cert-note-dev/
+  state:
+    id: '100746876247412_914611024861474'
+    url: https://www.facebook.com/100683012920950/posts/914611024861474
+90a861cb8fc082381c5b89c27827c824:mastodon:
+  spec:
+    title: Step Create PKCS#12 Self Cert Note (Dev) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/step-create-pkcs12-self-cert-note-dev/
+  state:
+    id: '116209180112479334'
+    url: https://mastodon.in.th/@webring/116209180112479334
+90a861cb8fc082381c5b89c27827c824:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/03/step-create-pkcs12-self-cert-note-dev/
+  state:
+    shortLink: https://link.webring.in.th/3023
 90aeabf2da6a3a7817e0001f5f81656f:bluesky:
   spec:
     title: ทำความรู้จักกับ Mono และ Flux [poolsawat.com]
