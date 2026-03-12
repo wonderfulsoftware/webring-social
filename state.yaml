@@ -24798,6 +24798,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/08/using-service-auth-for-gitea-access-via-cloudflare-tunnel/
   state:
     shortLink: https://link.webring.in.th/2685
+8df0db2644a471c47dfd53ae89cb18bc:bluesky:
+  spec:
+    title: ดอยหลวงเชียงดาว — ยอดเขาหินปูนสูงสุดในไทย 2,275 เมตร [myifew.com]
+    url: https://myifew.com/7331/%e0%b8%94%e0%b8%ad%e0%b8%a2%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87%e0%b9%80%e0%b8%8a%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%94%e0%b8%b2%e0%b8%a7-%e0%b8%a2%e0%b8%ad%e0%b8%94%e0%b9%80%e0%b8%82%e0%b8%b2/
+  state:
+    cid: bafyreihi4ajlhgifcnxazq4x22lcdtlmnixymsu7qjcyzhapq3nhiazbce
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgtlm3l6ov2a
+8df0db2644a471c47dfd53ae89cb18bc:facebook:
+  spec:
+    title: ดอยหลวงเชียงดาว — ยอดเขาหินปูนสูงสุดในไทย 2,275 เมตร [myifew.com]
+    url: https://myifew.com/7331/%e0%b8%94%e0%b8%ad%e0%b8%a2%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87%e0%b9%80%e0%b8%8a%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%94%e0%b8%b2%e0%b8%a7-%e0%b8%a2%e0%b8%ad%e0%b8%94%e0%b9%80%e0%b8%82%e0%b8%b2/
+  state:
+    id: '100746876247412_915315464791030'
+    url: https://www.facebook.com/100683012920950/posts/915315464791030
+8df0db2644a471c47dfd53ae89cb18bc:mastodon:
+  spec:
+    title: ดอยหลวงเชียงดาว — ยอดเขาหินปูนสูงสุดในไทย 2,275 เมตร [myifew.com]
+    url: https://myifew.com/7331/%e0%b8%94%e0%b8%ad%e0%b8%a2%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87%e0%b9%80%e0%b8%8a%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%94%e0%b8%b2%e0%b8%a7-%e0%b8%a2%e0%b8%ad%e0%b8%94%e0%b9%80%e0%b8%82%e0%b8%b2/
+  state:
+    id: '116214371385854679'
+    url: https://mastodon.in.th/@webring/116214371385854679
+8df0db2644a471c47dfd53ae89cb18bc:shorturl:
+  spec:
+    url: https://myifew.com/7331/%e0%b8%94%e0%b8%ad%e0%b8%a2%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87%e0%b9%80%e0%b8%8a%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%94%e0%b8%b2%e0%b8%a7-%e0%b8%a2%e0%b8%ad%e0%b8%94%e0%b9%80%e0%b8%82%e0%b8%b2/
+  state:
+    shortLink: https://link.webring.in.th/3024
 8df86ba058b181b3a251b38aa69721ab:facebook:
   spec:
     title: ลบ Line ข้อมูล Chat พวกรูป/วิดีโอ/ไฟล์ เพื่อคืนพื้นที่ให้เครื่อง [debuggingsoft.com]
