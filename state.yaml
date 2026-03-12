@@ -9213,6 +9213,32 @@
     url: https://www.mikkipastel.com/kotlin-meetup-2024-1-kotlin-multiplatform/
   state:
     shortLink: https://link.webring.in.th/2044
+35d9a83ac2c2de0c90789f93479647e6:bluesky:
+  spec:
+    title: ตั้งค่า Rclone ใช้งานร่วมกับ Cloudflare R2 อย่างง่ายในไม่กี่ขั้นตอน [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/rclone-cloudflare-r2
+  state:
+    cid: bafyreicwyfvt2w2lmma5v7auron7w75rf7z3n7i7cmokbawrfsgak74nue
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgu3xcddje2c
+35d9a83ac2c2de0c90789f93479647e6:facebook:
+  spec:
+    title: ตั้งค่า Rclone ใช้งานร่วมกับ Cloudflare R2 อย่างง่ายในไม่กี่ขั้นตอน [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/rclone-cloudflare-r2
+  state:
+    id: '100746876247412_915468964775680'
+    url: https://www.facebook.com/100683012920950/posts/915468964775680
+35d9a83ac2c2de0c90789f93479647e6:mastodon:
+  spec:
+    title: ตั้งค่า Rclone ใช้งานร่วมกับ Cloudflare R2 อย่างง่ายในไม่กี่ขั้นตอน [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/rclone-cloudflare-r2
+  state:
+    id: '116215522352624835'
+    url: https://mastodon.in.th/@webring/116215522352624835
+35d9a83ac2c2de0c90789f93479647e6:shorturl:
+  spec:
+    url: https://creaml4tt3.me/blogs/rclone-cloudflare-r2
+  state:
+    shortLink: https://link.webring.in.th/3025
 35ee816d5ab5f6aea0a23b7ec2f61a85:bluesky:
   spec:
     title: แวะมาฟัง Lead Engineer Meetup [debuggingsoft.com]
