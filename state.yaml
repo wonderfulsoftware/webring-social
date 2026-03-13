@@ -36564,6 +36564,32 @@ cfdabbf12e2e8ca7c36ce2ffd38c08ca:shorturl:
     url: https://www.mikkipastel.com/create-android-widget-first-time-by-jetpack-glance/
   state:
     shortLink: https://link.webring.in.th/2254
+cfdf8eb9b9db7c9aff46c50de80d3d7c:bluesky:
+  spec:
+    title: มาฟังแรงบันดาลใจกับงาน Samsung Creator Day [mikkipastel.com]
+    url: https://www.mikkipastel.com/samsung-creator-day-insprired-by-sansung-s26-ultra/
+  state:
+    cid: bafyreic6ofwhg5zzhnayh7tiqwvw55facqem6uz7hymxbkuztipnrebtqi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgwcq7ryoi2t
+cfdf8eb9b9db7c9aff46c50de80d3d7c:facebook:
+  spec:
+    title: มาฟังแรงบันดาลใจกับงาน Samsung Creator Day [mikkipastel.com]
+    url: https://www.mikkipastel.com/samsung-creator-day-insprired-by-sansung-s26-ultra/
+  state:
+    id: '100746876247412_916180068037903'
+    url: https://www.facebook.com/100683012920950/posts/916180068037903
+cfdf8eb9b9db7c9aff46c50de80d3d7c:mastodon:
+  spec:
+    title: มาฟังแรงบันดาลใจกับงาน Samsung Creator Day [mikkipastel.com]
+    url: https://www.mikkipastel.com/samsung-creator-day-insprired-by-sansung-s26-ultra/
+  state:
+    id: '116220502951261052'
+    url: https://mastodon.in.th/@webring/116220502951261052
+cfdf8eb9b9db7c9aff46c50de80d3d7c:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/samsung-creator-day-insprired-by-sansung-s26-ultra/
+  state:
+    shortLink: https://link.webring.in.th/3027
 d01a321743a082aac7f03c8107fad21e:facebook:
   spec:
     title: การสร้าง Coroutine Task in Python [poolsawat.com]
