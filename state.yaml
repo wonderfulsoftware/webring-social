@@ -23104,6 +23104,32 @@
     url: https://mikelopster.dev/posts/react-storybook/
   state:
     shortLink: https://link.webring.in.th/1751
+8432c60cfe71cba5a317c892616e1825:bluesky:
+  spec:
+    title: ทำความรู้จักกับ Gemini embedding 2 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/gemini-embedding-2-preview/
+  state:
+    cid: bafyreigo32avfajvegj5pf3nrlppggonukmis6pz7ove4b2djxljykek6q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgw3wouuwf2f
+8432c60cfe71cba5a317c892616e1825:facebook:
+  spec:
+    title: ทำความรู้จักกับ Gemini embedding 2 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/gemini-embedding-2-preview/
+  state:
+    id: '100746876247412_916118691377374'
+    url: https://www.facebook.com/100683012920950/posts/916118691377374
+8432c60cfe71cba5a317c892616e1825:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Gemini embedding 2 กัน [somkiat.cc]
+    url: https://www.somkiat.cc/gemini-embedding-2-preview/
+  state:
+    id: '116220024641897901'
+    url: https://mastodon.in.th/@webring/116220024641897901
+8432c60cfe71cba5a317c892616e1825:shorturl:
+  spec:
+    url: https://www.somkiat.cc/gemini-embedding-2-preview/
+  state:
+    shortLink: https://link.webring.in.th/3026
 8461743865a0c989c57aa3193ca7b58a:bluesky:
   spec:
     title: สร้างระบบสั่งสินค้าผ่าน LINE OA ฟรี! ใช้แค่ HTML + Google Sheet + Google Apps Script [janescience.com]
