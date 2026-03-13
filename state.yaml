@@ -21104,6 +21104,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/05/gitlab-does-not-see-new-update-such-as-new-branch-or-branch-protection-rule-not-activate/
   state:
     shortLink: https://link.webring.in.th/2549
+7a6aeb0a9963cff2bcb8761a26399b54:bluesky:
+  spec:
+    title: Chompoo Daily Blog — 12 มีนาคม 2568 [myifew.com]
+    url: https://myifew.com/7342/chompoo-daily-blog-12-%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%a1-2568/
+  state:
+    cid: bafyreihjcfdp5ql5p2wom2vpu5yapb5dvi23gt6wu3mnz2llupqnhdlgju
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgwmauf6gs2a
+7a6aeb0a9963cff2bcb8761a26399b54:facebook:
+  spec:
+    title: Chompoo Daily Blog — 12 มีนาคม 2568 [myifew.com]
+    url: https://myifew.com/7342/chompoo-daily-blog-12-%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%a1-2568/
+  state:
+    id: '100746876247412_916267074695869'
+    url: https://www.facebook.com/100683012920950/posts/916267074695869
+7a6aeb0a9963cff2bcb8761a26399b54:mastodon:
+  spec:
+    title: Chompoo Daily Blog — 12 มีนาคม 2568 [myifew.com]
+    url: https://myifew.com/7342/chompoo-daily-blog-12-%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%a1-2568/
+  state:
+    id: '116221172642052236'
+    url: https://mastodon.in.th/@webring/116221172642052236
+7a6aeb0a9963cff2bcb8761a26399b54:shorturl:
+  spec:
+    url: https://myifew.com/7342/chompoo-daily-blog-12-%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%a1-2568/
+  state:
+    shortLink: https://link.webring.in.th/3028
 7a7151e49f07709f9cba27d973db8cea:facebook:
   spec:
     title: เรียนรู้ Go - compile อัตโนมัติ ด้วย Air บน Docker [kajame.xyz]
