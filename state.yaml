@@ -28942,6 +28942,32 @@ a51a992373d4e0f28f1e84418320f43c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/05/optimize-container-image-size/
   state:
     shortLink: https://webring.page.link/EvQH
+a51eef91fac49cab8468aaefb5ad018f:bluesky:
+  spec:
+    title: สรุป .NET Meetup – March 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-dotnet-meetup-march-2026/
+  state:
+    cid: bafyreiclbxsragsuafcmlztzqvdigu5qwdu2llavtmag75kjxiguzphfra
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgyloi7mha2f
+a51eef91fac49cab8468aaefb5ad018f:facebook:
+  spec:
+    title: สรุป .NET Meetup – March 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-dotnet-meetup-march-2026/
+  state:
+    id: '100746876247412_916895641299679'
+    url: https://www.facebook.com/100683012920950/posts/916895641299679
+a51eef91fac49cab8468aaefb5ad018f:mastodon:
+  spec:
+    title: สรุป .NET Meetup – March 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-dotnet-meetup-march-2026/
+  state:
+    id: '116225636093145404'
+    url: https://mastodon.in.th/@webring/116225636093145404
+a51eef91fac49cab8468aaefb5ad018f:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-dotnet-meetup-march-2026/
+  state:
+    shortLink: https://link.webring.in.th/3029
 a520b1e1461d8a1a9f30a683accafe3e:bluesky:
   spec:
     title: 'FOSSASIA 2026 Community Day: Event Recap [debuggingsoft.com]'
