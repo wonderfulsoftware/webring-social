@@ -36860,6 +36860,32 @@ d1555f71e97f3f0541e49accb83fc3a5:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/08/try-ratchapruek-bus-2-19-old-127/
   state:
     shortLink: https://webring.page.link/XR9X
+d17a55dd64386c1755c8c8f00ab1151c:bluesky:
+  spec:
+    title: ลอง Implement ใช้ Second Brain กับน้องกุ้ง OpenClaw [myifew.com]
+    url: https://myifew.com/7353/implement-second-brain-openclaw/
+  state:
+    cid: bafyreibsd4vcgby7u7bd7wsxcaz22746ac4fj2yn44sh7ljzmlfbkt445a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgzgxefj6e2y
+d17a55dd64386c1755c8c8f00ab1151c:facebook:
+  spec:
+    title: ลอง Implement ใช้ Second Brain กับน้องกุ้ง OpenClaw [myifew.com]
+    url: https://myifew.com/7353/implement-second-brain-openclaw/
+  state:
+    id: '100746876247412_917153037940606'
+    url: https://www.facebook.com/100683012920950/posts/917153037940606
+d17a55dd64386c1755c8c8f00ab1151c:mastodon:
+  spec:
+    title: ลอง Implement ใช้ Second Brain กับน้องกุ้ง OpenClaw [myifew.com]
+    url: https://myifew.com/7353/implement-second-brain-openclaw/
+  state:
+    id: '116227555180772934'
+    url: https://mastodon.in.th/@webring/116227555180772934
+d17a55dd64386c1755c8c8f00ab1151c:shorturl:
+  spec:
+    url: https://myifew.com/7353/implement-second-brain-openclaw/
+  state:
+    shortLink: https://link.webring.in.th/3032
 d18a450fe4bbaf2fc11488d183d877e4:facebook:
   spec:
     title: ความเร็วกับคุณภาพและปัจจัยที่มองไม่เห็น [blog.ninprd.com]
