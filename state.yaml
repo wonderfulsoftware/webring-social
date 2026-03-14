@@ -41746,6 +41746,32 @@ ef0afef9d3c5abe506982b8c2f0d82b0:shorturl:
     url: https://blog.ninprd.com/blog/taiwan-boba-milk-tea-2024/
   state:
     shortLink: https://link.webring.in.th/1835
+ef1b92cbd5c395971dc47ce13fa5081b:bluesky:
+  spec:
+    title: สรุปเรื่อง 4 Patterns ของ AI Native Development [somkiat.cc]
+    url: https://www.somkiat.cc/note-4-patterns-of-ai-native-development/
+  state:
+    cid: bafyreiepvpswvmdmbxqltn4dxjj6bgsfnyepfmfdu7n3lne272ovxfjy3m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgz4dthng32n
+ef1b92cbd5c395971dc47ce13fa5081b:facebook:
+  spec:
+    title: สรุปเรื่อง 4 Patterns ของ AI Native Development [somkiat.cc]
+    url: https://www.somkiat.cc/note-4-patterns-of-ai-native-development/
+  state:
+    id: '100746876247412_917050967950813'
+    url: https://www.facebook.com/100683012920950/posts/917050967950813
+ef1b92cbd5c395971dc47ce13fa5081b:mastodon:
+  spec:
+    title: สรุปเรื่อง 4 Patterns ของ AI Native Development [somkiat.cc]
+    url: https://www.somkiat.cc/note-4-patterns-of-ai-native-development/
+  state:
+    id: '116226808928198354'
+    url: https://mastodon.in.th/@webring/116226808928198354
+ef1b92cbd5c395971dc47ce13fa5081b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-4-patterns-of-ai-native-development/
+  state:
+    shortLink: https://link.webring.in.th/3031
 ef83bc2fa4075609c9b4cc4e91ac2644:facebook:
   spec:
     title: แนะนำ React => visualized สำหรับการเรียนรู้ ReactJS [somkiat.cc]
