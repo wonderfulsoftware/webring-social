@@ -18013,6 +18013,32 @@
     url: https://garden.narze.live/lightweight-docker-image-for-curl/
   state:
     shortLink: https://link.webring.in.th/2177
+68c4238f91672d537c33d59eb4f966f3:bluesky:
+  spec:
+    title: Semi-Automated RPA with Puppeteer and Playwright [dt.in.th]
+    url: https://dt.in.th/SemiAutomatedRPAPuppeteerPlaywright
+  state:
+    cid: bafyreiemqeqy3mrux7ytt5tv62qsafyrkflgzeu2fevqwdepca44wclrbe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mgysxedo2r2t
+68c4238f91672d537c33d59eb4f966f3:facebook:
+  spec:
+    title: Semi-Automated RPA with Puppeteer and Playwright [dt.in.th]
+    url: https://dt.in.th/SemiAutomatedRPAPuppeteerPlaywright
+  state:
+    id: '100746876247412_916964507959459'
+    url: https://www.facebook.com/100683012920950/posts/916964507959459
+68c4238f91672d537c33d59eb4f966f3:mastodon:
+  spec:
+    title: Semi-Automated RPA with Puppeteer and Playwright [dt.in.th]
+    url: https://dt.in.th/SemiAutomatedRPAPuppeteerPlaywright
+  state:
+    id: '116226148234660361'
+    url: https://mastodon.in.th/@webring/116226148234660361
+68c4238f91672d537c33d59eb4f966f3:shorturl:
+  spec:
+    url: https://dt.in.th/SemiAutomatedRPAPuppeteerPlaywright
+  state:
+    shortLink: https://link.webring.in.th/3030
 68df5b2f3d6e91139a7eb38835072fa3:facebook:
   spec:
     title: DB2 fixed an unpredictable hang/take a lot of time when create a DB Connection. [debuggingsoft.com]
