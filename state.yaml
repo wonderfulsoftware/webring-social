@@ -41656,6 +41656,32 @@ ee6f370001a32ad82ae1b9dc983f651b:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/01/azure-error-aadsts50079-the-user-is-required-to-use-mfa/
   state:
     shortLink: https://link.webring.in.th/2347
+ee701a4db65c65c99d762060c8e69f28:bluesky:
+  spec:
+    title: Fix Git loose object is corrupt [jitrak.dev]
+    url: https://jitrak.dev/posts/post-36-fix-git-loose-object-is-corrupt/
+  state:
+    cid: bafyreifo65qzxsa52j7dlufpctydur4ftwrh72oaxmbwyqjnysnoo5ltmm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mh35xkirlb2v
+ee701a4db65c65c99d762060c8e69f28:facebook:
+  spec:
+    title: Fix Git loose object is corrupt [jitrak.dev]
+    url: https://jitrak.dev/posts/post-36-fix-git-loose-object-is-corrupt/
+  state:
+    id: '100746876247412_917666057889304'
+    url: https://www.facebook.com/100683012920950/posts/917666057889304
+ee701a4db65c65c99d762060c8e69f28:mastodon:
+  spec:
+    title: Fix Git loose object is corrupt [jitrak.dev]
+    url: https://jitrak.dev/posts/post-36-fix-git-loose-object-is-corrupt/
+  state:
+    id: '116231426349359606'
+    url: https://mastodon.in.th/@webring/116231426349359606
+ee701a4db65c65c99d762060c8e69f28:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-36-fix-git-loose-object-is-corrupt/
+  state:
+    shortLink: https://link.webring.in.th/3034
 ee9cdd1ca44c67d1bd806be97af4a252:bluesky:
   spec:
     title: มาทดสอบ Mobile app ด้วย App Testing Agent ใน Firebase [somkiat.cc]
