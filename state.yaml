@@ -26134,6 +26134,32 @@
     url: https://amiearth.com/blog/hono-d1
   state:
     shortLink: https://link.webring.in.th/2520
+9449a6f5e1ab1ec37ae355c9f86470c0:bluesky:
+  spec:
+    title: มาลองใช้งาน Qwen Code กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-qwen-code/
+  state:
+    cid: bafyreihnyjpl6nq3s6ofwltsxvzaprt4vre23herv7vzc2dtdzlhoe2pee
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mh3dyvqnrf2a
+9449a6f5e1ab1ec37ae355c9f86470c0:facebook:
+  spec:
+    title: มาลองใช้งาน Qwen Code กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-qwen-code/
+  state:
+    id: '100746876247412_917726217883288'
+    url: https://www.facebook.com/100683012920950/posts/917726217883288
+9449a6f5e1ab1ec37ae355c9f86470c0:mastodon:
+  spec:
+    title: มาลองใช้งาน Qwen Code กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-qwen-code/
+  state:
+    id: '116231851376029139'
+    url: https://mastodon.in.th/@webring/116231851376029139
+9449a6f5e1ab1ec37ae355c9f86470c0:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-qwen-code/
+  state:
+    shortLink: https://link.webring.in.th/3035
 94527e1a71871a806d1cbdbf9c26ab3a:facebook:
   spec:
     title: '[AWS EKS] ลองใช้ Cluster autoscaler สำหรับ Scale K8s [thanapon.info]'
