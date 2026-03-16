@@ -13833,6 +13833,32 @@
     url: https://mikelopster.dev/posts/rust-basic-2/
   state:
     shortLink: https://link.webring.in.th/2308
+51a0d3022a982feb562adcfa9c6d3f84:bluesky:
+  spec:
+    title: แจกโค้ด Second Brain with OpenClaw (Open Source) – ระบบจัดการความรู้ส่วนตัวด้วย AI Agentic [myifew.com]
+    url: https://myifew.com/7366/second-brain-with-openclaw-open-source/
+  state:
+    cid: bafyreiek4vnvycmjdjgy5gj46atq7tsqccgbg3ddu73sa6izjjcfdpcvce
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mh6izggy2p2w
+51a0d3022a982feb562adcfa9c6d3f84:facebook:
+  spec:
+    title: แจกโค้ด Second Brain with OpenClaw (Open Source) – ระบบจัดการความรู้ส่วนตัวด้วย AI Agentic [myifew.com]
+    url: https://myifew.com/7366/second-brain-with-openclaw-open-source/
+  state:
+    id: '100746876247412_918879111101332'
+    url: https://www.facebook.com/100683012920950/posts/918879111101332
+51a0d3022a982feb562adcfa9c6d3f84:mastodon:
+  spec:
+    title: แจกโค้ด Second Brain with OpenClaw (Open Source) – ระบบจัดการความรู้ส่วนตัวด้วย AI Agentic [myifew.com]
+    url: https://myifew.com/7366/second-brain-with-openclaw-open-source/
+  state:
+    id: '116238959766563681'
+    url: https://mastodon.in.th/@webring/116238959766563681
+51a0d3022a982feb562adcfa9c6d3f84:shorturl:
+  spec:
+    url: https://myifew.com/7366/second-brain-with-openclaw-open-source/
+  state:
+    shortLink: https://link.webring.in.th/3041
 51a0dec3758ed66c7c970ec7d296885c:bluesky:
   spec:
     title: เขียน WebSocket แบบ Reactive ด้วย WebFlux [poolsawat.com]
