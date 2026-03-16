@@ -6658,6 +6658,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/10/cr-starbucks-eclair-vanilla/
   state:
     shortLink: https://link.webring.in.th/2809
+25c1c1f62a07959771ec218111a36c51:bluesky:
+  spec:
+    title: จดจาก Live Thailand Claude Meetup 2026/03 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-live-thailand-claude-meetup-2026-03/
+  state:
+    cid: bafyreicx6relwps53xrxafj723rqeejkeesxlzsjegyzohx3kzb7sz3zbq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mh673vlfgi2b
+25c1c1f62a07959771ec218111a36c51:facebook:
+  spec:
+    title: จดจาก Live Thailand Claude Meetup 2026/03 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-live-thailand-claude-meetup-2026-03/
+  state:
+    id: '100746876247412_918750624447514'
+    url: https://www.facebook.com/100683012920950/posts/918750624447514
+25c1c1f62a07959771ec218111a36c51:mastodon:
+  spec:
+    title: จดจาก Live Thailand Claude Meetup 2026/03 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-live-thailand-claude-meetup-2026-03/
+  state:
+    id: '116238261578784557'
+    url: https://mastodon.in.th/@webring/116238261578784557
+25c1c1f62a07959771ec218111a36c51:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-live-thailand-claude-meetup-2026-03/
+  state:
+    shortLink: https://link.webring.in.th/3040
 2609981e0d8479ab1968d618a504003f:facebook:
   spec:
     title: '[C#] ทำ Unit Test กับ XML ครับ [debuggingsoft.com]'
