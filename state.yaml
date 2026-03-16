@@ -17001,6 +17001,32 @@
     url: https://www.somkiat.cc/vscode-codegpt/
   state:
     shortLink: https://webring.page.link/VTgt
+6284657d9f95c272c708250926f99d16:bluesky:
+  spec:
+    title: 'VS Code :: มาใช้งาน Built-in Integrated Browser กัน [somkiat.cc]'
+    url: https://www.somkiat.cc/vscode-built-in-integrated-browser/
+  state:
+    cid: bafyreifyodtozkqunrxk2efud3wnxb5d2ue66yghnjh5i62ro5bxmgnp4m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mh5vkvnvrz2e
+6284657d9f95c272c708250926f99d16:facebook:
+  spec:
+    title: 'VS Code :: มาใช้งาน Built-in Integrated Browser กัน [somkiat.cc]'
+    url: https://www.somkiat.cc/vscode-built-in-integrated-browser/
+  state:
+    id: '100746876247412_918647651124478'
+    url: https://www.facebook.com/100683012920950/posts/918647651124478
+6284657d9f95c272c708250926f99d16:mastodon:
+  spec:
+    title: 'VS Code :: มาใช้งาน Built-in Integrated Browser กัน [somkiat.cc]'
+    url: https://www.somkiat.cc/vscode-built-in-integrated-browser/
+  state:
+    id: '116237590926708357'
+    url: https://mastodon.in.th/@webring/116237590926708357
+6284657d9f95c272c708250926f99d16:shorturl:
+  spec:
+    url: https://www.somkiat.cc/vscode-built-in-integrated-browser/
+  state:
+    shortLink: https://link.webring.in.th/3039
 62c0ffc481f81ca1381e13d3566079b7:facebook:
   spec:
     title: '[C#] Dump Object As JSON (Visual Studio) [debuggingsoft.com]'
