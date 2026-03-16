@@ -42203,6 +42203,32 @@ f0c84e27b5f9f4ec7e401ae61cd59aaa:shorturl:
     url: https://www.somkiat.cc/litellm-llm-proxy-server/
   state:
     shortLink: https://link.webring.in.th/2171
+f0d00fb47133e8e2514d2ecff0e76211:bluesky:
+  spec:
+    title: 'บันทึก: Cups Proxmox ทำพรินเตอร์เซิฟเวอร์ [nitpum.com]'
+    url: https://nitpum.com/post/cups-proxmox/
+  state:
+    cid: bafyreic5pzrxrgdpuzakwkc7zmbg54ldjkus5gnayzkceatqvmuvfxke3m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mh5oxeehxy2e
+f0d00fb47133e8e2514d2ecff0e76211:facebook:
+  spec:
+    title: 'บันทึก: Cups Proxmox ทำพรินเตอร์เซิฟเวอร์ [nitpum.com]'
+    url: https://nitpum.com/post/cups-proxmox/
+  state:
+    id: '100746876247412_918581477797762'
+    url: https://www.facebook.com/100683012920950/posts/918581477797762
+f0d00fb47133e8e2514d2ecff0e76211:mastodon:
+  spec:
+    title: 'บันทึก: Cups Proxmox ทำพรินเตอร์เซิฟเวอร์ [nitpum.com]'
+    url: https://nitpum.com/post/cups-proxmox/
+  state:
+    id: '116237125802888931'
+    url: https://mastodon.in.th/@webring/116237125802888931
+f0d00fb47133e8e2514d2ecff0e76211:shorturl:
+  spec:
+    url: https://nitpum.com/post/cups-proxmox/
+  state:
+    shortLink: https://link.webring.in.th/3038
 f10abf09a819b363bbaa2658e500526a:bluesky:
   spec:
     title: Using Rclone with a Public Google Drive folder [dt.in.th]
