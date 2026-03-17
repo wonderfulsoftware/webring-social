@@ -6660,21 +6660,21 @@
     shortLink: https://link.webring.in.th/2809
 25c1c1f62a07959771ec218111a36c51:bluesky:
   spec:
-    title: จดจาก Live Thailand Claude Meetup 2026/03 [debuggingsoft.com]
+    title: จดจาก Live Claude Thailand Community Meetup 2026/03 [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2026/03/recap-live-thailand-claude-meetup-2026-03/
   state:
     cid: bafyreicx6relwps53xrxafj723rqeejkeesxlzsjegyzohx3kzb7sz3zbq
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mh673vlfgi2b
 25c1c1f62a07959771ec218111a36c51:facebook:
   spec:
-    title: จดจาก Live Thailand Claude Meetup 2026/03 [debuggingsoft.com]
+    title: จดจาก Live Claude Thailand Community Meetup 2026/03 [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2026/03/recap-live-thailand-claude-meetup-2026-03/
   state:
     id: '100746876247412_918750624447514'
     url: https://www.facebook.com/100683012920950/posts/918750624447514
 25c1c1f62a07959771ec218111a36c51:mastodon:
   spec:
-    title: จดจาก Live Thailand Claude Meetup 2026/03 [debuggingsoft.com]
+    title: จดจาก Live Claude Thailand Community Meetup 2026/03 [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2026/03/recap-live-thailand-claude-meetup-2026-03/
   state:
     id: '116238261578784557'
@@ -25193,6 +25193,32 @@
     url: https://blog.oatto.dev/2023/07/15/format-code-via-github-actions.html
   state:
     shortLink: https://webring.page.link/VvXz
+8ee9fcb0f46062838459c8429b0824a1:bluesky:
+  spec:
+    title: เข้าสู่โลก internet แบบไม่ถูกเซ็นเซอร์ ด้วย Snowflake [mikkipastel.com]
+    url: https://www.mikkipastel.com/runnung-snowflakes-to-hellp-censored-people-fossasia-2026/
+  state:
+    cid: bafyreigob5oyxb4rtvocgkudxspy6jkhjyimt6keuol4kromqbzasmsmva
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mha663gj462w
+8ee9fcb0f46062838459c8429b0824a1:facebook:
+  spec:
+    title: เข้าสู่โลก internet แบบไม่ถูกเซ็นเซอร์ ด้วย Snowflake [mikkipastel.com]
+    url: https://www.mikkipastel.com/runnung-snowflakes-to-hellp-censored-people-fossasia-2026/
+  state:
+    id: '100746876247412_919480317707878'
+    url: https://www.facebook.com/100683012920950/posts/919480317707878
+8ee9fcb0f46062838459c8429b0824a1:mastodon:
+  spec:
+    title: เข้าสู่โลก internet แบบไม่ถูกเซ็นเซอร์ ด้วย Snowflake [mikkipastel.com]
+    url: https://www.mikkipastel.com/runnung-snowflakes-to-hellp-censored-people-fossasia-2026/
+  state:
+    id: '116242699594005166'
+    url: https://mastodon.in.th/@webring/116242699594005166
+8ee9fcb0f46062838459c8429b0824a1:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/runnung-snowflakes-to-hellp-censored-people-fossasia-2026/
+  state:
+    shortLink: https://link.webring.in.th/3042
 8efbb17c7036b2abaf60c843510044a7:facebook:
   spec:
     title: Run Spring Boot ด้วย Docker Compose [janescience.com]
