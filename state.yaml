@@ -11603,6 +11603,32 @@
     url: https://myifew.com/6699/veo3-video-prompt-json-script/
   state:
     shortLink: https://link.webring.in.th/2650
+4329dc595bfa620a62ad044199c4eead:bluesky:
+  spec:
+    title: 'จัดการประกันทุกตัวในที่เดียว: เห็นภาพรวมเบี้ย ทุนชีวิต ความคุ้มครองทันที [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/insurance-planner
+  state:
+    cid: bafyreicxm3h4c4x3f65mhqgwn6fnwqovll62mk5oayv6krhppz5mxz73n4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhap3hlk6k2v
+4329dc595bfa620a62ad044199c4eead:facebook:
+  spec:
+    title: 'จัดการประกันทุกตัวในที่เดียว: เห็นภาพรวมเบี้ย ทุนชีวิต ความคุ้มครองทันที [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/insurance-planner
+  state:
+    id: '100746876247412_919645791024664'
+    url: https://www.facebook.com/100683012920950/posts/919645791024664
+4329dc595bfa620a62ad044199c4eead:mastodon:
+  spec:
+    title: 'จัดการประกันทุกตัวในที่เดียว: เห็นภาพรวมเบี้ย ทุนชีวิต ความคุ้มครองทันที [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/insurance-planner
+  state:
+    id: '116243890061606587'
+    url: https://mastodon.in.th/@webring/116243890061606587
+4329dc595bfa620a62ad044199c4eead:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/insurance-planner
+  state:
+    shortLink: https://link.webring.in.th/3044
 4362aa154dfd2114ca6fc7c1d0e1190e:bluesky:
   spec:
     title: แนะนำ Course ฟรี เรื่อง 100 Exercises to Learn Rust [somkiat.cc]
