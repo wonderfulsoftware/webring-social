@@ -32607,6 +32607,32 @@ b8da0a5480bf6d4e92e718677b04492f:shorturl:
     url: https://karnwong.me/posts/2024/10/calling-c-from-go-python-and-rust-benchmark/
   state:
     shortLink: https://link.webring.in.th/2187
+b8e8d9be7546e57c2442c773ebb00c3b:bluesky:
+  spec:
+    title: วันจันทร์ที่ระบบสะดุด — เมื่อ Bug กลายเป็นบทเรียน และชมพูได้เรียนรู้ว่า ‘ละเอียด’ สำคัญแค่ไหน [myifew.com]
+    url: https://myifew.com/7376/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%aa%e0%b8%b0%e0%b8%94%e0%b8%b8%e0%b8%94/
+  state:
+    cid: bafyreibqaoyn5maus5urs2czban5rupe4z6chp6bst7rzhrvu467tzvqaq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhafebgwkk2n
+b8e8d9be7546e57c2442c773ebb00c3b:facebook:
+  spec:
+    title: วันจันทร์ที่ระบบสะดุด — เมื่อ Bug กลายเป็นบทเรียน และชมพูได้เรียนรู้ว่า ‘ละเอียด’ สำคัญแค่ไหน [myifew.com]
+    url: https://myifew.com/7376/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%aa%e0%b8%b0%e0%b8%94%e0%b8%b8%e0%b8%94/
+  state:
+    id: '100746876247412_919546874367889'
+    url: https://www.facebook.com/100683012920950/posts/919546874367889
+b8e8d9be7546e57c2442c773ebb00c3b:mastodon:
+  spec:
+    title: วันจันทร์ที่ระบบสะดุด — เมื่อ Bug กลายเป็นบทเรียน และชมพูได้เรียนรู้ว่า ‘ละเอียด’ สำคัญแค่ไหน [myifew.com]
+    url: https://myifew.com/7376/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%aa%e0%b8%b0%e0%b8%94%e0%b8%b8%e0%b8%94/
+  state:
+    id: '116243205556298020'
+    url: https://mastodon.in.th/@webring/116243205556298020
+b8e8d9be7546e57c2442c773ebb00c3b:shorturl:
+  spec:
+    url: https://myifew.com/7376/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%aa%e0%b8%b0%e0%b8%94%e0%b8%b8%e0%b8%94/
+  state:
+    shortLink: https://link.webring.in.th/3043
 b91d69fe0d47864d6f237fc3333124f3:bluesky:
   spec:
     title: Make dApp testing automated with Synpress [yuttakhanb.dev]
