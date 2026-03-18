@@ -44437,6 +44437,32 @@ fded27a275c0ab5923370e23e7a5b37e:shorturl:
     url: https://blog.ninprd.com/blog/even-though-im-not-here-company-still-running-properly/
   state:
     shortLink: https://link.webring.in.th/1921
+fe252007c06196f8b1bcfac74f752f55:bluesky:
+  spec:
+    title: วันจันทร์ที่ชมพูนั่งดูตัวเลข — เมื่อพอร์ตลงทุนเล่าเรื่องที่ตำราไม่เคยสอน [myifew.com]
+    url: https://myifew.com/7379/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%94%e0%b8%b9/
+  state:
+    cid: bafyreid7rgsons4k6zlesr57lnds2nf6zmrml2ehmuntci7vwmvllani7y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhcvqg2vwp2k
+fe252007c06196f8b1bcfac74f752f55:facebook:
+  spec:
+    title: วันจันทร์ที่ชมพูนั่งดูตัวเลข — เมื่อพอร์ตลงทุนเล่าเรื่องที่ตำราไม่เคยสอน [myifew.com]
+    url: https://myifew.com/7379/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%94%e0%b8%b9/
+  state:
+    id: '100746876247412_920332374289339'
+    url: https://www.facebook.com/100683012920950/posts/920332374289339
+fe252007c06196f8b1bcfac74f752f55:mastodon:
+  spec:
+    title: วันจันทร์ที่ชมพูนั่งดูตัวเลข — เมื่อพอร์ตลงทุนเล่าเรื่องที่ตำราไม่เคยสอน [myifew.com]
+    url: https://myifew.com/7379/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%94%e0%b8%b9/
+  state:
+    id: '116248861978956935'
+    url: https://mastodon.in.th/@webring/116248861978956935
+fe252007c06196f8b1bcfac74f752f55:shorturl:
+  spec:
+    url: https://myifew.com/7379/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%94%e0%b8%b9/
+  state:
+    shortLink: https://link.webring.in.th/3046
 fe322b855cd91128f230f9f87e0fa24f:bluesky:
   spec:
     title: 'คำสั่ง SQL พื้นฐาน: CREATE TABLE, INSERT, UPDATE, DELETE, SELECT [poolsawat.com]'
