@@ -38532,6 +38532,32 @@ d926fd7ef953954a26ddd91c24989047:shorturl:
     url: https://amiearth.com/blog/nestjs-queue
   state:
     shortLink: https://link.webring.in.th/2718
+d9519048abdf128878946136be8acd16:bluesky:
+  spec:
+    title: 'The Silent Bug: Why Nuxt Couldn’t Read My .env File [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/03/the-silent-bug-why-nuxt-couldnt-read-my-env-file/
+  state:
+    cid: bafyreidjpdtse5o4tydloqrxfoz6jkaecr6cyhlcoyiv65ddbfe6ypsjiy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhffxuand32w
+d9519048abdf128878946136be8acd16:facebook:
+  spec:
+    title: 'The Silent Bug: Why Nuxt Couldn’t Read My .env File [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/03/the-silent-bug-why-nuxt-couldnt-read-my-env-file/
+  state:
+    id: '100746876247412_921091974213379'
+    url: https://www.facebook.com/100683012920950/posts/921091974213379
+d9519048abdf128878946136be8acd16:mastodon:
+  spec:
+    title: 'The Silent Bug: Why Nuxt Couldn’t Read My .env File [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/03/the-silent-bug-why-nuxt-couldnt-read-my-env-file/
+  state:
+    id: '116254507937187531'
+    url: https://mastodon.in.th/@webring/116254507937187531
+d9519048abdf128878946136be8acd16:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/03/the-silent-bug-why-nuxt-couldnt-read-my-env-file/
+  state:
+    shortLink: https://link.webring.in.th/3048
 d97ede9157bfaf3f331249d86b0e86a7:facebook:
   spec:
     title: ghq - Remote repo management tool [garden.narze.live]
