@@ -33346,6 +33346,32 @@ bcdba3f08060ca31d6434a9d0ebd5625:shorturl:
     url: https://naiwaen.debuggingsoft.com/2026/01/dotnet-sql1477n-for-table-schema-xxx-an-object-yyyy-in-table-space-zz-cannot-be-accessed-sqlstate55019/
   state:
     shortLink: https://link.webring.in.th/2918
+bcefeeb80de69b6988d845850698c6e2:bluesky:
+  spec:
+    title: น่าสนใจกับกลุ่ม AI assistant ตระกูล xClaw [somkiat.cc]
+    url: https://www.somkiat.cc/ai-assistant-with-xclaw/
+  state:
+    cid: bafyreifgzbbzjxry43welrkqzgz62erbfntwdssgehrcfa3mcxtr57vqoi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhfpak5xw72c
+bcefeeb80de69b6988d845850698c6e2:facebook:
+  spec:
+    title: น่าสนใจกับกลุ่ม AI assistant ตระกูล xClaw [somkiat.cc]
+    url: https://www.somkiat.cc/ai-assistant-with-xclaw/
+  state:
+    id: '100746876247412_921176947538215'
+    url: https://www.facebook.com/100683012920950/posts/921176947538215
+bcefeeb80de69b6988d845850698c6e2:mastodon:
+  spec:
+    title: น่าสนใจกับกลุ่ม AI assistant ตระกูล xClaw [somkiat.cc]
+    url: https://www.somkiat.cc/ai-assistant-with-xclaw/
+  state:
+    id: '116255160203059251'
+    url: https://mastodon.in.th/@webring/116255160203059251
+bcefeeb80de69b6988d845850698c6e2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/ai-assistant-with-xclaw/
+  state:
+    shortLink: https://link.webring.in.th/3049
 bd0e89719d0fac95504f2d5af81a3df5:bluesky:
   spec:
     title: Creating a free Google Cloud Compute Engine VM in Google Cloud Shell [dt.in.th]
