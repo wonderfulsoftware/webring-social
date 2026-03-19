@@ -7080,6 +7080,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/11/ubuntu-extend-your-lvm-disk-space/
   state:
     shortLink: https://webring.page.link/QFAp
+27f3b6080fa57767efb4bf08c79740c5:bluesky:
+  spec:
+    title: วิธีการใช้ Pydantic-Settings ในการจัดการ env vars [jetsukda.dev]
+    url: https://jetsukda.dev/posts/pydantic-environment-vars/
+  state:
+    cid: bafyreihjprwqrohkduhtbkoqvakyrqoprur2z7rs3dona2q6d6kgurxjta
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhf7bbvxlm2e
+27f3b6080fa57767efb4bf08c79740c5:facebook:
+  spec:
+    title: วิธีการใช้ Pydantic-Settings ในการจัดการ env vars [jetsukda.dev]
+    url: https://jetsukda.dev/posts/pydantic-environment-vars/
+  state:
+    id: '100746876247412_921028457553064'
+    url: https://www.facebook.com/100683012920950/posts/921028457553064
+27f3b6080fa57767efb4bf08c79740c5:mastodon:
+  spec:
+    title: วิธีการใช้ Pydantic-Settings ในการจัดการ env vars [jetsukda.dev]
+    url: https://jetsukda.dev/posts/pydantic-environment-vars/
+  state:
+    id: '116254036127514236'
+    url: https://mastodon.in.th/@webring/116254036127514236
+27f3b6080fa57767efb4bf08c79740c5:shorturl:
+  spec:
+    url: https://jetsukda.dev/posts/pydantic-environment-vars/
+  state:
+    shortLink: https://link.webring.in.th/3047
 27fe1d359b1a7a99fdb245f0136d7a67:bluesky:
   spec:
     title: Apache Kafka 4.0 ออกมาแล้ว [somkiat.cc]
