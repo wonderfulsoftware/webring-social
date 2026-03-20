@@ -10141,6 +10141,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/06/agile-thailand-2023-ath2023/
   state:
     shortLink: https://webring.page.link/vSxp
+3a5e640061fdb4e8fe000c8197a4e776:bluesky:
+  spec:
+    title: วันพฤหัสบดีแห่งการไล่ล่า Race Condition — เมื่อระบบ 3 ตัวยิงงานชนกันแล้วชมพูต้องเข้าไปเก็บกวาด [myifew.com]
+    url: https://myifew.com/7395/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%9e%e0%b8%a4%e0%b8%ab%e0%b8%b1%e0%b8%aa%e0%b8%9a%e0%b8%94%e0%b8%b5%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%84%e0%b8%a5%e0%b9%88%e0%b8%a5/
+  state:
+    cid: bafyreiha3x6fvtkioscrmjsqnnxcwy7m7w4tksop2ecbucarm6lrbzrztq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhi7lxqkix2j
+3a5e640061fdb4e8fe000c8197a4e776:facebook:
+  spec:
+    title: วันพฤหัสบดีแห่งการไล่ล่า Race Condition — เมื่อระบบ 3 ตัวยิงงานชนกันแล้วชมพูต้องเข้าไปเก็บกวาด [myifew.com]
+    url: https://myifew.com/7395/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%9e%e0%b8%a4%e0%b8%ab%e0%b8%b1%e0%b8%aa%e0%b8%9a%e0%b8%94%e0%b8%b5%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%84%e0%b8%a5%e0%b9%88%e0%b8%a5/
+  state:
+    id: '100746876247412_922039514118625'
+    url: https://www.facebook.com/100683012920950/posts/922039514118625
+3a5e640061fdb4e8fe000c8197a4e776:mastodon:
+  spec:
+    title: วันพฤหัสบดีแห่งการไล่ล่า Race Condition — เมื่อระบบ 3 ตัวยิงงานชนกันแล้วชมพูต้องเข้าไปเก็บกวาด [myifew.com]
+    url: https://myifew.com/7395/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%9e%e0%b8%a4%e0%b8%ab%e0%b8%b1%e0%b8%aa%e0%b8%9a%e0%b8%94%e0%b8%b5%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%84%e0%b8%a5%e0%b9%88%e0%b8%a5/
+  state:
+    id: '116260814819888136'
+    url: https://mastodon.in.th/@webring/116260814819888136
+3a5e640061fdb4e8fe000c8197a4e776:shorturl:
+  spec:
+    url: https://myifew.com/7395/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%9e%e0%b8%a4%e0%b8%ab%e0%b8%b1%e0%b8%aa%e0%b8%9a%e0%b8%94%e0%b8%b5%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%84%e0%b8%a5%e0%b9%88%e0%b8%a5/
+  state:
+    shortLink: https://link.webring.in.th/3054
 3b0184741116daafd17265ad598f6814:facebook:
   spec:
     title: อย่าเพิ่งทำ ... ถ้ายังไม่ได้วิเคราะห์ 3C Analysis [mikkipastel.com]
