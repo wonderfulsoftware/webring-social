@@ -5836,6 +5836,32 @@
     url: https://kusumotolab.com/how-to-fix-cannot-boot-when-change-ec2-instance-type-from-xen-to-nitro-for-suse-linux-enterprise-for-sap-15/
   state:
     shortLink: https://webring.page.link/6wT2
+21abc774b91e2b9b1af2bd902f932fe6:bluesky:
+  spec:
+    title: 'มาลองใช้งาน Stitch :: Design with AI จากทาง Google [somkiat.cc]'
+    url: https://www.somkiat.cc/google-stitch-design-with-ai/
+  state:
+    cid: bafyreic5iydw2us2zd6kvcsx7bkmemquvzofkt5ed2lie5n6pujlq34mti
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhhpdak3ka2w
+21abc774b91e2b9b1af2bd902f932fe6:facebook:
+  spec:
+    title: 'มาลองใช้งาน Stitch :: Design with AI จากทาง Google [somkiat.cc]'
+    url: https://www.somkiat.cc/google-stitch-design-with-ai/
+  state:
+    id: '100746876247412_921858564136720'
+    url: https://www.facebook.com/100683012920950/posts/921858564136720
+21abc774b91e2b9b1af2bd902f932fe6:mastodon:
+  spec:
+    title: 'มาลองใช้งาน Stitch :: Design with AI จากทาง Google [somkiat.cc]'
+    url: https://www.somkiat.cc/google-stitch-design-with-ai/
+  state:
+    id: '116259669807865619'
+    url: https://mastodon.in.th/@webring/116259669807865619
+21abc774b91e2b9b1af2bd902f932fe6:shorturl:
+  spec:
+    url: https://www.somkiat.cc/google-stitch-design-with-ai/
+  state:
+    shortLink: https://link.webring.in.th/3052
 21c1f801759ae07557b8bc37f4ab775b:bluesky:
   spec:
     title: Let’s try using Microsoft SQL Server MCP server with Claude Desktop [debuggingsoft.com]
