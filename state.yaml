@@ -12129,6 +12129,32 @@
     url: https://www.somkiat.cc/bun-run-playwright/
   state:
     shortLink: https://webring.page.link/tbPR
+46bd107465ccd08561eafb4b12a3b4f4:bluesky:
+  spec:
+    title: 'TIL: What is ClickHouse? [jetsukda.dev]'
+    url: https://jetsukda.dev/til/what-is-clickhouse/
+  state:
+    cid: bafyreig2xh5unzmzmxmja5m4ky4iy7lgs3ydnw462kposd67y5x3vtwj5y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhhw5srmi22k
+46bd107465ccd08561eafb4b12a3b4f4:facebook:
+  spec:
+    title: 'TIL: What is ClickHouse? [jetsukda.dev]'
+    url: https://jetsukda.dev/til/what-is-clickhouse/
+  state:
+    id: '100746876247412_921933867462523'
+    url: https://www.facebook.com/100683012920950/posts/921933867462523
+46bd107465ccd08561eafb4b12a3b4f4:mastodon:
+  spec:
+    title: 'TIL: What is ClickHouse? [jetsukda.dev]'
+    url: https://jetsukda.dev/til/what-is-clickhouse/
+  state:
+    id: '116260150547374000'
+    url: https://mastodon.in.th/@webring/116260150547374000
+46bd107465ccd08561eafb4b12a3b4f4:shorturl:
+  spec:
+    url: https://jetsukda.dev/til/what-is-clickhouse/
+  state:
+    shortLink: https://link.webring.in.th/3053
 46c7cb10169fd3f3b7874273d54012d5:facebook:
   spec:
     title: 81 - garden-astro - Update front page [garden.narze.live]
