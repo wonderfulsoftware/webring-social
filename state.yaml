@@ -21058,6 +21058,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/jenkins-jenkins-not-able-to-fetch-code-from-remote-git/
   state:
     shortLink: https://webring.page.link/UCGv
+7897c92d18b79dd527ab9561543c052e:bluesky:
+  spec:
+    title: สวัสดี Java 26 [somkiat.cc]
+    url: https://www.somkiat.cc/hello-java-26/
+  state:
+    cid: bafyreifogtv2nul5ct35zcgliq6hhknvvt3azvcdcnev3roecxxx7y5zhq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhk6ofgh4m2f
+7897c92d18b79dd527ab9561543c052e:facebook:
+  spec:
+    title: สวัสดี Java 26 [somkiat.cc]
+    url: https://www.somkiat.cc/hello-java-26/
+  state:
+    id: '100746876247412_922780160711227'
+    url: https://www.facebook.com/100683012920950/posts/922780160711227
+7897c92d18b79dd527ab9561543c052e:mastodon:
+  spec:
+    title: สวัสดี Java 26 [somkiat.cc]
+    url: https://www.somkiat.cc/hello-java-26/
+  state:
+    id: '116265253495390349'
+    url: https://mastodon.in.th/@webring/116265253495390349
+7897c92d18b79dd527ab9561543c052e:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-java-26/
+  state:
+    shortLink: https://link.webring.in.th/3055
 78bbc5d4ec4f3334ad9f59dc100ad10b:bluesky:
   spec:
     title: รู้จัก Power BI ฉบับมือใหม่ เพิ่งเรียนมา ทำตามง่ายแน่นอน [mikkipastel.com]
