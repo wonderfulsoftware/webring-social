@@ -7760,6 +7760,32 @@
     url: https://www.anuwong.com/blog/golang-testing-part-3-test-suite/
   state:
     shortLink: https://webring.page.link/FJwZ
+2c01d98961f20e6a73dd9eccb11dff73:bluesky:
+  spec:
+    title: 'TIL: Tips ในการเขียน Claude Code Skills [jetsukda.dev]'
+    url: https://jetsukda.dev/til/tips-%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-claude-code-skills/
+  state:
+    cid: bafyreifgcsfxg2p3zdxqpcs7mk2b7ke7p4wztn3zwcxo6naxfnia2im56a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhkplgpl2a2e
+2c01d98961f20e6a73dd9eccb11dff73:facebook:
+  spec:
+    title: 'TIL: Tips ในการเขียน Claude Code Skills [jetsukda.dev]'
+    url: https://jetsukda.dev/til/tips-%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-claude-code-skills/
+  state:
+    id: '100746876247412_922968507359059'
+    url: https://www.facebook.com/100683012920950/posts/922968507359059
+2c01d98961f20e6a73dd9eccb11dff73:mastodon:
+  spec:
+    title: 'TIL: Tips ในการเขียน Claude Code Skills [jetsukda.dev]'
+    url: https://jetsukda.dev/til/tips-%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-claude-code-skills/
+  state:
+    id: '116266443149974807'
+    url: https://mastodon.in.th/@webring/116266443149974807
+2c01d98961f20e6a73dd9eccb11dff73:shorturl:
+  spec:
+    url: https://jetsukda.dev/til/tips-%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-claude-code-skills/
+  state:
+    shortLink: https://link.webring.in.th/3057
 2c084da0e0100b771286bd9fbcf07385:bluesky:
   spec:
     title: ฮาวทู numpy [debuggingsoft.com]
