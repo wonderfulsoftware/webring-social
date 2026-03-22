@@ -16851,6 +16851,32 @@
     url: https://www.somkiat.cc/note-architecture-journey-from-twitch/
   state:
     shortLink: https://webring.page.link/bHN6
+60702254e397f8960084e3716de817e5:bluesky:
+  spec:
+    title: Exploring the .NET Open Source Application 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/exploring-the-net-open-source-application-2026/
+  state:
+    cid: bafyreihsmfujjcltnpmj7fqd5mbpmxkplncubwfth7tftvjwgv44klpfze
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhmqjgygju2e
+60702254e397f8960084e3716de817e5:facebook:
+  spec:
+    title: Exploring the .NET Open Source Application 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/exploring-the-net-open-source-application-2026/
+  state:
+    id: '100746876247412_923683623954214'
+    url: https://www.facebook.com/100683012920950/posts/923683623954214
+60702254e397f8960084e3716de817e5:mastodon:
+  spec:
+    title: Exploring the .NET Open Source Application 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/exploring-the-net-open-source-application-2026/
+  state:
+    id: '116271012801101735'
+    url: https://mastodon.in.th/@webring/116271012801101735
+60702254e397f8960084e3716de817e5:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/03/exploring-the-net-open-source-application-2026/
+  state:
+    shortLink: https://link.webring.in.th/3058
 6075fa5846cb5fe96fc782d72bc58cdc:facebook:
   spec:
     title: บอกต่อทริคไม่ลับ! ที่ทำให้คุณใช้ Canva Pro คุ้มขึ้น!!! [mikkipastel.com]
