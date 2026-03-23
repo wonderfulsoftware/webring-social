@@ -26249,6 +26249,32 @@
     url: https://notes.dt.in.th/TailwindCSS4Alpha14Notes
   state:
     shortLink: https://link.webring.in.th/1886
+9279c9e8f2e759516ac206b899b3d495:bluesky:
+  spec:
+    title: ทำไมตอนเลือกตั้ง 69 บัตรเสียถึงเยอะจัง? ทำความรู้จัก Service Design กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/service-design-101-designing-the-system-behind-the-screen-friend-of-figma/
+  state:
+    cid: bafyreibvkruyilgd2qufvx5tqr4gxftparvb3q5s7ao2v7pke34zx33pri
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhpihnc7kj2a
+9279c9e8f2e759516ac206b899b3d495:facebook:
+  spec:
+    title: ทำไมตอนเลือกตั้ง 69 บัตรเสียถึงเยอะจัง? ทำความรู้จัก Service Design กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/service-design-101-designing-the-system-behind-the-screen-friend-of-figma/
+  state:
+    id: '100746876247412_924627963859780'
+    url: https://www.facebook.com/100683012920950/posts/924627963859780
+9279c9e8f2e759516ac206b899b3d495:mastodon:
+  spec:
+    title: ทำไมตอนเลือกตั้ง 69 บัตรเสียถึงเยอะจัง? ทำความรู้จัก Service Design กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/service-design-101-designing-the-system-behind-the-screen-friend-of-figma/
+  state:
+    id: '116277201227864249'
+    url: https://mastodon.in.th/@webring/116277201227864249
+9279c9e8f2e759516ac206b899b3d495:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/service-design-101-designing-the-system-behind-the-screen-friend-of-figma/
+  state:
+    shortLink: https://link.webring.in.th/3061
 9292cd77ce1a063c28c81e3d5de437f0:bluesky:
   spec:
     title: คำนวณแบ่งเงินลงทุนเป็นก้อน [mymoneytoolkit.app]
