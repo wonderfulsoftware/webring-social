@@ -39659,6 +39659,32 @@ dec08428bbe1e20f680775968ed99947:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/12/2024-year-in-review/
   state:
     shortLink: https://link.webring.in.th/2324
+decbac9bd7188e3d0e2127bb8346fbe0:bluesky:
+  spec:
+    title: สรุปงาน .NET Thailand Developer Day 2026 มีนา มีอีเวนท์ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-net-thailand-developer-day-2026-mar/
+  state:
+    cid: bafyreiep3ijfrdn7lawhiiatmdhqby7naykjxtt7inti62rmbwsviqeghi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhpsaihtbx2n
+decbac9bd7188e3d0e2127bb8346fbe0:facebook:
+  spec:
+    title: สรุปงาน .NET Thailand Developer Day 2026 มีนา มีอีเวนท์ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-net-thailand-developer-day-2026-mar/
+  state:
+    id: '100746876247412_924724837183426'
+    url: https://www.facebook.com/100683012920950/posts/924724837183426
+decbac9bd7188e3d0e2127bb8346fbe0:mastodon:
+  spec:
+    title: สรุปงาน .NET Thailand Developer Day 2026 มีนา มีอีเวนท์ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-net-thailand-developer-day-2026-mar/
+  state:
+    id: '116277888769143111'
+    url: https://mastodon.in.th/@webring/116277888769143111
+decbac9bd7188e3d0e2127bb8346fbe0:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-net-thailand-developer-day-2026-mar/
+  state:
+    shortLink: https://link.webring.in.th/3062
 defe0d87e476b6e9cb1b0f8d72ae8f90:facebook:
   spec:
     title: 'AI-102: Get started with Azure AI Services [debuggingsoft.com]'
