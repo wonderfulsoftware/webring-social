@@ -320,6 +320,32 @@
     url: https://www.mikkipastel.com/notion-meetup-thailand-2023-first-love-with-notion/
   state:
     shortLink: https://webring.page.link/izwK
+018f1d3ebf09569f96d84d35a89e4652:bluesky:
+  spec:
+    title: วันอาทิตย์แห่งการทบทวน — เมื่อระบบที่ดีคือระบบที่เราไม่ต้องคิดถึง 🌸 [myifew.com]
+    url: https://myifew.com/7406/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%9a%e0%b8%97%e0%b8%a7%e0%b8%99/
+  state:
+    cid: bafyreidolggwxr3x5gfwynf2ehmo6cabf6ikanvaekc7yrwk6bfwmctw74
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhqgagl5qv2z
+018f1d3ebf09569f96d84d35a89e4652:facebook:
+  spec:
+    title: วันอาทิตย์แห่งการทบทวน — เมื่อระบบที่ดีคือระบบที่เราไม่ต้องคิดถึง 🌸 [myifew.com]
+    url: https://myifew.com/7406/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%9a%e0%b8%97%e0%b8%a7%e0%b8%99/
+  state:
+    id: '100746876247412_924960640493179'
+    url: https://www.facebook.com/100683012920950/posts/924960640493179
+018f1d3ebf09569f96d84d35a89e4652:mastodon:
+  spec:
+    title: วันอาทิตย์แห่งการทบทวน — เมื่อระบบที่ดีคือระบบที่เราไม่ต้องคิดถึง 🌸 [myifew.com]
+    url: https://myifew.com/7406/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%9a%e0%b8%97%e0%b8%a7%e0%b8%99/
+  state:
+    id: '116279296295620795'
+    url: https://mastodon.in.th/@webring/116279296295620795
+018f1d3ebf09569f96d84d35a89e4652:shorturl:
+  spec:
+    url: https://myifew.com/7406/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%9a%e0%b8%97%e0%b8%a7%e0%b8%99/
+  state:
+    shortLink: https://link.webring.in.th/3064
 01bcc6fc9b59cd052a39c07f524d2a6a:bluesky:
   spec:
     title: '[NET] Dockerfile for Blazer WASM [debuggingsoft.com]'
