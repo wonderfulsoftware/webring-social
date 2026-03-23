@@ -19209,6 +19209,32 @@
     url: https://kusumotolab.com/how-to-manage-e-tax-invoice-in-email-style-geek-geek/
   state:
     shortLink: https://webring.page.link/aj3W
+6e89172fd0f3fecd7ecfe32ae61551a9:bluesky:
+  spec:
+    title: ใช้งาน Playwright Skill สำหรับการทำ API testing [somkiat.cc]
+    url: https://www.somkiat.cc/api-testing-with-playwright-skill/
+  state:
+    cid: bafyreidulz3ghqrlgzdcsws6edkjytvhnxu4if42xwti7yugwkaekc37l4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhq3zplu7f2u
+6e89172fd0f3fecd7ecfe32ae61551a9:facebook:
+  spec:
+    title: ใช้งาน Playwright Skill สำหรับการทำ API testing [somkiat.cc]
+    url: https://www.somkiat.cc/api-testing-with-playwright-skill/
+  state:
+    id: '100746876247412_924832570505986'
+    url: https://www.facebook.com/100683012920950/posts/924832570505986
+6e89172fd0f3fecd7ecfe32ae61551a9:mastodon:
+  spec:
+    title: ใช้งาน Playwright Skill สำหรับการทำ API testing [somkiat.cc]
+    url: https://www.somkiat.cc/api-testing-with-playwright-skill/
+  state:
+    id: '116278578070823936'
+    url: https://mastodon.in.th/@webring/116278578070823936
+6e89172fd0f3fecd7ecfe32ae61551a9:shorturl:
+  spec:
+    url: https://www.somkiat.cc/api-testing-with-playwright-skill/
+  state:
+    shortLink: https://link.webring.in.th/3063
 6ea285560ce3b60e7bf7d7fca6465e90:bluesky:
   spec:
     title: 'Spring Boot 4​ :: เรื่อง modularization [somkiat.cc]'
