@@ -21885,6 +21885,32 @@
     url: https://karnwong.me/posts/2025/07/the-true-cost-of-deploying-on-ec2/
   state:
     shortLink: https://link.webring.in.th/2651
+7c1d199155d3643f76342398dfdd7dba:bluesky:
+  spec:
+    title: 'TIL: Operational และ Analytics Systems คืออะไร และแต่แบบเหมาะกับ data ประเภทไหน [jetsukda.dev]'
+    url: https://jetsukda.dev/til/operational-%E0%B9%81%E0%B8%A5%E0%B8%B0-analytical-systems/
+  state:
+    cid: bafyreiabmdlheplztob2kbv5sf7aijmgbko4j6b53d5yq4iw43blortf2i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhpblfuukl2b
+7c1d199155d3643f76342398dfdd7dba:facebook:
+  spec:
+    title: 'TIL: Operational และ Analytics Systems คืออะไร และแต่แบบเหมาะกับ data ประเภทไหน [jetsukda.dev]'
+    url: https://jetsukda.dev/til/operational-%E0%B9%81%E0%B8%A5%E0%B8%B0-analytical-systems/
+  state:
+    id: '100746876247412_924561140533129'
+    url: https://www.facebook.com/100683012920950/posts/924561140533129
+7c1d199155d3643f76342398dfdd7dba:mastodon:
+  spec:
+    title: 'TIL: Operational และ Analytics Systems คืออะไร และแต่แบบเหมาะกับ data ประเภทไหน [jetsukda.dev]'
+    url: https://jetsukda.dev/til/operational-%E0%B9%81%E0%B8%A5%E0%B8%B0-analytical-systems/
+  state:
+    id: '116276717039240141'
+    url: https://mastodon.in.th/@webring/116276717039240141
+7c1d199155d3643f76342398dfdd7dba:shorturl:
+  spec:
+    url: https://jetsukda.dev/til/operational-%E0%B9%81%E0%B8%A5%E0%B8%B0-analytical-systems/
+  state:
+    shortLink: https://link.webring.in.th/3060
 7c4e552ada1f101fd065861d53556ca0:facebook:
   spec:
     title: มาเขียนเอกสารด้วย JSDoc กันก่อน [somkiat.cc]
