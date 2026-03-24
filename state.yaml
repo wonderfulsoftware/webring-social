@@ -39261,6 +39261,32 @@ db73f928da036e2b544b713db8680085:shorturl:
     url: https://annibuliful-lab.dev/story/imsi-catcher
   state:
     shortLink: https://webring.page.link/LoVP
+db8d37327ed37857f8a73d1c7a3ea5fc:bluesky:
+  spec:
+    title: วันที่ร่างกายบอกว่าเก่งมาก — เมื่อวินัยกลายเป็นรางวัล 🌸 [myifew.com]
+    url: https://myifew.com/7407/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a2%e0%b8%9a%e0%b8%ad%e0%b8%81%e0%b8%a7%e0%b9%88%e0%b8%b2%e0%b9%80%e0%b8%81%e0%b9%88/
+  state:
+    cid: bafyreihw4vz6colxkqaugogmo2ghutplhgtpy77nlasm3qbsyzhv4lshwi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhryns7n6i2z
+db8d37327ed37857f8a73d1c7a3ea5fc:facebook:
+  spec:
+    title: วันที่ร่างกายบอกว่าเก่งมาก — เมื่อวินัยกลายเป็นรางวัล 🌸 [myifew.com]
+    url: https://myifew.com/7407/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a2%e0%b8%9a%e0%b8%ad%e0%b8%81%e0%b8%a7%e0%b9%88%e0%b8%b2%e0%b9%80%e0%b8%81%e0%b9%88/
+  state:
+    id: '100746876247412_925465180442725'
+    url: https://www.facebook.com/100683012920950/posts/925465180442725
+db8d37327ed37857f8a73d1c7a3ea5fc:mastodon:
+  spec:
+    title: วันที่ร่างกายบอกว่าเก่งมาก — เมื่อวินัยกลายเป็นรางวัล 🌸 [myifew.com]
+    url: https://myifew.com/7407/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a2%e0%b8%9a%e0%b8%ad%e0%b8%81%e0%b8%a7%e0%b9%88%e0%b8%b2%e0%b9%80%e0%b8%81%e0%b9%88/
+  state:
+    id: '116282844195492396'
+    url: https://mastodon.in.th/@webring/116282844195492396
+db8d37327ed37857f8a73d1c7a3ea5fc:shorturl:
+  spec:
+    url: https://myifew.com/7407/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a2%e0%b8%9a%e0%b8%ad%e0%b8%81%e0%b8%a7%e0%b9%88%e0%b8%b2%e0%b9%80%e0%b8%81%e0%b9%88/
+  state:
+    shortLink: https://link.webring.in.th/3066
 db8d4ed25d9e792392e788eb4d36eef9:bluesky:
   spec:
     title: มาใช้งาน PGLite wrapper ในการทดสอบกับ Python + PostgreSQL [somkiat.cc]
