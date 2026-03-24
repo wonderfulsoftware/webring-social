@@ -11688,6 +11688,32 @@
     url: https://neizod.dev/2023/11/22/simple-physics-of-sailing.html
   state:
     shortLink: https://webring.page.link/QYT7
+427784dfd4f91ae0d7ff1ef924aff165:bluesky:
+  spec:
+    title: 'เปลี่ยน LINE ให้เป็น AI ส่วนตัว: เจาะลึกการสร้าง OpenClaw บน DigitalOcean ด้วยตัวเอง [birdmusic.cc]'
+    url: https://birdmusic.cc//2026/03/23/openclaw-personal-ai-on-digitalocean.html
+  state:
+    cid: bafyreiejvfuhru7los3cfxf5zlkdg46pssufrwnikqthtmisb5ef4fl4le
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhrrjfxfsm2p
+427784dfd4f91ae0d7ff1ef924aff165:facebook:
+  spec:
+    title: 'เปลี่ยน LINE ให้เป็น AI ส่วนตัว: เจาะลึกการสร้าง OpenClaw บน DigitalOcean ด้วยตัวเอง [birdmusic.cc]'
+    url: https://birdmusic.cc//2026/03/23/openclaw-personal-ai-on-digitalocean.html
+  state:
+    id: '100746876247412_925397057116204'
+    url: https://www.facebook.com/100683012920950/posts/925397057116204
+427784dfd4f91ae0d7ff1ef924aff165:mastodon:
+  spec:
+    title: 'เปลี่ยน LINE ให้เป็น AI ส่วนตัว: เจาะลึกการสร้าง OpenClaw บน DigitalOcean ด้วยตัวเอง [birdmusic.cc]'
+    url: https://birdmusic.cc//2026/03/23/openclaw-personal-ai-on-digitalocean.html
+  state:
+    id: '116282342241486959'
+    url: https://mastodon.in.th/@webring/116282342241486959
+427784dfd4f91ae0d7ff1ef924aff165:shorturl:
+  spec:
+    url: https://birdmusic.cc//2026/03/23/openclaw-personal-ai-on-digitalocean.html
+  state:
+    shortLink: https://link.webring.in.th/3065
 4293654c5112b1bf5babfdb888b86ef7:facebook:
   spec:
     title: '[GIT] gitmoji for meaningful commit [debuggingsoft.com]'
