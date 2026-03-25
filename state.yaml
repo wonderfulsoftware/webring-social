@@ -29964,6 +29964,32 @@ a790c8006047cca342b2362d0a92b0d9:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/11/devexpress-xrlabel-thai-problem-when-export-pdf/
   state:
     shortLink: https://webring.page.link/1cWa
+a7a0732fc954834fad8d874a81583288:bluesky:
+  spec:
+    title: แผนการเงินคู่รัก วางแผนอนาคตด้วยกัน ไม่ทะเลาะเรื่องเงิน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/couple-plan-future
+  state:
+    cid: bafyreidpb5rrm2s5z7tinswrsj4epa3uasm4laqyrztm74zhhlrrds6o7q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhubzeh4xj2n
+a7a0732fc954834fad8d874a81583288:facebook:
+  spec:
+    title: แผนการเงินคู่รัก วางแผนอนาคตด้วยกัน ไม่ทะเลาะเรื่องเงิน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/couple-plan-future
+  state:
+    id: '100746876247412_926229137032996'
+    url: https://www.facebook.com/100683012920950/posts/926229137032996
+a7a0732fc954834fad8d874a81583288:mastodon:
+  spec:
+    title: แผนการเงินคู่รัก วางแผนอนาคตด้วยกัน ไม่ทะเลาะเรื่องเงิน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/couple-plan-future
+  state:
+    id: '116288006819105620'
+    url: https://mastodon.in.th/@webring/116288006819105620
+a7a0732fc954834fad8d874a81583288:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/couple-plan-future
+  state:
+    shortLink: https://link.webring.in.th/3067
 a7b832bbd7c90b508a0e4382c7155898:facebook:
   spec:
     title: 'Tutorial: Building your first WordPress website [blog.ninprd.com]'
