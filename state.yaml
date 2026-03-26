@@ -40950,6 +40950,32 @@ e599a4a02f9215c9e43ba6de04c373fe:shorturl:
     url: https://garden.narze.live/fallback-fonts-in-vscode/
   state:
     shortLink: https://webring.page.link/beno
+e5b46a4bdb304ecb8f17627370c26f94:bluesky:
+  spec:
+    title: 'Tip :: ลดจำนวน token ในการดึงข้อมูลจาก web มาใช้งานของ AI Agent [somkiat.cc]'
+    url: https://www.somkiat.cc/tip-reduce-token-with-fetch-data-from-web/
+  state:
+    cid: bafyreibyh5dez5l3i3lzeuqxrcqn4oobqesa3lql3g5r2whszhiuggwuyy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhwt3zaqik2w
+e5b46a4bdb304ecb8f17627370c26f94:facebook:
+  spec:
+    title: 'Tip :: ลดจำนวน token ในการดึงข้อมูลจาก web มาใช้งานของ AI Agent [somkiat.cc]'
+    url: https://www.somkiat.cc/tip-reduce-token-with-fetch-data-from-web/
+  state:
+    id: '100746876247412_927114610277782'
+    url: https://www.facebook.com/100683012920950/posts/927114610277782
+e5b46a4bdb304ecb8f17627370c26f94:mastodon:
+  spec:
+    title: 'Tip :: ลดจำนวน token ในการดึงข้อมูลจาก web มาใช้งานของ AI Agent [somkiat.cc]'
+    url: https://www.somkiat.cc/tip-reduce-token-with-fetch-data-from-web/
+  state:
+    id: '116293712319460975'
+    url: https://mastodon.in.th/@webring/116293712319460975
+e5b46a4bdb304ecb8f17627370c26f94:shorturl:
+  spec:
+    url: https://www.somkiat.cc/tip-reduce-token-with-fetch-data-from-web/
+  state:
+    shortLink: https://link.webring.in.th/3069
 e600a6d6806cce4cbce4774cdd30283c:facebook:
   spec:
     title: Recap 2022 [blog.oatto.dev]
