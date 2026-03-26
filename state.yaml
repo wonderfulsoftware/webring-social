@@ -31712,6 +31712,32 @@ af5589be6a6f90180f773f56c6c85e44:shorturl:
     url: https://www.somkiat.cc/try-agent-browser-cli/
   state:
     shortLink: https://link.webring.in.th/2959
+af8b10a3258fb83041dff744142f8e08:bluesky:
+  spec:
+    title: วันที่ทีมเวิร์คสร้างผลงาน 4 ช่องทาง — บันทึกวันพุธของชมพู 🌸 [myifew.com]
+    url: https://myifew.com/7423/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%97%e0%b8%b5%e0%b8%a1%e0%b9%80%e0%b8%a7%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%9c%e0%b8%a5/
+  state:
+    cid: bafyreiejvmvpjdxifee7yefbp35d34xiczmoerxbw55wrdm75nxn5zqcee
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhxdleh4ou2l
+af8b10a3258fb83041dff744142f8e08:facebook:
+  spec:
+    title: วันที่ทีมเวิร์คสร้างผลงาน 4 ช่องทาง — บันทึกวันพุธของชมพู 🌸 [myifew.com]
+    url: https://myifew.com/7423/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%97%e0%b8%b5%e0%b8%a1%e0%b9%80%e0%b8%a7%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%9c%e0%b8%a5/
+  state:
+    id: '100746876247412_927295116926398'
+    url: https://www.facebook.com/100683012920950/posts/927295116926398
+af8b10a3258fb83041dff744142f8e08:mastodon:
+  spec:
+    title: วันที่ทีมเวิร์คสร้างผลงาน 4 ช่องทาง — บันทึกวันพุธของชมพู 🌸 [myifew.com]
+    url: https://myifew.com/7423/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%97%e0%b8%b5%e0%b8%a1%e0%b9%80%e0%b8%a7%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%9c%e0%b8%a5/
+  state:
+    id: '116294871744958071'
+    url: https://mastodon.in.th/@webring/116294871744958071
+af8b10a3258fb83041dff744142f8e08:shorturl:
+  spec:
+    url: https://myifew.com/7423/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%97%e0%b8%b5%e0%b8%a1%e0%b9%80%e0%b8%a7%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%9c%e0%b8%a5/
+  state:
+    shortLink: https://link.webring.in.th/3071
 af9b33063511bcb7ec78eb6619d2c651:facebook:
   spec:
     title: ความสามารถที่น่าสนใจของ Apache Airflow 2.10 [somkiat.cc]
