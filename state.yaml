@@ -44516,6 +44516,32 @@ f8e362697e79c0719932b4ef30253bea:shorturl:
     url: https://www.somkiat.cc/microsoft-foundry-local/
   state:
     shortLink: https://link.webring.in.th/2558
+f94ff8552548a539de4e3c170b6bf0db:bluesky:
+  spec:
+    title: NUXT Build Error Cannot find module @oxc-parser/binding-linux-x64-gnu [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/nuxt-build-error-cannot-find-module-oxc-parser-binding-linux-x64-gnu/
+  state:
+    cid: bafyreiaechxlpyyuofei7ryftln2b6yhdo2ooesyynavj2gjlcczj2tdeu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhwzrzjpfm22
+f94ff8552548a539de4e3c170b6bf0db:facebook:
+  spec:
+    title: NUXT Build Error Cannot find module @oxc-parser/binding-linux-x64-gnu [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/nuxt-build-error-cannot-find-module-oxc-parser-binding-linux-x64-gnu/
+  state:
+    id: '100746876247412_927192463603330'
+    url: https://www.facebook.com/100683012920950/posts/927192463603330
+f94ff8552548a539de4e3c170b6bf0db:mastodon:
+  spec:
+    title: NUXT Build Error Cannot find module @oxc-parser/binding-linux-x64-gnu [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/nuxt-build-error-cannot-find-module-oxc-parser-binding-linux-x64-gnu/
+  state:
+    id: '116294183004276086'
+    url: https://mastodon.in.th/@webring/116294183004276086
+f94ff8552548a539de4e3c170b6bf0db:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/03/nuxt-build-error-cannot-find-module-oxc-parser-binding-linux-x64-gnu/
+  state:
+    shortLink: https://link.webring.in.th/3070
 f95260ea32c3b591957690ea58296d2c:facebook:
   spec:
     title: ตอบคำถามเรื่อง การทดสอบ Mobile app กับระบบ network [somkiat.cc]
