@@ -10932,6 +10932,32 @@
     url: https://www.somkiat.cc/chatgpt-with-issue-bot/
   state:
     shortLink: https://webring.page.link/T8Ro
+3e68b76510eb17b8898fb3eb25d1e5f3:bluesky:
+  spec:
+    title: แจกโพย! การสร้างผู้ช่วยส่วนตัวง่าย ๆ ด้วย Gemini Gems [mikkipastel.com]
+    url: https://www.mikkipastel.com/usecase-fortune-teller-google-gemini-gems/
+  state:
+    cid: bafyreid6kq74entmkzr6prlvzvqpx2xe5ns6a6c6acodnauohuhu2rzkji
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhztmvpfmd2p
+3e68b76510eb17b8898fb3eb25d1e5f3:facebook:
+  spec:
+    title: แจกโพย! การสร้างผู้ช่วยส่วนตัวง่าย ๆ ด้วย Gemini Gems [mikkipastel.com]
+    url: https://www.mikkipastel.com/usecase-fortune-teller-google-gemini-gems/
+  state:
+    id: '100746876247412_928150336840876'
+    url: https://www.facebook.com/100683012920950/posts/928150336840876
+3e68b76510eb17b8898fb3eb25d1e5f3:mastodon:
+  spec:
+    title: แจกโพย! การสร้างผู้ช่วยส่วนตัวง่าย ๆ ด้วย Gemini Gems [mikkipastel.com]
+    url: https://www.mikkipastel.com/usecase-fortune-teller-google-gemini-gems/
+  state:
+    id: '116300504958610107'
+    url: https://mastodon.in.th/@webring/116300504958610107
+3e68b76510eb17b8898fb3eb25d1e5f3:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/usecase-fortune-teller-google-gemini-gems/
+  state:
+    shortLink: https://link.webring.in.th/3074
 3ed1deb392712fc97d0d89e384e4367b:facebook:
   spec:
     title: สวัสดี Playwright 1.39 !! [somkiat.cc]
