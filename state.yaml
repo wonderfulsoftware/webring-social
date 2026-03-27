@@ -31044,6 +31044,32 @@ acc0260ee1d36ee64a5202d738086e08:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/07/eat-ramen-fest-2025/
   state:
     shortLink: https://link.webring.in.th/2663
+acdcadf45c5f84f30f058cb260296dc5:bluesky:
+  spec:
+    title: Classical models vs neural networks for tabular data [karnwong.me]
+    url: https://karnwong.me/posts/2026/03/classical-models-vs-neural-networks-for-tabular-data/
+  state:
+    cid: bafyreifjxbg7fvfmq3nbngcrhsmfzceq26d7eynu7xiipp6wev5ppko4ma
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhzk6ro2ha2y
+acdcadf45c5f84f30f058cb260296dc5:facebook:
+  spec:
+    title: Classical models vs neural networks for tabular data [karnwong.me]
+    url: https://karnwong.me/posts/2026/03/classical-models-vs-neural-networks-for-tabular-data/
+  state:
+    id: '100746876247412_928054023517174'
+    url: https://www.facebook.com/100683012920950/posts/928054023517174
+acdcadf45c5f84f30f058cb260296dc5:mastodon:
+  spec:
+    title: Classical models vs neural networks for tabular data [karnwong.me]
+    url: https://karnwong.me/posts/2026/03/classical-models-vs-neural-networks-for-tabular-data/
+  state:
+    id: '116299840591440122'
+    url: https://mastodon.in.th/@webring/116299840591440122
+acdcadf45c5f84f30f058cb260296dc5:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/03/classical-models-vs-neural-networks-for-tabular-data/
+  state:
+    shortLink: https://link.webring.in.th/3073
 ace02453c1ce428b12a46216b9176556:facebook:
   spec:
     title: '[CR] Starbucks-Xmas Tree Brownie [debuggingsoft.com]'
