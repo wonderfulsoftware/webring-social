@@ -42971,6 +42971,32 @@ f0ac6996927a667f68c4ed08903a5f05:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/12/how-to-use-custom-fonts-such-as-thai-with-jspdf/
   state:
     shortLink: https://link.webring.in.th/2312
+f0b1b53d8532932ea1ea703c907c3d05:bluesky:
+  spec:
+    title: 'DiceBear: ไลบรารี Avatar ฟรีและ Open Source [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/dicebear-avatar-library-th/
+  state:
+    cid: bafyreiczqcgueoxb5qepusqdegyc6fwfi3tv7p7rm2pdliomqretqumuba
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mhzdnq72rs2p
+f0b1b53d8532932ea1ea703c907c3d05:facebook:
+  spec:
+    title: 'DiceBear: ไลบรารี Avatar ฟรีและ Open Source [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/dicebear-avatar-library-th/
+  state:
+    id: '100746876247412_927991880190055'
+    url: https://www.facebook.com/100683012920950/posts/927991880190055
+f0b1b53d8532932ea1ea703c907c3d05:mastodon:
+  spec:
+    title: 'DiceBear: ไลบรารี Avatar ฟรีและ Open Source [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/dicebear-avatar-library-th/
+  state:
+    id: '116299380833407665'
+    url: https://mastodon.in.th/@webring/116299380833407665
+f0b1b53d8532932ea1ea703c907c3d05:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/dicebear-avatar-library-th/
+  state:
+    shortLink: https://link.webring.in.th/3072
 f0bd5d71ed6eb90ffa8cbcb804f0c62c:facebook:
   spec:
     title: รู้จักกับ Next Auth + Prisma [mikelopster.dev]
