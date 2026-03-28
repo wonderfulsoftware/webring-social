@@ -45314,6 +45314,32 @@ fe7c16dc875d352211a3eed6cb150a6a:shorturl:
     url: https://blog.ninprd.com/blog/tutorial-blogging-with-wordpress-com/
   state:
     shortLink: https://link.webring.in.th/1807
+fed95b86a74d8ab5b5b507c706b98d46:bluesky:
+  spec:
+    title: Observability with eBPF and OTel [karnwong.me]
+    url: https://karnwong.me/posts/2026/03/observability-with-ebpf-and-otel/
+  state:
+    cid: bafyreigkb32dcjuyzvekvsnaruv7j5luwxfhjs6cdgwbpwg2bvetcsag2i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mi3tehlslp23
+fed95b86a74d8ab5b5b507c706b98d46:facebook:
+  spec:
+    title: Observability with eBPF and OTel [karnwong.me]
+    url: https://karnwong.me/posts/2026/03/observability-with-ebpf-and-otel/
+  state:
+    id: '100746876247412_928814896774420'
+    url: https://www.facebook.com/100683012920950/posts/928814896774420
+fed95b86a74d8ab5b5b507c706b98d46:mastodon:
+  spec:
+    title: Observability with eBPF and OTel [karnwong.me]
+    url: https://karnwong.me/posts/2026/03/observability-with-ebpf-and-otel/
+  state:
+    id: '116304990018138133'
+    url: https://mastodon.in.th/@webring/116304990018138133
+fed95b86a74d8ab5b5b507c706b98d46:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/03/observability-with-ebpf-and-otel/
+  state:
+    shortLink: https://link.webring.in.th/3076
 fed988b39094ae9efd2d233bae5680d7:bluesky:
   spec:
     title: 0261 | เปิด ripe-atlas probe กันเถอะ [icez.net]
