@@ -8246,6 +8246,32 @@
     url: https://www.mikkipastel.com/review-blog-2022/
   state:
     shortLink: https://webring.page.link/PVwT
+2e7f17f075ca977dcf888fc64758da57:bluesky:
+  spec:
+    title: ทำความรู้จักกับ Cline Kanban [somkiat.cc]
+    url: https://www.somkiat.cc/cline-kanban/
+  state:
+    cid: bafyreiciirhq4zj5o5npdxvuiztnjamgdnvux4dofnhz72wou6x54rac7q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mi4d3zfxjr27
+2e7f17f075ca977dcf888fc64758da57:facebook:
+  spec:
+    title: ทำความรู้จักกับ Cline Kanban [somkiat.cc]
+    url: https://www.somkiat.cc/cline-kanban/
+  state:
+    id: '100746876247412_928970796758830'
+    url: https://www.facebook.com/100683012920950/posts/928970796758830
+2e7f17f075ca977dcf888fc64758da57:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Cline Kanban [somkiat.cc]
+    url: https://www.somkiat.cc/cline-kanban/
+  state:
+    id: '116306097306649006'
+    url: https://mastodon.in.th/@webring/116306097306649006
+2e7f17f075ca977dcf888fc64758da57:shorturl:
+  spec:
+    url: https://www.somkiat.cc/cline-kanban/
+  state:
+    shortLink: https://link.webring.in.th/3078
 2e83fca5705c3d80c66e9a57fb63f373:bluesky:
   spec:
     title: 7 เทคนิคนอนกางเต็นท์ให้หลับสนิทในป่า — ฉบับนักเทรคกิ้ง 2026! [myifew.com]
