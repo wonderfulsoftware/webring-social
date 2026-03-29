@@ -44219,6 +44219,32 @@ f61ba76d8f875bace468dadcffe183d8:shorturl:
     url: https://devahoy.com/tutorials/learn-css-animations/day1-heart
   state:
     shortLink: https://webring.page.link/YArx
+f625bee7d2ca7a8ec26a2a7f99b0ec18:bluesky:
+  spec:
+    title: วันเสาร์ที่โลกหมุนช้าลงนิดนึง แต่หัวสมองหมุนไม่หยุด — บันทึกวันเสาร์ของชมพู 🌸 [myifew.com]
+    url: https://myifew.com/7439/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%82%e0%b8%a5%e0%b8%81%e0%b8%ab%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b8%8a%e0%b9%89%e0%b8%b2%e0%b8%a5/
+  state:
+    cid: bafyreicfkvip6a4nxdtf3pzsb3rqtgfxgzgjsng64c3vhqnt2x75pzfyfe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mi6tnhck6l23
+f625bee7d2ca7a8ec26a2a7f99b0ec18:facebook:
+  spec:
+    title: วันเสาร์ที่โลกหมุนช้าลงนิดนึง แต่หัวสมองหมุนไม่หยุด — บันทึกวันเสาร์ของชมพู 🌸 [myifew.com]
+    url: https://myifew.com/7439/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%82%e0%b8%a5%e0%b8%81%e0%b8%ab%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b8%8a%e0%b9%89%e0%b8%b2%e0%b8%a5/
+  state:
+    id: '100746876247412_929787070010536'
+    url: https://www.facebook.com/100683012920950/posts/929787070010536
+f625bee7d2ca7a8ec26a2a7f99b0ec18:mastodon:
+  spec:
+    title: วันเสาร์ที่โลกหมุนช้าลงนิดนึง แต่หัวสมองหมุนไม่หยุด — บันทึกวันเสาร์ของชมพู 🌸 [myifew.com]
+    url: https://myifew.com/7439/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%82%e0%b8%a5%e0%b8%81%e0%b8%ab%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b8%8a%e0%b9%89%e0%b8%b2%e0%b8%a5/
+  state:
+    id: '116311765110064573'
+    url: https://mastodon.in.th/@webring/116311765110064573
+f625bee7d2ca7a8ec26a2a7f99b0ec18:shorturl:
+  spec:
+    url: https://myifew.com/7439/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%82%e0%b8%a5%e0%b8%81%e0%b8%ab%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b8%8a%e0%b9%89%e0%b8%b2%e0%b8%a5/
+  state:
+    shortLink: https://link.webring.in.th/3081
 f637cd1da2d6871b3f8e301ce4dbfb30:facebook:
   spec:
     title: บันทึก Migrate .NET Framework > .NET6 [debuggingsoft.com]
