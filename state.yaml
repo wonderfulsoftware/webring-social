@@ -36808,6 +36808,32 @@ cbd896d49d9d7477c29d45c48a0aff34:shorturl:
     url: https://www.mikkipastel.com/review-github-copilot-business/
   state:
     shortLink: https://link.webring.in.th/2653
+cbdae2d7136776de8317d313c94e5729:bluesky:
+  spec:
+    title: หลงมาฟัง Claude Code For Investment [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-claude-code-for-investment/
+  state:
+    cid: bafyreih7bps23au7aduwyf6ms2htodglp2s7yxugzxvzptqfmemqit3jrq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mi766gssgp25
+cbdae2d7136776de8317d313c94e5729:facebook:
+  spec:
+    title: หลงมาฟัง Claude Code For Investment [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-claude-code-for-investment/
+  state:
+    id: '100746876247412_929900803332496'
+    url: https://www.facebook.com/100683012920950/posts/929900803332496
+cbdae2d7136776de8317d313c94e5729:mastodon:
+  spec:
+    title: หลงมาฟัง Claude Code For Investment [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-claude-code-for-investment/
+  state:
+    id: '116312505194956000'
+    url: https://mastodon.in.th/@webring/116312505194956000
+cbdae2d7136776de8317d313c94e5729:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/03/recap-claude-code-for-investment/
+  state:
+    shortLink: https://link.webring.in.th/3082
 cbea474a75cab605aa911556501d40ff:bluesky:
   spec:
     title: 'Proxmox: How to Remove directory [debuggingsoft.com]'
