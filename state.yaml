@@ -2973,6 +2973,32 @@
     url: https://nitpum.com/post/edge-z-index-tool/
   state:
     shortLink: https://webring.page.link/Hv1E
+101802888966b66ad1bb1f3a98771660:bluesky:
+  spec:
+    title: การใช้งาน Vertical tab ใน Google Chrome [somkiat.cc]
+    url: https://www.somkiat.cc/vertical-tab-in-google-chrome/
+  state:
+    cid: bafyreiajugohe6o3lxt3ofslbdez42sjr4tbnjbppoeryv7jmj4wp6dreq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mi6kxa5nxz26
+101802888966b66ad1bb1f3a98771660:facebook:
+  spec:
+    title: การใช้งาน Vertical tab ใน Google Chrome [somkiat.cc]
+    url: https://www.somkiat.cc/vertical-tab-in-google-chrome/
+  state:
+    id: '100746876247412_929700710019172'
+    url: https://www.facebook.com/100683012920950/posts/929700710019172
+101802888966b66ad1bb1f3a98771660:mastodon:
+  spec:
+    title: การใช้งาน Vertical tab ใน Google Chrome [somkiat.cc]
+    url: https://www.somkiat.cc/vertical-tab-in-google-chrome/
+  state:
+    id: '116311153342397366'
+    url: https://mastodon.in.th/@webring/116311153342397366
+101802888966b66ad1bb1f3a98771660:shorturl:
+  spec:
+    url: https://www.somkiat.cc/vertical-tab-in-google-chrome/
+  state:
+    shortLink: https://link.webring.in.th/3080
 101a2dacb823c18b32b1c828cd45d5ba:bluesky:
   spec:
     title: สร้างระบบ Notification (Push Event) ด้วย SSE หรือ WebSocket [poolsawat.com]
