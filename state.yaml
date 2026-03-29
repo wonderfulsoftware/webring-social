@@ -2544,6 +2544,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/07/install-openssh-server-on-windows-11-10/
   state:
     shortLink: https://webring.page.link/Hrph
+0dd1cef9bf5dbef55b40ff6352400a30:bluesky:
+  spec:
+    title: The Deception of Indirection [yothinix.com]
+    url: https://yothinix.com/the-deception-of-indirection/
+  state:
+    cid: bafyreif7wtm5hsdmzinibgv5i72si6evmgo6eeu7dj2jsn7g5zomecw3te
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mi6ervro3w23
+0dd1cef9bf5dbef55b40ff6352400a30:facebook:
+  spec:
+    title: The Deception of Indirection [yothinix.com]
+    url: https://yothinix.com/the-deception-of-indirection/
+  state:
+    id: '100746876247412_929640280025215'
+    url: https://www.facebook.com/100683012920950/posts/929640280025215
+0dd1cef9bf5dbef55b40ff6352400a30:mastodon:
+  spec:
+    title: The Deception of Indirection [yothinix.com]
+    url: https://yothinix.com/the-deception-of-indirection/
+  state:
+    id: '116310719416459384'
+    url: https://mastodon.in.th/@webring/116310719416459384
+0dd1cef9bf5dbef55b40ff6352400a30:shorturl:
+  spec:
+    url: https://yothinix.com/the-deception-of-indirection/
+  state:
+    shortLink: https://link.webring.in.th/3079
 0e04bcabce0b725dbaedcc8eef93f7fc:bluesky:
   spec:
     title: Writeups on automating generating code with Figma MCP [yuttakhanb.dev]
