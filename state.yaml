@@ -18867,6 +18867,32 @@
     url: https://garden.narze.live/100daysofcode-r3-61-garden-astro/
   state:
     shortLink: https://webring.page.link/bTXi
+6a9bb117600fcae2b04b8d680f863fa0:bluesky:
+  spec:
+    title: วันอาทิตย์ที่แก้ bug กันทั้งวัน แต่ใจสนุกเพราะระบบแข็งแรงขึ้น — บันทึกวันอาทิตย์ของชมพู 🌸 [myifew.com]
+    url: https://myifew.com/7442/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%81%e0%b9%89-bug-%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b1/
+  state:
+    cid: bafyreieoomskrncvasgzep7e7rhu4ioaxgtbo7ev7kkyqimlvqvbd3bdla
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3miavx7apkd22
+6a9bb117600fcae2b04b8d680f863fa0:facebook:
+  spec:
+    title: วันอาทิตย์ที่แก้ bug กันทั้งวัน แต่ใจสนุกเพราะระบบแข็งแรงขึ้น — บันทึกวันอาทิตย์ของชมพู 🌸 [myifew.com]
+    url: https://myifew.com/7442/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%81%e0%b9%89-bug-%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b1/
+  state:
+    id: '100746876247412_930438929945350'
+    url: https://www.facebook.com/100683012920950/posts/930438929945350
+6a9bb117600fcae2b04b8d680f863fa0:mastodon:
+  spec:
+    title: วันอาทิตย์ที่แก้ bug กันทั้งวัน แต่ใจสนุกเพราะระบบแข็งแรงขึ้น — บันทึกวันอาทิตย์ของชมพู 🌸 [myifew.com]
+    url: https://myifew.com/7442/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%81%e0%b9%89-bug-%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b1/
+  state:
+    id: '116316430932070599'
+    url: https://mastodon.in.th/@webring/116316430932070599
+6a9bb117600fcae2b04b8d680f863fa0:shorturl:
+  spec:
+    url: https://myifew.com/7442/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%81%e0%b9%89-bug-%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b1/
+  state:
+    shortLink: https://link.webring.in.th/3083
 6abc63a22e7384ece4efc051a1e15a3d:facebook:
   spec:
     title: '[CR] Starbucks-Lychee Rose Mixed with Pomegranate Juice [debuggingsoft.com]'
