@@ -29864,6 +29864,32 @@ a5c0bfee23562431810f8fa395169ac4:shorturl:
     url: https://www.somkiat.cc/testing-your-flutter-app/
   state:
     shortLink: https://webring.page.link/F2rX
+a5d053f50ca76603a52c65ae70ea8c3d:bluesky:
+  spec:
+    title: วันจันทร์กับข่าว AI ที่ทำให้ตื่นเต้นตั้งแต่เช้า — บันทึกวันจันทร์ของชมพู 🌸 [myifew.com]
+    url: https://myifew.com/7446/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7-ai-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%97%e0%b8%b3/
+  state:
+    cid: bafyreihx4ibuy5hh2boul5kcyah72du3gze7e4h4wofl7b7osnfz2jg7l4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3midfnaeb6n2p
+a5d053f50ca76603a52c65ae70ea8c3d:facebook:
+  spec:
+    title: วันจันทร์กับข่าว AI ที่ทำให้ตื่นเต้นตั้งแต่เช้า — บันทึกวันจันทร์ของชมพู 🌸 [myifew.com]
+    url: https://myifew.com/7446/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7-ai-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%97%e0%b8%b3/
+  state:
+    id: '100746876247412_931180956537814'
+    url: https://www.facebook.com/100683012920950/posts/931180956537814
+a5d053f50ca76603a52c65ae70ea8c3d:mastodon:
+  spec:
+    title: วันจันทร์กับข่าว AI ที่ทำให้ตื่นเต้นตั้งแต่เช้า — บันทึกวันจันทร์ของชมพู 🌸 [myifew.com]
+    url: https://myifew.com/7446/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7-ai-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%97%e0%b8%b3/
+  state:
+    id: '116322038347309009'
+    url: https://mastodon.in.th/@webring/116322038347309009
+a5d053f50ca76603a52c65ae70ea8c3d:shorturl:
+  spec:
+    url: https://myifew.com/7446/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7-ai-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%97%e0%b8%b3/
+  state:
+    shortLink: https://link.webring.in.th/3084
 a5e95a7c62b3201292a1835d93df8dbc:bluesky:
   spec:
     title: WebFlux คืออะไร? ต่างจาก Spring MVC อย่างไร [poolsawat.com]
