@@ -3328,6 +3328,32 @@
     url: https://www.mikkipastel.com/list-git-command-for-side-project-in-github/
   state:
     shortLink: https://link.webring.in.th/2551
+12126ea8e67a66d07d638a015cdd8f37:bluesky:
+  spec:
+    title: น้ำมันขึ้น…เงินในกระเป๋าหายไปเท่าไหร่? [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/oil-crisis
+  state:
+    cid: bafyreigus3aa3oabdyeshw2bulvveis5wi5coqrdtf3lqbxtnioqioucba
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3midmevr34u2c
+12126ea8e67a66d07d638a015cdd8f37:facebook:
+  spec:
+    title: น้ำมันขึ้น…เงินในกระเป๋าหายไปเท่าไหร่? [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/oil-crisis
+  state:
+    id: '100746876247412_931240346531875'
+    url: https://www.facebook.com/100683012920950/posts/931240346531875
+12126ea8e67a66d07d638a015cdd8f37:mastodon:
+  spec:
+    title: น้ำมันขึ้น…เงินในกระเป๋าหายไปเท่าไหร่? [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/oil-crisis
+  state:
+    id: '116322512875977232'
+    url: https://mastodon.in.th/@webring/116322512875977232
+12126ea8e67a66d07d638a015cdd8f37:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/oil-crisis
+  state:
+    shortLink: https://link.webring.in.th/3085
 1218403ac66de1efcfacf4718fa380e4:facebook:
   spec:
     title: Oracle VirtualBox Licensed [debuggingsoft.com]
