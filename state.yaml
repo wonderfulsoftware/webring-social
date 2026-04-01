@@ -11382,6 +11382,32 @@
     url: https://www.somkiat.cc/technology-radar-2024-volume-30/
   state:
     shortLink: https://link.webring.in.th/1864
+401d231506c2a9fdc92f41acdbf019ab:bluesky:
+  spec:
+    title: Exploring the .NET Open Source Application 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/exploring-the-net-open-source-application-2026/
+  state:
+    cid: bafyreiatozpbns2f4f3inwghhtgxgfwjqrq5lagv57kombi572labxxxie
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3miggq6tlpn2l
+401d231506c2a9fdc92f41acdbf019ab:facebook:
+  spec:
+    title: Exploring the .NET Open Source Application 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/exploring-the-net-open-source-application-2026/
+  state:
+    id: '100746876247412_932147219774521'
+    url: https://www.facebook.com/100683012920950/posts/932147219774521
+401d231506c2a9fdc92f41acdbf019ab:mastodon:
+  spec:
+    title: Exploring the .NET Open Source Application 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/exploring-the-net-open-source-application-2026/
+  state:
+    id: '116328870786448295'
+    url: https://mastodon.in.th/@webring/116328870786448295
+401d231506c2a9fdc92f41acdbf019ab:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/04/exploring-the-net-open-source-application-2026/
+  state:
+    shortLink: https://link.webring.in.th/3088
 406034eb9ac1f8c085d54080825b2253:bluesky:
   spec:
     title: วันจันทร์กับบทเรียนเรื่อง “ซ้ำ” 🌸 [myifew.com]
