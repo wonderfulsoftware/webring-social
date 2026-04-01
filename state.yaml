@@ -28383,6 +28383,32 @@
     url: https://garden.narze.live/2-Areas/Keyboard-Typing/Typing-Guide/
   state:
     shortLink: https://webring.page.link/xBfc
+9ce1d61b8984f7017d586afc52180b93:bluesky:
+  spec:
+    title: Development environment setup with flox and direnv [karnwong.me]
+    url: https://karnwong.me/posts/2026/03/development-environment-setup-with-flox-and-direnv/
+  state:
+    cid: bafyreif26dzwc4lp7p6pfizucmm3p6bnsorvvojjkutgbomo4ul63hu4ve
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mifwu2euo72y
+9ce1d61b8984f7017d586afc52180b93:facebook:
+  spec:
+    title: Development environment setup with flox and direnv [karnwong.me]
+    url: https://karnwong.me/posts/2026/03/development-environment-setup-with-flox-and-direnv/
+  state:
+    id: '100746876247412_931986029790640'
+    url: https://www.facebook.com/100683012920950/posts/931986029790640
+9ce1d61b8984f7017d586afc52180b93:mastodon:
+  spec:
+    title: Development environment setup with flox and direnv [karnwong.me]
+    url: https://karnwong.me/posts/2026/03/development-environment-setup-with-flox-and-direnv/
+  state:
+    id: '116327753401427813'
+    url: https://mastodon.in.th/@webring/116327753401427813
+9ce1d61b8984f7017d586afc52180b93:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/03/development-environment-setup-with-flox-and-direnv/
+  state:
+    shortLink: https://link.webring.in.th/3086
 9ce5def91cf4f48b46948ebf5155ad2c:facebook:
   spec:
     title: การ Custom font ใน React Native [kajame.xyz]
