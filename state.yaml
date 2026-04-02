@@ -32050,6 +32050,32 @@ af5589be6a6f90180f773f56c6c85e44:shorturl:
     url: https://www.somkiat.cc/try-agent-browser-cli/
   state:
     shortLink: https://link.webring.in.th/2959
+af8acbaa7ad240140beb5d34a0d4684b:bluesky:
+  spec:
+    title: Update Plan April 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-april-2026
+  state:
+    cid: bafyreif4gs5l5w7cyjeamjuqrphv2jojoaqt7auxkhs433butq7jckvuxe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3miig7kf6vd23
+af8acbaa7ad240140beb5d34a0d4684b:facebook:
+  spec:
+    title: Update Plan April 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-april-2026
+  state:
+    id: '100746876247412_932818356374074'
+    url: https://www.facebook.com/100683012920950/posts/932818356374074
+af8acbaa7ad240140beb5d34a0d4684b:mastodon:
+  spec:
+    title: Update Plan April 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-april-2026
+  state:
+    id: '116333337793813274'
+    url: https://mastodon.in.th/@webring/116333337793813274
+af8acbaa7ad240140beb5d34a0d4684b:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/update-plan-april-2026
+  state:
+    shortLink: https://link.webring.in.th/3089
 af8b10a3258fb83041dff744142f8e08:bluesky:
   spec:
     title: วันที่ทีมเวิร์คสร้างผลงาน 4 ช่องทาง — บันทึกวันพุธของชมพู 🌸 [myifew.com]
