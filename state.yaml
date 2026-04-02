@@ -15142,6 +15142,32 @@
     url: https://blog.ninprd.com/blog/2024-year-in-review/
   state:
     shortLink: https://link.webring.in.th/2320
+56bb15a3e3da391b20ce2608ff80cf7e:bluesky:
+  spec:
+    title: Playwright v1.59.1 ออกมาอย่างไว แก้ไขปัญหา codegen [somkiat.cc]
+    url: https://www.somkiat.cc/playwright-v1-59-1-with-codegen/
+  state:
+    cid: bafyreib7oqixtaoplx4yptpazgge7eh5cq44ievgwswkrfgp7wtriljzca
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3miiwrzumhb23
+56bb15a3e3da391b20ce2608ff80cf7e:facebook:
+  spec:
+    title: Playwright v1.59.1 ออกมาอย่างไว แก้ไขปัญหา codegen [somkiat.cc]
+    url: https://www.somkiat.cc/playwright-v1-59-1-with-codegen/
+  state:
+    id: '100746876247412_932978583024718'
+    url: https://www.facebook.com/100683012920950/posts/932978583024718
+56bb15a3e3da391b20ce2608ff80cf7e:mastodon:
+  spec:
+    title: Playwright v1.59.1 ออกมาอย่างไว แก้ไขปัญหา codegen [somkiat.cc]
+    url: https://www.somkiat.cc/playwright-v1-59-1-with-codegen/
+  state:
+    id: '116334504325526167'
+    url: https://mastodon.in.th/@webring/116334504325526167
+56bb15a3e3da391b20ce2608ff80cf7e:shorturl:
+  spec:
+    url: https://www.somkiat.cc/playwright-v1-59-1-with-codegen/
+  state:
+    shortLink: https://link.webring.in.th/3091
 56ce8a4181ecd7f2be4b5262326bd07d:bluesky:
   spec:
     title: เมื่อ DEV ลองไป Workshop Microsoft 365 Admin + Microsoft Defender [debuggingsoft.com]
