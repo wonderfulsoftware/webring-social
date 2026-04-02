@@ -15213,6 +15213,32 @@
     url: https://notes.dt.in.th/PasteQR
   state:
     shortLink: https://link.webring.in.th/2129
+57484faa1f4a1f37ebfa80e72067a1ed:bluesky:
+  spec:
+    title: Bistari, Bistari – จากภูเขาสูง ถึง ชีวิตเป็นอยู่ [myifew.com]
+    url: https://myifew.com/7457/bistari-bistari/
+  state:
+    cid: bafyreiaik47d2wjqpgtiwsohogefcxgjgkk32jm5rwss4zqdgv6l7jgsf4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3miinb5364n2p
+57484faa1f4a1f37ebfa80e72067a1ed:facebook:
+  spec:
+    title: Bistari, Bistari – จากภูเขาสูง ถึง ชีวิตเป็นอยู่ [myifew.com]
+    url: https://myifew.com/7457/bistari-bistari/
+  state:
+    id: '100746876247412_932885183034058'
+    url: https://www.facebook.com/100683012920950/posts/932885183034058
+57484faa1f4a1f37ebfa80e72067a1ed:mastodon:
+  spec:
+    title: Bistari, Bistari – จากภูเขาสูง ถึง ชีวิตเป็นอยู่ [myifew.com]
+    url: https://myifew.com/7457/bistari-bistari/
+  state:
+    id: '116333833629973100'
+    url: https://mastodon.in.th/@webring/116333833629973100
+57484faa1f4a1f37ebfa80e72067a1ed:shorturl:
+  spec:
+    url: https://myifew.com/7457/bistari-bistari/
+  state:
+    shortLink: https://link.webring.in.th/3090
 575d39c8dd1fefc9c3f12bc4987283ee:facebook:
   spec:
     title: อยาก Re-Install OS เครื่องบน Cloud ใหม่ แต่ไม่อยาก Terminate เครื่องทิ้ง ทำไงดี [kusumotolab.com]
