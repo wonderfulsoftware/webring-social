@@ -45413,6 +45413,32 @@ fbaf2aa50410c6804e405b6bf2436f76:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/01/create-a-gitignore-file-with-dotnet-cli/
   state:
     shortLink: https://link.webring.in.th/1721
+fbe86bc030ad8a9f4edc07a684ad2715:bluesky:
+  spec:
+    title: แนวทางใหม่ ๆ ในการสร้าง Diagram ด้วย Draw.io [somkiat.cc]
+    url: https://www.somkiat.cc/drawio-mcp-create-diagram/
+  state:
+    cid: bafyreidcxshasaasxwowmqy45pp33pyrskkcjp2gttp3dp624apiwygpuu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mikwrrdzxv22
+fbe86bc030ad8a9f4edc07a684ad2715:facebook:
+  spec:
+    title: แนวทางใหม่ ๆ ในการสร้าง Diagram ด้วย Draw.io [somkiat.cc]
+    url: https://www.somkiat.cc/drawio-mcp-create-diagram/
+  state:
+    id: '100746876247412_933634906292419'
+    url: https://www.facebook.com/100683012920950/posts/933634906292419
+fbe86bc030ad8a9f4edc07a684ad2715:mastodon:
+  spec:
+    title: แนวทางใหม่ ๆ ในการสร้าง Diagram ด้วย Draw.io [somkiat.cc]
+    url: https://www.somkiat.cc/drawio-mcp-create-diagram/
+  state:
+    id: '116339007337764524'
+    url: https://mastodon.in.th/@webring/116339007337764524
+fbe86bc030ad8a9f4edc07a684ad2715:shorturl:
+  spec:
+    url: https://www.somkiat.cc/drawio-mcp-create-diagram/
+  state:
+    shortLink: https://link.webring.in.th/3092
 fc343bd3e0e383c039de5dc6c1e3a5b7:bluesky:
   spec:
     title: วาร์ปมาจด AI Community Day Bangkok 2025 [debuggingsoft.com]
