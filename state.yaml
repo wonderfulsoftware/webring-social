@@ -41335,6 +41335,32 @@ e49f6f8d26b8955ae3937a9c3158ac0e:shorturl:
     url: https://lucian.solutions/blog/202402-chinese-new-year-lucia
   state:
     shortLink: https://link.webring.in.th/1769
+e4e9a2bb4eed534a2472ab673acb2ce9:bluesky:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง AI Agent for coding แบบพื้นฐาน [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-basic-ai-agent-for-coding/
+  state:
+    cid: bafyreifllobumevsi7tjkvl4a3rcof3ubuxzons54ltub67xrn64pyooly
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3minghg57fq22
+e4e9a2bb4eed534a2472ab673acb2ce9:facebook:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง AI Agent for coding แบบพื้นฐาน [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-basic-ai-agent-for-coding/
+  state:
+    id: '100746876247412_934444176211492'
+    url: https://www.facebook.com/100683012920950/posts/934444176211492
+e4e9a2bb4eed534a2472ab673acb2ce9:mastodon:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง AI Agent for coding แบบพื้นฐาน [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-basic-ai-agent-for-coding/
+  state:
+    id: '116344614038621286'
+    url: https://mastodon.in.th/@webring/116344614038621286
+e4e9a2bb4eed534a2472ab673acb2ce9:shorturl:
+  spec:
+    url: https://www.somkiat.cc/sharing-basic-ai-agent-for-coding/
+  state:
+    shortLink: https://link.webring.in.th/3094
 e4fdbfaf8069c23f07e4bf408c8dd952:bluesky:
   spec:
     title: DB2 SQL1652N File I/O error occurred. [debuggingsoft.com]
