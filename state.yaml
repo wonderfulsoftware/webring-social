@@ -40439,6 +40439,32 @@ decbac9bd7188e3d0e2127bb8346fbe0:shorturl:
     url: https://naiwaen.debuggingsoft.com/2026/03/recap-net-thailand-developer-day-2026-mar/
   state:
     shortLink: https://link.webring.in.th/3062
+def5120abddd40fd2233585c93a6667e:bluesky:
+  spec:
+    title: FedCM + Third-party Cookies Migration Checklist [amiearth.com]
+    url: https://amiearth.com/blog/fedcm-third-party-cookies-migration-checklist
+  state:
+    cid: bafyreiarrzm2fgjyvhxijwndndgenhrucyagjplsa3d4f4y5ubdxmrtxzy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mivjksgkws2p
+def5120abddd40fd2233585c93a6667e:facebook:
+  spec:
+    title: FedCM + Third-party Cookies Migration Checklist [amiearth.com]
+    url: https://amiearth.com/blog/fedcm-third-party-cookies-migration-checklist
+  state:
+    id: '100746876247412_936950195960890'
+    url: https://www.facebook.com/100683012920950/posts/936950195960890
+def5120abddd40fd2233585c93a6667e:mastodon:
+  spec:
+    title: FedCM + Third-party Cookies Migration Checklist [amiearth.com]
+    url: https://amiearth.com/blog/fedcm-third-party-cookies-migration-checklist
+  state:
+    id: '116362847103339903'
+    url: https://mastodon.in.th/@webring/116362847103339903
+def5120abddd40fd2233585c93a6667e:shorturl:
+  spec:
+    url: https://amiearth.com/blog/fedcm-third-party-cookies-migration-checklist
+  state:
+    shortLink: https://link.webring.in.th/3100
 defe0d87e476b6e9cb1b0f8d72ae8f90:facebook:
   spec:
     title: 'AI-102: Get started with Azure AI Services [debuggingsoft.com]'
