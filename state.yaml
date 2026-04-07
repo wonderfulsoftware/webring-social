@@ -30060,6 +30060,32 @@ a520b1e1461d8a1a9f30a683accafe3e:shorturl:
     url: https://naiwaen.debuggingsoft.com/2026/03/fossasia-2026-community-day-event-recap/
   state:
     shortLink: https://link.webring.in.th/3020
+a54ecf011b0f99a08473e8549813d66a:bluesky:
+  spec:
+    title: I redesigned my website [betich.me]
+    url: https://betich.me/notes/i-redesigned-my-website/
+  state:
+    cid: bafyreicgnvlbvy4dcz6my4ri6f6ybywpgwbjnhoegkkyusp3gdxvtlk3qe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3miv7qrotdy2n
+a54ecf011b0f99a08473e8549813d66a:facebook:
+  spec:
+    title: I redesigned my website [betich.me]
+    url: https://betich.me/notes/i-redesigned-my-website/
+  state:
+    id: '100746876247412_936859955969914'
+    url: https://www.facebook.com/100683012920950/posts/936859955969914
+a54ecf011b0f99a08473e8549813d66a:mastodon:
+  spec:
+    title: I redesigned my website [betich.me]
+    url: https://betich.me/notes/i-redesigned-my-website/
+  state:
+    id: '116362156651457113'
+    url: https://mastodon.in.th/@webring/116362156651457113
+a54ecf011b0f99a08473e8549813d66a:shorturl:
+  spec:
+    url: https://betich.me/notes/i-redesigned-my-website/
+  state:
+    shortLink: https://link.webring.in.th/3099
 a5a875cbe75928bf4980d6daf25ce191:facebook:
   spec:
     title: 'TME2024: Xiaomi 13T Pro [debuggingsoft.com]'
