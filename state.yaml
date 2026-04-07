@@ -41799,6 +41799,32 @@ e77cc4b9bc21e16ce4ce27eed915bb62:shorturl:
     url: https://karnwong.me/posts/2026/02/book-highlights---of-monsters-and-mainframes-by-barbara-truelove/
   state:
     shortLink: https://link.webring.in.th/2958
+e79e84b248fdeca5d2e119c6086cfebc:bluesky:
+  spec:
+    title: Garmin development setup on Linux [karnwong.me]
+    url: https://karnwong.me/posts/2026/04/garmin-development-setup-on-linux/
+  state:
+    cid: bafyreic2aj6xcvsisnvhfhfriqr4b5rblqdnifeihhi3rlhtxrj45ntqgu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3miuyvcos6h2l
+e79e84b248fdeca5d2e119c6086cfebc:facebook:
+  spec:
+    title: Garmin development setup on Linux [karnwong.me]
+    url: https://karnwong.me/posts/2026/04/garmin-development-setup-on-linux/
+  state:
+    id: '100746876247412_936799189309324'
+    url: https://www.facebook.com/100683012920950/posts/936799189309324
+e79e84b248fdeca5d2e119c6086cfebc:mastodon:
+  spec:
+    title: Garmin development setup on Linux [karnwong.me]
+    url: https://karnwong.me/posts/2026/04/garmin-development-setup-on-linux/
+  state:
+    id: '116361673893079963'
+    url: https://mastodon.in.th/@webring/116361673893079963
+e79e84b248fdeca5d2e119c6086cfebc:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/04/garmin-development-setup-on-linux/
+  state:
+    shortLink: https://link.webring.in.th/3098
 e7c7514d9313d04a3574694b208472dc:facebook:
   spec:
     title: Global Azure 2024 – Thailand [debuggingsoft.com]
