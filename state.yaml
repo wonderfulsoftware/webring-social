@@ -28309,6 +28309,32 @@
     url: https://notes.dt.in.th/PostgresDevConfig
   state:
     shortLink: https://link.webring.in.th/1717
+9bf7cff352be9aa4e6204266d9a4f723:bluesky:
+  spec:
+    title: อยู่ดี ๆ ทำไมแอปแสดงผลเต็มจอ? มาดูวิธีแก้ใน Android 15 กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/fix-edge-to-edge-android-15/
+  state:
+    cid: bafyreievorjf3uguy7ocz7u65ubsnjmjjgipdpba7ml6elkcfx46ioq6ti
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mivts6rq2q27
+9bf7cff352be9aa4e6204266d9a4f723:facebook:
+  spec:
+    title: อยู่ดี ๆ ทำไมแอปแสดงผลเต็มจอ? มาดูวิธีแก้ใน Android 15 กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/fix-edge-to-edge-android-15/
+  state:
+    id: '100746876247412_937060092616567'
+    url: https://www.facebook.com/100683012920950/posts/937060092616567
+9bf7cff352be9aa4e6204266d9a4f723:mastodon:
+  spec:
+    title: อยู่ดี ๆ ทำไมแอปแสดงผลเต็มจอ? มาดูวิธีแก้ใน Android 15 กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/fix-edge-to-edge-android-15/
+  state:
+    id: '116363566976935482'
+    url: https://mastodon.in.th/@webring/116363566976935482
+9bf7cff352be9aa4e6204266d9a4f723:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/fix-edge-to-edge-android-15/
+  state:
+    shortLink: https://link.webring.in.th/3101
 9c00e222d79ba2c1a6a0b29701620def:bluesky:
   spec:
     title: Illustration - 2025のゆきみさん🌟 [lucian.solutions]
