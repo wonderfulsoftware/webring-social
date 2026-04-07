@@ -45225,6 +45225,32 @@ f8c980f78371aba5d2ea95a62f4e05ec:shorturl:
     url: https://www.somkiat.cc/hello-podman-compose/
   state:
     shortLink: https://webring.page.link/cnkj
+f8d89b888f3344e1886a2d30dc218528:bluesky:
+  spec:
+    title: ลองมากิน Ang Kee Pork Chop [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/cr-ang-kee-pork-shop/
+  state:
+    cid: bafyreigbaiqrw3qebsvhhb4kenu7nth45n67bitzgu6abb2vncpoeeunau
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3miw5vomz6i2g
+f8d89b888f3344e1886a2d30dc218528:facebook:
+  spec:
+    title: ลองมากิน Ang Kee Pork Chop [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/cr-ang-kee-pork-shop/
+  state:
+    id: '100746876247412_937174585938451'
+    url: https://www.facebook.com/100683012920950/posts/937174585938451
+f8d89b888f3344e1886a2d30dc218528:mastodon:
+  spec:
+    title: ลองมากิน Ang Kee Pork Chop [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/cr-ang-kee-pork-shop/
+  state:
+    id: '116364278423855095'
+    url: https://mastodon.in.th/@webring/116364278423855095
+f8d89b888f3344e1886a2d30dc218528:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/04/cr-ang-kee-pork-shop/
+  state:
+    shortLink: https://link.webring.in.th/3102
 f8e049c5ebee8c93763ff7aaa624257f:facebook:
   spec:
     title: 'MongoDB in Docker: ‘Authentication Failed’ when logging in to a non-default database name [dt.in.th]'
