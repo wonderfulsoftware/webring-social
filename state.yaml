@@ -23395,6 +23395,32 @@
     url: https://www.mikkipastel.com/icp_world_nft_gm_club/
   state:
     shortLink: https://webring.page.link/LhK5
+80a84887d1213ed748baa122dca96c8b:bluesky:
+  spec:
+    title: 'Project Glasswing กับ Claude Mythos Preview: เมื่อความร่วมมือข้ามค่ายพยายามรักษาโค้ดสำคัญในยุค AI [amiearth.com]'
+    url: https://amiearth.com/blog/project-glasswing-claude-mythos-preview
+  state:
+    cid: bafyreidzvuqklg3ze5buliyfxc6yi4go5m3ulrsaoqyxckk4565qrtagve
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3miyeee5wnt2p
+80a84887d1213ed748baa122dca96c8b:facebook:
+  spec:
+    title: 'Project Glasswing กับ Claude Mythos Preview: เมื่อความร่วมมือข้ามค่ายพยายามรักษาโค้ดสำคัญในยุค AI [amiearth.com]'
+    url: https://amiearth.com/blog/project-glasswing-claude-mythos-preview
+  state:
+    id: '100746876247412_937810225874887'
+    url: https://www.facebook.com/100683012920950/posts/937810225874887
+80a84887d1213ed748baa122dca96c8b:mastodon:
+  spec:
+    title: 'Project Glasswing กับ Claude Mythos Preview: เมื่อความร่วมมือข้ามค่ายพยายามรักษาโค้ดสำคัญในยุค AI [amiearth.com]'
+    url: https://amiearth.com/blog/project-glasswing-claude-mythos-preview
+  state:
+    id: '116369236346338951'
+    url: https://mastodon.in.th/@webring/116369236346338951
+80a84887d1213ed748baa122dca96c8b:shorturl:
+  spec:
+    url: https://amiearth.com/blog/project-glasswing-claude-mythos-preview
+  state:
+    shortLink: https://link.webring.in.th/3106
 80b1b0297849e166ecf8d913e0dbe055:facebook:
   spec:
     title: Git reset only unstaged changes [garden.narze.live]
