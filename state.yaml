@@ -20367,6 +20367,32 @@
     url: https://tech.duckfollow.co/view/credit-card
   state:
     shortLink: https://webring.page.link/KBGB
+71aa6eefa46cc138caa04ae5fed0aa66:bluesky:
+  spec:
+    title: LINE Runner Bot [betich.me]
+    url: https://betich.me/notes/line-runner-bot/
+  state:
+    cid: bafyreidnoztcr7prdhuddk6w62wukwtl3bpomy73usguujni4kqufkmsta
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mixjhkfwty2i
+71aa6eefa46cc138caa04ae5fed0aa66:facebook:
+  spec:
+    title: LINE Runner Bot [betich.me]
+    url: https://betich.me/notes/line-runner-bot/
+  state:
+    id: '100746876247412_937551402567436'
+    url: https://www.facebook.com/100683012920950/posts/937551402567436
+71aa6eefa46cc138caa04ae5fed0aa66:mastodon:
+  spec:
+    title: LINE Runner Bot [betich.me]
+    url: https://betich.me/notes/line-runner-bot/
+  state:
+    id: '116367343467984959'
+    url: https://mastodon.in.th/@webring/116367343467984959
+71aa6eefa46cc138caa04ae5fed0aa66:shorturl:
+  spec:
+    url: https://betich.me/notes/line-runner-bot/
+  state:
+    shortLink: https://link.webring.in.th/3103
 7229a88cf9aba07fb44664b5c3590149:facebook:
   spec:
     title: การใช้งาน Dependency Track [somkiat.cc]
