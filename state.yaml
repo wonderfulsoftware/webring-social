@@ -11088,6 +11088,32 @@
     url: https://www.mikkipastel.com/usecase-fortune-teller-google-gemini-gems/
   state:
     shortLink: https://link.webring.in.th/3074
+3eb9631c2c7e6638daf00727c621edda:bluesky:
+  spec:
+    title: Download Torrent On Ubuntu with Transmission [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/download-torrent-on-ubuntu-with-transmission/
+  state:
+    cid: bafyreifoyziuvmxhnfbvdohqlteysis7dge2acpl2bthu662cjqo7dye7a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mixzylrklf2n
+3eb9631c2c7e6638daf00727c621edda:facebook:
+  spec:
+    title: Download Torrent On Ubuntu with Transmission [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/download-torrent-on-ubuntu-with-transmission/
+  state:
+    id: '100746876247412_937704149218828'
+    url: https://www.facebook.com/100683012920950/posts/937704149218828
+3eb9631c2c7e6638daf00727c621edda:mastodon:
+  spec:
+    title: Download Torrent On Ubuntu with Transmission [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/download-torrent-on-ubuntu-with-transmission/
+  state:
+    id: '116368506931886579'
+    url: https://mastodon.in.th/@webring/116368506931886579
+3eb9631c2c7e6638daf00727c621edda:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/04/download-torrent-on-ubuntu-with-transmission/
+  state:
+    shortLink: https://link.webring.in.th/3105
 3ed1deb392712fc97d0d89e384e4367b:facebook:
   spec:
     title: สวัสดี Playwright 1.39 !! [somkiat.cc]
