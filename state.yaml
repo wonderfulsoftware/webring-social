@@ -45604,6 +45604,32 @@ faca33682862facd52ea03a0f689f59d:shorturl:
     url: https://www.poolsawat.com/%e0%b9%83%e0%b8%8a%e0%b9%89-webflux-%e0%b8%81%e0%b8%b1%e0%b8%9a-graphql/
   state:
     shortLink: https://link.webring.in.th/2765
+fae418fdcfbeef1e6da2b2679f6b50a1:bluesky:
+  spec:
+    title: '5 เทคนิคท่องเที่ยวเชิงธรรมชาติแบบยั่งยืนปี 2026: มากกว่าแค่ไม่ทิ้งขยะ (Regenerative Travel) [myifew.com]'
+    url: https://myifew.com/7486/5-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%97%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b9%80%e0%b8%8a%e0%b8%b4%e0%b8%87%e0%b8%98%e0%b8%a3/
+  state:
+    cid: bafyreihqgfcsyit434bst4wjbrwmw5hsm2mhvd4q6wv3ihncsvp4v7ljii
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mixqf43hai2y
+fae418fdcfbeef1e6da2b2679f6b50a1:facebook:
+  spec:
+    title: '5 เทคนิคท่องเที่ยวเชิงธรรมชาติแบบยั่งยืนปี 2026: มากกว่าแค่ไม่ทิ้งขยะ (Regenerative Travel) [myifew.com]'
+    url: https://myifew.com/7486/5-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%97%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b9%80%e0%b8%8a%e0%b8%b4%e0%b8%87%e0%b8%98%e0%b8%a3/
+  state:
+    id: '100746876247412_937610419228201'
+    url: https://www.facebook.com/100683012920950/posts/937610419228201
+fae418fdcfbeef1e6da2b2679f6b50a1:mastodon:
+  spec:
+    title: '5 เทคนิคท่องเที่ยวเชิงธรรมชาติแบบยั่งยืนปี 2026: มากกว่าแค่ไม่ทิ้งขยะ (Regenerative Travel) [myifew.com]'
+    url: https://myifew.com/7486/5-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%97%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b9%80%e0%b8%8a%e0%b8%b4%e0%b8%87%e0%b8%98%e0%b8%a3/
+  state:
+    id: '116367829457498574'
+    url: https://mastodon.in.th/@webring/116367829457498574
+fae418fdcfbeef1e6da2b2679f6b50a1:shorturl:
+  spec:
+    url: https://myifew.com/7486/5-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%97%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b9%80%e0%b8%8a%e0%b8%b4%e0%b8%87%e0%b8%98%e0%b8%a3/
+  state:
+    shortLink: https://link.webring.in.th/3104
 fb195ce46fb3fa2e8954f2f1b9d0241d:facebook:
   spec:
     title: มาดู feature ที่น่าสนใจใน Java 21 GA ที่เพิ่งปล่อยออกมา [somkiat.cc]
