@@ -36407,6 +36407,32 @@ c77c976cda861e4008f9c1c6fb7e389f:shorturl:
     url: https://www.mikkipastel.com/nostr-101-introduction/
   state:
     shortLink: https://link.webring.in.th/2360
+c7bd4bb40938e468be11d8c5d084da65:bluesky:
+  spec:
+    title: บันทึกการใช้งาน Gemma 4 ใน Ollama [somkiat.cc]
+    url: https://www.somkiat.cc/note-gemma-4-in-ollama/
+  state:
+    cid: bafyreiemhs5pq4efgz3pd3zbuawrwnq52wirf7ihyjr4edudsazbhgulqu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mizzub57ge27
+c7bd4bb40938e468be11d8c5d084da65:facebook:
+  spec:
+    title: บันทึกการใช้งาน Gemma 4 ใน Ollama [somkiat.cc]
+    url: https://www.somkiat.cc/note-gemma-4-in-ollama/
+  state:
+    id: '100746876247412_938314359157807'
+    url: https://www.facebook.com/100683012920950/posts/938314359157807
+c7bd4bb40938e468be11d8c5d084da65:mastodon:
+  spec:
+    title: บันทึกการใช้งาน Gemma 4 ใน Ollama [somkiat.cc]
+    url: https://www.somkiat.cc/note-gemma-4-in-ollama/
+  state:
+    id: '116373000825786644'
+    url: https://mastodon.in.th/@webring/116373000825786644
+c7bd4bb40938e468be11d8c5d084da65:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-gemma-4-in-ollama/
+  state:
+    shortLink: https://link.webring.in.th/3107
 c7d218619354c0bb14b05757c53f8058:bluesky:
   spec:
     title: Hello Garage, goodbye MinIO [karnwong.me]
