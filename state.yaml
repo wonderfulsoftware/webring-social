@@ -25935,6 +25935,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/09/reclaim-your-smartphone-space-by-delete-line-chat/
   state:
     shortLink: https://webring.page.link/gzYP
+8e0e07f57c41a8a01025189c478c3b56:bluesky:
+  spec:
+    title: 'Jenkins Error: DevExpress-dashboard error TS2416 with knockout js [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/04/jenkins-error-devexpress-dashboard-error-ts2416-with-knockout-js/
+  state:
+    cid: bafyreidrwjl6dpfo3fzh72o5uaik4rsa2dvoiovuhgzo5374dxuv3nrxzu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mj4rroxkjs23
+8e0e07f57c41a8a01025189c478c3b56:facebook:
+  spec:
+    title: 'Jenkins Error: DevExpress-dashboard error TS2416 with knockout js [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/04/jenkins-error-devexpress-dashboard-error-ts2416-with-knockout-js/
+  state:
+    id: '100746876247412_939134722409104'
+    url: https://www.facebook.com/100683012920950/posts/939134722409104
+8e0e07f57c41a8a01025189c478c3b56:mastodon:
+  spec:
+    title: 'Jenkins Error: DevExpress-dashboard error TS2416 with knockout js [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/04/jenkins-error-devexpress-dashboard-error-ts2416-with-knockout-js/
+  state:
+    id: '116379187428451939'
+    url: https://mastodon.in.th/@webring/116379187428451939
+8e0e07f57c41a8a01025189c478c3b56:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/04/jenkins-error-devexpress-dashboard-error-ts2416-with-knockout-js/
+  state:
+    shortLink: https://link.webring.in.th/3109
 8e2830fa40621678ab426c02a04e9ab6:bluesky:
   spec:
     title: ลองใช้งาน K6 Studio กันหน่อย [somkiat.cc]
