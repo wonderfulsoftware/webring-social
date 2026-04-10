@@ -4174,6 +4174,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81-humanistic-software-architecture/
   state:
     shortLink: https://webring.page.link/5aDL
+17ae2b80904fbab2f4fdedcd32cce01c:bluesky:
+  spec:
+    title: 'Learn Anything: แพลตฟอร์ม Open Source คลังแสงความรู้ [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/learn-anything-knowledge-platform-th/
+  state:
+    cid: bafyreigsn2z3a27o7ubd66yxrbqbymmjnnceyw4oo43azyerzqqno6g4ye
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mj4l4sashm2g
+17ae2b80904fbab2f4fdedcd32cce01c:facebook:
+  spec:
+    title: 'Learn Anything: แพลตฟอร์ม Open Source คลังแสงความรู้ [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/learn-anything-knowledge-platform-th/
+  state:
+    id: '100746876247412_939074645748445'
+    url: https://www.facebook.com/100683012920950/posts/939074645748445
+17ae2b80904fbab2f4fdedcd32cce01c:mastodon:
+  spec:
+    title: 'Learn Anything: แพลตฟอร์ม Open Source คลังแสงความรู้ [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/learn-anything-knowledge-platform-th/
+  state:
+    id: '116378719494129338'
+    url: https://mastodon.in.th/@webring/116378719494129338
+17ae2b80904fbab2f4fdedcd32cce01c:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/learn-anything-knowledge-platform-th/
+  state:
+    shortLink: https://link.webring.in.th/3108
 17ba9f3ddacc25e709c889c7bbbce89f:facebook:
   spec:
     title: เรียนรู้เรื่องทำ Scroll เปลี่ยน Section [kajame.xyz]
