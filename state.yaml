@@ -30936,6 +30936,32 @@ a8dcca3d394f6ceaf855de0e6f9518e7:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/12/let-eat-german-christmas-market/
   state:
     shortLink: https://link.webring.in.th/2879
+a907069763b944c968800ca289c2ad55:bluesky:
+  spec:
+    title: ลองมาใช้ Skill กับ Code dotnet เรากัน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/let-try-dotnet-skills-th/
+  state:
+    cid: bafyreidwmle3z3yl2nzrra7cjst7dexoq7fv3nnlv3d4zmmc7zah3goqmm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mj7jt5vlyq2o
+a907069763b944c968800ca289c2ad55:facebook:
+  spec:
+    title: ลองมาใช้ Skill กับ Code dotnet เรากัน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/let-try-dotnet-skills-th/
+  state:
+    id: '100746876247412_939958788993364'
+    url: https://www.facebook.com/100683012920950/posts/939958788993364
+a907069763b944c968800ca289c2ad55:mastodon:
+  spec:
+    title: ลองมาใช้ Skill กับ Code dotnet เรากัน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/let-try-dotnet-skills-th/
+  state:
+    id: '116385383281805618'
+    url: https://mastodon.in.th/@webring/116385383281805618
+a907069763b944c968800ca289c2ad55:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/04/let-try-dotnet-skills-th/
+  state:
+    shortLink: https://link.webring.in.th/3112
 a90a52b9eb3224a11d4b8ed31e7331ea:facebook:
   spec:
     title: รีวิว Work From Home Workspace หลังจากที่ใช้งานมาระยะหนึ่งแล้ว [mikkipastel.com]
