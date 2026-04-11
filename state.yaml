@@ -45004,6 +45004,32 @@ f67aa6ca8b843e8176838e2cb35d0baa:shorturl:
     url: https://kajame.xyz/blog/migration-mongo
   state:
     shortLink: https://webring.page.link/XPx9
+f6931647e71c7bcf1a2c9d93e919bee7:bluesky:
+  spec:
+    title: 'Agent เดี่ยว vs Agent Team: เลือกให้ถูกตั้งแต่แรก ระบบจะโตได้ไกลกว่า [amiearth.com]'
+    url: https://amiearth.com/blog/agent-vs-agent-team
+  state:
+    cid: bafyreibwefzbved7yipeaneayfoaytsllets72trssh2vnnet3mzdulzhq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mj7ucp33i62l
+f6931647e71c7bcf1a2c9d93e919bee7:facebook:
+  spec:
+    title: 'Agent เดี่ยว vs Agent Team: เลือกให้ถูกตั้งแต่แรก ระบบจะโตได้ไกลกว่า [amiearth.com]'
+    url: https://amiearth.com/blog/agent-vs-agent-team
+  state:
+    id: '100746876247412_940061338983109'
+    url: https://www.facebook.com/100683012920950/posts/940061338983109
+f6931647e71c7bcf1a2c9d93e919bee7:mastodon:
+  spec:
+    title: 'Agent เดี่ยว vs Agent Team: เลือกให้ถูกตั้งแต่แรก ระบบจะโตได้ไกลกว่า [amiearth.com]'
+    url: https://amiearth.com/blog/agent-vs-agent-team
+  state:
+    id: '116386121335209794'
+    url: https://mastodon.in.th/@webring/116386121335209794
+f6931647e71c7bcf1a2c9d93e919bee7:shorturl:
+  spec:
+    url: https://amiearth.com/blog/agent-vs-agent-team
+  state:
+    shortLink: https://link.webring.in.th/3113
 f695c7098433ca6b3d6e691638eb73b4:facebook:
   spec:
     title: Refinance คอนโดครั้งแรก [kusumotolab.com]
