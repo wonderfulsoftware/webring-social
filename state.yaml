@@ -24997,6 +24997,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/06/access-almalinux-9-via-rdp/
   state:
     shortLink: https://webring.page.link/S7cX
+88b6d2c1ea9a14c1ef093985d5f8a138:bluesky:
+  spec:
+    title: สวัสดี Claude Managed Agents [somkiat.cc]
+    url: https://www.somkiat.cc/claude-managed-agents/
+  state:
+    cid: bafyreihgatsxkthkqxr7noctsutx44xow26bb2uloynvht77oqkepmwk54
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mja5l5i5jl2k
+88b6d2c1ea9a14c1ef093985d5f8a138:facebook:
+  spec:
+    title: สวัสดี Claude Managed Agents [somkiat.cc]
+    url: https://www.somkiat.cc/claude-managed-agents/
+  state:
+    id: '100746876247412_940163428972900'
+    url: https://www.facebook.com/100683012920950/posts/940163428972900
+88b6d2c1ea9a14c1ef093985d5f8a138:mastodon:
+  spec:
+    title: สวัสดี Claude Managed Agents [somkiat.cc]
+    url: https://www.somkiat.cc/claude-managed-agents/
+  state:
+    id: '116386773101035003'
+    url: https://mastodon.in.th/@webring/116386773101035003
+88b6d2c1ea9a14c1ef093985d5f8a138:shorturl:
+  spec:
+    url: https://www.somkiat.cc/claude-managed-agents/
+  state:
+    shortLink: https://link.webring.in.th/3114
 88ce76c862ef24915a37e752a4221f5c:bluesky:
   spec:
     title: แนะนำ web ที่อธิบายเรื่อง Big O notation [somkiat.cc]
