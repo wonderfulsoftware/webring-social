@@ -18722,6 +18722,32 @@
     url: https://myifew.com/6487/begin-with-the-end-in-mind/
   state:
     shortLink: https://webring.page.link/QRrR
+6806dfc4adc4a920ec707843426d0e40:bluesky:
+  spec:
+    title: Why I Built a New Vite Env Plugin [fasu.dev]
+    url: https://fasu.dev/writings/why-i-built-a-new-vite-env-plugin
+  state:
+    cid: bafyreibzu563g7ta2q7ektdfsvdoyeg4exnmgjq3fwxjgecnqnymqepdxm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mj6zycbdpb2m
+6806dfc4adc4a920ec707843426d0e40:facebook:
+  spec:
+    title: Why I Built a New Vite Env Plugin [fasu.dev]
+    url: https://fasu.dev/writings/why-i-built-a-new-vite-env-plugin
+  state:
+    id: '100746876247412_939810665674843'
+    url: https://www.facebook.com/100683012920950/posts/939810665674843
+6806dfc4adc4a920ec707843426d0e40:mastodon:
+  spec:
+    title: Why I Built a New Vite Env Plugin [fasu.dev]
+    url: https://fasu.dev/writings/why-i-built-a-new-vite-env-plugin
+  state:
+    id: '116384268810923476'
+    url: https://mastodon.in.th/@webring/116384268810923476
+6806dfc4adc4a920ec707843426d0e40:shorturl:
+  spec:
+    url: https://fasu.dev/writings/why-i-built-a-new-vite-env-plugin
+  state:
+    shortLink: https://link.webring.in.th/3110
 68212bd97447ae5d0e7ff5ba27c13b14:facebook:
   spec:
     title: สรุปเรื่อง Domain Driven Design ที่ AWS Thailand [kusumotolab.com]
