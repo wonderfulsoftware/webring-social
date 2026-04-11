@@ -45388,6 +45388,32 @@ f8bb499c819f9cf6b1f1fce97f9ba6d2:shorturl:
     url: https://neizod.dev/2024/01/12/simplicial-partition-for-range-searching.html
   state:
     shortLink: https://link.webring.in.th/1719
+f8c0604d13e73b71b84594c6de9f552a:bluesky:
+  spec:
+    title: LLM tracing with MLflow AI Gateway [karnwong.me]
+    url: https://karnwong.me/posts/2026/04/llm-tracing-with-mlflow-ai-gateway/
+  state:
+    cid: bafyreiebhtn5jebslpyprhxezviblssgwtkulbtwhanmsevgjcipmclkpa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mj7auqri6v2s
+f8c0604d13e73b71b84594c6de9f552a:facebook:
+  spec:
+    title: LLM tracing with MLflow AI Gateway [karnwong.me]
+    url: https://karnwong.me/posts/2026/04/llm-tracing-with-mlflow-ai-gateway/
+  state:
+    id: '100746876247412_939873602335216'
+    url: https://www.facebook.com/100683012920950/posts/939873602335216
+f8c0604d13e73b71b84594c6de9f552a:mastodon:
+  spec:
+    title: LLM tracing with MLflow AI Gateway [karnwong.me]
+    url: https://karnwong.me/posts/2026/04/llm-tracing-with-mlflow-ai-gateway/
+  state:
+    id: '116384753522353667'
+    url: https://mastodon.in.th/@webring/116384753522353667
+f8c0604d13e73b71b84594c6de9f552a:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/04/llm-tracing-with-mlflow-ai-gateway/
+  state:
+    shortLink: https://link.webring.in.th/3111
 f8c980f78371aba5d2ea95a62f4e05ec:facebook:
   spec:
     title: มาลองใช้งาน Podman compose เล่นดูหน่อย [somkiat.cc]
