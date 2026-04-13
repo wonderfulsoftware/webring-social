@@ -7698,6 +7698,32 @@
     url: https://www.somkiat.cc/hello-gemini-pro-in-google-ai-studio/
   state:
     shortLink: https://webring.page.link/zS16
+2af9a5ec57c5a178129ae2e8bd10c93a:bluesky:
+  spec:
+    title: รีวิว The Wealth Architecture โดย แอนนาเบล คชนันทน์ — งานเขียนการเงินที่ทรงคุณค่าแห่งปี [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/the-wealth-architecture
+  state:
+    cid: bafyreia2hxr4f5avctpvct2lbiewtkfgocc2dtwmevjj4jchp7qjobajkm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mje5ew77232m
+2af9a5ec57c5a178129ae2e8bd10c93a:facebook:
+  spec:
+    title: รีวิว The Wealth Architecture โดย แอนนาเบล คชนันทน์ — งานเขียนการเงินที่ทรงคุณค่าแห่งปี [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/the-wealth-architecture
+  state:
+    id: '100746876247412_941362528852990'
+    url: https://www.facebook.com/100683012920950/posts/941362528852990
+2af9a5ec57c5a178129ae2e8bd10c93a:mastodon:
+  spec:
+    title: รีวิว The Wealth Architecture โดย แอนนาเบล คชนันทน์ — งานเขียนการเงินที่ทรงคุณค่าแห่งปี [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/the-wealth-architecture
+  state:
+    id: '116395766696033515'
+    url: https://mastodon.in.th/@webring/116395766696033515
+2af9a5ec57c5a178129ae2e8bd10c93a:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/the-wealth-architecture
+  state:
+    shortLink: https://link.webring.in.th/3115
 2b0b1b9afb7262c990fe36369f0b21da:bluesky:
   spec:
     title: How to Fixed IP in Synology NAS [debuggingsoft.com]
