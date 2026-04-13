@@ -5864,6 +5864,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/04/cr-mitsubishi-mr-fc26et-br-refrigerator-after-3-month/
   state:
     shortLink: https://link.webring.in.th/2501
+20ac012db3015dc713e219d86d8564a1:bluesky:
+  spec:
+    title: เมื่อทดสอบเยอะมาก ๆ แต่บน production ยังเจอปัญหาเยอะเหมือนเดิม ? [somkiat.cc]
+    url: https://www.somkiat.cc/high-test-but-low-quality/
+  state:
+    cid: bafyreihdcnhbc3cc4ky3fommpx73d7g6vmwlfg37so74dzrez4fjrp45na
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjef47taqz2m
+20ac012db3015dc713e219d86d8564a1:facebook:
+  spec:
+    title: เมื่อทดสอบเยอะมาก ๆ แต่บน production ยังเจอปัญหาเยอะเหมือนเดิม ? [somkiat.cc]
+    url: https://www.somkiat.cc/high-test-but-low-quality/
+  state:
+    id: '100746876247412_941435852178991'
+    url: https://www.facebook.com/100683012920950/posts/941435852178991
+20ac012db3015dc713e219d86d8564a1:mastodon:
+  spec:
+    title: เมื่อทดสอบเยอะมาก ๆ แต่บน production ยังเจอปัญหาเยอะเหมือนเดิม ? [somkiat.cc]
+    url: https://www.somkiat.cc/high-test-but-low-quality/
+  state:
+    id: '116396310424051042'
+    url: https://mastodon.in.th/@webring/116396310424051042
+20ac012db3015dc713e219d86d8564a1:shorturl:
+  spec:
+    url: https://www.somkiat.cc/high-test-but-low-quality/
+  state:
+    shortLink: https://link.webring.in.th/3116
 20b4711a6a4f6d17b78b2c6a6c47de83:facebook:
   spec:
     title: สรุปงาน MS Build 2024 After Party-Thailand @SCBX NEXT TECH [debuggingsoft.com]
