@@ -28453,6 +28453,32 @@
     url: https://www.somkiat.cc/note-from-the-way-of-testivus/
   state:
     shortLink: https://webring.page.link/cLy7
+9b1b7733ee48d01418444b1bb1db48b4:bluesky:
+  spec:
+    title: เทคนิคใช้ Cursor หรือ Claude ร่วมกับ Obsidian เพื่อทำ Project Documentation แบบ AI-Ready [amiearth.com]
+    url: https://amiearth.com/blog/cursor-claude-obsidian-ai-ready-docs
+  state:
+    cid: bafyreiaeqe66tejnjzic43lyfcogzdqjrxn2pxm3x32b4wrzl35bakkvua
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjgmtoibll2m
+9b1b7733ee48d01418444b1bb1db48b4:facebook:
+  spec:
+    title: เทคนิคใช้ Cursor หรือ Claude ร่วมกับ Obsidian เพื่อทำ Project Documentation แบบ AI-Ready [amiearth.com]
+    url: https://amiearth.com/blog/cursor-claude-obsidian-ai-ready-docs
+  state:
+    id: '100746876247412_942135352109041'
+    url: https://www.facebook.com/100683012920950/posts/942135352109041
+9b1b7733ee48d01418444b1bb1db48b4:mastodon:
+  spec:
+    title: เทคนิคใช้ Cursor หรือ Claude ร่วมกับ Obsidian เพื่อทำ Project Documentation แบบ AI-Ready [amiearth.com]
+    url: https://amiearth.com/blog/cursor-claude-obsidian-ai-ready-docs
+  state:
+    id: '116401358237793045'
+    url: https://mastodon.in.th/@webring/116401358237793045
+9b1b7733ee48d01418444b1bb1db48b4:shorturl:
+  spec:
+    url: https://amiearth.com/blog/cursor-claude-obsidian-ai-ready-docs
+  state:
+    shortLink: https://link.webring.in.th/3117
 9b224caac1c9a49d497284b5b134ee3a:facebook:
   spec:
     title: Backing up a Linux cloud server with Restic [dt.in.th]
