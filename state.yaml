@@ -15871,6 +15871,32 @@
     url: https://lucian.solutions/blog/foodreview-plan-a-kyoto
   state:
     shortLink: https://link.webring.in.th/2035
+59e2d62ce391c48eb8ac690440b5da88:bluesky:
+  spec:
+    title: 6 Pillars of code quality [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/6-pillars-of-code-quality/
+  state:
+    cid: bafyreiduxjioponz3nv6lxvcbtxfvul34lb2kkzloz6dlawjndhak6kbk4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjgtszqdnu2l
+59e2d62ce391c48eb8ac690440b5da88:facebook:
+  spec:
+    title: 6 Pillars of code quality [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/6-pillars-of-code-quality/
+  state:
+    id: '100746876247412_942199458769297'
+    url: https://www.facebook.com/100683012920950/posts/942199458769297
+59e2d62ce391c48eb8ac690440b5da88:mastodon:
+  spec:
+    title: 6 Pillars of code quality [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/6-pillars-of-code-quality/
+  state:
+    id: '116401849446010102'
+    url: https://mastodon.in.th/@webring/116401849446010102
+59e2d62ce391c48eb8ac690440b5da88:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/04/6-pillars-of-code-quality/
+  state:
+    shortLink: https://link.webring.in.th/3118
 59fa14053ed98008b8d641957b11f0d3:bluesky:
   spec:
     title: บันทึกเรื่อง Soft delete ใน PostgreSQL database ไว้นิดหน่อย [somkiat.cc]
