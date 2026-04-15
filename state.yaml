@@ -21151,6 +21151,32 @@
     url: https://www.llun.me/posts/dev/2024-03-08-nextjs-dynamic-import-and-500-error
   state:
     shortLink: https://link.webring.in.th/1821
+75f6afe653b4beeb704c61dc4f6c756d:bluesky:
+  spec:
+    title: มาลองใช้งาน Claude Code on Desktop กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-claude-code-on-desktop/
+  state:
+    cid: bafyreiglzgshotraamkoychiibts7vqxprwz77r2usdtrdmxmzmmgg5miq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjj5dx2nay2l
+75f6afe653b4beeb704c61dc4f6c756d:facebook:
+  spec:
+    title: มาลองใช้งาน Claude Code on Desktop กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-claude-code-on-desktop/
+  state:
+    id: '100746876247412_942917312030845'
+    url: https://www.facebook.com/100683012920950/posts/942917312030845
+75f6afe653b4beeb704c61dc4f6c756d:mastodon:
+  spec:
+    title: มาลองใช้งาน Claude Code on Desktop กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-claude-code-on-desktop/
+  state:
+    id: '116407023555670239'
+    url: https://mastodon.in.th/@webring/116407023555670239
+75f6afe653b4beeb704c61dc4f6c756d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-claude-code-on-desktop/
+  state:
+    shortLink: https://link.webring.in.th/3119
 7622af3c86998193ce00aa0ea4b2394c:facebook:
   spec:
     title: ทำ links page ของตัวเองแบบง่ายๆ ด้วย Glitch in Bio [mikkipastel.com]
