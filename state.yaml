@@ -34063,6 +34063,32 @@ b8e8d9be7546e57c2442c773ebb00c3b:shorturl:
     url: https://myifew.com/7376/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%aa%e0%b8%b0%e0%b8%94%e0%b8%b8%e0%b8%94/
   state:
     shortLink: https://link.webring.in.th/3043
+b8f249ccf14f7ba426b0419cadaa9cd9:bluesky:
+  spec:
+    title: ChaiyoGCP 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/chaiyogcp-2026/
+  state:
+    cid: bafyreicusgpfekvgqhu2ekznzznzrvrkrqt3sys2ekhsyow2wlkvtqpo2q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjluswtsws2e
+b8f249ccf14f7ba426b0419cadaa9cd9:facebook:
+  spec:
+    title: ChaiyoGCP 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/chaiyogcp-2026/
+  state:
+    id: '100746876247412_943849655270944'
+    url: https://www.facebook.com/100683012920950/posts/943849655270944
+b8f249ccf14f7ba426b0419cadaa9cd9:mastodon:
+  spec:
+    title: ChaiyoGCP 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/chaiyogcp-2026/
+  state:
+    id: '116413178280786328'
+    url: https://mastodon.in.th/@webring/116413178280786328
+b8f249ccf14f7ba426b0419cadaa9cd9:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/04/chaiyogcp-2026/
+  state:
+    shortLink: https://link.webring.in.th/3121
 b91d69fe0d47864d6f237fc3333124f3:bluesky:
   spec:
     title: Make dApp testing automated with Synpress [yuttakhanb.dev]
