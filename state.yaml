@@ -10846,6 +10846,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/05/spring-test-error-java-lang-classnotfoundexception-org-junit-platform-engine-reporting-outputdirectoryprovider/
   state:
     shortLink: https://link.webring.in.th/2524
+3c3a5ef4b2c4d0d328742378131ebb01:bluesky:
+  spec:
+    title: 'Cursor 3.1: ทำงานหลายเอเจนต์แบบ Tiled, เสียงแม่นขึ้น และนำทางจาก Diff ถึงบรรทัด [amiearth.com]'
+    url: https://amiearth.com/blog/cursor-31-whats-new
+  state:
+    cid: bafyreidf5q7mpyjhfzlnzgb3grlfozp2ozxbzff3wvsep3mimiwioj747u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjlo7twv2a2p
+3c3a5ef4b2c4d0d328742378131ebb01:facebook:
+  spec:
+    title: 'Cursor 3.1: ทำงานหลายเอเจนต์แบบ Tiled, เสียงแม่นขึ้น และนำทางจาก Diff ถึงบรรทัด [amiearth.com]'
+    url: https://amiearth.com/blog/cursor-31-whats-new
+  state:
+    id: '100746876247412_943774768611766'
+    url: https://www.facebook.com/100683012920950/posts/943774768611766
+3c3a5ef4b2c4d0d328742378131ebb01:mastodon:
+  spec:
+    title: 'Cursor 3.1: ทำงานหลายเอเจนต์แบบ Tiled, เสียงแม่นขึ้น และนำทางจาก Diff ถึงบรรทัด [amiearth.com]'
+    url: https://amiearth.com/blog/cursor-31-whats-new
+  state:
+    id: '116412714096513262'
+    url: https://mastodon.in.th/@webring/116412714096513262
+3c3a5ef4b2c4d0d328742378131ebb01:shorturl:
+  spec:
+    url: https://amiearth.com/blog/cursor-31-whats-new
+  state:
+    shortLink: https://link.webring.in.th/3120
 3c5a11fc3ff2bf27dff54c3614d58e63:bluesky:
   spec:
     title: 'Managing Knowledge Publicly: Unlocking Unexpected Growth [dt.in.th]'
