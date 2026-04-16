@@ -31857,6 +31857,32 @@ ac6d4316a15c945ab9c1a8a0067f9038:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/12/recap-what-the-duck-2025/
   state:
     shortLink: https://link.webring.in.th/2901
+ac958a029ab894b871d7462f8f54a583:bluesky:
+  spec:
+    title: บันทึกความเข้าใจเกี่ยวกับ LLM Wiki และใช้งานร่วมกับ Ollama [somkiat.cc]
+    url: https://www.somkiat.cc/learn-llm-wiki/
+  state:
+    cid: bafyreibx4hwd3bvyx3t27gbpmqngru3rpy2h6nadpx3ntqyhi3sqh7xypy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjm67xre4d2e
+ac958a029ab894b871d7462f8f54a583:facebook:
+  spec:
+    title: บันทึกความเข้าใจเกี่ยวกับ LLM Wiki และใช้งานร่วมกับ Ollama [somkiat.cc]
+    url: https://www.somkiat.cc/learn-llm-wiki/
+  state:
+    id: '100746876247412_943952065260703'
+    url: https://www.facebook.com/100683012920950/posts/943952065260703
+ac958a029ab894b871d7462f8f54a583:mastodon:
+  spec:
+    title: บันทึกความเข้าใจเกี่ยวกับ LLM Wiki และใช้งานร่วมกับ Ollama [somkiat.cc]
+    url: https://www.somkiat.cc/learn-llm-wiki/
+  state:
+    id: '116413840260319503'
+    url: https://mastodon.in.th/@webring/116413840260319503
+ac958a029ab894b871d7462f8f54a583:shorturl:
+  spec:
+    url: https://www.somkiat.cc/learn-llm-wiki/
+  state:
+    shortLink: https://link.webring.in.th/3122
 aca5605a7c6d9434f9f9d8bee09eff8f:facebook:
   spec:
     title: ลองใช้งาน Go Vulnerability Management ในการตรวจสอบเรื่องความปลอดภัย [somkiat.cc]
