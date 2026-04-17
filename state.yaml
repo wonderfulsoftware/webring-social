@@ -38526,6 +38526,32 @@ d05009833641cb3e21217d95badab7e2:shorturl:
     url: https://www.somkiat.cc/selinium-grid-4-and-appium/
   state:
     shortLink: https://webring.page.link/pLXJ
+d052807b1c022be51962bbc31c42161c:bluesky:
+  spec:
+    title: จัดการภาษีรายได้ทั้งปี รู้ก่อนยื่น ภาพรวมในชีทเดียว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-management
+  state:
+    cid: bafyreibc3pkznqglw7kta4rej5fy2enkrna4uvpjolnvgcduprvaqdokmm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjofd4dyzr25
+d052807b1c022be51962bbc31c42161c:facebook:
+  spec:
+    title: จัดการภาษีรายได้ทั้งปี รู้ก่อนยื่น ภาพรวมในชีทเดียว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-management
+  state:
+    id: '100746876247412_944653708523872'
+    url: https://www.facebook.com/100683012920950/posts/944653708523872
+d052807b1c022be51962bbc31c42161c:mastodon:
+  spec:
+    title: จัดการภาษีรายได้ทั้งปี รู้ก่อนยื่น ภาพรวมในชีทเดียว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-management
+  state:
+    id: '116418843353344436'
+    url: https://mastodon.in.th/@webring/116418843353344436
+d052807b1c022be51962bbc31c42161c:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/tax-management
+  state:
+    shortLink: https://link.webring.in.th/3124
 d0587613e80512f822d887310b6320c6:bluesky:
   spec:
     title: JavaScript Loops ความเร็ว ปะทะ ความง่าย เลือกใช้ยังไง [boychawin.com]
