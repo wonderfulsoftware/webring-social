@@ -46271,6 +46271,32 @@ fc5aa262c05c298e3b4f9ad65f0771e5:shorturl:
     url: https://www.somkiat.cc/note-deom-why-im-no-longer-talking-to-architects-about-microservices/
   state:
     shortLink: https://link.webring.in.th/2471
+fc6c42da46125cdb0edc4835c09dbc62:bluesky:
+  spec:
+    title: 'Holiday Hack: ลอง Iterate Code Review Agent ด้วย TypeScript และ GLM 5.1 [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/holiday-hack-code-review-agent-typescript-glm/
+  state:
+    cid: bafyreiady2mgnfvq6vmf3kjs66uc2s6gqqg7jn4iia5jafdgnqlzqftibe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjo6kjecvd24
+fc6c42da46125cdb0edc4835c09dbc62:facebook:
+  spec:
+    title: 'Holiday Hack: ลอง Iterate Code Review Agent ด้วย TypeScript และ GLM 5.1 [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/holiday-hack-code-review-agent-typescript-glm/
+  state:
+    id: '100746876247412_944585878530655'
+    url: https://www.facebook.com/100683012920950/posts/944585878530655
+fc6c42da46125cdb0edc4835c09dbc62:mastodon:
+  spec:
+    title: 'Holiday Hack: ลอง Iterate Code Review Agent ด้วย TypeScript และ GLM 5.1 [blog.ninprd.com]'
+    url: https://blog.ninprd.com/blog/holiday-hack-code-review-agent-typescript-glm/
+  state:
+    id: '116418367318638894'
+    url: https://mastodon.in.th/@webring/116418367318638894
+fc6c42da46125cdb0edc4835c09dbc62:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/holiday-hack-code-review-agent-typescript-glm/
+  state:
+    shortLink: https://link.webring.in.th/3123
 fd39516d8b107378a75b996ca4d73a93:bluesky:
   spec:
     title: Man Hin By Chef Man-ข้าวมันไก่ฮ่องกง 99 บาท [debuggingsoft.com]
