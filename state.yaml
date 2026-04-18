@@ -27460,6 +27460,32 @@
     url: https://amiearth.com/blog/hono-d1
   state:
     shortLink: https://link.webring.in.th/2520
+942d2bc288510db6db3f02d9aa33fbda:bluesky:
+  spec:
+    title: Audit Delegation of Control On Windows Server AD [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/audit-delegation-of-control-on-windows-server-ad/
+  state:
+    cid: bafyreihla35g4nwt7v6fkwahkyaoju4qdbts2n5i2sgreg4743smaphlia
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjrr445nja22
+942d2bc288510db6db3f02d9aa33fbda:facebook:
+  spec:
+    title: Audit Delegation of Control On Windows Server AD [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/audit-delegation-of-control-on-windows-server-ad/
+  state:
+    id: '100746876247412_945725961749980'
+    url: https://www.facebook.com/100683012920950/posts/945725961749980
+942d2bc288510db6db3f02d9aa33fbda:mastodon:
+  spec:
+    title: Audit Delegation of Control On Windows Server AD [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/audit-delegation-of-control-on-windows-server-ad/
+  state:
+    id: '116426428047964903'
+    url: https://mastodon.in.th/@webring/116426428047964903
+942d2bc288510db6db3f02d9aa33fbda:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/04/audit-delegation-of-control-on-windows-server-ad/
+  state:
+    shortLink: https://link.webring.in.th/3129
 9449a6f5e1ab1ec37ae355c9f86470c0:bluesky:
   spec:
     title: มาลองใช้งาน Qwen Code กัน [somkiat.cc]
