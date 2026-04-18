@@ -1781,6 +1781,32 @@
     url: https://www.somkiat.cc/mistakes-in-ci-cd/
   state:
     shortLink: https://webring.page.link/dqf5
+09df945c1f180770884003ece0970015:bluesky:
+  spec:
+    title: แนวคิดของ self-healing ใน Test Automation !! [somkiat.cc]
+    url: https://www.somkiat.cc/self-healing-in-test-automation/
+  state:
+    cid: bafyreieqquuz7u7f5xdt24qf7sarntygdqxwepqlht2nmt2jcvua3sltmy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjrhx43u4g27
+09df945c1f180770884003ece0970015:facebook:
+  spec:
+    title: แนวคิดของ self-healing ใน Test Automation !! [somkiat.cc]
+    url: https://www.somkiat.cc/self-healing-in-test-automation/
+  state:
+    id: '100746876247412_945619475093962'
+    url: https://www.facebook.com/100683012920950/posts/945619475093962
+09df945c1f180770884003ece0970015:mastodon:
+  spec:
+    title: แนวคิดของ self-healing ใน Test Automation !! [somkiat.cc]
+    url: https://www.somkiat.cc/self-healing-in-test-automation/
+  state:
+    id: '116425783758303136'
+    url: https://mastodon.in.th/@webring/116425783758303136
+09df945c1f180770884003ece0970015:shorturl:
+  spec:
+    url: https://www.somkiat.cc/self-healing-in-test-automation/
+  state:
+    shortLink: https://link.webring.in.th/3128
 09e2e09a1cc3024735e45ef812e576e4:facebook:
   spec:
     title: 'Tips :: เปลี่ยน version ของ .NET [somkiat.cc]'
