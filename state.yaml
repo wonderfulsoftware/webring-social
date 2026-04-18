@@ -33726,6 +33726,32 @@ b6867e65c51a16822e5cbf9c4d0ffd64:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/06/the-difference-between-itemkey-item-id-in-ts-js/
   state:
     shortLink: https://link.webring.in.th/2585
+b69152cda0d7066f5f0c06d7cfd45483:bluesky:
+  spec:
+    title: Until We Reach a Shared Understanding — The Foundational AI Skill [nutchanon.org]
+    url: https://nutchanon.org/blog/until-we-reach-shared-understanding
+  state:
+    cid: bafyreib63hw7zdaeff2orskyyhaou3udpev2mskuk6uqiu7sxx5n4kmdvq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjquhj3did2r
+b69152cda0d7066f5f0c06d7cfd45483:facebook:
+  spec:
+    title: Until We Reach a Shared Understanding — The Foundational AI Skill [nutchanon.org]
+    url: https://nutchanon.org/blog/until-we-reach-shared-understanding
+  state:
+    id: '100746876247412_945427078446535'
+    url: https://www.facebook.com/100683012920950/posts/945427078446535
+b69152cda0d7066f5f0c06d7cfd45483:mastodon:
+  spec:
+    title: Until We Reach a Shared Understanding — The Foundational AI Skill [nutchanon.org]
+    url: https://nutchanon.org/blog/until-we-reach-shared-understanding
+  state:
+    id: '116424412509804919'
+    url: https://mastodon.in.th/@webring/116424412509804919
+b69152cda0d7066f5f0c06d7cfd45483:shorturl:
+  spec:
+    url: https://nutchanon.org/blog/until-we-reach-shared-understanding
+  state:
+    shortLink: https://link.webring.in.th/3126
 b71c31d6cf2f3140afbadec32ec7e4ad:bluesky:
   spec:
     title: 'Weekend Hack: ลองแก้ Bottleneck การรีวิว Pull Request ขนาดกลางและใหญ่ [blog.ninprd.com]'
