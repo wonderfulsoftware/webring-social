@@ -26851,6 +26851,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/03/how-to-fix-error-trustanchors-parameter-must-be-non-empty/
   state:
     shortLink: https://link.webring.in.th/1841
+91b24a35e1fb3e9f79ec519f5c87b6fc:bluesky:
+  spec:
+    title: มัดรวม LLM model ยอดฮิต ว่ามีเจ้าไหนบ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/all-best-hits-llm-model-for-coding-and-daily-life/
+  state:
+    cid: bafyreicrdg2b3jru72werdqdj2swc7pr2jq25u4s3hswm6yaqfvrcqhuda
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjr5iqcq7i22
+91b24a35e1fb3e9f79ec519f5c87b6fc:facebook:
+  spec:
+    title: มัดรวม LLM model ยอดฮิต ว่ามีเจ้าไหนบ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/all-best-hits-llm-model-for-coding-and-daily-life/
+  state:
+    id: '100746876247412_945514698437773'
+    url: https://www.facebook.com/100683012920950/posts/945514698437773
+91b24a35e1fb3e9f79ec519f5c87b6fc:mastodon:
+  spec:
+    title: มัดรวม LLM model ยอดฮิต ว่ามีเจ้าไหนบ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/all-best-hits-llm-model-for-coding-and-daily-life/
+  state:
+    id: '116425048491760460'
+    url: https://mastodon.in.th/@webring/116425048491760460
+91b24a35e1fb3e9f79ec519f5c87b6fc:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/all-best-hits-llm-model-for-coding-and-daily-life/
+  state:
+    shortLink: https://link.webring.in.th/3127
 91e3bbbf8fd1042614c48e31866c6308:bluesky:
   spec:
     title: 'Troubleshooting Guide: Microsoft 365 Trial Account Issues and Solutions [debuggingsoft.com]'
