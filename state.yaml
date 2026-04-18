@@ -38578,6 +38578,32 @@ d0587613e80512f822d887310b6320c6:shorturl:
     url: https://boychawin.com/2024/11/28/js-loops-performance.html
   state:
     shortLink: https://link.webring.in.th/2270
+d058a2e17ba8e14f6af35b4a2da216cd:bluesky:
+  spec:
+    title: 🎵 ESP32 + Bluetooth Speaker เล่นเพลงผ่าน A2DP [thanapon.info]
+    url: https://thanapon.info/2025/07/19/esp32-bluetooth-speaker-sender/
+  state:
+    cid: bafyreie7wajilvl66hfz6s4hmckowzqdqlskyhxi7gn7setciea3eofwgq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjqnvsy7xc2m
+d058a2e17ba8e14f6af35b4a2da216cd:facebook:
+  spec:
+    title: 🎵 ESP32 + Bluetooth Speaker เล่นเพลงผ่าน A2DP [thanapon.info]
+    url: https://thanapon.info/2025/07/19/esp32-bluetooth-speaker-sender/
+  state:
+    id: '100746876247412_945363491786227'
+    url: https://www.facebook.com/100683012920950/posts/945363491786227
+d058a2e17ba8e14f6af35b4a2da216cd:mastodon:
+  spec:
+    title: 🎵 ESP32 + Bluetooth Speaker เล่นเพลงผ่าน A2DP [thanapon.info]
+    url: https://thanapon.info/2025/07/19/esp32-bluetooth-speaker-sender/
+  state:
+    id: '116423950664665186'
+    url: https://mastodon.in.th/@webring/116423950664665186
+d058a2e17ba8e14f6af35b4a2da216cd:shorturl:
+  spec:
+    url: https://thanapon.info/2025/07/19/esp32-bluetooth-speaker-sender/
+  state:
+    shortLink: https://link.webring.in.th/3125
 d066827e8b63625c7f13a68885dc4e90:bluesky:
   spec:
     title: 'The Day I Became a Triathlete: บันทึกสนามแรกที่เปลี่ยนชีวิต [mesodiar.com]'
