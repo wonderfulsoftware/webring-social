@@ -34226,6 +34226,32 @@ b8b3e22bc05f0ee8b6fc3cebad82d187:shorturl:
     url: https://www.karnwong.me/posts/2023/04/book-highlights---managing-transitions-making-the-most-of-change-by-william-bridges/
   state:
     shortLink: https://webring.page.link/SjVn
+b8b73e869dd36c63ebcf0128326fbaa2:bluesky:
+  spec:
+    title: เว็บจับใบดำใบแดง [nitpum.com]
+    url: https://nitpum.com/post/blackredcard/
+  state:
+    cid: bafyreiddsxuduzrxr3wl3vwnqtxl33mis26v372zfu73k5gbuissgvyh3i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjtyblctpc2u
+b8b73e869dd36c63ebcf0128326fbaa2:facebook:
+  spec:
+    title: เว็บจับใบดำใบแดง [nitpum.com]
+    url: https://nitpum.com/post/blackredcard/
+  state:
+    id: '100746876247412_946393025016607'
+    url: https://www.facebook.com/100683012920950/posts/946393025016607
+b8b73e869dd36c63ebcf0128326fbaa2:mastodon:
+  spec:
+    title: เว็บจับใบดำใบแดง [nitpum.com]
+    url: https://nitpum.com/post/blackredcard/
+  state:
+    id: '116431436223029830'
+    url: https://mastodon.in.th/@webring/116431436223029830
+b8b73e869dd36c63ebcf0128326fbaa2:shorturl:
+  spec:
+    url: https://nitpum.com/post/blackredcard/
+  state:
+    shortLink: https://link.webring.in.th/3133
 b8da0a5480bf6d4e92e718677b04492f:facebook:
   spec:
     title: Calling C from Go, Python and Rust benchmark [karnwong.me]
