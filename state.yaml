@@ -11900,6 +11900,32 @@
     url: https://lucian.solutions/blog/2024012-can-we-talk
   state:
     shortLink: https://link.webring.in.th/2281
+41649faf16b0dbacd0e2d1cae76fae99:bluesky:
+  spec:
+    title: 'vscode.dev: เขียนโค้ดบนเว็บเบราว์เซอร์ ไม่ต้องติดตั้งอะไรเลย [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/vscode-dev-browser-editor-th/
+  state:
+    cid: bafyreibp6sxgoqxmiv4osw4ptsozgdr7r2pye52fp5snnhoe7ekj5w66zq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjtnxbkzo52m
+41649faf16b0dbacd0e2d1cae76fae99:facebook:
+  spec:
+    title: 'vscode.dev: เขียนโค้ดบนเว็บเบราว์เซอร์ ไม่ต้องติดตั้งอะไรเลย [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/vscode-dev-browser-editor-th/
+  state:
+    id: '100746876247412_946287021693874'
+    url: https://www.facebook.com/100683012920950/posts/946287021693874
+41649faf16b0dbacd0e2d1cae76fae99:mastodon:
+  spec:
+    title: 'vscode.dev: เขียนโค้ดบนเว็บเบราว์เซอร์ ไม่ต้องติดตั้งอะไรเลย [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/vscode-dev-browser-editor-th/
+  state:
+    id: '116430710013290772'
+    url: https://mastodon.in.th/@webring/116430710013290772
+41649faf16b0dbacd0e2d1cae76fae99:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/vscode-dev-browser-editor-th/
+  state:
+    shortLink: https://link.webring.in.th/3132
 417142d1798f834f03b78608976aae71:facebook:
   spec:
     title: Setting up Kafka with Kafka connect from SQL server to Cloud storage (GCS) [mesodiar.com]
