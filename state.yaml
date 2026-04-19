@@ -28725,6 +28725,32 @@
     url: https://notes.dt.in.th/PostgresDevConfig
   state:
     shortLink: https://link.webring.in.th/1717
+9bbb9113808ca18aaf339b643343bc93:bluesky:
+  spec:
+    title: 2024 (+2023) [microbenz.in.th]
+    url: https://microbenz.in.th/blog/2024-plus-2023-review/
+  state:
+    cid: bafyreidqppbtt5dlbxczptiw2znxn6eofwwap7r74trpyxgh52xxro6iru
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjt7j53x3m2l
+9bbb9113808ca18aaf339b643343bc93:facebook:
+  spec:
+    title: 2024 (+2023) [microbenz.in.th]
+    url: https://microbenz.in.th/blog/2024-plus-2023-review/
+  state:
+    id: '100746876247412_946147965041113'
+    url: https://www.facebook.com/100683012920950/posts/946147965041113
+9bbb9113808ca18aaf339b643343bc93:mastodon:
+  spec:
+    title: 2024 (+2023) [microbenz.in.th]
+    url: https://microbenz.in.th/blog/2024-plus-2023-review/
+  state:
+    id: '116429693640343154'
+    url: https://mastodon.in.th/@webring/116429693640343154
+9bbb9113808ca18aaf339b643343bc93:shorturl:
+  spec:
+    url: https://microbenz.in.th/blog/2024-plus-2023-review/
+  state:
+    shortLink: https://link.webring.in.th/3130
 9bf7cff352be9aa4e6204266d9a4f723:bluesky:
   spec:
     title: อยู่ดี ๆ ทำไมแอปแสดงผลเต็มจอ? มาดูวิธีแก้ใน Android 15 กัน [mikkipastel.com]
