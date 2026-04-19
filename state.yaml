@@ -19418,6 +19418,32 @@
     url: https://www.somkiat.cc/go-mod-tidy-vs-download/
   state:
     shortLink: https://link.webring.in.th/2013
+6bad1b4c62919b58314e180091fa0f28:bluesky:
+  spec:
+    title: แพลนตัง Strategy ผังกลยุทธ์จากไอเดียในหัว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/strategy
+  state:
+    cid: bafyreigp2fatb2hoo6q7q5jbdzumiy3ywfkr7fk45v24vrhzjg6pxrpc2i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjubl4xudt25
+6bad1b4c62919b58314e180091fa0f28:facebook:
+  spec:
+    title: แพลนตัง Strategy ผังกลยุทธ์จากไอเดียในหัว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/strategy
+  state:
+    id: '100746876247412_946497801672796'
+    url: https://www.facebook.com/100683012920950/posts/946497801672796
+6bad1b4c62919b58314e180091fa0f28:mastodon:
+  spec:
+    title: แพลนตัง Strategy ผังกลยุทธ์จากไอเดียในหัว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/strategy
+  state:
+    id: '116432090596691580'
+    url: https://mastodon.in.th/@webring/116432090596691580
+6bad1b4c62919b58314e180091fa0f28:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/strategy
+  state:
+    shortLink: https://link.webring.in.th/3134
 6bb174c5e8118ec8fb34cdb4fddd8a3e:facebook:
   spec:
     title: Data Engineering Resources [karnwong.me]
