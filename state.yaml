@@ -31565,6 +31565,32 @@ aa1d9bfcb98f4dd95f6ca55b381f3a1d:shorturl:
     url: https://unnawut.com/posts/2025-01-05-generative-ui-review/
   state:
     shortLink: https://link.webring.in.th/2335
+aa2a0b186c49acb13d7e73dda3ce77de:bluesky:
+  spec:
+    title: 'All-in PostgreSQL ปี 2026: แทน Redis + Elasticsearch + Pinecone ได้จริงไหม และถึงจุดไหนต้องย้าย [amiearth.com]'
+    url: https://amiearth.com/blog/postgresql-2026-all-in-one-redis-es-pinecone
+  state:
+    cid: bafyreifmykyjaq4y4ui3y74a7a7bflggyuvprfbpwmqeddyf5ww3h5ixja
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjvyk4fhxw2m
+aa2a0b186c49acb13d7e73dda3ce77de:facebook:
+  spec:
+    title: 'All-in PostgreSQL ปี 2026: แทน Redis + Elasticsearch + Pinecone ได้จริงไหม และถึงจุดไหนต้องย้าย [amiearth.com]'
+    url: https://amiearth.com/blog/postgresql-2026-all-in-one-redis-es-pinecone
+  state:
+    id: '100746876247412_947010904954819'
+    url: https://www.facebook.com/100683012920950/posts/947010904954819
+aa2a0b186c49acb13d7e73dda3ce77de:mastodon:
+  spec:
+    title: 'All-in PostgreSQL ปี 2026: แทน Redis + Elasticsearch + Pinecone ได้จริงไหม และถึงจุดไหนต้องย้าย [amiearth.com]'
+    url: https://amiearth.com/blog/postgresql-2026-all-in-one-redis-es-pinecone
+  state:
+    id: '116435958583198646'
+    url: https://mastodon.in.th/@webring/116435958583198646
+aa2a0b186c49acb13d7e73dda3ce77de:shorturl:
+  spec:
+    url: https://amiearth.com/blog/postgresql-2026-all-in-one-redis-es-pinecone
+  state:
+    shortLink: https://link.webring.in.th/3136
 aa334862233d60e3426df6a45a743041:facebook:
   spec:
     title: '[CR] ร้านต้มเนื้อป๋าเหมี่ยว (อิสรภาพ) [debuggingsoft.com]'
