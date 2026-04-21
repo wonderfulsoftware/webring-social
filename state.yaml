@@ -1762,6 +1762,32 @@
     url: https://blog.ninprd.com/blog/event-storming-ubiquitous-language/
   state:
     shortLink: https://link.webring.in.th/2074
+0959c6a4003d58341ab349450dbb983b:bluesky:
+  spec:
+    title: ลองใช้งาน ThaiLLM กันหน่อย เสียดายไม่ compatible กับ OpenAI API !! [somkiat.cc]
+    url: https://www.somkiat.cc/hello-thaillm/
+  state:
+    cid: bafyreifa3kg3a66tds3whnonnbyxdj6kurqxbyuv7qoxtx3m44hnhjsimm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjyhci7mu22c
+0959c6a4003d58341ab349450dbb983b:facebook:
+  spec:
+    title: ลองใช้งาน ThaiLLM กันหน่อย เสียดายไม่ compatible กับ OpenAI API !! [somkiat.cc]
+    url: https://www.somkiat.cc/hello-thaillm/
+  state:
+    id: '100746876247412_947777604878149'
+    url: https://www.facebook.com/100683012920950/posts/947777604878149
+0959c6a4003d58341ab349450dbb983b:mastodon:
+  spec:
+    title: ลองใช้งาน ThaiLLM กันหน่อย เสียดายไม่ compatible กับ OpenAI API !! [somkiat.cc]
+    url: https://www.somkiat.cc/hello-thaillm/
+  state:
+    id: '116441500994149556'
+    url: https://mastodon.in.th/@webring/116441500994149556
+0959c6a4003d58341ab349450dbb983b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-thaillm/
+  state:
+    shortLink: https://link.webring.in.th/3138
 09c65794dfa1c89342d8b389466ba359:facebook:
   spec:
     title: สิ่งที่มักเจอบ่อย ๆ ใน CI/CD [somkiat.cc]
