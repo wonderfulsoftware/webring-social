@@ -1883,6 +1883,32 @@
     url: https://www.somkiat.cc/note-testing-methodologies-of-jakarta-ee-project/
   state:
     shortLink: https://link.webring.in.th/1883
+0a59bd354b77ce8f760e25895925ce31:bluesky:
+  spec:
+    title: Setup Shareable Drive with NFS in Linux and Manage By Synology File Station [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/setup-shareable-drive-with-nfs-in-linux-and-manage-by-synology-file-station/
+  state:
+    cid: bafyreihifezfxgtf2retucz65rt6jbwwq6feqepi337o62bh5bq4gb7fmq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mjyaef6dh22c
+0a59bd354b77ce8f760e25895925ce31:facebook:
+  spec:
+    title: Setup Shareable Drive with NFS in Linux and Manage By Synology File Station [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/setup-shareable-drive-with-nfs-in-linux-and-manage-by-synology-file-station/
+  state:
+    id: '100746876247412_947716254884284'
+    url: https://www.facebook.com/100683012920950/posts/947716254884284
+0a59bd354b77ce8f760e25895925ce31:mastodon:
+  spec:
+    title: Setup Shareable Drive with NFS in Linux and Manage By Synology File Station [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/setup-shareable-drive-with-nfs-in-linux-and-manage-by-synology-file-station/
+  state:
+    id: '116441012600545646'
+    url: https://mastodon.in.th/@webring/116441012600545646
+0a59bd354b77ce8f760e25895925ce31:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/04/setup-shareable-drive-with-nfs-in-linux-and-manage-by-synology-file-station/
+  state:
+    shortLink: https://link.webring.in.th/3137
 0a6ca379f6103a3805e073496bb3b302:bluesky:
   spec:
     title: มางาน Bitkub Summit 2024 แล้วได้อะไร? มาดูกัน KUB [mikkipastel.com]
