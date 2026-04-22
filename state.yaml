@@ -3899,6 +3899,32 @@
     url: https://garden.narze.live/Getting-full-Github-URL-of-the-latest-commit/
   state:
     shortLink: https://webring.page.link/zSGL
+1557ff06eb3f6dd47d555b01f4cb14f9:bluesky:
+  spec:
+    title: '5 ไม้เท้าเดินป่า (Trekking Poles) ยอดนิยมปี 2026: แข็งแรง ทนทาน น้ำหนักเบา [myifew.com]'
+    url: https://myifew.com/7495/5-%e0%b9%84%e0%b8%a1%e0%b9%89%e0%b9%80%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2-trekking-poles-%e0%b8%a2%e0%b8%ad%e0%b8%94%e0%b8%99%e0%b8%b4%e0%b8%a2/
+  state:
+    cid: bafyreiepkc3nloeuhj4vyixdhmzhqcj7wgzzd7aaju3n2oakjyfndeb4ky
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mk2qpy5myc25
+1557ff06eb3f6dd47d555b01f4cb14f9:facebook:
+  spec:
+    title: '5 ไม้เท้าเดินป่า (Trekking Poles) ยอดนิยมปี 2026: แข็งแรง ทนทาน น้ำหนักเบา [myifew.com]'
+    url: https://myifew.com/7495/5-%e0%b9%84%e0%b8%a1%e0%b9%89%e0%b9%80%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2-trekking-poles-%e0%b8%a2%e0%b8%ad%e0%b8%94%e0%b8%99%e0%b8%b4%e0%b8%a2/
+  state:
+    id: '100746876247412_948509961471580'
+    url: https://www.facebook.com/100683012920950/posts/948509961471580
+1557ff06eb3f6dd47d555b01f4cb14f9:mastodon:
+  spec:
+    title: '5 ไม้เท้าเดินป่า (Trekking Poles) ยอดนิยมปี 2026: แข็งแรง ทนทาน น้ำหนักเบา [myifew.com]'
+    url: https://myifew.com/7495/5-%e0%b9%84%e0%b8%a1%e0%b9%89%e0%b9%80%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2-trekking-poles-%e0%b8%a2%e0%b8%ad%e0%b8%94%e0%b8%99%e0%b8%b4%e0%b8%a2/
+  state:
+    id: '116446667363842517'
+    url: https://mastodon.in.th/@webring/116446667363842517
+1557ff06eb3f6dd47d555b01f4cb14f9:shorturl:
+  spec:
+    url: https://myifew.com/7495/5-%e0%b9%84%e0%b8%a1%e0%b9%89%e0%b9%80%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2-trekking-poles-%e0%b8%a2%e0%b8%ad%e0%b8%94%e0%b8%99%e0%b8%b4%e0%b8%a2/
+  state:
+    shortLink: https://link.webring.in.th/3139
 157051178dafe558afd3fbc8fa6fca2e:bluesky:
   spec:
     title: 2025 Year In Review [blog.ninprd.com]
