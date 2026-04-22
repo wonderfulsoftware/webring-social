@@ -9013,6 +9013,32 @@
     url: https://mesodiar.com/2024/08/20/google-io-connect-beijing-2024-gde-summit/
   state:
     shortLink: https://link.webring.in.th/2089
+312cef52732f4007a7528aa73473fa8b:bluesky:
+  spec:
+    title: 'การลาออกครั้งแรกโดยไม่มีงานรองรับ: ประสบการณ์จริงของ Junior Developer ที่ต้องเดิมพันกับตัวเอง [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/first-resignation-no-job-junior-developer-thailand
+  state:
+    cid: bafyreibtlu4gcwidtuwhgdfcoi4ba6kajvfkejwfua74i6tghibhqem67m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mk2xnmzxhh2m
+312cef52732f4007a7528aa73473fa8b:facebook:
+  spec:
+    title: 'การลาออกครั้งแรกโดยไม่มีงานรองรับ: ประสบการณ์จริงของ Junior Developer ที่ต้องเดิมพันกับตัวเอง [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/first-resignation-no-job-junior-developer-thailand
+  state:
+    id: '100746876247412_948572018132041'
+    url: https://www.facebook.com/100683012920950/posts/948572018132041
+312cef52732f4007a7528aa73473fa8b:mastodon:
+  spec:
+    title: 'การลาออกครั้งแรกโดยไม่มีงานรองรับ: ประสบการณ์จริงของ Junior Developer ที่ต้องเดิมพันกับตัวเอง [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/first-resignation-no-job-junior-developer-thailand
+  state:
+    id: '116447154980141693'
+    url: https://mastodon.in.th/@webring/116447154980141693
+312cef52732f4007a7528aa73473fa8b:shorturl:
+  spec:
+    url: https://creaml4tt3.me/blogs/first-resignation-no-job-junior-developer-thailand
+  state:
+    shortLink: https://link.webring.in.th/3140
 3189d267bc537aa2a0eb7b730f65043f:bluesky:
   spec:
     title: 'มาลองเรียน Observability in Action: Beta รุ่น 1 @SCK Dojo [debuggingsoft.com]'
