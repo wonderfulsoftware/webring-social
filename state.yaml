@@ -18849,6 +18849,32 @@
     url: https://www.karnwong.me/posts/2023/03/secretops-with-teller/
   state:
     shortLink: https://webring.page.link/yJDS
+66a745f2f3baa66074aae34ef1c88315:bluesky:
+  spec:
+    title: '[CR] Starbuck SnowBall Cookie [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/04/cr-starbuck-snowball-cookie/
+  state:
+    cid: bafyreiaprdp5l243msqq4m5cpd35s6p6nxpx6o7i7xlbx5q7pssploid6q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mk5rtnqqcl2q
+66a745f2f3baa66074aae34ef1c88315:facebook:
+  spec:
+    title: '[CR] Starbuck SnowBall Cookie [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/04/cr-starbuck-snowball-cookie/
+  state:
+    id: '100746876247412_949463554709554'
+    url: https://www.facebook.com/100683012920950/posts/949463554709554
+66a745f2f3baa66074aae34ef1c88315:mastodon:
+  spec:
+    title: '[CR] Starbuck SnowBall Cookie [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/04/cr-starbuck-snowball-cookie/
+  state:
+    id: '116453501262220393'
+    url: https://mastodon.in.th/@webring/116453501262220393
+66a745f2f3baa66074aae34ef1c88315:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/04/cr-starbuck-snowball-cookie/
+  state:
+    shortLink: https://link.webring.in.th/3143
 673ffaf680eda1c9e35a3397a489557b:facebook:
   spec:
     title: สร้าง Command-Line เปลี่ยน Type ของ Image ด้วย Sharp [kajame.xyz]
