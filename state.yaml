@@ -26287,6 +26287,32 @@
     url: https://www.somkiat.cc/hello-dart-3/
   state:
     shortLink: https://webring.page.link/tcJ7
+8d6964e0c1b195dce09a1c38fdfe26de:bluesky:
+  spec:
+    title: ทำไมถึงยังมีแอพสินเชื่อบน Play Store? [mikkipastel.com]
+    url: https://www.mikkipastel.com/google-play-finance-app-policy-thai/
+  state:
+    cid: bafyreifhg5rdqpypncbthblhghpgexoscy2ncqk54hno3yv7tyr57yjsyu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mk63l36sqp2w
+8d6964e0c1b195dce09a1c38fdfe26de:facebook:
+  spec:
+    title: ทำไมถึงยังมีแอพสินเชื่อบน Play Store? [mikkipastel.com]
+    url: https://www.mikkipastel.com/google-play-finance-app-policy-thai/
+  state:
+    id: '100746876247412_949569998032243'
+    url: https://www.facebook.com/100683012920950/posts/949569998032243
+8d6964e0c1b195dce09a1c38fdfe26de:mastodon:
+  spec:
+    title: ทำไมถึงยังมีแอพสินเชื่อบน Play Store? [mikkipastel.com]
+    url: https://www.mikkipastel.com/google-play-finance-app-policy-thai/
+  state:
+    id: '116454186273312121'
+    url: https://mastodon.in.th/@webring/116454186273312121
+8d6964e0c1b195dce09a1c38fdfe26de:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/google-play-finance-app-policy-thai/
+  state:
+    shortLink: https://link.webring.in.th/3144
 8d7a2a196563c09937df73be25c166c6:facebook:
   spec:
     title: 'K6 :: ว่าด้วยเรื่องของ Result output ของการทดสอบ [somkiat.cc]'
