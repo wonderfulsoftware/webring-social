@@ -26500,6 +26500,32 @@
     url: https://www.poolsawat.com/big-o-notation-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1%e0%b8%84%e0%b8%99%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b9%82%e0%b8%9b/
   state:
     shortLink: https://link.webring.in.th/2679
+8ed6fcc8f62acbd10e63046a9a02bb20:bluesky:
+  spec:
+    title: 'The LLM Wiki Pattern: A Second Brain That Compounds [fasu.dev]'
+    url: https://fasu.dev/writings/the-llm-wiki-pattern-a-second-brain-that-compounds
+  state:
+    cid: bafyreig4vansesycxujk3pocdctpponisbym6bryc6i6i3dm6lbkai4doe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mk5ibtpbue2u
+8ed6fcc8f62acbd10e63046a9a02bb20:facebook:
+  spec:
+    title: 'The LLM Wiki Pattern: A Second Brain That Compounds [fasu.dev]'
+    url: https://fasu.dev/writings/the-llm-wiki-pattern-a-second-brain-that-compounds
+  state:
+    id: '100746876247412_949363731386203'
+    url: https://www.facebook.com/100683012920950/posts/949363731386203
+8ed6fcc8f62acbd10e63046a9a02bb20:mastodon:
+  spec:
+    title: 'The LLM Wiki Pattern: A Second Brain That Compounds [fasu.dev]'
+    url: https://fasu.dev/writings/the-llm-wiki-pattern-a-second-brain-that-compounds
+  state:
+    id: '116452828917774727'
+    url: https://mastodon.in.th/@webring/116452828917774727
+8ed6fcc8f62acbd10e63046a9a02bb20:shorturl:
+  spec:
+    url: https://fasu.dev/writings/the-llm-wiki-pattern-a-second-brain-that-compounds
+  state:
+    shortLink: https://link.webring.in.th/3142
 8ede20fac39495150c5ee667c66964f9:facebook:
   spec:
     title: Format code via GitHub Actions [blog.oatto.dev]
