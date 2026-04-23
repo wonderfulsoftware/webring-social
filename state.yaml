@@ -21295,6 +21295,32 @@
     url: https://neizod.dev/2024/10/27/hexagon-checkerboard.html
   state:
     shortLink: https://link.webring.in.th/2209
+755e2ae5247a2a5be33ad3dfa74ec1f9:bluesky:
+  spec:
+    title: มาดูแนวทางในปรับปรุงการทดสอบของ Bun [somkiat.cc]
+    url: https://www.somkiat.cc/testing-with-bun/
+  state:
+    cid: bafyreifpkzr4qgof2nr5xorqtcc5dyphqtuyzi4uvbboev2bu2izlz26em
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mk6gfzmuqz2q
+755e2ae5247a2a5be33ad3dfa74ec1f9:facebook:
+  spec:
+    title: มาดูแนวทางในปรับปรุงการทดสอบของ Bun [somkiat.cc]
+    url: https://www.somkiat.cc/testing-with-bun/
+  state:
+    id: '100746876247412_949701171352459'
+    url: https://www.facebook.com/100683012920950/posts/949701171352459
+755e2ae5247a2a5be33ad3dfa74ec1f9:mastodon:
+  spec:
+    title: มาดูแนวทางในปรับปรุงการทดสอบของ Bun [somkiat.cc]
+    url: https://www.somkiat.cc/testing-with-bun/
+  state:
+    id: '116454949170791487'
+    url: https://mastodon.in.th/@webring/116454949170791487
+755e2ae5247a2a5be33ad3dfa74ec1f9:shorturl:
+  spec:
+    url: https://www.somkiat.cc/testing-with-bun/
+  state:
+    shortLink: https://link.webring.in.th/3145
 75708d53f4bfdcd93c042826b93910d1:bluesky:
   spec:
     title: Abstractions and Knowledge Graph [poom.dev]
