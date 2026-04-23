@@ -29447,6 +29447,32 @@
     url: https://fasu.dev/writings/2025s-security-crisis-why-memory-safe-languages-matter
   state:
     shortLink: https://link.webring.in.th/2936
+9db3ac6ffed7d5029553d9fd59902281:bluesky:
+  spec:
+    title: Book Highlights - Babel by Gaston Dorren [karnwong.me]
+    url: https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorrenbook-highlights---babel-by-gaston-dorren/
+  state:
+    cid: bafyreihtv5owmkjd6z77qajoaekduyftzfwlaqm4pqukzppnyze2ahjrwe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mk5bgojobx2y
+9db3ac6ffed7d5029553d9fd59902281:facebook:
+  spec:
+    title: Book Highlights - Babel by Gaston Dorren [karnwong.me]
+    url: https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorrenbook-highlights---babel-by-gaston-dorren/
+  state:
+    id: '100746876247412_949299328059310'
+    url: https://www.facebook.com/100683012920950/posts/949299328059310
+9db3ac6ffed7d5029553d9fd59902281:mastodon:
+  spec:
+    title: Book Highlights - Babel by Gaston Dorren [karnwong.me]
+    url: https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorrenbook-highlights---babel-by-gaston-dorren/
+  state:
+    id: '116452346703763803'
+    url: https://mastodon.in.th/@webring/116452346703763803
+9db3ac6ffed7d5029553d9fd59902281:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorrenbook-highlights---babel-by-gaston-dorren/
+  state:
+    shortLink: https://link.webring.in.th/3141
 9dd372d9894958f226807a0c2c999118:facebook:
   spec:
     title: New Blog | บ้านใหม่ [p4perf4ce.me]
