@@ -44777,6 +44777,32 @@ f10abf09a819b363bbaa2658e500526a:shorturl:
     url: https://dt.in.th/RcloneGoogleDrivePublicFolder
   state:
     shortLink: https://link.webring.in.th/2961
+f10c9ac1a637fbaacf434443a33990b6:bluesky:
+  spec:
+    title: สิ่งที่น่าสนใจใน Technology Radar Volume 34 [somkiat.cc]
+    url: https://www.somkiat.cc/note-technology-radar-volume-34/
+  state:
+    cid: bafyreifvtyqudjau6bpetrrtrwvgftsdtvl5ubrclvtb7c4mfkwbmg2cgy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mk7s77hwee24
+f10c9ac1a637fbaacf434443a33990b6:facebook:
+  spec:
+    title: สิ่งที่น่าสนใจใน Technology Radar Volume 34 [somkiat.cc]
+    url: https://www.somkiat.cc/note-technology-radar-volume-34/
+  state:
+    id: '100746876247412_950124227976820'
+    url: https://www.facebook.com/100683012920950/posts/950124227976820
+f10c9ac1a637fbaacf434443a33990b6:mastodon:
+  spec:
+    title: สิ่งที่น่าสนใจใน Technology Radar Volume 34 [somkiat.cc]
+    url: https://www.somkiat.cc/note-technology-radar-volume-34/
+  state:
+    id: '116458030469107568'
+    url: https://mastodon.in.th/@webring/116458030469107568
+f10c9ac1a637fbaacf434443a33990b6:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-technology-radar-volume-34/
+  state:
+    shortLink: https://link.webring.in.th/3146
 f10d14bf4f854e6bb6f991f79be6e295:bluesky:
   spec:
     title: วางแผนอนาคต เปลี่ยนฝันให้เป็นจริง [mymoneytoolkit.app]
