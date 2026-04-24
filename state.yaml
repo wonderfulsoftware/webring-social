@@ -21347,6 +21347,32 @@
     url: https://poom.dev/abstractions-knowledge-graph/
   state:
     shortLink: https://link.webring.in.th/2668
+75793cfe4baa19fb420c5a516fa68938:bluesky:
+  spec:
+    title: Transfer Money API — Engineering Notes [anewlife.dev]
+    url: https://www.anewlife.dev/post/transfer-money-api-engineering-notes/
+  state:
+    cid: bafyreib2updp4gtd2qd4ofytnlzwnkiq75uitojbcsck6ewxnsgtncjcny
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mkacce4as32u
+75793cfe4baa19fb420c5a516fa68938:facebook:
+  spec:
+    title: Transfer Money API — Engineering Notes [anewlife.dev]
+    url: https://www.anewlife.dev/post/transfer-money-api-engineering-notes/
+  state:
+    id: '100746876247412_950285354627374'
+    url: https://www.facebook.com/100683012920950/posts/950285354627374
+75793cfe4baa19fb420c5a516fa68938:mastodon:
+  spec:
+    title: Transfer Money API — Engineering Notes [anewlife.dev]
+    url: https://www.anewlife.dev/post/transfer-money-api-engineering-notes/
+  state:
+    id: '116459163274847685'
+    url: https://mastodon.in.th/@webring/116459163274847685
+75793cfe4baa19fb420c5a516fa68938:shorturl:
+  spec:
+    url: https://www.anewlife.dev/post/transfer-money-api-engineering-notes/
+  state:
+    shortLink: https://link.webring.in.th/3148
 75963c10e93762ed573dac878fedbd43:bluesky:
   spec:
     title: My NotebookLM Summarization Prompt [dt.in.th]
