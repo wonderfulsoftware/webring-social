@@ -45594,6 +45594,32 @@ f4b29f9ca6e9caffb5b7751a68ef246a:shorturl:
     url: https://www.poolsawat.com/reactive-stack-%e0%b8%81%e0%b8%b1%e0%b8%9a-servlet-stack-%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/
   state:
     shortLink: https://link.webring.in.th/2704
+f4b48ef301a58d979491e3ea990ae5cb:bluesky:
+  spec:
+    title: เปิดการใช้งาน Developer mode ใน Claude Desktop กัน [somkiat.cc]
+    url: https://www.somkiat.cc/enable-developer-mode-in-claude-desktop/
+  state:
+    cid: bafyreiffospothn4apuoqt3xfdv5mqpmsfrhzz6fspbnr7zxpq5j34d5xu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mkcbgev3pf25
+f4b48ef301a58d979491e3ea990ae5cb:facebook:
+  spec:
+    title: เปิดการใช้งาน Developer mode ใน Claude Desktop กัน [somkiat.cc]
+    url: https://www.somkiat.cc/enable-developer-mode-in-claude-desktop/
+  state:
+    id: '100746876247412_950969314558978'
+    url: https://www.facebook.com/100683012920950/posts/950969314558978
+f4b48ef301a58d979491e3ea990ae5cb:mastodon:
+  spec:
+    title: เปิดการใช้งาน Developer mode ใน Claude Desktop กัน [somkiat.cc]
+    url: https://www.somkiat.cc/enable-developer-mode-in-claude-desktop/
+  state:
+    id: '116463605322792443'
+    url: https://mastodon.in.th/@webring/116463605322792443
+f4b48ef301a58d979491e3ea990ae5cb:shorturl:
+  spec:
+    url: https://www.somkiat.cc/enable-developer-mode-in-claude-desktop/
+  state:
+    shortLink: https://link.webring.in.th/3149
 f4b516ab02686d39d28034af5c439d23:facebook:
   spec:
     title: 'Git error: src refspec master does not match any [debuggingsoft.com]'
