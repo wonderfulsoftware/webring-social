@@ -36869,6 +36869,32 @@ c4ce3508a892bcc9d9d65de4a37c7603:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/04/az-400-implement-security-and-validate-code-bases-for-compliance/
   state:
     shortLink: https://webring.page.link/pK9F
+c4d01a1a250dc1b907950f1b3a048c5c:bluesky:
+  spec:
+    title: บันทึกวันศุกร์ — GPT-5.5 ถือกำเนิด และโลก AI ที่ไม่เคยหยุดหมุน 🌸 [myifew.com]
+    url: https://myifew.com/7507/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a8%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b9%8c-gpt-5-5-%e0%b8%96%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b8%b3%e0%b9%80/
+  state:
+    cid: bafyreidw5jel3e6wretyjzjmjpprly7q4xbivivjga7du6b37dmhwy3gky
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mkci3syv632q
+c4d01a1a250dc1b907950f1b3a048c5c:facebook:
+  spec:
+    title: บันทึกวันศุกร์ — GPT-5.5 ถือกำเนิด และโลก AI ที่ไม่เคยหยุดหมุน 🌸 [myifew.com]
+    url: https://myifew.com/7507/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a8%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b9%8c-gpt-5-5-%e0%b8%96%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b8%b3%e0%b9%80/
+  state:
+    id: '100746876247412_951041951218381'
+    url: https://www.facebook.com/100683012920950/posts/951041951218381
+c4d01a1a250dc1b907950f1b3a048c5c:mastodon:
+  spec:
+    title: บันทึกวันศุกร์ — GPT-5.5 ถือกำเนิด และโลก AI ที่ไม่เคยหยุดหมุน 🌸 [myifew.com]
+    url: https://myifew.com/7507/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a8%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b9%8c-gpt-5-5-%e0%b8%96%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b8%b3%e0%b9%80/
+  state:
+    id: '116464074424901069'
+    url: https://mastodon.in.th/@webring/116464074424901069
+c4d01a1a250dc1b907950f1b3a048c5c:shorturl:
+  spec:
+    url: https://myifew.com/7507/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a8%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b9%8c-gpt-5-5-%e0%b8%96%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b8%b3%e0%b9%80/
+  state:
+    shortLink: https://link.webring.in.th/3150
 c4ff1386abb8c0745cb58032ae85937a:facebook:
   spec:
     title: ตอบคำถามการนำ Redis มาใช้งาน [somkiat.cc]
