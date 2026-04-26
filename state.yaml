@@ -13819,6 +13819,32 @@
     url: https://www.poolsawat.com/docker-compose-for-laravel8-mysql-phpmyadmin/
   state:
     shortLink: https://link.webring.in.th/1723
+4c7265fc51e405087200725cbf5bb93a:bluesky:
+  spec:
+    title: จดๆจากงาน GitHub Copilot Dev Days Bangkok 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/recap-github-copilot-dev-days-bangkok-2026/
+  state:
+    cid: bafyreihddfn654afhmt2nbk7eteqg7ckchgh5rckxoucrich3n7uj4mtgi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mkeze3iejt25
+4c7265fc51e405087200725cbf5bb93a:facebook:
+  spec:
+    title: จดๆจากงาน GitHub Copilot Dev Days Bangkok 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/recap-github-copilot-dev-days-bangkok-2026/
+  state:
+    id: '100746876247412_951915177797725'
+    url: https://www.facebook.com/100683012920950/posts/951915177797725
+4c7265fc51e405087200725cbf5bb93a:mastodon:
+  spec:
+    title: จดๆจากงาน GitHub Copilot Dev Days Bangkok 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/04/recap-github-copilot-dev-days-bangkok-2026/
+  state:
+    id: '116469792551101407'
+    url: https://mastodon.in.th/@webring/116469792551101407
+4c7265fc51e405087200725cbf5bb93a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/04/recap-github-copilot-dev-days-bangkok-2026/
+  state:
+    shortLink: https://link.webring.in.th/3152
 4c7629086cf21b226164993f6071606c:bluesky:
   spec:
     title: My journey for fully switching from Windows over to Linux [karnwong.me]
