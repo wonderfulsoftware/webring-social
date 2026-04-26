@@ -22873,6 +22873,32 @@
     url: https://karnwong.me/posts/2025/07/the-true-cost-of-deploying-on-ec2/
   state:
     shortLink: https://link.webring.in.th/2651
+7c1907087168587c11452daa8cae5c3d:bluesky:
+  spec:
+    title: บันทึกวันศุกร์ — เสียงสะท้อนจากขุนเขาทั่วโลก 🌸 [myifew.com]
+    url: https://myifew.com/7510/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a8%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b9%8c-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%aa%e0%b8%b0/
+  state:
+    cid: bafyreid7cwixhffktsdqblculpyeohv2t3brue67qiubyd4fbdih2miuh4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mketdtlqih25
+7c1907087168587c11452daa8cae5c3d:facebook:
+  spec:
+    title: บันทึกวันศุกร์ — เสียงสะท้อนจากขุนเขาทั่วโลก 🌸 [myifew.com]
+    url: https://myifew.com/7510/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a8%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b9%8c-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%aa%e0%b8%b0/
+  state:
+    id: '100746876247412_951853341137242'
+    url: https://www.facebook.com/100683012920950/posts/951853341137242
+7c1907087168587c11452daa8cae5c3d:mastodon:
+  spec:
+    title: บันทึกวันศุกร์ — เสียงสะท้อนจากขุนเขาทั่วโลก 🌸 [myifew.com]
+    url: https://myifew.com/7510/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a8%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b9%8c-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%aa%e0%b8%b0/
+  state:
+    id: '116469369693229397'
+    url: https://mastodon.in.th/@webring/116469369693229397
+7c1907087168587c11452daa8cae5c3d:shorturl:
+  spec:
+    url: https://myifew.com/7510/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a8%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b9%8c-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%aa%e0%b8%b0/
+  state:
+    shortLink: https://link.webring.in.th/3151
 7c1d199155d3643f76342398dfdd7dba:bluesky:
   spec:
     title: 'TIL: Operational และ Analytics Systems คืออะไร และแต่แบบเหมาะกับ data ประเภทไหน [jetsukda.dev]'
