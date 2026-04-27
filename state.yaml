@@ -41133,6 +41133,32 @@ db8d4ed25d9e792392e788eb4d36eef9:shorturl:
     url: https://www.somkiat.cc/pglite-wrapper-for-python-postgresql/
   state:
     shortLink: https://link.webring.in.th/2592
+dbada51613de393fc3abcb5b5c5b304c:bluesky:
+  spec:
+    title: Book Highlights - Babel by Gaston Dorren [karnwong.me]
+    url: https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorren/
+  state:
+    cid: bafyreiffuqhn7lps3aiyowlet6wqf2k3mat4anbvhba45tmsy23ncjls2q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mkhen33azn24
+dbada51613de393fc3abcb5b5c5b304c:facebook:
+  spec:
+    title: Book Highlights - Babel by Gaston Dorren [karnwong.me]
+    url: https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorren/
+  state:
+    id: '100746876247412_952762297713013'
+    url: https://www.facebook.com/100683012920950/posts/952762297713013
+dbada51613de393fc3abcb5b5c5b304c:mastodon:
+  spec:
+    title: Book Highlights - Babel by Gaston Dorren [karnwong.me]
+    url: https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorren/
+  state:
+    id: '116475090079537397'
+    url: https://mastodon.in.th/@webring/116475090079537397
+dbada51613de393fc3abcb5b5c5b304c:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorren/
+  state:
+    shortLink: https://link.webring.in.th/3153
 dbfdd18387cc7595596a1d631761d697:facebook:
   spec:
     title: Postman สนับสนุน MQTT แล้ว (open beta) [somkiat.cc]
