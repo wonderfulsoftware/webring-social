@@ -42713,6 +42713,32 @@ e49f6f8d26b8955ae3937a9c3158ac0e:shorturl:
     url: https://lucian.solutions/blog/202402-chinese-new-year-lucia
   state:
     shortLink: https://link.webring.in.th/1769
+e4db21279eca7aa06c59732a9ad5f56c:bluesky:
+  spec:
+    title: 'Burger King: Hawaiian Whopper / Tempura Nugget [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/04/burger-king-hawaiian-whopper-tempura-nugget/
+  state:
+    cid: bafyreidryn5wjgr672ha4y2ilsxjlqxau2vozmaxjewgw52zjsdglzcvja
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mkjvfqt5bl2w
+e4db21279eca7aa06c59732a9ad5f56c:facebook:
+  spec:
+    title: 'Burger King: Hawaiian Whopper / Tempura Nugget [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/04/burger-king-hawaiian-whopper-tempura-nugget/
+  state:
+    id: '100746876247412_953624457626797'
+    url: https://www.facebook.com/100683012920950/posts/953624457626797
+e4db21279eca7aa06c59732a9ad5f56c:mastodon:
+  spec:
+    title: 'Burger King: Hawaiian Whopper / Tempura Nugget [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/04/burger-king-hawaiian-whopper-tempura-nugget/
+  state:
+    id: '116480773862437917'
+    url: https://mastodon.in.th/@webring/116480773862437917
+e4db21279eca7aa06c59732a9ad5f56c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/04/burger-king-hawaiian-whopper-tempura-nugget/
+  state:
+    shortLink: https://link.webring.in.th/3156
 e4e9a2bb4eed534a2472ab673acb2ce9:bluesky:
   spec:
     title: บันทึกการแบ่งปันเรื่อง AI Agent for coding แบบพื้นฐาน [somkiat.cc]
