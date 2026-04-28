@@ -39967,6 +39967,32 @@ d40ad8b3ea627e5c21411eb46ba2c158:shorturl:
     url: https://mikelopster.dev/posts/drizzle-nextjs/
   state:
     shortLink: https://link.webring.in.th/2196
+d40dcfd1f410ac13e62c6ba3f3a6836f:bluesky:
+  spec:
+    title: มาเป็นพี่เกือบเนียนที่ iCreator Camp 2026 week 1 Storytelling & Branding [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2026-week-1-storytelling-branding/
+  state:
+    cid: bafyreicsdu5c6tbi4wbgtfeut257ne4muw2roxgtlm42ltkuote4fwlaxy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mkk57dyjia2u
+d40dcfd1f410ac13e62c6ba3f3a6836f:facebook:
+  spec:
+    title: มาเป็นพี่เกือบเนียนที่ iCreator Camp 2026 week 1 Storytelling & Branding [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2026-week-1-storytelling-branding/
+  state:
+    id: '100746876247412_953706194285290'
+    url: https://www.facebook.com/100683012920950/posts/953706194285290
+d40dcfd1f410ac13e62c6ba3f3a6836f:mastodon:
+  spec:
+    title: มาเป็นพี่เกือบเนียนที่ iCreator Camp 2026 week 1 Storytelling & Branding [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2026-week-1-storytelling-branding/
+  state:
+    id: '116481322865414920'
+    url: https://mastodon.in.th/@webring/116481322865414920
+d40dcfd1f410ac13e62c6ba3f3a6836f:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/icreator-camp-2026-week-1-storytelling-branding/
+  state:
+    shortLink: https://link.webring.in.th/3157
 d427d31ba214257296b1d58c6a31d8f0:facebook:
   spec:
     title: แชร์ประสบการณ์และรีวิว UX/UI Bootcamp (UXB) รุ่นที่ 7 ของ Skooldio [blog.ninprd.com]
