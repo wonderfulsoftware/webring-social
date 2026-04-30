@@ -43395,6 +43395,32 @@ e87f7ac5a02d4bbed04e8a59181a3919:shorturl:
     url: https://www.somkiat.cc/grafana-k6-version-1/
   state:
     shortLink: https://link.webring.in.th/2535
+e88eb25048aeac4d5002571a2edbfc34:bluesky:
+  spec:
+    title: เช็คลิสต์ความพร้อมทางการเงินในโลกที่เปลี่ยนไปแล้ว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/wake-up
+  state:
+    cid: bafyreibyv7vi3x3hute2tirkv6ndkfnlsllzpmannoyty4pop3oz5rynby
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mkowcev5s72w
+e88eb25048aeac4d5002571a2edbfc34:facebook:
+  spec:
+    title: เช็คลิสต์ความพร้อมทางการเงินในโลกที่เปลี่ยนไปแล้ว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/wake-up
+  state:
+    id: '100746876247412_955288440793732'
+    url: https://www.facebook.com/100683012920950/posts/955288440793732
+e88eb25048aeac4d5002571a2edbfc34:mastodon:
+  spec:
+    title: เช็คลิสต์ความพร้อมทางการเงินในโลกที่เปลี่ยนไปแล้ว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/wake-up
+  state:
+    id: '116492095634679693'
+    url: https://mastodon.in.th/@webring/116492095634679693
+e88eb25048aeac4d5002571a2edbfc34:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/wake-up
+  state:
+    shortLink: https://link.webring.in.th/3160
 e8bdce8c1d9e3a095fe2c4548bdaf5a1:facebook:
   spec:
     title: มารับความรู้ฝั่ง web3 developer กับงาน Sui Workshop [mikkipastel.com]
