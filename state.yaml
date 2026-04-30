@@ -25981,6 +25981,32 @@
     url: https://www.somkiat.cc/terminal-based-presentation/
   state:
     shortLink: https://link.webring.in.th/2268
+8a4a6bbf261e5d41e3f647c73a336f80:bluesky:
+  spec:
+    title: 'FMHY: ขุมทรัพย์ของฟรีบนอินเทอร์เน็ต [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/fmhy-free-media-resources-th/
+  state:
+    cid: bafyreih5nfa3b6cnaaofix4ke7am62s7a6tdz376zdzewr62gfmeajthbi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mkp5xtvsj42d
+8a4a6bbf261e5d41e3f647c73a336f80:facebook:
+  spec:
+    title: 'FMHY: ขุมทรัพย์ของฟรีบนอินเทอร์เน็ต [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/fmhy-free-media-resources-th/
+  state:
+    id: '100746876247412_955364144119495'
+    url: https://www.facebook.com/100683012920950/posts/955364144119495
+8a4a6bbf261e5d41e3f647c73a336f80:mastodon:
+  spec:
+    title: 'FMHY: ขุมทรัพย์ของฟรีบนอินเทอร์เน็ต [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/fmhy-free-media-resources-th/
+  state:
+    id: '116492635770608033'
+    url: https://mastodon.in.th/@webring/116492635770608033
+8a4a6bbf261e5d41e3f647c73a336f80:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/fmhy-free-media-resources-th/
+  state:
+    shortLink: https://link.webring.in.th/3161
 8a4c7719f577f1af3b188aa8c289cba8:facebook:
   spec:
     title: A URL to a blank file on IPFS [dt.in.th]
