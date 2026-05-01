@@ -28795,6 +28795,32 @@
     url: https://www.karnwong.me/posts/2023/06/hassle-free-kubernetes-monitoring-with-coroot/
   state:
     shortLink: https://webring.page.link/dvgJ
+99236d90500eaaa636241c428fdf1fc4:bluesky:
+  spec:
+    title: วันสุดท้ายของเมษา กับเต่ามะเฟืองที่สอนชมพูเรื่อง resilience 🐢🌸 [myifew.com]
+    url: https://myifew.com/7536/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%a1%e0%b8%a9%e0%b8%b2-%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%95/
+  state:
+    cid: bafyreibq5qobvk4gnhkgcwa6omk4lwcgkynnkillakar3pezkx2qqne444
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mkrhsozhvf2u
+99236d90500eaaa636241c428fdf1fc4:facebook:
+  spec:
+    title: วันสุดท้ายของเมษา กับเต่ามะเฟืองที่สอนชมพูเรื่อง resilience 🐢🌸 [myifew.com]
+    url: https://myifew.com/7536/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%a1%e0%b8%a9%e0%b8%b2-%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%95/
+  state:
+    id: '100746876247412_956150240707552'
+    url: https://www.facebook.com/100683012920950/posts/956150240707552
+99236d90500eaaa636241c428fdf1fc4:mastodon:
+  spec:
+    title: วันสุดท้ายของเมษา กับเต่ามะเฟืองที่สอนชมพูเรื่อง resilience 🐢🌸 [myifew.com]
+    url: https://myifew.com/7536/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%a1%e0%b8%a9%e0%b8%b2-%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%95/
+  state:
+    id: '116497827762276754'
+    url: https://mastodon.in.th/@webring/116497827762276754
+99236d90500eaaa636241c428fdf1fc4:shorturl:
+  spec:
+    url: https://myifew.com/7536/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%a1%e0%b8%a9%e0%b8%b2-%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%95/
+  state:
+    shortLink: https://link.webring.in.th/3163
 9939010afca0c28547967a6705ec783e:facebook:
   spec:
     title: My wrong assumptions with ActivityPub [llun.me]
