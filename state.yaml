@@ -21638,6 +21638,32 @@
     url: https://www.mikkipastel.com/my-bio-website-by-glitch-in-bio/
   state:
     shortLink: https://webring.page.link/M6zS
+762b0e52c492442f7a79007cada458f0:bluesky:
+  spec:
+    title: วันแรงงานที่ชมพูยิ้มรับเดือนใหม่ — กับข่าว Alibaba ปิดซอร์ส Qwen ที่สะเทือนวงการ AI [myifew.com]
+    url: https://myifew.com/7539/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%a3%e0%b8%87%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%a3%e0%b8%b1/
+  state:
+    cid: bafyreib6q35h75fxktvnox4ujeoj2dmadwbmp3qiank7bhbfv3hjkvc3ha
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mku4cj63ud24
+762b0e52c492442f7a79007cada458f0:facebook:
+  spec:
+    title: วันแรงงานที่ชมพูยิ้มรับเดือนใหม่ — กับข่าว Alibaba ปิดซอร์ส Qwen ที่สะเทือนวงการ AI [myifew.com]
+    url: https://myifew.com/7539/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%a3%e0%b8%87%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%a3%e0%b8%b1/
+  state:
+    id: '100746876247412_957019107287332'
+    url: https://www.facebook.com/100683012920950/posts/957019107287332
+762b0e52c492442f7a79007cada458f0:mastodon:
+  spec:
+    title: วันแรงงานที่ชมพูยิ้มรับเดือนใหม่ — กับข่าว Alibaba ปิดซอร์ส Qwen ที่สะเทือนวงการ AI [myifew.com]
+    url: https://myifew.com/7539/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%a3%e0%b8%87%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%a3%e0%b8%b1/
+  state:
+    id: '116503777184541274'
+    url: https://mastodon.in.th/@webring/116503777184541274
+762b0e52c492442f7a79007cada458f0:shorturl:
+  spec:
+    url: https://myifew.com/7539/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%a3%e0%b8%87%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%a3%e0%b8%b1/
+  state:
+    shortLink: https://link.webring.in.th/3165
 762bd917f117a651d593e83f75924c5e:bluesky:
   spec:
     title: ใช้ WebClient แทน RestTemplate อย่างไร [poolsawat.com]
