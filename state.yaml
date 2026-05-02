@@ -45669,6 +45669,32 @@ f2f2f35133c4f904cfeb0c6c82f4095c:shorturl:
     url: https://dt.in.th/AzureStaticWebAppsSPA
   state:
     shortLink: https://link.webring.in.th/2778
+f311599e8482d804eefa3cd07e683edd:bluesky:
+  spec:
+    title: 'พบปะชาว Solana เดฟ ที่งาน Solana x AI Builders: The Road to Mainnet #1 (Bangkok) [mikkipastel.com]'
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-1-bangkok/
+  state:
+    cid: bafyreiaoof5boysfeupfuurm4bal2wgj5einqniejmmdh2htjky77542wi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mktvzgj5cz2s
+f311599e8482d804eefa3cd07e683edd:facebook:
+  spec:
+    title: 'พบปะชาว Solana เดฟ ที่งาน Solana x AI Builders: The Road to Mainnet #1 (Bangkok) [mikkipastel.com]'
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-1-bangkok/
+  state:
+    id: '100746876247412_956958930626683'
+    url: https://www.facebook.com/100683012920950/posts/956958930626683
+f311599e8482d804eefa3cd07e683edd:mastodon:
+  spec:
+    title: 'พบปะชาว Solana เดฟ ที่งาน Solana x AI Builders: The Road to Mainnet #1 (Bangkok) [mikkipastel.com]'
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-1-bangkok/
+  state:
+    id: '116503335156942702'
+    url: https://mastodon.in.th/@webring/116503335156942702
+f311599e8482d804eefa3cd07e683edd:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-1-bangkok/
+  state:
+    shortLink: https://link.webring.in.th/3164
 f315cec1423b186f1c2f56b1cab26189:bluesky:
   spec:
     title: การใช้งาน SKIP LOCKED ใน PostgreSQL database [somkiat.cc]
