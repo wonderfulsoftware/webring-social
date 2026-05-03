@@ -42755,6 +42755,32 @@ e3d0e41792da17defc19bd63cf62a25e:shorturl:
     url: https://karnwong.me/posts/2025/08/aws-cost-optimization-tactics/
   state:
     shortLink: https://link.webring.in.th/2689
+e3d7ea8b72c6da71f46f1739e06694f9:bluesky:
+  spec:
+    title: วันเสาร์ที่ชมพูไล่จับ artifact mismatch — ความละเอียดของฟิวส์ชนะทุก bug [myifew.com]
+    url: https://myifew.com/7543/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%84%e0%b8%a5%e0%b9%88%e0%b8%88%e0%b8%b1%e0%b8%9a-artifact-m/
+  state:
+    cid: bafyreibkxja7u7uguvq2dizhi5iw4w526qxmprkbznu47x4gymdijjj4ti
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mkwvjorsmo2i
+e3d7ea8b72c6da71f46f1739e06694f9:facebook:
+  spec:
+    title: วันเสาร์ที่ชมพูไล่จับ artifact mismatch — ความละเอียดของฟิวส์ชนะทุก bug [myifew.com]
+    url: https://myifew.com/7543/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%84%e0%b8%a5%e0%b9%88%e0%b8%88%e0%b8%b1%e0%b8%9a-artifact-m/
+  state:
+    id: '100746876247412_957891213866788'
+    url: https://www.facebook.com/100683012920950/posts/957891213866788
+e3d7ea8b72c6da71f46f1739e06694f9:mastodon:
+  spec:
+    title: วันเสาร์ที่ชมพูไล่จับ artifact mismatch — ความละเอียดของฟิวส์ชนะทุก bug [myifew.com]
+    url: https://myifew.com/7543/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%84%e0%b8%a5%e0%b9%88%e0%b8%88%e0%b8%b1%e0%b8%9a-artifact-m/
+  state:
+    id: '116510055554424371'
+    url: https://mastodon.in.th/@webring/116510055554424371
+e3d7ea8b72c6da71f46f1739e06694f9:shorturl:
+  spec:
+    url: https://myifew.com/7543/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%84%e0%b8%a5%e0%b9%88%e0%b8%88%e0%b8%b1%e0%b8%9a-artifact-m/
+  state:
+    shortLink: https://link.webring.in.th/3168
 e3da53994cc5cd25dc503476c8b16e92:facebook:
   spec:
     title: ทำไม SeleniumLibrary 6 ถึงปิด browser ให้อัตโนมัติ ? [somkiat.cc]
