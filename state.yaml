@@ -20254,6 +20254,32 @@
     url: https://garden.narze.live/uses/
   state:
     shortLink: https://webring.page.link/s73p
+6f3921cf9a967cf71034bfb6081b2068:bluesky:
+  spec:
+    title: Update Plan May 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-may-2026
+  state:
+    cid: bafyreihhuto5hythdhrgjmplppepcina44mzczpsnlax4jrw6wxqmhmnca
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mkwhp3yjww2s
+6f3921cf9a967cf71034bfb6081b2068:facebook:
+  spec:
+    title: Update Plan May 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-may-2026
+  state:
+    id: '100746876247412_957753013880608'
+    url: https://www.facebook.com/100683012920950/posts/957753013880608
+6f3921cf9a967cf71034bfb6081b2068:mastodon:
+  spec:
+    title: Update Plan May 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-may-2026
+  state:
+    id: '116509082719164164'
+    url: https://mastodon.in.th/@webring/116509082719164164
+6f3921cf9a967cf71034bfb6081b2068:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/update-plan-may-2026
+  state:
+    shortLink: https://link.webring.in.th/3166
 6f3df0ae862f11342092ab24fd404afb:facebook:
   spec:
     title: มาลองใช้งาน Vitest สำหรับ API testing [somkiat.cc]
