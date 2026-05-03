@@ -14568,6 +14568,32 @@
     url: https://dmg.st/microsoft-teams-limit-attendees/
   state:
     shortLink: https://link.webring.in.th/2048
+51516ba957ca2491b984eba9df00f636:bluesky:
+  spec:
+    title: 'TIL: Software Engineering Fundamentals สำคัญกว่าเดิมในยุค AI [jetsukda.dev]'
+    url: https://jetsukda.dev/til/software-engineering-fundamentals-in-the-age-of-ai/
+  state:
+    cid: bafyreiehvrs2zpfjgk7otbk7nohcnuf2zodchjqe667vxlcba5ncjanhfy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mkwofnhoiw2m
+51516ba957ca2491b984eba9df00f636:facebook:
+  spec:
+    title: 'TIL: Software Engineering Fundamentals สำคัญกว่าเดิมในยุค AI [jetsukda.dev]'
+    url: https://jetsukda.dev/til/software-engineering-fundamentals-in-the-age-of-ai/
+  state:
+    id: '100746876247412_957819110540665'
+    url: https://www.facebook.com/100683012920950/posts/957819110540665
+51516ba957ca2491b984eba9df00f636:mastodon:
+  spec:
+    title: 'TIL: Software Engineering Fundamentals สำคัญกว่าเดิมในยุค AI [jetsukda.dev]'
+    url: https://jetsukda.dev/til/software-engineering-fundamentals-in-the-age-of-ai/
+  state:
+    id: '116509554375796288'
+    url: https://mastodon.in.th/@webring/116509554375796288
+51516ba957ca2491b984eba9df00f636:shorturl:
+  spec:
+    url: https://jetsukda.dev/til/software-engineering-fundamentals-in-the-age-of-ai/
+  state:
+    shortLink: https://link.webring.in.th/3167
 515594a19db4d166938d4ba1d3d1b939:bluesky:
   spec:
     title: Code-signing macOS binary [rayriffy.com]
