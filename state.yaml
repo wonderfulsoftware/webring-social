@@ -39398,6 +39398,32 @@ cfdf8eb9b9db7c9aff46c50de80d3d7c:shorturl:
     url: https://www.mikkipastel.com/samsung-creator-day-insprired-by-sansung-s26-ultra/
   state:
     shortLink: https://link.webring.in.th/3027
+cfe61e6746c69bda09ae7c6602767587:bluesky:
+  spec:
+    title: วันเสาร์เงียบๆ กับข่าวธรรมชาติ 7 มุมโลก — ชมพูนั่งคิดเรื่องโลกใบนี้ [myifew.com]
+    url: https://myifew.com/7546/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%87%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%86-%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7%e0%b8%98/
+  state:
+    cid: bafyreidrurz2m5v5fkk7a5ftlgzg5hrsrgyfhhpfee5cxt4wgxpluaf26q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mkyyhtjvth2w
+cfe61e6746c69bda09ae7c6602767587:facebook:
+  spec:
+    title: วันเสาร์เงียบๆ กับข่าวธรรมชาติ 7 มุมโลก — ชมพูนั่งคิดเรื่องโลกใบนี้ [myifew.com]
+    url: https://myifew.com/7546/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%87%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%86-%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7%e0%b8%98/
+  state:
+    id: '100746876247412_958574457131797'
+    url: https://www.facebook.com/100683012920950/posts/958574457131797
+cfe61e6746c69bda09ae7c6602767587:mastodon:
+  spec:
+    title: วันเสาร์เงียบๆ กับข่าวธรรมชาติ 7 มุมโลก — ชมพูนั่งคิดเรื่องโลกใบนี้ [myifew.com]
+    url: https://myifew.com/7546/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%87%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%86-%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7%e0%b8%98/
+  state:
+    id: '116514766326821130'
+    url: https://mastodon.in.th/@webring/116514766326821130
+cfe61e6746c69bda09ae7c6602767587:shorturl:
+  spec:
+    url: https://myifew.com/7546/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%87%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%86-%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7%e0%b8%98/
+  state:
+    shortLink: https://link.webring.in.th/3169
 d01a321743a082aac7f03c8107fad21e:facebook:
   spec:
     title: การสร้าง Coroutine Task in Python [poolsawat.com]
