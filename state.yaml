@@ -5584,6 +5584,32 @@
     url: https://www.boonsong.dev/pattern-event-driven-architecture-1
   state:
     shortLink: https://webring.page.link/dhgB
+1deaf5f1ce45555d5d5b5df669872687:bluesky:
+  spec:
+    title: วัดผล AI Code Reviewer ด้วยการทำ Evaluation แบบ LLM-as-a-Judge [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/holiday-hack-evaluate-ai-code-review-agent-with-llm-as-a-judge/
+  state:
+    cid: bafyreie4nssvxkumx7pkuuohbqrkhsdtmyruuhb6jajcpfzgljopw7zqku
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mkzaudc36o2l
+1deaf5f1ce45555d5d5b5df669872687:facebook:
+  spec:
+    title: วัดผล AI Code Reviewer ด้วยการทำ Evaluation แบบ LLM-as-a-Judge [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/holiday-hack-evaluate-ai-code-review-agent-with-llm-as-a-judge/
+  state:
+    id: '100746876247412_958654943790415'
+    url: https://www.facebook.com/100683012920950/posts/958654943790415
+1deaf5f1ce45555d5d5b5df669872687:mastodon:
+  spec:
+    title: วัดผล AI Code Reviewer ด้วยการทำ Evaluation แบบ LLM-as-a-Judge [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/holiday-hack-evaluate-ai-code-review-agent-with-llm-as-a-judge/
+  state:
+    id: '116515357140995156'
+    url: https://mastodon.in.th/@webring/116515357140995156
+1deaf5f1ce45555d5d5b5df669872687:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/holiday-hack-evaluate-ai-code-review-agent-with-llm-as-a-judge/
+  state:
+    shortLink: https://link.webring.in.th/3170
 1e1a622fc4d9a99e621f216433a063ad:bluesky:
   spec:
     title: むむむむむ [neizod.dev]
