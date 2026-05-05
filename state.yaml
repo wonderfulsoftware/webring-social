@@ -8584,6 +8584,32 @@
     url: https://www.mikkipastel.com/review-blog-2022/
   state:
     shortLink: https://webring.page.link/PVwT
+2e75aa1b451eecc776adfa9b5cc0f389:bluesky:
+  spec:
+    title: '[CR] Starbuck Flower Egg Tart [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/05/cr-starbuck-flower-egg-tart/
+  state:
+    cid: bafyreif63t2k7sqvew4lyajw7nhsmm62ktxmele2bdqzks4e4fsqafq324
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ml3hr6635h2c
+2e75aa1b451eecc776adfa9b5cc0f389:facebook:
+  spec:
+    title: '[CR] Starbuck Flower Egg Tart [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/05/cr-starbuck-flower-egg-tart/
+  state:
+    id: '100746876247412_959356153720294'
+    url: https://www.facebook.com/100683012920950/posts/959356153720294
+2e75aa1b451eecc776adfa9b5cc0f389:mastodon:
+  spec:
+    title: '[CR] Starbuck Flower Egg Tart [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/05/cr-starbuck-flower-egg-tart/
+  state:
+    id: '116520346161785453'
+    url: https://mastodon.in.th/@webring/116520346161785453
+2e75aa1b451eecc776adfa9b5cc0f389:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/05/cr-starbuck-flower-egg-tart/
+  state:
+    shortLink: https://link.webring.in.th/3171
 2e7f17f075ca977dcf888fc64758da57:bluesky:
   spec:
     title: ทำความรู้จักกับ Cline Kanban [somkiat.cc]
