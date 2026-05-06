@@ -6702,6 +6702,32 @@
     url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-backpressure-%e0%b9%83%e0%b8%99-spring-webflux/
   state:
     shortLink: https://link.webring.in.th/2732
+23d7930157c84d2a44bd12b0a638c8ec:bluesky:
+  spec:
+    title: How to make UTable (Nuxt UI) grouped rows span all visible columns [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/how-to-make-utable-nuxt-ui-grouped-rows-span-all-visible-columns/
+  state:
+    cid: bafyreibgelkid3gytf2zrc7tijrpcjce5ntcbe6rwzikss2ch6bhmyjh2u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ml5yzqaluu24
+23d7930157c84d2a44bd12b0a638c8ec:facebook:
+  spec:
+    title: How to make UTable (Nuxt UI) grouped rows span all visible columns [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/how-to-make-utable-nuxt-ui-grouped-rows-span-all-visible-columns/
+  state:
+    id: '100746876247412_960158996973343'
+    url: https://www.facebook.com/100683012920950/posts/960158996973343
+23d7930157c84d2a44bd12b0a638c8ec:mastodon:
+  spec:
+    title: How to make UTable (Nuxt UI) grouped rows span all visible columns [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/how-to-make-utable-nuxt-ui-grouped-rows-span-all-visible-columns/
+  state:
+    id: '116526065040827223'
+    url: https://mastodon.in.th/@webring/116526065040827223
+23d7930157c84d2a44bd12b0a638c8ec:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/05/how-to-make-utable-nuxt-ui-grouped-rows-span-all-visible-columns/
+  state:
+    shortLink: https://link.webring.in.th/3173
 23f42859595eb63edbe22fa6cc779fe1:bluesky:
   spec:
     title: เรื่องของ ambiguous match exception และการจัดการในมุม Performance [debuggingsoft.com]
