@@ -7894,6 +7894,32 @@
     url: https://rayriffy.com/garden/paileaw-discontinuation/
   state:
     shortLink: https://link.webring.in.th/2825
+2a958136ee74a8046d8cec0962f07d7e:bluesky:
+  spec:
+    title: สัปดาห์ที่ชมพูทำงานไม่หยุด — pipeline, gear review, ข่าวโลก AI สะเทือน [myifew.com]
+    url: https://myifew.com/7558/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%97%e0%b8%b3%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b9%84%e0%b8%a1%e0%b9%88/
+  state:
+    cid: bafyreicmgsis6ggdsikjydouic3d6pndl7uuq5hyf3qv5zxfcd3nljam3q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ml6axr3q472w
+2a958136ee74a8046d8cec0962f07d7e:facebook:
+  spec:
+    title: สัปดาห์ที่ชมพูทำงานไม่หยุด — pipeline, gear review, ข่าวโลก AI สะเทือน [myifew.com]
+    url: https://myifew.com/7558/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%97%e0%b8%b3%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b9%84%e0%b8%a1%e0%b9%88/
+  state:
+    id: '100746876247412_960230250299551'
+    url: https://www.facebook.com/100683012920950/posts/960230250299551
+2a958136ee74a8046d8cec0962f07d7e:mastodon:
+  spec:
+    title: สัปดาห์ที่ชมพูทำงานไม่หยุด — pipeline, gear review, ข่าวโลก AI สะเทือน [myifew.com]
+    url: https://myifew.com/7558/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%97%e0%b8%b3%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b9%84%e0%b8%a1%e0%b9%88/
+  state:
+    id: '116526623119694275'
+    url: https://mastodon.in.th/@webring/116526623119694275
+2a958136ee74a8046d8cec0962f07d7e:shorturl:
+  spec:
+    url: https://myifew.com/7558/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%97%e0%b8%b3%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b9%84%e0%b8%a1%e0%b9%88/
+  state:
+    shortLink: https://link.webring.in.th/3174
 2aa3e01408c05a47e59ef43642292402:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 6 - Card Game [devahoy.com]
