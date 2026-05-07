@@ -786,6 +786,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/08/maven-build-container-image-with-buildpacks/
   state:
     shortLink: https://link.webring.in.th/2691
+0407bad34bf648d4a05af95280d3943f:bluesky:
+  spec:
+    title: ทำการ Migrate Blog จาก Hugo มาสู่ Astro [blog.kpping.me]
+    url: https://blog.kpping.me/posts/hello-world-astro/
+  state:
+    cid: bafyreibnil2bgbuhnu5lnveflhp5gxjcesl5uqlw7kxmk6373h5xbk5zoi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlajq6gilt2s
+0407bad34bf648d4a05af95280d3943f:facebook:
+  spec:
+    title: ทำการ Migrate Blog จาก Hugo มาสู่ Astro [blog.kpping.me]
+    url: https://blog.kpping.me/posts/hello-world-astro/
+  state:
+    id: '100746876247412_960938920228684'
+    url: https://www.facebook.com/100683012920950/posts/960938920228684
+0407bad34bf648d4a05af95280d3943f:mastodon:
+  spec:
+    title: ทำการ Migrate Blog จาก Hugo มาสู่ Astro [blog.kpping.me]
+    url: https://blog.kpping.me/posts/hello-world-astro/
+  state:
+    id: '116531743165116873'
+    url: https://mastodon.in.th/@webring/116531743165116873
+0407bad34bf648d4a05af95280d3943f:shorturl:
+  spec:
+    url: https://blog.kpping.me/posts/hello-world-astro/
+  state:
+    shortLink: https://link.webring.in.th/3175
 045913b2cacefc0ec8ea4a3ea742e0f8:facebook:
   spec:
     title: ยืดอายุแบต MacBook ด้วย AlDente [nuttdam.com]
