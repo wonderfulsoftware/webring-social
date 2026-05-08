@@ -4863,6 +4863,32 @@
     url: https://www.somkiat.cc/note-value-driven-design/
   state:
     shortLink: https://link.webring.in.th/1800
+1a0bd71ccfae971cb2a58a4ff1d8548f:bluesky:
+  spec:
+    title: '[Bug] Claude code for VS Code 2.1.131 [somkiat.cc]'
+    url: https://www.somkiat.cc/bug-claude-code-for-vs-code/
+  state:
+    cid: bafyreif5rr5rxi36fwhanxqheomryqqric3ko56tc6eqlwuozd2thpldoy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlcyiq26su2w
+1a0bd71ccfae971cb2a58a4ff1d8548f:facebook:
+  spec:
+    title: '[Bug] Claude code for VS Code 2.1.131 [somkiat.cc]'
+    url: https://www.somkiat.cc/bug-claude-code-for-vs-code/
+  state:
+    id: '100746876247412_961712820151294'
+    url: https://www.facebook.com/100683012920950/posts/961712820151294
+1a0bd71ccfae971cb2a58a4ff1d8548f:mastodon:
+  spec:
+    title: '[Bug] Claude code for VS Code 2.1.131 [somkiat.cc]'
+    url: https://www.somkiat.cc/bug-claude-code-for-vs-code/
+  state:
+    id: '116537286234178950'
+    url: https://mastodon.in.th/@webring/116537286234178950
+1a0bd71ccfae971cb2a58a4ff1d8548f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/bug-claude-code-for-vs-code/
+  state:
+    shortLink: https://link.webring.in.th/3177
 1a1d972e55f0a4859c547b2cb7f76e0e:facebook:
   spec:
     title: ว่าด้วยเรื่องการติดต่อสื่อสารระหว่าง Module [somkiat.cc]
