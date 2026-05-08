@@ -41288,6 +41288,32 @@ d926fd7ef953954a26ddd91c24989047:shorturl:
     url: https://amiearth.com/blog/nestjs-queue
   state:
     shortLink: https://link.webring.in.th/2718
+d94fb68706c075c21d603a834dbf044a:bluesky:
+  spec:
+    title: 'neal.fun: สวนสนุกออนไลน์ที่หายไป [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/neal-fun-creative-experiments-th/
+  state:
+    cid: bafyreifn3p6whaxowm3vvo6q4xsxwj5p26uhuawqn3whi7z2p7lowm53ce
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mldixsgtcr2w
+d94fb68706c075c21d603a834dbf044a:facebook:
+  spec:
+    title: 'neal.fun: สวนสนุกออนไลน์ที่หายไป [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/neal-fun-creative-experiments-th/
+  state:
+    id: '100746876247412_961873260135250'
+    url: https://www.facebook.com/100683012920950/posts/961873260135250
+d94fb68706c075c21d603a834dbf044a:mastodon:
+  spec:
+    title: 'neal.fun: สวนสนุกออนไลน์ที่หายไป [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/neal-fun-creative-experiments-th/
+  state:
+    id: '116538445670403111'
+    url: https://mastodon.in.th/@webring/116538445670403111
+d94fb68706c075c21d603a834dbf044a:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/neal-fun-creative-experiments-th/
+  state:
+    shortLink: https://link.webring.in.th/3179
 d9519048abdf128878946136be8acd16:bluesky:
   spec:
     title: 'The Silent Bug: Why Nuxt Couldn’t Read My .env File [debuggingsoft.com]'
