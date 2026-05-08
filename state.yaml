@@ -7619,6 +7619,32 @@
     url: https://notes.dt.in.th/NpmCheckmark
   state:
     shortLink: https://webring.page.link/eLXa
+28496f440179b1c4681ab133d6e550d4:bluesky:
+  spec:
+    title: '[CR] Starbuck Fuji Apple Camellia Cold Brew / Red Velvet Strawberry Cake [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/05/cr-starbuck-fuji-apple-camellia-cold-brew-red-velvet-strawberry-cake/
+  state:
+    cid: bafyreifjcn2jdsmnzdideincdyjces3x4vg5nkslq2q2iowfcg2d4q5o3y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mld6wybvhu2y
+28496f440179b1c4681ab133d6e550d4:facebook:
+  spec:
+    title: '[CR] Starbuck Fuji Apple Camellia Cold Brew / Red Velvet Strawberry Cake [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/05/cr-starbuck-fuji-apple-camellia-cold-brew-red-velvet-strawberry-cake/
+  state:
+    id: '100746876247412_961773853478524'
+    url: https://www.facebook.com/100683012920950/posts/961773853478524
+28496f440179b1c4681ab133d6e550d4:mastodon:
+  spec:
+    title: '[CR] Starbuck Fuji Apple Camellia Cold Brew / Red Velvet Strawberry Cake [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/05/cr-starbuck-fuji-apple-camellia-cold-brew-red-velvet-strawberry-cake/
+  state:
+    id: '116537740035514501'
+    url: https://mastodon.in.th/@webring/116537740035514501
+28496f440179b1c4681ab133d6e550d4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/05/cr-starbuck-fuji-apple-camellia-cold-brew-red-velvet-strawberry-cake/
+  state:
+    shortLink: https://link.webring.in.th/3178
 2853f9dfe13d573fe9e5cf3f5d61cc19:bluesky:
   spec:
     title: ทำความรู้จักกับ Redis Vector Sets ใน Redis 8 [somkiat.cc]
