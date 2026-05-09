@@ -2276,6 +2276,32 @@
     url: https://notes.dt.in.th/PlaywrightAccessibleTestReports
   state:
     shortLink: https://link.webring.in.th/2744
+0bc96d69d382412003429e9d8aca6d64:bluesky:
+  spec:
+    title: Markdown 101 ไม่ต้องเป็นเดฟก็ใช้ได้! [mikkipastel.com]
+    url: https://www.mikkipastel.com/markdown-101/
+  state:
+    cid: bafyreicyoual7kpurtrxo6b7ft2du7n3237yajwtik5hcvjsqzfzx4rsba
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlfyggkkyo2s
+0bc96d69d382412003429e9d8aca6d64:facebook:
+  spec:
+    title: Markdown 101 ไม่ต้องเป็นเดฟก็ใช้ได้! [mikkipastel.com]
+    url: https://www.mikkipastel.com/markdown-101/
+  state:
+    id: '100746876247412_962672940055282'
+    url: https://www.facebook.com/100683012920950/posts/962672940055282
+0bc96d69d382412003429e9d8aca6d64:mastodon:
+  spec:
+    title: Markdown 101 ไม่ต้องเป็นเดฟก็ใช้ได้! [mikkipastel.com]
+    url: https://www.mikkipastel.com/markdown-101/
+  state:
+    id: '116544036693920847'
+    url: https://mastodon.in.th/@webring/116544036693920847
+0bc96d69d382412003429e9d8aca6d64:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/markdown-101/
+  state:
+    shortLink: https://link.webring.in.th/3182
 0bd953547f101a647271033d87d5e0f4:facebook:
   spec:
     title: Campervan to Slovenia 2024 🇳🇱🇩🇪🇦🇹🇸🇮 [llun.me]
