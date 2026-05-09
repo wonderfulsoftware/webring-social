@@ -40151,6 +40151,32 @@ d2b67f8c6e88aa96978e1ce372ebb602:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/04/cr-starbucks-castella-cake/
   state:
     shortLink: https://link.webring.in.th/2516
+d2dbf7cc09a412d3cbe6b19abc8a6e82:bluesky:
+  spec:
+    title: บันทึกทดลองการทำ Vibe Coding (Database Design) [blog.kpping.me]
+    url: https://blog.kpping.me/posts/hello-world-astro-copy/
+  state:
+    cid: bafyreietagjyqidbzo7sjaxxaqohc4oxhw4zjfliid5zbl5i4etmbgsaze
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlfjycahod2c
+d2dbf7cc09a412d3cbe6b19abc8a6e82:facebook:
+  spec:
+    title: บันทึกทดลองการทำ Vibe Coding (Database Design) [blog.kpping.me]
+    url: https://blog.kpping.me/posts/hello-world-astro-copy/
+  state:
+    id: '100746876247412_962524643403445'
+    url: https://www.facebook.com/100683012920950/posts/962524643403445
+d2dbf7cc09a412d3cbe6b19abc8a6e82:mastodon:
+  spec:
+    title: บันทึกทดลองการทำ Vibe Coding (Database Design) [blog.kpping.me]
+    url: https://blog.kpping.me/posts/hello-world-astro-copy/
+  state:
+    id: '116543020522630526'
+    url: https://mastodon.in.th/@webring/116543020522630526
+d2dbf7cc09a412d3cbe6b19abc8a6e82:shorturl:
+  spec:
+    url: https://blog.kpping.me/posts/hello-world-astro-copy/
+  state:
+    shortLink: https://link.webring.in.th/3180
 d2e2a9796695714e3c9782f96ead83fc:facebook:
   spec:
     title: Postcard - City of Light 2024 🌃 [lucian.solutions]
