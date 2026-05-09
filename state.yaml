@@ -42958,6 +42958,32 @@ e3673cb87468cc33e02ff5f0ea77c92b:shorturl:
     url: https://lucian.solutions/blog/202402-valentine-maid-lucia
   state:
     shortLink: https://link.webring.in.th/1784
+e3817e16ab4eabe52ebe6717c5f12cd9:bluesky:
+  spec:
+    title: Extend OllamaApiClient Timeout [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/extend-ollamaapiclient-timeout/
+  state:
+    cid: bafyreigusrcpj26rnbbjsd73d36l7zluftuizktmotllfnsqbdxlufz6kq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlfqwdabfp2c
+e3817e16ab4eabe52ebe6717c5f12cd9:facebook:
+  spec:
+    title: Extend OllamaApiClient Timeout [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/extend-ollamaapiclient-timeout/
+  state:
+    id: '100746876247412_962593653396544'
+    url: https://www.facebook.com/100683012920950/posts/962593653396544
+e3817e16ab4eabe52ebe6717c5f12cd9:mastodon:
+  spec:
+    title: Extend OllamaApiClient Timeout [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/extend-ollamaapiclient-timeout/
+  state:
+    id: '116543508805949517'
+    url: https://mastodon.in.th/@webring/116543508805949517
+e3817e16ab4eabe52ebe6717c5f12cd9:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/05/extend-ollamaapiclient-timeout/
+  state:
+    shortLink: https://link.webring.in.th/3181
 e387e1e62a27db5dc3c2ce0a2a983f57:facebook:
   spec:
     title: '[CR] Starbucks-Emperor’s Clouds & Mist Tea [debuggingsoft.com]'
