@@ -2494,6 +2494,32 @@
     url: https://kusumotolab.com/try-to-migrate-document-db-to-mongodb-with-condition/
   state:
     shortLink: https://webring.page.link/esR8
+0cdd1c7f5964e6973b7c5809781578ae:bluesky:
+  spec:
+    title: มาลองใช้งาน OpenAI CLI กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-openai-cli/
+  state:
+    cid: bafyreigujmz7q4ezjkxwd6iwzo5idb6tadrkngnvthrtqataqugubrypme
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mli3bmqu5p2q
+0cdd1c7f5964e6973b7c5809781578ae:facebook:
+  spec:
+    title: มาลองใช้งาน OpenAI CLI กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-openai-cli/
+  state:
+    id: '100746876247412_963377263318183'
+    url: https://www.facebook.com/100683012920950/posts/963377263318183
+0cdd1c7f5964e6973b7c5809781578ae:mastodon:
+  spec:
+    title: มาลองใช้งาน OpenAI CLI กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-openai-cli/
+  state:
+    id: '116548740833618664'
+    url: https://mastodon.in.th/@webring/116548740833618664
+0cdd1c7f5964e6973b7c5809781578ae:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-openai-cli/
+  state:
+    shortLink: https://link.webring.in.th/3183
 0cfcb568173a3a5dc0b28510fd47b7dc:bluesky:
   spec:
     title: Happy New Year 2026! [lucian.solutions]
@@ -42986,21 +43012,21 @@ e3673cb87468cc33e02ff5f0ea77c92b:shorturl:
     shortLink: https://link.webring.in.th/1784
 e3817e16ab4eabe52ebe6717c5f12cd9:bluesky:
   spec:
-    title: Extend OllamaApiClient Timeout [debuggingsoft.com]
+    title: Extend OllamaApiClient Timeout (Note) [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2026/05/extend-ollamaapiclient-timeout/
   state:
     cid: bafyreigusrcpj26rnbbjsd73d36l7zluftuizktmotllfnsqbdxlufz6kq
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlfqwdabfp2c
 e3817e16ab4eabe52ebe6717c5f12cd9:facebook:
   spec:
-    title: Extend OllamaApiClient Timeout [debuggingsoft.com]
+    title: Extend OllamaApiClient Timeout (Note) [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2026/05/extend-ollamaapiclient-timeout/
   state:
     id: '100746876247412_962593653396544'
     url: https://www.facebook.com/100683012920950/posts/962593653396544
 e3817e16ab4eabe52ebe6717c5f12cd9:mastodon:
   spec:
-    title: Extend OllamaApiClient Timeout [debuggingsoft.com]
+    title: Extend OllamaApiClient Timeout (Note) [debuggingsoft.com]
     url: https://naiwaen.debuggingsoft.com/2026/05/extend-ollamaapiclient-timeout/
   state:
     id: '116543508805949517'
