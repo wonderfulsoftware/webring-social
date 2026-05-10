@@ -18621,6 +18621,32 @@
     url: https://www.poolsawat.com/breeze-starter-kids-spa-vue3-integrate-with-laravel9-in-5-minutes/
   state:
     shortLink: https://link.webring.in.th/1745
+63c36a09be9ecb9e928dccf6eb27c429:bluesky:
+  spec:
+    title: ๙.๖๙ [myifew.com]
+    url: https://myifew.com/7566/my-birthday-2026/
+  state:
+    cid: bafyreic22yx2icli7ir72xmu6x6jbw45bh7qorvetxorcwu5ulpyztuhqi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mliciogdkd2u
+63c36a09be9ecb9e928dccf6eb27c429:facebook:
+  spec:
+    title: ๙.๖๙ [myifew.com]
+    url: https://myifew.com/7566/my-birthday-2026/
+  state:
+    id: '100746876247412_963458779976698'
+    url: https://www.facebook.com/100683012920950/posts/963458779976698
+63c36a09be9ecb9e928dccf6eb27c429:mastodon:
+  spec:
+    title: ๙.๖๙ [myifew.com]
+    url: https://myifew.com/7566/my-birthday-2026/
+  state:
+    id: '116549248709531248'
+    url: https://mastodon.in.th/@webring/116549248709531248
+63c36a09be9ecb9e928dccf6eb27c429:shorturl:
+  spec:
+    url: https://myifew.com/7566/my-birthday-2026/
+  state:
+    shortLink: https://link.webring.in.th/3184
 63c51fd75d9a6551ee3360a5be805ef6:bluesky:
   spec:
     title: มันคืออะไรหว่า Watergile [somkiat.cc]
