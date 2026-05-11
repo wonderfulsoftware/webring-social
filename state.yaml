@@ -15562,6 +15562,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/10/how-to-assign-port-on-existing-container-thai-version/
   state:
     shortLink: https://link.webring.in.th/2185
+54b0bed13a0f0dd65f4f656d40460f07:bluesky:
+  spec:
+    title: ว่าด้วยเรื่องของการ Retry [somkiat.cc]
+    url: https://www.somkiat.cc/retry-with-good-and-bad/
+  state:
+    cid: bafyreidr5fenayf7fxx6j3sbnlazbzilk745clnbhjdmgtsfis32t7zwq4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mll7wzqear2d
+54b0bed13a0f0dd65f4f656d40460f07:facebook:
+  spec:
+    title: ว่าด้วยเรื่องของการ Retry [somkiat.cc]
+    url: https://www.somkiat.cc/retry-with-good-and-bad/
+  state:
+    id: '100746876247412_964431496546093'
+    url: https://www.facebook.com/100683012920950/posts/964431496546093
+54b0bed13a0f0dd65f4f656d40460f07:mastodon:
+  spec:
+    title: ว่าด้วยเรื่องของการ Retry [somkiat.cc]
+    url: https://www.somkiat.cc/retry-with-good-and-bad/
+  state:
+    id: '116555824874261891'
+    url: https://mastodon.in.th/@webring/116555824874261891
+54b0bed13a0f0dd65f4f656d40460f07:shorturl:
+  spec:
+    url: https://www.somkiat.cc/retry-with-good-and-bad/
+  state:
+    shortLink: https://link.webring.in.th/3186
 55095c50e6ba9ac0993c9d1a73ebb222:bluesky:
   spec:
     title: นั่งอยู่บ้านฟังงาน TUXSA Open house 2025 ได้ความรู้อะไรกลับมาบ้าง [mikkipastel.com]
