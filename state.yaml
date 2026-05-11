@@ -12174,6 +12174,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/10/connection-string-for-application-that-connect-with-mssql-with-multi-subnet-failover/
   state:
     shortLink: https://link.webring.in.th/2816
+410d0394339aaac4f359a9f2cd910fae:bluesky:
+  spec:
+    title: แวะมาฟังอีก week กับงาน iCreator Camp 2026 week 3 Production & Platform [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2026-week-3-production-platform/
+  state:
+    cid: bafyreihlsktvx7bx2nnhcv5hrreu5tf5j7fwpu2hh4n4wwtbs6wg2w5dhq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlknnvug2n2u
+410d0394339aaac4f359a9f2cd910fae:facebook:
+  spec:
+    title: แวะมาฟังอีก week กับงาน iCreator Camp 2026 week 3 Production & Platform [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2026-week-3-production-platform/
+  state:
+    id: '100746876247412_964250079897568'
+    url: https://www.facebook.com/100683012920950/posts/964250079897568
+410d0394339aaac4f359a9f2cd910fae:mastodon:
+  spec:
+    title: แวะมาฟังอีก week กับงาน iCreator Camp 2026 week 3 Production & Platform [mikkipastel.com]
+    url: https://www.mikkipastel.com/icreator-camp-2026-week-3-production-platform/
+  state:
+    id: '116554538287881440'
+    url: https://mastodon.in.th/@webring/116554538287881440
+410d0394339aaac4f359a9f2cd910fae:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/icreator-camp-2026-week-3-production-platform/
+  state:
+    shortLink: https://link.webring.in.th/3185
 4127e3c883b6b13ca1b49aaf98b20cb7:bluesky:
   spec:
     title: Create a REST API for the Microsoft/BitNet B1.58 model and integrate it with an Open WebUI [debuggingsoft.com]
