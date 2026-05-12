@@ -11582,6 +11582,32 @@
     url: https://www.somkiat.cc/chatgpt-with-issue-bot/
   state:
     shortLink: https://webring.page.link/T8Ro
+3e473368c5cd99bfd28ed5b5a49934bd:bluesky:
+  spec:
+    title: 'Husky + lint-staged: ทำให้ Git Commit สะอาดขึ้นแบบอัตโนมัติ [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/husky-lint-staged-git-commit
+  state:
+    cid: bafyreif3252jftzy5id4pl5emj4qq2xwofjpslusswdvvb3dhpbgtpjsh4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mln4quyovo2g
+3e473368c5cd99bfd28ed5b5a49934bd:facebook:
+  spec:
+    title: 'Husky + lint-staged: ทำให้ Git Commit สะอาดขึ้นแบบอัตโนมัติ [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/husky-lint-staged-git-commit
+  state:
+    id: '100746876247412_965043086484934'
+    url: https://www.facebook.com/100683012920950/posts/965043086484934
+3e473368c5cd99bfd28ed5b5a49934bd:mastodon:
+  spec:
+    title: 'Husky + lint-staged: ทำให้ Git Commit สะอาดขึ้นแบบอัตโนมัติ [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/husky-lint-staged-git-commit
+  state:
+    id: '116560103847242102'
+    url: https://mastodon.in.th/@webring/116560103847242102
+3e473368c5cd99bfd28ed5b5a49934bd:shorturl:
+  spec:
+    url: https://creaml4tt3.me/blogs/husky-lint-staged-git-commit
+  state:
+    shortLink: https://link.webring.in.th/3187
 3e68b76510eb17b8898fb3eb25d1e5f3:bluesky:
   spec:
     title: แจกโพย! การสร้างผู้ช่วยส่วนตัวง่าย ๆ ด้วย Gemini Gems [mikkipastel.com]
