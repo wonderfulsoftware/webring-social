@@ -34185,6 +34185,32 @@ b1414e295ee1b03de271abe597428804:shorturl:
     url: https://www.somkiat.cc/robot-framework-6-1-alpha-1/
   state:
     shortLink: https://webring.page.link/orFG
+b149e87d12173fa1a053475d75ea4753:bluesky:
+  spec:
+    title: 10 เว็บไซต์ขายภาพและงานออกแบบในปี 2026 [xiengperm.dev]
+    url: https://xiengperm.dev/posts/sell-image-assets-marketplaces-2026-th/
+  state:
+    cid: bafyreidft7bczwvgtb5l5mmv2kwjefxbsxenz7pideflb6qhzekzczl6ty
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlpny3mura2i
+b149e87d12173fa1a053475d75ea4753:facebook:
+  spec:
+    title: 10 เว็บไซต์ขายภาพและงานออกแบบในปี 2026 [xiengperm.dev]
+    url: https://xiengperm.dev/posts/sell-image-assets-marketplaces-2026-th/
+  state:
+    id: '100746876247412_965875483068361'
+    url: https://www.facebook.com/100683012920950/posts/965875483068361
+b149e87d12173fa1a053475d75ea4753:mastodon:
+  spec:
+    title: 10 เว็บไซต์ขายภาพและงานออกแบบในปี 2026 [xiengperm.dev]
+    url: https://xiengperm.dev/posts/sell-image-assets-marketplaces-2026-th/
+  state:
+    id: '116565819686412482'
+    url: https://mastodon.in.th/@webring/116565819686412482
+b149e87d12173fa1a053475d75ea4753:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/sell-image-assets-marketplaces-2026-th/
+  state:
+    shortLink: https://link.webring.in.th/3190
 b15ff85bb73373f4fff64eebc23a8888:facebook:
   spec:
     title: ใช้ React Compiler คู่กับ Next.js กัน [sujamess.com]
