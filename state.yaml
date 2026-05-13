@@ -15235,6 +15235,32 @@
     url: https://www.mikkipastel.com/how-to-create-nfc-name-card-with-3-steps/
   state:
     shortLink: https://link.webring.in.th/2015
+52184a05db3889f4ff9028ab4b841b0c:bluesky:
+  spec:
+    title: Upgrading Managed Airflow (Cloud Composer) on GCP [mesodiar.com]
+    url: https://mesodiar.com/2026/05/12/upgrading-managed-airflow-cloud-composer-on-gcp/
+  state:
+    cid: bafyreiascwisg2qeiouperipn2n3mtfxxobnaf3qbfv3juemtmz5aysi7m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlq72d6u6u2u
+52184a05db3889f4ff9028ab4b841b0c:facebook:
+  spec:
+    title: Upgrading Managed Airflow (Cloud Composer) on GCP [mesodiar.com]
+    url: https://mesodiar.com/2026/05/12/upgrading-managed-airflow-cloud-composer-on-gcp/
+  state:
+    id: '100746876247412_966055363050373'
+    url: https://www.facebook.com/100683012920950/posts/966055363050373
+52184a05db3889f4ff9028ab4b841b0c:mastodon:
+  spec:
+    title: Upgrading Managed Airflow (Cloud Composer) on GCP [mesodiar.com]
+    url: https://mesodiar.com/2026/05/12/upgrading-managed-airflow-cloud-composer-on-gcp/
+  state:
+    id: '116567020510962260'
+    url: https://mastodon.in.th/@webring/116567020510962260
+52184a05db3889f4ff9028ab4b841b0c:shorturl:
+  spec:
+    url: https://mesodiar.com/2026/05/12/upgrading-managed-airflow-cloud-composer-on-gcp/
+  state:
+    shortLink: https://link.webring.in.th/3191
 522633e6094255c02b59d1af11272897:facebook:
   spec:
     title: บันทึกจากการเรียน ChatGPT Prompt Engineering for Developers [somkiat.cc]
