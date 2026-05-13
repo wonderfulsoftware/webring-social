@@ -18298,6 +18298,32 @@
     url: https://www.somkiat.cc/note-resiliency-pattern/
   state:
     shortLink: https://link.webring.in.th/2319
+616254b8f4f4ffa01fb0bbd97db81dc1:bluesky:
+  spec:
+    title: 5 เทคนิคการเดินป่าแบบ Slow Trekking เพื่อการซึมซับธรรมชาติอย่างแท้จริง [myifew.com]
+    url: https://myifew.com/7574/5-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b9%81%e0%b8%9a%e0%b8%9a-slow-trekking-%e0%b9%80/
+  state:
+    cid: bafyreibbqsc7i3h6htvyxtbmo6al3kz76k2gdammgziwppuania4sc5nua
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlqifi6w2z2u
+616254b8f4f4ffa01fb0bbd97db81dc1:facebook:
+  spec:
+    title: 5 เทคนิคการเดินป่าแบบ Slow Trekking เพื่อการซึมซับธรรมชาติอย่างแท้จริง [myifew.com]
+    url: https://myifew.com/7574/5-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b9%81%e0%b8%9a%e0%b8%9a-slow-trekking-%e0%b9%80/
+  state:
+    id: '100746876247412_966164936372749'
+    url: https://www.facebook.com/100683012920950/posts/966164936372749
+616254b8f4f4ffa01fb0bbd97db81dc1:mastodon:
+  spec:
+    title: 5 เทคนิคการเดินป่าแบบ Slow Trekking เพื่อการซึมซับธรรมชาติอย่างแท้จริง [myifew.com]
+    url: https://myifew.com/7574/5-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b9%81%e0%b8%9a%e0%b8%9a-slow-trekking-%e0%b9%80/
+  state:
+    id: '116567678115070427'
+    url: https://mastodon.in.th/@webring/116567678115070427
+616254b8f4f4ffa01fb0bbd97db81dc1:shorturl:
+  spec:
+    url: https://myifew.com/7574/5-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b9%81%e0%b8%9a%e0%b8%9a-slow-trekking-%e0%b9%80/
+  state:
+    shortLink: https://link.webring.in.th/3192
 6162f137d0f82014810d981b274bf502:facebook:
   spec:
     title: Npm package for write jest easy [jitrak.dev]
