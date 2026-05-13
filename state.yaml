@@ -21720,6 +21720,32 @@
     url: https://www.somkiat.cc/new-features-in-docker-24-0-2/
   state:
     shortLink: https://webring.page.link/BXN7
+743a16c5d6b1444c4509d0392c82f250:bluesky:
+  spec:
+    title: ทำการตรวจสอบโครงสร้างของ Spring Boot Project ด้วย ArchUnit [somkiat.cc]
+    url: https://www.somkiat.cc/archunit-with-spring-boot/
+  state:
+    cid: bafyreidk4eky54e5ruevdlnzym5x4fk3wle47dkkkumnbelmbmwfyl2gtu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlqsccg3q72w
+743a16c5d6b1444c4509d0392c82f250:facebook:
+  spec:
+    title: ทำการตรวจสอบโครงสร้างของ Spring Boot Project ด้วย ArchUnit [somkiat.cc]
+    url: https://www.somkiat.cc/archunit-with-spring-boot/
+  state:
+    id: '100746876247412_966284319694144'
+    url: https://www.facebook.com/100683012920950/posts/966284319694144
+743a16c5d6b1444c4509d0392c82f250:mastodon:
+  spec:
+    title: ทำการตรวจสอบโครงสร้างของ Spring Boot Project ด้วย ArchUnit [somkiat.cc]
+    url: https://www.somkiat.cc/archunit-with-spring-boot/
+  state:
+    id: '116568375218980397'
+    url: https://mastodon.in.th/@webring/116568375218980397
+743a16c5d6b1444c4509d0392c82f250:shorturl:
+  spec:
+    url: https://www.somkiat.cc/archunit-with-spring-boot/
+  state:
+    shortLink: https://link.webring.in.th/3193
 746f493c75e6a8b219202a9c6674c6a1:facebook:
   spec:
     title: How to Setup the Date Timezone and NTP for Ubuntu 22.04 LTS [debuggingsoft.com]
