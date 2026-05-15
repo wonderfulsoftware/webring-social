@@ -20082,6 +20082,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/03/cr-starbucks-lychee-rose-mixed-with-pomegranate-juice/
   state:
     shortLink: https://webring.page.link/Hg5r
+6adb86292d22ee6288fac38e0bb53c7c:bluesky:
+  spec:
+    title: ภูกระดึง (Phu Kradueng) — ครั้งหนึ่งในชีวิต พิชิตโค้งสุดท้ายก่อนปิดฤดูกาล 2569 [myifew.com]
+    url: https://myifew.com/7584/%e0%b8%a0%e0%b8%b9%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b6%e0%b8%87-phu-kradueng-%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b8%b6%e0%b9%88%e0%b8%87%e0%b9%83/
+  state:
+    cid: bafyreia5q6jkb3zf3yh4h6gnjmbd22gw7xxr76jrfi3e332lrw2celtkhu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlvhzdc3gi2q
+6adb86292d22ee6288fac38e0bb53c7c:facebook:
+  spec:
+    title: ภูกระดึง (Phu Kradueng) — ครั้งหนึ่งในชีวิต พิชิตโค้งสุดท้ายก่อนปิดฤดูกาล 2569 [myifew.com]
+    url: https://myifew.com/7584/%e0%b8%a0%e0%b8%b9%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b6%e0%b8%87-phu-kradueng-%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b8%b6%e0%b9%88%e0%b8%87%e0%b9%83/
+  state:
+    id: '100746876247412_967835669539009'
+    url: https://www.facebook.com/100683012920950/posts/967835669539009
+6adb86292d22ee6288fac38e0bb53c7c:mastodon:
+  spec:
+    title: ภูกระดึง (Phu Kradueng) — ครั้งหนึ่งในชีวิต พิชิตโค้งสุดท้ายก่อนปิดฤดูกาล 2569 [myifew.com]
+    url: https://myifew.com/7584/%e0%b8%a0%e0%b8%b9%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b6%e0%b8%87-phu-kradueng-%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b8%b6%e0%b9%88%e0%b8%87%e0%b9%83/
+  state:
+    id: '116578910946514141'
+    url: https://mastodon.in.th/@webring/116578910946514141
+6adb86292d22ee6288fac38e0bb53c7c:shorturl:
+  spec:
+    url: https://myifew.com/7584/%e0%b8%a0%e0%b8%b9%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b6%e0%b8%87-phu-kradueng-%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b8%b6%e0%b9%88%e0%b8%87%e0%b9%83/
+  state:
+    shortLink: https://link.webring.in.th/3197
 6b0034d035649056575e6dcb57817669:facebook:
   spec:
     title: ทำ Transaction ใน redis ด้วย MULTI และ WATCH [anuwong.com]
