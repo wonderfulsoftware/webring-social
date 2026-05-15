@@ -15749,6 +15749,32 @@
     url: https://www.somkiat.cc/sharing-about-chatgpt-and-usecase/
   state:
     shortLink: https://webring.page.link/RgzX
+5567162e0d15e5ab66bc3ddb5b80b5e8:bluesky:
+  spec:
+    title: จดเกี่ยวกับการ Refund ของ Google One กรณีขยับ Package [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/refund-google-one-package-case-change-higher-tier/
+  state:
+    cid: bafyreifjj6tl3bzwwalymkff46ka2nqffcekshl4t2ls5levfhel2cwk3e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlupbzdzwo2u
+5567162e0d15e5ab66bc3ddb5b80b5e8:facebook:
+  spec:
+    title: จดเกี่ยวกับการ Refund ของ Google One กรณีขยับ Package [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/refund-google-one-package-case-change-higher-tier/
+  state:
+    id: '100746876247412_967563456232897'
+    url: https://www.facebook.com/100683012920950/posts/967563456232897
+5567162e0d15e5ab66bc3ddb5b80b5e8:mastodon:
+  spec:
+    title: จดเกี่ยวกับการ Refund ของ Google One กรณีขยับ Package [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/refund-google-one-package-case-change-higher-tier/
+  state:
+    id: '116577170538630806'
+    url: https://mastodon.in.th/@webring/116577170538630806
+5567162e0d15e5ab66bc3ddb5b80b5e8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/05/refund-google-one-package-case-change-higher-tier/
+  state:
+    shortLink: https://link.webring.in.th/3195
 556ff7135f417235229cf0f9489dddaa:bluesky:
   spec:
     title: Sheet บันทึกเตรียมยื่นภาษี Easy / เที่ยวดีมีคืน / รายได้ [mymoneytoolkit.app]
