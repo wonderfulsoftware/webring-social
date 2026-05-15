@@ -8069,6 +8069,32 @@
     url: https://devahoy.com/tutorials/learn-css-animations/day6-card-game
   state:
     shortLink: https://webring.page.link/o53j
+2abdba5cbfe7aec1f00176ebf98dd3fb:bluesky:
+  spec:
+    title: Amazean Jungle Thailand by UTMB [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/amazean-jungle-trail/
+  state:
+    cid: bafyreig5b2uxpwlmda6sdc3vui5j4jmof7ao6wvtjaxxefvgg7izx7wgyy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlvrvtf3iy25
+2abdba5cbfe7aec1f00176ebf98dd3fb:facebook:
+  spec:
+    title: Amazean Jungle Thailand by UTMB [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/amazean-jungle-trail/
+  state:
+    id: '100746876247412_967958616193381'
+    url: https://www.facebook.com/100683012920950/posts/967958616193381
+2abdba5cbfe7aec1f00176ebf98dd3fb:mastodon:
+  spec:
+    title: Amazean Jungle Thailand by UTMB [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/amazean-jungle-trail/
+  state:
+    id: '116579607037868171'
+    url: https://mastodon.in.th/@webring/116579607037868171
+2abdba5cbfe7aec1f00176ebf98dd3fb:shorturl:
+  spec:
+    url: https://tantatorn.xyz/posts/amazean-jungle-trail/
+  state:
+    shortLink: https://link.webring.in.th/3198
 2ae8793fd8b2984a1246e69049100496:facebook:
   spec:
     title: สวัสดี Gemini Pro มาลองเขียน code กันนิดนึง [somkiat.cc]
