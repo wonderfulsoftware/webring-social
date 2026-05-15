@@ -16734,6 +16734,32 @@
     url: https://www.somkiat.cc/sharing-task-master-ai/
   state:
     shortLink: https://link.webring.in.th/2626
+5a5c592a420c44aa464f71fe6214453b:bluesky:
+  spec:
+    title: DESIGN.md จาก Google Stitch เปิดเป็น opensource แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/design-md/
+  state:
+    cid: bafyreihcb4poi6ym7lefyfy76t3bwys6dlfxnb55w3tgxicwh7ptkflahi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlv7bfxcup2y
+5a5c592a420c44aa464f71fe6214453b:facebook:
+  spec:
+    title: DESIGN.md จาก Google Stitch เปิดเป็น opensource แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/design-md/
+  state:
+    id: '100746876247412_967733029549273'
+    url: https://www.facebook.com/100683012920950/posts/967733029549273
+5a5c592a420c44aa464f71fe6214453b:mastodon:
+  spec:
+    title: DESIGN.md จาก Google Stitch เปิดเป็น opensource แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/design-md/
+  state:
+    id: '116578295361089409'
+    url: https://mastodon.in.th/@webring/116578295361089409
+5a5c592a420c44aa464f71fe6214453b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/design-md/
+  state:
+    shortLink: https://link.webring.in.th/3196
 5a5fda4fb0cb71c24a3bc13ccc799868:bluesky:
   spec:
     title: WASM deployment benchmark [karnwong.me]
