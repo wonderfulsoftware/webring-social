@@ -4548,6 +4548,32 @@
     url: https://www.anewlife.dev/post/lets-create-cloud-workstations/
   state:
     shortLink: https://webring.page.link/ExEj
+188ea16e4c14cc4d8675fb46bb86e50b:bluesky:
+  spec:
+    title: 'จดๆจาก Claude Code BKK Sharing #2 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/05/recap-claude-code-bkk-sharing-2/
+  state:
+    cid: bafyreifz7haqhbxrgqzdyenp7ge6mf2cyrnznq2eouwvwxwhajxjtd2pam
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlxelaooga2y
+188ea16e4c14cc4d8675fb46bb86e50b:facebook:
+  spec:
+    title: 'จดๆจาก Claude Code BKK Sharing #2 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/05/recap-claude-code-bkk-sharing-2/
+  state:
+    id: '100746876247412_968466629475913'
+    url: https://www.facebook.com/100683012920950/posts/968466629475913
+188ea16e4c14cc4d8675fb46bb86e50b:mastodon:
+  spec:
+    title: 'จดๆจาก Claude Code BKK Sharing #2 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/05/recap-claude-code-bkk-sharing-2/
+  state:
+    id: '116583172557534373'
+    url: https://mastodon.in.th/@webring/116583172557534373
+188ea16e4c14cc4d8675fb46bb86e50b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/05/recap-claude-code-bkk-sharing-2/
+  state:
+    shortLink: https://link.webring.in.th/3200
 189d52a654ceede4b6f4c5df0d2e6d13:facebook:
   spec:
     title: สรุปจากการแบ่งปันใน Tester’s Day 2023 – Everything You Can Test [somkiat.cc]
