@@ -38170,6 +38170,32 @@ c6e37a1f78e36bfd0f69fe67d741d798:shorturl:
     url: https://neizod.dev/2024/04/18/3d-rotation-matrix-and-quaternion.html
   state:
     shortLink: https://link.webring.in.th/1881
+c6ea7aaba3852e815b4bbcdbe5287325:bluesky:
+  spec:
+    title: ชีทวางแผนภาษี 20 ปี — ลดหย่อนในชีทเดียว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-plan-longterm-sheet
+  state:
+    cid: bafyreibewukuhysklzesnvrm4wqge2p63bipbwnzgnwit63oopliyn6woi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlxm5exntq25
+c6ea7aaba3852e815b4bbcdbe5287325:facebook:
+  spec:
+    title: ชีทวางแผนภาษี 20 ปี — ลดหย่อนในชีทเดียว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-plan-longterm-sheet
+  state:
+    id: '100746876247412_968545802801329'
+    url: https://www.facebook.com/100683012920950/posts/968545802801329
+c6ea7aaba3852e815b4bbcdbe5287325:mastodon:
+  spec:
+    title: ชีทวางแผนภาษี 20 ปี — ลดหย่อนในชีทเดียว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-plan-longterm-sheet
+  state:
+    id: '116583705055842656'
+    url: https://mastodon.in.th/@webring/116583705055842656
+c6ea7aaba3852e815b4bbcdbe5287325:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/tax-plan-longterm-sheet
+  state:
+    shortLink: https://link.webring.in.th/3201
 c6fae12eb7cfa71f9c950c7443c333e4:bluesky:
   spec:
     title: สองวัน Thai Creator for Real Business Workshop สร้างธุรกิจยังไงดี? [mikkipastel.com]
