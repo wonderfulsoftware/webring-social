@@ -42649,6 +42649,32 @@ decbac9bd7188e3d0e2127bb8346fbe0:shorturl:
     url: https://naiwaen.debuggingsoft.com/2026/03/recap-net-thailand-developer-day-2026-mar/
   state:
     shortLink: https://link.webring.in.th/3062
+def2bc79d39bead35c77ee1c8ed6e717:bluesky:
+  spec:
+    title: 'NEMO Hornet OSMO (2025): รีวิวเต็นท์สาย Ultralight ที่เบาและทนทานกว่าเดิมด้วยผ้า OSMO [myifew.com]'
+    url: https://myifew.com/7608/nemo-hornet-osmo-2025-%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%95%e0%b9%87%e0%b8%99%e0%b8%97%e0%b9%8c%e0%b8%aa%e0%b8%b2%e0%b8%a2-ultralight-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80/
+  state:
+    cid: bafyreiarykzhljvpcxanxylndjd75h2rlglyhkstqczy56dq5hozfyjpuy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mlx5kjxvfi2q
+def2bc79d39bead35c77ee1c8ed6e717:facebook:
+  spec:
+    title: 'NEMO Hornet OSMO (2025): รีวิวเต็นท์สาย Ultralight ที่เบาและทนทานกว่าเดิมด้วยผ้า OSMO [myifew.com]'
+    url: https://myifew.com/7608/nemo-hornet-osmo-2025-%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%95%e0%b9%87%e0%b8%99%e0%b8%97%e0%b9%8c%e0%b8%aa%e0%b8%b2%e0%b8%a2-ultralight-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80/
+  state:
+    id: '100746876247412_968393562816553'
+    url: https://www.facebook.com/100683012920950/posts/968393562816553
+def2bc79d39bead35c77ee1c8ed6e717:mastodon:
+  spec:
+    title: 'NEMO Hornet OSMO (2025): รีวิวเต็นท์สาย Ultralight ที่เบาและทนทานกว่าเดิมด้วยผ้า OSMO [myifew.com]'
+    url: https://myifew.com/7608/nemo-hornet-osmo-2025-%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%95%e0%b9%87%e0%b8%99%e0%b8%97%e0%b9%8c%e0%b8%aa%e0%b8%b2%e0%b8%a2-ultralight-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80/
+  state:
+    id: '116582677769450443'
+    url: https://mastodon.in.th/@webring/116582677769450443
+def2bc79d39bead35c77ee1c8ed6e717:shorturl:
+  spec:
+    url: https://myifew.com/7608/nemo-hornet-osmo-2025-%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%95%e0%b9%87%e0%b8%99%e0%b8%97%e0%b9%8c%e0%b8%aa%e0%b8%b2%e0%b8%a2-ultralight-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80/
+  state:
+    shortLink: https://link.webring.in.th/3199
 def5120abddd40fd2233585c93a6667e:bluesky:
   spec:
     title: FedCM + Third-party Cookies Migration Checklist [amiearth.com]
