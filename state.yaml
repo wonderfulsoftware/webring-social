@@ -2996,6 +2996,32 @@
     url: https://nitpum.com/post/changesets-npm-info-prerelease/
   state:
     shortLink: https://webring.page.link/A9a8
+0fa1deadace7cb98095d9a9718508d1b:bluesky:
+  spec:
+    title: จดสรุปงาน AgentCamp Bangkok 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/recap-agentcamp-bangkok-2026/
+  state:
+    cid: bafyreiaslaclxcr5p7q4slrcnajw26sdjamoms2j5yhjcqcpwn5bswahbu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mm4bxdqa5p25
+0fa1deadace7cb98095d9a9718508d1b:facebook:
+  spec:
+    title: จดสรุปงาน AgentCamp Bangkok 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/recap-agentcamp-bangkok-2026/
+  state:
+    id: '100746876247412_970122775976965'
+    url: https://www.facebook.com/100683012920950/posts/970122775976965
+0fa1deadace7cb98095d9a9718508d1b:mastodon:
+  spec:
+    title: จดสรุปงาน AgentCamp Bangkok 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/recap-agentcamp-bangkok-2026/
+  state:
+    id: '116594246991191450'
+    url: https://mastodon.in.th/@webring/116594246991191450
+0fa1deadace7cb98095d9a9718508d1b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/05/recap-agentcamp-bangkok-2026/
+  state:
+    shortLink: https://link.webring.in.th/3202
 0fa6b1fd40cb2b4d1aba735ac3f84fad:facebook:
   spec:
     title: Zero-Shot Prompting การทำให้ LLMs (ChatGPT) ตอบเราได้คำตอบสั้น ๆ ชัด ๆ และ ตรงประเด็น [taoisaman.com]
