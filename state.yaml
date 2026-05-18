@@ -23878,6 +23878,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/12/java-com-jcraft-jsch-jschexception-invalid-privatekey/
   state:
     shortLink: https://link.webring.in.th/2881
+7cca970328f3f11c84dca8c7034cf2aa:bluesky:
+  spec:
+    title: Pinboard — กระดานปักหมุดส่วนตัวของนักลงทุน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/pinboard-launch
+  state:
+    cid: bafyreidlpf7a3z4hkno7pzdip4komnj7h3p7j75vxa2dyga4w4ckuyrb6a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mm5fiwl4yw2g
+7cca970328f3f11c84dca8c7034cf2aa:facebook:
+  spec:
+    title: Pinboard — กระดานปักหมุดส่วนตัวของนักลงทุน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/pinboard-launch
+  state:
+    id: '100746876247412_970528312603078'
+    url: https://www.facebook.com/100683012920950/posts/970528312603078
+7cca970328f3f11c84dca8c7034cf2aa:mastodon:
+  spec:
+    title: Pinboard — กระดานปักหมุดส่วนตัวของนักลงทุน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/pinboard-launch
+  state:
+    id: '116596748567007897'
+    url: https://mastodon.in.th/@webring/116596748567007897
+7cca970328f3f11c84dca8c7034cf2aa:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/pinboard-launch
+  state:
+    shortLink: https://link.webring.in.th/3204
 7ccc9fcac6f06c75d1fb5aa38590a1cd:facebook:
   spec:
     title: Skincare Routine ฉบับเรียบง่ายสไตล์โปรแกรมเมอร์ [anuwong.com]
