@@ -33109,6 +33109,32 @@ aaf877059c5822ad544decf67851c49d:shorturl:
     url: https://mikelopster.dev/posts/auth0-basic/
   state:
     shortLink: https://link.webring.in.th/1779
+ab0c7873e0a38c43e29abad716dfdc8f:bluesky:
+  spec:
+    title: 'Cursor CLI: สิ่งที่หลายคนไม่ค่อยรู้ แม้ใช้ Cursor อยู่แล้ว [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-37-cursor-cli/
+  state:
+    cid: bafyreig3wk7kuatjn4nnt4kdntsoy46sf4dsajvn6u3ndxtkn45bwzneeu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mm6ry5n7r32w
+ab0c7873e0a38c43e29abad716dfdc8f:facebook:
+  spec:
+    title: 'Cursor CLI: สิ่งที่หลายคนไม่ค่อยรู้ แม้ใช้ Cursor อยู่แล้ว [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-37-cursor-cli/
+  state:
+    id: '100746876247412_970959882559921'
+    url: https://www.facebook.com/100683012920950/posts/970959882559921
+ab0c7873e0a38c43e29abad716dfdc8f:mastodon:
+  spec:
+    title: 'Cursor CLI: สิ่งที่หลายคนไม่ค่อยรู้ แม้ใช้ Cursor อยู่แล้ว [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-37-cursor-cli/
+  state:
+    id: '116599878246698349'
+    url: https://mastodon.in.th/@webring/116599878246698349
+ab0c7873e0a38c43e29abad716dfdc8f:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-37-cursor-cli/
+  state:
+    shortLink: https://link.webring.in.th/3205
 ab2ca1824b65de3707f7e32cf2afef42:bluesky:
   spec:
     title: 25 เครื่องมือการเงิน 2025 [mymoneytoolkit.app]
