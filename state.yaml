@@ -33391,6 +33391,32 @@ ac6d4316a15c945ab9c1a8a0067f9038:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/12/recap-what-the-duck-2025/
   state:
     shortLink: https://link.webring.in.th/2901
+ac6ddbef3e9618874557d14f3852b2b9:bluesky:
+  spec:
+    title: Webull แยกพอร์ตได้แล้ว — ลงทุนไม่จำเป็นต้องมีเป้าหมายเดียว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/webull-split-portfolio
+  state:
+    cid: bafyreidhdcauywshbtueuhtynedhi4vu3rqefh5f5hn7kadlr5fdcxz4sm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mm7dhpx7nl2c
+ac6ddbef3e9618874557d14f3852b2b9:facebook:
+  spec:
+    title: Webull แยกพอร์ตได้แล้ว — ลงทุนไม่จำเป็นต้องมีเป้าหมายเดียว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/webull-split-portfolio
+  state:
+    id: '100746876247412_971142945874948'
+    url: https://www.facebook.com/100683012920950/posts/971142945874948
+ac6ddbef3e9618874557d14f3852b2b9:mastodon:
+  spec:
+    title: Webull แยกพอร์ตได้แล้ว — ลงทุนไม่จำเป็นต้องมีเป้าหมายเดียว [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/webull-split-portfolio
+  state:
+    id: '116601108811249895'
+    url: https://mastodon.in.th/@webring/116601108811249895
+ac6ddbef3e9618874557d14f3852b2b9:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/webull-split-portfolio
+  state:
+    shortLink: https://link.webring.in.th/3206
 ac958a029ab894b871d7462f8f54a583:bluesky:
   spec:
     title: บันทึกความเข้าใจเกี่ยวกับ LLM Wiki และใช้งานร่วมกับ Ollama [somkiat.cc]
