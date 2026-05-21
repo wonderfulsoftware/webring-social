@@ -34182,6 +34182,32 @@ af0d66f1608392b526416d0bc6f58c52:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/10/db2-archive-logs-not-clear/
   state:
     shortLink: https://link.webring.in.th/2205
+af1460a56344864c3167e8abbc78ba9a:bluesky:
+  spec:
+    title: สวัสดี Antigravity 2.0 [somkiat.cc]
+    url: https://www.somkiat.cc/hello-antigravity-2/
+  state:
+    cid: bafyreifq3eay7kithqvw74nkb4nrbrummm2zocta34kvtpl6mxwyfdp7f4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmdt7fbgjc2m
+af1460a56344864c3167e8abbc78ba9a:facebook:
+  spec:
+    title: สวัสดี Antigravity 2.0 [somkiat.cc]
+    url: https://www.somkiat.cc/hello-antigravity-2/
+  state:
+    id: '100746876247412_972657722390137'
+    url: https://www.facebook.com/100683012920950/posts/972657722390137
+af1460a56344864c3167e8abbc78ba9a:mastodon:
+  spec:
+    title: สวัสดี Antigravity 2.0 [somkiat.cc]
+    url: https://www.somkiat.cc/hello-antigravity-2/
+  state:
+    id: '116611222642230914'
+    url: https://mastodon.in.th/@webring/116611222642230914
+af1460a56344864c3167e8abbc78ba9a:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-antigravity-2/
+  state:
+    shortLink: https://link.webring.in.th/3208
 af5589be6a6f90180f773f56c6c85e44:bluesky:
   spec:
     title: ลองใช้งาน Agent Browser CLI จาก vercel กัน [somkiat.cc]
