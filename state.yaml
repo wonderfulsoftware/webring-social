@@ -4967,6 +4967,32 @@
     url: https://www.somkiat.cc/note-value-driven-design/
   state:
     shortLink: https://link.webring.in.th/1800
+19d2abf44d8612b512d919a536d30cd4:bluesky:
+  spec:
+    title: Mountain Hardwear Alakazam 60 เป้ UL วัสดุ ALUULA ที่เบาไม่ถึงกิโล แต่คุ้มไหมกับราคาเกือบ 2 หมื่น? [myifew.com]
+    url: https://myifew.com/7634/mountain-hardwear-alakazam-60-%e0%b9%80%e0%b8%9b%e0%b9%89-ul-%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b8-aluula-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9a%e0%b8%b2%e0%b9%84%e0%b8%a1%e0%b9%88/
+  state:
+    cid: bafyreibe2hukptqkcppurlbhtfrxx4orl2cigss47emrw6puiak4ikqduu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmef5ifyum2w
+19d2abf44d8612b512d919a536d30cd4:facebook:
+  spec:
+    title: Mountain Hardwear Alakazam 60 เป้ UL วัสดุ ALUULA ที่เบาไม่ถึงกิโล แต่คุ้มไหมกับราคาเกือบ 2 หมื่น? [myifew.com]
+    url: https://myifew.com/7634/mountain-hardwear-alakazam-60-%e0%b9%80%e0%b8%9b%e0%b9%89-ul-%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b8-aluula-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9a%e0%b8%b2%e0%b9%84%e0%b8%a1%e0%b9%88/
+  state:
+    id: '100746876247412_972843909038185'
+    url: https://www.facebook.com/100683012920950/posts/972843909038185
+19d2abf44d8612b512d919a536d30cd4:mastodon:
+  spec:
+    title: Mountain Hardwear Alakazam 60 เป้ UL วัสดุ ALUULA ที่เบาไม่ถึงกิโล แต่คุ้มไหมกับราคาเกือบ 2 หมื่น? [myifew.com]
+    url: https://myifew.com/7634/mountain-hardwear-alakazam-60-%e0%b9%80%e0%b8%9b%e0%b9%89-ul-%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b8-aluula-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9a%e0%b8%b2%e0%b9%84%e0%b8%a1%e0%b9%88/
+  state:
+    id: '116612485739355957'
+    url: https://mastodon.in.th/@webring/116612485739355957
+19d2abf44d8612b512d919a536d30cd4:shorturl:
+  spec:
+    url: https://myifew.com/7634/mountain-hardwear-alakazam-60-%e0%b9%80%e0%b8%9b%e0%b9%89-ul-%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b8-aluula-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9a%e0%b8%b2%e0%b9%84%e0%b8%a1%e0%b9%88/
+  state:
+    shortLink: https://link.webring.in.th/3209
 1a0bd71ccfae971cb2a58a4ff1d8548f:bluesky:
   spec:
     title: '[Bug] Claude code for VS Code 2.1.131 [somkiat.cc]'
