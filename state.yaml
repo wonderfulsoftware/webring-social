@@ -8514,6 +8514,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/03/how-to-numpy/
   state:
     shortLink: https://link.webring.in.th/2474
+2c0ead35d52989088833a7c356aafa39:bluesky:
+  spec:
+    title: 'PostgreSQL :: ลองไปดูการใช้งาน index กันหน่อย [somkiat.cc]'
+    url: https://www.somkiat.cc/postgresql-with-index/
+  state:
+    cid: bafyreibwgzvfj6oyxp5h5d7hti5zky4lyanxttbilegnpnfrgngkbf27ti
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmgdgpbjpd2w
+2c0ead35d52989088833a7c356aafa39:facebook:
+  spec:
+    title: 'PostgreSQL :: ลองไปดูการใช้งาน index กันหน่อย [somkiat.cc]'
+    url: https://www.somkiat.cc/postgresql-with-index/
+  state:
+    id: '100746876247412_973490965640146'
+    url: https://www.facebook.com/100683012920950/posts/973490965640146
+2c0ead35d52989088833a7c356aafa39:mastodon:
+  spec:
+    title: 'PostgreSQL :: ลองไปดูการใช้งาน index กันหน่อย [somkiat.cc]'
+    url: https://www.somkiat.cc/postgresql-with-index/
+  state:
+    id: '116616868992242937'
+    url: https://mastodon.in.th/@webring/116616868992242937
+2c0ead35d52989088833a7c356aafa39:shorturl:
+  spec:
+    url: https://www.somkiat.cc/postgresql-with-index/
+  state:
+    shortLink: https://link.webring.in.th/3210
 2c31719e11127be8781424dcd8f26f21:facebook:
   spec:
     title: '[CR] Starbucks Bucher Sausage Croissant Roll [debuggingsoft.com]'
