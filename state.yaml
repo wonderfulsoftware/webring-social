@@ -21667,6 +21667,32 @@
     url: https://tech.duckfollow.co/view/credit-card
   state:
     shortLink: https://webring.page.link/KBGB
+719b4f9e17bd3004585c4924b7d43625:bluesky:
+  spec:
+    title: ทำไม Android ต้องมีอย่างน้อย 1 Activity! [mikkipastel.com]
+    url: https://www.mikkipastel.com/why-android-has-less-1-activity/
+  state:
+    cid: bafyreihcl6gdnzmhvdvu44w6zq23hf3npfdpuqrytoyzzanwxhk53r74fm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmgtygjzfx25
+719b4f9e17bd3004585c4924b7d43625:facebook:
+  spec:
+    title: ทำไม Android ต้องมีอย่างน้อย 1 Activity! [mikkipastel.com]
+    url: https://www.mikkipastel.com/why-android-has-less-1-activity/
+  state:
+    id: '100746876247412_973656782290231'
+    url: https://www.facebook.com/100683012920950/posts/973656782290231
+719b4f9e17bd3004585c4924b7d43625:mastodon:
+  spec:
+    title: ทำไม Android ต้องมีอย่างน้อย 1 Activity! [mikkipastel.com]
+    url: https://www.mikkipastel.com/why-android-has-less-1-activity/
+  state:
+    id: '116618033947070395'
+    url: https://mastodon.in.th/@webring/116618033947070395
+719b4f9e17bd3004585c4924b7d43625:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/why-android-has-less-1-activity/
+  state:
+    shortLink: https://link.webring.in.th/3211
 71aa6eefa46cc138caa04ae5fed0aa66:bluesky:
   spec:
     title: LINE Runner Bot [betich.me]
