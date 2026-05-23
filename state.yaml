@@ -21975,6 +21975,32 @@
     url: https://www.somkiat.cc/refactoring-vs-refuctoring-with-ai/
   state:
     shortLink: https://link.webring.in.th/2102
+73b7436fdd5474ca0936002ec723dde7:bluesky:
+  spec:
+    title: ใช้ uv แล้ว แต่ใน terminal ยังไม่เห็น tools [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/python-use-uv-install-but-cannot-execute-in-terminal/
+  state:
+    cid: bafyreib6k2sms5ty7ekaebzckf6spgvxdj2zr6cpyz2ivamivvmfhjjnrm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmja5spyki24
+73b7436fdd5474ca0936002ec723dde7:facebook:
+  spec:
+    title: ใช้ uv แล้ว แต่ใน terminal ยังไม่เห็น tools [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/python-use-uv-install-but-cannot-execute-in-terminal/
+  state:
+    id: '100746876247412_974451605544082'
+    url: https://www.facebook.com/100683012920950/posts/974451605544082
+73b7436fdd5474ca0936002ec723dde7:mastodon:
+  spec:
+    title: ใช้ uv แล้ว แต่ใน terminal ยังไม่เห็น tools [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/python-use-uv-install-but-cannot-execute-in-terminal/
+  state:
+    id: '116623393928648193'
+    url: https://mastodon.in.th/@webring/116623393928648193
+73b7436fdd5474ca0936002ec723dde7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/05/python-use-uv-install-but-cannot-execute-in-terminal/
+  state:
+    shortLink: https://link.webring.in.th/3213
 73fe2aaf265fa72a5d137b2c4aaa993e:facebook:
   spec:
     title: LTF 7 ปีปฏิทิน [debuggingsoft.com]
