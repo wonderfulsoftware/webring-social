@@ -7640,6 +7640,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/09/recap-line-dev-conf-2025/
   state:
     shortLink: https://link.webring.in.th/2782
+27c178bed0ddfd7545e9ddec56c4eec3:bluesky:
+  spec:
+    title: 'TIL: Describing Performance - Average, Median, and Percentiles [jetsukda.dev]'
+    url: https://jetsukda.dev/til/describing-performance-average-median-and-percentiles/
+  state:
+    cid: bafyreickhl2wg44bwg7irjn5ghcgnlrk6kyka6vir4lb4kbngcklky6wei
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmldow77wj24
+27c178bed0ddfd7545e9ddec56c4eec3:facebook:
+  spec:
+    title: 'TIL: Describing Performance - Average, Median, and Percentiles [jetsukda.dev]'
+    url: https://jetsukda.dev/til/describing-performance-average-median-and-percentiles/
+  state:
+    id: '100746876247412_975145628808013'
+    url: https://www.facebook.com/100683012920950/posts/975145628808013
+27c178bed0ddfd7545e9ddec56c4eec3:mastodon:
+  spec:
+    title: 'TIL: Describing Performance - Average, Median, and Percentiles [jetsukda.dev]'
+    url: https://jetsukda.dev/til/describing-performance-average-median-and-percentiles/
+  state:
+    id: '116628146160068467'
+    url: https://mastodon.in.th/@webring/116628146160068467
+27c178bed0ddfd7545e9ddec56c4eec3:shorturl:
+  spec:
+    url: https://jetsukda.dev/til/describing-performance-average-median-and-percentiles/
+  state:
+    shortLink: https://link.webring.in.th/3214
 27d4cc70465ada5fa6ddabb730dae576:bluesky:
   spec:
     title: '[Google Sheet] หารตัง: หารเงินไม่ปวดหัว [mymoneytoolkit.app]'
