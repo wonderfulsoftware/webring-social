@@ -14820,6 +14820,32 @@
     url: https://www.somkiat.cc/note-from-database-journey-at-discord/
   state:
     shortLink: https://webring.page.link/xU6T
+4e5960fb6fc2c5c954201b38253f4627:bluesky:
+  spec:
+    title: 'Poka Yoke ใน UX และ Web Design: ออกแบบยังไงให้ User พลาดไม่ได้ [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/poka-yoke-ux-web-design
+  state:
+    cid: bafyreib7g6mjh6yrxpi5x4kxa5syfswvhcyet7aw6jg2tu5nalfgewor3u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmlqtwivdh2c
+4e5960fb6fc2c5c954201b38253f4627:facebook:
+  spec:
+    title: 'Poka Yoke ใน UX และ Web Design: ออกแบบยังไงให้ User พลาดไม่ได้ [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/poka-yoke-ux-web-design
+  state:
+    id: '100746876247412_975286655460577'
+    url: https://www.facebook.com/100683012920950/posts/975286655460577
+4e5960fb6fc2c5c954201b38253f4627:mastodon:
+  spec:
+    title: 'Poka Yoke ใน UX และ Web Design: ออกแบบยังไงให้ User พลาดไม่ได้ [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/poka-yoke-ux-web-design
+  state:
+    id: '116629071973935299'
+    url: https://mastodon.in.th/@webring/116629071973935299
+4e5960fb6fc2c5c954201b38253f4627:shorturl:
+  spec:
+    url: https://creaml4tt3.me/blogs/poka-yoke-ux-web-design
+  state:
+    shortLink: https://link.webring.in.th/3215
 4e74ed114a0c8eb99604d88b206404b5:bluesky:
   spec:
     title: การสร้าง REST API แรกด้วย Spring WebFlux [poolsawat.com]
