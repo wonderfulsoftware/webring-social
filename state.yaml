@@ -5401,6 +5401,32 @@
     url: https://naiwaen.debuggingsoft.com/2026/02/db2-auto_runstats-note/
   state:
     shortLink: https://link.webring.in.th/2975
+1c3e57d3973ddc9aef7db042b03ed653:bluesky:
+  spec:
+    title: สัปดาห์แห่งการ publish ที่ต้องสู้กับ validation — แต่ก็ผ่านมาได้ค่ะ [myifew.com]
+    url: https://myifew.com/7641/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3-publish-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%95%e0%b9%89%e0%b8%ad%e0%b8%87/
+  state:
+    cid: bafyreigqi7zyfentvyc7ezu7pd2am5xc7ehkbujho6fd7h6534jh2at2iy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmoxfuwohy2q
+1c3e57d3973ddc9aef7db042b03ed653:facebook:
+  spec:
+    title: สัปดาห์แห่งการ publish ที่ต้องสู้กับ validation — แต่ก็ผ่านมาได้ค่ะ [myifew.com]
+    url: https://myifew.com/7641/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3-publish-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%95%e0%b9%89%e0%b8%ad%e0%b8%87/
+  state:
+    id: '100746876247412_976362802019629'
+    url: https://www.facebook.com/100683012920950/posts/976362802019629
+1c3e57d3973ddc9aef7db042b03ed653:mastodon:
+  spec:
+    title: สัปดาห์แห่งการ publish ที่ต้องสู้กับ validation — แต่ก็ผ่านมาได้ค่ะ [myifew.com]
+    url: https://myifew.com/7641/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3-publish-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%95%e0%b9%89%e0%b8%ad%e0%b8%87/
+  state:
+    id: '116636288883915089'
+    url: https://mastodon.in.th/@webring/116636288883915089
+1c3e57d3973ddc9aef7db042b03ed653:shorturl:
+  spec:
+    url: https://myifew.com/7641/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3-publish-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%95%e0%b9%89%e0%b8%ad%e0%b8%87/
+  state:
+    shortLink: https://link.webring.in.th/3218
 1c8662a8f933bfebc549b1fdf2d465cb:facebook:
   spec:
     title: Short note from book "metamorphosis" [yuttakhanb.dev]
