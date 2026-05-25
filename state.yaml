@@ -13332,6 +13332,32 @@
     url: https://www.somkiat.cc/hello-bun-shell/
   state:
     shortLink: https://link.webring.in.th/1733
+467ffda4c57cf0e457861a14c1d2a4ed:bluesky:
+  spec:
+    title: 'TIL: Life Lessons from Poker [jetsukda.dev]'
+    url: https://jetsukda.dev/til/life-lessons-from-poker/
+  state:
+    cid: bafyreicuhprrvlkslb5uqeadfpowq7bomjmjwozzv5qz3zohyzwbu4yfau
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmnw6laj5224
+467ffda4c57cf0e457861a14c1d2a4ed:facebook:
+  spec:
+    title: 'TIL: Life Lessons from Poker [jetsukda.dev]'
+    url: https://jetsukda.dev/til/life-lessons-from-poker/
+  state:
+    id: '100746876247412_975990318723544'
+    url: https://www.facebook.com/100683012920950/posts/975990318723544
+467ffda4c57cf0e457861a14c1d2a4ed:mastodon:
+  spec:
+    title: 'TIL: Life Lessons from Poker [jetsukda.dev]'
+    url: https://jetsukda.dev/til/life-lessons-from-poker/
+  state:
+    id: '116633950705253542'
+    url: https://mastodon.in.th/@webring/116633950705253542
+467ffda4c57cf0e457861a14c1d2a4ed:shorturl:
+  spec:
+    url: https://jetsukda.dev/til/life-lessons-from-poker/
+  state:
+    shortLink: https://link.webring.in.th/3216
 4693a24543222e705925af10dc966aa5:facebook:
   spec:
     title: เพิ่งรู้ว่า Bun ก็ run Playwright ได้ด้วย [somkiat.cc]
