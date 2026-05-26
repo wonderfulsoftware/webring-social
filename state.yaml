@@ -39919,6 +39919,32 @@ cd20a3ce47518f7b5e7f10e15d1da6f8:shorturl:
     url: https://www.somkiat.cc/hello-kimi-code/
   state:
     shortLink: https://link.webring.in.th/2947
+cd3c97280bb74666e84262ecf1620a99:bluesky:
+  spec:
+    title: 10 Poka Yoke Patterns ที่ทุกเว็บควรมี เพื่อลด User Error และเพิ่ม UX [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/poka-yoke-ux-patterns
+  state:
+    cid: bafyreiavpdnzpllokxmywxmxctoszbs3lv4p65qkshnnyjozjs3w5vtqgm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmqf4m6xjq2u
+cd3c97280bb74666e84262ecf1620a99:facebook:
+  spec:
+    title: 10 Poka Yoke Patterns ที่ทุกเว็บควรมี เพื่อลด User Error และเพิ่ม UX [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/poka-yoke-ux-patterns
+  state:
+    id: '100746876247412_976783751977534'
+    url: https://www.facebook.com/100683012920950/posts/976783751977534
+cd3c97280bb74666e84262ecf1620a99:mastodon:
+  spec:
+    title: 10 Poka Yoke Patterns ที่ทุกเว็บควรมี เพื่อลด User Error และเพิ่ม UX [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/poka-yoke-ux-patterns
+  state:
+    id: '116639505504133273'
+    url: https://mastodon.in.th/@webring/116639505504133273
+cd3c97280bb74666e84262ecf1620a99:shorturl:
+  spec:
+    url: https://creaml4tt3.me/blogs/poka-yoke-ux-patterns
+  state:
+    shortLink: https://link.webring.in.th/3219
 cd3f1042e1ae4055bed5a79a0b023e46:facebook:
   spec:
     title: Thoughts on summarization service's system design [karnwong.me]
