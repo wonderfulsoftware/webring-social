@@ -7071,6 +7071,32 @@
     url: https://www.somkiat.cc/spring-modulith-1-ga/
   state:
     shortLink: https://webring.page.link/sXEd
+245f39daa1af2432a0acc6cbc585e837:bluesky:
+  spec:
+    title: Remove +07.00 from dotnet datetime [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/remove-0700-from-dotnet-datetime/
+  state:
+    cid: bafyreiahwo252llsujjp7wpqco7bwyqmyx3a347nbgncqbjlmggq7quyre
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmrcqjuvew24
+245f39daa1af2432a0acc6cbc585e837:facebook:
+  spec:
+    title: Remove +07.00 from dotnet datetime [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/remove-0700-from-dotnet-datetime/
+  state:
+    id: '100746876247412_977103811945528'
+    url: https://www.facebook.com/100683012920950/posts/977103811945528
+245f39daa1af2432a0acc6cbc585e837:mastodon:
+  spec:
+    title: Remove +07.00 from dotnet datetime [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/05/remove-0700-from-dotnet-datetime/
+  state:
+    id: '116641589816100702'
+    url: https://mastodon.in.th/@webring/116641589816100702
+245f39daa1af2432a0acc6cbc585e837:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/05/remove-0700-from-dotnet-datetime/
+  state:
+    shortLink: https://link.webring.in.th/3220
 24678e1cf315f4590d3dbeed51c0f1e0:facebook:
   spec:
     title: 'ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP2 : วันที่ 1 [kusumotolab.com]'
