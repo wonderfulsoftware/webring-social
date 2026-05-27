@@ -9843,6 +9843,32 @@
     url: https://www.poolsawat.com/tdd-test-driven-development-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%a1%e0%b8%b5%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%82%e0%b8%a2%e0%b8%8a%e0%b8%99%e0%b9%8c%e0%b8%88/
   state:
     shortLink: https://link.webring.in.th/2690
+3377ad53db13524da7f2a7dd289dea98:bluesky:
+  spec:
+    title: ผูกเปลยังไงให้นอนสบาย ไม่หงาย ไม่ปวดหลัง? 7 เทคนิคเซ็ตเปลเดินป่าที่มือใหม่ควรรู้ [myifew.com]
+    url: https://myifew.com/7644/%e0%b8%9c%e0%b8%b9%e0%b8%81%e0%b9%80%e0%b8%9b%e0%b8%a5%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%99%e0%b8%ad%e0%b8%99%e0%b8%aa%e0%b8%9a%e0%b8%b2%e0%b8%a2-%e0%b9%84/
+  state:
+    cid: bafyreifmoc55xrgla6kxvwowtrrf72jqndttwgjqwkzy4pds6trk6i3pbi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmswlvi57p2q
+3377ad53db13524da7f2a7dd289dea98:facebook:
+  spec:
+    title: ผูกเปลยังไงให้นอนสบาย ไม่หงาย ไม่ปวดหลัง? 7 เทคนิคเซ็ตเปลเดินป่าที่มือใหม่ควรรู้ [myifew.com]
+    url: https://myifew.com/7644/%e0%b8%9c%e0%b8%b9%e0%b8%81%e0%b9%80%e0%b8%9b%e0%b8%a5%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%99%e0%b8%ad%e0%b8%99%e0%b8%aa%e0%b8%9a%e0%b8%b2%e0%b8%a2-%e0%b9%84/
+  state:
+    id: '100746876247412_977649721890937'
+    url: https://www.facebook.com/100683012920950/posts/977649721890937
+3377ad53db13524da7f2a7dd289dea98:mastodon:
+  spec:
+    title: ผูกเปลยังไงให้นอนสบาย ไม่หงาย ไม่ปวดหลัง? 7 เทคนิคเซ็ตเปลเดินป่าที่มือใหม่ควรรู้ [myifew.com]
+    url: https://myifew.com/7644/%e0%b8%9c%e0%b8%b9%e0%b8%81%e0%b9%80%e0%b8%9b%e0%b8%a5%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%99%e0%b8%ad%e0%b8%99%e0%b8%aa%e0%b8%9a%e0%b8%b2%e0%b8%a2-%e0%b9%84/
+  state:
+    id: '116645238713092977'
+    url: https://mastodon.in.th/@webring/116645238713092977
+3377ad53db13524da7f2a7dd289dea98:shorturl:
+  spec:
+    url: https://myifew.com/7644/%e0%b8%9c%e0%b8%b9%e0%b8%81%e0%b9%80%e0%b8%9b%e0%b8%a5%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%99%e0%b8%ad%e0%b8%99%e0%b8%aa%e0%b8%9a%e0%b8%b2%e0%b8%a2-%e0%b9%84/
+  state:
+    shortLink: https://link.webring.in.th/3221
 33837d176c24d6efd1767a97decf6b12:bluesky:
   spec:
     title: บันทึกวันพฤหัสฯ — Pipeline Safety กับการทำให้ระบบแข็งแกร่งขึ้นทีละขั้น 🌸 [myifew.com]
