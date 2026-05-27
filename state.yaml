@@ -33002,6 +33002,32 @@ a9219b54ffbacb453c42195b38473323:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/02/cr-starbucks-chocolate-flourless-cake-valentine-edition/
   state:
     shortLink: https://webring.page.link/Ljo8
+a953cef1dae78dde5f9378791398f914:bluesky:
+  spec:
+    title: แก้เม็ดมะยม Apple Watch ฝืด หลังโดนน้ำทะเล [xiengperm.dev]
+    url: https://xiengperm.dev/posts/fix-apple-watch-se-digital-crown-seawater-th/
+  state:
+    cid: bafyreia26sa4dkjp6k5b27muw4uo45vu6jlpyiyrnzlaolgqfrwd6gan2q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmtib4leyo2d
+a953cef1dae78dde5f9378791398f914:facebook:
+  spec:
+    title: แก้เม็ดมะยม Apple Watch ฝืด หลังโดนน้ำทะเล [xiengperm.dev]
+    url: https://xiengperm.dev/posts/fix-apple-watch-se-digital-crown-seawater-th/
+  state:
+    id: '100746876247412_977844188538157'
+    url: https://www.facebook.com/100683012920950/posts/977844188538157
+a953cef1dae78dde5f9378791398f914:mastodon:
+  spec:
+    title: แก้เม็ดมะยม Apple Watch ฝืด หลังโดนน้ำทะเล [xiengperm.dev]
+    url: https://xiengperm.dev/posts/fix-apple-watch-se-digital-crown-seawater-th/
+  state:
+    id: '116646482104217111'
+    url: https://mastodon.in.th/@webring/116646482104217111
+a953cef1dae78dde5f9378791398f914:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/fix-apple-watch-se-digital-crown-seawater-th/
+  state:
+    shortLink: https://link.webring.in.th/3222
 a9619d7d425cb7d0656eae3d8984d4bd:bluesky:
   spec:
     title: Generating Presigned GET URLs for S3-Compatible Object Storage with Deno and Minio JS SDK [dt.in.th]
