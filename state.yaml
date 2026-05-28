@@ -34996,6 +34996,32 @@ b181dc74b2ea52a9450c9b81b90441c3:shorturl:
     url: https://karnwong.me/posts/2024/10/llm-serving-latency-benchmark/
   state:
     shortLink: https://link.webring.in.th/2179
+b1838e86b1535d5ad09e249903590829:bluesky:
+  spec:
+    title: 'Annapurna Circuit Trek: The Complete Thorong La Loop Guide [myifew.com]'
+    url: https://myifew.com/7647/annapurna-circuit-trek-the-complete-thorong-la-loop-guide-2/
+  state:
+    cid: bafyreiey5pnf3dcka3zxl6m6aashmifmrut7twgljj3kwuykerzszasiwq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmvgii6tqe25
+b1838e86b1535d5ad09e249903590829:facebook:
+  spec:
+    title: 'Annapurna Circuit Trek: The Complete Thorong La Loop Guide [myifew.com]'
+    url: https://myifew.com/7647/annapurna-circuit-trek-the-complete-thorong-la-loop-guide-2/
+  state:
+    id: '100746876247412_978511205138122'
+    url: https://www.facebook.com/100683012920950/posts/978511205138122
+b1838e86b1535d5ad09e249903590829:mastodon:
+  spec:
+    title: 'Annapurna Circuit Trek: The Complete Thorong La Loop Guide [myifew.com]'
+    url: https://myifew.com/7647/annapurna-circuit-trek-the-complete-thorong-la-loop-guide-2/
+  state:
+    id: '116650860560553887'
+    url: https://mastodon.in.th/@webring/116650860560553887
+b1838e86b1535d5ad09e249903590829:shorturl:
+  spec:
+    url: https://myifew.com/7647/annapurna-circuit-trek-the-complete-thorong-la-loop-guide-2/
+  state:
+    shortLink: https://link.webring.in.th/3223
 b1d60910422ed2e6b4381e4afff061a1:facebook:
   spec:
     title: Reasons why you shouldn't use programming languages for IaC [karnwong.me]
