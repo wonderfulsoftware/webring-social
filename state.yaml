@@ -33151,6 +33151,32 @@ a9c2d6b0c0bdcf3aaf1ad242cbe98688:shorturl:
     url: https://www.poolsawat.com/%e0%b8%97%e0%b8%b3-distributed-tracing-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-opentelemetry/
   state:
     shortLink: https://link.webring.in.th/2634
+a9eb4d76a1d86fe1bb3472bb2a4d74e8:bluesky:
+  spec:
+    title: ทำไม Gmail ถึงใช้ Undo แทน Confirm Dialog — และนี่คือ UX ระดับโลก [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/gmail-undo-send-ux-design
+  state:
+    cid: bafyreibh3u5o7bsdihyuvzncsvrkd67vkybivnv3qq525snmdzskr4qxoq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmvz2pxrxo25
+a9eb4d76a1d86fe1bb3472bb2a4d74e8:facebook:
+  spec:
+    title: ทำไม Gmail ถึงใช้ Undo แทน Confirm Dialog — และนี่คือ UX ระดับโลก [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/gmail-undo-send-ux-design
+  state:
+    id: '100746876247412_978714245117818'
+    url: https://www.facebook.com/100683012920950/posts/978714245117818
+a9eb4d76a1d86fe1bb3472bb2a4d74e8:mastodon:
+  spec:
+    title: ทำไม Gmail ถึงใช้ Undo แทน Confirm Dialog — และนี่คือ UX ระดับโลก [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/gmail-undo-send-ux-design
+  state:
+    id: '116652167852528947'
+    url: https://mastodon.in.th/@webring/116652167852528947
+a9eb4d76a1d86fe1bb3472bb2a4d74e8:shorturl:
+  spec:
+    url: https://creaml4tt3.me/blogs/gmail-undo-send-ux-design
+  state:
+    shortLink: https://link.webring.in.th/3224
 aa01d08f945f89129e18a90dc49a5209:bluesky:
   spec:
     title: Recap 2025 ปีแห่ง AI และน้องเนยพุงเต่งสุดน่ารัก [mikkipastel.com]
