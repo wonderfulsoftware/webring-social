@@ -13775,6 +13775,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/05/global-azure-2025-thailand/
   state:
     shortLink: https://link.webring.in.th/2537
+49329e6f5a668d8cccedf333bff01072:bluesky:
+  spec:
+    title: '[CR] Starbucks Fuji Apple Camellia Cold Brew [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/05/cr-starbucks-fuji-apple-camellia-cold-brew/
+  state:
+    cid: bafyreiatu7h3dgcokppdzyocozlgkynrbjdm4lsp6o6pknehsmigkzxkei
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mmyiwisb5d2y
+49329e6f5a668d8cccedf333bff01072:facebook:
+  spec:
+    title: '[CR] Starbucks Fuji Apple Camellia Cold Brew [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/05/cr-starbucks-fuji-apple-camellia-cold-brew/
+  state:
+    id: '100746876247412_979556321700277'
+    url: https://www.facebook.com/100683012920950/posts/979556321700277
+49329e6f5a668d8cccedf333bff01072:mastodon:
+  spec:
+    title: '[CR] Starbucks Fuji Apple Camellia Cold Brew [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/05/cr-starbucks-fuji-apple-camellia-cold-brew/
+  state:
+    id: '116657788116444757'
+    url: https://mastodon.in.th/@webring/116657788116444757
+49329e6f5a668d8cccedf333bff01072:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/05/cr-starbucks-fuji-apple-camellia-cold-brew/
+  state:
+    shortLink: https://link.webring.in.th/3226
 493355bf3669ed864b7915de434ed11f:facebook:
   spec:
     title: เล่าประสบการณ์การทำ Github Actions ของงาน Compose Battle [mikkipastel.com]
