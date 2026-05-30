@@ -22394,6 +22394,32 @@
     url: https://tantatorn.xyz/posts/typescript-compiler-api/
   state:
     shortLink: https://link.webring.in.th/2068
+74c42e79d3ad7feada39aa20302068bc:bluesky:
+  spec:
+    title: in-html — Ease Your Tired Mind with a Visual Explainer Called HTML [nutchanon.org]
+    url: https://nutchanon.org/blog/in-html
+  state:
+    cid: bafyreigimwojikq2mb4sypeus34lhqusfwerngeg2rlgi2b4gggby6lfkq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mn2fqvo47k26
+74c42e79d3ad7feada39aa20302068bc:facebook:
+  spec:
+    title: in-html — Ease Your Tired Mind with a Visual Explainer Called HTML [nutchanon.org]
+    url: https://nutchanon.org/blog/in-html
+  state:
+    id: '100746876247412_980225691633340'
+    url: https://www.facebook.com/100683012920950/posts/980225691633340
+74c42e79d3ad7feada39aa20302068bc:mastodon:
+  spec:
+    title: in-html — Ease Your Tired Mind with a Visual Explainer Called HTML [nutchanon.org]
+    url: https://nutchanon.org/blog/in-html
+  state:
+    id: '116662067976951476'
+    url: https://mastodon.in.th/@webring/116662067976951476
+74c42e79d3ad7feada39aa20302068bc:shorturl:
+  spec:
+    url: https://nutchanon.org/blog/in-html
+  state:
+    shortLink: https://link.webring.in.th/3227
 74d136abbf7f75189c15e3b564dde335:bluesky:
   spec:
     title: ทำความเข้าใจ Activity Lifecycle ง่ายนิดเดียว! [mikkipastel.com]
