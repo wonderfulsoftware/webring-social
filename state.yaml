@@ -3510,6 +3510,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/cr-starbucks-skinny-banana-muffin/
   state:
     shortLink: https://webring.page.link/5yCp
+11e7fb15d217e317df958df32f6753c7:bluesky:
+  spec:
+    title: ใช้งาน IntelliJ HTTP Client สำหรับทดสอบ REST API ผ่าน http file [somkiat.cc]
+    url: https://www.somkiat.cc/use-intellij-http-client-with-http-file/
+  state:
+    cid: bafyreifqsi4rlgmcga2vy2mu4oc6ycpaxjm22cbsw3qqrnl7x6cdy5ptsi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mn34v7k6t72a
+11e7fb15d217e317df958df32f6753c7:facebook:
+  spec:
+    title: ใช้งาน IntelliJ HTTP Client สำหรับทดสอบ REST API ผ่าน http file [somkiat.cc]
+    url: https://www.somkiat.cc/use-intellij-http-client-with-http-file/
+  state:
+    id: '100746876247412_980480714941171'
+    url: https://www.facebook.com/100683012920950/posts/980480714941171
+11e7fb15d217e317df958df32f6753c7:mastodon:
+  spec:
+    title: ใช้งาน IntelliJ HTTP Client สำหรับทดสอบ REST API ผ่าน http file [somkiat.cc]
+    url: https://www.somkiat.cc/use-intellij-http-client-with-http-file/
+  state:
+    id: '116663696227405869'
+    url: https://mastodon.in.th/@webring/116663696227405869
+11e7fb15d217e317df958df32f6753c7:shorturl:
+  spec:
+    url: https://www.somkiat.cc/use-intellij-http-client-with-http-file/
+  state:
+    shortLink: https://link.webring.in.th/3229
 11e8828f0d5ead913ceb5163ec5a13d4:bluesky:
   spec:
     title: โพยการใช้ git เมื่อทำ side project บน Github [mikkipastel.com]
