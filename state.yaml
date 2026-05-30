@@ -33757,6 +33757,32 @@ abe6aac73aa7ba984244fd20f79e09f7:shorturl:
     url: https://www.somkiat.cc/google-chrome-117-mock-api/
   state:
     shortLink: https://webring.page.link/qCNB
+ac2c71283ad3b1ec34def48975bf7355:bluesky:
+  spec:
+    title: 'เจาะลึก Hoka Speedgoat 7: การกลับมาทวงบัลลังก์ King of Trail ด้วย Midsole ใหม่และปุ่มหัวใจสุดหนึบ [myifew.com]'
+    url: https://myifew.com/7656/%e0%b9%80%e0%b8%88%e0%b8%b2%e0%b8%b0%e0%b8%a5%e0%b8%b6%e0%b8%81-hoka-speedgoat-7-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b2%e0%b8%97%e0%b8%a7%e0%b8%87%e0%b8%9a-2/
+  state:
+    cid: bafyreianb2oggytcjmnjllgpdfkd52pgrv53rytuwcoog7nfbmb3iufwbq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mn2umoyrez2g
+ac2c71283ad3b1ec34def48975bf7355:facebook:
+  spec:
+    title: 'เจาะลึก Hoka Speedgoat 7: การกลับมาทวงบัลลังก์ King of Trail ด้วย Midsole ใหม่และปุ่มหัวใจสุดหนึบ [myifew.com]'
+    url: https://myifew.com/7656/%e0%b9%80%e0%b8%88%e0%b8%b2%e0%b8%b0%e0%b8%a5%e0%b8%b6%e0%b8%81-hoka-speedgoat-7-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b2%e0%b8%97%e0%b8%a7%e0%b8%87%e0%b8%9a-2/
+  state:
+    id: '100746876247412_980383528284223'
+    url: https://www.facebook.com/100683012920950/posts/980383528284223
+ac2c71283ad3b1ec34def48975bf7355:mastodon:
+  spec:
+    title: 'เจาะลึก Hoka Speedgoat 7: การกลับมาทวงบัลลังก์ King of Trail ด้วย Midsole ใหม่และปุ่มหัวใจสุดหนึบ [myifew.com]'
+    url: https://myifew.com/7656/%e0%b9%80%e0%b8%88%e0%b8%b2%e0%b8%b0%e0%b8%a5%e0%b8%b6%e0%b8%81-hoka-speedgoat-7-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b2%e0%b8%97%e0%b8%a7%e0%b8%87%e0%b8%9a-2/
+  state:
+    id: '116663114037145549'
+    url: https://mastodon.in.th/@webring/116663114037145549
+ac2c71283ad3b1ec34def48975bf7355:shorturl:
+  spec:
+    url: https://myifew.com/7656/%e0%b9%80%e0%b8%88%e0%b8%b2%e0%b8%b0%e0%b8%a5%e0%b8%b6%e0%b8%81-hoka-speedgoat-7-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b2%e0%b8%97%e0%b8%a7%e0%b8%87%e0%b8%9a-2/
+  state:
+    shortLink: https://link.webring.in.th/3228
 ac32b68bb4ebd11aa5bcf3ab81e80203:facebook:
   spec:
     title: มาเขียน code กับ Spring Modulith กันบ้าง [somkiat.cc]
