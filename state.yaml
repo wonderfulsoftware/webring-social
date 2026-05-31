@@ -46530,6 +46530,32 @@ ef1b92cbd5c395971dc47ce13fa5081b:shorturl:
     url: https://www.somkiat.cc/note-4-patterns-of-ai-native-development/
   state:
     shortLink: https://link.webring.in.th/3031
+ef48e17227c58f0146b7de839deebd24:bluesky:
+  spec:
+    title: 'Port-it: ลาก-วาง จัดพอร์ตหุ้น วางเป้าหมาย + ไอเดียจัดพอร์ตง่ายๆ [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/port-it
+  state:
+    cid: bafyreihb7bggfcsa57agpmodvrthyvz5arwp7fupwiaaqtm2dbho5hjrbe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mn5fklx3ji2h
+ef48e17227c58f0146b7de839deebd24:facebook:
+  spec:
+    title: 'Port-it: ลาก-วาง จัดพอร์ตหุ้น วางเป้าหมาย + ไอเดียจัดพอร์ตง่ายๆ [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/port-it
+  state:
+    id: '100746876247412_981289084860334'
+    url: https://www.facebook.com/100683012920950/posts/981289084860334
+ef48e17227c58f0146b7de839deebd24:mastodon:
+  spec:
+    title: 'Port-it: ลาก-วาง จัดพอร์ตหุ้น วางเป้าหมาย + ไอเดียจัดพอร์ตง่ายๆ [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/port-it
+  state:
+    id: '116668809817965871'
+    url: https://mastodon.in.th/@webring/116668809817965871
+ef48e17227c58f0146b7de839deebd24:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/port-it
+  state:
+    shortLink: https://link.webring.in.th/3231
 ef83bc2fa4075609c9b4cc4e91ac2644:facebook:
   spec:
     title: แนะนำ React => visualized สำหรับการเรียนรู้ ReactJS [somkiat.cc]
