@@ -29953,6 +29953,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/dockerfile-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-net6-db2/
   state:
     shortLink: https://webring.page.link/2vpC
+98be211146c78d47af7da47dd9f15b04:bluesky:
+  spec:
+    title: Aigle คือแบรนด์อะไร ทำไมเริ่มเห็นบ่อยในสายแฟชั่นเอาต์ดอร์ [myifew.com]
+    url: https://myifew.com/7660/aigle-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b9%81%e0%b8%9a%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1%e0%b9%80%e0%b8%a3%e0%b8%b4%e0%b9%88-2/
+  state:
+    cid: bafyreienngupnldgt6nvruuxy7s6biogpiwfd5ne5wd62iewqxskzylpyu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mn4y7zkdxo2j
+98be211146c78d47af7da47dd9f15b04:facebook:
+  spec:
+    title: Aigle คือแบรนด์อะไร ทำไมเริ่มเห็นบ่อยในสายแฟชั่นเอาต์ดอร์ [myifew.com]
+    url: https://myifew.com/7660/aigle-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b9%81%e0%b8%9a%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1%e0%b9%80%e0%b8%a3%e0%b8%b4%e0%b9%88-2/
+  state:
+    id: '100746876247412_981135941542315'
+    url: https://www.facebook.com/100683012920950/posts/981135941542315
+98be211146c78d47af7da47dd9f15b04:mastodon:
+  spec:
+    title: Aigle คือแบรนด์อะไร ทำไมเริ่มเห็นบ่อยในสายแฟชั่นเอาต์ดอร์ [myifew.com]
+    url: https://myifew.com/7660/aigle-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b9%81%e0%b8%9a%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1%e0%b9%80%e0%b8%a3%e0%b8%b4%e0%b9%88-2/
+  state:
+    id: '116667871538972406'
+    url: https://mastodon.in.th/@webring/116667871538972406
+98be211146c78d47af7da47dd9f15b04:shorturl:
+  spec:
+    url: https://myifew.com/7660/aigle-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b9%81%e0%b8%9a%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1%e0%b9%80%e0%b8%a3%e0%b8%b4%e0%b9%88-2/
+  state:
+    shortLink: https://link.webring.in.th/3230
 98ffa3d5a897d91dbc03e853dd42d888:facebook:
   spec:
     title: สร้างวงจร XOR จาก NAND เพียงแค่สี่ตัว [neizod.dev]
