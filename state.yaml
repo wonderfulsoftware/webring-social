@@ -13775,6 +13775,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week05-docker-compose/
   state:
     shortLink: https://webring.page.link/QgkH
+48dd87e1da0eeab49bb2a5f29d4dcfee:bluesky:
+  spec:
+    title: 'Next.js SEO Checklist 2026: 12 เทคนิคเพิ่มอันดับ Google สำหรับเว็บไซต์ Next.js [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/nextjs-seo-checklist-2026
+  state:
+    cid: bafyreiaxcglvxdulojozugzukuqebnd5jwhievoqwbuj656jcob7q426ru
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mndac4gb622p
+48dd87e1da0eeab49bb2a5f29d4dcfee:facebook:
+  spec:
+    title: 'Next.js SEO Checklist 2026: 12 เทคนิคเพิ่มอันดับ Google สำหรับเว็บไซต์ Next.js [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/nextjs-seo-checklist-2026
+  state:
+    id: '100746876247412_983437321312177'
+    url: https://www.facebook.com/100683012920950/posts/983437321312177
+48dd87e1da0eeab49bb2a5f29d4dcfee:mastodon:
+  spec:
+    title: 'Next.js SEO Checklist 2026: 12 เทคนิคเพิ่มอันดับ Google สำหรับเว็บไซต์ Next.js [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/nextjs-seo-checklist-2026
+  state:
+    id: '116681949990011190'
+    url: https://mastodon.in.th/@webring/116681949990011190
+48dd87e1da0eeab49bb2a5f29d4dcfee:shorturl:
+  spec:
+    url: https://creaml4tt3.me/blogs/nextjs-seo-checklist-2026
+  state:
+    shortLink: https://link.webring.in.th/3235
 490f5fb2014140690eb54d26c0389316:bluesky:
   spec:
     title: แยกร่างมาฟัง Global Azure 2025 Thailand + AzureSecEve [debuggingsoft.com]
