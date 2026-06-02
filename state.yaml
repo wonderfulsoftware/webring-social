@@ -42908,6 +42908,32 @@ db1f9a6b7ada53b371a08b293a591638:shorturl:
     url: https://lucian.solutions/blog/202406-yyoruu
   state:
     shortLink: https://link.webring.in.th/2009
+db4e31b00fd4fa22e2e8379b80840532:bluesky:
+  spec:
+    title: จดๆ จาก Wazuh Meetup 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/recap-wazuh-meetup-2026/
+  state:
+    cid: bafyreib36ym2xsdrpqbmfga5vfnug4aoxpyjfzfpxhbshukg4g35uyegzy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnc2l376hz2p
+db4e31b00fd4fa22e2e8379b80840532:facebook:
+  spec:
+    title: จดๆ จาก Wazuh Meetup 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/recap-wazuh-meetup-2026/
+  state:
+    id: '100746876247412_982975434691699'
+    url: https://www.facebook.com/100683012920950/posts/982975434691699
+db4e31b00fd4fa22e2e8379b80840532:mastodon:
+  spec:
+    title: จดๆ จาก Wazuh Meetup 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/recap-wazuh-meetup-2026/
+  state:
+    id: '116679295853642351'
+    url: https://mastodon.in.th/@webring/116679295853642351
+db4e31b00fd4fa22e2e8379b80840532:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/06/recap-wazuh-meetup-2026/
+  state:
+    shortLink: https://link.webring.in.th/3233
 db73f928da036e2b544b713db8680085:facebook:
   spec:
     title: Build IMSI catcher with single computer and hackrf One [annibuliful-lab.dev]
