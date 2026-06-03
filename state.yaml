@@ -43308,6 +43308,32 @@ dce3b50304c90fc9b55bd6eca9ba2b21:shorturl:
     url: https://www.somkiat.cc/note-from-use-ai-insoftware-development/
   state:
     shortLink: https://link.webring.in.th/2314
+ddb45815c1b9bab883766bd4e6ed9cf2:bluesky:
+  spec:
+    title: Update Plan June 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-june-2026
+  state:
+    cid: bafyreigx56xtxsad6x5v2ts5xvrfj7dxbwjf7ih3owpeqi3udcltxmnjbi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnfr33nf2b2i
+ddb45815c1b9bab883766bd4e6ed9cf2:facebook:
+  spec:
+    title: Update Plan June 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-june-2026
+  state:
+    id: '100746876247412_984379437884632'
+    url: https://www.facebook.com/100683012920950/posts/984379437884632
+ddb45815c1b9bab883766bd4e6ed9cf2:mastodon:
+  spec:
+    title: Update Plan June 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-june-2026
+  state:
+    id: '116687634120297200'
+    url: https://mastodon.in.th/@webring/116687634120297200
+ddb45815c1b9bab883766bd4e6ed9cf2:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/update-plan-june-2026
+  state:
+    shortLink: https://link.webring.in.th/3237
 ddbf009139a92e4918abaff4b3cc2b61:bluesky:
   spec:
     title: How to mock Datetime in Jest [jitrak.dev]
