@@ -8817,6 +8817,32 @@
     url: https://naiwaen.debuggingsoft.com/2026/02/bun-run-build-error-null-is-not-an-object-evaluating-currentrenderinginstance-ce-th-blog/
   state:
     shortLink: https://link.webring.in.th/2951
+2d4cd1f5a50a5298bad2c912de8d3102:bluesky:
+  spec:
+    title: '[CR] Starbuck Salmon & Spinach Danish [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/06/cr-starbuck-salmon-spinach-danish/
+  state:
+    cid: bafyreibtymamno6udkuc3xjjtispcwczjek77nlb2cmizlauyrbxpoxqoq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnhke7carl2o
+2d4cd1f5a50a5298bad2c912de8d3102:facebook:
+  spec:
+    title: '[CR] Starbuck Salmon & Spinach Danish [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/06/cr-starbuck-salmon-spinach-danish/
+  state:
+    id: '100746876247412_984989827823593'
+    url: https://www.facebook.com/100683012920950/posts/984989827823593
+2d4cd1f5a50a5298bad2c912de8d3102:mastodon:
+  spec:
+    title: '[CR] Starbuck Salmon & Spinach Danish [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/06/cr-starbuck-salmon-spinach-danish/
+  state:
+    id: '116691665568985595'
+    url: https://mastodon.in.th/@webring/116691665568985595
+2d4cd1f5a50a5298bad2c912de8d3102:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/06/cr-starbuck-salmon-spinach-danish/
+  state:
+    shortLink: https://link.webring.in.th/3239
 2d5074053e3175acf551175b9db713dd:facebook:
   spec:
     title: ว่าด้วยเรื่องของ Vector Database [somkiat.cc]
