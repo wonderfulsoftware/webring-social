@@ -15284,6 +15284,32 @@
     url: https://shayennn.com/tesla-thailand-delivery-process-so-suck/
   state:
     shortLink: https://webring.page.link/B8J1
+50cf96094ff53dcaed0ba2683e64785f:bluesky:
+  spec:
+    title: เที่ยวเซี่ยงไฮ้แบบ private tour กับคนในทีม 4 วัน 3 คืน [mikkipastel.com]
+    url: https://www.mikkipastel.com/shanghai-first-time-2026/
+  state:
+    cid: bafyreibwo6jpi5q5vzliwu2dw6uh3lxpw43jn6wzyjk7kgavdh3545lcoy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnh3irmoi32f
+50cf96094ff53dcaed0ba2683e64785f:facebook:
+  spec:
+    title: เที่ยวเซี่ยงไฮ้แบบ private tour กับคนในทีม 4 วัน 3 คืน [mikkipastel.com]
+    url: https://www.mikkipastel.com/shanghai-first-time-2026/
+  state:
+    id: '100746876247412_984818114507431'
+    url: https://www.facebook.com/100683012920950/posts/984818114507431
+50cf96094ff53dcaed0ba2683e64785f:mastodon:
+  spec:
+    title: เที่ยวเซี่ยงไฮ้แบบ private tour กับคนในทีม 4 วัน 3 คืน [mikkipastel.com]
+    url: https://www.mikkipastel.com/shanghai-first-time-2026/
+  state:
+    id: '116690620086795012'
+    url: https://mastodon.in.th/@webring/116690620086795012
+50cf96094ff53dcaed0ba2683e64785f:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/shanghai-first-time-2026/
+  state:
+    shortLink: https://link.webring.in.th/3238
 50ef5e9682b06aea4c3068c6bd0eb796:facebook:
   spec:
     title: docker / podman cp note [debuggingsoft.com]
