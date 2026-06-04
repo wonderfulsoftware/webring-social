@@ -44061,6 +44061,32 @@ e18cfc332bd7a5ded1fa4da2e2404e8a:shorturl:
     url: https://karnwong.me/posts/2025/08/spatial-join-performance/
   state:
     shortLink: https://link.webring.in.th/2748
+e1ae883c5a0564449cbc55103b25f6e6:bluesky:
+  spec:
+    title: 'Markha Valley Trek, Ladakh: คู่มือเดินป่าหัวใจแห่งหิมาลัยในดินแดนทิเบตน้อย [myifew.com]'
+    url: https://myifew.com/7671/markha-valley-trek-ladakh-%e0%b8%84%e0%b8%b9%e0%b9%88%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b9%83%e0%b8%88%e0%b9%81/
+  state:
+    cid: bafyreifjs5b2lcqgari4fmqhcqvez2bagejq4fgbiajqvftpeojl7hii3y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnhubxdbvj2d
+e1ae883c5a0564449cbc55103b25f6e6:facebook:
+  spec:
+    title: 'Markha Valley Trek, Ladakh: คู่มือเดินป่าหัวใจแห่งหิมาลัยในดินแดนทิเบตน้อย [myifew.com]'
+    url: https://myifew.com/7671/markha-valley-trek-ladakh-%e0%b8%84%e0%b8%b9%e0%b9%88%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b9%83%e0%b8%88%e0%b9%81/
+  state:
+    id: '100746876247412_985114231144486'
+    url: https://www.facebook.com/100683012920950/posts/985114231144486
+e1ae883c5a0564449cbc55103b25f6e6:mastodon:
+  spec:
+    title: 'Markha Valley Trek, Ladakh: คู่มือเดินป่าหัวใจแห่งหิมาลัยในดินแดนทิเบตน้อย [myifew.com]'
+    url: https://myifew.com/7671/markha-valley-trek-ladakh-%e0%b8%84%e0%b8%b9%e0%b9%88%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b9%83%e0%b8%88%e0%b9%81/
+  state:
+    id: '116692363864582455'
+    url: https://mastodon.in.th/@webring/116692363864582455
+e1ae883c5a0564449cbc55103b25f6e6:shorturl:
+  spec:
+    url: https://myifew.com/7671/markha-valley-trek-ladakh-%e0%b8%84%e0%b8%b9%e0%b9%88%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b9%83%e0%b8%88%e0%b9%81/
+  state:
+    shortLink: https://link.webring.in.th/3240
 e236247690afe8700445e88dc7ec1a58:bluesky:
   spec:
     title: Illustration - わっぴ～✨ [lucian.solutions]
