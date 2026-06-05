@@ -34306,6 +34306,32 @@ ad482bfb007fd80fd05fd8a928e6882b:shorturl:
     url: https://boychawin.com/2025/01/24/tailwind-css-v4-0-new-features.html
   state:
     shortLink: https://link.webring.in.th/2359
+ad7eff15ada96ffe48096391df7dd464:bluesky:
+  spec:
+    title: 'อยากมีสุขภาพการเงินที่ดีขึ้น: เปลี่ยนชีวิตการเงินทีละขั้น (รวมทั้งซีรีส์ 8 ตอน) [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/financial-health-series
+  state:
+    cid: bafyreigim5wfjv4wwtadpmxmarie6ky2rcsldsnwr6mo5usuasiedeldwa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnjkzcoqcq2j
+ad7eff15ada96ffe48096391df7dd464:facebook:
+  spec:
+    title: 'อยากมีสุขภาพการเงินที่ดีขึ้น: เปลี่ยนชีวิตการเงินทีละขั้น (รวมทั้งซีรีส์ 8 ตอน) [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/financial-health-series
+  state:
+    id: '100746876247412_985700647752511'
+    url: https://www.facebook.com/100683012920950/posts/985700647752511
+ad7eff15ada96ffe48096391df7dd464:mastodon:
+  spec:
+    title: 'อยากมีสุขภาพการเงินที่ดีขึ้น: เปลี่ยนชีวิตการเงินทีละขั้น (รวมทั้งซีรีส์ 8 ตอน) [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/financial-health-series
+  state:
+    id: '116696215339380432'
+    url: https://mastodon.in.th/@webring/116696215339380432
+ad7eff15ada96ffe48096391df7dd464:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/financial-health-series
+  state:
+    shortLink: https://link.webring.in.th/3241
 ad854103055b99bd1095a99ddb655ade:facebook:
   spec:
     title: My First Hiking at Phu Soi Dao [tantatorn.xyz]
