@@ -6344,6 +6344,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/11/db2-decfloat-data-type-mapping-to-azure-sql-server/
   state:
     shortLink: https://webring.page.link/kywC
+21499a4a7ecc270cde85fe77e392546a:bluesky:
+  spec:
+    title: จดจาก MSBuild 2026 ที่สนใจAgent+.NET [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/recap-ms-build-2026-on-my-interest/
+  state:
+    cid: bafyreidtfgmlntuitrfzzps2awdl4lopmtl46ljmuwpkv42w3yi2emnwkm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnk3htx7kz23
+21499a4a7ecc270cde85fe77e392546a:facebook:
+  spec:
+    title: จดจาก MSBuild 2026 ที่สนใจAgent+.NET [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/recap-ms-build-2026-on-my-interest/
+  state:
+    id: '100746876247412_985894144399828'
+    url: https://www.facebook.com/100683012920950/posts/985894144399828
+21499a4a7ecc270cde85fe77e392546a:mastodon:
+  spec:
+    title: จดจาก MSBuild 2026 ที่สนใจAgent+.NET [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/recap-ms-build-2026-on-my-interest/
+  state:
+    id: '116697373538755207'
+    url: https://mastodon.in.th/@webring/116697373538755207
+21499a4a7ecc270cde85fe77e392546a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/06/recap-ms-build-2026-on-my-interest/
+  state:
+    shortLink: https://link.webring.in.th/3242
 2149c50f7177f5b102df0b25df690ae5:facebook:
   spec:
     title: สรุปจากการดู SQL Query Optimization! [somkiat.cc]
