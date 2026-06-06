@@ -21730,6 +21730,32 @@
     url: https://mymoneytoolkit.app/posts/interest-tax-free
   state:
     shortLink: https://link.webring.in.th/2580
+7032621eb8c1fb0000f2dd9dc9f5720a:bluesky:
+  spec:
+    title: มาลองเขียน SQL เพื่อดึงข้อมูลจาก Redis กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-sql-redis/
+  state:
+    cid: bafyreigxekiiy7phjuvftnbrp2fe7mezrkrhtd2ni6dv5y4ksja5jnsueq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnmi7gbgtn22
+7032621eb8c1fb0000f2dd9dc9f5720a:facebook:
+  spec:
+    title: มาลองเขียน SQL เพื่อดึงข้อมูลจาก Redis กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-sql-redis/
+  state:
+    id: '100746876247412_986770897645486'
+    url: https://www.facebook.com/100683012920950/posts/986770897645486
+7032621eb8c1fb0000f2dd9dc9f5720a:mastodon:
+  spec:
+    title: มาลองเขียน SQL เพื่อดึงข้อมูลจาก Redis กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-sql-redis/
+  state:
+    id: '116702773357479185'
+    url: https://mastodon.in.th/@webring/116702773357479185
+7032621eb8c1fb0000f2dd9dc9f5720a:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-sql-redis/
+  state:
+    shortLink: https://link.webring.in.th/3244
 703c41d61c20982077d6d201c39c2659:bluesky:
   spec:
     title: A very quick overview on Cursor and Integration to Cursor [yuttakhanb.dev]
