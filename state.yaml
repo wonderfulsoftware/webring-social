@@ -15291,6 +15291,32 @@
     url: https://www.mikkipastel.com/email-management-getting-thing-done/
   state:
     shortLink: https://webring.page.link/kkwe
+5022ab4c82dcd8cd69c4c9a17277deeb:bluesky:
+  spec:
+    title: สร้าง Cleanup Policy บน Sonatype Nexus Repository [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/how-to-create-cleanup-policy-on-sonatype-nexus-repository-th/
+  state:
+    cid: bafyreifad7h2j6zk34nip27w2bvz7h2vg7hbemrjvouwazo37euhggojmu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnlzd6tdbs2m
+5022ab4c82dcd8cd69c4c9a17277deeb:facebook:
+  spec:
+    title: สร้าง Cleanup Policy บน Sonatype Nexus Repository [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/how-to-create-cleanup-policy-on-sonatype-nexus-repository-th/
+  state:
+    id: '100746876247412_986608110995098'
+    url: https://www.facebook.com/100683012920950/posts/986608110995098
+5022ab4c82dcd8cd69c4c9a17277deeb:mastodon:
+  spec:
+    title: สร้าง Cleanup Policy บน Sonatype Nexus Repository [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/how-to-create-cleanup-policy-on-sonatype-nexus-repository-th/
+  state:
+    id: '116701726044965330'
+    url: https://mastodon.in.th/@webring/116701726044965330
+5022ab4c82dcd8cd69c4c9a17277deeb:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/06/how-to-create-cleanup-policy-on-sonatype-nexus-repository-th/
+  state:
+    shortLink: https://link.webring.in.th/3243
 5038ab2e5b9befaaa9962c4b6ca13a19:bluesky:
   spec:
     title: Native Implementation vs Wasm for Go, Python and Rust Benchmark [karnwong.me]
@@ -22526,21 +22552,21 @@
     shortLink: https://link.webring.in.th/2068
 74c42e79d3ad7feada39aa20302068bc:bluesky:
   spec:
-    title: in-html — Ease Your Tired Mind with a Visual Explainer Called HTML [nutchanon.org]
+    title: in-html — พักสายตาที่ล้า ด้วย visual explainer ที่ชื่อว่า HTML [nutchanon.org]
     url: https://nutchanon.org/blog/in-html
   state:
     cid: bafyreigimwojikq2mb4sypeus34lhqusfwerngeg2rlgi2b4gggby6lfkq
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mn2fqvo47k26
 74c42e79d3ad7feada39aa20302068bc:facebook:
   spec:
-    title: in-html — Ease Your Tired Mind with a Visual Explainer Called HTML [nutchanon.org]
+    title: in-html — พักสายตาที่ล้า ด้วย visual explainer ที่ชื่อว่า HTML [nutchanon.org]
     url: https://nutchanon.org/blog/in-html
   state:
     id: '100746876247412_980225691633340'
     url: https://www.facebook.com/100683012920950/posts/980225691633340
 74c42e79d3ad7feada39aa20302068bc:mastodon:
   spec:
-    title: in-html — Ease Your Tired Mind with a Visual Explainer Called HTML [nutchanon.org]
+    title: in-html — พักสายตาที่ล้า ด้วย visual explainer ที่ชื่อว่า HTML [nutchanon.org]
     url: https://nutchanon.org/blog/in-html
   state:
     id: '116662067976951476'
