@@ -11671,6 +11671,32 @@
     url: https://www.somkiat.cc/note-ranking-system-from-reddit/
   state:
     shortLink: https://webring.page.link/Axjg
+3cbdea1c259d9ddd6265e4eccf4494a5:bluesky:
+  spec:
+    title: มาลองใช้งาน Android CLI กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-android-cli/
+  state:
+    cid: bafyreigjuadr64dbbqtfmmzyrqclvju3343k4eahlvvruee6uureose4n4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnr5oy7btu2g
+3cbdea1c259d9ddd6265e4eccf4494a5:facebook:
+  spec:
+    title: มาลองใช้งาน Android CLI กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-android-cli/
+  state:
+    id: '100746876247412_988398167482759'
+    url: https://www.facebook.com/100683012920950/posts/988398167482759
+3cbdea1c259d9ddd6265e4eccf4494a5:mastodon:
+  spec:
+    title: มาลองใช้งาน Android CLI กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-android-cli/
+  state:
+    id: '116713292577425416'
+    url: https://mastodon.in.th/@webring/116713292577425416
+3cbdea1c259d9ddd6265e4eccf4494a5:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-android-cli/
+  state:
+    shortLink: https://link.webring.in.th/3245
 3cdb547e1d60d1ed0a3ebdc3b08d4ab4:facebook:
   spec:
     title: What is platform engineering? [karnwong.me]
