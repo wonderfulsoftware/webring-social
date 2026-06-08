@@ -18031,6 +18031,32 @@
     url: https://www.mikkipastel.com/create-blog-maskdown-without-cms-by-glitch/
   state:
     shortLink: https://webring.page.link/n476
+5de830ca5f5d0f4893c2c9b12fcfb8aa:bluesky:
+  spec:
+    title: 'Remote Access: Restrict Access with Cloudflare Access (3/3) [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-40-remote-access-cloudflare-access/
+  state:
+    cid: bafyreibwrmmob6tbrj7zkm5wrzj3weo5augzkjiwq6rt3ksx2vv3msfm4i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnsaf3bj332p
+5de830ca5f5d0f4893c2c9b12fcfb8aa:facebook:
+  spec:
+    title: 'Remote Access: Restrict Access with Cloudflare Access (3/3) [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-40-remote-access-cloudflare-access/
+  state:
+    id: '100746876247412_988794200776489'
+    url: https://www.facebook.com/100683012920950/posts/988794200776489
+5de830ca5f5d0f4893c2c9b12fcfb8aa:mastodon:
+  spec:
+    title: 'Remote Access: Restrict Access with Cloudflare Access (3/3) [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-40-remote-access-cloudflare-access/
+  state:
+    id: '116715733355224449'
+    url: https://mastodon.in.th/@webring/116715733355224449
+5de830ca5f5d0f4893c2c9b12fcfb8aa:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-40-remote-access-cloudflare-access/
+  state:
+    shortLink: https://link.webring.in.th/3247
 5dee2b53afe71923dd5e6d5eb3cb8c39:facebook:
   spec:
     title: หาไฟล์และโฟลเดอร์แบบโคตรแรงด้วย fd ⚡️ [anuwong.com]
