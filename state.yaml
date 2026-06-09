@@ -3233,6 +3233,18 @@
     url: https://www.poolsawat.com/%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-notification-push-event-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-sse-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-websocket/
   state:
     shortLink: https://link.webring.in.th/2759
+1065ea9d64cfd2c64e68a74d0f3f0650:mastodon:
+  spec:
+    title: พื้นฐานการสร้าง project และเตรียม feedback loop ให้กับ AI Agent [somkiat.cc]
+    url: https://www.somkiat.cc/setup-project-with-feedback-loop-for-ai-agent/
+  state:
+    id: '116720639610008390'
+    url: https://mastodon.in.th/@webring/116720639610008390
+1065ea9d64cfd2c64e68a74d0f3f0650:shorturl:
+  spec:
+    url: https://www.somkiat.cc/setup-project-with-feedback-loop-for-ai-agent/
+  state:
+    shortLink: https://link.webring.in.th/3250
 106b9ec87ce2d45963568eb8bfe0c506:bluesky:
   spec:
     title: How to delete stuck terminating namespace in k8s [jitrak.dev]
@@ -8445,6 +8457,20 @@
     url: https://garden.narze.live/100daysofcode-r3-85-update-narze-resume/
   state:
     shortLink: https://webring.page.link/jfYe
+2b8eb4ddda001705622e9d3f48447d5c:bluesky:
+  spec:
+    title: 'Remote Access (Bonus): SSH into Your Home Server with Cloudflare Tunnel [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-41-ssh-cloudflare-tunnel/
+  state:
+    cid: bafyreifwzfhhmzdzfrtm4jjejcnv5yiocq4ytysful2z6lwcvjzucl54pm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnug43dy6z26
+2b8eb4ddda001705622e9d3f48447d5c:facebook:
+  spec:
+    title: 'Remote Access (Bonus): SSH into Your Home Server with Cloudflare Tunnel [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-41-ssh-cloudflare-tunnel/
+  state:
+    id: '100746876247412_989526657369910'
+    url: https://www.facebook.com/100683012920950/posts/989526657369910
 2b8eb4ddda001705622e9d3f48447d5c:mastodon:
   spec:
     title: 'Remote Access (Bonus): SSH into Your Home Server with Cloudflare Tunnel [jitrak.dev]'
