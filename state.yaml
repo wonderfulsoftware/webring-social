@@ -3233,6 +3233,20 @@
     url: https://www.poolsawat.com/%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-notification-push-event-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-sse-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-websocket/
   state:
     shortLink: https://link.webring.in.th/2759
+1065ea9d64cfd2c64e68a74d0f3f0650:bluesky:
+  spec:
+    title: พื้นฐานการสร้าง project และเตรียม feedback loop ให้กับ AI Agent [somkiat.cc]
+    url: https://www.somkiat.cc/setup-project-with-feedback-loop-for-ai-agent/
+  state:
+    cid: bafyreibje64ln3ljyro2hwm6vd4enwhhhiar5qkqcwyfkzcumzoccvcjle
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnupf4bofz2p
+1065ea9d64cfd2c64e68a74d0f3f0650:facebook:
+  spec:
+    title: พื้นฐานการสร้าง project และเตรียม feedback loop ให้กับ AI Agent [somkiat.cc]
+    url: https://www.somkiat.cc/setup-project-with-feedback-loop-for-ai-agent/
+  state:
+    id: '100746876247412_989651744024068'
+    url: https://www.facebook.com/100683012920950/posts/989651744024068
 1065ea9d64cfd2c64e68a74d0f3f0650:mastodon:
   spec:
     title: พื้นฐานการสร้าง project และเตรียม feedback loop ให้กับ AI Agent [somkiat.cc]
@@ -48045,6 +48059,18 @@ f3e639520df88cfbb4faa9bf4dab67ec:shorturl:
     url: https://xiengperm.dev/posts/renew-visa-non-b-thailand-lo/
   state:
     shortLink: https://link.webring.in.th/2943
+f3ff4d49d935fc962bb90ae25b3025d7:mastodon:
+  spec:
+    title: ลง Linux เสร็จแล้วทำอะไรต่อ? คำสั่งแรกๆ ที่ควรรันหลังติดตั้ง [xiengperm.dev]
+    url: https://xiengperm.dev/posts/linux-first-commands-after-install-th/
+  state:
+    id: '116721292850142175'
+    url: https://mastodon.in.th/@webring/116721292850142175
+f3ff4d49d935fc962bb90ae25b3025d7:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/linux-first-commands-after-install-th/
+  state:
+    shortLink: https://link.webring.in.th/3251
 f3ff98ffe6527d7fe3795a4c0c9a45d5:facebook:
   spec:
     title: Load balancer 101, thou shalt not be alone [karnwong.me]
