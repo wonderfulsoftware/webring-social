@@ -8445,6 +8445,18 @@
     url: https://garden.narze.live/100daysofcode-r3-85-update-narze-resume/
   state:
     shortLink: https://webring.page.link/jfYe
+2b8eb4ddda001705622e9d3f48447d5c:mastodon:
+  spec:
+    title: 'Remote Access (Bonus): SSH into Your Home Server with Cloudflare Tunnel [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-41-ssh-cloudflare-tunnel/
+  state:
+    id: '116720012813609372'
+    url: https://mastodon.in.th/@webring/116720012813609372
+2b8eb4ddda001705622e9d3f48447d5c:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-41-ssh-cloudflare-tunnel/
+  state:
+    shortLink: https://link.webring.in.th/3249
 2b91cfd09199a23ba90deae831615e0a:facebook:
   spec:
     title: 'Tips :: ทำการ wrap Error ในภาษา Go [somkiat.cc]'
@@ -45342,6 +45354,20 @@ e721e8f2e647a78abaac08443f4160b6:shorturl:
     url: https://myifew.com/7307/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-8-%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%a1-2026-%e0%b8%a7%e0%b8%b1/
   state:
     shortLink: https://link.webring.in.th/3018
+e75f71a31718caf97d441794900da270:bluesky:
+  spec:
+    title: My Thoughts on The Invention of Nature [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/the-invention-of-nature/
+  state:
+    cid: bafyreiahqymp2btyg6tmz4fkewav43vbps5dc4bxvfe5bqpjmbbivgqceu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnu56zvo662p
+e75f71a31718caf97d441794900da270:facebook:
+  spec:
+    title: My Thoughts on The Invention of Nature [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/the-invention-of-nature/
+  state:
+    id: '100746876247412_989412007381375'
+    url: https://www.facebook.com/100683012920950/posts/989412007381375
 e75f71a31718caf97d441794900da270:mastodon:
   spec:
     title: My Thoughts on The Invention of Nature [tantatorn.xyz]
