@@ -45342,6 +45342,18 @@ e721e8f2e647a78abaac08443f4160b6:shorturl:
     url: https://myifew.com/7307/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-8-%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%a1-2026-%e0%b8%a7%e0%b8%b1/
   state:
     shortLink: https://link.webring.in.th/3018
+e75f71a31718caf97d441794900da270:mastodon:
+  spec:
+    title: My Thoughts on The Invention of Nature [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/the-invention-of-nature/
+  state:
+    id: '116718786931284489'
+    url: https://mastodon.in.th/@webring/116718786931284489
+e75f71a31718caf97d441794900da270:shorturl:
+  spec:
+    url: https://tantatorn.xyz/posts/the-invention-of-nature/
+  state:
+    shortLink: https://link.webring.in.th/3248
 e767273327732b9b733efc2d47f3198a:facebook:
   spec:
     title: 'แชร์การเตรียมตัวและคำแนะนำในการสอบ Google Cloud Certification: Data Engineer ปี 2024… [mesodiar.com]'
