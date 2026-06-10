@@ -40446,6 +40446,32 @@ cc5a27558ed08e64ce9056a97341923e:shorturl:
     url: https://karnwong.me/posts/2025/02/cross-platform-keyring-like-setup-also-works-without-desktop-environment/
   state:
     shortLink: https://link.webring.in.th/2401
+cc7d3a4739d523ee43bce7d6c528342f:bluesky:
+  spec:
+    title: เพิ่งเห็นว่าใน Google Chrome สามารถจัดการ pdf ได้ [somkiat.cc]
+    url: https://www.somkiat.cc/google-chrome-annotate-pdf-file/
+  state:
+    cid: bafyreiduvb2szwnctib67dlrkcxmb2j2fklsi5a4ke7j4atqt37m7rgrfq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnw5fzufuj2z
+cc7d3a4739d523ee43bce7d6c528342f:facebook:
+  spec:
+    title: เพิ่งเห็นว่าใน Google Chrome สามารถจัดการ pdf ได้ [somkiat.cc]
+    url: https://www.somkiat.cc/google-chrome-annotate-pdf-file/
+  state:
+    id: '100746876247412_990116400644269'
+    url: https://www.facebook.com/100683012920950/posts/990116400644269
+cc7d3a4739d523ee43bce7d6c528342f:mastodon:
+  spec:
+    title: เพิ่งเห็นว่าใน Google Chrome สามารถจัดการ pdf ได้ [somkiat.cc]
+    url: https://www.somkiat.cc/google-chrome-annotate-pdf-file/
+  state:
+    id: '116724531876838779'
+    url: https://mastodon.in.th/@webring/116724531876838779
+cc7d3a4739d523ee43bce7d6c528342f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/google-chrome-annotate-pdf-file/
+  state:
+    shortLink: https://link.webring.in.th/3252
 cc8098a42816d110f84359a2fa68f162:bluesky:
   spec:
     title: Corolla Altis Hybrid – รีวิวหลังใช้มา 2 ปี [zartre.com]
