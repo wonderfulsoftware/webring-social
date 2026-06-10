@@ -25167,6 +25167,32 @@
     url: https://notes.dt.in.th/20230403T162555Z1842
   state:
     shortLink: https://webring.page.link/axFq
+7ed7437a9862b2945dfd3ef11e2ee656:bluesky:
+  spec:
+    title: 'loops!: คลังสูตรสำเร็จให้ AI วนทำงานเองจนจบ [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/loops-agent-loops-th/
+  state:
+    cid: bafyreicmtlg3vox3iysszbc3odxgmxmvwuzelz67xsm3pcuuhp4y3iml2q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnxbozycjj2h
+7ed7437a9862b2945dfd3ef11e2ee656:facebook:
+  spec:
+    title: 'loops!: คลังสูตรสำเร็จให้ AI วนทำงานเองจนจบ [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/loops-agent-loops-th/
+  state:
+    id: '100746876247412_990536593935583'
+    url: https://www.facebook.com/100683012920950/posts/990536593935583
+7ed7437a9862b2945dfd3ef11e2ee656:mastodon:
+  spec:
+    title: 'loops!: คลังสูตรสำเร็จให้ AI วนทำงานเองจนจบ [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/loops-agent-loops-th/
+  state:
+    id: '116727084858945613'
+    url: https://mastodon.in.th/@webring/116727084858945613
+7ed7437a9862b2945dfd3ef11e2ee656:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/loops-agent-loops-th/
+  state:
+    shortLink: https://link.webring.in.th/3254
 7f29f691ea533f4876e12772003f354f:facebook:
   spec:
     title: ทำการจำลอง API server ใน JavaScript ด้วย MirageJS [somkiat.cc]
