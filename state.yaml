@@ -38127,6 +38127,32 @@ c09a07c647d3b1711ae5ea09493d6f67:shorturl:
     url: https://myifew.com/7216/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c-%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%87/
   state:
     shortLink: https://link.webring.in.th/3003
+c0c28f1c3ec96fb77e0cbd4f46c0c575:bluesky:
+  spec:
+    title: Ezygo สาคูไส้หมู (จริงๆ) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/ezygo-streamed-tapioca-balls-with-pork-filling/
+  state:
+    cid: bafyreifs3glxqe27qiu53sl47oemw333vdayfb4tf4oc6gnadxw3uxibhm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnwot6wssy2u
+c0c28f1c3ec96fb77e0cbd4f46c0c575:facebook:
+  spec:
+    title: Ezygo สาคูไส้หมู (จริงๆ) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/ezygo-streamed-tapioca-balls-with-pork-filling/
+  state:
+    id: '100746876247412_990306000625309'
+    url: https://www.facebook.com/100683012920950/posts/990306000625309
+c0c28f1c3ec96fb77e0cbd4f46c0c575:mastodon:
+  spec:
+    title: Ezygo สาคูไส้หมู (จริงๆ) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/ezygo-streamed-tapioca-balls-with-pork-filling/
+  state:
+    id: '116725756949019909'
+    url: https://mastodon.in.th/@webring/116725756949019909
+c0c28f1c3ec96fb77e0cbd4f46c0c575:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/06/ezygo-streamed-tapioca-balls-with-pork-filling/
+  state:
+    shortLink: https://link.webring.in.th/3253
 c0f4d46f03201013e89536d1d847c99a:facebook:
   spec:
     title: HTML in JSX/TSX [debuggingsoft.com]
