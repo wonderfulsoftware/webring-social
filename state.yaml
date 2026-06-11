@@ -48566,6 +48566,32 @@ f637cd1da2d6871b3f8e301ce4dbfb30:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/11/migrate-net-framework-to-net-core-net6-note/
   state:
     shortLink: https://webring.page.link/KWde
+f6492c8ca77ec344376d31d969bca5f6:bluesky:
+  spec:
+    title: คู่มือเบื้องต้น Google sheet ที่ใครก็เอาไปใช้ได้ ตอนที่ 2 (รวมสูตรที่ใช้จริง) [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-2
+  state:
+    cid: bafyreifeacoidrlubgz3m4h5l7ewalxpnlff64jfgpwfgr5cdwdcvifi7q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnyp45kv2s2s
+f6492c8ca77ec344376d31d969bca5f6:facebook:
+  spec:
+    title: คู่มือเบื้องต้น Google sheet ที่ใครก็เอาไปใช้ได้ ตอนที่ 2 (รวมสูตรที่ใช้จริง) [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-2
+  state:
+    id: '100746876247412_990985817223994'
+    url: https://www.facebook.com/100683012920950/posts/990985817223994
+f6492c8ca77ec344376d31d969bca5f6:mastodon:
+  spec:
+    title: คู่มือเบื้องต้น Google sheet ที่ใครก็เอาไปใช้ได้ ตอนที่ 2 (รวมสูตรที่ใช้จริง) [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-2
+  state:
+    id: '116730279939813285'
+    url: https://mastodon.in.th/@webring/116730279939813285
+f6492c8ca77ec344376d31d969bca5f6:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-2
+  state:
+    shortLink: https://link.webring.in.th/3255
 f676551db628b290c52d86d90135a62c:facebook:
   spec:
     title: 'Tips :: การจัดการ tab ใน web browser ด้วย Cypress [somkiat.cc]'
