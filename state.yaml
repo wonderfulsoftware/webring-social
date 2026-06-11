@@ -15485,6 +15485,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/06/docker-podman-cp-note/
   state:
     shortLink: https://link.webring.in.th/1997
+510cb85528e8487f96ac59edf86a59db:bluesky:
+  spec:
+    title: 'Claude Fable 5: The First Mythos-class Model for Everyone — Enabling It in Cursor [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-42-claude-fable-5-in-cursor/
+  state:
+    cid: bafyreibb6n3fksl2hfjbbpcaz2qrbd5xrmg2v5pytgs44a7howvhiegwh4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnzszmjzmd2y
+510cb85528e8487f96ac59edf86a59db:facebook:
+  spec:
+    title: 'Claude Fable 5: The First Mythos-class Model for Everyone — Enabling It in Cursor [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-42-claude-fable-5-in-cursor/
+  state:
+    id: '100746876247412_991415553847687'
+    url: https://www.facebook.com/100683012920950/posts/991415553847687
+510cb85528e8487f96ac59edf86a59db:mastodon:
+  spec:
+    title: 'Claude Fable 5: The First Mythos-class Model for Everyone — Enabling It in Cursor [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-42-claude-fable-5-in-cursor/
+  state:
+    id: '116732807920307897'
+    url: https://mastodon.in.th/@webring/116732807920307897
+510cb85528e8487f96ac59edf86a59db:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-42-claude-fable-5-in-cursor/
+  state:
+    shortLink: https://link.webring.in.th/3257
 512a4f18c74666e6ea88c64ce05194ed:facebook:
   spec:
     title: Microsoft Teams รองรับผู้เข้าร่วมประชุมกี่คน [dmg.st]
