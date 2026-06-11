@@ -47102,6 +47102,32 @@ ef1b92cbd5c395971dc47ce13fa5081b:shorturl:
     url: https://www.somkiat.cc/note-4-patterns-of-ai-native-development/
   state:
     shortLink: https://link.webring.in.th/3031
+ef3a6b64e6c215646733b3e8df6da93d:bluesky:
+  spec:
+    title: ลองใช้ GitHub Copilot Web (Cloud Agent Mode) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/github-copilot-web-cloud-agent-mode-first-time/
+  state:
+    cid: bafyreifo6dp5aiwfiegyobx5ylbtdvng7pbuabfjfuyehaqzaz4krjcu7q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mnzajtryeh2y
+ef3a6b64e6c215646733b3e8df6da93d:facebook:
+  spec:
+    title: ลองใช้ GitHub Copilot Web (Cloud Agent Mode) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/github-copilot-web-cloud-agent-mode-first-time/
+  state:
+    id: '100746876247412_991186073870635'
+    url: https://www.facebook.com/100683012920950/posts/991186073870635
+ef3a6b64e6c215646733b3e8df6da93d:mastodon:
+  spec:
+    title: ลองใช้ GitHub Copilot Web (Cloud Agent Mode) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/github-copilot-web-cloud-agent-mode-first-time/
+  state:
+    id: '116731506842343044'
+    url: https://mastodon.in.th/@webring/116731506842343044
+ef3a6b64e6c215646733b3e8df6da93d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/06/github-copilot-web-cloud-agent-mode-first-time/
+  state:
+    shortLink: https://link.webring.in.th/3256
 ef48e17227c58f0146b7de839deebd24:bluesky:
   spec:
     title: 'Port-it: ลาก-วาง จัดพอร์ตหุ้น วางเป้าหมาย + ไอเดียจัดพอร์ตง่ายๆ [mymoneytoolkit.app]'
