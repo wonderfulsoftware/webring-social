@@ -19621,6 +19621,32 @@
     url: https://dmg.st/nokair-lounge/
   state:
     shortLink: https://webring.page.link/VZxr
+644a3fdba89412060631066943907fed:bluesky:
+  spec:
+    title: 'Lofoten Islands, Norway: เทรคเกาะสวรรค์แห่งอาร์กติกที่ภูเขาจรดทะเล [myifew.com]'
+    url: https://myifew.com/7682/lofoten-islands-norway-%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%ad-2/
+  state:
+    cid: bafyreifr75bmnbuiskwjrwrxrncfkakommtybkummffvpipaawyyug245y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mo3754mlxm2x
+644a3fdba89412060631066943907fed:facebook:
+  spec:
+    title: 'Lofoten Islands, Norway: เทรคเกาะสวรรค์แห่งอาร์กติกที่ภูเขาจรดทะเล [myifew.com]'
+    url: https://myifew.com/7682/lofoten-islands-norway-%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%ad-2/
+  state:
+    id: '100746876247412_991854993803743'
+    url: https://www.facebook.com/100683012920950/posts/991854993803743
+644a3fdba89412060631066943907fed:mastodon:
+  spec:
+    title: 'Lofoten Islands, Norway: เทรคเกาะสวรรค์แห่งอาร์กติกที่ภูเขาจรดทะเล [myifew.com]'
+    url: https://myifew.com/7682/lofoten-islands-norway-%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%ad-2/
+  state:
+    id: '116735911264287060'
+    url: https://mastodon.in.th/@webring/116735911264287060
+644a3fdba89412060631066943907fed:shorturl:
+  spec:
+    url: https://myifew.com/7682/lofoten-islands-norway-%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%ad-2/
+  state:
+    shortLink: https://link.webring.in.th/3258
 646c34bf8a091176dd8dfccb3a48c544:bluesky:
   spec:
     title: 'MVC vs MVVM vs MVP: เลือกใช้ Architecture แบบไหนดี [poolsawat.com]'
