@@ -25361,6 +25361,32 @@
     url: https://www.somkiat.cc/go-green-tea-gc/
   state:
     shortLink: https://link.webring.in.th/2742
+7fd529d389a0b5f51b7d05611f4a66b9:bluesky:
+  spec:
+    title: เป็นเดฟยังไง? ให้คนจำได้! [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-remember-you-are-developer/
+  state:
+    cid: bafyreiaczzkstkem7l4qdxr2ig2bj42e2wpkd3inkk3l7uvgj5v2qpjkqq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mo64kuqesi27
+7fd529d389a0b5f51b7d05611f4a66b9:facebook:
+  spec:
+    title: เป็นเดฟยังไง? ให้คนจำได้! [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-remember-you-are-developer/
+  state:
+    id: '100746876247412_992830980372811'
+    url: https://www.facebook.com/100683012920950/posts/992830980372811
+7fd529d389a0b5f51b7d05611f4a66b9:mastodon:
+  spec:
+    title: เป็นเดฟยังไง? ให้คนจำได้! [mikkipastel.com]
+    url: https://www.mikkipastel.com/how-to-remember-you-are-developer/
+  state:
+    id: '116742486608151385'
+    url: https://mastodon.in.th/@webring/116742486608151385
+7fd529d389a0b5f51b7d05611f4a66b9:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/how-to-remember-you-are-developer/
+  state:
+    shortLink: https://link.webring.in.th/3260
 7febf4d71accdb5f33e2aa7e631df913:bluesky:
   spec:
     title: บันทึกก่อนออกเทรด [mymoneytoolkit.app]
