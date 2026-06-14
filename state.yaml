@@ -27394,6 +27394,32 @@
     url: https://www.poolsawat.com/end-to-end-test-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%97%e0%b8%b3%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-cypress-%e0%b8%a2%e0%b8%b1%e0%b8%87/
   state:
     shortLink: https://link.webring.in.th/2687
+898cc30baaf56dec38945e2aee7d0d47:bluesky:
+  spec:
+    title: 'วงแหวนเว็บ: รวมเว็บของชาวเดฟอินดี้ [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/wongwaen-web-thai-webring-th/
+  state:
+    cid: bafyreidxpmiatk7t7kfr4lgd6vkgjh3nhuhwgk2y5o5a4wndavy2pk3xx4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3moaa3vsd562b
+898cc30baaf56dec38945e2aee7d0d47:facebook:
+  spec:
+    title: 'วงแหวนเว็บ: รวมเว็บของชาวเดฟอินดี้ [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/wongwaen-web-thai-webring-th/
+  state:
+    id: '100746876247412_993589596963616'
+    url: https://www.facebook.com/100683012920950/posts/993589596963616
+898cc30baaf56dec38945e2aee7d0d47:mastodon:
+  spec:
+    title: 'วงแหวนเว็บ: รวมเว็บของชาวเดฟอินดี้ [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/wongwaen-web-thai-webring-th/
+  state:
+    id: '116747238758969007'
+    url: https://mastodon.in.th/@webring/116747238758969007
+898cc30baaf56dec38945e2aee7d0d47:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/wongwaen-web-thai-webring-th/
+  state:
+    shortLink: https://link.webring.in.th/3261
 89c2677b4928fc6afe47f025ee7b6492:facebook:
   spec:
     title: Stress-less web server with Caddy [rayriffy.com]
