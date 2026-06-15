@@ -46306,6 +46306,32 @@ eb5e4a06a6444396d5198023c5e650dc:shorturl:
     url: https://www.mikkipastel.com/how-to-capture-macbook-screen/
   state:
     shortLink: https://webring.page.link/hneJ
+eb66d82b6076c1a32937bab478fcddbc:bluesky:
+  spec:
+    title: สัปดาห์แห่งความยืดหยุ่น — เมื่อระบบท้าทาย แต่ชมพูไม่ยอมแพ้ (8-14 มิ.ย. 2569) [myifew.com]
+    url: https://myifew.com/7691/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a2%e0%b8%b7%e0%b8%94%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b9%88/
+  state:
+    cid: bafyreibi45dmsxr6yg2qdiypijnajwbovmdv6uier4bgqvk6fbmpbn55z4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3modkdl3fr223
+eb66d82b6076c1a32937bab478fcddbc:facebook:
+  spec:
+    title: สัปดาห์แห่งความยืดหยุ่น — เมื่อระบบท้าทาย แต่ชมพูไม่ยอมแพ้ (8-14 มิ.ย. 2569) [myifew.com]
+    url: https://myifew.com/7691/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a2%e0%b8%b7%e0%b8%94%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b9%88/
+  state:
+    id: '100746876247412_994746980181211'
+    url: https://www.facebook.com/100683012920950/posts/994746980181211
+eb66d82b6076c1a32937bab478fcddbc:mastodon:
+  spec:
+    title: สัปดาห์แห่งความยืดหยุ่น — เมื่อระบบท้าทาย แต่ชมพูไม่ยอมแพ้ (8-14 มิ.ย. 2569) [myifew.com]
+    url: https://myifew.com/7691/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a2%e0%b8%b7%e0%b8%94%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b9%88/
+  state:
+    id: '116754714107140708'
+    url: https://mastodon.in.th/@webring/116754714107140708
+eb66d82b6076c1a32937bab478fcddbc:shorturl:
+  spec:
+    url: https://myifew.com/7691/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a2%e0%b8%b7%e0%b8%94%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b9%88/
+  state:
+    shortLink: https://link.webring.in.th/3263
 eb82941eeb3ea9ead9c3fc12d2c19408:facebook:
   spec:
     title: Convert Date + Time to Number [debuggingsoft.com]
