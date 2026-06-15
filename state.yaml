@@ -35601,6 +35601,32 @@ b165f831210fbe2d2fc78d93a5969c29:shorturl:
     url: https://taoisaman.com/2023/05/20/flutter-project-structure-with-clean-architechture/
   state:
     shortLink: https://webring.page.link/KjC6
+b1698a4d35567a6a083cd9d068ec19d4:bluesky:
+  spec:
+    title: สีเหลืองเยลโล่ว บ๊ายบาย Skooldio [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/goodbye-skooldio/
+  state:
+    cid: bafyreihrhzo6kjia75tdefxs6k4cun75n2dppwp3jgoeg2wbcbo7klotnq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mocvvfnxgr2x
+b1698a4d35567a6a083cd9d068ec19d4:facebook:
+  spec:
+    title: สีเหลืองเยลโล่ว บ๊ายบาย Skooldio [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/goodbye-skooldio/
+  state:
+    id: '100746876247412_994506333538609'
+    url: https://www.facebook.com/100683012920950/posts/994506333538609
+b1698a4d35567a6a083cd9d068ec19d4:mastodon:
+  spec:
+    title: สีเหลืองเยลโล่ว บ๊ายบาย Skooldio [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/goodbye-skooldio/
+  state:
+    id: '116753275890606273'
+    url: https://mastodon.in.th/@webring/116753275890606273
+b1698a4d35567a6a083cd9d068ec19d4:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/goodbye-skooldio/
+  state:
+    shortLink: https://link.webring.in.th/3262
 b181dc74b2ea52a9450c9b81b90441c3:facebook:
   spec:
     title: LLM serving latency benchmark [karnwong.me]
