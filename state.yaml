@@ -14002,6 +14002,32 @@
     url: https://www.mikkipastel.com/github-action-android-compose-battle/
   state:
     shortLink: https://link.webring.in.th/1806
+4958c4d2f674d0a081127175c4651949:bluesky:
+  spec:
+    title: จดๆจาก Microsoft Build //localhost:Bangkok by Global AI Bangkok [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/recap-microsoft-build-localhostbangkok2026-by-global-ai-bangkok/
+  state:
+    cid: bafyreifetbgs5xxv6rj32rqwvwt6fixkis5x4kdbqdau76vknexalms3jm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3modxziip5b2h
+4958c4d2f674d0a081127175c4651949:facebook:
+  spec:
+    title: จดๆจาก Microsoft Build //localhost:Bangkok by Global AI Bangkok [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/recap-microsoft-build-localhostbangkok2026-by-global-ai-bangkok/
+  state:
+    id: '100746876247412_994908203498422'
+    url: https://www.facebook.com/100683012920950/posts/994908203498422
+4958c4d2f674d0a081127175c4651949:mastodon:
+  spec:
+    title: จดๆจาก Microsoft Build //localhost:Bangkok by Global AI Bangkok [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/recap-microsoft-build-localhostbangkok2026-by-global-ai-bangkok/
+  state:
+    id: '116755677653605290'
+    url: https://mastodon.in.th/@webring/116755677653605290
+4958c4d2f674d0a081127175c4651949:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/06/recap-microsoft-build-localhostbangkok2026-by-global-ai-bangkok/
+  state:
+    shortLink: https://link.webring.in.th/3264
 4989c04c40dde57358ef07e2239c6bb6:bluesky:
   spec:
     title: 'Jenkins Error com.thoughtworks.xstream.mapper.CannotResolveClassException: hudson.security.ProjectMatrixAuthorizationStrategy [debuggingsoft.com]'
