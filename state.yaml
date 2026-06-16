@@ -29535,6 +29535,32 @@
     url: https://www.somkiat.cc/hello-react-agent-skills-from-vercel/
   state:
     shortLink: https://link.webring.in.th/2928
+93c867a52eeb54a171d2e9ad710ff6b1:bluesky:
+  spec:
+    title: 'Ponytail: ทำให้ AI เขียนโค้ดน้อยลงแต่ดีขึ้น [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/ponytail-lazy-ai-coding-th/
+  state:
+    cid: bafyreicerednxgmyvf5xgo54jwina453q3r2t3n5k36izwgwsraeq4qkke
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mofvhxjz432h
+93c867a52eeb54a171d2e9ad710ff6b1:facebook:
+  spec:
+    title: 'Ponytail: ทำให้ AI เขียนโค้ดน้อยลงแต่ดีขึ้น [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/ponytail-lazy-ai-coding-th/
+  state:
+    id: '100746876247412_995531750102734'
+    url: https://www.facebook.com/100683012920950/posts/995531750102734
+93c867a52eeb54a171d2e9ad710ff6b1:mastodon:
+  spec:
+    title: 'Ponytail: ทำให้ AI เขียนโค้ดน้อยลงแต่ดีขึ้น [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/ponytail-lazy-ai-coding-th/
+  state:
+    id: '116760001880069222'
+    url: https://mastodon.in.th/@webring/116760001880069222
+93c867a52eeb54a171d2e9ad710ff6b1:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/ponytail-lazy-ai-coding-th/
+  state:
+    shortLink: https://link.webring.in.th/3266
 93d3fb644f0138ac5b2d0c2c959d2c86:facebook:
   spec:
     title: Using Google Cloud Service Accounts to authenticate between your own services [dt.in.th]
