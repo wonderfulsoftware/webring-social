@@ -36359,6 +36359,32 @@ b64cd664815e1e0173d6c8ba59e3940b:shorturl:
     url: https://www.poolsawat.com/api-gateway-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b9%83/
   state:
     shortLink: https://link.webring.in.th/2620
+b6546afd6a7c585de9464055b644b881:bluesky:
+  spec:
+    title: Arc’teryx มีกี่รุ่น? คู่มืออ่านตระกูล Alpha, Beta, Gamma, Atom และ Cerium แบบเข้าใจง่าย [myifew.com]
+    url: https://myifew.com/7697/arcteryx-%e0%b8%a1%e0%b8%b5%e0%b8%81%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b9%e0%b9%88%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%95/
+  state:
+    cid: bafyreicp3xwwic7ac3zjzreyxusdj3dflpvq5qy6ptxohlyovhdzgshkci
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3moffnbdnhx23
+b6546afd6a7c585de9464055b644b881:facebook:
+  spec:
+    title: Arc’teryx มีกี่รุ่น? คู่มืออ่านตระกูล Alpha, Beta, Gamma, Atom และ Cerium แบบเข้าใจง่าย [myifew.com]
+    url: https://myifew.com/7697/arcteryx-%e0%b8%a1%e0%b8%b5%e0%b8%81%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b9%e0%b9%88%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%95/
+  state:
+    id: '100746876247412_995342496788326'
+    url: https://www.facebook.com/100683012920950/posts/995342496788326
+b6546afd6a7c585de9464055b644b881:mastodon:
+  spec:
+    title: Arc’teryx มีกี่รุ่น? คู่มืออ่านตระกูล Alpha, Beta, Gamma, Atom และ Cerium แบบเข้าใจง่าย [myifew.com]
+    url: https://myifew.com/7697/arcteryx-%e0%b8%a1%e0%b8%b5%e0%b8%81%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b9%e0%b9%88%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%95/
+  state:
+    id: '116758887183591618'
+    url: https://mastodon.in.th/@webring/116758887183591618
+b6546afd6a7c585de9464055b644b881:shorturl:
+  spec:
+    url: https://myifew.com/7697/arcteryx-%e0%b8%a1%e0%b8%b5%e0%b8%81%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b9%e0%b9%88%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%95/
+  state:
+    shortLink: https://link.webring.in.th/3265
 b67c68ab72b1009cf2e73735c84dba8a:facebook:
   spec:
     title: ทดลองใช้ AI generate ภาพ แบบ text-to-image จากเว็บไซต์ต่าง ๆ [mikkipastel.com]
