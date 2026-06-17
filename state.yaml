@@ -23601,6 +23601,32 @@
     url: https://bio.srakrn.me/hello-world/
   state:
     shortLink: https://link.webring.in.th/2406
+78198080a8ea974a953966c6c1e56315:bluesky:
+  spec:
+    title: '[CR] Starbucks Tarn Tanode Creamy Coffee with Coffee Jelly Frappuccino [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/06/cr-starbucks-tarn-tanode-creamy-coffee-with-coffee-jelly-frappuccino/
+  state:
+    cid: bafyreic5uycjishnmggjnrucj5zkthp2sfgauecrucqb73axtmir6xpyaa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mohv5gimm42c
+78198080a8ea974a953966c6c1e56315:facebook:
+  spec:
+    title: '[CR] Starbucks Tarn Tanode Creamy Coffee with Coffee Jelly Frappuccino [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/06/cr-starbucks-tarn-tanode-creamy-coffee-with-coffee-jelly-frappuccino/
+  state:
+    id: '100746876247412_996194083369834'
+    url: https://www.facebook.com/100683012920950/posts/996194083369834
+78198080a8ea974a953966c6c1e56315:mastodon:
+  spec:
+    title: '[CR] Starbucks Tarn Tanode Creamy Coffee with Coffee Jelly Frappuccino [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/06/cr-starbucks-tarn-tanode-creamy-coffee-with-coffee-jelly-frappuccino/
+  state:
+    id: '116764482353485430'
+    url: https://mastodon.in.th/@webring/116764482353485430
+78198080a8ea974a953966c6c1e56315:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/06/cr-starbucks-tarn-tanode-creamy-coffee-with-coffee-jelly-frappuccino/
+  state:
+    shortLink: https://link.webring.in.th/3267
 783bfaa545f36a7ccbd33d412ac9d28f:facebook:
   spec:
     title: '*.localhost subdomains [garden.narze.live]'
