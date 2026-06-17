@@ -1603,6 +1603,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/02/cr-starbucks-cranberry-walnut-bun/
   state:
     shortLink: https://link.webring.in.th/2430
+08680d51a0c8e8bfacfc340cb942434b:bluesky:
+  spec:
+    title: 'Bridging the Gap: Giving Your Text-Only AI "Eyes" with macOS Vision Framework and Swift [kusumotolab.com]'
+    url: https://kusumotolab.com/bridging-the-gap-giving-your-text-only-ai-eyes-with-macos-vision-framework-and-swift/
+  state:
+    cid: bafyreiehnlyttfvc6sdyot2agh2uznkuh72jugjh25uya2oi23h7tybxya
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3moidszkapt2h
+08680d51a0c8e8bfacfc340cb942434b:facebook:
+  spec:
+    title: 'Bridging the Gap: Giving Your Text-Only AI "Eyes" with macOS Vision Framework and Swift [kusumotolab.com]'
+    url: https://kusumotolab.com/bridging-the-gap-giving-your-text-only-ai-eyes-with-macos-vision-framework-and-swift/
+  state:
+    id: '100746876247412_996350583354184'
+    url: https://www.facebook.com/100683012920950/posts/996350583354184
+08680d51a0c8e8bfacfc340cb942434b:mastodon:
+  spec:
+    title: 'Bridging the Gap: Giving Your Text-Only AI "Eyes" with macOS Vision Framework and Swift [kusumotolab.com]'
+    url: https://kusumotolab.com/bridging-the-gap-giving-your-text-only-ai-eyes-with-macos-vision-framework-and-swift/
+  state:
+    id: '116765514795545543'
+    url: https://mastodon.in.th/@webring/116765514795545543
+08680d51a0c8e8bfacfc340cb942434b:shorturl:
+  spec:
+    url: https://kusumotolab.com/bridging-the-gap-giving-your-text-only-ai-eyes-with-macos-vision-framework-and-swift/
+  state:
+    shortLink: https://link.webring.in.th/3268
 087bd8d9107899963621b8cc5e38ebc1:facebook:
   spec:
     title: บทนำสู่ปัญหาการค้นหาบนพิสัย [neizod.dev]
