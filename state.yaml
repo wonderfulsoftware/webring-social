@@ -12919,6 +12919,32 @@
     url: https://www.mikkipastel.com/benq-rd280u-worlds-first-programming-monitor-series/
   state:
     shortLink: https://link.webring.in.th/2175
+4192c37b0b91837351aff06b50c29010:bluesky:
+  spec:
+    title: มาดู token ที่ใช้งานใน Claude Code กันด้วย claude-spend [somkiat.cc]
+    url: https://www.somkiat.cc/token-usage-with-claude-code/
+  state:
+    cid: bafyreicydhufuhwn7dj4ihslffavxmxatxf2w7p4zb53d5gswmewiex6e4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3moksq72vgn2y
+4192c37b0b91837351aff06b50c29010:facebook:
+  spec:
+    title: มาดู token ที่ใช้งานใน Claude Code กันด้วย claude-spend [somkiat.cc]
+    url: https://www.somkiat.cc/token-usage-with-claude-code/
+  state:
+    id: '100746876247412_997170723272170'
+    url: https://www.facebook.com/100683012920950/posts/997170723272170
+4192c37b0b91837351aff06b50c29010:mastodon:
+  spec:
+    title: มาดู token ที่ใช้งานใน Claude Code กันด้วย claude-spend [somkiat.cc]
+    url: https://www.somkiat.cc/token-usage-with-claude-code/
+  state:
+    id: '116771067919070929'
+    url: https://mastodon.in.th/@webring/116771067919070929
+4192c37b0b91837351aff06b50c29010:shorturl:
+  spec:
+    url: https://www.somkiat.cc/token-usage-with-claude-code/
+  state:
+    shortLink: https://link.webring.in.th/3271
 41a003d966aca7563ec513a1979eff53:bluesky:
   spec:
     title: '2024: year in review ปีแห่ง 1 day 1000 Situations [mikkipastel.com]'
