@@ -45630,6 +45630,32 @@ e5b46a4bdb304ecb8f17627370c26f94:shorturl:
     url: https://www.somkiat.cc/tip-reduce-token-with-fetch-data-from-web/
   state:
     shortLink: https://link.webring.in.th/3069
+e5e5422007ba8a0c657af418214af901:bluesky:
+  spec:
+    title: 'Nuxt Docker Build Error failed to solve: invalid file request .output …. [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/06/nuxt-docker-build-error-failed-to-solve-invalid-file-request-output/
+  state:
+    cid: bafyreigbsrqnob6u36srfymx7l4v45nwv4hjyejskniepqlss3nmzypw7a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3momwbkmfus23
+e5e5422007ba8a0c657af418214af901:facebook:
+  spec:
+    title: 'Nuxt Docker Build Error failed to solve: invalid file request .output …. [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/06/nuxt-docker-build-error-failed-to-solve-invalid-file-request-output/
+  state:
+    id: '100746876247412_997861289869780'
+    url: https://www.facebook.com/100683012920950/posts/997861289869780
+e5e5422007ba8a0c657af418214af901:mastodon:
+  spec:
+    title: 'Nuxt Docker Build Error failed to solve: invalid file request .output …. [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/06/nuxt-docker-build-error-failed-to-solve-invalid-file-request-output/
+  state:
+    id: '116775820662702009'
+    url: https://mastodon.in.th/@webring/116775820662702009
+e5e5422007ba8a0c657af418214af901:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/06/nuxt-docker-build-error-failed-to-solve-invalid-file-request-output/
+  state:
+    shortLink: https://link.webring.in.th/3272
 e600a6d6806cce4cbce4774cdd30283c:facebook:
   spec:
     title: Recap 2022 [blog.oatto.dev]
