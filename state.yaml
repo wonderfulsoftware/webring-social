@@ -24288,6 +24288,32 @@
     url: https://karnwong.me/posts/2023/11/some-problems-can-be-solved-with-workflows/
   state:
     shortLink: https://webring.page.link/Dj4a
+7a7ee9c4127b5a7aece2c496f05e455b:bluesky:
+  spec:
+    title: Spec-Driven Development ในยุค AI จะช่วยทีมทำงานได้เร็วขึ้น? [myifew.com]
+    url: https://myifew.com/7704/spec-driven-development-ai-thai/
+  state:
+    cid: bafyreiai26doltsahk3j2ja6rv2fpayc5xrlcs746gxfcciop4ler6ysqi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mopbomto2w2q
+7a7ee9c4127b5a7aece2c496f05e455b:facebook:
+  spec:
+    title: Spec-Driven Development ในยุค AI จะช่วยทีมทำงานได้เร็วขึ้น? [myifew.com]
+    url: https://myifew.com/7704/spec-driven-development-ai-thai/
+  state:
+    id: '100746876247412_998654263123816'
+    url: https://www.facebook.com/100683012920950/posts/998654263123816
+7a7ee9c4127b5a7aece2c496f05e455b:mastodon:
+  spec:
+    title: Spec-Driven Development ในยุค AI จะช่วยทีมทำงานได้เร็วขึ้น? [myifew.com]
+    url: https://myifew.com/7704/spec-driven-development-ai-thai/
+  state:
+    id: '116781127052886685'
+    url: https://mastodon.in.th/@webring/116781127052886685
+7a7ee9c4127b5a7aece2c496f05e455b:shorturl:
+  spec:
+    url: https://myifew.com/7704/spec-driven-development-ai-thai/
+  state:
+    shortLink: https://link.webring.in.th/3273
 7aac97736fe3b735eb106080806fd92b:facebook:
   spec:
     title: '[AZ-400] Design and implement a release strategy [debuggingsoft.com]'
