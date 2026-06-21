@@ -9935,6 +9935,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-spreadsheet-excel-tips/
   state:
     shortLink: https://link.webring.in.th/2353
+32faa63ea6afd3e121a652773bf218e0:bluesky:
+  spec:
+    title: คลังพรอมต์ช่วยวิเคราะห์หุ้น หยิบไปถาม AI ได้เลย [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/invest-prompt
+  state:
+    cid: bafyreieobjfui25ydtle2kcrdiay6nzdpwgbu6whcdbbzzwr73qweqvfy4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mosjhxhozc2y
+32faa63ea6afd3e121a652773bf218e0:facebook:
+  spec:
+    title: คลังพรอมต์ช่วยวิเคราะห์หุ้น หยิบไปถาม AI ได้เลย [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/invest-prompt
+  state:
+    id: '100746876247412_999778666344709'
+    url: https://www.facebook.com/100683012920950/posts/999778666344709
+32faa63ea6afd3e121a652773bf218e0:mastodon:
+  spec:
+    title: คลังพรอมต์ช่วยวิเคราะห์หุ้น หยิบไปถาม AI ได้เลย [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/invest-prompt
+  state:
+    id: '116788430827527347'
+    url: https://mastodon.in.th/@webring/116788430827527347
+32faa63ea6afd3e121a652773bf218e0:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/invest-prompt
+  state:
+    shortLink: https://link.webring.in.th/3276
 3305e349d06181d52d34c90ab47a4dea:bluesky:
   spec:
     title: ทดสอบโปรแกรมง่ายกว่าเดิมด้วย Testcontainers [pontakorn.dev]
