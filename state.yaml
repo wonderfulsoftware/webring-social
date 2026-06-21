@@ -23866,6 +23866,32 @@
     url: https://www.somkiat.cc/hello-java-26/
   state:
     shortLink: https://link.webring.in.th/3055
+789b2124cc198e982e5a505ed77519b0:bluesky:
+  spec:
+    title: OWASP Top 10:2025 ฉบับเข้าใจง่ายสำหรับมือใหม่ [xiengperm.dev]
+    url: https://xiengperm.dev/posts/owasp-top-10-2025-th/
+  state:
+    cid: bafyreidj3txoporeehygsxhggpedprxebaiqi775umvyepvhqtrpezwc5y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mosbyiluns2a
+789b2124cc198e982e5a505ed77519b0:facebook:
+  spec:
+    title: OWASP Top 10:2025 ฉบับเข้าใจง่ายสำหรับมือใหม่ [xiengperm.dev]
+    url: https://xiengperm.dev/posts/owasp-top-10-2025-th/
+  state:
+    id: '100746876247412_999685126354063'
+    url: https://www.facebook.com/100683012920950/posts/999685126354063
+789b2124cc198e982e5a505ed77519b0:mastodon:
+  spec:
+    title: OWASP Top 10:2025 ฉบับเข้าใจง่ายสำหรับมือใหม่ [xiengperm.dev]
+    url: https://xiengperm.dev/posts/owasp-top-10-2025-th/
+  state:
+    id: '116787904410331794'
+    url: https://mastodon.in.th/@webring/116787904410331794
+789b2124cc198e982e5a505ed77519b0:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/owasp-top-10-2025-th/
+  state:
+    shortLink: https://link.webring.in.th/3275
 78a6451a990a3fc4180c11a06c9e64af:bluesky:
   spec:
     title: วันที่ระบบแข็งแรงขึ้น และชมพูก็เติบโตขึ้นด้วย 🌸 [myifew.com]
