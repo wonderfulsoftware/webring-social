@@ -30506,6 +30506,32 @@
     url: https://www.somkiat.cc/hello-python-3-14/
   state:
     shortLink: https://link.webring.in.th/2817
+97d9cbe2ef36768e973aa161f7166bc5:bluesky:
+  spec:
+    title: บันทึกการอ่านบทความเรื่องการ scale database จาก Scaling Rails at Aura Frames [somkiat.cc]
+    url: https://www.somkiat.cc/note-scale-database-from-aura-frames/
+  state:
+    cid: bafyreia6u43k7axl4gtj4mblthgu7eca4ag33td7eki7gk77ivtyxs3iey
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mortvs6t322u
+97d9cbe2ef36768e973aa161f7166bc5:facebook:
+  spec:
+    title: บันทึกการอ่านบทความเรื่องการ scale database จาก Scaling Rails at Aura Frames [somkiat.cc]
+    url: https://www.somkiat.cc/note-scale-database-from-aura-frames/
+  state:
+    id: '100746876247412_999528476369728'
+    url: https://www.facebook.com/100683012920950/posts/999528476369728
+97d9cbe2ef36768e973aa161f7166bc5:mastodon:
+  spec:
+    title: บันทึกการอ่านบทความเรื่องการ scale database จาก Scaling Rails at Aura Frames [somkiat.cc]
+    url: https://www.somkiat.cc/note-scale-database-from-aura-frames/
+  state:
+    id: '116786913120091862'
+    url: https://mastodon.in.th/@webring/116786913120091862
+97d9cbe2ef36768e973aa161f7166bc5:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-scale-database-from-aura-frames/
+  state:
+    shortLink: https://link.webring.in.th/3274
 9808520b629ef67254be3fb2505260f8:bluesky:
   spec:
     title: Send message to Telegram chat by Telegram bot [blog.oatto.dev]
