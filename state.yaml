@@ -46229,6 +46229,32 @@ e846890df3a0cf0ff4c28f0b0ff75850:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/08/jenkins-agents-suddenly-error-msb3554-cannot-write-to-the-output-fileerror-msb3554-cannot-write-to-the-output-file/
   state:
     shortLink: https://link.webring.in.th/2722
+e84b27b661647cc77fd57a3add37f1a4:bluesky:
+  spec:
+    title: Figma Weave คืออะไร? เครื่องมือ AI ต่อโหนดสร้างวิดีโอ [xiengperm.dev]
+    url: https://xiengperm.dev/posts/figma-weave-ai-media-th/
+  state:
+    cid: bafyreihxvxllkj6ftjfl7f3vgnpo3fgmsxtnkbqf6onzmeyvci5utljgle
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpgzctylwh26
+e84b27b661647cc77fd57a3add37f1a4:facebook:
+  spec:
+    title: Figma Weave คืออะไร? เครื่องมือ AI ต่อโหนดสร้างวิดีโอ [xiengperm.dev]
+    url: https://xiengperm.dev/posts/figma-weave-ai-media-th/
+  state:
+    id: '100746876247412_1006769868978922'
+    url: https://www.facebook.com/100683012920950/posts/1006769868978922
+e84b27b661647cc77fd57a3add37f1a4:mastodon:
+  spec:
+    title: Figma Weave คืออะไร? เครื่องมือ AI ต่อโหนดสร้างวิดีโอ [xiengperm.dev]
+    url: https://xiengperm.dev/posts/figma-weave-ai-media-th/
+  state:
+    id: '116834581571863892'
+    url: https://mastodon.in.th/@webring/116834581571863892
+e84b27b661647cc77fd57a3add37f1a4:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/figma-weave-ai-media-th/
+  state:
+    shortLink: https://link.webring.in.th/3279
 e87f7ac5a02d4bbed04e8a59181a3919:bluesky:
   spec:
     title: มาสักทีกับ Grafana K6 version 1.0 [somkiat.cc]
