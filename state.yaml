@@ -44725,6 +44725,32 @@ e10a6f3032c8d6c47865b0d1f8b14d73:shorturl:
     url: https://mymoneytoolkit.app/posts/gold-return
   state:
     shortLink: https://link.webring.in.th/2949
+e123e4c90a06fcbdec6a3fe71d4f2d2d:bluesky:
+  spec:
+    title: ทำความรู้จัก Latent Space และทำบอทเทรดสุดง่าย [mikkipastel.com]
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-3-bangkok/
+  state:
+    cid: bafyreias43suda3gwjc35jt4o7va2ps33hi4kzvhb5v5ighm3eyf4pebjy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpgk6vliu522
+e123e4c90a06fcbdec6a3fe71d4f2d2d:facebook:
+  spec:
+    title: ทำความรู้จัก Latent Space และทำบอทเทรดสุดง่าย [mikkipastel.com]
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-3-bangkok/
+  state:
+    id: '100746876247412_1006571518998757'
+    url: https://www.facebook.com/100683012920950/posts/1006571518998757
+e123e4c90a06fcbdec6a3fe71d4f2d2d:mastodon:
+  spec:
+    title: ทำความรู้จัก Latent Space และทำบอทเทรดสุดง่าย [mikkipastel.com]
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-3-bangkok/
+  state:
+    id: '116833517246080419'
+    url: https://mastodon.in.th/@webring/116833517246080419
+e123e4c90a06fcbdec6a3fe71d4f2d2d:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-3-bangkok/
+  state:
+    shortLink: https://link.webring.in.th/3278
 e150e4a5487779c75ec30d4996e3058d:facebook:
   spec:
     title: Bun คืออะไร? [thiti.dev]
