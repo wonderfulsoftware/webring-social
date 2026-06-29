@@ -11337,6 +11337,32 @@
     url: https://myifew.com/7395/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%9e%e0%b8%a4%e0%b8%ab%e0%b8%b1%e0%b8%aa%e0%b8%9a%e0%b8%94%e0%b8%b5%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%84%e0%b8%a5%e0%b9%88%e0%b8%a5/
   state:
     shortLink: https://link.webring.in.th/3054
+3ab82a5e0a5cea3d97771e72488592b3:bluesky:
+  spec:
+    title: เมื่อต้องเจอกับคนที่เป็น Narcissistic Personality Disorder (NPD) [jetsukda.dev]
+    url: https://jetsukda.dev/posts/dealing-with-narcissistic-personality-disorder-npd/
+  state:
+    cid: bafyreibhbrhyberhvrdrgv5le2dxwplif67ql3opaprxic4oabzlibnxgi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpfxfxarl227
+3ab82a5e0a5cea3d97771e72488592b3:facebook:
+  spec:
+    title: เมื่อต้องเจอกับคนที่เป็น Narcissistic Personality Disorder (NPD) [jetsukda.dev]
+    url: https://jetsukda.dev/posts/dealing-with-narcissistic-personality-disorder-npd/
+  state:
+    id: '100746876247412_1006361049019804'
+    url: https://www.facebook.com/100683012920950/posts/1006361049019804
+3ab82a5e0a5cea3d97771e72488592b3:mastodon:
+  spec:
+    title: เมื่อต้องเจอกับคนที่เป็น Narcissistic Personality Disorder (NPD) [jetsukda.dev]
+    url: https://jetsukda.dev/posts/dealing-with-narcissistic-personality-disorder-npd/
+  state:
+    id: '116832195872371414'
+    url: https://mastodon.in.th/@webring/116832195872371414
+3ab82a5e0a5cea3d97771e72488592b3:shorturl:
+  spec:
+    url: https://jetsukda.dev/posts/dealing-with-narcissistic-personality-disorder-npd/
+  state:
+    shortLink: https://link.webring.in.th/3277
 3b0184741116daafd17265ad598f6814:facebook:
   spec:
     title: อย่าเพิ่งทำ ... ถ้ายังไม่ได้วิเคราะห์ 3C Analysis [mikkipastel.com]
