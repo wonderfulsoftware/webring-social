@@ -50140,6 +50140,32 @@ fae418fdcfbeef1e6da2b2679f6b50a1:shorturl:
     url: https://myifew.com/7486/5-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%97%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b9%80%e0%b8%8a%e0%b8%b4%e0%b8%87%e0%b8%98%e0%b8%a3/
   state:
     shortLink: https://link.webring.in.th/3104
+faf20fdc74f479391bad051e76a2a09b:bluesky:
+  spec:
+    title: วางแผนภาษีล่วงหน้า 20 ปี รู้ตั้งแต่ปีนี้เลยว่าปีหน้าจะซื้ออะไรเพิ่ม [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-plan-advance
+  state:
+    cid: bafyreih5gmbzbwnuwef7jtks7t46nvsfgpusrt2f4mble5oi2uhfv4ovyy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpig2hcdco26
+faf20fdc74f479391bad051e76a2a09b:facebook:
+  spec:
+    title: วางแผนภาษีล่วงหน้า 20 ปี รู้ตั้งแต่ปีนี้เลยว่าปีหน้าจะซื้ออะไรเพิ่ม [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-plan-advance
+  state:
+    id: '100746876247412_1007223245600251'
+    url: https://www.facebook.com/100683012920950/posts/1007223245600251
+faf20fdc74f479391bad051e76a2a09b:mastodon:
+  spec:
+    title: วางแผนภาษีล่วงหน้า 20 ปี รู้ตั้งแต่ปีนี้เลยว่าปีหน้าจะซื้ออะไรเพิ่ม [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/tax-plan-advance
+  state:
+    id: '116837729691646074'
+    url: https://mastodon.in.th/@webring/116837729691646074
+faf20fdc74f479391bad051e76a2a09b:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/tax-plan-advance
+  state:
+    shortLink: https://link.webring.in.th/3280
 fb195ce46fb3fa2e8954f2f1b9d0241d:facebook:
   spec:
     title: มาดู feature ที่น่าสนใจใน Java 21 GA ที่เพิ่งปล่อยออกมา [somkiat.cc]
