@@ -46710,6 +46710,32 @@ eb090d348a1401b932c60cd629469cbe:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/09/openssh-set-chrootdirectory-for-specific-user-on-windows/
   state:
     shortLink: https://webring.page.link/Yxv3
+eb2699d8e728c838460d625b3e5d0c79:bluesky:
+  spec:
+    title: สัปดาห์แห่งการค้นพบสิ่งใหม่ กับจังหวะทำงานที่ลงตัวขึ้นเรื่อยๆ (22-28 มิ.ย. 2569) [myifew.com]
+    url: https://myifew.com/7742/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b9%89%e0%b8%99%e0%b8%9e%e0%b8%9a%e0%b8%aa%e0%b8%b4%e0%b9%88/
+  state:
+    cid: bafyreid4j622fl2qergpv5zsmp2qxxtorptxxtqd4wln6mo7zeskzsg2gi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpji46eyn42x
+eb2699d8e728c838460d625b3e5d0c79:facebook:
+  spec:
+    title: สัปดาห์แห่งการค้นพบสิ่งใหม่ กับจังหวะทำงานที่ลงตัวขึ้นเรื่อยๆ (22-28 มิ.ย. 2569) [myifew.com]
+    url: https://myifew.com/7742/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b9%89%e0%b8%99%e0%b8%9e%e0%b8%9a%e0%b8%aa%e0%b8%b4%e0%b9%88/
+  state:
+    id: '100746876247412_1007621878893721'
+    url: https://www.facebook.com/100683012920950/posts/1007621878893721
+eb2699d8e728c838460d625b3e5d0c79:mastodon:
+  spec:
+    title: สัปดาห์แห่งการค้นพบสิ่งใหม่ กับจังหวะทำงานที่ลงตัวขึ้นเรื่อยๆ (22-28 มิ.ย. 2569) [myifew.com]
+    url: https://myifew.com/7742/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b9%89%e0%b8%99%e0%b8%9e%e0%b8%9a%e0%b8%aa%e0%b8%b4%e0%b9%88/
+  state:
+    id: '116840125512902203'
+    url: https://mastodon.in.th/@webring/116840125512902203
+eb2699d8e728c838460d625b3e5d0c79:shorturl:
+  spec:
+    url: https://myifew.com/7742/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b9%89%e0%b8%99%e0%b8%9e%e0%b8%9a%e0%b8%aa%e0%b8%b4%e0%b9%88/
+  state:
+    shortLink: https://link.webring.in.th/3283
 eb4f6149a90a02c41b779305b02b1476:facebook:
   spec:
     title: 'Joker: Folie à Deux (2024) [neizod.dev]'
