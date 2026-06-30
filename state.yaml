@@ -11150,6 +11150,32 @@
     url: https://www.mikkipastel.com/3-step-to-add-jetpack-compose-to-your-android-project/
   state:
     shortLink: https://link.webring.in.th/2952
+39820e93d098864cfdd42d1a6c9a8c7a:bluesky:
+  spec:
+    title: Encoding / Embedding เหมือน หรือต่างกันยังไง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/encoding-and-embedding/
+  state:
+    cid: bafyreictafxrjuqwspuyqlqhe33e4rflzgancnmljbnpbqibqofudoztbi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpiw6mgnrv26
+39820e93d098864cfdd42d1a6c9a8c7a:facebook:
+  spec:
+    title: Encoding / Embedding เหมือน หรือต่างกันยังไง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/encoding-and-embedding/
+  state:
+    id: '100746876247412_1007395808916328'
+    url: https://www.facebook.com/100683012920950/posts/1007395808916328
+39820e93d098864cfdd42d1a6c9a8c7a:mastodon:
+  spec:
+    title: Encoding / Embedding เหมือน หรือต่างกันยังไง [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/06/encoding-and-embedding/
+  state:
+    id: '116838864792625075'
+    url: https://mastodon.in.th/@webring/116838864792625075
+39820e93d098864cfdd42d1a6c9a8c7a:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/06/encoding-and-embedding/
+  state:
+    shortLink: https://link.webring.in.th/3281
 39978aac8b6f43e66e67c4630e2e8cc7:bluesky:
   spec:
     title: ลองใช้ Locale Emulator สำหรับ App เก่าๆที่ต้องการ Locale เป็นพิเศษ [debuggingsoft.com]
