@@ -17765,6 +17765,32 @@
     url: https://kajame.xyz/blog/redis-testing
   state:
     shortLink: https://webring.page.link/U1Ty
+5bd610451f7b71d8c5bb4ee2272aa844:bluesky:
+  spec:
+    title: มาลอง Visualize code ของระบบงานด้วย codebase-memory-mcp [somkiat.cc]
+    url: https://www.somkiat.cc/visualize-code-with-codebase-memory-mcp/
+  state:
+    cid: bafyreidfisyzlm2k5bcchcwjfdksqbekhbl6xrlynat3iqkl3ssftukgsy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpj67yc5su26
+5bd610451f7b71d8c5bb4ee2272aa844:facebook:
+  spec:
+    title: มาลอง Visualize code ของระบบงานด้วย codebase-memory-mcp [somkiat.cc]
+    url: https://www.somkiat.cc/visualize-code-with-codebase-memory-mcp/
+  state:
+    id: '100746876247412_1007495422239700'
+    url: https://www.facebook.com/100683012920950/posts/1007495422239700
+5bd610451f7b71d8c5bb4ee2272aa844:mastodon:
+  spec:
+    title: มาลอง Visualize code ของระบบงานด้วย codebase-memory-mcp [somkiat.cc]
+    url: https://www.somkiat.cc/visualize-code-with-codebase-memory-mcp/
+  state:
+    id: '116839430774074846'
+    url: https://mastodon.in.th/@webring/116839430774074846
+5bd610451f7b71d8c5bb4ee2272aa844:shorturl:
+  spec:
+    url: https://www.somkiat.cc/visualize-code-with-codebase-memory-mcp/
+  state:
+    shortLink: https://link.webring.in.th/3282
 5be94a0823fcda3a6cb799e8edd58e1f:facebook:
   spec:
     title: ChatGPT app บน iOS มาแล้ว (US only) [somkiat.cc]
