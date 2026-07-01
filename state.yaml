@@ -15648,6 +15648,32 @@
     url: https://www.mikkipastel.com/shanghai-first-time-2026/
   state:
     shortLink: https://link.webring.in.th/3238
+50ef47b719cba6d3fbc0acbdb43770dd:bluesky:
+  spec:
+    title: Migrate Hermes API Keys to Bitwarden Secrets Manager [jitrak.dev]
+    url: https://jitrak.dev/posts/post-44-migrate-hermes-api-keys-to-bitwarden-secrets-manager/
+  state:
+    cid: bafyreiak7ivylenr2hrs7deqursvganfxobthvhikyh4atukkqrhs4ihea
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mplhi5bh2m26
+50ef47b719cba6d3fbc0acbdb43770dd:facebook:
+  spec:
+    title: Migrate Hermes API Keys to Bitwarden Secrets Manager [jitrak.dev]
+    url: https://jitrak.dev/posts/post-44-migrate-hermes-api-keys-to-bitwarden-secrets-manager/
+  state:
+    id: '100746876247412_1008294382159804'
+    url: https://www.facebook.com/100683012920950/posts/1008294382159804
+50ef47b719cba6d3fbc0acbdb43770dd:mastodon:
+  spec:
+    title: Migrate Hermes API Keys to Bitwarden Secrets Manager [jitrak.dev]
+    url: https://jitrak.dev/posts/post-44-migrate-hermes-api-keys-to-bitwarden-secrets-manager/
+  state:
+    id: '116844585543844561'
+    url: https://mastodon.in.th/@webring/116844585543844561
+50ef47b719cba6d3fbc0acbdb43770dd:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-44-migrate-hermes-api-keys-to-bitwarden-secrets-manager/
+  state:
+    shortLink: https://link.webring.in.th/3285
 50ef5e9682b06aea4c3068c6bd0eb796:facebook:
   spec:
     title: docker / podman cp note [debuggingsoft.com]
