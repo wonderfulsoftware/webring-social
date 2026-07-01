@@ -46018,6 +46018,32 @@ e708470a2975e5b696cd986ace5b9348:shorturl:
     url: https://www.somkiat.cc/note-line-conference-thailand-2023/
   state:
     shortLink: https://webring.page.link/hwtu
+e71a24aee38ac49532f8042afb69dd1b:bluesky:
+  spec:
+    title: Using Grist API from a custom widget [dt.in.th]
+    url: https://dt.in.th/GristAccessToken
+  state:
+    cid: bafyreief4hhw4kw3iju5o64zkptedqt6escctuio77dcrypxp7vtxn7b6q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpkxdpshnw2b
+e71a24aee38ac49532f8042afb69dd1b:facebook:
+  spec:
+    title: Using Grist API from a custom widget [dt.in.th]
+    url: https://dt.in.th/GristAccessToken
+  state:
+    id: '100746876247412_1008119385510637'
+    url: https://www.facebook.com/100683012920950/posts/1008119385510637
+e71a24aee38ac49532f8042afb69dd1b:mastodon:
+  spec:
+    title: Using Grist API from a custom widget [dt.in.th]
+    url: https://dt.in.th/GristAccessToken
+  state:
+    id: '116843449602969346'
+    url: https://mastodon.in.th/@webring/116843449602969346
+e71a24aee38ac49532f8042afb69dd1b:shorturl:
+  spec:
+    url: https://dt.in.th/GristAccessToken
+  state:
+    shortLink: https://link.webring.in.th/3284
 e721e8f2e647a78abaac08443f4160b6:bluesky:
   spec:
     title: บันทึกวันที่ 8 มีนาคม 2026 — วันแห่งความภาคภูมิใจ [myifew.com]
