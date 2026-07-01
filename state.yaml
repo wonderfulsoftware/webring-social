@@ -23018,6 +23018,32 @@
     url: https://nutchanon.org/blog/in-html
   state:
     shortLink: https://link.webring.in.th/3227
+74ce53a6eef08cf167b94b0757152656:bluesky:
+  spec:
+    title: 'ทากกัดไม่กลัว: 7 เทคนิคป้องกันทากสำหรับนักเดินป่าหน้าฝน [myifew.com]'
+    url: https://myifew.com/7744/%e0%b8%97%e0%b8%b2%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%94%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%a7-7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%9b%e0%b9%89/
+  state:
+    cid: bafyreibfodwdjtdiutu3znuzhmt5zk5ejqr5vk77ahkpscb2stm2irys5i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mplpllyypy2o
+74ce53a6eef08cf167b94b0757152656:facebook:
+  spec:
+    title: 'ทากกัดไม่กลัว: 7 เทคนิคป้องกันทากสำหรับนักเดินป่าหน้าฝน [myifew.com]'
+    url: https://myifew.com/7744/%e0%b8%97%e0%b8%b2%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%94%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%a7-7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%9b%e0%b9%89/
+  state:
+    id: '100746876247412_1008396025482973'
+    url: https://www.facebook.com/100683012920950/posts/1008396025482973
+74ce53a6eef08cf167b94b0757152656:mastodon:
+  spec:
+    title: 'ทากกัดไม่กลัว: 7 เทคนิคป้องกันทากสำหรับนักเดินป่าหน้าฝน [myifew.com]'
+    url: https://myifew.com/7744/%e0%b8%97%e0%b8%b2%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%94%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%a7-7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%9b%e0%b9%89/
+  state:
+    id: '116845155356567840'
+    url: https://mastodon.in.th/@webring/116845155356567840
+74ce53a6eef08cf167b94b0757152656:shorturl:
+  spec:
+    url: https://myifew.com/7744/%e0%b8%97%e0%b8%b2%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%94%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%a7-7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%9b%e0%b9%89/
+  state:
+    shortLink: https://link.webring.in.th/3286
 74d136abbf7f75189c15e3b564dde335:bluesky:
   spec:
     title: ทำความเข้าใจ Activity Lifecycle ง่ายนิดเดียว! [mikkipastel.com]
