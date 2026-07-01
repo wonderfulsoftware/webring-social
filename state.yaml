@@ -35439,6 +35439,32 @@ ae6e0ffb7868f905fd6ea656d70de347:shorturl:
     url: https://myifew.com/6989/%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%e0%b8%aa%e0%b8%9a%e0%b8%b2%e0%b8%a2%e0%b9%86-%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%a2/
   state:
     shortLink: https://link.webring.in.th/2986
+ae8c7b6f37450fdba09b1b19cd4b982b:bluesky:
+  spec:
+    title: Update Plan July 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-july-2026
+  state:
+    cid: bafyreicihhzj2yj4v33z7bfflpqhlcdqqwujevxrjfzmid2d5tss2pmvom
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mplyzfe6uo2l
+ae8c7b6f37450fdba09b1b19cd4b982b:facebook:
+  spec:
+    title: Update Plan July 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-july-2026
+  state:
+    id: '100746876247412_1008514308804478'
+    url: https://www.facebook.com/100683012920950/posts/1008514308804478
+ae8c7b6f37450fdba09b1b19cd4b982b:mastodon:
+  spec:
+    title: Update Plan July 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-july-2026
+  state:
+    id: '116845819498758372'
+    url: https://mastodon.in.th/@webring/116845819498758372
+ae8c7b6f37450fdba09b1b19cd4b982b:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/update-plan-july-2026
+  state:
+    shortLink: https://link.webring.in.th/3287
 aeabb3bc97ad47ca1c19a29b3f6200e4:facebook:
   spec:
     title: '[DOTNET] Container cannot start on Podman 2.0.X, Failed to create CoreCLR, HRESULT: 0x80070008 [debuggingsoft.com]'
