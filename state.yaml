@@ -35844,6 +35844,32 @@ b0bab9c6fb19f66e158e3667ac1fefa2:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/06/cr-starbucks-green-tea-red-bean-cake/
   state:
     shortLink: https://webring.page.link/7pUY
+b0e9a94ae3c4204b8af9decb7aa0c8b0:bluesky:
+  spec:
+    title: Change Risk Anti-Patterns (CRAP) คือ อะไร [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/change-risk-anti-patterns-crap/
+  state:
+    cid: bafyreihwng5kwigtbgdu2nh7ovmnsxl3mab2gyfydp3rvuvvronnc4343a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpng22xnjk2s
+b0e9a94ae3c4204b8af9decb7aa0c8b0:facebook:
+  spec:
+    title: Change Risk Anti-Patterns (CRAP) คือ อะไร [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/change-risk-anti-patterns-crap/
+  state:
+    id: '100746876247412_1008941235428452'
+    url: https://www.facebook.com/100683012920950/posts/1008941235428452
+b0e9a94ae3c4204b8af9decb7aa0c8b0:mastodon:
+  spec:
+    title: Change Risk Anti-Patterns (CRAP) คือ อะไร [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/change-risk-anti-patterns-crap/
+  state:
+    id: '116848987859514335'
+    url: https://mastodon.in.th/@webring/116848987859514335
+b0e9a94ae3c4204b8af9decb7aa0c8b0:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/07/change-risk-anti-patterns-crap/
+  state:
+    shortLink: https://link.webring.in.th/3288
 b0f43a4ae115c339c24c67b2f1467d3e:bluesky:
   spec:
     title: How to fixed icon (lxqt) are missing after upgrade lubuntu [debuggingsoft.com]
