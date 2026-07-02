@@ -20639,6 +20639,32 @@
     url: https://kusumotolab.com/recap-domain-driven-design-from-aws-thailand/
   state:
     shortLink: https://webring.page.link/YFeA
+68b2eb112c3ff74bc3d767cbb25bf827:bluesky:
+  spec:
+    title: 'แนะนำ Course 5-Day AI Agents: Intensive Vibe Coding Course With Google [somkiat.cc]'
+    url: https://www.somkiat.cc/course-5-day-ai-agents-intensive-vibe-coding-course-with-google/
+  state:
+    cid: bafyreidy25sbpi3e7wim6bwgnzrno7u3fgs6cxvkkdmbv4ccizma2qvd6m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpnwhdthqt2w
+68b2eb112c3ff74bc3d767cbb25bf827:facebook:
+  spec:
+    title: 'แนะนำ Course 5-Day AI Agents: Intensive Vibe Coding Course With Google [somkiat.cc]'
+    url: https://www.somkiat.cc/course-5-day-ai-agents-intensive-vibe-coding-course-with-google/
+  state:
+    id: '100746876247412_1009113365411239'
+    url: https://www.facebook.com/100683012920950/posts/1009113365411239
+68b2eb112c3ff74bc3d767cbb25bf827:mastodon:
+  spec:
+    title: 'แนะนำ Course 5-Day AI Agents: Intensive Vibe Coding Course With Google [somkiat.cc]'
+    url: https://www.somkiat.cc/course-5-day-ai-agents-intensive-vibe-coding-course-with-google/
+  state:
+    id: '116850142779222339'
+    url: https://mastodon.in.th/@webring/116850142779222339
+68b2eb112c3ff74bc3d767cbb25bf827:shorturl:
+  spec:
+    url: https://www.somkiat.cc/course-5-day-ai-agents-intensive-vibe-coding-course-with-google/
+  state:
+    shortLink: https://link.webring.in.th/3289
 68c17325e31338241fb2bbf5257234ff:bluesky:
   spec:
     title: Lightweight Docker image for cURL [garden.narze.live]
