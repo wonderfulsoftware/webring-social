@@ -30169,6 +30169,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/02/try-microsoft-applied-skills-credentials-assessment/
   state:
     shortLink: https://link.webring.in.th/1753
+949a35a66d04d9a939cbccae730d6323:bluesky:
+  spec:
+    title: 'Loop Engineering: 3 ลูปที่ทำร่วมกับ AI Agent เพื่อสร้าง Product ได้จริง [myifew.com]'
+    url: https://myifew.com/7748/loop-engineering-3-product-development-loops/
+  state:
+    cid: bafyreid3yls6bp3dc5xuembops7c3n6bzdpore5scszunzgibohff3b7km
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpo6263gwv26
+949a35a66d04d9a939cbccae730d6323:facebook:
+  spec:
+    title: 'Loop Engineering: 3 ลูปที่ทำร่วมกับ AI Agent เพื่อสร้าง Product ได้จริง [myifew.com]'
+    url: https://myifew.com/7748/loop-engineering-3-product-development-loops/
+  state:
+    id: '100746876247412_1009207785401797'
+    url: https://www.facebook.com/100683012920950/posts/1009207785401797
+949a35a66d04d9a939cbccae730d6323:mastodon:
+  spec:
+    title: 'Loop Engineering: 3 ลูปที่ทำร่วมกับ AI Agent เพื่อสร้าง Product ได้จริง [myifew.com]'
+    url: https://myifew.com/7748/loop-engineering-3-product-development-loops/
+  state:
+    id: '116850676538762671'
+    url: https://mastodon.in.th/@webring/116850676538762671
+949a35a66d04d9a939cbccae730d6323:shorturl:
+  spec:
+    url: https://myifew.com/7748/loop-engineering-3-product-development-loops/
+  state:
+    shortLink: https://link.webring.in.th/3290
 94a270ac8c07fae1199dffa42c069ddd:facebook:
   spec:
     title: Install Samsung notes on Windows 10/11 [debuggingsoft.com]
