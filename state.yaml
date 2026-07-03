@@ -18144,6 +18144,32 @@
     url: https://www.somkiat.cc/fallacies-of-distributed-computing-the-network-is-reliable/
   state:
     shortLink: https://link.webring.in.th/2333
+5d39f227285cd3e82730e2cad0cd92a9:bluesky:
+  spec:
+    title: Common/Helper for Grouping/Sort on UTable (Nuxt UI) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/common-helper-for-grouping-sort-on-utable-nuxt-ui/
+  state:
+    cid: bafyreig3v5ic5pdmgblnamkhf5b73bom7yzb5klpsda55j6tku2wxjwwxm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpqguwmes72y
+5d39f227285cd3e82730e2cad0cd92a9:facebook:
+  spec:
+    title: Common/Helper for Grouping/Sort on UTable (Nuxt UI) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/common-helper-for-grouping-sort-on-utable-nuxt-ui/
+  state:
+    id: '100746876247412_1010023671986875'
+    url: https://www.facebook.com/100683012920950/posts/1010023671986875
+5d39f227285cd3e82730e2cad0cd92a9:mastodon:
+  spec:
+    title: Common/Helper for Grouping/Sort on UTable (Nuxt UI) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/common-helper-for-grouping-sort-on-utable-nuxt-ui/
+  state:
+    id: '116855801718313954'
+    url: https://mastodon.in.th/@webring/116855801718313954
+5d39f227285cd3e82730e2cad0cd92a9:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/07/common-helper-for-grouping-sort-on-utable-nuxt-ui/
+  state:
+    shortLink: https://link.webring.in.th/3292
 5d61063df010c9c3d5ceb8a9f670fc11:bluesky:
   spec:
     title: '[CR] Sho Ryu Ramen เซ็นจูรี่ เดอะมูฟวี่พลาซ่า [debuggingsoft.com]'
