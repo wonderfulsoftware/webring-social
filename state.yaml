@@ -39867,6 +39867,32 @@ c6a8ae664eba1a51749366e09cff6a06:shorturl:
     url: https://www.somkiat.cc/hello-yarp-yet-another-reverse-proxy/
   state:
     shortLink: https://link.webring.in.th/1855
+c6af39089ce9321719e52961688b5750:bluesky:
+  spec:
+    title: สิ่งที่น่าสนใจจาก The 2026 AI Accountability Report ของ GitLab [somkiat.cc]
+    url: https://www.somkiat.cc/the-2026-ai-accountability-report-from-gitlab/
+  state:
+    cid: bafyreibrler4xf32scw42d66aigw4pfbvq33deagx3ugrbno6xpt3nel44
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mppvxsc5lk2c
+c6af39089ce9321719e52961688b5750:facebook:
+  spec:
+    title: สิ่งที่น่าสนใจจาก The 2026 AI Accountability Report ของ GitLab [somkiat.cc]
+    url: https://www.somkiat.cc/the-2026-ai-accountability-report-from-gitlab/
+  state:
+    id: '100746876247412_1009834855339090'
+    url: https://www.facebook.com/100683012920950/posts/1009834855339090
+c6af39089ce9321719e52961688b5750:mastodon:
+  spec:
+    title: สิ่งที่น่าสนใจจาก The 2026 AI Accountability Report ของ GitLab [somkiat.cc]
+    url: https://www.somkiat.cc/the-2026-ai-accountability-report-from-gitlab/
+  state:
+    id: '116854612118536764'
+    url: https://mastodon.in.th/@webring/116854612118536764
+c6af39089ce9321719e52961688b5750:shorturl:
+  spec:
+    url: https://www.somkiat.cc/the-2026-ai-accountability-report-from-gitlab/
+  state:
+    shortLink: https://link.webring.in.th/3291
 c6b5bd63e9b3c10a0fbe9e9bcc99eb88:bluesky:
   spec:
     title: ทำความรู้จัก PostgreSQL คืออะไร และแตกต่างจาก MySQL อย่างไร [poolsawat.com]
