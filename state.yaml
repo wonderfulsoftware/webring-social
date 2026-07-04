@@ -35138,6 +35138,32 @@ ad482bfb007fd80fd05fd8a928e6882b:shorturl:
     url: https://boychawin.com/2025/01/24/tailwind-css-v4-0-new-features.html
   state:
     shortLink: https://link.webring.in.th/2359
+ad699a91a1c5fab5d0382258727b2375:bluesky:
+  spec:
+    title: 'TIL: The Analytics Development Lifecycle (ADLC) [jetsukda.dev]'
+    url: https://jetsukda.dev/til/the-analytics-development-lifecycle-adlc/
+  state:
+    cid: bafyreibons74dx627jntys4pyeajrbsdaf5nynatkrzbeqs3zgoxig24ma
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mptgeywd6o2y
+ad699a91a1c5fab5d0382258727b2375:facebook:
+  spec:
+    title: 'TIL: The Analytics Development Lifecycle (ADLC) [jetsukda.dev]'
+    url: https://jetsukda.dev/til/the-analytics-development-lifecycle-adlc/
+  state:
+    id: '100746876247412_1011134301875812'
+    url: https://www.facebook.com/100683012920950/posts/1011134301875812
+ad699a91a1c5fab5d0382258727b2375:mastodon:
+  spec:
+    title: 'TIL: The Analytics Development Lifecycle (ADLC) [jetsukda.dev]'
+    url: https://jetsukda.dev/til/the-analytics-development-lifecycle-adlc/
+  state:
+    id: '116862522560755486'
+    url: https://mastodon.in.th/@webring/116862522560755486
+ad699a91a1c5fab5d0382258727b2375:shorturl:
+  spec:
+    url: https://jetsukda.dev/til/the-analytics-development-lifecycle-adlc/
+  state:
+    shortLink: https://link.webring.in.th/3296
 ad7eff15ada96ffe48096391df7dd464:bluesky:
   spec:
     title: 'อยากมีสุขภาพการเงินที่ดีขึ้น: เปลี่ยนชีวิตการเงินทีละขั้น (รวมทั้งซีรีส์ 8 ตอน) [mymoneytoolkit.app]'
