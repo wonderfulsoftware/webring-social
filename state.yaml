@@ -29065,6 +29065,32 @@
     url: https://garden.narze.live/Store-git-directory-externally/
   state:
     shortLink: https://webring.page.link/L2PD
+8fefda4e77dd2ae94f69d9f5256e438a:bluesky:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง Idempotency [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-about-idempotency/
+  state:
+    cid: bafyreiarrs2cuhbcl4dvug5v7jihfvttn72fvnxahd5qconzpobovit6du
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpsvccvouc2z
+8fefda4e77dd2ae94f69d9f5256e438a:facebook:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง Idempotency [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-about-idempotency/
+  state:
+    id: '100746876247412_1010926001896642'
+    url: https://www.facebook.com/100683012920950/posts/1010926001896642
+8fefda4e77dd2ae94f69d9f5256e438a:mastodon:
+  spec:
+    title: บันทึกการแบ่งปันเรื่อง Idempotency [somkiat.cc]
+    url: https://www.somkiat.cc/sharing-about-idempotency/
+  state:
+    id: '116861320357751177'
+    url: https://mastodon.in.th/@webring/116861320357751177
+8fefda4e77dd2ae94f69d9f5256e438a:shorturl:
+  spec:
+    url: https://www.somkiat.cc/sharing-about-idempotency/
+  state:
+    shortLink: https://link.webring.in.th/3294
 900e2eb8d108f1fa39e510dc7932d02d:bluesky:
   spec:
     title: เหมาะสำหรับคนที่เพิ่งเริ่มใช้ PostgreSQL หรือเพิ่งเปลี่ยนจาก MySQL/SQLite [poolsawat.com]
