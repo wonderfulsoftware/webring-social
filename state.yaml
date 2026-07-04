@@ -49656,6 +49656,32 @@ f6a36862b98ccdabf2032fbed4fa20ca:shorturl:
     url: https://www.somkiat.cc/note-scale-rails-and-postgresql-database/
   state:
     shortLink: https://link.webring.in.th/2120
+f716a9457a3b75302d62f9e93b0e254e:bluesky:
+  spec:
+    title: 'ຄາລາໂອເກະລາວ: ເຄື່ອງມືແປໂຕໜັງສືລາວເປັນຄາລາໂອເກະ [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/lao-karaoke-translator-lo/
+  state:
+    cid: bafyreif7nfwslx67cjd2hxn5yl576hlbz66apa5ojukkqyhwlg4yihpvau
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpsfsbkjje2d
+f716a9457a3b75302d62f9e93b0e254e:facebook:
+  spec:
+    title: 'ຄາລາໂອເກະລາວ: ເຄື່ອງມືແປໂຕໜັງສືລາວເປັນຄາລາໂອເກະ [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/lao-karaoke-translator-lo/
+  state:
+    id: '100746876247412_1010727721916470'
+    url: https://www.facebook.com/100683012920950/posts/1010727721916470
+f716a9457a3b75302d62f9e93b0e254e:mastodon:
+  spec:
+    title: 'ຄາລາໂອເກະລາວ: ເຄື່ອງມືແປໂຕໜັງສືລາວເປັນຄາລາໂອເກະ [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/lao-karaoke-translator-lo/
+  state:
+    id: '116860229706846503'
+    url: https://mastodon.in.th/@webring/116860229706846503
+f716a9457a3b75302d62f9e93b0e254e:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/lao-karaoke-translator-lo/
+  state:
+    shortLink: https://link.webring.in.th/3293
 f7197d2c6189b3d52ea1f58f592e2c7d:facebook:
   spec:
     title: ลองใช้งาน Structured Logging ใน Go 1.21 rc1 [somkiat.cc]
