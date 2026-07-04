@@ -43635,6 +43635,32 @@ d8ab5dfeadf62f197812da3e36c828a4:shorturl:
     url: https://www.somkiat.cc/unit-tests-generator-from-ai/
   state:
     shortLink: https://webring.page.link/7kQp
+d8d5f7129b8d571951e5d5adc9465021:bluesky:
+  spec:
+    title: แล้วมาเรียนธอน live session pass เรียนอะไรกัน? สรุปให้แล้ว [mikkipastel.com]
+    url: https://www.mikkipastel.com/skooldio-marianthon-2026-live-session-pass/
+  state:
+    cid: bafyreifbnxxuhbqxjynveaffkd2uozglidotvmyribre774qklc7u4htty
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpt4ygqjao2v
+d8d5f7129b8d571951e5d5adc9465021:facebook:
+  spec:
+    title: แล้วมาเรียนธอน live session pass เรียนอะไรกัน? สรุปให้แล้ว [mikkipastel.com]
+    url: https://www.mikkipastel.com/skooldio-marianthon-2026-live-session-pass/
+  state:
+    id: '100746876247412_1011015978554311'
+    url: https://www.facebook.com/100683012920950/posts/1011015978554311
+d8d5f7129b8d571951e5d5adc9465021:mastodon:
+  spec:
+    title: แล้วมาเรียนธอน live session pass เรียนอะไรกัน? สรุปให้แล้ว [mikkipastel.com]
+    url: https://www.mikkipastel.com/skooldio-marianthon-2026-live-session-pass/
+  state:
+    id: '116861861606807523'
+    url: https://mastodon.in.th/@webring/116861861606807523
+d8d5f7129b8d571951e5d5adc9465021:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/skooldio-marianthon-2026-live-session-pass/
+  state:
+    shortLink: https://link.webring.in.th/3295
 d8e331caff1bc9bc60a18e5d768ff2c6:facebook:
   spec:
     title: ปัญหา newman กับ localhost [somkiat.cc]
