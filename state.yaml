@@ -31706,6 +31706,32 @@
     url: https://blog.ninprd.com/blog/do-we-talk-incoherent/
   state:
     shortLink: https://link.webring.in.th/1930
+9c87c2abf6a737b2d2a343b19fde2dcc:bluesky:
+  spec:
+    title: คู่มือการเขียน Prompt ที่ดี ให้ได้ผลตรงใจ จากคำแนะนำของ Google [myifew.com]
+    url: https://myifew.com/7753/writing-effective-prompts-by-google/
+  state:
+    cid: bafyreihywy3ko2vyrmpoyswwfswexuznutclrtp4zgf3pipf5ssswghuey
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpuxh2owz227
+9c87c2abf6a737b2d2a343b19fde2dcc:facebook:
+  spec:
+    title: คู่มือการเขียน Prompt ที่ดี ให้ได้ผลตรงใจ จากคำแนะนำของ Google [myifew.com]
+    url: https://myifew.com/7753/writing-effective-prompts-by-google/
+  state:
+    id: '100746876247412_1011644861824756'
+    url: https://www.facebook.com/100683012920950/posts/1011644861824756
+9c87c2abf6a737b2d2a343b19fde2dcc:mastodon:
+  spec:
+    title: คู่มือการเขียน Prompt ที่ดี ให้ได้ผลตรงใจ จากคำแนะนำของ Google [myifew.com]
+    url: https://myifew.com/7753/writing-effective-prompts-by-google/
+  state:
+    id: '116865974699957825'
+    url: https://mastodon.in.th/@webring/116865974699957825
+9c87c2abf6a737b2d2a343b19fde2dcc:shorturl:
+  spec:
+    url: https://myifew.com/7753/writing-effective-prompts-by-google/
+  state:
+    shortLink: https://link.webring.in.th/3297
 9c94eee33916f3e63f2633545813e587:facebook:
   spec:
     title: มาเรียนรู้ mindset การทำ graphic แบบเริ่มต้น ก่อนทำงานจริง [mikkipastel.com]
