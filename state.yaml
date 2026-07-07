@@ -4069,6 +4069,32 @@
     url: https://www.mikkipastel.com/what-is-growth-mindset/
   state:
     shortLink: https://link.webring.in.th/1725
+14e1feb6789cffd812013654db560f07:bluesky:
+  spec:
+    title: GitHub Copilot สนับสนุน Kimi K2.7 Code แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/github-copilot-with-kimi-k27-code/
+  state:
+    cid: bafyreifjens6q232n4wudannahia5vu6ipxmujl7ecb7zzwyut7oq5m3fe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mq2s26zgb32l
+14e1feb6789cffd812013654db560f07:facebook:
+  spec:
+    title: GitHub Copilot สนับสนุน Kimi K2.7 Code แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/github-copilot-with-kimi-k27-code/
+  state:
+    id: '100746876247412_1013743654948210'
+    url: https://www.facebook.com/100683012920950/posts/1013743654948210
+14e1feb6789cffd812013654db560f07:mastodon:
+  spec:
+    title: GitHub Copilot สนับสนุน Kimi K2.7 Code แล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/github-copilot-with-kimi-k27-code/
+  state:
+    id: '116879106037500563'
+    url: https://mastodon.in.th/@webring/116879106037500563
+14e1feb6789cffd812013654db560f07:shorturl:
+  spec:
+    url: https://www.somkiat.cc/github-copilot-with-kimi-k27-code/
+  state:
+    shortLink: https://link.webring.in.th/3300
 1500f6b8f9e81edc4b4044c8bad5edf3:facebook:
   spec:
     title: สวัสดี Hono [somkiat.cc]
