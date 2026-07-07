@@ -40892,6 +40892,32 @@ cab2d49cb1782d2546b7a6aa2a3683c5:shorturl:
     url: https://www.somkiat.cc/features-apache-airflow-3/
   state:
     shortLink: https://link.webring.in.th/2343
+cabf1b52752d549a25ffc9bfbd235999:bluesky:
+  spec:
+    title: วางแผนงบ พร้อมเช็คสุขภาพการเงินทั้งปีในหน้าเดียวให้เสร็จ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/budget-web
+  state:
+    cid: bafyreihadikuetp3lmkac3ay74bunwaoww3dbl5iku4ps6vodg52bjukzi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mq2jjbk2nd2k
+cabf1b52752d549a25ffc9bfbd235999:facebook:
+  spec:
+    title: วางแผนงบ พร้อมเช็คสุขภาพการเงินทั้งปีในหน้าเดียวให้เสร็จ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/budget-web
+  state:
+    id: '100746876247412_1013630128292896'
+    url: https://www.facebook.com/100683012920950/posts/1013630128292896
+cabf1b52752d549a25ffc9bfbd235999:mastodon:
+  spec:
+    title: วางแผนงบ พร้อมเช็คสุขภาพการเงินทั้งปีในหน้าเดียวให้เสร็จ [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/budget-web
+  state:
+    id: '116878505794025276'
+    url: https://mastodon.in.th/@webring/116878505794025276
+cabf1b52752d549a25ffc9bfbd235999:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/budget-web
+  state:
+    shortLink: https://link.webring.in.th/3299
 cac1bc35b5b13f8ec50018f199b9aff1:facebook:
   spec:
     title: LVM คือ อะไร ? [debuggingsoft.com]
