@@ -20904,6 +20904,32 @@
     url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-2-bangkok/
   state:
     shortLink: https://link.webring.in.th/3225
+6931cfd8c54a13748448cd341cc9e4fc:bluesky:
+  spec:
+    title: ZeeSpec กับการโค้ดงานแบบ Greenfield และ Brownfield [myifew.com]
+    url: https://myifew.com/7769/zeespec-spec/
+  state:
+    cid: bafyreics74swb6uvojvmxcdcwylsronkr423p4mc5clznozgptvw253e5e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mq33rda7es2e
+6931cfd8c54a13748448cd341cc9e4fc:facebook:
+  spec:
+    title: ZeeSpec กับการโค้ดงานแบบ Greenfield และ Brownfield [myifew.com]
+    url: https://myifew.com/7769/zeespec-spec/
+  state:
+    id: '100746876247412_1013872078268701'
+    url: https://www.facebook.com/100683012920950/posts/1013872078268701
+6931cfd8c54a13748448cd341cc9e4fc:mastodon:
+  spec:
+    title: ZeeSpec กับการโค้ดงานแบบ Greenfield และ Brownfield [myifew.com]
+    url: https://myifew.com/7769/zeespec-spec/
+  state:
+    id: '116879790062999697'
+    url: https://mastodon.in.th/@webring/116879790062999697
+6931cfd8c54a13748448cd341cc9e4fc:shorturl:
+  spec:
+    url: https://myifew.com/7769/zeespec-spec/
+  state:
+    shortLink: https://link.webring.in.th/3301
 6933f70422dc4ce0706e48123ce9d282:bluesky:
   spec:
     title: เขียนโค้ดด้วยหลักการ SOLID ด้วย JavaScript [amiearth.com]
