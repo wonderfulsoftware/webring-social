@@ -34030,6 +34030,32 @@ a8dcca3d394f6ceaf855de0e6f9518e7:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/12/let-eat-german-christmas-market/
   state:
     shortLink: https://link.webring.in.th/2879
+a9067f0156d0e3a76046e20ff742be86:bluesky:
+  spec:
+    title: แอพธนาคารไหนย้ายเครื่องง่ายที่สุดในปี 2026 [nitpum.com]
+    url: https://nitpum.com/post/transfer-thai-banking-app-in-2026/
+  state:
+    cid: bafyreiast2olvbqbe43rgkyhajuf2gws73jjczjp4lpfkzepjgpeedpwvy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mpzyn6obym2g
+a9067f0156d0e3a76046e20ff742be86:facebook:
+  spec:
+    title: แอพธนาคารไหนย้ายเครื่องง่ายที่สุดในปี 2026 [nitpum.com]
+    url: https://nitpum.com/post/transfer-thai-banking-app-in-2026/
+  state:
+    id: '100746876247412_1013437991645443'
+    url: https://www.facebook.com/100683012920950/posts/1013437991645443
+a9067f0156d0e3a76046e20ff742be86:mastodon:
+  spec:
+    title: แอพธนาคารไหนย้ายเครื่องง่ายที่สุดในปี 2026 [nitpum.com]
+    url: https://nitpum.com/post/transfer-thai-banking-app-in-2026/
+  state:
+    id: '116877317641169680'
+    url: https://mastodon.in.th/@webring/116877317641169680
+a9067f0156d0e3a76046e20ff742be86:shorturl:
+  spec:
+    url: https://nitpum.com/post/transfer-thai-banking-app-in-2026/
+  state:
+    shortLink: https://link.webring.in.th/3298
 a907069763b944c968800ca289c2ad55:bluesky:
   spec:
     title: ลองมาใช้ Skill กับ Code dotnet เรากัน [debuggingsoft.com]
