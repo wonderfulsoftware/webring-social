@@ -45091,6 +45091,32 @@ df6af564246bc5294aa7438f9791a096:shorturl:
     url: https://www.somkiat.cc/spring-initializr-with-spring-boot-3/
   state:
     shortLink: https://webring.page.link/4M9o
+df8410f883c7ac923034373e051e724c:bluesky:
+  spec:
+    title: สวัสดี IBM Bob (Hello Bob) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-bob/
+  state:
+    cid: bafyreiaijpygnnmzumxrj6oattkwsbp4qvumanfeixjmqt2pst44ls6csu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mq4xk3x4zq2v
+df8410f883c7ac923034373e051e724c:facebook:
+  spec:
+    title: สวัสดี IBM Bob (Hello Bob) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-bob/
+  state:
+    id: '100746876247412_1014496181539624'
+    url: https://www.facebook.com/100683012920950/posts/1014496181539624
+df8410f883c7ac923034373e051e724c:mastodon:
+  spec:
+    title: สวัสดี IBM Bob (Hello Bob) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-bob/
+  state:
+    id: '116883996322197934'
+    url: https://mastodon.in.th/@webring/116883996322197934
+df8410f883c7ac923034373e051e724c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-bob/
+  state:
+    shortLink: https://link.webring.in.th/3304
 e08457a1c5a5d979ca09f237ef07a091:bluesky:
   spec:
     title: บันทึกแนวทางการทดสอบ AWS Serverless app [somkiat.cc]
