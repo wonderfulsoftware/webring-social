@@ -43085,6 +43085,32 @@ d47dd84677a86fff8e5d7709626ec765:shorturl:
     url: https://www.anuwong.com/blog/manage-dotfiles-with-chezmoi/
   state:
     shortLink: https://link.webring.in.th/1904
+d47eaf9c5deb81d58cc4bfc1a69ddcd2:bluesky:
+  spec:
+    title: สรุปครึ่งปี 2026 เราทำอะไรกันไปบ้าง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/mid-year-recap-2026
+  state:
+    cid: bafyreihgezx4443gadlqs22x4zaky3zf23ubgammzryewucrmt5ecc3qtq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mq4fz45kfr22
+d47eaf9c5deb81d58cc4bfc1a69ddcd2:facebook:
+  spec:
+    title: สรุปครึ่งปี 2026 เราทำอะไรกันไปบ้าง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/mid-year-recap-2026
+  state:
+    id: '100746876247412_1014320251557217'
+    url: https://www.facebook.com/100683012920950/posts/1014320251557217
+d47eaf9c5deb81d58cc4bfc1a69ddcd2:mastodon:
+  spec:
+    title: สรุปครึ่งปี 2026 เราทำอะไรกันไปบ้าง [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/mid-year-recap-2026
+  state:
+    id: '116882762206327150'
+    url: https://mastodon.in.th/@webring/116882762206327150
+d47eaf9c5deb81d58cc4bfc1a69ddcd2:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/mid-year-recap-2026
+  state:
+    shortLink: https://link.webring.in.th/3302
 d487b3b6419ebd755aa2d80b7dd8b5fe:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 3 (Product Owner) [taoisaman.com]
