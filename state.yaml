@@ -16981,6 +16981,32 @@
     url: https://notes.dt.in.th/PasteQR
   state:
     shortLink: https://link.webring.in.th/2129
+5735b2db0486527673c1d3d33c91e2ba:bluesky:
+  spec:
+    title: '[CR] 711 แฮมห่อชีส [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/07/cr-711-ham-wrap-with-cheese/
+  state:
+    cid: bafyreiga6pruz3ghbrtnuz746q2rveglfwofoxzhxt3i7txgjax7ajdlia
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mq4oetvfiy22
+5735b2db0486527673c1d3d33c91e2ba:facebook:
+  spec:
+    title: '[CR] 711 แฮมห่อชีส [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/07/cr-711-ham-wrap-with-cheese/
+  state:
+    id: '100746876247412_1014398251549417'
+    url: https://www.facebook.com/100683012920950/posts/1014398251549417
+5735b2db0486527673c1d3d33c91e2ba:mastodon:
+  spec:
+    title: '[CR] 711 แฮมห่อชีส [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/07/cr-711-ham-wrap-with-cheese/
+  state:
+    id: '116883351589434330'
+    url: https://mastodon.in.th/@webring/116883351589434330
+5735b2db0486527673c1d3d33c91e2ba:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/07/cr-711-ham-wrap-with-cheese/
+  state:
+    shortLink: https://link.webring.in.th/3303
 57484faa1f4a1f37ebfa80e72067a1ed:bluesky:
   spec:
     title: Bistari, Bistari – จากภูเขาสูง ถึง ชีวิตเป็นอยู่ [myifew.com]
