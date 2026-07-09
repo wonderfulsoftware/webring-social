@@ -19409,6 +19409,32 @@
     url: https://rayriffy.com/garden/nwjs-crossover-macos/
   state:
     shortLink: https://link.webring.in.th/3155
+61be16c1fb287220b279f3808125d1aa:bluesky:
+  spec:
+    title: 'Harness Design: ทำ AI Agent ให้ทำงานยาวๆ ได้โดยไม่ต้องมีคนเฝ้าตลอดเวลา [myifew.com]'
+    url: https://myifew.com/7778/harness-design-by-anthopic/
+  state:
+    cid: bafyreiauifvw3ftgiesaoqtgnwebyhww4sakaer6dhzttutwcffxqxdbcm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mq7kyka7ta2a
+61be16c1fb287220b279f3808125d1aa:facebook:
+  spec:
+    title: 'Harness Design: ทำ AI Agent ให้ทำงานยาวๆ ได้โดยไม่ต้องมีคนเฝ้าตลอดเวลา [myifew.com]'
+    url: https://myifew.com/7778/harness-design-by-anthopic/
+  state:
+    id: '100746876247412_1015330691456173'
+    url: https://www.facebook.com/100683012920950/posts/1015330691456173
+61be16c1fb287220b279f3808125d1aa:mastodon:
+  spec:
+    title: 'Harness Design: ทำ AI Agent ให้ทำงานยาวๆ ได้โดยไม่ต้องมีคนเฝ้าตลอดเวลา [myifew.com]'
+    url: https://myifew.com/7778/harness-design-by-anthopic/
+  state:
+    id: '116889868440169072'
+    url: https://mastodon.in.th/@webring/116889868440169072
+61be16c1fb287220b279f3808125d1aa:shorturl:
+  spec:
+    url: https://myifew.com/7778/harness-design-by-anthopic/
+  state:
+    shortLink: https://link.webring.in.th/3306
 61f5b1cd7fcea7266292abc073d1d83a:facebook:
   spec:
     title: สรุปงาน NEW GEN INVESTOR 20+ รวยได้จริง? พร้อมแจกตารางรวย [wawasabii.com]
