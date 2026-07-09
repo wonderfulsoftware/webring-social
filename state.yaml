@@ -47346,6 +47346,32 @@ eb66d82b6076c1a32937bab478fcddbc:shorturl:
     url: https://myifew.com/7691/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a2%e0%b8%b7%e0%b8%94%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b9%88/
   state:
     shortLink: https://link.webring.in.th/3263
+eb779ab4d77328ef058943722c65c0c2:bluesky:
+  spec:
+    title: มาลองใช้งาน Vite+ กัน (beta version) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-vite-plus/
+  state:
+    cid: bafyreidydsjlve4y6vhyzbmhm527zlwdikjtymnb56lutgo2fubbqob3ge
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mq6zgfgvel26
+eb779ab4d77328ef058943722c65c0c2:facebook:
+  spec:
+    title: มาลองใช้งาน Vite+ กัน (beta version) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-vite-plus/
+  state:
+    id: '100746876247412_1015152961473946'
+    url: https://www.facebook.com/100683012920950/posts/1015152961473946
+eb779ab4d77328ef058943722c65c0c2:mastodon:
+  spec:
+    title: มาลองใช้งาน Vite+ กัน (beta version) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-vite-plus/
+  state:
+    id: '116888632580150596'
+    url: https://mastodon.in.th/@webring/116888632580150596
+eb779ab4d77328ef058943722c65c0c2:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-vite-plus/
+  state:
+    shortLink: https://link.webring.in.th/3305
 eb82941eeb3ea9ead9c3fc12d2c19408:facebook:
   spec:
     title: Convert Date + Time to Number [debuggingsoft.com]
