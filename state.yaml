@@ -46275,6 +46275,32 @@ e4fdbfaf8069c23f07e4bf408c8dd952:shorturl:
     url: https://naiwaen.debuggingsoft.com/2026/02/db2-sql1652n-file-i-o-error-occurred/
   state:
     shortLink: https://link.webring.in.th/2994
+e512e19e2adbf6dc02ffed7134b1a26e:bluesky:
+  spec:
+    title: '[CR] Starbucks Pork Bulgogi Sandwich [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/07/cr-starbucks-pork-bulgogi-sandwich/
+  state:
+    cid: bafyreic4wdfb6xwvkh7gktpnctgsjyltjpq3ypib3zblwecr44pbujrkqi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqcczl4ckj2y
+e512e19e2adbf6dc02ffed7134b1a26e:facebook:
+  spec:
+    title: '[CR] Starbucks Pork Bulgogi Sandwich [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/07/cr-starbucks-pork-bulgogi-sandwich/
+  state:
+    id: '100746876247412_1016228004699775'
+    url: https://www.facebook.com/100683012920950/posts/1016228004699775
+e512e19e2adbf6dc02ffed7134b1a26e:mastodon:
+  spec:
+    title: '[CR] Starbucks Pork Bulgogi Sandwich [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/07/cr-starbucks-pork-bulgogi-sandwich/
+  state:
+    id: '116896063456970252'
+    url: https://mastodon.in.th/@webring/116896063456970252
+e512e19e2adbf6dc02ffed7134b1a26e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/07/cr-starbucks-pork-bulgogi-sandwich/
+  state:
+    shortLink: https://link.webring.in.th/3309
 e51dab2a8e47c25c57be8e37f55973ba:facebook:
   spec:
     title: Postman ใน VS Code กำลังมา [somkiat.cc]
