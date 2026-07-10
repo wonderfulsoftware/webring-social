@@ -44338,6 +44338,32 @@ db4e31b00fd4fa22e2e8379b80840532:shorturl:
     url: https://naiwaen.debuggingsoft.com/2026/06/recap-wazuh-meetup-2026/
   state:
     shortLink: https://link.webring.in.th/3233
+db57d0df8766ad958a31bcaf66f6cee8:bluesky:
+  spec:
+    title: 'PostgreSQL :: เรื่องของ partitioning table [somkiat.cc]'
+    url: https://www.somkiat.cc/postgresql-with-partitioning-table/
+  state:
+    cid: bafyreibdnffwvoynsygkqrdnladvw3vgvuuxa6hcvz47wtcprobu2i6e3m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqc344zj3w22
+db57d0df8766ad958a31bcaf66f6cee8:facebook:
+  spec:
+    title: 'PostgreSQL :: เรื่องของ partitioning table [somkiat.cc]'
+    url: https://www.somkiat.cc/postgresql-with-partitioning-table/
+  state:
+    id: '100746876247412_1016135788042330'
+    url: https://www.facebook.com/100683012920950/posts/1016135788042330
+db57d0df8766ad958a31bcaf66f6cee8:mastodon:
+  spec:
+    title: 'PostgreSQL :: เรื่องของ partitioning table [somkiat.cc]'
+    url: https://www.somkiat.cc/postgresql-with-partitioning-table/
+  state:
+    id: '116895506096229513'
+    url: https://mastodon.in.th/@webring/116895506096229513
+db57d0df8766ad958a31bcaf66f6cee8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/postgresql-with-partitioning-table/
+  state:
+    shortLink: https://link.webring.in.th/3308
 db73f928da036e2b544b713db8680085:facebook:
   spec:
     title: Build IMSI catcher with single computer and hackrf One [annibuliful-lab.dev]
