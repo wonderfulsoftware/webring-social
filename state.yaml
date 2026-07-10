@@ -26912,6 +26912,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/02/devclub3-observability-lgtm-stack-datadog-at-justco/
   state:
     shortLink: https://link.webring.in.th/1802
+849fc8625e85a750e26f7953735cc90c:bluesky:
+  spec:
+    title: วิธีใช้ Fable 5 แบบประหยัด Token [myifew.com]
+    url: https://myifew.com/7793/how-optimize-token-use-fable5-advisor/
+  state:
+    cid: bafyreig25bocl6iy2jkp5d5ijsampcjx7r7gfz373trgf7nskada5d6s6q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqcm77qtrj2v
+849fc8625e85a750e26f7953735cc90c:facebook:
+  spec:
+    title: วิธีใช้ Fable 5 แบบประหยัด Token [myifew.com]
+    url: https://myifew.com/7793/how-optimize-token-use-fable5-advisor/
+  state:
+    id: '100746876247412_1016337108022198'
+    url: https://www.facebook.com/100683012920950/posts/1016337108022198
+849fc8625e85a750e26f7953735cc90c:mastodon:
+  spec:
+    title: วิธีใช้ Fable 5 แบบประหยัด Token [myifew.com]
+    url: https://myifew.com/7793/how-optimize-token-use-fable5-advisor/
+  state:
+    id: '116896709273824630'
+    url: https://mastodon.in.th/@webring/116896709273824630
+849fc8625e85a750e26f7953735cc90c:shorturl:
+  spec:
+    url: https://myifew.com/7793/how-optimize-token-use-fable5-advisor/
+  state:
+    shortLink: https://link.webring.in.th/3310
 84c741a6ac2a29c94c27e12bc06125cf:facebook:
   spec:
     title: Why your Quarkus reactive codes are not executing? [guitarpawat.me]
