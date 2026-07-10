@@ -49513,6 +49513,32 @@ f476e3c22a8ab6621bd95a010241919f:shorturl:
     url: https://xiengperm.dev/posts/first-time-publish-app-play-store-en/
   state:
     shortLink: https://link.webring.in.th/2953
+f48a1f3a8efd0ac3b0f2b851354ca247:bluesky:
+  spec:
+    title: Make logging in easier with passkeys [karnwong.me]
+    url: https://karnwong.me/posts/2026/07/make-logging-in-easier-with-passkeys/
+  state:
+    cid: bafyreicdgjp2w6qcs2bbghc2tq4lg2b4l3xkk3447h6osz65myasx66spy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqbjwa5spo2h
+f48a1f3a8efd0ac3b0f2b851354ca247:facebook:
+  spec:
+    title: Make logging in easier with passkeys [karnwong.me]
+    url: https://karnwong.me/posts/2026/07/make-logging-in-easier-with-passkeys/
+  state:
+    id: '100746876247412_1015962008059708'
+    url: https://www.facebook.com/100683012920950/posts/1015962008059708
+f48a1f3a8efd0ac3b0f2b851354ca247:mastodon:
+  spec:
+    title: Make logging in easier with passkeys [karnwong.me]
+    url: https://karnwong.me/posts/2026/07/make-logging-in-easier-with-passkeys/
+  state:
+    id: '116894296667356205'
+    url: https://mastodon.in.th/@webring/116894296667356205
+f48a1f3a8efd0ac3b0f2b851354ca247:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/07/make-logging-in-easier-with-passkeys/
+  state:
+    shortLink: https://link.webring.in.th/3307
 f4a9daa208c333c61a97a0457c8e8137:facebook:
   spec:
     title: 'VSCode :: ใช้งาน Built-in port forwarding [somkiat.cc]'
