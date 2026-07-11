@@ -29209,6 +29209,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/08/what-are-first-second-third-party-data/
   state:
     shortLink: https://link.webring.in.th/2708
+8f7d0f4b5e0725bfea3d6290f3cd79e0:bluesky:
+  spec:
+    title: ไฟฉายคาดหัวเดินป่า วิ่งเทรล เลือกยังไงดี [myifew.com]
+    url: https://myifew.com/7812/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%84%e0%b8%9f%e0%b8%89%e0%b8%b2%e0%b8%a2%e0%b8%84%e0%b8%b2%e0%b8%94%e0%b8%ab%e0%b8%b1%e0%b8%a7-u/
+  state:
+    cid: bafyreihb6ffofnabkh5dqumb76csjt6k5oqvbs4y24brpegam4ytlignlm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqepwshcgl2h
+8f7d0f4b5e0725bfea3d6290f3cd79e0:facebook:
+  spec:
+    title: ไฟฉายคาดหัวเดินป่า วิ่งเทรล เลือกยังไงดี [myifew.com]
+    url: https://myifew.com/7812/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%84%e0%b8%9f%e0%b8%89%e0%b8%b2%e0%b8%a2%e0%b8%84%e0%b8%b2%e0%b8%94%e0%b8%ab%e0%b8%b1%e0%b8%a7-u/
+  state:
+    id: '100746876247412_1016986984623877'
+    url: https://www.facebook.com/100683012920950/posts/1016986984623877
+8f7d0f4b5e0725bfea3d6290f3cd79e0:mastodon:
+  spec:
+    title: ไฟฉายคาดหัวเดินป่า วิ่งเทรล เลือกยังไงดี [myifew.com]
+    url: https://myifew.com/7812/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%84%e0%b8%9f%e0%b8%89%e0%b8%b2%e0%b8%a2%e0%b8%84%e0%b8%b2%e0%b8%94%e0%b8%ab%e0%b8%b1%e0%b8%a7-u/
+  state:
+    id: '116901475578861107'
+    url: https://mastodon.in.th/@webring/116901475578861107
+8f7d0f4b5e0725bfea3d6290f3cd79e0:shorturl:
+  spec:
+    url: https://myifew.com/7812/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%84%e0%b8%9f%e0%b8%89%e0%b8%b2%e0%b8%a2%e0%b8%84%e0%b8%b2%e0%b8%94%e0%b8%ab%e0%b8%b1%e0%b8%a7-u/
+  state:
+    shortLink: https://link.webring.in.th/3314
 8f89bdd71a62a90d8569da41343b6204:facebook:
   spec:
     title: มาลองใช้งาน Docker Build Cloud กัน [somkiat.cc]
