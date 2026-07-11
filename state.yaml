@@ -20160,6 +20160,32 @@
     url: https://rayriffy.com/garden/zerotier-udr/
   state:
     shortLink: https://link.webring.in.th/2702
+6508c3287b05374aa95d94ec8b27a734:bluesky:
+  spec:
+    title: Deploying Firebase Hosting from GitHub Actions with no stored secrets [dt.in.th]
+    url: https://dt.in.th/FirebaseHostingGitHubActionsDeploy
+  state:
+    cid: bafyreic2mmrs56jxrhaylvjupntkd5apicxbgdug2u3svatqf45hcv37ma
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqdwtaiwcm2a
+6508c3287b05374aa95d94ec8b27a734:facebook:
+  spec:
+    title: Deploying Firebase Hosting from GitHub Actions with no stored secrets [dt.in.th]
+    url: https://dt.in.th/FirebaseHostingGitHubActionsDeploy
+  state:
+    id: '100746876247412_1016730211316221'
+    url: https://www.facebook.com/100683012920950/posts/1016730211316221
+6508c3287b05374aa95d94ec8b27a734:mastodon:
+  spec:
+    title: Deploying Firebase Hosting from GitHub Actions with no stored secrets [dt.in.th]
+    url: https://dt.in.th/FirebaseHostingGitHubActionsDeploy
+  state:
+    id: '116899708492026975'
+    url: https://mastodon.in.th/@webring/116899708492026975
+6508c3287b05374aa95d94ec8b27a734:shorturl:
+  spec:
+    url: https://dt.in.th/FirebaseHostingGitHubActionsDeploy
+  state:
+    shortLink: https://link.webring.in.th/3311
 6511f557bf914c75c6c13283b5239352:bluesky:
   spec:
     title: Gobuster คืออะไร? ใช่ขบวนการจารชน โกบัสเตอร์ ป่ะ [evanrintho.buzz]
