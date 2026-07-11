@@ -7419,6 +7419,32 @@
     url: https://thiti.dev/blog/104/
   state:
     shortLink: https://webring.page.link/DkAY
+2591b469bbc5131b2b4b4b8bdabd5d97:bluesky:
+  spec:
+    title: What are (agent) sandboxes useful for? [karnwong.me]
+    url: https://karnwong.me/posts/2026/07/what-are-agent-sandboxes-useful-for/
+  state:
+    cid: bafyreia4gryovqsos2di6ealgt5cihlcftjltwjgnlwvvfbwrwwn5qvxza
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqe65aywtv2o
+2591b469bbc5131b2b4b4b8bdabd5d97:facebook:
+  spec:
+    title: What are (agent) sandboxes useful for? [karnwong.me]
+    url: https://karnwong.me/posts/2026/07/what-are-agent-sandboxes-useful-for/
+  state:
+    id: '100746876247412_1016798547976054'
+    url: https://www.facebook.com/100683012920950/posts/1016798547976054
+2591b469bbc5131b2b4b4b8bdabd5d97:mastodon:
+  spec:
+    title: What are (agent) sandboxes useful for? [karnwong.me]
+    url: https://karnwong.me/posts/2026/07/what-are-agent-sandboxes-useful-for/
+  state:
+    id: '116900223227298662'
+    url: https://mastodon.in.th/@webring/116900223227298662
+2591b469bbc5131b2b4b4b8bdabd5d97:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/07/what-are-agent-sandboxes-useful-for/
+  state:
+    shortLink: https://link.webring.in.th/3312
 259b9e06870b1352046ad860b8c4b197:facebook:
   spec:
     title: ย้าย Repository ไปที่ใหม่โดยเอา commit ไปด้วย [kajame.xyz]
