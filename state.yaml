@@ -4775,6 +4775,32 @@
     url: https://naiwaen.debuggingsoft.com/2026/02/go-to-the-doctor-at-king-taksin-memorial-hospital-2026/
   state:
     shortLink: https://link.webring.in.th/2960
+18bd6f611a426aae9fd5e4fe94138cae:bluesky:
+  spec:
+    title: ทำเว็บป้ายยา กับ Notion API ด้วย Google Antigravity [mikkipastel.com]
+    url: https://www.mikkipastel.com/my-shopee-affiliate-website-from-notion-api-google-antigravity/
+  state:
+    cid: bafyreiai7seupd3oyl3w7eihyetkzvrt2p2iglgccugbypwkzbt6ol7quy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqegbv5y5z2x
+18bd6f611a426aae9fd5e4fe94138cae:facebook:
+  spec:
+    title: ทำเว็บป้ายยา กับ Notion API ด้วย Google Antigravity [mikkipastel.com]
+    url: https://www.mikkipastel.com/my-shopee-affiliate-website-from-notion-api-google-antigravity/
+  state:
+    id: '100746876247412_1016878464634729'
+    url: https://www.facebook.com/100683012920950/posts/1016878464634729
+18bd6f611a426aae9fd5e4fe94138cae:mastodon:
+  spec:
+    title: ทำเว็บป้ายยา กับ Notion API ด้วย Google Antigravity [mikkipastel.com]
+    url: https://www.mikkipastel.com/my-shopee-affiliate-website-from-notion-api-google-antigravity/
+  state:
+    id: '116900796364899465'
+    url: https://mastodon.in.th/@webring/116900796364899465
+18bd6f611a426aae9fd5e4fe94138cae:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/my-shopee-affiliate-website-from-notion-api-google-antigravity/
+  state:
+    shortLink: https://link.webring.in.th/3313
 18ca4ed82ae8c8ec914d83fd317bb400:bluesky:
   spec:
     title: mock-service-worker for mocking API [yuttakhanb.dev]
