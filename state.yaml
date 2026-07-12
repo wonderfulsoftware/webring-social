@@ -39508,6 +39508,32 @@ c2027aaa811c92c7ff116c9d7187fe13:shorturl:
     url: https://dt.in.th/GitHubActionsMise
   state:
     shortLink: https://link.webring.in.th/2924
+c250ce4531c3db5c6f72c46913bee8a4:bluesky:
+  spec:
+    title: 'AI Spec Writing Checklist: เขียนสเปกให้ AI เดาถูกขึ้น [myifew.com]'
+    url: https://myifew.com/7820/ai-spec-writing-checklist/
+  state:
+    cid: bafyreifuzftg7imp3363m3epqiwmbrcedigoq7r5ezw4rpoldjnobs7kfq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqgi7c4rxf2h
+c250ce4531c3db5c6f72c46913bee8a4:facebook:
+  spec:
+    title: 'AI Spec Writing Checklist: เขียนสเปกให้ AI เดาถูกขึ้น [myifew.com]'
+    url: https://myifew.com/7820/ai-spec-writing-checklist/
+  state:
+    id: '100746876247412_1017542724568303'
+    url: https://www.facebook.com/100683012920950/posts/1017542724568303
+c250ce4531c3db5c6f72c46913bee8a4:mastodon:
+  spec:
+    title: 'AI Spec Writing Checklist: เขียนสเปกให้ AI เดาถูกขึ้น [myifew.com]'
+    url: https://myifew.com/7820/ai-spec-writing-checklist/
+  state:
+    id: '116905434840954053'
+    url: https://mastodon.in.th/@webring/116905434840954053
+c250ce4531c3db5c6f72c46913bee8a4:shorturl:
+  spec:
+    url: https://myifew.com/7820/ai-spec-writing-checklist/
+  state:
+    shortLink: https://link.webring.in.th/3315
 c25a1751edc8f9642937cb00ebca5982:facebook:
   spec:
     title: Building a Second Brain [garden.narze.live]
