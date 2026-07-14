@@ -40117,6 +40117,32 @@ c56e5547bb9ae969baa17ee2f8911eda:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-feature-raw-string-literals-is-not-available-please-use-language-version-11-0-or-greater/
   state:
     shortLink: https://webring.page.link/kct9
+c58cf693da188b1b25e300c8118d784f:bluesky:
+  spec:
+    title: 'bgx: BackGround eXecute [dt.in.th]'
+    url: https://dt.in.th/Bgx
+  state:
+    cid: bafyreigkgoah5few27qoidpplssygf7gsvtqryql6irt2tdyqvawwsuuqm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqlhn4gtzp2r
+c58cf693da188b1b25e300c8118d784f:facebook:
+  spec:
+    title: 'bgx: BackGround eXecute [dt.in.th]'
+    url: https://dt.in.th/Bgx
+  state:
+    id: '100746876247412_1019121121077130'
+    url: https://www.facebook.com/100683012920950/posts/1019121121077130
+c58cf693da188b1b25e300c8118d784f:mastodon:
+  spec:
+    title: 'bgx: BackGround eXecute [dt.in.th]'
+    url: https://dt.in.th/Bgx
+  state:
+    id: '116916654029096358'
+    url: https://mastodon.in.th/@webring/116916654029096358
+c58cf693da188b1b25e300c8118d784f:shorturl:
+  spec:
+    url: https://dt.in.th/Bgx
+  state:
+    shortLink: https://link.webring.in.th/3317
 c58de564980edc168d8f2d81e566b9b0:facebook:
   spec:
     title: น่าสนใจกับแนวทางของการพัฒนา Software [somkiat.cc]
