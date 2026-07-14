@@ -28726,6 +28726,32 @@
     url: https://mymoneytoolkit.app/posts/update-plan-march-2026
   state:
     shortLink: https://link.webring.in.th/3008
+8c81610304dd3fdff4a51c44fe309049:bluesky:
+  spec:
+    title: 'root-gate: จากขอให้ sudo ถามน้อยลง กลายเป็น native dialog เฝ้าประตู root [nutchanon.org]'
+    url: https://nutchanon.org/blog/root-gate
+  state:
+    cid: bafyreifhnmutiyqv6lowfs4rnxz7s74by2l2alng7aeeqrgnwp25oe52ca
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqlzd72o3r2x
+8c81610304dd3fdff4a51c44fe309049:facebook:
+  spec:
+    title: 'root-gate: จากขอให้ sudo ถามน้อยลง กลายเป็น native dialog เฝ้าประตู root [nutchanon.org]'
+    url: https://nutchanon.org/blog/root-gate
+  state:
+    id: '100746876247412_1019292111060031'
+    url: https://www.facebook.com/100683012920950/posts/1019292111060031
+8c81610304dd3fdff4a51c44fe309049:mastodon:
+  spec:
+    title: 'root-gate: จากขอให้ sudo ถามน้อยลง กลายเป็น native dialog เฝ้าประตู root [nutchanon.org]'
+    url: https://nutchanon.org/blog/root-gate
+  state:
+    id: '116917898795298196'
+    url: https://mastodon.in.th/@webring/116917898795298196
+8c81610304dd3fdff4a51c44fe309049:shorturl:
+  spec:
+    url: https://nutchanon.org/blog/root-gate
+  state:
+    shortLink: https://link.webring.in.th/3319
 8c90426c8265e985cb8a5374c142a398:bluesky:
   spec:
     title: '[CR] Starbucks Parisian Ham 3 Cheeses Multigrain [debuggingsoft.com]'
