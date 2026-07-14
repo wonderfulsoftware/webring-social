@@ -1430,6 +1430,32 @@
     url: https://naiwaen.debuggingsoft.com/2026/01/cr-onkijung-central-pinklao/
   state:
     shortLink: https://link.webring.in.th/2915
+0727239e049e3334063cc257467b8dc7:bluesky:
+  spec:
+    title: การปรับปรุงของ Superpowers 6 [somkiat.cc]
+    url: https://www.somkiat.cc/superpowers-6-agent-skills/
+  state:
+    cid: bafyreicdgh6u6znjv44bhmbqexw2n4dhi6uuimktr7ae6dknqwhkmmd2za
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqlpvzgzym2y
+0727239e049e3334063cc257467b8dc7:facebook:
+  spec:
+    title: การปรับปรุงของ Superpowers 6 [somkiat.cc]
+    url: https://www.somkiat.cc/superpowers-6-agent-skills/
+  state:
+    id: '100746876247412_1019199067736002'
+    url: https://www.facebook.com/100683012920950/posts/1019199067736002
+0727239e049e3334063cc257467b8dc7:mastodon:
+  spec:
+    title: การปรับปรุงของ Superpowers 6 [somkiat.cc]
+    url: https://www.somkiat.cc/superpowers-6-agent-skills/
+  state:
+    id: '116917236468365759'
+    url: https://mastodon.in.th/@webring/116917236468365759
+0727239e049e3334063cc257467b8dc7:shorturl:
+  spec:
+    url: https://www.somkiat.cc/superpowers-6-agent-skills/
+  state:
+    shortLink: https://link.webring.in.th/3318
 0759428909a43d5305f1209ceca8525e:facebook:
   spec:
     title: How to implement cross-tab communication [punn.dev]
