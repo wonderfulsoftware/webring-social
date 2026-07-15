@@ -3756,6 +3756,32 @@
     url: https://www.mikkipastel.com/icreator-camp-2024-sony-alpha-7c-ii/
   state:
     shortLink: https://link.webring.in.th/1985
+124f866d55fe8489c7ef5e08babf30fb:bluesky:
+  spec:
+    title: How to delete lines containing a specific pattern in Notepad++ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/how-to-delete-lines-containing-a-specific-pattern-in-notepad/
+  state:
+    cid: bafyreiggiqmnn2dq4bucab7cp6yvxeicceuyyiwf34mclxybvzu4izizeu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqojyxnxqq2c
+124f866d55fe8489c7ef5e08babf30fb:facebook:
+  spec:
+    title: How to delete lines containing a specific pattern in Notepad++ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/how-to-delete-lines-containing-a-specific-pattern-in-notepad/
+  state:
+    id: '100746876247412_1020118260977416'
+    url: https://www.facebook.com/100683012920950/posts/1020118260977416
+124f866d55fe8489c7ef5e08babf30fb:mastodon:
+  spec:
+    title: How to delete lines containing a specific pattern in Notepad++ [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/how-to-delete-lines-containing-a-specific-pattern-in-notepad/
+  state:
+    id: '116923576331675692'
+    url: https://mastodon.in.th/@webring/116923576331675692
+124f866d55fe8489c7ef5e08babf30fb:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/07/how-to-delete-lines-containing-a-specific-pattern-in-notepad/
+  state:
+    shortLink: https://link.webring.in.th/3322
 128bc6ef435d47031e0f7afcf0a245ad:facebook:
   spec:
     title: Web Test Runner ใน Angular 17.1 [somkiat.cc]
