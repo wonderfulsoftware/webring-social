@@ -9236,6 +9236,32 @@
     url: https://www.somkiat.cc/owasp-kubernetes-top-10/
   state:
     shortLink: https://webring.page.link/EAw9
+2df173f435097f4ceb9352cf09cb6cf3:bluesky:
+  spec:
+    title: ว่าด้วยเรื่องการติดต่อสื่อสารระหว่าง module ด้วย Spring Modulith [somkiat.cc]
+    url: https://www.somkiat.cc/communication-between-modules-in-spring-modulith/
+  state:
+    cid: bafyreif43ed564bs3b22bztpzylbax2u7drht4rgdjkh2lawxnt7z6cxta
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqoaly3bkp23
+2df173f435097f4ceb9352cf09cb6cf3:facebook:
+  spec:
+    title: ว่าด้วยเรื่องการติดต่อสื่อสารระหว่าง module ด้วย Spring Modulith [somkiat.cc]
+    url: https://www.somkiat.cc/communication-between-modules-in-spring-modulith/
+  state:
+    id: '100746876247412_1020019567653952'
+    url: https://www.facebook.com/100683012920950/posts/1020019567653952
+2df173f435097f4ceb9352cf09cb6cf3:mastodon:
+  spec:
+    title: ว่าด้วยเรื่องการติดต่อสื่อสารระหว่าง module ด้วย Spring Modulith [somkiat.cc]
+    url: https://www.somkiat.cc/communication-between-modules-in-spring-modulith/
+  state:
+    id: '116922914318446375'
+    url: https://mastodon.in.th/@webring/116922914318446375
+2df173f435097f4ceb9352cf09cb6cf3:shorturl:
+  spec:
+    url: https://www.somkiat.cc/communication-between-modules-in-spring-modulith/
+  state:
+    shortLink: https://link.webring.in.th/3321
 2e0db07785906e9510ce639ea307a591:facebook:
   spec:
     title: Redux และ React [mikelopster.dev]
