@@ -51618,6 +51618,32 @@ fe7c16dc875d352211a3eed6cb150a6a:shorturl:
     url: https://blog.ninprd.com/blog/tutorial-blogging-with-wordpress-com/
   state:
     shortLink: https://link.webring.in.th/1807
+fea019b512ff452a10be1f900f573007:bluesky:
+  spec:
+    title: 'จัดการน้ำดื่มเดินป่า: 6 วิธีเลือก กรอง และฆ่าเชื้อให้ปลอดภัย [myifew.com]'
+    url: https://myifew.com/7830/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b8%94%e0%b8%b7%e0%b9%88%e0%b8%a1%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2-6-%e0%b8%a7/
+  state:
+    cid: bafyreig3akx42woqfqnh3oftydf32ekrpwuqihw7qrhyalnu2tjyuq75v4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqny657jyd2q
+fea019b512ff452a10be1f900f573007:facebook:
+  spec:
+    title: 'จัดการน้ำดื่มเดินป่า: 6 วิธีเลือก กรอง และฆ่าเชื้อให้ปลอดภัย [myifew.com]'
+    url: https://myifew.com/7830/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b8%94%e0%b8%b7%e0%b9%88%e0%b8%a1%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2-6-%e0%b8%a7/
+  state:
+    id: '100746876247412_1019935690995673'
+    url: https://www.facebook.com/100683012920950/posts/1019935690995673
+fea019b512ff452a10be1f900f573007:mastodon:
+  spec:
+    title: 'จัดการน้ำดื่มเดินป่า: 6 วิธีเลือก กรอง และฆ่าเชื้อให้ปลอดภัย [myifew.com]'
+    url: https://myifew.com/7830/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b8%94%e0%b8%b7%e0%b9%88%e0%b8%a1%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2-6-%e0%b8%a7/
+  state:
+    id: '116922320723020559'
+    url: https://mastodon.in.th/@webring/116922320723020559
+fea019b512ff452a10be1f900f573007:shorturl:
+  spec:
+    url: https://myifew.com/7830/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b8%94%e0%b8%b7%e0%b9%88%e0%b8%a1%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2-6-%e0%b8%a7/
+  state:
+    shortLink: https://link.webring.in.th/3320
 fed95b86a74d8ab5b5b507c706b98d46:bluesky:
   spec:
     title: Observability with eBPF and OTel [karnwong.me]
