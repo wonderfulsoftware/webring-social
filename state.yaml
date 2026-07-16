@@ -25360,6 +25360,32 @@
     url: https://yothinix.com/working-how-to-work/
   state:
     shortLink: https://webring.page.link/o1tu
+7ca21f84e14f7c0f3b34d428ab466fa7:bluesky:
+  spec:
+    title: ฝ่ายจัดซื้อประจำบ้าน [nutchanon.org]
+    url: https://nutchanon.org/blog/purchase-division
+  state:
+    cid: bafyreidtzyfn5tdjt2trrkypyucyxpqxyzndxzczven3kjqt7oricuwwdu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqr2wc3en223
+7ca21f84e14f7c0f3b34d428ab466fa7:facebook:
+  spec:
+    title: ฝ่ายจัดซื้อประจำบ้าน [nutchanon.org]
+    url: https://nutchanon.org/blog/purchase-division
+  state:
+    id: '100746876247412_1020976170891625'
+    url: https://www.facebook.com/100683012920950/posts/1020976170891625
+7ca21f84e14f7c0f3b34d428ab466fa7:mastodon:
+  spec:
+    title: ฝ่ายจัดซื้อประจำบ้าน [nutchanon.org]
+    url: https://nutchanon.org/blog/purchase-division
+  state:
+    id: '116929270191874426'
+    url: https://mastodon.in.th/@webring/116929270191874426
+7ca21f84e14f7c0f3b34d428ab466fa7:shorturl:
+  spec:
+    url: https://nutchanon.org/blog/purchase-division
+  state:
+    shortLink: https://link.webring.in.th/3325
 7cc8aeb5d81a5067ea9ad2c7d03c3231:bluesky:
   spec:
     title: '[JAVA] com.jcraft.jsch.JSchException: invalid privatekey [debuggingsoft.com]'
