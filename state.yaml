@@ -9897,6 +9897,32 @@
     url: https://creaml4tt3.me/blogs/first-resignation-no-job-junior-developer-thailand
   state:
     shortLink: https://link.webring.in.th/3140
+31682f88d2787003de7d3ad3b6f832e0:bluesky:
+  spec:
+    title: แจกโพยใช้ adb command ที่ต้องใช้ สำหรับ Android Developer [mikkipastel.com]
+    url: https://www.mikkipastel.com/adb-command-for-android-developer/
+  state:
+    cid: bafyreibch3r6dszlrtsqpojfafjr5jee5jwx72xjhlmzvro6ekcg27v4ri
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqqrew4cer2f
+31682f88d2787003de7d3ad3b6f832e0:facebook:
+  spec:
+    title: แจกโพยใช้ adb command ที่ต้องใช้ สำหรับ Android Developer [mikkipastel.com]
+    url: https://www.mikkipastel.com/adb-command-for-android-developer/
+  state:
+    id: '100746876247412_1020874500901792'
+    url: https://www.facebook.com/100683012920950/posts/1020874500901792
+31682f88d2787003de7d3ad3b6f832e0:mastodon:
+  spec:
+    title: แจกโพยใช้ adb command ที่ต้องใช้ สำหรับ Android Developer [mikkipastel.com]
+    url: https://www.mikkipastel.com/adb-command-for-android-developer/
+  state:
+    id: '116928598764532083'
+    url: https://mastodon.in.th/@webring/116928598764532083
+31682f88d2787003de7d3ad3b6f832e0:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/adb-command-for-android-developer/
+  state:
+    shortLink: https://link.webring.in.th/3324
 3189d267bc537aa2a0eb7b730f65043f:bluesky:
   spec:
     title: 'มาลองเรียน Observability in Action: Beta รุ่น 1 @SCK Dojo [debuggingsoft.com]'
