@@ -4507,6 +4507,32 @@
     url: https://notes.dt.in.th/ElysiaRemixSession
   state:
     shortLink: https://link.webring.in.th/2539
+16dcc7299c2981f775ba9e770d192958:bluesky:
+  spec:
+    title: 'Nakasendo Magome-Tsumago: ทางเดินเมืองเก่าในหุบเขาคิโสะ [myifew.com]'
+    url: https://myifew.com/7832/nakasendo-magome-tsumago-%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%81%e0%b9%88%e0%b8%b2%e0%b9%83%e0%b8%99%e0%b8%ab/
+  state:
+    cid: bafyreiext2vyeqyff4dtf5c2sogln45fhqif2bsbnmkvnerom4oagxmiyi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqqj4preep2k
+16dcc7299c2981f775ba9e770d192958:facebook:
+  spec:
+    title: 'Nakasendo Magome-Tsumago: ทางเดินเมืองเก่าในหุบเขาคิโสะ [myifew.com]'
+    url: https://myifew.com/7832/nakasendo-magome-tsumago-%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%81%e0%b9%88%e0%b8%b2%e0%b9%83%e0%b8%99%e0%b8%ab/
+  state:
+    id: '100746876247412_1020791467576762'
+    url: https://www.facebook.com/100683012920950/posts/1020791467576762
+16dcc7299c2981f775ba9e770d192958:mastodon:
+  spec:
+    title: 'Nakasendo Magome-Tsumago: ทางเดินเมืองเก่าในหุบเขาคิโสะ [myifew.com]'
+    url: https://myifew.com/7832/nakasendo-magome-tsumago-%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%81%e0%b9%88%e0%b8%b2%e0%b9%83%e0%b8%99%e0%b8%ab/
+  state:
+    id: '116928017593021613'
+    url: https://mastodon.in.th/@webring/116928017593021613
+16dcc7299c2981f775ba9e770d192958:shorturl:
+  spec:
+    url: https://myifew.com/7832/nakasendo-magome-tsumago-%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%81%e0%b9%88%e0%b8%b2%e0%b9%83%e0%b8%99%e0%b8%ab/
+  state:
+    shortLink: https://link.webring.in.th/3323
 16dfa75a3b79a9b61231002edb38c67f:facebook:
   spec:
     title: สรุปเรื่องที่น่าสนใจจาก DevOps and Cloud Trend July 2023 จาก InfoQ [somkiat.cc]
