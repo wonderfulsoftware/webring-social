@@ -1404,6 +1404,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/08/how-to-remove-fixed-ip-in-rhel/
   state:
     shortLink: https://link.webring.in.th/2696
+06f689859fc498e37b8259fba2ebac9b:bluesky:
+  spec:
+    title: เมื่อ tokenizer ของ LLM model ใหม่ ๆ นับจำนวน token มากขึ้น !! [somkiat.cc]
+    url: https://www.somkiat.cc/tokenizer-of-llm-model/
+  state:
+    cid: bafyreihxeju5xwxpe47babyqcgm7ywxr453a6ew3o7iirjd44hm3a5ddj4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqszor6ade2a
+06f689859fc498e37b8259fba2ebac9b:facebook:
+  spec:
+    title: เมื่อ tokenizer ของ LLM model ใหม่ ๆ นับจำนวน token มากขึ้น !! [somkiat.cc]
+    url: https://www.somkiat.cc/tokenizer-of-llm-model/
+  state:
+    id: '100746876247412_1021629530826289'
+    url: https://www.facebook.com/100683012920950/posts/1021629530826289
+06f689859fc498e37b8259fba2ebac9b:mastodon:
+  spec:
+    title: เมื่อ tokenizer ของ LLM model ใหม่ ๆ นับจำนวน token มากขึ้น !! [somkiat.cc]
+    url: https://www.somkiat.cc/tokenizer-of-llm-model/
+  state:
+    id: '116933686982772108'
+    url: https://mastodon.in.th/@webring/116933686982772108
+06f689859fc498e37b8259fba2ebac9b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/tokenizer-of-llm-model/
+  state:
+    shortLink: https://link.webring.in.th/3326
 0702a36eb9802c8803efc4c3038e61ca:bluesky:
   spec:
     title: '[CR] Onkijung(온기정) – Central Pinklao [debuggingsoft.com]'
