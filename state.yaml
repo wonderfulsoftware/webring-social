@@ -8518,6 +8518,32 @@
     url: https://naiwaen.debuggingsoft.com/2026/02/recap-cloud-native-bangkok-cncg4-observability-day/
   state:
     shortLink: https://link.webring.in.th/3000
+2a6410a5343b2a0b255666a1ddd1fbc9:bluesky:
+  spec:
+    title: Claude Cowork แก้ปัญหา Preview ภาษาไทยแล้วได้ภาษาต่างด้าว [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/claude-cowork-thai-preview-problem/
+  state:
+    cid: bafyreiapdtcyxvhnxiidypig7tczs3lh2ye7lugt3yjop6ex27xtn2dsaq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqvj7xnfho23
+2a6410a5343b2a0b255666a1ddd1fbc9:facebook:
+  spec:
+    title: Claude Cowork แก้ปัญหา Preview ภาษาไทยแล้วได้ภาษาต่างด้าว [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/claude-cowork-thai-preview-problem/
+  state:
+    id: '100746876247412_1022439750745267'
+    url: https://www.facebook.com/100683012920950/posts/1022439750745267
+2a6410a5343b2a0b255666a1ddd1fbc9:mastodon:
+  spec:
+    title: Claude Cowork แก้ปัญหา Preview ภาษาไทยแล้วได้ภาษาต่างด้าว [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/claude-cowork-thai-preview-problem/
+  state:
+    id: '116939284037306583'
+    url: https://mastodon.in.th/@webring/116939284037306583
+2a6410a5343b2a0b255666a1ddd1fbc9:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/07/claude-cowork-thai-preview-problem/
+  state:
+    shortLink: https://link.webring.in.th/3327
 2a80c86e42afc04d257e58abb2a61fdf:bluesky:
   spec:
     title: Service Discontinuation of PaiLeaw [rayriffy.com]
