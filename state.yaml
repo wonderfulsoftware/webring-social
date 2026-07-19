@@ -51362,6 +51362,32 @@ faca33682862facd52ea03a0f689f59d:shorturl:
     url: https://www.poolsawat.com/%e0%b9%83%e0%b8%8a%e0%b9%89-webflux-%e0%b8%81%e0%b8%b1%e0%b8%9a-graphql/
   state:
     shortLink: https://link.webring.in.th/2765
+fad41ec3cc16fc88b9457b3244b7865c:bluesky:
+  spec:
+    title: จดๆจากงาน Agile Thailand 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/recap-agile-thailand-2026/
+  state:
+    cid: bafyreiaambfsh2wpjebaiabh3uxvcvnjfid2c3uxvop7qmtpfrn3yhuznu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqyczszzk42r
+fad41ec3cc16fc88b9457b3244b7865c:facebook:
+  spec:
+    title: จดๆจากงาน Agile Thailand 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/recap-agile-thailand-2026/
+  state:
+    id: '100746876247412_1023329413989634'
+    url: https://www.facebook.com/100683012920950/posts/1023329413989634
+fad41ec3cc16fc88b9457b3244b7865c:mastodon:
+  spec:
+    title: จดๆจากงาน Agile Thailand 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/recap-agile-thailand-2026/
+  state:
+    id: '116945603186271866'
+    url: https://mastodon.in.th/@webring/116945603186271866
+fad41ec3cc16fc88b9457b3244b7865c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/07/recap-agile-thailand-2026/
+  state:
+    shortLink: https://link.webring.in.th/3330
 fae418fdcfbeef1e6da2b2679f6b50a1:bluesky:
   spec:
     title: '5 เทคนิคท่องเที่ยวเชิงธรรมชาติแบบยั่งยืนปี 2026: มากกว่าแค่ไม่ทิ้งขยะ (Regenerative Travel) [myifew.com]'
