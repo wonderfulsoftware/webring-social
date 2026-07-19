@@ -45509,6 +45509,32 @@ def5120abddd40fd2233585c93a6667e:shorturl:
     url: https://amiearth.com/blog/fedcm-third-party-cookies-migration-checklist
   state:
     shortLink: https://link.webring.in.th/3100
+defb8bdcd50ebad3931a4f9c6f53e54c:bluesky:
+  spec:
+    title: Upgrade Template ใหม่ [pontakorn.dev]
+    url: https://pontakorn.dev/posts/upgrade-template/
+  state:
+    cid: bafyreif4kdxiymstjt4v2onahssyjsnufwqy2njmvy2nirfiebwtxildmq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mqy35qazke2v
+defb8bdcd50ebad3931a4f9c6f53e54c:facebook:
+  spec:
+    title: Upgrade Template ใหม่ [pontakorn.dev]
+    url: https://pontakorn.dev/posts/upgrade-template/
+  state:
+    id: '100746876247412_1023259823996593'
+    url: https://www.facebook.com/100683012920950/posts/1023259823996593
+defb8bdcd50ebad3931a4f9c6f53e54c:mastodon:
+  spec:
+    title: Upgrade Template ใหม่ [pontakorn.dev]
+    url: https://pontakorn.dev/posts/upgrade-template/
+  state:
+    id: '116945049382357832'
+    url: https://mastodon.in.th/@webring/116945049382357832
+defb8bdcd50ebad3931a4f9c6f53e54c:shorturl:
+  spec:
+    url: https://pontakorn.dev/posts/upgrade-template/
+  state:
+    shortLink: https://link.webring.in.th/3329
 defe0d87e476b6e9cb1b0f8d72ae8f90:facebook:
   spec:
     title: 'AI-102: Get started with Azure AI Services [debuggingsoft.com]'
