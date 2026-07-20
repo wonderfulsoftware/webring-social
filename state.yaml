@@ -10273,6 +10273,32 @@
     url: https://pontakorn.dev/posts/easier-testing-with-testcontainers/
   state:
     shortLink: https://link.webring.in.th/2280
+3308a3ec5854cf009a538f715711aecb:bluesky:
+  spec:
+    title: 'Playwright :: Visual testing สำหรับตรวจสอบ look and feel ของระบบ web [somkiat.cc]'
+    url: https://www.somkiat.cc/playwright-visual-testing/
+  state:
+    cid: bafyreig4znlm3ygl3mpbimd7oq2vndh5rt663rfef3vj5m2a7dqwonsypy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mr2n2hjhmz24
+3308a3ec5854cf009a538f715711aecb:facebook:
+  spec:
+    title: 'Playwright :: Visual testing สำหรับตรวจสอบ look and feel ของระบบ web [somkiat.cc]'
+    url: https://www.somkiat.cc/playwright-visual-testing/
+  state:
+    id: '100746876247412_1024054760583766'
+    url: https://www.facebook.com/100683012920950/posts/1024054760583766
+3308a3ec5854cf009a538f715711aecb:mastodon:
+  spec:
+    title: 'Playwright :: Visual testing สำหรับตรวจสอบ look and feel ของระบบ web [somkiat.cc]'
+    url: https://www.somkiat.cc/playwright-visual-testing/
+  state:
+    id: '116950812026561499'
+    url: https://mastodon.in.th/@webring/116950812026561499
+3308a3ec5854cf009a538f715711aecb:shorturl:
+  spec:
+    url: https://www.somkiat.cc/playwright-visual-testing/
+  state:
+    shortLink: https://link.webring.in.th/3331
 3310ca25418d424b059b5805051094ba:facebook:
   spec:
     title: AirPlay, HomeKit ข้าม VLAN ด้วย Avahi [nuttdam.com]
