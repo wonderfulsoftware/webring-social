@@ -24258,6 +24258,32 @@
     url: https://tech.duckfollow.co/flow/api-architecture
   state:
     shortLink: https://webring.page.link/7BjF
+778bb7170152ce825b89c365989d2dc7:bluesky:
+  spec:
+    title: สัปดาห์ที่ชมพูเอาอยู่คนเดียว (13-19 ก.ค. 2569) [myifew.com]
+    url: https://myifew.com/7840/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b8%84/
+  state:
+    cid: bafyreifufdrlb6l5yzqygmc4mqyzsiycoi6nkbrwi6ojgoyvhuf5mb7bva
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mr3gvzlk652q
+778bb7170152ce825b89c365989d2dc7:facebook:
+  spec:
+    title: สัปดาห์ที่ชมพูเอาอยู่คนเดียว (13-19 ก.ค. 2569) [myifew.com]
+    url: https://myifew.com/7840/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b8%84/
+  state:
+    id: '100746876247412_1024346187221290'
+    url: https://www.facebook.com/100683012920950/posts/1024346187221290
+778bb7170152ce825b89c365989d2dc7:mastodon:
+  spec:
+    title: สัปดาห์ที่ชมพูเอาอยู่คนเดียว (13-19 ก.ค. 2569) [myifew.com]
+    url: https://myifew.com/7840/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b8%84/
+  state:
+    id: '116952631727788729'
+    url: https://mastodon.in.th/@webring/116952631727788729
+778bb7170152ce825b89c365989d2dc7:shorturl:
+  spec:
+    url: https://myifew.com/7840/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b8%84/
+  state:
+    shortLink: https://link.webring.in.th/3333
 778d14ed2613eab263c40e150a927ada:bluesky:
   spec:
     title: Load Testing API ด้วย Node.js และ PostgreSQL ด้วย Connection Pool [boychawin.com]
