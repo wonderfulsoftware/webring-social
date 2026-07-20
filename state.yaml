@@ -39884,6 +39884,32 @@ c276846281c0172f02adfb254f8ea128:shorturl:
     url: https://jitrak.dev/posts/post-15-jam-dev/
   state:
     shortLink: https://webring.page.link/Qr4G
+c28d3a5f9d60790c0503cc1c609381a5:bluesky:
+  spec:
+    title: 'TIL: Snowflake vs BigQuery vs ClickHouse เลือกใช้อันไหนดี [jetsukda.dev]'
+    url: https://jetsukda.dev/til/snowflake-vs-bigquery-vs-clickhouse/
+  state:
+    cid: bafyreifnu6xkwyp463dxuvop5ztcwtkyveslmec3u36euae3sfvf2cp4w4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mr37gkry3e2q
+c28d3a5f9d60790c0503cc1c609381a5:facebook:
+  spec:
+    title: 'TIL: Snowflake vs BigQuery vs ClickHouse เลือกใช้อันไหนดี [jetsukda.dev]'
+    url: https://jetsukda.dev/til/snowflake-vs-bigquery-vs-clickhouse/
+  state:
+    id: '100746876247412_1024256017230307'
+    url: https://www.facebook.com/100683012920950/posts/1024256017230307
+c28d3a5f9d60790c0503cc1c609381a5:mastodon:
+  spec:
+    title: 'TIL: Snowflake vs BigQuery vs ClickHouse เลือกใช้อันไหนดี [jetsukda.dev]'
+    url: https://jetsukda.dev/til/snowflake-vs-bigquery-vs-clickhouse/
+  state:
+    id: '116952105107501845'
+    url: https://mastodon.in.th/@webring/116952105107501845
+c28d3a5f9d60790c0503cc1c609381a5:shorturl:
+  spec:
+    url: https://jetsukda.dev/til/snowflake-vs-bigquery-vs-clickhouse/
+  state:
+    shortLink: https://link.webring.in.th/3332
 c28f98c41961bc39cf20556e68be96a4:bluesky:
   spec:
     title: 'Bun v1.2.4 :: สนับสนุน Static site แล้ว [somkiat.cc]'
