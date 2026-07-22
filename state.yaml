@@ -23739,6 +23739,32 @@
     url: https://poom.dev/challenges/
   state:
     shortLink: https://link.webring.in.th/2619
+75d14cc50abc4dd7fc5b53b0c09537fe:bluesky:
+  spec:
+    title: Open Knowledge Format ฟอร์แมตกลางของ Knowledge/Dataset สำหรับ AI จาก Google Cloud [myifew.com]
+    url: https://myifew.com/7843/open-knowledge-format-okf-llm-wiki/
+  state:
+    cid: bafyreigty5tmiuhctn5lpumzdxrx7tlmq256au2scbvcqdz6vyigten5fa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mr7mgeeqyk2x
+75d14cc50abc4dd7fc5b53b0c09537fe:facebook:
+  spec:
+    title: Open Knowledge Format ฟอร์แมตกลางของ Knowledge/Dataset สำหรับ AI จาก Google Cloud [myifew.com]
+    url: https://myifew.com/7843/open-knowledge-format-okf-llm-wiki/
+  state:
+    id: '100746876247412_1025687323753843'
+    url: https://www.facebook.com/100683012920950/posts/1025687323753843
+75d14cc50abc4dd7fc5b53b0c09537fe:mastodon:
+  spec:
+    title: Open Knowledge Format ฟอร์แมตกลางของ Knowledge/Dataset สำหรับ AI จาก Google Cloud [myifew.com]
+    url: https://myifew.com/7843/open-knowledge-format-okf-llm-wiki/
+  state:
+    id: '116962026824143135'
+    url: https://mastodon.in.th/@webring/116962026824143135
+75d14cc50abc4dd7fc5b53b0c09537fe:shorturl:
+  spec:
+    url: https://myifew.com/7843/open-knowledge-format-okf-llm-wiki/
+  state:
+    shortLink: https://link.webring.in.th/3334
 75e23a798d1f1b8136db8ec13eb378e4:bluesky:
   spec:
     title: เชื่อมต่อกับ Redis แบบ Reactive [poolsawat.com]
