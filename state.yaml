@@ -22417,6 +22417,32 @@
     url: https://notes.dt.in.th/ElysiaLogging
   state:
     shortLink: https://link.webring.in.th/2217
+6f87ce2ddd2fff8cb73513fab0a4fc2f:bluesky:
+  spec:
+    title: เป็น content creator staff ครั้งแรก ที่งาน Google IO Extended Bangkok 2026 [mikkipastel.com]
+    url: https://www.mikkipastel.com/google-io-extended-bangkok-2026/
+  state:
+    cid: bafyreiel2k6sdvssc5grgj7byao3mgisti6jecml5v7y5yxp7tpxtymoga
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrevs2tklm2u
+6f87ce2ddd2fff8cb73513fab0a4fc2f:facebook:
+  spec:
+    title: เป็น content creator staff ครั้งแรก ที่งาน Google IO Extended Bangkok 2026 [mikkipastel.com]
+    url: https://www.mikkipastel.com/google-io-extended-bangkok-2026/
+  state:
+    id: '100746876247412_1027388473583728'
+    url: https://www.facebook.com/100683012920950/posts/1027388473583728
+6f87ce2ddd2fff8cb73513fab0a4fc2f:mastodon:
+  spec:
+    title: เป็น content creator staff ครั้งแรก ที่งาน Google IO Extended Bangkok 2026 [mikkipastel.com]
+    url: https://www.mikkipastel.com/google-io-extended-bangkok-2026/
+  state:
+    id: '116973945183722273'
+    url: https://mastodon.in.th/@webring/116973945183722273
+6f87ce2ddd2fff8cb73513fab0a4fc2f:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/google-io-extended-bangkok-2026/
+  state:
+    shortLink: https://link.webring.in.th/3337
 6f8d09472ed9189d43ec18f9e983a1c2:facebook:
   spec:
     title: 'สรุป Session: Designing Interfaces with ROI as the Primary Goal [blog.ninprd.com]'
