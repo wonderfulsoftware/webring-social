@@ -8172,6 +8172,32 @@
     url: https://www.somkiat.cc/apache-kafka-4/
   state:
     shortLink: https://link.webring.in.th/2492
+283854899d75a21e428efa21258b8294:bluesky:
+  spec:
+    title: Performance Issue (Recap จากประสบการณ์) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/performance-issue-recap-from-my-13-year-experience/
+  state:
+    cid: bafyreic522rlqvuhmn5lz6ewryfqlljfirujlm2dbi6vjfwseipnaaya6u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrengec7wc2r
+283854899d75a21e428efa21258b8294:facebook:
+  spec:
+    title: Performance Issue (Recap จากประสบการณ์) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/performance-issue-recap-from-my-13-year-experience/
+  state:
+    id: '100746876247412_1027306286925280'
+    url: https://www.facebook.com/100683012920950/posts/1027306286925280
+283854899d75a21e428efa21258b8294:mastodon:
+  spec:
+    title: Performance Issue (Recap จากประสบการณ์) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/performance-issue-recap-from-my-13-year-experience/
+  state:
+    id: '116973356567802625'
+    url: https://mastodon.in.th/@webring/116973356567802625
+283854899d75a21e428efa21258b8294:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/07/performance-issue-recap-from-my-13-year-experience/
+  state:
+    shortLink: https://link.webring.in.th/3336
 283a2af73e4faebd04c76907b2ba9124:facebook:
   spec:
     title: npm checkmark [dt.in.th]
