@@ -29412,6 +29412,32 @@
     url: https://knowlats.dev/review-course-humanistic-software-architecture/
   state:
     shortLink: https://webring.page.link/GMfx
+8e4e16626bfe6482ae7195e8041d646b:bluesky:
+  spec:
+    title: มาลองใช้งาน Quarkus Agent MCP สำหรับการพัฒนาระบบงานด้วย Quarkus [somkiat.cc]
+    url: https://www.somkiat.cc/working-with-quarkus-agent-mcp/
+  state:
+    cid: bafyreict3w3fywrzyzbaipt4f7z77ihrzub3g5u4msiol7j27ujmas7ebq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrhfboxcts2j
+8e4e16626bfe6482ae7195e8041d646b:facebook:
+  spec:
+    title: มาลองใช้งาน Quarkus Agent MCP สำหรับการพัฒนาระบบงานด้วย Quarkus [somkiat.cc]
+    url: https://www.somkiat.cc/working-with-quarkus-agent-mcp/
+  state:
+    id: '100746876247412_1028202753502300'
+    url: https://www.facebook.com/100683012920950/posts/1028202753502300
+8e4e16626bfe6482ae7195e8041d646b:mastodon:
+  spec:
+    title: มาลองใช้งาน Quarkus Agent MCP สำหรับการพัฒนาระบบงานด้วย Quarkus [somkiat.cc]
+    url: https://www.somkiat.cc/working-with-quarkus-agent-mcp/
+  state:
+    id: '116979538558360902'
+    url: https://mastodon.in.th/@webring/116979538558360902
+8e4e16626bfe6482ae7195e8041d646b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/working-with-quarkus-agent-mcp/
+  state:
+    shortLink: https://link.webring.in.th/3339
 8e4eb40816e86a5184c42ae5e173c266:bluesky:
   spec:
     title: Google Sheet บันทึกจ่ายปันผล [mymoneytoolkit.app]
