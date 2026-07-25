@@ -51679,6 +51679,32 @@ fb59631bc212db49aa6b847609fff173:shorturl:
     url: https://ntsd.dev/extract-cricital-css/
   state:
     shortLink: https://webring.page.link/3MJK
+fb8252f6c3661ddafad42c2fba4bc736:bluesky:
+  spec:
+    title: 'Working Agreement กับ AI: กติกาเล็กๆ ที่ทำให้ Coding Agent ไม่หลุดทาง [myifew.com]'
+    url: https://myifew.com/7871/working-agreement-with-ai/
+  state:
+    cid: bafyreihouf7ggos5ushxi4ouenav7nuchin34zcdp2vdvp3z6o3xfx45mu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrh5ki7q2e2u
+fb8252f6c3661ddafad42c2fba4bc736:facebook:
+  spec:
+    title: 'Working Agreement กับ AI: กติกาเล็กๆ ที่ทำให้ Coding Agent ไม่หลุดทาง [myifew.com]'
+    url: https://myifew.com/7871/working-agreement-with-ai/
+  state:
+    id: '100746876247412_1028126920176550'
+    url: https://www.facebook.com/100683012920950/posts/1028126920176550
+fb8252f6c3661ddafad42c2fba4bc736:mastodon:
+  spec:
+    title: 'Working Agreement กับ AI: กติกาเล็กๆ ที่ทำให้ Coding Agent ไม่หลุดทาง [myifew.com]'
+    url: https://myifew.com/7871/working-agreement-with-ai/
+  state:
+    id: '116978994019035761'
+    url: https://mastodon.in.th/@webring/116978994019035761
+fb8252f6c3661ddafad42c2fba4bc736:shorturl:
+  spec:
+    url: https://myifew.com/7871/working-agreement-with-ai/
+  state:
+    shortLink: https://link.webring.in.th/3338
 fb919de78e2341e9e177fd94a7b1002e:facebook:
   spec:
     title: ลบ node_modules ในเครื่องด้วย NPKILL [somkiat.cc]
