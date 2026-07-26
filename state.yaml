@@ -30537,6 +30537,32 @@
     url: https://tech.duckfollow.co/view/jwt
   state:
     shortLink: https://webring.page.link/sRtU
+9343909305fd9a055e4dca6bec1972e3:bluesky:
+  spec:
+    title: Password isn't enough to protect your laptop [karnwong.me]
+    url: https://karnwong.me/posts/2026/07/password-isnt-enough-to-protect-your-laptop/
+  state:
+    cid: bafyreibxlyr56bhsszei6u4dozfdsboh2iairnl4bis6uqeu2ayt5oodni
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrjowyu3p22o
+9343909305fd9a055e4dca6bec1972e3:facebook:
+  spec:
+    title: Password isn't enough to protect your laptop [karnwong.me]
+    url: https://karnwong.me/posts/2026/07/password-isnt-enough-to-protect-your-laptop/
+  state:
+    id: '100746876247412_1028965833425992'
+    url: https://www.facebook.com/100683012920950/posts/1028965833425992
+9343909305fd9a055e4dca6bec1972e3:mastodon:
+  spec:
+    title: Password isn't enough to protect your laptop [karnwong.me]
+    url: https://karnwong.me/posts/2026/07/password-isnt-enough-to-protect-your-laptop/
+  state:
+    id: '116984722149217721'
+    url: https://mastodon.in.th/@webring/116984722149217721
+9343909305fd9a055e4dca6bec1972e3:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/07/password-isnt-enough-to-protect-your-laptop/
+  state:
+    shortLink: https://link.webring.in.th/3340
 9343cda938ed8e57ca6ab4d6f7f73eec:facebook:
   spec:
     title: บำเหน็จ และบำนาญของประกันสังคม (ม.33) คิดยังไง [debuggingsoft.com]
