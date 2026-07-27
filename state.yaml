@@ -7724,6 +7724,32 @@
     url: https://naiwaen.debuggingsoft.com/2026/03/recap-live-thailand-claude-meetup-2026-03/
   state:
     shortLink: https://link.webring.in.th/3040
+25f28999803442b11bb95b4769af74cb:bluesky:
+  spec:
+    title: จดๆจาก vLLM by mood @OpenCraft [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/recap-vllm-by-mood-opencraft/
+  state:
+    cid: bafyreibo7ugym75aefaipgqwwvot2zmd2wx3im3yodcrs23qedzo2asyyq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrnebyj6ku2e
+25f28999803442b11bb95b4769af74cb:facebook:
+  spec:
+    title: จดๆจาก vLLM by mood @OpenCraft [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/recap-vllm-by-mood-opencraft/
+  state:
+    id: '100746876247412_1030261703296405'
+    url: https://www.facebook.com/100683012920950/posts/1030261703296405
+25f28999803442b11bb95b4769af74cb:mastodon:
+  spec:
+    title: จดๆจาก vLLM by mood @OpenCraft [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/recap-vllm-by-mood-opencraft/
+  state:
+    id: '116992979311899376'
+    url: https://mastodon.in.th/@webring/116992979311899376
+25f28999803442b11bb95b4769af74cb:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/07/recap-vllm-by-mood-opencraft/
+  state:
+    shortLink: https://link.webring.in.th/3344
 2609981e0d8479ab1968d618a504003f:facebook:
   spec:
     title: '[C#] ทำ Unit Test กับ XML ครับ [debuggingsoft.com]'
