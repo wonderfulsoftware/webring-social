@@ -46103,6 +46103,32 @@ e10a6f3032c8d6c47865b0d1f8b14d73:shorturl:
     url: https://mymoneytoolkit.app/posts/gold-return
   state:
     shortLink: https://link.webring.in.th/2949
+e112a6d963226d7038bf3d0d16dae722:bluesky:
+  spec:
+    title: สวัสดี TypeScript 7.0 [somkiat.cc]
+    url: https://www.somkiat.cc/hello-typescript-7/
+  state:
+    cid: bafyreihduhvq2eadc4xswhius44wu5pty4zml6ya2wuqjtbixysgz3dntm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrmup62skp24
+e112a6d963226d7038bf3d0d16dae722:facebook:
+  spec:
+    title: สวัสดี TypeScript 7.0 [somkiat.cc]
+    url: https://www.somkiat.cc/hello-typescript-7/
+  state:
+    id: '100746876247412_1030038919985350'
+    url: https://www.facebook.com/100683012920950/posts/1030038919985350
+e112a6d963226d7038bf3d0d16dae722:mastodon:
+  spec:
+    title: สวัสดี TypeScript 7.0 [somkiat.cc]
+    url: https://www.somkiat.cc/hello-typescript-7/
+  state:
+    id: '116991882790410792'
+    url: https://mastodon.in.th/@webring/116991882790410792
+e112a6d963226d7038bf3d0d16dae722:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-typescript-7/
+  state:
+    shortLink: https://link.webring.in.th/3343
 e123e4c90a06fcbdec6a3fe71d4f2d2d:bluesky:
   spec:
     title: ทำความรู้จัก Latent Space และทำบอทเทรดสุดง่าย [mikkipastel.com]
