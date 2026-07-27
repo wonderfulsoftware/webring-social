@@ -9757,6 +9757,32 @@
     url: https://garden.narze.live/projects/
   state:
     shortLink: https://webring.page.link/92sv
+2fe3bcf319688cd09021f20eac0150ed:bluesky:
+  spec:
+    title: The Agentskills, The Claude Code and The ironly [nitpum.com]
+    url: https://nitpum.com/post/agentskills-claude-code/
+  state:
+    cid: bafyreid564sc5bdil5xpdc3v23aeajvwg6grtllyogwu4cyzk7nnnfrj7q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrmaxpgav523
+2fe3bcf319688cd09021f20eac0150ed:facebook:
+  spec:
+    title: The Agentskills, The Claude Code and The ironly [nitpum.com]
+    url: https://nitpum.com/post/agentskills-claude-code/
+  state:
+    id: '100746876247412_1029820690007173'
+    url: https://www.facebook.com/100683012920950/posts/1029820690007173
+2fe3bcf319688cd09021f20eac0150ed:mastodon:
+  spec:
+    title: The Agentskills, The Claude Code and The ironly [nitpum.com]
+    url: https://nitpum.com/post/agentskills-claude-code/
+  state:
+    id: '116990494239972427'
+    url: https://mastodon.in.th/@webring/116990494239972427
+2fe3bcf319688cd09021f20eac0150ed:shorturl:
+  spec:
+    url: https://nitpum.com/post/agentskills-claude-code/
+  state:
+    shortLink: https://link.webring.in.th/3342
 2ff36150b2dba6147db8af5c426f92e8:facebook:
   spec:
     title: NestJS และ Mongo [mikelopster.dev]
