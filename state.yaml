@@ -14273,6 +14273,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-python-for-data-analyst/
   state:
     shortLink: https://link.webring.in.th/2485
+473a90af77586acaab7181b71f9045d3:bluesky:
+  spec:
+    title: คู่มือเบื้องต้น Google sheet ที่ใครก็เอาไปใช้ได้ ตอนที่ 3 (ทำชีตให้เปิดมาแล้วรู้เรื่อง) [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-3
+  state:
+    cid: bafyreibdh4duswrqro3k6jsblcsmtxgnismm4gwlvwd74vboesqt7nawv4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrop4lb2ei2q
+473a90af77586acaab7181b71f9045d3:facebook:
+  spec:
+    title: คู่มือเบื้องต้น Google sheet ที่ใครก็เอาไปใช้ได้ ตอนที่ 3 (ทำชีตให้เปิดมาแล้วรู้เรื่อง) [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-3
+  state:
+    id: '100746876247412_1030710346584874'
+    url: https://www.facebook.com/100683012920950/posts/1030710346584874
+473a90af77586acaab7181b71f9045d3:mastodon:
+  spec:
+    title: คู่มือเบื้องต้น Google sheet ที่ใครก็เอาไปใช้ได้ ตอนที่ 3 (ทำชีตให้เปิดมาแล้วรู้เรื่อง) [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-3
+  state:
+    id: '116995993574207930'
+    url: https://mastodon.in.th/@webring/116995993574207930
+473a90af77586acaab7181b71f9045d3:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-3
+  state:
+    shortLink: https://link.webring.in.th/3345
 4748dbb3467b1eed6a45a67064284e03:facebook:
   spec:
     title: สรุปเรื่องที่เข้าฟังในงาน Agile Thailand 2023 ช่วงเช้านิดหน่อย [somkiat.cc]
