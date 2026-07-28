@@ -52275,6 +52275,32 @@ fe4a69964e0307240ba0fb62f74fd749:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/01/azure-document-intelligent-rest-api-for-extract-receipt/
   state:
     shortLink: https://link.webring.in.th/2369
+fe603f0d3761c0fc4bfd07b2b12bfbac:bluesky:
+  spec:
+    title: เริ่มต้นใช้งาน Pi Coding Agent แบบง่าย ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/let-start-with-pi-coding-agent/
+  state:
+    cid: bafyreihxbbu2rqswrbnfyi2xouqq2u7gs6iidrguds7xwlr2mfpktirm54
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrpblrhjqm2v
+fe603f0d3761c0fc4bfd07b2b12bfbac:facebook:
+  spec:
+    title: เริ่มต้นใช้งาน Pi Coding Agent แบบง่าย ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/let-start-with-pi-coding-agent/
+  state:
+    id: '100746876247412_1030909599898282'
+    url: https://www.facebook.com/100683012920950/posts/1030909599898282
+fe603f0d3761c0fc4bfd07b2b12bfbac:mastodon:
+  spec:
+    title: เริ่มต้นใช้งาน Pi Coding Agent แบบง่าย ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/let-start-with-pi-coding-agent/
+  state:
+    id: '116997293258943684'
+    url: https://mastodon.in.th/@webring/116997293258943684
+fe603f0d3761c0fc4bfd07b2b12bfbac:shorturl:
+  spec:
+    url: https://www.somkiat.cc/let-start-with-pi-coding-agent/
+  state:
+    shortLink: https://link.webring.in.th/3347
 fe7c16dc875d352211a3eed6cb150a6a:facebook:
   spec:
     title: 'Tutorial: สร้าง Blog ด้วย WordPress.com [blog.ninprd.com]'
