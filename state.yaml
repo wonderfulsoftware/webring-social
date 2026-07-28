@@ -28891,6 +28891,32 @@
     url: https://www.somkiat.cc/embedded-postgresql-in-spring-boot/
   state:
     shortLink: https://link.webring.in.th/1990
+8aea4650c653f3cf61102511343b6db9:bluesky:
+  spec:
+    title: Hello Neuro Symbolic กับ Payment Protocols ในยุค AI Agent กับคอมมู Solana Dev [mikkipastel.com]
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-4-bangkok/
+  state:
+    cid: bafyreidb3a53h3i5chj4q2ede3npgshthcvwbglw4xmesk5yuqfh6ttc54
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrpkesmlay2r
+8aea4650c653f3cf61102511343b6db9:facebook:
+  spec:
+    title: Hello Neuro Symbolic กับ Payment Protocols ในยุค AI Agent กับคอมมู Solana Dev [mikkipastel.com]
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-4-bangkok/
+  state:
+    id: '100746876247412_1031026793219896'
+    url: https://www.facebook.com/100683012920950/posts/1031026793219896
+8aea4650c653f3cf61102511343b6db9:mastodon:
+  spec:
+    title: Hello Neuro Symbolic กับ Payment Protocols ในยุค AI Agent กับคอมมู Solana Dev [mikkipastel.com]
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-4-bangkok/
+  state:
+    id: '116997911719316723'
+    url: https://mastodon.in.th/@webring/116997911719316723
+8aea4650c653f3cf61102511343b6db9:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-4-bangkok/
+  state:
+    shortLink: https://link.webring.in.th/3348
 8b0b4d57c6becd229669be95a30ae031:facebook:
   spec:
     title: 'micro-dollar: a way to deals with decimal numbers or monetary values [heyfirst.co]'
