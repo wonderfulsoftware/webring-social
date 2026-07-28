@@ -14960,6 +14960,32 @@
     url: https://www.karnwong.me/posts/2023/03/book-highlights---the-staff-engineers-path/
   state:
     shortLink: https://webring.page.link/rhFG
+4b1e34c38095db0b328d02c8463d5983:bluesky:
+  spec:
+    title: แกะรูปแบบการเขียน Requirement ระบบ LLM Wiki ของ Karpathy [myifew.com]
+    url: https://myifew.com/7879/karpathy-llm-wiki-requirement-context-engineering/
+  state:
+    cid: bafyreig3hkspul2p26duzejfmimwsw2nw5pxqkl2drv74xsiiqlpcfoulq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrptesruhf2v
+4b1e34c38095db0b328d02c8463d5983:facebook:
+  spec:
+    title: แกะรูปแบบการเขียน Requirement ระบบ LLM Wiki ของ Karpathy [myifew.com]
+    url: https://myifew.com/7879/karpathy-llm-wiki-requirement-context-engineering/
+  state:
+    id: '100746876247412_1031144366541472'
+    url: https://www.facebook.com/100683012920950/posts/1031144366541472
+4b1e34c38095db0b328d02c8463d5983:mastodon:
+  spec:
+    title: แกะรูปแบบการเขียน Requirement ระบบ LLM Wiki ของ Karpathy [myifew.com]
+    url: https://myifew.com/7879/karpathy-llm-wiki-requirement-context-engineering/
+  state:
+    id: '116998544301163651'
+    url: https://mastodon.in.th/@webring/116998544301163651
+4b1e34c38095db0b328d02c8463d5983:shorturl:
+  spec:
+    url: https://myifew.com/7879/karpathy-llm-wiki-requirement-context-engineering/
+  state:
+    shortLink: https://link.webring.in.th/3349
 4b2c044a93df0eb17361dc1a44b927fd:facebook:
   spec:
     title: eBPF 101 สำหรับมือใหม่ [poolsawat.com]
