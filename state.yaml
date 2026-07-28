@@ -38609,6 +38609,32 @@ ba901617c7039c005602d1873810da5f:shorturl:
     url: https://garden.narze.live/Brag/2023/
   state:
     shortLink: https://webring.page.link/bCMD
+bae18486c839d7b076975021ab91fb98:bluesky:
+  spec:
+    title: OpenSSH SSH Server Cannot Start Error 1067 (Windows) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/openssh-ssh-server-cannot-start-error-1067-windows/
+  state:
+    cid: bafyreif63wpliydljaqw4rhmpu2ucrfxtbgrxc6sclmqgjkfw7u3meou7m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mroy4yrgfh2y
+bae18486c839d7b076975021ab91fb98:facebook:
+  spec:
+    title: OpenSSH SSH Server Cannot Start Error 1067 (Windows) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/openssh-ssh-server-cannot-start-error-1067-windows/
+  state:
+    id: '100746876247412_1030804676575441'
+    url: https://www.facebook.com/100683012920950/posts/1030804676575441
+bae18486c839d7b076975021ab91fb98:mastodon:
+  spec:
+    title: OpenSSH SSH Server Cannot Start Error 1067 (Windows) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/openssh-ssh-server-cannot-start-error-1067-windows/
+  state:
+    id: '116996627950093260'
+    url: https://mastodon.in.th/@webring/116996627950093260
+bae18486c839d7b076975021ab91fb98:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/07/openssh-ssh-server-cannot-start-error-1067-windows/
+  state:
+    shortLink: https://link.webring.in.th/3346
 baf1cba73bc55b67215298059cbe5fc9:facebook:
   spec:
     title: หัดเขียน iOS App ด้วย SwiftUI ตอนที่ 1 [anuwong.com]
