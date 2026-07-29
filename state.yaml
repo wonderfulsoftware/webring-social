@@ -50361,6 +50361,32 @@ f37b2fc39c75531ba699b3898775d455:shorturl:
     url: https://www.mikkipastel.com/regular-expression-regex-101/
   state:
     shortLink: https://link.webring.in.th/2160
+f39c5a0b0bdf4ba2cd372ec5b7d61c3d:bluesky:
+  spec:
+    title: '[CR] Aoringo-Nibuta Curry รอบนี้ลด 99% [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/07/cr-aoringo-nibuta-curry-discount-99-percent/
+  state:
+    cid: bafyreidkckofwevax4xsfxayoj7pailvgg2ktnphuqc5x7kuiddmysjpem
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrrshezaxe2v
+f39c5a0b0bdf4ba2cd372ec5b7d61c3d:facebook:
+  spec:
+    title: '[CR] Aoringo-Nibuta Curry รอบนี้ลด 99% [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/07/cr-aoringo-nibuta-curry-discount-99-percent/
+  state:
+    id: '100746876247412_1031826789806563'
+    url: https://www.facebook.com/100683012920950/posts/1031826789806563
+f39c5a0b0bdf4ba2cd372ec5b7d61c3d:mastodon:
+  spec:
+    title: '[CR] Aoringo-Nibuta Curry รอบนี้ลด 99% [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/07/cr-aoringo-nibuta-curry-discount-99-percent/
+  state:
+    id: '117002984015733481'
+    url: https://mastodon.in.th/@webring/117002984015733481
+f39c5a0b0bdf4ba2cd372ec5b7d61c3d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/07/cr-aoringo-nibuta-curry-discount-99-percent/
+  state:
+    shortLink: https://link.webring.in.th/3352
 f3b594fe7c052e69a8a41d1810b7767b:facebook:
   spec:
     title: '[.NET] บันทึกการจัดการ NuGet ที่ต้องแยกเฉพาะตาม Platform ครับ [debuggingsoft.com]'
