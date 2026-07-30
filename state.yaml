@@ -4720,6 +4720,32 @@
     url: https://xiengperm.dev/posts/learn-anything-knowledge-platform-th/
   state:
     shortLink: https://link.webring.in.th/3108
+17ba5c7d918792ebb3c802eb19905b98:bluesky:
+  spec:
+    title: 'Good Test :: แต่ละ test case ควรจบในตัวเอง (self-contained tests) [somkiat.cc]'
+    url: https://www.somkiat.cc/self-contained-tests-good-test/
+  state:
+    cid: bafyreihbzdw2aelcibmjdpyrjvehnglvoklyitqiulihnpre6xpfhdjnni
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrubx7edbq2j
+17ba5c7d918792ebb3c802eb19905b98:facebook:
+  spec:
+    title: 'Good Test :: แต่ละ test case ควรจบในตัวเอง (self-contained tests) [somkiat.cc]'
+    url: https://www.somkiat.cc/self-contained-tests-good-test/
+  state:
+    id: '100746876247412_1032731403049435'
+    url: https://www.facebook.com/100683012920950/posts/1032731403049435
+17ba5c7d918792ebb3c802eb19905b98:mastodon:
+  spec:
+    title: 'Good Test :: แต่ละ test case ควรจบในตัวเอง (self-contained tests) [somkiat.cc]'
+    url: https://www.somkiat.cc/self-contained-tests-good-test/
+  state:
+    id: '117008577848154992'
+    url: https://mastodon.in.th/@webring/117008577848154992
+17ba5c7d918792ebb3c802eb19905b98:shorturl:
+  spec:
+    url: https://www.somkiat.cc/self-contained-tests-good-test/
+  state:
+    shortLink: https://link.webring.in.th/3355
 17ba9f3ddacc25e709c889c7bbbce89f:facebook:
   spec:
     title: เรียนรู้เรื่องทำ Scroll เปลี่ยน Section [kajame.xyz]
