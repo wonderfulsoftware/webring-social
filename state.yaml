@@ -52069,6 +52069,32 @@ fb8252f6c3661ddafad42c2fba4bc736:shorturl:
     url: https://myifew.com/7871/working-agreement-with-ai/
   state:
     shortLink: https://link.webring.in.th/3338
+fb8b88f8d46d5cec82a90314502fa368:bluesky:
+  spec:
+    title: 'TIL: What is dbt_utils.star macro [jetsukda.dev]'
+    url: https://jetsukda.dev/til/what-is-dbt-utils-star-macro/
+  state:
+    cid: bafyreifhr3r4hnnlsaflp5hpuhft4klxd5tso2xzld3pfonkmfvoxunoia
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrtyjm4zzx2u
+fb8b88f8d46d5cec82a90314502fa368:facebook:
+  spec:
+    title: 'TIL: What is dbt_utils.star macro [jetsukda.dev]'
+    url: https://jetsukda.dev/til/what-is-dbt-utils-star-macro/
+  state:
+    id: '100746876247412_1032612353061340'
+    url: https://www.facebook.com/100683012920950/posts/1032612353061340
+fb8b88f8d46d5cec82a90314502fa368:mastodon:
+  spec:
+    title: 'TIL: What is dbt_utils.star macro [jetsukda.dev]'
+    url: https://jetsukda.dev/til/what-is-dbt-utils-star-macro/
+  state:
+    id: '117007914619049955'
+    url: https://mastodon.in.th/@webring/117007914619049955
+fb8b88f8d46d5cec82a90314502fa368:shorturl:
+  spec:
+    url: https://jetsukda.dev/til/what-is-dbt-utils-star-macro/
+  state:
+    shortLink: https://link.webring.in.th/3354
 fb919de78e2341e9e177fd94a7b1002e:facebook:
   spec:
     title: ลบ node_modules ในเครื่องด้วย NPKILL [somkiat.cc]
