@@ -2200,6 +2200,32 @@
     url: https://www.mikkipastel.com/digital-assets-navigator-bitkub/
   state:
     shortLink: https://link.webring.in.th/1795
+0af3f86762bfc97c3cf0f12dd6a0a71a:bluesky:
+  spec:
+    title: ทาง OpenAI ได้ปล่อย Codex Security CLI ออกมาให้ใช้งาน [somkiat.cc]
+    url: https://www.somkiat.cc/codex-security-cli/
+  state:
+    cid: bafyreigfu7rxqbvgqh34l5lc432tcjnbl3i2c5wr6hxgcgkud67463wl3e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrwlb57nfc23
+0af3f86762bfc97c3cf0f12dd6a0a71a:facebook:
+  spec:
+    title: ทาง OpenAI ได้ปล่อย Codex Security CLI ออกมาให้ใช้งาน [somkiat.cc]
+    url: https://www.somkiat.cc/codex-security-cli/
+  state:
+    id: '100746876247412_1033545122968063'
+    url: https://www.facebook.com/100683012920950/posts/1033545122968063
+0af3f86762bfc97c3cf0f12dd6a0a71a:mastodon:
+  spec:
+    title: ทาง OpenAI ได้ปล่อย Codex Security CLI ออกมาให้ใช้งาน [somkiat.cc]
+    url: https://www.somkiat.cc/codex-security-cli/
+  state:
+    id: '117013736498919616'
+    url: https://mastodon.in.th/@webring/117013736498919616
+0af3f86762bfc97c3cf0f12dd6a0a71a:shorturl:
+  spec:
+    url: https://www.somkiat.cc/codex-security-cli/
+  state:
+    shortLink: https://link.webring.in.th/3357
 0af60dd64250ac75484826a57245724a:bluesky:
   spec:
     title: สรุปงาน .NET Conf TH 2024 [debuggingsoft.com]
