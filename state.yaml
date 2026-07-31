@@ -8816,6 +8816,32 @@
     url: https://mymoneytoolkit.app/posts/the-wealth-architecture
   state:
     shortLink: https://link.webring.in.th/3115
+2b03e3ca54add81ee2b8ad344fe88be1:bluesky:
+  spec:
+    title: 'The LLM Wiki Pattern: A Second Brain That Compounds [fasu.dev]'
+    url: https://fasu.dev/writings/the-llm-wiki-pattern-a-second-brain-that-compounds/
+  state:
+    cid: bafyreidhgg7rg2yzwfjkykyspsddufzpzghabieseqltpxoc3az2umkuyi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrwbl5akua2r
+2b03e3ca54add81ee2b8ad344fe88be1:facebook:
+  spec:
+    title: 'The LLM Wiki Pattern: A Second Brain That Compounds [fasu.dev]'
+    url: https://fasu.dev/writings/the-llm-wiki-pattern-a-second-brain-that-compounds/
+  state:
+    id: '100746876247412_1033444512978124'
+    url: https://www.facebook.com/100683012920950/posts/1033444512978124
+2b03e3ca54add81ee2b8ad344fe88be1:mastodon:
+  spec:
+    title: 'The LLM Wiki Pattern: A Second Brain That Compounds [fasu.dev]'
+    url: https://fasu.dev/writings/the-llm-wiki-pattern-a-second-brain-that-compounds/
+  state:
+    id: '117013055065601040'
+    url: https://mastodon.in.th/@webring/117013055065601040
+2b03e3ca54add81ee2b8ad344fe88be1:shorturl:
+  spec:
+    url: https://fasu.dev/writings/the-llm-wiki-pattern-a-second-brain-that-compounds/
+  state:
+    shortLink: https://link.webring.in.th/3356
 2b0b1b9afb7262c990fe36369f0b21da:bluesky:
   spec:
     title: How to Fixed IP in Synology NAS [debuggingsoft.com]
