@@ -32114,6 +32114,32 @@
     url: https://www.somkiat.cc/hello-spring-boot-4/
   state:
     shortLink: https://link.webring.in.th/2867
+99ed57b31f03b01ba130f520734b44c2:bluesky:
+  spec:
+    title: Update PostgreSQL 17 > 18 Docker Note [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/update-postgres-17-18-docker-note-th/
+  state:
+    cid: bafyreiaemptouh332p3ltopnw45xxy4ujuhkowkjmx675qft2w2bc7whq4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mrwtqowigs23
+99ed57b31f03b01ba130f520734b44c2:facebook:
+  spec:
+    title: Update PostgreSQL 17 > 18 Docker Note [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/update-postgres-17-18-docker-note-th/
+  state:
+    id: '100746876247412_1033641942958381'
+    url: https://www.facebook.com/100683012920950/posts/1033641942958381
+99ed57b31f03b01ba130f520734b44c2:mastodon:
+  spec:
+    title: Update PostgreSQL 17 > 18 Docker Note [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/07/update-postgres-17-18-docker-note-th/
+  state:
+    id: '117014333840097723'
+    url: https://mastodon.in.th/@webring/117014333840097723
+99ed57b31f03b01ba130f520734b44c2:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/07/update-postgres-17-18-docker-note-th/
+  state:
+    shortLink: https://link.webring.in.th/3358
 99f8a52835b90fbdfc9a51023367a782:bluesky:
   spec:
     title: LLM Architecture Dense vs MoE ต่างกันยังไง ? [debuggingsoft.com]
