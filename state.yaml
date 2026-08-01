@@ -3981,6 +3981,32 @@
     url: https://mesodiar.com/2024/04/06/iwd-vientiane-2024/
   state:
     shortLink: https://link.webring.in.th/1867
+13b2553c2a803e6dfbf92d987ec0ac44:bluesky:
+  spec:
+    title: น่าสนใจกับ The CAP Principle for LLM Serving [somkiat.cc]
+    url: https://www.somkiat.cc/cap-principle-for-llm-serving/
+  state:
+    cid: bafyreigriaj7mr4gqgczpfzhtqrlbruivsoc6fs5osugijl6a252xjljgu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mryzcqkldt2s
+13b2553c2a803e6dfbf92d987ec0ac44:facebook:
+  spec:
+    title: น่าสนใจกับ The CAP Principle for LLM Serving [somkiat.cc]
+    url: https://www.somkiat.cc/cap-principle-for-llm-serving/
+  state:
+    id: '100746876247412_1034393112883264'
+    url: https://www.facebook.com/100683012920950/posts/1034393112883264
+13b2553c2a803e6dfbf92d987ec0ac44:mastodon:
+  spec:
+    title: น่าสนใจกับ The CAP Principle for LLM Serving [somkiat.cc]
+    url: https://www.somkiat.cc/cap-principle-for-llm-serving/
+  state:
+    id: '117019228834380794'
+    url: https://mastodon.in.th/@webring/117019228834380794
+13b2553c2a803e6dfbf92d987ec0ac44:shorturl:
+  spec:
+    url: https://www.somkiat.cc/cap-principle-for-llm-serving/
+  state:
+    shortLink: https://link.webring.in.th/3360
 13b984a19d860e3fc872b1236cdeaade:bluesky:
   spec:
     title: การใช้ PRIMARY KEY, FOREIGN KEY, UNIQUE, CHECK [poolsawat.com]
