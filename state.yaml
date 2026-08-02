@@ -42062,6 +42062,32 @@ ca7481ec9c7c70e4edc5d7c73d473a8e:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/07/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-the-cloud-camp-%e0%b8%a3%e0%b8%ad%e0%b8%9a-audition/
   state:
     shortLink: https://webring.page.link/XEjq
+ca99f0ed579d74fdc979f079c7f9c828:bluesky:
+  spec:
+    title: ทำไม Claude Desktop & Claude Cowork ใช้ disk เยอะมาก ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/claude-desktop-use-too-much-disk/
+  state:
+    cid: bafyreibxqd47of6nyhj7taep2hzzcd5iinz3vfflsqz5ljoytdhd3pzkvy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ms3bxrfujw2u
+ca99f0ed579d74fdc979f079c7f9c828:facebook:
+  spec:
+    title: ทำไม Claude Desktop & Claude Cowork ใช้ disk เยอะมาก ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/claude-desktop-use-too-much-disk/
+  state:
+    id: '100746876247412_1035187612803814'
+    url: https://www.facebook.com/100683012920950/posts/1035187612803814
+ca99f0ed579d74fdc979f079c7f9c828:mastodon:
+  spec:
+    title: ทำไม Claude Desktop & Claude Cowork ใช้ disk เยอะมาก ๆ [somkiat.cc]
+    url: https://www.somkiat.cc/claude-desktop-use-too-much-disk/
+  state:
+    id: '117024341506463527'
+    url: https://mastodon.in.th/@webring/117024341506463527
+ca99f0ed579d74fdc979f079c7f9c828:shorturl:
+  spec:
+    url: https://www.somkiat.cc/claude-desktop-use-too-much-disk/
+  state:
+    shortLink: https://link.webring.in.th/3362
 caaa45774e3cfbfcfd97771f27966a91:bluesky:
   spec:
     title: Prepare exam to renew GCP Professional Cloud Architecture 2025 [jitrak.dev]
