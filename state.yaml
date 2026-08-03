@@ -26519,6 +26519,32 @@
     url: https://notes.dt.in.th/20230403T162555Z1842
   state:
     shortLink: https://webring.page.link/axFq
+7ece3663f75c4a5163be3aa2c345ff4b:bluesky:
+  spec:
+    title: มาลองดู Stateless MCP กัน [somkiat.cc]
+    url: https://www.somkiat.cc/stateless-mcp-2026-07-28/
+  state:
+    cid: bafyreigk5pklzimfkcig56pbkmyufy5ku3dsij7ventedsrtax6wlws3rm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ms5ts5m3db2u
+7ece3663f75c4a5163be3aa2c345ff4b:facebook:
+  spec:
+    title: มาลองดู Stateless MCP กัน [somkiat.cc]
+    url: https://www.somkiat.cc/stateless-mcp-2026-07-28/
+  state:
+    id: '100746876247412_1036071006048808'
+    url: https://www.facebook.com/100683012920950/posts/1036071006048808
+7ece3663f75c4a5163be3aa2c345ff4b:mastodon:
+  spec:
+    title: มาลองดู Stateless MCP กัน [somkiat.cc]
+    url: https://www.somkiat.cc/stateless-mcp-2026-07-28/
+  state:
+    id: '117030099586174317'
+    url: https://mastodon.in.th/@webring/117030099586174317
+7ece3663f75c4a5163be3aa2c345ff4b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/stateless-mcp-2026-07-28/
+  state:
+    shortLink: https://link.webring.in.th/3363
 7ed7437a9862b2945dfd3ef11e2ee656:bluesky:
   spec:
     title: 'loops!: คลังสูตรสำเร็จให้ AI วนทำงานเองจนจบ [xiengperm.dev]'
