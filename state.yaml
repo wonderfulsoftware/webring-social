@@ -51071,6 +51071,32 @@ f52e6cc105cd38ba08ddb80ada7f1b01:shorturl:
     url: https://blog.rayriffy.com/choke-in-japan-2022/
   state:
     shortLink: https://webring.page.link/co4n
+f53373900004b8d40f00c4329c1a8929:bluesky:
+  spec:
+    title: กลิ้งแลกแว่น 2569 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/run-for-eyeglasses-2569/
+  state:
+    cid: bafyreidrfka2gmdrbneof5vq7pddnyli6hbfl5lcltajyebiyet4rsk7gi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3ms6y7lgedm2f
+f53373900004b8d40f00c4329c1a8929:facebook:
+  spec:
+    title: กลิ้งแลกแว่น 2569 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/run-for-eyeglasses-2569/
+  state:
+    id: '100746876247412_1036493229339919'
+    url: https://www.facebook.com/100683012920950/posts/1036493229339919
+f53373900004b8d40f00c4329c1a8929:mastodon:
+  spec:
+    title: กลิ้งแลกแว่น 2569 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/run-for-eyeglasses-2569/
+  state:
+    id: '117032662523575241'
+    url: https://mastodon.in.th/@webring/117032662523575241
+f53373900004b8d40f00c4329c1a8929:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/08/run-for-eyeglasses-2569/
+  state:
+    shortLink: https://link.webring.in.th/3365
 f53bf7ad92b077330001b4cbb503f408:bluesky:
   spec:
     title: 'Cloud Native Bangkok Community Group #02 [debuggingsoft.com]'
