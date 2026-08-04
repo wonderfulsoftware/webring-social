@@ -20791,6 +20791,32 @@
     url: https://lucian.solutions/blog/stargazer-2025-acrylic-stand
   state:
     shortLink: https://link.webring.in.th/2505
+64b6f222f2b4285de32d453387a57001:bluesky:
+  spec:
+    title: ทำ mood board ด้วย Figjam [mikkipastel.com]
+    url: https://www.mikkipastel.com/mood-board-figjam-from-figma/
+  state:
+    cid: bafyreifs5jh4ruqpc4rgloa3ezskexfkq2hmcj2wqdq6aaet27cxf5kruy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msb5y4qugz2u
+64b6f222f2b4285de32d453387a57001:facebook:
+  spec:
+    title: ทำ mood board ด้วย Figjam [mikkipastel.com]
+    url: https://www.mikkipastel.com/mood-board-figjam-from-figma/
+  state:
+    id: '100746876247412_1037225595933349'
+    url: https://www.facebook.com/100683012920950/posts/1037225595933349
+64b6f222f2b4285de32d453387a57001:mastodon:
+  spec:
+    title: ทำ mood board ด้วย Figjam [mikkipastel.com]
+    url: https://www.mikkipastel.com/mood-board-figjam-from-figma/
+  state:
+    id: '117037571769575494'
+    url: https://mastodon.in.th/@webring/117037571769575494
+64b6f222f2b4285de32d453387a57001:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/mood-board-figjam-from-figma/
+  state:
+    shortLink: https://link.webring.in.th/3369
 64cd68f3f1689d1ce5d0c7966fb65a48:facebook:
   spec:
     title: มือใหม่หัด Estimate [blog.ninprd.com]
