@@ -4213,6 +4213,32 @@
     url: https://www.mikkipastel.com/content-stack-2023/
   state:
     shortLink: https://webring.page.link/BuFH
+149fe42e64d9ff530972a84414737335:bluesky:
+  spec:
+    title: สิ่งที่น่าสนใจกับ Integration Test Harness ของ Cloudflare [somkiat.cc]
+    url: https://www.somkiat.cc/integration-test-harness/
+  state:
+    cid: bafyreigwytom62xytiis7j53cde3lbr64o47djht2u52kfcsqawnl4datu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msavaf5ulg2s
+149fe42e64d9ff530972a84414737335:facebook:
+  spec:
+    title: สิ่งที่น่าสนใจกับ Integration Test Harness ของ Cloudflare [somkiat.cc]
+    url: https://www.somkiat.cc/integration-test-harness/
+  state:
+    id: '100746876247412_1037115405944368'
+    url: https://www.facebook.com/100683012920950/posts/1037115405944368
+149fe42e64d9ff530972a84414737335:mastodon:
+  spec:
+    title: สิ่งที่น่าสนใจกับ Integration Test Harness ของ Cloudflare [somkiat.cc]
+    url: https://www.somkiat.cc/integration-test-harness/
+  state:
+    id: '117036956606413137'
+    url: https://mastodon.in.th/@webring/117036956606413137
+149fe42e64d9ff530972a84414737335:shorturl:
+  spec:
+    url: https://www.somkiat.cc/integration-test-harness/
+  state:
+    shortLink: https://link.webring.in.th/3368
 14c882fd3f005232715e70cd237e0c9f:facebook:
   spec:
     title: 0258 | EV FAQ [icez.net]
