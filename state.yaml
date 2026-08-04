@@ -2413,6 +2413,32 @@
     url: https://www.somkiat.cc/use-case-database-timeout-with-go/
   state:
     shortLink: https://link.webring.in.th/2088
+0b8659ab7c646aa9118e991aca40f7f8:bluesky:
+  spec:
+    title: Virtual machines setup for homelab [karnwong.me]
+    url: https://karnwong.me/posts/2026/08/virtual-machines-setup-for-homelab/
+  state:
+    cid: bafyreihhm7mqsjyl2mlyj7dnsvqptmjbruxgnghqxd4f55l7dgcgg2pwp4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msalnntpvd2z
+0b8659ab7c646aa9118e991aca40f7f8:facebook:
+  spec:
+    title: Virtual machines setup for homelab [karnwong.me]
+    url: https://karnwong.me/posts/2026/08/virtual-machines-setup-for-homelab/
+  state:
+    id: '100746876247412_1037012652621310'
+    url: https://www.facebook.com/100683012920950/posts/1037012652621310
+0b8659ab7c646aa9118e991aca40f7f8:mastodon:
+  spec:
+    title: Virtual machines setup for homelab [karnwong.me]
+    url: https://karnwong.me/posts/2026/08/virtual-machines-setup-for-homelab/
+  state:
+    id: '117036282108569476'
+    url: https://mastodon.in.th/@webring/117036282108569476
+0b8659ab7c646aa9118e991aca40f7f8:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/08/virtual-machines-setup-for-homelab/
+  state:
+    shortLink: https://link.webring.in.th/3367
 0b90a32af2f18073c9c44f413e41731a:facebook:
   spec:
     title: How to hide Qwerty layout from macOS [garden.narze.live]
