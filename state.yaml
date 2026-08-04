@@ -17162,6 +17162,32 @@
     url: https://blog.oatto.dev/2025/01/04/recap-2025.html
   state:
     shortLink: https://link.webring.in.th/2391
+5441d48eb509bfb3eb86776672f57c2b:bluesky:
+  spec:
+    title: Reflect สิ่งที่ได้เรียนรู้จากเดือน July [jetsukda.dev]
+    url: https://jetsukda.dev/posts/july-2026-reflection/
+  state:
+    cid: bafyreieg3j2ryrauqwvlcvex3gh5gmfhtqez6j27rytp46x42mqtsxihbe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msbhogf3sz2u
+5441d48eb509bfb3eb86776672f57c2b:facebook:
+  spec:
+    title: Reflect สิ่งที่ได้เรียนรู้จากเดือน July [jetsukda.dev]
+    url: https://jetsukda.dev/posts/july-2026-reflection/
+  state:
+    id: '100746876247412_1037348325921076'
+    url: https://www.facebook.com/100683012920950/posts/1037348325921076
+5441d48eb509bfb3eb86776672f57c2b:mastodon:
+  spec:
+    title: Reflect สิ่งที่ได้เรียนรู้จากเดือน July [jetsukda.dev]
+    url: https://jetsukda.dev/posts/july-2026-reflection/
+  state:
+    id: '117038253932437623'
+    url: https://mastodon.in.th/@webring/117038253932437623
+5441d48eb509bfb3eb86776672f57c2b:shorturl:
+  spec:
+    url: https://jetsukda.dev/posts/july-2026-reflection/
+  state:
+    shortLink: https://link.webring.in.th/3370
 548724e6cfce6784aed85cc426c5df88:bluesky:
   spec:
     title: ลองใช้งาน Gemini-cli เล่น ๆ [somkiat.cc]
