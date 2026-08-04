@@ -42992,6 +42992,32 @@ cdb5acb3ee6d2533fe9c745ab67b3af3:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/06/recap-dotnet-meetup-june-2025/
   state:
     shortLink: https://link.webring.in.th/2596
+cdc7ad12deb3387e4cd06c5dd84b2585:bluesky:
+  spec:
+    title: Update Plan August 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-august-2026
+  state:
+    cid: bafyreiavx3ys7w6uqo7fxj77qqtfbchalwb4fhvkokrewdw6hogcdmhsjq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msachrnj6y2j
+cdc7ad12deb3387e4cd06c5dd84b2585:facebook:
+  spec:
+    title: Update Plan August 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-august-2026
+  state:
+    id: '100746876247412_1036920002630575'
+    url: https://www.facebook.com/100683012920950/posts/1036920002630575
+cdc7ad12deb3387e4cd06c5dd84b2585:mastodon:
+  spec:
+    title: Update Plan August 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-august-2026
+  state:
+    id: '117035635813192189'
+    url: https://mastodon.in.th/@webring/117035635813192189
+cdc7ad12deb3387e4cd06c5dd84b2585:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/update-plan-august-2026
+  state:
+    shortLink: https://link.webring.in.th/3366
 cdd4e6d11a1eea1d0484785081befc37:facebook:
   spec:
     title: Postman เปิดให้ลองใช้งาน API performance testing [somkiat.cc]
