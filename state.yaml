@@ -7610,6 +7610,32 @@
     url: https://kusumotolab.com/first-time-singapore-trip-ep-2/
   state:
     shortLink: https://link.webring.in.th/2202
+24b6e23bfd440e4c004a04e8d2eda837:bluesky:
+  spec:
+    title: แหล่งความชุดเครื่องมือต่าง ๆ สำหรับ Postgres (Postgres Is Enough) [somkiat.cc]
+    url: https://www.somkiat.cc/postgres-postgres-is-enough/
+  state:
+    cid: bafyreidq3ihnhtuz3phtja5fyby5oeolevwcgzwliiiw5h4y5bwn76im2a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msdobkzc272o
+24b6e23bfd440e4c004a04e8d2eda837:facebook:
+  spec:
+    title: แหล่งความชุดเครื่องมือต่าง ๆ สำหรับ Postgres (Postgres Is Enough) [somkiat.cc]
+    url: https://www.somkiat.cc/postgres-postgres-is-enough/
+  state:
+    id: '100746876247412_1038103132512262'
+    url: https://www.facebook.com/100683012920950/posts/1038103132512262
+24b6e23bfd440e4c004a04e8d2eda837:mastodon:
+  spec:
+    title: แหล่งความชุดเครื่องมือต่าง ๆ สำหรับ Postgres (Postgres Is Enough) [somkiat.cc]
+    url: https://www.somkiat.cc/postgres-postgres-is-enough/
+  state:
+    id: '117043222089760768'
+    url: https://mastodon.in.th/@webring/117043222089760768
+24b6e23bfd440e4c004a04e8d2eda837:shorturl:
+  spec:
+    url: https://www.somkiat.cc/postgres-postgres-is-enough/
+  state:
+    shortLink: https://link.webring.in.th/3374
 24e2fd144a90c69462aaae232229fe2e:facebook:
   spec:
     title: เป็นโควิดครั้งแรก! เป็นยังไงบ้างนะ? [mikkipastel.com]
