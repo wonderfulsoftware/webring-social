@@ -28201,6 +28201,32 @@
     url: https://blog.oatto.dev/2024/10/19/js-bkk-2-0-0.html
   state:
     shortLink: https://link.webring.in.th/2207
+862bba5fd80128ba5f8fe455a72cfb55:bluesky:
+  spec:
+    title: Monster Hunter Rise [neizod.dev]
+    url: https://neizod.dev/2026/07/07/monster-hunter-rise.html
+  state:
+    cid: bafyreifcodhv5kk2ilyl22xrcpchnjfp6hyn7qg274q2qued6lypksi5bq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mscstchx4x2o
+862bba5fd80128ba5f8fe455a72cfb55:facebook:
+  spec:
+    title: Monster Hunter Rise [neizod.dev]
+    url: https://neizod.dev/2026/07/07/monster-hunter-rise.html
+  state:
+    id: '100746876247412_1037789312543644'
+    url: https://www.facebook.com/100683012920950/posts/1037789312543644
+862bba5fd80128ba5f8fe455a72cfb55:mastodon:
+  spec:
+    title: Monster Hunter Rise [neizod.dev]
+    url: https://neizod.dev/2026/07/07/monster-hunter-rise.html
+  state:
+    id: '117041290756378039'
+    url: https://mastodon.in.th/@webring/117041290756378039
+862bba5fd80128ba5f8fe455a72cfb55:shorturl:
+  spec:
+    url: https://neizod.dev/2026/07/07/monster-hunter-rise.html
+  state:
+    shortLink: https://link.webring.in.th/3371
 862d11a9ade549bf23b115539b8a44a1:bluesky:
   spec:
     title: K-sortable unique ID formats (and generator) [dt.in.th]
