@@ -26540,6 +26540,32 @@
     url: https://garden.narze.live/Re-stream-Twitch-to-Facebook-Live/
   state:
     shortLink: https://webring.page.link/dsw1
+7e3640527030b73c87b9ffe0f1868353:bluesky:
+  spec:
+    title: แวะมาฟัง QWEN3.8 USE CASE SHOW CASE [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-qwen3-8-use-case-show-case/
+  state:
+    cid: bafyreih4hspsjmsdsfhjoj7bzk4zl5ty7mlx7gjgf6bxzlnzwjxf7s24pq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msd3zyi4km2h
+7e3640527030b73c87b9ffe0f1868353:facebook:
+  spec:
+    title: แวะมาฟัง QWEN3.8 USE CASE SHOW CASE [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-qwen3-8-use-case-show-case/
+  state:
+    id: '100746876247412_1037882792534296'
+    url: https://www.facebook.com/100683012920950/posts/1037882792534296
+7e3640527030b73c87b9ffe0f1868353:mastodon:
+  spec:
+    title: แวะมาฟัง QWEN3.8 USE CASE SHOW CASE [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-qwen3-8-use-case-show-case/
+  state:
+    id: '117041938886699990'
+    url: https://mastodon.in.th/@webring/117041938886699990
+7e3640527030b73c87b9ffe0f1868353:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-qwen3-8-use-case-show-case/
+  state:
+    shortLink: https://link.webring.in.th/3372
 7e4fd33c9127b74b243ff2bbf9575e2e:facebook:
   spec:
     title: อธิบาย Agentic AI Design Patterns แบบเข้าใจง่าย [somkiat.cc]
