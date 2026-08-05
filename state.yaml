@@ -52802,6 +52802,32 @@ fd91f4e0655993f578f0bf1f2c0e7e0b:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/11/how-to-modernize-current-dotnet-restapi-to-mcp-server-th-blog/
   state:
     shortLink: https://link.webring.in.th/2854
+fdcb2564048b72cf096b2cb3465d8f68:bluesky:
+  spec:
+    title: 'เดินบนทางเปียกและโคลนอย่างรับผิดชอบ: 6 เทคนิคที่ช่วยให้ปลอดภัยและไม่ทำร้ายเส้นทาง [myifew.com]'
+    url: https://myifew.com/7902/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9a%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b8%b5%e0%b8%a2%e0%b8%81%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%82%e0%b8%84%e0%b8%a5%e0%b8%99%e0%b8%ad/
+  state:
+    cid: bafyreicpe3lcyfyh27lmdf5cwp36pqv45qhigofhilhrb3cgsctrml63tu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msdfinh5q22i
+fdcb2564048b72cf096b2cb3465d8f68:facebook:
+  spec:
+    title: 'เดินบนทางเปียกและโคลนอย่างรับผิดชอบ: 6 เทคนิคที่ช่วยให้ปลอดภัยและไม่ทำร้ายเส้นทาง [myifew.com]'
+    url: https://myifew.com/7902/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9a%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b8%b5%e0%b8%a2%e0%b8%81%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%82%e0%b8%84%e0%b8%a5%e0%b8%99%e0%b8%ad/
+  state:
+    id: '100746876247412_1037987969190445'
+    url: https://www.facebook.com/100683012920950/posts/1037987969190445
+fdcb2564048b72cf096b2cb3465d8f68:mastodon:
+  spec:
+    title: 'เดินบนทางเปียกและโคลนอย่างรับผิดชอบ: 6 เทคนิคที่ช่วยให้ปลอดภัยและไม่ทำร้ายเส้นทาง [myifew.com]'
+    url: https://myifew.com/7902/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9a%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b8%b5%e0%b8%a2%e0%b8%81%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%82%e0%b8%84%e0%b8%a5%e0%b8%99%e0%b8%ad/
+  state:
+    id: '117042603960977482'
+    url: https://mastodon.in.th/@webring/117042603960977482
+fdcb2564048b72cf096b2cb3465d8f68:shorturl:
+  spec:
+    url: https://myifew.com/7902/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9a%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b8%b5%e0%b8%a2%e0%b8%81%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%82%e0%b8%84%e0%b8%a5%e0%b8%99%e0%b8%ad/
+  state:
+    shortLink: https://link.webring.in.th/3373
 fded27a275c0ab5923370e23e7a5b37e:facebook:
   spec:
     title: ต่อให้ไม่มีเรา บริษัทก็อยู่ได้ [blog.ninprd.com]
