@@ -42078,6 +42078,32 @@ c9451dcb08803f6af7e329e9a13ff649:shorturl:
     url: https://naiwaen.debuggingsoft.com/2026/03/update-n8n-1-106-3-to-2-9-4-changenote/
   state:
     shortLink: https://link.webring.in.th/3006
+c961c5264be74bde207368d2d2ac8ffa:bluesky:
+  spec:
+    title: Petaflop ของเรานั้นไม่เท่ากัน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/petaflop-not-same-on-pc-vs-supercomputer/
+  state:
+    cid: bafyreibpzwk2gxscrwn2obg5zwui3yb2qjhoww2liyu4m7tr4qy4sq5p5u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msfmemhesh2i
+c961c5264be74bde207368d2d2ac8ffa:facebook:
+  spec:
+    title: Petaflop ของเรานั้นไม่เท่ากัน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/petaflop-not-same-on-pc-vs-supercomputer/
+  state:
+    id: '100746876247412_1038771665778742'
+    url: https://www.facebook.com/100683012920950/posts/1038771665778742
+c961c5264be74bde207368d2d2ac8ffa:mastodon:
+  spec:
+    title: Petaflop ของเรานั้นไม่เท่ากัน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/petaflop-not-same-on-pc-vs-supercomputer/
+  state:
+    id: '117047591797146939'
+    url: https://mastodon.in.th/@webring/117047591797146939
+c961c5264be74bde207368d2d2ac8ffa:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/08/petaflop-not-same-on-pc-vs-supercomputer/
+  state:
+    shortLink: https://link.webring.in.th/3376
 c968d875dae5e9d9afb80e13bae7b6b1:facebook:
   spec:
     title: มาลองใช้งาน Garnet จาก Microsoft [somkiat.cc]
