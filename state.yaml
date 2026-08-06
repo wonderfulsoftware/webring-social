@@ -37333,6 +37333,32 @@ b04cbec960689f27fac77cb0b818acb6:shorturl:
     url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9a%e0%b8%9a-database-schema-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%94%e0%b8%b5-normalization-vs-denormalization/
   state:
     shortLink: https://link.webring.in.th/2791
+b07e64e3193a0ee86c026448e54d004c:bluesky:
+  spec:
+    title: ว่าง ๆ มาดึงข้อมูลจาก Coros MCP มาสร้าง dashboard กัน [somkiat.cc]
+    url: https://www.somkiat.cc/coros-mcp/
+  state:
+    cid: bafyreigwu63zx5xoi36e7ymjry3iya2pbg5e5vwfr6w6k3q5vun2em5bni
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msfvy56tke2j
+b07e64e3193a0ee86c026448e54d004c:facebook:
+  spec:
+    title: ว่าง ๆ มาดึงข้อมูลจาก Coros MCP มาสร้าง dashboard กัน [somkiat.cc]
+    url: https://www.somkiat.cc/coros-mcp/
+  state:
+    id: '100746876247412_1038879395767969'
+    url: https://www.facebook.com/100683012920950/posts/1038879395767969
+b07e64e3193a0ee86c026448e54d004c:mastodon:
+  spec:
+    title: ว่าง ๆ มาดึงข้อมูลจาก Coros MCP มาสร้าง dashboard กัน [somkiat.cc]
+    url: https://www.somkiat.cc/coros-mcp/
+  state:
+    id: '117048267895172434'
+    url: https://mastodon.in.th/@webring/117048267895172434
+b07e64e3193a0ee86c026448e54d004c:shorturl:
+  spec:
+    url: https://www.somkiat.cc/coros-mcp/
+  state:
+    shortLink: https://link.webring.in.th/3377
 b0880eacad6dee73e7cd33e6dead57e8:bluesky:
   spec:
     title: Library สำหรับการอ่านข้อมูลในรูปแบบต่าง ๆ [somkiat.cc]
