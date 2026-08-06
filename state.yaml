@@ -16331,6 +16331,32 @@
     url: https://karnwong.me/posts/2024/12/native-implementation-vs-wasm-for-go-python-and-rust-benchmark/
   state:
     shortLink: https://link.webring.in.th/2278
+50a498a70f1cdd5acc5b6f30079d4a12:bluesky:
+  spec:
+    title: 'บ้านป่าบงเปียง: นาขั้นบันไดกลางฤดูฝนที่แม่แจ่ม [myifew.com]'
+    url: https://myifew.com/7906/%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%9a%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b8%b5%e0%b8%a2%e0%b8%87-%e0%b8%99%e0%b8%b2%e0%b8%82%e0%b8%b1%e0%b9%89%e0%b8%99%e0%b8%9a%e0%b8%b1/
+  state:
+    cid: bafyreidpepbxr7wko76eis7f2jxjpu6xf3kuobvymu44k4iyph6bdfpulu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msfde7u2xs2f
+50a498a70f1cdd5acc5b6f30079d4a12:facebook:
+  spec:
+    title: 'บ้านป่าบงเปียง: นาขั้นบันไดกลางฤดูฝนที่แม่แจ่ม [myifew.com]'
+    url: https://myifew.com/7906/%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%9a%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b8%b5%e0%b8%a2%e0%b8%87-%e0%b8%99%e0%b8%b2%e0%b8%82%e0%b8%b1%e0%b9%89%e0%b8%99%e0%b8%9a%e0%b8%b1/
+  state:
+    id: '100746876247412_1038678122454763'
+    url: https://www.facebook.com/100683012920950/posts/1038678122454763
+50a498a70f1cdd5acc5b6f30079d4a12:mastodon:
+  spec:
+    title: 'บ้านป่าบงเปียง: นาขั้นบันไดกลางฤดูฝนที่แม่แจ่ม [myifew.com]'
+    url: https://myifew.com/7906/%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%9a%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b8%b5%e0%b8%a2%e0%b8%87-%e0%b8%99%e0%b8%b2%e0%b8%82%e0%b8%b1%e0%b9%89%e0%b8%99%e0%b8%9a%e0%b8%b1/
+  state:
+    id: '117046957319777970'
+    url: https://mastodon.in.th/@webring/117046957319777970
+50a498a70f1cdd5acc5b6f30079d4a12:shorturl:
+  spec:
+    url: https://myifew.com/7906/%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%9a%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b8%b5%e0%b8%a2%e0%b8%87-%e0%b8%99%e0%b8%b2%e0%b8%82%e0%b8%b1%e0%b9%89%e0%b8%99%e0%b8%9a%e0%b8%b1/
+  state:
+    shortLink: https://link.webring.in.th/3375
 50a74ac75b2887f6cf406afbe60b4d0a:facebook:
   spec:
     title: Tesla Thailand และ “กว่าจะส่งมอบ” [shayennn.com]
