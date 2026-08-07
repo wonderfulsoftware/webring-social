@@ -10261,6 +10261,32 @@
     url: https://mesodiar.com/2024/08/20/google-io-connect-beijing-2024-gde-summit/
   state:
     shortLink: https://link.webring.in.th/2089
+3129d5c3045083cfdeaea3986ad5aaae:bluesky:
+  spec:
+    title: Coroot revisited [karnwong.me]
+    url: https://karnwong.me/posts/2026/08/coroot-revisited/
+  state:
+    cid: bafyreieyrkmrllnp5bmxm76bwqma4ix54nsqonqb2qzudjvesbzlqtxlxm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mshqxr4oq52o
+3129d5c3045083cfdeaea3986ad5aaae:facebook:
+  spec:
+    title: Coroot revisited [karnwong.me]
+    url: https://karnwong.me/posts/2026/08/coroot-revisited/
+  state:
+    id: '100746876247412_1039532622369313'
+    url: https://www.facebook.com/100683012920950/posts/1039532622369313
+3129d5c3045083cfdeaea3986ad5aaae:mastodon:
+  spec:
+    title: Coroot revisited [karnwong.me]
+    url: https://karnwong.me/posts/2026/08/coroot-revisited/
+  state:
+    id: '117052418904637007'
+    url: https://mastodon.in.th/@webring/117052418904637007
+3129d5c3045083cfdeaea3986ad5aaae:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/08/coroot-revisited/
+  state:
+    shortLink: https://link.webring.in.th/3378
 312cef52732f4007a7528aa73473fa8b:bluesky:
   spec:
     title: 'การลาออกครั้งแรกโดยไม่มีงานรองรับ: ประสบการณ์จริงของ Junior Developer ที่ต้องเดิมพันกับตัวเอง [creaml4tt3.me]'
