@@ -346,6 +346,32 @@
     url: https://myifew.com/7406/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%9a%e0%b8%97%e0%b8%a7%e0%b8%99/
   state:
     shortLink: https://link.webring.in.th/3064
+01a49b33b4a2dd4cd5d1e440d40fd266:bluesky:
+  spec:
+    title: บันทึกการลองเล่น TamaClaude บน MacOS เท่านั้น [somkiat.cc]
+    url: https://www.somkiat.cc/try-tamaclaude-on-macos/
+  state:
+    cid: bafyreiezrgabdjr43zetp3crkc2m6w2rrckpvg5lnhlqmsb7gpysvcsdte
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mshyha7ggg2f
+01a49b33b4a2dd4cd5d1e440d40fd266:facebook:
+  spec:
+    title: บันทึกการลองเล่น TamaClaude บน MacOS เท่านั้น [somkiat.cc]
+    url: https://www.somkiat.cc/try-tamaclaude-on-macos/
+  state:
+    id: '100746876247412_1039610555694853'
+    url: https://www.facebook.com/100683012920950/posts/1039610555694853
+01a49b33b4a2dd4cd5d1e440d40fd266:mastodon:
+  spec:
+    title: บันทึกการลองเล่น TamaClaude บน MacOS เท่านั้น [somkiat.cc]
+    url: https://www.somkiat.cc/try-tamaclaude-on-macos/
+  state:
+    id: '117052945537198937'
+    url: https://mastodon.in.th/@webring/117052945537198937
+01a49b33b4a2dd4cd5d1e440d40fd266:shorturl:
+  spec:
+    url: https://www.somkiat.cc/try-tamaclaude-on-macos/
+  state:
+    shortLink: https://link.webring.in.th/3379
 01bcc6fc9b59cd052a39c07f524d2a6a:bluesky:
   spec:
     title: '[NET] Dockerfile for Blazer WASM [debuggingsoft.com]'
