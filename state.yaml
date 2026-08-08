@@ -31277,6 +31277,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/07/mynote-google-cloud-next-extended-bangkok-2025-kx/
   state:
     shortLink: https://link.webring.in.th/2658
+9389600b601bf4fdd3ce972fd72b33eb:bluesky:
+  spec:
+    title: Geometry Boot Camp 2026 [neizod.dev]
+    url: https://neizod.dev/2026/07/30/geometry-boot-camp-2026.html
+  state:
+    cid: bafyreibjxmvja3yy7bpppdia42abvltfcjkkukrrslqovza3k6rnlyla7y
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msk6zcrthg2k
+9389600b601bf4fdd3ce972fd72b33eb:facebook:
+  spec:
+    title: Geometry Boot Camp 2026 [neizod.dev]
+    url: https://neizod.dev/2026/07/30/geometry-boot-camp-2026.html
+  state:
+    id: '100746876247412_1040421592280416'
+    url: https://www.facebook.com/100683012920950/posts/1040421592280416
+9389600b601bf4fdd3ce972fd72b33eb:mastodon:
+  spec:
+    title: Geometry Boot Camp 2026 [neizod.dev]
+    url: https://neizod.dev/2026/07/30/geometry-boot-camp-2026.html
+  state:
+    id: '117057910961372869'
+    url: https://mastodon.in.th/@webring/117057910961372869
+9389600b601bf4fdd3ce972fd72b33eb:shorturl:
+  spec:
+    url: https://neizod.dev/2026/07/30/geometry-boot-camp-2026.html
+  state:
+    shortLink: https://link.webring.in.th/3380
 938f770244a8aacaf918914e63cbc2c8:bluesky:
   spec:
     title: มาลองใช้งาน React Agent Skills จาก Vercel กัน [somkiat.cc]
