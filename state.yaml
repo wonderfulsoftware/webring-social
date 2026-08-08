@@ -1146,6 +1146,32 @@
     url: https://mymoneytoolkit.app/posts/recover-loss
   state:
     shortLink: https://link.webring.in.th/2410
+059769b338a9ea5277e09663c0d5338d:bluesky:
+  spec:
+    title: รีวิว The Better Returns โดย Earthh Evans — อ่านจบแล้วอยากกลับไปแก้พอร์ตตัวเองเลย [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/the-better-returns
+  state:
+    cid: bafyreicjfslbvw3ddghw5cwlxkm4faifpxsb4rqekoh7kfhu26qfgqrvxy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mskr4xwavh2b
+059769b338a9ea5277e09663c0d5338d:facebook:
+  spec:
+    title: รีวิว The Better Returns โดย Earthh Evans — อ่านจบแล้วอยากกลับไปแก้พอร์ตตัวเองเลย [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/the-better-returns
+  state:
+    id: '100746876247412_1040602795595629'
+    url: https://www.facebook.com/100683012920950/posts/1040602795595629
+059769b338a9ea5277e09663c0d5338d:mastodon:
+  spec:
+    title: รีวิว The Better Returns โดย Earthh Evans — อ่านจบแล้วอยากกลับไปแก้พอร์ตตัวเองเลย [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/the-better-returns
+  state:
+    id: '117059185643709797'
+    url: https://mastodon.in.th/@webring/117059185643709797
+059769b338a9ea5277e09663c0d5338d:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/the-better-returns
+  state:
+    shortLink: https://link.webring.in.th/3382
 05bc87b5b373d006ab2df644c4e6791a:bluesky:
   spec:
     title: Multi-machine work setup [karnwong.me]
