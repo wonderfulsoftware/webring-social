@@ -22681,6 +22681,32 @@
     url: https://www.somkiat.cc/hello-contextual-retrieval-from-anthropic/
   state:
     shortLink: https://link.webring.in.th/2150
+6e045b0a14fef99ba94a16b922a40e48:bluesky:
+  spec:
+    title: Fixed Cannot find module /app/node_modules/xlsx/dist/cpexcel.js [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/fixed-cannot-find-module-app-node_modules-xlsx-dist-cpexcel-js/
+  state:
+    cid: bafyreicpxouxi2uo5jrxy66dzqgmimeepgomvx4jtnqxssjpwzfm6i27pa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mslesevieq2m
+6e045b0a14fef99ba94a16b922a40e48:facebook:
+  spec:
+    title: Fixed Cannot find module /app/node_modules/xlsx/dist/cpexcel.js [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/fixed-cannot-find-module-app-node_modules-xlsx-dist-cpexcel-js/
+  state:
+    id: '100746876247412_1040836262238949'
+    url: https://www.facebook.com/100683012920950/posts/1040836262238949
+6e045b0a14fef99ba94a16b922a40e48:mastodon:
+  spec:
+    title: Fixed Cannot find module /app/node_modules/xlsx/dist/cpexcel.js [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/fixed-cannot-find-module-app-node_modules-xlsx-dist-cpexcel-js/
+  state:
+    id: '117060569769722536'
+    url: https://mastodon.in.th/@webring/117060569769722536
+6e045b0a14fef99ba94a16b922a40e48:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/08/fixed-cannot-find-module-app-node_modules-xlsx-dist-cpexcel-js/
+  state:
+    shortLink: https://link.webring.in.th/3384
 6e07b92da4269c29507c1c1c4df5f2e5:facebook:
   spec:
     title: เรื่องวุ่นๆของเงื่อนไขใน Jenkins Pipeline [debuggingsoft.com]
