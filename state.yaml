@@ -34818,6 +34818,32 @@ a520b1e1461d8a1a9f30a683accafe3e:shorturl:
     url: https://naiwaen.debuggingsoft.com/2026/03/fossasia-2026-community-day-event-recap/
   state:
     shortLink: https://link.webring.in.th/3020
+a54757c0ebb456c71b61317cad061383:bluesky:
+  spec:
+    title: 'AnyDoc :: ทำการแปลงเอกสารในรูปแบบต่าง ๆ ออกมาในรูปแบบ Markdown [somkiat.cc]'
+    url: https://www.somkiat.cc/anydoc-to-markdown/
+  state:
+    cid: bafyreicvyqfx36qvhwi5zelc4cm6bkiufryeh27kncuce3someubhpsgai
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msl3cu4rij2r
+a54757c0ebb456c71b61317cad061383:facebook:
+  spec:
+    title: 'AnyDoc :: ทำการแปลงเอกสารในรูปแบบต่าง ๆ ออกมาในรูปแบบ Markdown [somkiat.cc]'
+    url: https://www.somkiat.cc/anydoc-to-markdown/
+  state:
+    id: '100746876247412_1040721045583804'
+    url: https://www.facebook.com/100683012920950/posts/1040721045583804
+a54757c0ebb456c71b61317cad061383:mastodon:
+  spec:
+    title: 'AnyDoc :: ทำการแปลงเอกสารในรูปแบบต่าง ๆ ออกมาในรูปแบบ Markdown [somkiat.cc]'
+    url: https://www.somkiat.cc/anydoc-to-markdown/
+  state:
+    id: '117059902158330263'
+    url: https://mastodon.in.th/@webring/117059902158330263
+a54757c0ebb456c71b61317cad061383:shorturl:
+  spec:
+    url: https://www.somkiat.cc/anydoc-to-markdown/
+  state:
+    shortLink: https://link.webring.in.th/3383
 a54ecf011b0f99a08473e8549813d66a:bluesky:
   spec:
     title: I redesigned my website [betich.me]
