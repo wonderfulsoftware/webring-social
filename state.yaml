@@ -25121,6 +25121,32 @@
     url: https://www.poolsawat.com/rust-%e0%b8%81%e0%b8%b1%e0%b8%9a-microservices-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9a%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%80%e0%b8%a3%e0%b9%87/
   state:
     shortLink: https://link.webring.in.th/2639
+7864ed47c37aecc591762c92a00554d5:bluesky:
+  spec:
+    title: Qwen3.5-Omni-Flash Text-to-Speech Thai Voice Previews [dt.in.th]
+    url: https://dt.in.th/Qwen35OmniFlashTTSThai
+  state:
+    cid: bafyreigjpdwrhs6dl62e6iu2yi745igoa7wwa6oasbydi4tar2i4xojh7u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mskhjx5brp2k
+7864ed47c37aecc591762c92a00554d5:facebook:
+  spec:
+    title: Qwen3.5-Omni-Flash Text-to-Speech Thai Voice Previews [dt.in.th]
+    url: https://dt.in.th/Qwen35OmniFlashTTSThai
+  state:
+    id: '100746876247412_1040505795605329'
+    url: https://www.facebook.com/100683012920950/posts/1040505795605329
+7864ed47c37aecc591762c92a00554d5:mastodon:
+  spec:
+    title: Qwen3.5-Omni-Flash Text-to-Speech Thai Voice Previews [dt.in.th]
+    url: https://dt.in.th/Qwen35OmniFlashTTSThai
+  state:
+    id: '117058510577722188'
+    url: https://mastodon.in.th/@webring/117058510577722188
+7864ed47c37aecc591762c92a00554d5:shorturl:
+  spec:
+    url: https://dt.in.th/Qwen35OmniFlashTTSThai
+  state:
+    shortLink: https://link.webring.in.th/3381
 788b822f1d2bb7d0aa070b35a7c53d91:facebook:
   spec:
     title: '[Jenkins] Jenkins not able to fetch code from remote git [debuggingsoft.com]'
