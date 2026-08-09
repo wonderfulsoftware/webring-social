@@ -7733,6 +7733,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/11/how-to-fixed-a-huge-sc-user_paged-1-etl-in-appdata-local-temp-pw/
   state:
     shortLink: https://link.webring.in.th/2232
+25299c261bfdca63a248d3c2d6f83d89:bluesky:
+  spec:
+    title: พีระมิดการเงิน 5 ชั้น เช็คว่าตอนนี้เรายืนอยู่ชั้นไหน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/finance-pyramid
+  state:
+    cid: bafyreigdmdabl5e3g3duetpbcyd7rijxulytksee5y7cqghxcnjuo6q7cy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msmptkd27t2a
+25299c261bfdca63a248d3c2d6f83d89:facebook:
+  spec:
+    title: พีระมิดการเงิน 5 ชั้น เช็คว่าตอนนี้เรายืนอยู่ชั้นไหน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/finance-pyramid
+  state:
+    id: '100746876247412_1041254922197083'
+    url: https://www.facebook.com/100683012920950/posts/1041254922197083
+25299c261bfdca63a248d3c2d6f83d89:mastodon:
+  spec:
+    title: พีระมิดการเงิน 5 ชั้น เช็คว่าตอนนี้เรายืนอยู่ชั้นไหน [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/finance-pyramid
+  state:
+    id: '117063598277241763'
+    url: https://mastodon.in.th/@webring/117063598277241763
+25299c261bfdca63a248d3c2d6f83d89:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/finance-pyramid
+  state:
+    shortLink: https://link.webring.in.th/3385
 253a7115306a60032c6562f77c7986a6:facebook:
   spec:
     title: Windows11/10 OpenSSH Server Public Key authentication [debuggingsoft.com]
