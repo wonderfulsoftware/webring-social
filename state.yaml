@@ -14092,6 +14092,32 @@
     url: https://www.somkiat.cc/test-id-for-ui-test/
   state:
     shortLink: https://link.webring.in.th/1816
+43ecd1e07c986ee40abdb157cb31315d:bluesky:
+  spec:
+    title: Coloring the Snub Dodecahedron [neizod.dev]
+    url: https://neizod.dev/2026/08/08/coloring-snub-dodecahedron.html
+  state:
+    cid: bafyreiefkdfu2fmchpvhehakvgwgohy6htxi52btvtld6nvp4vjbe5yfoi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msmy7k5rmz2n
+43ecd1e07c986ee40abdb157cb31315d:facebook:
+  spec:
+    title: Coloring the Snub Dodecahedron [neizod.dev]
+    url: https://neizod.dev/2026/08/08/coloring-snub-dodecahedron.html
+  state:
+    id: '100746876247412_1041337662188809'
+    url: https://www.facebook.com/100683012920950/posts/1041337662188809
+43ecd1e07c986ee40abdb157cb31315d:mastodon:
+  spec:
+    title: Coloring the Snub Dodecahedron [neizod.dev]
+    url: https://neizod.dev/2026/08/08/coloring-snub-dodecahedron.html
+  state:
+    id: '117064187481320541'
+    url: https://mastodon.in.th/@webring/117064187481320541
+43ecd1e07c986ee40abdb157cb31315d:shorturl:
+  spec:
+    url: https://neizod.dev/2026/08/08/coloring-snub-dodecahedron.html
+  state:
+    shortLink: https://link.webring.in.th/3386
 44309401ba310a7183b133ca1eec504a:facebook:
   spec:
     title: Switch between personal and work Cloudflare Warp profiles [ntsd.dev]
