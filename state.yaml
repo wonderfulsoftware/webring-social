@@ -3493,6 +3493,32 @@
     url: https://www.poolsawat.com/%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-notification-push-event-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-sse-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-websocket/
   state:
     shortLink: https://link.webring.in.th/2759
+1036e62b50764b517dd8d548b4c1b020:bluesky:
+  spec:
+    title: 'Claude Code :: ทำความรู้จักกับ Permission mode กัน (Auto mode) [somkiat.cc]'
+    url: https://www.somkiat.cc/claude-code-permission-mode-and-auto-mode/
+  state:
+    cid: bafyreiaxuueoj53kgn7uyktmbfqhjuvvwxgib2ldqvc2qmfhuhafd6xx2e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mspkm5c3ta2q
+1036e62b50764b517dd8d548b4c1b020:facebook:
+  spec:
+    title: 'Claude Code :: ทำความรู้จักกับ Permission mode กัน (Auto mode) [somkiat.cc]'
+    url: https://www.somkiat.cc/claude-code-permission-mode-and-auto-mode/
+  state:
+    id: '100746876247412_1042214165434492'
+    url: https://www.facebook.com/100683012920950/posts/1042214165434492
+1036e62b50764b517dd8d548b4c1b020:mastodon:
+  spec:
+    title: 'Claude Code :: ทำความรู้จักกับ Permission mode กัน (Auto mode) [somkiat.cc]'
+    url: https://www.somkiat.cc/claude-code-permission-mode-and-auto-mode/
+  state:
+    id: '117069985384284744'
+    url: https://mastodon.in.th/@webring/117069985384284744
+1036e62b50764b517dd8d548b4c1b020:shorturl:
+  spec:
+    url: https://www.somkiat.cc/claude-code-permission-mode-and-auto-mode/
+  state:
+    shortLink: https://link.webring.in.th/3388
 1065ea9d64cfd2c64e68a74d0f3f0650:bluesky:
   spec:
     title: พื้นฐานการสร้าง project และเตรียม feedback loop ให้กับ AI Agent [somkiat.cc]
