@@ -12143,6 +12143,32 @@
     url: https://myifew.com/7395/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%9e%e0%b8%a4%e0%b8%ab%e0%b8%b1%e0%b8%aa%e0%b8%9a%e0%b8%94%e0%b8%b5%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%84%e0%b8%a5%e0%b9%88%e0%b8%a5/
   state:
     shortLink: https://link.webring.in.th/3054
+3a8d843bbd1f11c9972dcc0e897ca131:bluesky:
+  spec:
+    title: ปิดฝา Mac ยังไงให้รัน AI ต่อเนื่องได้ [thiti.dev]
+    url: https://thiti.dev/blog/69/
+  state:
+    cid: bafyreihpdphk4xdbozadmksddmgs6e3ryyysmtgdwqz4amsqunps7athwm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mspucacmw62n
+3a8d843bbd1f11c9972dcc0e897ca131:facebook:
+  spec:
+    title: ปิดฝา Mac ยังไงให้รัน AI ต่อเนื่องได้ [thiti.dev]
+    url: https://thiti.dev/blog/69/
+  state:
+    id: '100746876247412_1042324838756758'
+    url: https://www.facebook.com/100683012920950/posts/1042324838756758
+3a8d843bbd1f11c9972dcc0e897ca131:mastodon:
+  spec:
+    title: ปิดฝา Mac ยังไงให้รัน AI ต่อเนื่องได้ [thiti.dev]
+    url: https://thiti.dev/blog/69/
+  state:
+    id: '117070667328658379'
+    url: https://mastodon.in.th/@webring/117070667328658379
+3a8d843bbd1f11c9972dcc0e897ca131:shorturl:
+  spec:
+    url: https://thiti.dev/blog/69/
+  state:
+    shortLink: https://link.webring.in.th/3389
 3ab82a5e0a5cea3d97771e72488592b3:bluesky:
   spec:
     title: เมื่อต้องเจอกับคนที่เป็น Narcissistic Personality Disorder (NPD) [jetsukda.dev]
