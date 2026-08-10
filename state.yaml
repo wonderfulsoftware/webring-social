@@ -38280,6 +38280,32 @@ b3ad99782528233907157668d22ef80c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/03/note-from-software-architecture-meetup-202401/
   state:
     shortLink: https://link.webring.in.th/1832
+b3cb96f515560723ccf3e6d434d80dc4:bluesky:
+  spec:
+    title: แวะมาฟัง Lead Engineer Meetup#02 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-lead-engineer-meetup-02/
+  state:
+    cid: bafyreiabnmqrebeiwnenalxj4z7xwoskxha234nnakwvdcrtulzyofw2tu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mspaxhq3xy2f
+b3cb96f515560723ccf3e6d434d80dc4:facebook:
+  spec:
+    title: แวะมาฟัง Lead Engineer Meetup#02 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-lead-engineer-meetup-02/
+  state:
+    id: '100746876247412_1042118848777357'
+    url: https://www.facebook.com/100683012920950/posts/1042118848777357
+b3cb96f515560723ccf3e6d434d80dc4:mastodon:
+  spec:
+    title: แวะมาฟัง Lead Engineer Meetup#02 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-lead-engineer-meetup-02/
+  state:
+    id: '117069306494372013'
+    url: https://mastodon.in.th/@webring/117069306494372013
+b3cb96f515560723ccf3e6d434d80dc4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-lead-engineer-meetup-02/
+  state:
+    shortLink: https://link.webring.in.th/3387
 b3e171947c05495f77fea92d1b8cf178:facebook:
   spec:
     title: Cannot connect Jenkins with GitLab (The project you were looking for could not be found or you don’t have permission) [debuggingsoft.com]
