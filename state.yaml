@@ -28307,6 +28307,32 @@
     url: https://dmg.st/convertarabictothai/
   state:
     shortLink: https://link.webring.in.th/2154
+8533bfab909edfe39334732d922871af:bluesky:
+  spec:
+    title: 'Building Lao Karaoke: How I Made It [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/building-lao-karaoke-en/
+  state:
+    cid: bafyreihxo32ipzzzmivc5gcrwjvbzfdu3trxiwew5io77pcxbzay3r7tka
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msrqspdv2e2m
+8533bfab909edfe39334732d922871af:facebook:
+  spec:
+    title: 'Building Lao Karaoke: How I Made It [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/building-lao-karaoke-en/
+  state:
+    id: '100746876247412_1042973058691936'
+    url: https://www.facebook.com/100683012920950/posts/1042973058691936
+8533bfab909edfe39334732d922871af:mastodon:
+  spec:
+    title: 'Building Lao Karaoke: How I Made It [xiengperm.dev]'
+    url: https://xiengperm.dev/posts/building-lao-karaoke-en/
+  state:
+    id: '117074925770606613'
+    url: https://mastodon.in.th/@webring/117074925770606613
+8533bfab909edfe39334732d922871af:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/building-lao-karaoke-en/
+  state:
+    shortLink: https://link.webring.in.th/3391
 857ae34cca990010e7d961fdf61ac9eb:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 6 (Product Backlog Refinement) [taoisaman.com]
