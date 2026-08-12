@@ -37820,6 +37820,32 @@ b0bab9c6fb19f66e158e3667ac1fefa2:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/06/cr-starbucks-green-tea-red-bean-cake/
   state:
     shortLink: https://webring.page.link/7pUY
+b0c4a7bb5fe05db40c30a8fe879ba195:bluesky:
+  spec:
+    title: เทคนิคการใช้ไม้เทรคกิ้งโพลอย่างถูกวิธี ตั้งแต่พื้นราบจนถึงข้ามลำธาร [myifew.com]
+    url: https://myifew.com/8418/%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b9%84%e0%b8%a1%e0%b9%89%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84%e0%b8%81%e0%b8%b4%e0%b9%89/
+  state:
+    cid: bafyreid6coun4ufywpmfq6dcdbnowaomunfmj6ausp72bhp24ftugieqlq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msv6bvtpqp2r
+b0c4a7bb5fe05db40c30a8fe879ba195:facebook:
+  spec:
+    title: เทคนิคการใช้ไม้เทรคกิ้งโพลอย่างถูกวิธี ตั้งแต่พื้นราบจนถึงข้ามลำธาร [myifew.com]
+    url: https://myifew.com/8418/%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b9%84%e0%b8%a1%e0%b9%89%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84%e0%b8%81%e0%b8%b4%e0%b9%89/
+  state:
+    id: '100746876247412_1044170501905525'
+    url: https://www.facebook.com/100683012920950/posts/1044170501905525
+b0c4a7bb5fe05db40c30a8fe879ba195:mastodon:
+  spec:
+    title: เทคนิคการใช้ไม้เทรคกิ้งโพลอย่างถูกวิธี ตั้งแต่พื้นราบจนถึงข้ามลำธาร [myifew.com]
+    url: https://myifew.com/8418/%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b9%84%e0%b8%a1%e0%b9%89%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84%e0%b8%81%e0%b8%b4%e0%b9%89/
+  state:
+    id: '117082629043351707'
+    url: https://mastodon.in.th/@webring/117082629043351707
+b0c4a7bb5fe05db40c30a8fe879ba195:shorturl:
+  spec:
+    url: https://myifew.com/8418/%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b9%84%e0%b8%a1%e0%b9%89%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84%e0%b8%81%e0%b8%b4%e0%b9%89/
+  state:
+    shortLink: https://link.webring.in.th/3395
 b0e9a94ae3c4204b8af9decb7aa0c8b0:bluesky:
   spec:
     title: Change Risk Anti-Patterns (CRAP) คือ อะไร [debuggingsoft.com]
