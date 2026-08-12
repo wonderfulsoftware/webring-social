@@ -47299,6 +47299,32 @@ e112a6d963226d7038bf3d0d16dae722:shorturl:
     url: https://www.somkiat.cc/hello-typescript-7/
   state:
     shortLink: https://link.webring.in.th/3343
+e1200590c78b5d90dc5cd3a52c3c625b:bluesky:
+  spec:
+    title: มัดรวม Agent Skills สำหรับงาน UX/UI ที่ควรมีติดเครื่อง [xiengperm.dev]
+    url: https://xiengperm.dev/posts/agent-skills-for-ui-ux-th/
+  state:
+    cid: bafyreihks5drpclgyaifwxzhdpoazziuolcpbdcdjievbbeeezxdgjsp4a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msuudwvdfp2f
+e1200590c78b5d90dc5cd3a52c3c625b:facebook:
+  spec:
+    title: มัดรวม Agent Skills สำหรับงาน UX/UI ที่ควรมีติดเครื่อง [xiengperm.dev]
+    url: https://xiengperm.dev/posts/agent-skills-for-ui-ux-th/
+  state:
+    id: '100746876247412_1044052558583986'
+    url: https://www.facebook.com/100683012920950/posts/1044052558583986
+e1200590c78b5d90dc5cd3a52c3c625b:mastodon:
+  spec:
+    title: มัดรวม Agent Skills สำหรับงาน UX/UI ที่ควรมีติดเครื่อง [xiengperm.dev]
+    url: https://xiengperm.dev/posts/agent-skills-for-ui-ux-th/
+  state:
+    id: '117081930289850142'
+    url: https://mastodon.in.th/@webring/117081930289850142
+e1200590c78b5d90dc5cd3a52c3c625b:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/agent-skills-for-ui-ux-th/
+  state:
+    shortLink: https://link.webring.in.th/3394
 e123e4c90a06fcbdec6a3fe71d4f2d2d:bluesky:
   spec:
     title: ทำความรู้จัก Latent Space และทำบอทเทรดสุดง่าย [mikkipastel.com]
