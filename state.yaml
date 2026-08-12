@@ -6980,6 +6980,32 @@
     url: https://kusumotolab.com/how-to-fix-cannot-boot-when-change-ec2-instance-type-from-xen-to-nitro-for-suse-linux-enterprise-for-sap-15/
   state:
     shortLink: https://webring.page.link/6wT2
+219edeb26366329747a8edbf5855ab97:bluesky:
+  spec:
+    title: BrowserStack QA Meetup Group- Bangkok-AUG2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/browserstack-qa-meetup-group-bangkok-aug2026/
+  state:
+    cid: bafyreibvjyc7ct3vojupl2wx2bybrmk7jczmvraoemiprfayrw5bail66u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msucvelbtl2a
+219edeb26366329747a8edbf5855ab97:facebook:
+  spec:
+    title: BrowserStack QA Meetup Group- Bangkok-AUG2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/browserstack-qa-meetup-group-bangkok-aug2026/
+  state:
+    id: '100746876247412_1043874311935144'
+    url: https://www.facebook.com/100683012920950/posts/1043874311935144
+219edeb26366329747a8edbf5855ab97:mastodon:
+  spec:
+    title: BrowserStack QA Meetup Group- Bangkok-AUG2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/browserstack-qa-meetup-group-bangkok-aug2026/
+  state:
+    id: '117080701411634588'
+    url: https://mastodon.in.th/@webring/117080701411634588
+219edeb26366329747a8edbf5855ab97:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/08/browserstack-qa-meetup-group-bangkok-aug2026/
+  state:
+    shortLink: https://link.webring.in.th/3392
 21abc774b91e2b9b1af2bd902f932fe6:bluesky:
   spec:
     title: 'มาลองใช้งาน Stitch :: Design with AI จากทาง Google [somkiat.cc]'
