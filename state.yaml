@@ -51896,6 +51896,32 @@ f540c3a4033ce458139b45f9f4888b8c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/03/how-to-reduce-windows-edb-size/
   state:
     shortLink: https://link.webring.in.th/1818
+f60dae3761eb67ae7662727e0e1be6cb:bluesky:
+  spec:
+    title: โค้ดที่เราไม่ได้เขียน เขียนขึ้นมาทำไมนะ [yothinix.com]
+    url: https://yothinix.com/living-with-agent-gen-code/
+  state:
+    cid: bafyreidvowxjbdqo2lgxmk6tpjaq5dfjlwb6g2zmafwagcmbx6lhojmqgi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mswtkngim42a
+f60dae3761eb67ae7662727e0e1be6cb:facebook:
+  spec:
+    title: โค้ดที่เราไม่ได้เขียน เขียนขึ้นมาทำไมนะ [yothinix.com]
+    url: https://yothinix.com/living-with-agent-gen-code/
+  state:
+    id: '100746876247412_1044744661848109'
+    url: https://www.facebook.com/100683012920950/posts/1044744661848109
+f60dae3761eb67ae7662727e0e1be6cb:mastodon:
+  spec:
+    title: โค้ดที่เราไม่ได้เขียน เขียนขึ้นมาทำไมนะ [yothinix.com]
+    url: https://yothinix.com/living-with-agent-gen-code/
+  state:
+    id: '117086377996958556'
+    url: https://mastodon.in.th/@webring/117086377996958556
+f60dae3761eb67ae7662727e0e1be6cb:shorturl:
+  spec:
+    url: https://yothinix.com/living-with-agent-gen-code/
+  state:
+    shortLink: https://link.webring.in.th/3396
 f618c31a34ca9d389371e09593719b4a:facebook:
   spec:
     title: 'AI102: Create computer vision solutions with Azure AI Vision [debuggingsoft.com]'
