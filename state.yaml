@@ -7193,6 +7193,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-r-programming-101/
   state:
     shortLink: https://link.webring.in.th/2390
+2250d72d4e1a7e2efbdc30506f34c0cc:bluesky:
+  spec:
+    title: ทำความรู้จักกับ Cloudflare Kitesurf [somkiat.cc]
+    url: https://www.somkiat.cc/hello-cloudflare-kitesurf/
+  state:
+    cid: bafyreibwkddm2jntqeqlzk7je6ygu6aviejrm3k2xidcs65koucxpeu72u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3msxevhizgm2v
+2250d72d4e1a7e2efbdc30506f34c0cc:facebook:
+  spec:
+    title: ทำความรู้จักกับ Cloudflare Kitesurf [somkiat.cc]
+    url: https://www.somkiat.cc/hello-cloudflare-kitesurf/
+  state:
+    id: '100746876247412_1044916915164217'
+    url: https://www.facebook.com/100683012920950/posts/1044916915164217
+2250d72d4e1a7e2efbdc30506f34c0cc:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Cloudflare Kitesurf [somkiat.cc]
+    url: https://www.somkiat.cc/hello-cloudflare-kitesurf/
+  state:
+    id: '117087598219867601'
+    url: https://mastodon.in.th/@webring/117087598219867601
+2250d72d4e1a7e2efbdc30506f34c0cc:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-cloudflare-kitesurf/
+  state:
+    shortLink: https://link.webring.in.th/3398
 2280e924585f5926a83466b3db69b87d:bluesky:
   spec:
     title: มาอัพสกิลกับหลักสูตร AI Skills for Everyone [mikkipastel.com]
