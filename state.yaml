@@ -18985,6 +18985,32 @@
     url: https://www.somkiat.cc/note-how-levels-fyi-scaled-to-millions-of-users/
   state:
     shortLink: https://webring.page.link/Dwcj
+5c26c309ea314bedbbec79375ecd7284:bluesky:
+  spec:
+    title: We Are All Bad in Someone’s Story เมื่อเราเป็นคนเลวในเรื่องราวของใครสักคน [myifew.com]
+    url: https://myifew.com/8423/we-are-all-bad-in-someones-story/
+  state:
+    cid: bafyreicir2zpueddtt23fbczztyci3qxchvv24xtckgi33bkmlfm5az5fq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mszdv7hkpo2t
+5c26c309ea314bedbbec79375ecd7284:facebook:
+  spec:
+    title: We Are All Bad in Someone’s Story เมื่อเราเป็นคนเลวในเรื่องราวของใครสักคน [myifew.com]
+    url: https://myifew.com/8423/we-are-all-bad-in-someones-story/
+  state:
+    id: '100746876247412_1045617198427522'
+    url: https://www.facebook.com/100683012920950/posts/1045617198427522
+5c26c309ea314bedbbec79375ecd7284:mastodon:
+  spec:
+    title: We Are All Bad in Someone’s Story เมื่อเราเป็นคนเลวในเรื่องราวของใครสักคน [myifew.com]
+    url: https://myifew.com/8423/we-are-all-bad-in-someones-story/
+  state:
+    id: '117092030669151754'
+    url: https://mastodon.in.th/@webring/117092030669151754
+5c26c309ea314bedbbec79375ecd7284:shorturl:
+  spec:
+    url: https://myifew.com/8423/we-are-all-bad-in-someones-story/
+  state:
+    shortLink: https://link.webring.in.th/3399
 5c35fbf9bfc3ef7b98555453676dcbf0:facebook:
   spec:
     title: ลาก่อน Visual Studio for Mac !! [somkiat.cc]
