@@ -44009,6 +44009,32 @@ cf004268c1f804efce2054d967803f66:shorturl:
     url: https://www.karnwong.me/posts/2023/04/devx-starts-at-your-local-machine/
   state:
     shortLink: https://webring.page.link/CM6L
+cf14d7a9f47470ae2bf6763d2de3add1:bluesky:
+  spec:
+    title: ใช้งาน Github Copilot ยังไง? ให้ AI Credit เหลือถึงสิ้นเดือน [mikkipastel.com]
+    url: https://www.mikkipastel.com/10-tips-reduce-cost-github-copilot-from-microsoft/
+  state:
+    cid: bafyreic35l74lxd2hmp7fhx3xmlpsiukcb4wuhckyldy4jv2yf77fqzek4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mt4dqw2hp624
+cf14d7a9f47470ae2bf6763d2de3add1:facebook:
+  spec:
+    title: ใช้งาน Github Copilot ยังไง? ให้ AI Credit เหลือถึงสิ้นเดือน [mikkipastel.com]
+    url: https://www.mikkipastel.com/10-tips-reduce-cost-github-copilot-from-microsoft/
+  state:
+    id: '100746876247412_1046720348317207'
+    url: https://www.facebook.com/100683012920950/posts/1046720348317207
+cf14d7a9f47470ae2bf6763d2de3add1:mastodon:
+  spec:
+    title: ใช้งาน Github Copilot ยังไง? ให้ AI Credit เหลือถึงสิ้นเดือน [mikkipastel.com]
+    url: https://www.mikkipastel.com/10-tips-reduce-cost-github-copilot-from-microsoft/
+  state:
+    id: '117098776745937848'
+    url: https://mastodon.in.th/@webring/117098776745937848
+cf14d7a9f47470ae2bf6763d2de3add1:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/10-tips-reduce-cost-github-copilot-from-microsoft/
+  state:
+    shortLink: https://link.webring.in.th/3402
 cf3157c32f26ecac1bca43bb5edcfc81:facebook:
   spec:
     title: 'Robot framework :: ปิดการ capture หน้าจอเมื่อเกิด failure ในการทดสอบ สำหรับ Selenium Library [somkiat.cc]'
