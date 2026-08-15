@@ -28373,6 +28373,32 @@
     url: https://mikelopster.dev/posts/design-pattern-behavioral/
   state:
     shortLink: https://link.webring.in.th/1788
+84f92bfd14dce926ba2d9f1eebb06d19:bluesky:
+  spec:
+    title: '[CR] Starbuck Homsuwan Pineapple Hibiscus Tea [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/cr-starbuck-homsuwan-pineapple-hibiscus-tea/
+  state:
+    cid: bafyreihuehhk6uxrn4eluw54ztoou64s6fssao3jje7hx6nsuxmt3xeswm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mt3zzc5dnp26
+84f92bfd14dce926ba2d9f1eebb06d19:facebook:
+  spec:
+    title: '[CR] Starbuck Homsuwan Pineapple Hibiscus Tea [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/cr-starbuck-homsuwan-pineapple-hibiscus-tea/
+  state:
+    id: '100746876247412_1046605071662068'
+    url: https://www.facebook.com/100683012920950/posts/1046605071662068
+84f92bfd14dce926ba2d9f1eebb06d19:mastodon:
+  spec:
+    title: '[CR] Starbuck Homsuwan Pineapple Hibiscus Tea [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/cr-starbuck-homsuwan-pineapple-hibiscus-tea/
+  state:
+    id: '117098091676536612'
+    url: https://mastodon.in.th/@webring/117098091676536612
+84f92bfd14dce926ba2d9f1eebb06d19:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/08/cr-starbuck-homsuwan-pineapple-hibiscus-tea/
+  state:
+    shortLink: https://link.webring.in.th/3401
 84fcb6eb24e640f662b8df6ab6c9e0f0:facebook:
   spec:
     title: Terraform RDS module with DNS setup [karnwong.me]
