@@ -45911,6 +45911,32 @@ d7da4007cf50c2241e883d47ccf641db:shorturl:
     url: https://www.somkiat.cc/try-dep-tree/
   state:
     shortLink: https://link.webring.in.th/2071
+d85ce0ec2c2743ecfd4725860ef139b7:bluesky:
+  spec:
+    title: 'Recap: Lead Engineer Meetup 02 (English Ver) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-lead-engineer-meetup-02-english-ver/
+  state:
+    cid: bafyreihdb47i326daxyaputseb3jycj656wpwe4mzodwvvjgqsjr6p7jqm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mt6knmwv6o26
+d85ce0ec2c2743ecfd4725860ef139b7:facebook:
+  spec:
+    title: 'Recap: Lead Engineer Meetup 02 (English Ver) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-lead-engineer-meetup-02-english-ver/
+  state:
+    id: '100746876247412_1047517188237523'
+    url: https://www.facebook.com/100683012920950/posts/1047517188237523
+d85ce0ec2c2743ecfd4725860ef139b7:mastodon:
+  spec:
+    title: 'Recap: Lead Engineer Meetup 02 (English Ver) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-lead-engineer-meetup-02-english-ver/
+  state:
+    id: '117103765657614117'
+    url: https://mastodon.in.th/@webring/117103765657614117
+d85ce0ec2c2743ecfd4725860ef139b7:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-lead-engineer-meetup-02-english-ver/
+  state:
+    shortLink: https://link.webring.in.th/3404
 d86dea1bd909f28c24a9057ca8f5fb69:bluesky:
   spec:
     title: สามพันโบก (Sam Phan Bok) – แกรนด์แคนยอนเมืองไทย กับทริปสั่งลาหน้าร้อนในวันพืชมงคล [myifew.com]
