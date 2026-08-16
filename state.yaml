@@ -17590,6 +17590,32 @@
     url: https://www.somkiat.cc/retry-with-good-and-bad/
   state:
     shortLink: https://link.webring.in.th/3186
+550421e4bd0ebbb4c5da9567226d53cf:bluesky:
+  spec:
+    title: การใช้งาน Claude code กับ Docker Sandboxes [somkiat.cc]
+    url: https://www.somkiat.cc/claude-code-with-docker-sandboxes/
+  state:
+    cid: bafyreiefsq4v42fdosjo7kzozlfs54g3hq6zihqhb3wbeu45u2qfglvsb4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mt6bebw4cm2a
+550421e4bd0ebbb4c5da9567226d53cf:facebook:
+  spec:
+    title: การใช้งาน Claude code กับ Docker Sandboxes [somkiat.cc]
+    url: https://www.somkiat.cc/claude-code-with-docker-sandboxes/
+  state:
+    id: '100746876247412_1047425874913321'
+    url: https://www.facebook.com/100683012920950/posts/1047425874913321
+550421e4bd0ebbb4c5da9567226d53cf:mastodon:
+  spec:
+    title: การใช้งาน Claude code กับ Docker Sandboxes [somkiat.cc]
+    url: https://www.somkiat.cc/claude-code-with-docker-sandboxes/
+  state:
+    id: '117103111926948312'
+    url: https://mastodon.in.th/@webring/117103111926948312
+550421e4bd0ebbb4c5da9567226d53cf:shorturl:
+  spec:
+    url: https://www.somkiat.cc/claude-code-with-docker-sandboxes/
+  state:
+    shortLink: https://link.webring.in.th/3403
 55095c50e6ba9ac0993c9d1a73ebb222:bluesky:
   spec:
     title: นั่งอยู่บ้านฟังงาน TUXSA Open house 2025 ได้ความรู้อะไรกลับมาบ้าง [mikkipastel.com]
