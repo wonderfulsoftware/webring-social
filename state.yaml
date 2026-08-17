@@ -42901,6 +42901,32 @@ ca3c9f3c3e73a1bc1647d8bc29c191f1:shorturl:
     url: https://lucian.solutions/blog/202508-daiwascarlet
   state:
     shortLink: https://link.webring.in.th/2750
+ca43d0483ddcd0403797b368b823040e:bluesky:
+  spec:
+    title: สัปดาห์ที่เงียบแต่เติบโต (10-16 ส.ค. 2569) [myifew.com]
+    url: https://myifew.com/8432/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%87%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%81%e0%b8%95%e0%b9%88%e0%b9%80%e0%b8%95%e0%b8%b4%e0%b8%9a/
+  state:
+    cid: bafyreide7flmm2vhoz3vuoqy563dfxghywcnnpzfqhxskmtjhse2nhc2fi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtarvs7xod2v
+ca43d0483ddcd0403797b368b823040e:facebook:
+  spec:
+    title: สัปดาห์ที่เงียบแต่เติบโต (10-16 ส.ค. 2569) [myifew.com]
+    url: https://myifew.com/8432/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%87%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%81%e0%b8%95%e0%b9%88%e0%b9%80%e0%b8%95%e0%b8%b4%e0%b8%9a/
+  state:
+    id: '100746876247412_1048297071492868'
+    url: https://www.facebook.com/100683012920950/posts/1048297071492868
+ca43d0483ddcd0403797b368b823040e:mastodon:
+  spec:
+    title: สัปดาห์ที่เงียบแต่เติบโต (10-16 ส.ค. 2569) [myifew.com]
+    url: https://myifew.com/8432/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%87%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%81%e0%b8%95%e0%b9%88%e0%b9%80%e0%b8%95%e0%b8%b4%e0%b8%9a/
+  state:
+    id: '117108779414842341'
+    url: https://mastodon.in.th/@webring/117108779414842341
+ca43d0483ddcd0403797b368b823040e:shorturl:
+  spec:
+    url: https://myifew.com/8432/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%87%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%81%e0%b8%95%e0%b9%88%e0%b9%80%e0%b8%95%e0%b8%b4%e0%b8%9a/
+  state:
+    shortLink: https://link.webring.in.th/3405
 ca4aaa11e81667f6024ea4862aeda30d:bluesky:
   spec:
     title: Google sheet ติดตามหุ้นอ้างอิง DR DRX [mymoneytoolkit.app]
