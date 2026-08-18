@@ -18575,6 +18575,32 @@
     url: https://lucian.solutions/blog/foodreview-plan-a-kyoto
   state:
     shortLink: https://link.webring.in.th/2035
+59dc9163211eeabf2ecf27a1d7cc0a9d:bluesky:
+  spec:
+    title: คุณสมบัติของ Pragmatic Programmer [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/the-pragmatic-programmer-characteristic-th/
+  state:
+    cid: bafyreib75orvleiimlfy6jyxx6innffbd6h5a5fr2wakq3ukb5sut2yhem
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtdlpz7nam24
+59dc9163211eeabf2ecf27a1d7cc0a9d:facebook:
+  spec:
+    title: คุณสมบัติของ Pragmatic Programmer [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/the-pragmatic-programmer-characteristic-th/
+  state:
+    id: '100746876247412_1049254231397152'
+    url: https://www.facebook.com/100683012920950/posts/1049254231397152
+59dc9163211eeabf2ecf27a1d7cc0a9d:mastodon:
+  spec:
+    title: คุณสมบัติของ Pragmatic Programmer [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/the-pragmatic-programmer-characteristic-th/
+  state:
+    id: '117115100390069358'
+    url: https://mastodon.in.th/@webring/117115100390069358
+59dc9163211eeabf2ecf27a1d7cc0a9d:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/08/the-pragmatic-programmer-characteristic-th/
+  state:
+    shortLink: https://link.webring.in.th/3407
 59e2d62ce391c48eb8ac690440b5da88:bluesky:
   spec:
     title: 6 Pillars of code quality [debuggingsoft.com]
