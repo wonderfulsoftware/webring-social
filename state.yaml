@@ -34592,6 +34592,32 @@ a21aafc574f7a612558c95baaaf2724e:shorturl:
     url: https://www.somkiat.cc/hello-prometheus-3-beta/
   state:
     shortLink: https://link.webring.in.th/2164
+a22b0a652d8b2d7fa766c7272134aba9:bluesky:
+  spec:
+    title: สรุปสิ่งที่น่าสนใจจาก The New SDLC With Vibe Coding จาก Google [somkiat.cc]
+    url: https://www.somkiat.cc/the-new-sdlc-with-ai/
+  state:
+    cid: bafyreialut7glmgv226u7lns7akuex2cbbcdzymqs25nfwgv4b7ggqhgoa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtdc4276l72t
+a22b0a652d8b2d7fa766c7272134aba9:facebook:
+  spec:
+    title: สรุปสิ่งที่น่าสนใจจาก The New SDLC With Vibe Coding จาก Google [somkiat.cc]
+    url: https://www.somkiat.cc/the-new-sdlc-with-ai/
+  state:
+    id: '100746876247412_1049161464739762'
+    url: https://www.facebook.com/100683012920950/posts/1049161464739762
+a22b0a652d8b2d7fa766c7272134aba9:mastodon:
+  spec:
+    title: สรุปสิ่งที่น่าสนใจจาก The New SDLC With Vibe Coding จาก Google [somkiat.cc]
+    url: https://www.somkiat.cc/the-new-sdlc-with-ai/
+  state:
+    id: '117114422888149256'
+    url: https://mastodon.in.th/@webring/117114422888149256
+a22b0a652d8b2d7fa766c7272134aba9:shorturl:
+  spec:
+    url: https://www.somkiat.cc/the-new-sdlc-with-ai/
+  state:
+    shortLink: https://link.webring.in.th/3406
 a24b82b38cdd9e8abdd7d7455bcd33cc:facebook:
   spec:
     title: Developer survey 2024 จาก StackOverflow ออกมาแล้ว [somkiat.cc]
