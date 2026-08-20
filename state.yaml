@@ -9083,6 +9083,32 @@
     url: https://devahoy.com/tutorials/learn-css-animations/day6-card-game
   state:
     shortLink: https://webring.page.link/o53j
+2ab580502402f09b0d7162d5763d4d6e:bluesky:
+  spec:
+    title: '[CR] Starbucks Castella Chocolate Cake [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/cr-starbucks-castella-chocolate-cake/
+  state:
+    cid: bafyreiga5xt6noexzfuze6z5uotpnc3wq7fay2lungqwd2rhurltdqdzza
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtid4vo4nj25
+2ab580502402f09b0d7162d5763d4d6e:facebook:
+  spec:
+    title: '[CR] Starbucks Castella Chocolate Cake [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/cr-starbucks-castella-chocolate-cake/
+  state:
+    id: '100746876247412_1050892591233316'
+    url: https://www.facebook.com/100683012920950/posts/1050892591233316
+2ab580502402f09b0d7162d5763d4d6e:mastodon:
+  spec:
+    title: '[CR] Starbucks Castella Chocolate Cake [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/cr-starbucks-castella-chocolate-cake/
+  state:
+    id: '117125754322685526'
+    url: https://mastodon.in.th/@webring/117125754322685526
+2ab580502402f09b0d7162d5763d4d6e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/08/cr-starbucks-castella-chocolate-cake/
+  state:
+    shortLink: https://link.webring.in.th/3409
 2abdba5cbfe7aec1f00176ebf98dd3fb:bluesky:
   spec:
     title: Amazean Jungle Thailand by UTMB [tantatorn.xyz]
