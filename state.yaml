@@ -10741,6 +10741,32 @@
     url: https://www.somkiat.cc/use-rtk-ai-with-terminal/
   state:
     shortLink: https://link.webring.in.th/3012
+327aa3133cac69c299e812ea847fc9af:bluesky:
+  spec:
+    title: 'ภูชี้ฟ้า: ทะเลหมอกเหนือสันเขาเชียงราย [myifew.com]'
+    url: https://myifew.com/8438/%e0%b8%a0%e0%b8%b9%e0%b8%8a%e0%b8%b5%e0%b9%89%e0%b8%9f%e0%b9%89%e0%b8%b2-%e0%b8%97%e0%b8%b0%e0%b9%80%e0%b8%a5%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%81%e0%b9%80%e0%b8%ab%e0%b8%99%e0%b8%b7%e0%b8%ad%e0%b8%aa/
+  state:
+    cid: bafyreigim4cl2lwiqheuozqn5la5moezacauwnybadkhgysvkiy2glryua
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtimtldq752a
+327aa3133cac69c299e812ea847fc9af:facebook:
+  spec:
+    title: 'ภูชี้ฟ้า: ทะเลหมอกเหนือสันเขาเชียงราย [myifew.com]'
+    url: https://myifew.com/8438/%e0%b8%a0%e0%b8%b9%e0%b8%8a%e0%b8%b5%e0%b9%89%e0%b8%9f%e0%b9%89%e0%b8%b2-%e0%b8%97%e0%b8%b0%e0%b9%80%e0%b8%a5%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%81%e0%b9%80%e0%b8%ab%e0%b8%99%e0%b8%b7%e0%b8%ad%e0%b8%aa/
+  state:
+    id: '100746876247412_1050986561223919'
+    url: https://www.facebook.com/100683012920950/posts/1050986561223919
+327aa3133cac69c299e812ea847fc9af:mastodon:
+  spec:
+    title: 'ภูชี้ฟ้า: ทะเลหมอกเหนือสันเขาเชียงราย [myifew.com]'
+    url: https://myifew.com/8438/%e0%b8%a0%e0%b8%b9%e0%b8%8a%e0%b8%b5%e0%b9%89%e0%b8%9f%e0%b9%89%e0%b8%b2-%e0%b8%97%e0%b8%b0%e0%b9%80%e0%b8%a5%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%81%e0%b9%80%e0%b8%ab%e0%b8%99%e0%b8%b7%e0%b8%ad%e0%b8%aa/
+  state:
+    id: '117126437366890150'
+    url: https://mastodon.in.th/@webring/117126437366890150
+327aa3133cac69c299e812ea847fc9af:shorturl:
+  spec:
+    url: https://myifew.com/8438/%e0%b8%a0%e0%b8%b9%e0%b8%8a%e0%b8%b5%e0%b9%89%e0%b8%9f%e0%b9%89%e0%b8%b2-%e0%b8%97%e0%b8%b0%e0%b9%80%e0%b8%a5%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%81%e0%b9%80%e0%b8%ab%e0%b8%99%e0%b8%b7%e0%b8%ad%e0%b8%aa/
+  state:
+    shortLink: https://link.webring.in.th/3410
 328cce8c84965761f8b3dc872938e79f:bluesky:
   spec:
     title: Upserting data into Grist using n8n [dt.in.th]
