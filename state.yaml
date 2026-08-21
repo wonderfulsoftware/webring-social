@@ -37289,6 +37289,32 @@ ad854103055b99bd1095a99ddb655ade:shorturl:
     url: https://tantatorn.xyz/posts/my-first-hiking/
   state:
     shortLink: https://webring.page.link/Stzu
+ad9360710b652af2c5bb3bfc4aad273d:bluesky:
+  spec:
+    title: ทำความรู้จักกับ Style logging ใน web browser [somkiat.cc]
+    url: https://www.somkiat.cc/style-logging-in-developer-console/
+  state:
+    cid: bafyreiclrlk7n3sdt2amfihbupws27z2jcp33or7vk3sifhsi4ebrlobai
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtl5cskwsb2g
+ad9360710b652af2c5bb3bfc4aad273d:facebook:
+  spec:
+    title: ทำความรู้จักกับ Style logging ใน web browser [somkiat.cc]
+    url: https://www.somkiat.cc/style-logging-in-developer-console/
+  state:
+    id: '100746876247412_1051849594470949'
+    url: https://www.facebook.com/100683012920950/posts/1051849594470949
+ad9360710b652af2c5bb3bfc4aad273d:mastodon:
+  spec:
+    title: ทำความรู้จักกับ Style logging ใน web browser [somkiat.cc]
+    url: https://www.somkiat.cc/style-logging-in-developer-console/
+  state:
+    id: '117132100606642974'
+    url: https://mastodon.in.th/@webring/117132100606642974
+ad9360710b652af2c5bb3bfc4aad273d:shorturl:
+  spec:
+    url: https://www.somkiat.cc/style-logging-in-developer-console/
+  state:
+    shortLink: https://link.webring.in.th/3412
 ad99701907b20392b15bb3d9e84b9777:facebook:
   spec:
     title: สวัสดี Auto-GPT มันเป็นอย่างไร ? [somkiat.cc]
