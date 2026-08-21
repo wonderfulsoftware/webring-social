@@ -6454,6 +6454,32 @@
     url: https://tantatorn.xyz/posts/gql-tada/
   state:
     shortLink: https://link.webring.in.th/1797
+1e77311f33c7c1e2943b637e55ea96d9:bluesky:
+  spec:
+    title: 'ฟังย้อนหลังจาก Claude Code Sharing #3 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-claude-code-sharing-3/
+  state:
+    cid: bafyreifezirolb7myh2gwzlwhjk25oj23p4mwosfze2ht4ipeur7kdiwnq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtktssfvqn2a
+1e77311f33c7c1e2943b637e55ea96d9:facebook:
+  spec:
+    title: 'ฟังย้อนหลังจาก Claude Code Sharing #3 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-claude-code-sharing-3/
+  state:
+    id: '100746876247412_1051747174481191'
+    url: https://www.facebook.com/100683012920950/posts/1051747174481191
+1e77311f33c7c1e2943b637e55ea96d9:mastodon:
+  spec:
+    title: 'ฟังย้อนหลังจาก Claude Code Sharing #3 [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-claude-code-sharing-3/
+  state:
+    id: '117131432109784131'
+    url: https://mastodon.in.th/@webring/117131432109784131
+1e77311f33c7c1e2943b637e55ea96d9:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-claude-code-sharing-3/
+  state:
+    shortLink: https://link.webring.in.th/3411
 1ea3c61aaf4e1f231dbb4bde7b7d5b71:facebook:
   spec:
     title: แหกแล้วได้เสื้อ กับการแชร์ประสบการณ์ Hacktoberfest Thailand 2023 [tinarskii.com]
