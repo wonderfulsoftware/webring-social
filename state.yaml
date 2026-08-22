@@ -52009,6 +52009,32 @@ f48a1f3a8efd0ac3b0f2b851354ca247:shorturl:
     url: https://karnwong.me/posts/2026/07/make-logging-in-easier-with-passkeys/
   state:
     shortLink: https://link.webring.in.th/3307
+f492dbe8143e0e0ef448eb8dfe26d984:bluesky:
+  spec:
+    title: 'รีวิว Garmin inReach Mini 2: เครื่องสื่อสารดาวเทียมสำหรับทริปที่ไม่มีสัญญาณ [myifew.com]'
+    url: https://myifew.com/8440/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7-garmin-inreach-mini-2-%e0%b9%80%e0%b8%84%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%b2%e0%b8%a3/
+  state:
+    cid: bafyreib3qjd3vahu7dmetj5tpswxznp3fq3lca2fkbm7izpwnwyvmfporq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtndtmnv5b2d
+f492dbe8143e0e0ef448eb8dfe26d984:facebook:
+  spec:
+    title: 'รีวิว Garmin inReach Mini 2: เครื่องสื่อสารดาวเทียมสำหรับทริปที่ไม่มีสัญญาณ [myifew.com]'
+    url: https://myifew.com/8440/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7-garmin-inreach-mini-2-%e0%b9%80%e0%b8%84%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%b2%e0%b8%a3/
+  state:
+    id: '100746876247412_1052627604393148'
+    url: https://www.facebook.com/100683012920950/posts/1052627604393148
+f492dbe8143e0e0ef448eb8dfe26d984:mastodon:
+  spec:
+    title: 'รีวิว Garmin inReach Mini 2: เครื่องสื่อสารดาวเทียมสำหรับทริปที่ไม่มีสัญญาณ [myifew.com]'
+    url: https://myifew.com/8440/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7-garmin-inreach-mini-2-%e0%b9%80%e0%b8%84%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%b2%e0%b8%a3/
+  state:
+    id: '117137063084434576'
+    url: https://mastodon.in.th/@webring/117137063084434576
+f492dbe8143e0e0ef448eb8dfe26d984:shorturl:
+  spec:
+    url: https://myifew.com/8440/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7-garmin-inreach-mini-2-%e0%b9%80%e0%b8%84%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%b2%e0%b8%a3/
+  state:
+    shortLink: https://link.webring.in.th/3413
 f4a9daa208c333c61a97a0457c8e8137:facebook:
   spec:
     title: 'VSCode :: ใช้งาน Built-in port forwarding [somkiat.cc]'
