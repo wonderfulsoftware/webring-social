@@ -6800,6 +6800,13 @@
     url: https://neizod.dev/2022/12/31/cantor-ternary-set.html
   state:
     shortLink: https://webring.page.link/qHki
+2086c47e4149572cbb442c176c2e20f0:bluesky:
+  spec:
+    title: แจกพิกัด เดินเที่ยวถ่ายรูปเล่นตลาดน้อย 2026 [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/photo-guide-talad-noi/
+  state:
+    cid: bafyreihzkuot3fto3jteom3czhk7s7favoed6zha7ja67oy5khrehoq6o4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtq5xgejjc2c
 2086c47e4149572cbb442c176c2e20f0:facebook:
   spec:
     title: แจกพิกัด เดินเที่ยวถ่ายรูปเล่นตลาดน้อย 2026 [blog.ninprd.com]
@@ -42060,6 +42067,25 @@ c56e5547bb9ae969baa17ee2f8911eda:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-feature-raw-string-literals-is-not-available-please-use-language-version-11-0-or-greater/
   state:
     shortLink: https://webring.page.link/kct9
+c57b6116265632ff6e7475e76ace44c3:facebook:
+  spec:
+    title: Agent Skills ที่น่าสนใจ คือ eli5 (Explain Like I’m 5) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-skill-eli5/
+  state:
+    id: '100746876247412_1053572644298644'
+    url: https://www.facebook.com/100683012920950/posts/1053572644298644
+c57b6116265632ff6e7475e76ace44c3:mastodon:
+  spec:
+    title: Agent Skills ที่น่าสนใจ คือ eli5 (Explain Like I’m 5) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-skill-eli5/
+  state:
+    id: '117143404893493435'
+    url: https://mastodon.in.th/@webring/117143404893493435
+c57b6116265632ff6e7475e76ace44c3:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-skill-eli5/
+  state:
+    shortLink: https://link.webring.in.th/3415
 c58cf693da188b1b25e300c8118d784f:bluesky:
   spec:
     title: 'bgx: BackGround eXecute [dt.in.th]'
