@@ -42067,6 +42067,13 @@ c56e5547bb9ae969baa17ee2f8911eda:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-feature-raw-string-literals-is-not-available-please-use-language-version-11-0-or-greater/
   state:
     shortLink: https://webring.page.link/kct9
+c57b6116265632ff6e7475e76ace44c3:bluesky:
+  spec:
+    title: Agent Skills ที่น่าสนใจ คือ eli5 (Explain Like I’m 5) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-skill-eli5/
+  state:
+    cid: bafyreidcnfmcfv332rs4zg32rgyvnx42wg2qs2dsaz4ks3ebhnrq3eq5nq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtqhknrtzu2t
 c57b6116265632ff6e7475e76ace44c3:facebook:
   spec:
     title: Agent Skills ที่น่าสนใจ คือ eli5 (Explain Like I’m 5) [somkiat.cc]
