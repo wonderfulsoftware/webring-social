@@ -7709,6 +7709,32 @@
     url: https://kajame.xyz/blog/2024/go-learning-ep-01
   state:
     shortLink: https://link.webring.in.th/1988
+241b19876e5b6769cd909b7d295737b6:bluesky:
+  spec:
+    title: สัปดาห์ที่ระบบวิ่งเอง แล้วชมพูก็ยิ้ม (17-23 ส.ค. 2569) [myifew.com]
+    url: https://myifew.com/8442/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%a7%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%ad%e0%b8%87-%e0%b9%81/
+  state:
+    cid: bafyreig2jqdwcwnzlovzllfighe7esiutu345vzzthygyiue6lf2d2vppi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mttcutcbbb24
+241b19876e5b6769cd909b7d295737b6:facebook:
+  spec:
+    title: สัปดาห์ที่ระบบวิ่งเอง แล้วชมพูก็ยิ้ม (17-23 ส.ค. 2569) [myifew.com]
+    url: https://myifew.com/8442/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%a7%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%ad%e0%b8%87-%e0%b9%81/
+  state:
+    id: '100746876247412_1054660277523214'
+    url: https://www.facebook.com/100683012920950/posts/1054660277523214
+241b19876e5b6769cd909b7d295737b6:mastodon:
+  spec:
+    title: สัปดาห์ที่ระบบวิ่งเอง แล้วชมพูก็ยิ้ม (17-23 ส.ค. 2569) [myifew.com]
+    url: https://myifew.com/8442/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%a7%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%ad%e0%b8%87-%e0%b9%81/
+  state:
+    id: '117150506130607139'
+    url: https://mastodon.in.th/@webring/117150506130607139
+241b19876e5b6769cd909b7d295737b6:shorturl:
+  spec:
+    url: https://myifew.com/8442/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%a7%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%ad%e0%b8%87-%e0%b9%81/
+  state:
+    shortLink: https://link.webring.in.th/3419
 24433f0f619c655da61987caf6084c23:facebook:
   spec:
     title: Food Review - เหอ เฉิน ฟง [lucian.solutions]
