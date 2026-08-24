@@ -38961,6 +38961,32 @@ b4b16d8452493c3ed47d8b8f1807252a:shorturl:
     url: https://naiwaen.debuggingsoft.com/2026/02/cr-starbuck-mangosteen-with-butterfly-pea-juice/
   state:
     shortLink: https://link.webring.in.th/2948
+b504bedd1ea0784ae58a08f58c1d2fd8:bluesky:
+  spec:
+    title: ซื้อ DRM-free E-book กับ Humble Bundle [nitpum.com]
+    url: https://nitpum.com/post/humblebundle-ebook/
+  state:
+    cid: bafyreib24dzujokfgfgxuqsfg4qmveuw4hnr7gszjbwzeyjlcqh3c2srou
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtsz2uphwv26
+b504bedd1ea0784ae58a08f58c1d2fd8:facebook:
+  spec:
+    title: ซื้อ DRM-free E-book กับ Humble Bundle [nitpum.com]
+    url: https://nitpum.com/post/humblebundle-ebook/
+  state:
+    id: '100746876247412_1054539664201942'
+    url: https://www.facebook.com/100683012920950/posts/1054539664201942
+b504bedd1ea0784ae58a08f58c1d2fd8:mastodon:
+  spec:
+    title: ซื้อ DRM-free E-book กับ Humble Bundle [nitpum.com]
+    url: https://nitpum.com/post/humblebundle-ebook/
+  state:
+    id: '117149815954409660'
+    url: https://mastodon.in.th/@webring/117149815954409660
+b504bedd1ea0784ae58a08f58c1d2fd8:shorturl:
+  spec:
+    url: https://nitpum.com/post/humblebundle-ebook/
+  state:
+    shortLink: https://link.webring.in.th/3418
 b523496aaef0dbab15c8fab0cdfbdc26:facebook:
   spec:
     title: เทคนิคการฝึกพูด present และ public speaking สำหรับมือใหม่ [mesodiar.com]
