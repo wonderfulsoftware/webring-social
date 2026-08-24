@@ -18731,6 +18731,32 @@
     url: https://naiwaen.debuggingsoft.com/2026/04/6-pillars-of-code-quality/
   state:
     shortLink: https://link.webring.in.th/3118
+59f93db53c21485b4b4c92dff3ec75e5:bluesky:
+  spec:
+    title: 'สรุป Arise Tech Meetup #10: AI Agents in Action [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-arise-tech-meetup-10-ai-agents-in-action/
+  state:
+    cid: bafyreifqpidvtulhxjdci3cdtcmcm2ial77i3cytkzlwnz5maj55lpjhhq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtsfgbo64o26
+59f93db53c21485b4b4c92dff3ec75e5:facebook:
+  spec:
+    title: 'สรุป Arise Tech Meetup #10: AI Agents in Action [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-arise-tech-meetup-10-ai-agents-in-action/
+  state:
+    id: '100746876247412_1054347227554519'
+    url: https://www.facebook.com/100683012920950/posts/1054347227554519
+59f93db53c21485b4b4c92dff3ec75e5:mastodon:
+  spec:
+    title: 'สรุป Arise Tech Meetup #10: AI Agents in Action [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-arise-tech-meetup-10-ai-agents-in-action/
+  state:
+    id: '117148433793902956'
+    url: https://mastodon.in.th/@webring/117148433793902956
+59f93db53c21485b4b4c92dff3ec75e5:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-arise-tech-meetup-10-ai-agents-in-action/
+  state:
+    shortLink: https://link.webring.in.th/3416
 59fa14053ed98008b8d641957b11f0d3:bluesky:
   spec:
     title: บันทึกเรื่อง Soft delete ใน PostgreSQL database ไว้นิดหน่อย [somkiat.cc]
