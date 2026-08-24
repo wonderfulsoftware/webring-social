@@ -17912,6 +17912,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/update-each-dependency-in-package-dot-json-to-lasted-version/
   state:
     shortLink: https://webring.page.link/bXAy
+56027cda3ce24a8146ea7fefb0240c21:bluesky:
+  spec:
+    title: บันทึกการอ่านเรื่อง AI Engineering Skills Map [somkiat.cc]
+    url: https://www.somkiat.cc/note-ai-engineering-skills-map/
+  state:
+    cid: bafyreibendsk3ul5jrenwjinlqjd7ppmchp6blvgajmfthurskndtikrzm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtsp5j5n572c
+56027cda3ce24a8146ea7fefb0240c21:facebook:
+  spec:
+    title: บันทึกการอ่านเรื่อง AI Engineering Skills Map [somkiat.cc]
+    url: https://www.somkiat.cc/note-ai-engineering-skills-map/
+  state:
+    id: '100746876247412_1054439470878628'
+    url: https://www.facebook.com/100683012920950/posts/1054439470878628
+56027cda3ce24a8146ea7fefb0240c21:mastodon:
+  spec:
+    title: บันทึกการอ่านเรื่อง AI Engineering Skills Map [somkiat.cc]
+    url: https://www.somkiat.cc/note-ai-engineering-skills-map/
+  state:
+    id: '117149118136673191'
+    url: https://mastodon.in.th/@webring/117149118136673191
+56027cda3ce24a8146ea7fefb0240c21:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-ai-engineering-skills-map/
+  state:
+    shortLink: https://link.webring.in.th/3417
 5607a85b0ecde54f7403ac811dec1781:facebook:
   spec:
     title: มาเรียนรู้การเทรดเบื้องต้น กับ Bittoon Trading Club [mikkipastel.com]
