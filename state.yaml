@@ -34357,6 +34357,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/05/cpu-gpu-tpu-comparison/
   state:
     shortLink: https://webring.page.link/fHMk
+9f1cdcd78c372efebf861311a022e0e9:bluesky:
+  spec:
+    title: ทำความรู้จักกับ CRAP score กัน [somkiat.cc]
+    url: https://www.somkiat.cc/crap-score-with-ai-agent/
+  state:
+    cid: bafyreicrwv5mxudyfvpoizfjyvtec2jlfneyq3ugsahrgu2t7hyxswt5ae
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtv77l7dih2o
+9f1cdcd78c372efebf861311a022e0e9:facebook:
+  spec:
+    title: ทำความรู้จักกับ CRAP score กัน [somkiat.cc]
+    url: https://www.somkiat.cc/crap-score-with-ai-agent/
+  state:
+    id: '100746876247412_1055377220784853'
+    url: https://www.facebook.com/100683012920950/posts/1055377220784853
+9f1cdcd78c372efebf861311a022e0e9:mastodon:
+  spec:
+    title: ทำความรู้จักกับ CRAP score กัน [somkiat.cc]
+    url: https://www.somkiat.cc/crap-score-with-ai-agent/
+  state:
+    id: '117154752217555311'
+    url: https://mastodon.in.th/@webring/117154752217555311
+9f1cdcd78c372efebf861311a022e0e9:shorturl:
+  spec:
+    url: https://www.somkiat.cc/crap-score-with-ai-agent/
+  state:
+    shortLink: https://link.webring.in.th/3421
 9f4401c8c6f59e63ab27c5581c340550:facebook:
   spec:
     title: เรียนรู้ NestJS - สร้าง Boilerplate มี Prisma + PostgreSQL + Swagger [kajame.xyz]
