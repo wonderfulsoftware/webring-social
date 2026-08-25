@@ -12893,6 +12893,32 @@
     url: https://www.somkiat.cc/hello-android-cli/
   state:
     shortLink: https://link.webring.in.th/3245
+3cd3462e5b5aa5eea950f3f86b473de5:bluesky:
+  spec:
+    title: ARM64 can reduce your infra cost - with a catch [karnwong.me]
+    url: https://karnwong.me/posts/2026/08/arm64-can-reduce-your-infra-cost---with-a-catch/
+  state:
+    cid: bafyreihrzopsqsvrnblg72p35utq3gwe7urippf2lilvkl5jjtmsgltigy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtuvkwg2452c
+3cd3462e5b5aa5eea950f3f86b473de5:facebook:
+  spec:
+    title: ARM64 can reduce your infra cost - with a catch [karnwong.me]
+    url: https://karnwong.me/posts/2026/08/arm64-can-reduce-your-infra-cost---with-a-catch/
+  state:
+    id: '100746876247412_1055227947466447'
+    url: https://www.facebook.com/100683012920950/posts/1055227947466447
+3cd3462e5b5aa5eea950f3f86b473de5:mastodon:
+  spec:
+    title: ARM64 can reduce your infra cost - with a catch [karnwong.me]
+    url: https://karnwong.me/posts/2026/08/arm64-can-reduce-your-infra-cost---with-a-catch/
+  state:
+    id: '117154073489328883'
+    url: https://mastodon.in.th/@webring/117154073489328883
+3cd3462e5b5aa5eea950f3f86b473de5:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/08/arm64-can-reduce-your-infra-cost---with-a-catch/
+  state:
+    shortLink: https://link.webring.in.th/3420
 3cdb547e1d60d1ed0a3ebdc3b08d4ab4:facebook:
   spec:
     title: What is platform engineering? [karnwong.me]
