@@ -4554,6 +4554,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/09/my-note-from-helm-esstential-helm-package/
   state:
     shortLink: https://link.webring.in.th/2148
+1615e395dd59de42f16089d99d8face1:bluesky:
+  spec:
+    title: 'อากาศแปรปรวนก่อนเดินป่า: 7 จุดตัดสินใจที่ช่วยให้ทริปปลอดภัย [myifew.com]'
+    url: https://myifew.com/8445/%e0%b8%ad%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%a8%e0%b9%81%e0%b8%9b%e0%b8%a3%e0%b8%9b%e0%b8%a3%e0%b8%a7%e0%b8%99%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88/
+  state:
+    cid: bafyreidsozd7h2nwcvv5fvpzcp7pi5znywtdgljk7uv3riwkm3vr3mtclm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mtxgdyp7l52g
+1615e395dd59de42f16089d99d8face1:facebook:
+  spec:
+    title: 'อากาศแปรปรวนก่อนเดินป่า: 7 จุดตัดสินใจที่ช่วยให้ทริปปลอดภัย [myifew.com]'
+    url: https://myifew.com/8445/%e0%b8%ad%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%a8%e0%b9%81%e0%b8%9b%e0%b8%a3%e0%b8%9b%e0%b8%a3%e0%b8%a7%e0%b8%99%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88/
+  state:
+    id: '100746876247412_1056159100706665'
+    url: https://www.facebook.com/100683012920950/posts/1056159100706665
+1615e395dd59de42f16089d99d8face1:mastodon:
+  spec:
+    title: 'อากาศแปรปรวนก่อนเดินป่า: 7 จุดตัดสินใจที่ช่วยให้ทริปปลอดภัย [myifew.com]'
+    url: https://myifew.com/8445/%e0%b8%ad%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%a8%e0%b9%81%e0%b8%9b%e0%b8%a3%e0%b8%9b%e0%b8%a3%e0%b8%a7%e0%b8%99%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88/
+  state:
+    id: '117159757358004852'
+    url: https://mastodon.in.th/@webring/117159757358004852
+1615e395dd59de42f16089d99d8face1:shorturl:
+  spec:
+    url: https://myifew.com/8445/%e0%b8%ad%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%a8%e0%b9%81%e0%b8%9b%e0%b8%a3%e0%b8%9b%e0%b8%a3%e0%b8%a7%e0%b8%99%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88/
+  state:
+    shortLink: https://link.webring.in.th/3422
 162e67684a901c57b09b2984bf918113:bluesky:
   spec:
     title: Cloudflare's terraform v5 provider migration strategy [karnwong.me]
