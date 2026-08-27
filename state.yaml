@@ -24611,6 +24611,32 @@
     url: https://lucian.solutions/blog/tw-custom-chat-overlay
   state:
     shortLink: https://webring.page.link/9F5C
+7496d3b92abbb2aaa78da62fe6a9c253:bluesky:
+  spec:
+    title: GreenOps tools on Kubernetes [karnwong.me]
+    url: https://karnwong.me/posts/2026/08/greenops-tools-on-kubernetes/
+  state:
+    cid: bafyreietpyzzrkfxnu4h54cr745lm3x7g7mycpegmowqasuziwngawiyje
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mu2xbtk25r25
+7496d3b92abbb2aaa78da62fe6a9c253:facebook:
+  spec:
+    title: GreenOps tools on Kubernetes [karnwong.me]
+    url: https://karnwong.me/posts/2026/08/greenops-tools-on-kubernetes/
+  state:
+    id: '100746876247412_1057356450586930'
+    url: https://www.facebook.com/100683012920950/posts/1057356450586930
+7496d3b92abbb2aaa78da62fe6a9c253:mastodon:
+  spec:
+    title: GreenOps tools on Kubernetes [karnwong.me]
+    url: https://karnwong.me/posts/2026/08/greenops-tools-on-kubernetes/
+  state:
+    id: '117167704714712736'
+    url: https://mastodon.in.th/@webring/117167704714712736
+7496d3b92abbb2aaa78da62fe6a9c253:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/08/greenops-tools-on-kubernetes/
+  state:
+    shortLink: https://link.webring.in.th/3423
 74c1dfbf690ce96b38813dd19367a9d1:facebook:
   spec:
     title: มาลองเล่น TypeScript Compiler API กัน [tantatorn.xyz]
