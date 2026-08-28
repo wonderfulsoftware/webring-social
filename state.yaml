@@ -12919,6 +12919,32 @@
     url: https://www.somkiat.cc/note-ranking-system-from-reddit/
   state:
     shortLink: https://webring.page.link/Axjg
+3cad7c9d576b29ccd4d39a0033eb93ca:bluesky:
+  spec:
+    title: 'แพลนตัง Timeline: เห็นเส้นทางการเงินทั้งชีวิตในภาพเดียว [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/timeline
+  state:
+    cid: bafyreia645cni2r6gbhjk7oziopso376gv5fge2chlh2sn3agleva3ynmu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mu6kf6jj2v24
+3cad7c9d576b29ccd4d39a0033eb93ca:facebook:
+  spec:
+    title: 'แพลนตัง Timeline: เห็นเส้นทางการเงินทั้งชีวิตในภาพเดียว [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/timeline
+  state:
+    id: '100746876247412_1058645607124681'
+    url: https://www.facebook.com/100683012920950/posts/1058645607124681
+3cad7c9d576b29ccd4d39a0033eb93ca:mastodon:
+  spec:
+    title: 'แพลนตัง Timeline: เห็นเส้นทางการเงินทั้งชีวิตในภาพเดียว [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/timeline
+  state:
+    id: '117175804779087082'
+    url: https://mastodon.in.th/@webring/117175804779087082
+3cad7c9d576b29ccd4d39a0033eb93ca:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/timeline
+  state:
+    shortLink: https://link.webring.in.th/3426
 3cbdea1c259d9ddd6265e4eccf4494a5:bluesky:
   spec:
     title: มาลองใช้งาน Android CLI กัน [somkiat.cc]
