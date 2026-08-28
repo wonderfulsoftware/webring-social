@@ -11958,6 +11958,32 @@
     url: https://mymoneytoolkit.app/posts/flow
   state:
     shortLink: https://link.webring.in.th/2919
+38369c761f006b85a91091b38d0f9b87:bluesky:
+  spec:
+    title: How to use RustDesk on local network [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/how-to-use-rustdesk-on-local-network/
+  state:
+    cid: bafyreiadkiqxyca2ekdmouj5cavowa7keg5swylxjy3oimbkw2rr526yya
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mu437eomho2t
+38369c761f006b85a91091b38d0f9b87:facebook:
+  spec:
+    title: How to use RustDesk on local network [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/how-to-use-rustdesk-on-local-network/
+  state:
+    id: '100746876247412_1057755447213697'
+    url: https://www.facebook.com/100683012920950/posts/1057755447213697
+38369c761f006b85a91091b38d0f9b87:mastodon:
+  spec:
+    title: How to use RustDesk on local network [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/08/how-to-use-rustdesk-on-local-network/
+  state:
+    id: '117170232956076971'
+    url: https://mastodon.in.th/@webring/117170232956076971
+38369c761f006b85a91091b38d0f9b87:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/08/how-to-use-rustdesk-on-local-network/
+  state:
+    shortLink: https://link.webring.in.th/3424
 3855b574765ad0ebdd57bd97bf918d5c:facebook:
   spec:
     title: 70 - garden-astro - Test image links [garden.narze.live]
