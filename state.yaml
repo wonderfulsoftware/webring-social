@@ -5539,6 +5539,32 @@
     url: https://myifew.com/7634/mountain-hardwear-alakazam-60-%e0%b9%80%e0%b8%9b%e0%b9%89-ul-%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b8-aluula-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9a%e0%b8%b2%e0%b9%84%e0%b8%a1%e0%b9%88/
   state:
     shortLink: https://link.webring.in.th/3209
+19f209967f20689d1dc5759ed207a127:bluesky:
+  spec:
+    title: ว่าด้วยเรื่องของ Software Engineering Fundamentals ที่จำเป็นสำหรับ AI Engineering [somkiat.cc]
+    url: https://www.somkiat.cc/software-engineering-fundamentals/
+  state:
+    cid: bafyreiaas7q3gfintqoftnr5wbckklbxoh4xaxvfsrl2o3r6iiijg5avfy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3muaarmigpb2t
+19f209967f20689d1dc5759ed207a127:facebook:
+  spec:
+    title: ว่าด้วยเรื่องของ Software Engineering Fundamentals ที่จำเป็นสำหรับ AI Engineering [somkiat.cc]
+    url: https://www.somkiat.cc/software-engineering-fundamentals/
+  state:
+    id: '100746876247412_1059229090399666'
+    url: https://www.facebook.com/100683012920950/posts/1059229090399666
+19f209967f20689d1dc5759ed207a127:mastodon:
+  spec:
+    title: ว่าด้วยเรื่องของ Software Engineering Fundamentals ที่จำเป็นสำหรับ AI Engineering [somkiat.cc]
+    url: https://www.somkiat.cc/software-engineering-fundamentals/
+  state:
+    id: '117179632075778712'
+    url: https://mastodon.in.th/@webring/117179632075778712
+19f209967f20689d1dc5759ed207a127:shorturl:
+  spec:
+    url: https://www.somkiat.cc/software-engineering-fundamentals/
+  state:
+    shortLink: https://link.webring.in.th/3428
 1a0bd71ccfae971cb2a58a4ff1d8548f:bluesky:
   spec:
     title: '[Bug] Claude code for VS Code 2.1.131 [somkiat.cc]'
