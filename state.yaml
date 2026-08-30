@@ -12455,6 +12455,32 @@
     url: https://thiti.dev/blog/69/
   state:
     shortLink: https://link.webring.in.th/3389
+3aa6ab7cc7dbd5fcc1744ea68a1e6246:bluesky:
+  spec:
+    title: สิ่งที่น่าสนใจใน Modern Go Guidelines จาก JetBrains [somkiat.cc]
+    url: https://www.somkiat.cc/modern-go-guidelines-from-jetbrains/
+  state:
+    cid: bafyreiaynsb2rqbe4oykzlthsv3ouojqdqmaujokxurpi3ybzmcl6hb7le
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mucyz5ort624
+3aa6ab7cc7dbd5fcc1744ea68a1e6246:facebook:
+  spec:
+    title: สิ่งที่น่าสนใจใน Modern Go Guidelines จาก JetBrains [somkiat.cc]
+    url: https://www.somkiat.cc/modern-go-guidelines-from-jetbrains/
+  state:
+    id: '100746876247412_1060176203638288'
+    url: https://www.facebook.com/100683012920950/posts/1060176203638288
+3aa6ab7cc7dbd5fcc1744ea68a1e6246:mastodon:
+  spec:
+    title: สิ่งที่น่าสนใจใน Modern Go Guidelines จาก JetBrains [somkiat.cc]
+    url: https://www.somkiat.cc/modern-go-guidelines-from-jetbrains/
+  state:
+    id: '117185840975779445'
+    url: https://mastodon.in.th/@webring/117185840975779445
+3aa6ab7cc7dbd5fcc1744ea68a1e6246:shorturl:
+  spec:
+    url: https://www.somkiat.cc/modern-go-guidelines-from-jetbrains/
+  state:
+    shortLink: https://link.webring.in.th/3431
 3ab82a5e0a5cea3d97771e72488592b3:bluesky:
   spec:
     title: เมื่อต้องเจอกับคนที่เป็น Narcissistic Personality Disorder (NPD) [jetsukda.dev]
