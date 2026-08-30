@@ -24293,6 +24293,32 @@
     url: https://betich.me/notes/line-runner-bot/
   state:
     shortLink: https://link.webring.in.th/3103
+71c877e0005584778364399023732f62:bluesky:
+  spec:
+    title: 'จดๆจาก Cloud Native Bangkok: Cloud Native AI (AUG-2026) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-cloud-native-bangkok-cloud-native-ai-aug-2026/
+  state:
+    cid: bafyreic2rgo4svhtlxca6qk4mnwp4mmxhqdli2m3m5y6ehcn34uj2g776i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mucl6avees2v
+71c877e0005584778364399023732f62:facebook:
+  spec:
+    title: 'จดๆจาก Cloud Native Bangkok: Cloud Native AI (AUG-2026) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-cloud-native-bangkok-cloud-native-ai-aug-2026/
+  state:
+    id: '100746876247412_1060007996988442'
+    url: https://www.facebook.com/100683012920950/posts/1060007996988442
+71c877e0005584778364399023732f62:mastodon:
+  spec:
+    title: 'จดๆจาก Cloud Native Bangkok: Cloud Native AI (AUG-2026) [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-cloud-native-bangkok-cloud-native-ai-aug-2026/
+  state:
+    id: '117184867273974971'
+    url: https://mastodon.in.th/@webring/117184867273974971
+71c877e0005584778364399023732f62:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/08/recap-cloud-native-bangkok-cloud-native-ai-aug-2026/
+  state:
+    shortLink: https://link.webring.in.th/3430
 7229a88cf9aba07fb44664b5c3590149:facebook:
   spec:
     title: การใช้งาน Dependency Track [somkiat.cc]
