@@ -17464,6 +17464,32 @@
     url: https://www.somkiat.cc/mock-api-server-tools/
   state:
     shortLink: https://link.webring.in.th/2221
+527be00732d308c53d89a482d876a6a3:bluesky:
+  spec:
+    title: 'แพลนตัง บัตรเครดิต: หาบัตรที่ใช่ เทียบบัตรที่คุ้ม [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/credit-card
+  state:
+    cid: bafyreidnnj7qtjhgmhwahfs7btqxcvqb5b43wt46yhwmv2tumeraleroxm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mubz33t5jc24
+527be00732d308c53d89a482d876a6a3:facebook:
+  spec:
+    title: 'แพลนตัง บัตรเครดิต: หาบัตรที่ใช่ เทียบบัตรที่คุ้ม [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/credit-card
+  state:
+    id: '100746876247412_1059797413676167'
+    url: https://www.facebook.com/100683012920950/posts/1059797413676167
+527be00732d308c53d89a482d876a6a3:mastodon:
+  spec:
+    title: 'แพลนตัง บัตรเครดิต: หาบัตรที่ใช่ เทียบบัตรที่คุ้ม [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/credit-card
+  state:
+    id: '117183593483613800'
+    url: https://mastodon.in.th/@webring/117183593483613800
+527be00732d308c53d89a482d876a6a3:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/credit-card
+  state:
+    shortLink: https://link.webring.in.th/3429
 52e69df351c6c64d6f7845475918de67:bluesky:
   spec:
     title: มาทำการ review Distributed Monolith กันหน่อย [somkiat.cc]
