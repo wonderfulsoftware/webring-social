@@ -24191,6 +24191,32 @@
     url: https://mymoneytoolkit.app/posts/retirement
   state:
     shortLink: https://link.webring.in.th/2515
+7143d2d1014efe50c417a4e864cdf8d4:bluesky:
+  spec:
+    title: ลองใช้ driver.js เพื่อทำ product tours [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/create-a-product-tours-with-driver-js/
+  state:
+    cid: bafyreifwjuiq6cyfuqfbwehhgnvyqvpafrlxd64jnmso3ft4cjghsesx7a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3muhkukbl3k2f
+7143d2d1014efe50c417a4e864cdf8d4:facebook:
+  spec:
+    title: ลองใช้ driver.js เพื่อทำ product tours [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/create-a-product-tours-with-driver-js/
+  state:
+    id: '100746876247412_1061664920156083'
+    url: https://www.facebook.com/100683012920950/posts/1061664920156083
+7143d2d1014efe50c417a4e864cdf8d4:mastodon:
+  spec:
+    title: ลองใช้ driver.js เพื่อทำ product tours [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/create-a-product-tours-with-driver-js/
+  state:
+    id: '117196104677306228'
+    url: https://mastodon.in.th/@webring/117196104677306228
+7143d2d1014efe50c417a4e864cdf8d4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/09/create-a-product-tours-with-driver-js/
+  state:
+    shortLink: https://link.webring.in.th/3434
 71668f54854eb6edd503341883e276a8:facebook:
   spec:
     title: Playwright 1.45 เพิ่ม Clock API เข้ามาแล้ว [somkiat.cc]
