@@ -14579,6 +14579,32 @@
     url: https://www.somkiat.cc/note-how-discord-reduced-websocket-traffic/
   state:
     shortLink: https://link.webring.in.th/2346
+4461e0793dd70c0d090eb7b9ca486118:bluesky:
+  spec:
+    title: SDLC ยุคใหม่ในวันที่เรา vibe coding [xiengperm.dev]
+    url: https://xiengperm.dev/posts/new-sdlc-vibe-coding-th/
+  state:
+    cid: bafyreib5xkfk4vcgyl3mkry6sm7jlnyalmvns7lvmi2u7xk3bhdqyjtpcu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mujg2ivypf2j
+4461e0793dd70c0d090eb7b9ca486118:facebook:
+  spec:
+    title: SDLC ยุคใหม่ในวันที่เรา vibe coding [xiengperm.dev]
+    url: https://xiengperm.dev/posts/new-sdlc-vibe-coding-th/
+  state:
+    id: '100746876247412_1062270520095523'
+    url: https://www.facebook.com/100683012920950/posts/1062270520095523
+4461e0793dd70c0d090eb7b9ca486118:mastodon:
+  spec:
+    title: SDLC ยุคใหม่ในวันที่เรา vibe coding [xiengperm.dev]
+    url: https://xiengperm.dev/posts/new-sdlc-vibe-coding-th/
+  state:
+    id: '117200269558450457'
+    url: https://mastodon.in.th/@webring/117200269558450457
+4461e0793dd70c0d090eb7b9ca486118:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/new-sdlc-vibe-coding-th/
+  state:
+    shortLink: https://link.webring.in.th/3435
 446f4ca802447c269b69fff96b1538a1:bluesky:
   spec:
     title: แนะนำ Val Town [somkiat.cc]
