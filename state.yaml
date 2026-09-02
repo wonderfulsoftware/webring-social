@@ -45386,6 +45386,32 @@ d221bc1f47b89b1908ed0016332f2d2b:shorturl:
     url: https://tantatorn.xyz/posts/about-this-blog/
   state:
     shortLink: https://webring.page.link/rK6c
+d222585ef567b8613f7aaad61b4c688f:bluesky:
+  spec:
+    title: 'ดูแลเท้าก่อนเดินเทรค: 7 เทคนิคป้องกันตุ่มพอง [myifew.com]'
+    url: https://myifew.com/8473/%e0%b8%94%e0%b8%b9%e0%b9%81%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84-7-%e0%b9%80/
+  state:
+    cid: bafyreifdsixzvn7v74nb3ww7l7rytypvibzrm2vwad36klse6btnxtmbai
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mujyxeq6e42a
+d222585ef567b8613f7aaad61b4c688f:facebook:
+  spec:
+    title: 'ดูแลเท้าก่อนเดินเทรค: 7 เทคนิคป้องกันตุ่มพอง [myifew.com]'
+    url: https://myifew.com/8473/%e0%b8%94%e0%b8%b9%e0%b9%81%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84-7-%e0%b9%80/
+  state:
+    id: '100746876247412_1062481723407736'
+    url: https://www.facebook.com/100683012920950/posts/1062481723407736
+d222585ef567b8613f7aaad61b4c688f:mastodon:
+  spec:
+    title: 'ดูแลเท้าก่อนเดินเทรค: 7 เทคนิคป้องกันตุ่มพอง [myifew.com]'
+    url: https://myifew.com/8473/%e0%b8%94%e0%b8%b9%e0%b9%81%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84-7-%e0%b9%80/
+  state:
+    id: '117201599502249226'
+    url: https://mastodon.in.th/@webring/117201599502249226
+d222585ef567b8613f7aaad61b4c688f:shorturl:
+  spec:
+    url: https://myifew.com/8473/%e0%b8%94%e0%b8%b9%e0%b9%81%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84-7-%e0%b9%80/
+  state:
+    shortLink: https://link.webring.in.th/3436
 d2347ad23893a45c3ddf3048b3268d34:facebook:
   spec:
     title: '[CR] Starbucks Croissant Bite Salted Caramel [debuggingsoft.com]'
