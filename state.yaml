@@ -44680,6 +44680,32 @@ ce1978c4d292926e7f9a4a84ee166d95:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/09/cr-starbucks-ham-cheese-egg-wrap-low-crab/
   state:
     shortLink: https://link.webring.in.th/2130
+ce6ad789f1a494f1abe198fe99f52765:bluesky:
+  spec:
+    title: 'Tips :: การแบ่งงานสำหรับ AI Agent [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-ai-agent-spec-work-break-down/
+  state:
+    cid: bafyreic36m3xq654hr4eewadum3g2ojk5qnxnon5xoaq55nbuptw45jhuq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mukkcvdqr627
+ce6ad789f1a494f1abe198fe99f52765:facebook:
+  spec:
+    title: 'Tips :: การแบ่งงานสำหรับ AI Agent [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-ai-agent-spec-work-break-down/
+  state:
+    id: '100746876247412_1062694653386443'
+    url: https://www.facebook.com/100683012920950/posts/1062694653386443
+ce6ad789f1a494f1abe198fe99f52765:mastodon:
+  spec:
+    title: 'Tips :: การแบ่งงานสำหรับ AI Agent [somkiat.cc]'
+    url: https://www.somkiat.cc/tips-ai-agent-spec-work-break-down/
+  state:
+    id: '117202821365310976'
+    url: https://mastodon.in.th/@webring/117202821365310976
+ce6ad789f1a494f1abe198fe99f52765:shorturl:
+  spec:
+    url: https://www.somkiat.cc/tips-ai-agent-spec-work-break-down/
+  state:
+    shortLink: https://link.webring.in.th/3437
 ce817cbbd1783fbbaab630396dbe6677:bluesky:
   spec:
     title: รู้ยัง ใช้ NotebookLM บน Gemini ได้แล้วนะ! [mikkipastel.com]
