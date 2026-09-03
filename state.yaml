@@ -52003,6 +52003,32 @@ f156f4cc6c4bfd9b8b3d21edbd21263d:shorturl:
     url: https://notes.dt.in.th/FacebookPageLongLivedAccessToken
   state:
     shortLink: https://webring.page.link/uha4
+f17c26f4f30109345b7e8d0eb667a0cc:bluesky:
+  spec:
+    title: 'น้ำตกเอราวัณ: เดินชม 7 ชั้น เลือกระยะให้พอดีกับแรง [myifew.com]'
+    url: https://myifew.com/8475/%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b8%95%e0%b8%81%e0%b9%80%e0%b8%ad%e0%b8%a3%e0%b8%b2%e0%b8%a7%e0%b8%b1%e0%b8%93-%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%8a%e0%b8%a1-7-%e0%b8%8a%e0%b8%b1%e0%b9%89/
+  state:
+    cid: bafyreify4ti5b6mmsm7jmcykbf36chhb4mv3cr3hjbh25ulnhpqtdkisia
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mumjkcausd2v
+f17c26f4f30109345b7e8d0eb667a0cc:facebook:
+  spec:
+    title: 'น้ำตกเอราวัณ: เดินชม 7 ชั้น เลือกระยะให้พอดีกับแรง [myifew.com]'
+    url: https://myifew.com/8475/%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b8%95%e0%b8%81%e0%b9%80%e0%b8%ad%e0%b8%a3%e0%b8%b2%e0%b8%a7%e0%b8%b1%e0%b8%93-%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%8a%e0%b8%a1-7-%e0%b8%8a%e0%b8%b1%e0%b9%89/
+  state:
+    id: '100746876247412_1063325566656685'
+    url: https://www.facebook.com/100683012920950/posts/1063325566656685
+f17c26f4f30109345b7e8d0eb667a0cc:mastodon:
+  spec:
+    title: 'น้ำตกเอราวัณ: เดินชม 7 ชั้น เลือกระยะให้พอดีกับแรง [myifew.com]'
+    url: https://myifew.com/8475/%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b8%95%e0%b8%81%e0%b9%80%e0%b8%ad%e0%b8%a3%e0%b8%b2%e0%b8%a7%e0%b8%b1%e0%b8%93-%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%8a%e0%b8%a1-7-%e0%b8%8a%e0%b8%b1%e0%b9%89/
+  state:
+    id: '117207270657507170'
+    url: https://mastodon.in.th/@webring/117207270657507170
+f17c26f4f30109345b7e8d0eb667a0cc:shorturl:
+  spec:
+    url: https://myifew.com/8475/%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b8%95%e0%b8%81%e0%b9%80%e0%b8%ad%e0%b8%a3%e0%b8%b2%e0%b8%a7%e0%b8%b1%e0%b8%93-%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%8a%e0%b8%a1-7-%e0%b8%8a%e0%b8%b1%e0%b9%89/
+  state:
+    shortLink: https://link.webring.in.th/3439
 f195d3b0e910b6aa02191f486a965f48:bluesky:
   spec:
     title: จัดระเบียบชีวิต จัดระเบียบใจ — ไดอารี่วันจันทร์ 💫 [myifew.com]
