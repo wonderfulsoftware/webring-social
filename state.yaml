@@ -29125,6 +29125,32 @@
     url: https://mymoneytoolkit.app/posts/watchlist-me
   state:
     shortLink: https://link.webring.in.th/2225
+85cdb93363909d29412c1a2908ebf23e:bluesky:
+  spec:
+    title: Update Plan September 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-september-2026
+  state:
+    cid: bafyreicugtv44g6n43g7sfg33qeettv722mrtk6baduezmvoskqurlyw6a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mun2n5afrr2l
+85cdb93363909d29412c1a2908ebf23e:facebook:
+  spec:
+    title: Update Plan September 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-september-2026
+  state:
+    id: '100746876247412_1063537949968780'
+    url: https://www.facebook.com/100683012920950/posts/1063537949968780
+85cdb93363909d29412c1a2908ebf23e:mastodon:
+  spec:
+    title: Update Plan September 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-september-2026
+  state:
+    id: '117208473464021484'
+    url: https://mastodon.in.th/@webring/117208473464021484
+85cdb93363909d29412c1a2908ebf23e:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/update-plan-september-2026
+  state:
+    shortLink: https://link.webring.in.th/3440
 85e0ddd6459b0fd2dd737c4f47772738:bluesky:
   spec:
     title: บันทึกวันอาทิตย์ — เมื่อยักษ์ใหญ่ AI ขยับพร้อมกัน 🌸 [myifew.com]
