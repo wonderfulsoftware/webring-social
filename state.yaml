@@ -29549,6 +29549,32 @@
     url: https://karnwong.me/posts/2026/08/yes-you-still-need-to-know-fundamentals-even-with-ai/
   state:
     shortLink: https://link.webring.in.th/3393
+87f06d4ee9dd5573110bf1f783af7502:bluesky:
+  spec:
+    title: แนวคิดน่าสนใจในการ migrate ระบบของ Lovable.dev [somkiat.cc]
+    url: https://www.somkiat.cc/migrate-lovable-from-nextjs-to-tanstack/
+  state:
+    cid: bafyreigg7ethql55drp7v636l4y6f2y5sqi6zcjr5njcnsrtyg5uozpk6m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mulwujlbzk27
+87f06d4ee9dd5573110bf1f783af7502:facebook:
+  spec:
+    title: แนวคิดน่าสนใจในการ migrate ระบบของ Lovable.dev [somkiat.cc]
+    url: https://www.somkiat.cc/migrate-lovable-from-nextjs-to-tanstack/
+  state:
+    id: '100746876247412_1063114216677820'
+    url: https://www.facebook.com/100683012920950/posts/1063114216677820
+87f06d4ee9dd5573110bf1f783af7502:mastodon:
+  spec:
+    title: แนวคิดน่าสนใจในการ migrate ระบบของ Lovable.dev [somkiat.cc]
+    url: https://www.somkiat.cc/migrate-lovable-from-nextjs-to-tanstack/
+  state:
+    id: '117205956355899602'
+    url: https://mastodon.in.th/@webring/117205956355899602
+87f06d4ee9dd5573110bf1f783af7502:shorturl:
+  spec:
+    url: https://www.somkiat.cc/migrate-lovable-from-nextjs-to-tanstack/
+  state:
+    shortLink: https://link.webring.in.th/3438
 87f9b366b584453b8ccae783e0830712:bluesky:
   spec:
     title: 'LL: SEGA account injection incident on 2022 [rayriffy.com]'
