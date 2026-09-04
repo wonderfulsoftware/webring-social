@@ -28862,6 +28862,32 @@
     url: https://myifew.com/7793/how-optimize-token-use-fable5-advisor/
   state:
     shortLink: https://link.webring.in.th/3310
+84b57cd4e32bbe16ce28d260177a1c49:bluesky:
+  spec:
+    title: Using Pattern Matching with C# Switch Expression [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/using-pattern-matching-with-c-switch-expression/
+  state:
+    cid: bafyreibt56z2wbckq6esmmv5wm7c4agkq3fc34ahgjxoglplxunohmxpcm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3muozmxj2wb2c
+84b57cd4e32bbe16ce28d260177a1c49:facebook:
+  spec:
+    title: Using Pattern Matching with C# Switch Expression [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/using-pattern-matching-with-c-switch-expression/
+  state:
+    id: '100746876247412_1064188046570437'
+    url: https://www.facebook.com/100683012920950/posts/1064188046570437
+84b57cd4e32bbe16ce28d260177a1c49:mastodon:
+  spec:
+    title: Using Pattern Matching with C# Switch Expression [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/using-pattern-matching-with-c-switch-expression/
+  state:
+    id: '117212906180573996'
+    url: https://mastodon.in.th/@webring/117212906180573996
+84b57cd4e32bbe16ce28d260177a1c49:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/09/using-pattern-matching-with-c-switch-expression/
+  state:
+    shortLink: https://link.webring.in.th/3442
 84c741a6ac2a29c94c27e12bc06125cf:facebook:
   spec:
     title: Why your Quarkus reactive codes are not executing? [guitarpawat.me]
