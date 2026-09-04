@@ -43875,6 +43875,32 @@ cac1bc35b5b13f8ec50018f199b9aff1:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/10/what-is-logical-volume-manager-lvm/
   state:
     shortLink: https://webring.page.link/2Fzz
+cadb5b232516e92e912aaaf8a683823f:bluesky:
+  spec:
+    title: ลองใช้งาน Mockdown.Design สำหรับการออกแบบด้วย ASCII wireframe [somkiat.cc]
+    url: https://www.somkiat.cc/mockdown-design-acsii-text/
+  state:
+    cid: bafyreids7zwaz477bokbllem7ojy4evbpfqwuxqd37okcy2oma7xdbicue
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mupk3ijfrd2n
+cadb5b232516e92e912aaaf8a683823f:facebook:
+  spec:
+    title: ลองใช้งาน Mockdown.Design สำหรับการออกแบบด้วย ASCII wireframe [somkiat.cc]
+    url: https://www.somkiat.cc/mockdown-design-acsii-text/
+  state:
+    id: '100746876247412_1064398663216042'
+    url: https://www.facebook.com/100683012920950/posts/1064398663216042
+cadb5b232516e92e912aaaf8a683823f:mastodon:
+  spec:
+    title: ลองใช้งาน Mockdown.Design สำหรับการออกแบบด้วย ASCII wireframe [somkiat.cc]
+    url: https://www.somkiat.cc/mockdown-design-acsii-text/
+  state:
+    id: '117214064008069947'
+    url: https://mastodon.in.th/@webring/117214064008069947
+cadb5b232516e92e912aaaf8a683823f:shorturl:
+  spec:
+    url: https://www.somkiat.cc/mockdown-design-acsii-text/
+  state:
+    shortLink: https://link.webring.in.th/3443
 cae2f6941e5f378252488ce8aaf25f06:bluesky:
   spec:
     title: จดจากงาน QA&Testers Thailand Meetup FEB 2026 [debuggingsoft.com]
