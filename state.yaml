@@ -46847,6 +46847,32 @@ d86dea1bd909f28c24a9057ca8f5fb69:shorturl:
     url: https://myifew.com/7576/%e0%b8%aa%e0%b8%b2%e0%b8%a1%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b9%82%e0%b8%9a%e0%b8%81-sam-phan-bok-%e0%b9%81%e0%b8%81%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b9%81%e0%b8%84%e0%b8%99%e0%b8%a2%e0%b8%ad/
   state:
     shortLink: https://link.webring.in.th/3194
+d86fb977176ef5edd2e5b5cd5bbfec4d:bluesky:
+  spec:
+    title: เตรียมความพร้อมก่อนลุย Colosseum Hackathon และทำความรู้จัก Ruliology [mikkipastel.com]
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-5-bangkok/
+  state:
+    cid: bafyreihebkrh5mxq2ok67bfdindpd56dr6zvuh7bz2btdk7kfvadyyv6mu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3muqwprn56x2p
+d86fb977176ef5edd2e5b5cd5bbfec4d:facebook:
+  spec:
+    title: เตรียมความพร้อมก่อนลุย Colosseum Hackathon และทำความรู้จัก Ruliology [mikkipastel.com]
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-5-bangkok/
+  state:
+    id: '100746876247412_1064837703172138'
+    url: https://www.facebook.com/100683012920950/posts/1064837703172138
+d86fb977176ef5edd2e5b5cd5bbfec4d:mastodon:
+  spec:
+    title: เตรียมความพร้อมก่อนลุย Colosseum Hackathon และทำความรู้จัก Ruliology [mikkipastel.com]
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-5-bangkok/
+  state:
+    id: '117217204785875870'
+    url: https://mastodon.in.th/@webring/117217204785875870
+d86fb977176ef5edd2e5b5cd5bbfec4d:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-5-bangkok/
+  state:
+    shortLink: https://link.webring.in.th/3444
 d88ec1838395c9e02567d69bd73b9f1b:facebook:
   spec:
     title: Review การใช้งาน Postman ใน VSCode แบบเร็ว ๆ [somkiat.cc]
