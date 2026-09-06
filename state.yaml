@@ -20116,6 +20116,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/11/cr-starbucks-banana-choc-chip-loaf-cake/
   state:
     shortLink: https://link.webring.in.th/2862
+5eda2e1d8f0ce4b96cd23eee663daf63:bluesky:
+  spec:
+    title: แนะนำการใช้งาน Portless [somkiat.cc]
+    url: https://www.somkiat.cc/working-with-portless/
+  state:
+    cid: bafyreigegrtsvb6qyukmmws2z4hq3vs2sl2qs3scszx2rfiznhitqzgssq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3muthv2uksg22
+5eda2e1d8f0ce4b96cd23eee663daf63:facebook:
+  spec:
+    title: แนะนำการใช้งาน Portless [somkiat.cc]
+    url: https://www.somkiat.cc/working-with-portless/
+  state:
+    id: '100746876247412_1065716613084247'
+    url: https://www.facebook.com/100683012920950/posts/1065716613084247
+5eda2e1d8f0ce4b96cd23eee663daf63:mastodon:
+  spec:
+    title: แนะนำการใช้งาน Portless [somkiat.cc]
+    url: https://www.somkiat.cc/working-with-portless/
+  state:
+    id: '117222916345885069'
+    url: https://mastodon.in.th/@webring/117222916345885069
+5eda2e1d8f0ce4b96cd23eee663daf63:shorturl:
+  spec:
+    url: https://www.somkiat.cc/working-with-portless/
+  state:
+    shortLink: https://link.webring.in.th/3446
 5efc5ce24e8bdc1194e500102b25cb55:facebook:
   spec:
     title: LLM กับข้อสอบ O-NET ม.6 [dt.in.th]
