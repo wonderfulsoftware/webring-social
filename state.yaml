@@ -31715,6 +31715,32 @@
     url: https://jitrak.dev/posts/post-16-sops/
   state:
     shortLink: https://webring.page.link/sdNG
+90dc85896a4996830fc842ccc2668200:bluesky:
+  spec:
+    title: ชมพูในสัปดาห์ที่ค่อยๆ วางระบบให้ชัดขึ้น [myifew.com]
+    url: https://myifew.com/8480/%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%83%e0%b8%99%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%84%e0%b9%88%e0%b8%ad%e0%b8%a2%e0%b9%86-%e0%b8%a7/
+  state:
+    cid: bafyreiftpsy7bcth52et5ohe6bffis6b6wqawiysurzhr4ozuxp2cnvyie
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3muwqg75nqo2l
+90dc85896a4996830fc842ccc2668200:facebook:
+  spec:
+    title: ชมพูในสัปดาห์ที่ค่อยๆ วางระบบให้ชัดขึ้น [myifew.com]
+    url: https://myifew.com/8480/%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%83%e0%b8%99%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%84%e0%b9%88%e0%b8%ad%e0%b8%a2%e0%b9%86-%e0%b8%a7/
+  state:
+    id: '100746876247412_1066845182971390'
+    url: https://www.facebook.com/100683012920950/posts/1066845182971390
+90dc85896a4996830fc842ccc2668200:mastodon:
+  spec:
+    title: ชมพูในสัปดาห์ที่ค่อยๆ วางระบบให้ชัดขึ้น [myifew.com]
+    url: https://myifew.com/8480/%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%83%e0%b8%99%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%84%e0%b9%88%e0%b8%ad%e0%b8%a2%e0%b9%86-%e0%b8%a7/
+  state:
+    id: '117230272235439244'
+    url: https://mastodon.in.th/@webring/117230272235439244
+90dc85896a4996830fc842ccc2668200:shorturl:
+  spec:
+    url: https://myifew.com/8480/%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%83%e0%b8%99%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%84%e0%b9%88%e0%b8%ad%e0%b8%a2%e0%b9%86-%e0%b8%a7/
+  state:
+    shortLink: https://link.webring.in.th/3448
 9106f5d70f3c4f5be09187033cebc81b:bluesky:
   spec:
     title: WASM FFI performance benchmark [karnwong.me]
