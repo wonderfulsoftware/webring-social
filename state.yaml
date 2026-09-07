@@ -21824,6 +21824,32 @@
     url: https://blog.evanrintho.buzz/post/what-is-gobuster
   state:
     shortLink: https://link.webring.in.th/2607
+652404b3167728803169dcf7cd7415bf:bluesky:
+  spec:
+    title: จดๆจากงาน BugDay2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/recap-bugday2026/
+  state:
+    cid: bafyreih4pz6yp6bgwwiqarjnw6qysttjreva2hcyk4cqstbyitosct2fue
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3muvzbfeaji2q
+652404b3167728803169dcf7cd7415bf:facebook:
+  spec:
+    title: จดๆจากงาน BugDay2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/recap-bugday2026/
+  state:
+    id: '100746876247412_1066573192998589'
+    url: https://www.facebook.com/100683012920950/posts/1066573192998589
+652404b3167728803169dcf7cd7415bf:mastodon:
+  spec:
+    title: จดๆจากงาน BugDay2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/recap-bugday2026/
+  state:
+    id: '117228643447115020'
+    url: https://mastodon.in.th/@webring/117228643447115020
+652404b3167728803169dcf7cd7415bf:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/09/recap-bugday2026/
+  state:
+    shortLink: https://link.webring.in.th/3447
 652ace457a062fd45178414f6e28b75e:bluesky:
   spec:
     title: เชื่อมต่อกับ Redis แบบ Reactive [poolsawat.com]
