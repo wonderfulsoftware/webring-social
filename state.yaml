@@ -46977,6 +46977,32 @@ d86fb977176ef5edd2e5b5cd5bbfec4d:shorturl:
     url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-5-bangkok/
   state:
     shortLink: https://link.webring.in.th/3444
+d87fe8522818a1acb15f71f4c369ed7c:bluesky:
+  spec:
+    title: AI เขียนโค้ดเร็วแล้ว แต่ทำไมงานยังช้าอยู่ [myifew.com]
+    url: https://myifew.com/8478/ai-coding-bottleneck-requirement-workflow/
+  state:
+    cid: bafyreifxip3zs5nfr2r5zr4zgjwgx3633uhtitmwtihdf4x5sv5vrkb3cu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3muyjg6xd2u2t
+d87fe8522818a1acb15f71f4c369ed7c:facebook:
+  spec:
+    title: AI เขียนโค้ดเร็วแล้ว แต่ทำไมงานยังช้าอยู่ [myifew.com]
+    url: https://myifew.com/8478/ai-coding-bottleneck-requirement-workflow/
+  state:
+    id: '100746876247412_1067432259579349'
+    url: https://www.facebook.com/100683012920950/posts/1067432259579349
+d87fe8522818a1acb15f71f4c369ed7c:mastodon:
+  spec:
+    title: AI เขียนโค้ดเร็วแล้ว แต่ทำไมงานยังช้าอยู่ [myifew.com]
+    url: https://myifew.com/8478/ai-coding-bottleneck-requirement-workflow/
+  state:
+    id: '117234283295412573'
+    url: https://mastodon.in.th/@webring/117234283295412573
+d87fe8522818a1acb15f71f4c369ed7c:shorturl:
+  spec:
+    url: https://myifew.com/8478/ai-coding-bottleneck-requirement-workflow/
+  state:
+    shortLink: https://link.webring.in.th/3449
 d88ec1838395c9e02567d69bd73b9f1b:facebook:
   spec:
     title: Review การใช้งาน Postman ใน VSCode แบบเร็ว ๆ [somkiat.cc]
