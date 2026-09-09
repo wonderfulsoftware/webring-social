@@ -23314,6 +23314,32 @@
     url: https://tech.duckfollow.co/view/react-meetup
   state:
     shortLink: https://webring.page.link/GATo
+6d1e1dffe211f7017b5896b24cc6f4db:bluesky:
+  spec:
+    title: วางแผนน้ำให้พอดี เดินป่าอากาศร้อนอย่างปลอดภัย [myifew.com]
+    url: https://myifew.com/8488/%e0%b8%a7%e0%b8%b2%e0%b8%87%e0%b9%81%e0%b8%9c%e0%b8%99%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%9e%e0%b8%ad%e0%b8%94%e0%b8%b5-%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88/
+  state:
+    cid: bafyreifgytikvguihgbv2ktzkvtx6cenjm4pw33kfgb6vq2x274flkvzzq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mv45bwm3ic2d
+6d1e1dffe211f7017b5896b24cc6f4db:facebook:
+  spec:
+    title: วางแผนน้ำให้พอดี เดินป่าอากาศร้อนอย่างปลอดภัย [myifew.com]
+    url: https://myifew.com/8488/%e0%b8%a7%e0%b8%b2%e0%b8%87%e0%b9%81%e0%b8%9c%e0%b8%99%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%9e%e0%b8%ad%e0%b8%94%e0%b8%b5-%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88/
+  state:
+    id: '100746876247412_1068745562781352'
+    url: https://www.facebook.com/100683012920950/posts/1068745562781352
+6d1e1dffe211f7017b5896b24cc6f4db:mastodon:
+  spec:
+    title: วางแผนน้ำให้พอดี เดินป่าอากาศร้อนอย่างปลอดภัย [myifew.com]
+    url: https://myifew.com/8488/%e0%b8%a7%e0%b8%b2%e0%b8%87%e0%b9%81%e0%b8%9c%e0%b8%99%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%9e%e0%b8%ad%e0%b8%94%e0%b8%b5-%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88/
+  state:
+    id: '117242436434568342'
+    url: https://mastodon.in.th/@webring/117242436434568342
+6d1e1dffe211f7017b5896b24cc6f4db:shorturl:
+  spec:
+    url: https://myifew.com/8488/%e0%b8%a7%e0%b8%b2%e0%b8%87%e0%b9%81%e0%b8%9c%e0%b8%99%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%9e%e0%b8%ad%e0%b8%94%e0%b8%b5-%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88/
+  state:
+    shortLink: https://link.webring.in.th/3452
 6d2a9ed1af5a32091e1aa71122c2fcef:facebook:
   spec:
     title: มาลองใช้งาน Docker init กัน (beta version) [somkiat.cc]
