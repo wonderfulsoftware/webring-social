@@ -17542,6 +17542,32 @@
     url: https://www.somkiat.cc/mock-api-server-tools/
   state:
     shortLink: https://link.webring.in.th/2221
+52755e01882c8ea245bac0cbee4676d8:bluesky:
+  spec:
+    title: 'Bundit Tracker: a live tracker for finding the graduate [betich.me]'
+    url: https://betich.me/notes/bundit-tracker/
+  state:
+    cid: bafyreifhnx7thnxvtsysppudsdjr6bpqhkdwxzgdbie667wxrw6vjveo5i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mv324nr6xg2g
+52755e01882c8ea245bac0cbee4676d8:facebook:
+  spec:
+    title: 'Bundit Tracker: a live tracker for finding the graduate [betich.me]'
+    url: https://betich.me/notes/bundit-tracker/
+  state:
+    id: '100746876247412_1068295626159679'
+    url: https://www.facebook.com/100683012920950/posts/1068295626159679
+52755e01882c8ea245bac0cbee4676d8:mastodon:
+  spec:
+    title: 'Bundit Tracker: a live tracker for finding the graduate [betich.me]'
+    url: https://betich.me/notes/bundit-tracker/
+  state:
+    id: '117239962394439191'
+    url: https://mastodon.in.th/@webring/117239962394439191
+52755e01882c8ea245bac0cbee4676d8:shorturl:
+  spec:
+    url: https://betich.me/notes/bundit-tracker/
+  state:
+    shortLink: https://link.webring.in.th/3450
 527be00732d308c53d89a482d876a6a3:bluesky:
   spec:
     title: 'แพลนตัง บัตรเครดิต: หาบัตรที่ใช่ เทียบบัตรที่คุ้ม [mymoneytoolkit.app]'
