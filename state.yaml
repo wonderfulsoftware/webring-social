@@ -38479,6 +38479,32 @@ aefe69ca45a3c3bd519aefe0b9e6eda0:shorturl:
     url: https://www.somkiat.cc/spring-boot-3-2-m2/
   state:
     shortLink: https://webring.page.link/RGvV
+af0753efae68053e2c33568ee8733acb:bluesky:
+  spec:
+    title: '🧳 The Great Infra Migration: ย้ายบล็อกนี้ออกจาก AWS [yothinix.com]'
+    url: https://yothinix.com/the-great-infra-migration/
+  state:
+    cid: bafyreicyhmfymnie5ctmdfttlufoa6eksc3yridv2ndd4fwntmmdvwoyam
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mv3mr2nbge2t
+af0753efae68053e2c33568ee8733acb:facebook:
+  spec:
+    title: '🧳 The Great Infra Migration: ย้ายบล็อกนี้ออกจาก AWS [yothinix.com]'
+    url: https://yothinix.com/the-great-infra-migration/
+  state:
+    id: '100746876247412_1068537996135442'
+    url: https://www.facebook.com/100683012920950/posts/1068537996135442
+af0753efae68053e2c33568ee8733acb:mastodon:
+  spec:
+    title: '🧳 The Great Infra Migration: ย้ายบล็อกนี้ออกจาก AWS [yothinix.com]'
+    url: https://yothinix.com/the-great-infra-migration/
+  state:
+    id: '117241273816249329'
+    url: https://mastodon.in.th/@webring/117241273816249329
+af0753efae68053e2c33568ee8733acb:shorturl:
+  spec:
+    url: https://yothinix.com/the-great-infra-migration/
+  state:
+    shortLink: https://link.webring.in.th/3451
 af0d66f1608392b526416d0bc6f58c52:facebook:
   spec:
     title: '[DB2] Archive Logs ไม่ Clear (-mtime/ -mmin) [debuggingsoft.com]'
