@@ -49134,6 +49134,32 @@ e2e3a4e13f66c1c106cfc2f9cc17ed48:shorturl:
     url: https://yothinix.com/vo2max-test/
   state:
     shortLink: https://link.webring.in.th/2188
+e3013164a1e57768188f0038ee649857:bluesky:
+  spec:
+    title: 'รามคำแหง (เขาหลวง) สุโขทัย: เดินป่าขึ้นยอดเขาหลวง [myifew.com]'
+    url: https://myifew.com/8490/%e0%b8%a3%e0%b8%b2%e0%b8%a1%e0%b8%84%e0%b8%b3%e0%b9%81%e0%b8%ab%e0%b8%87-%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87-%e0%b8%aa%e0%b8%b8%e0%b9%82%e0%b8%82%e0%b8%97%e0%b8%b1/
+  state:
+    cid: bafyreiarpwnfsyrktcir2z2dqpleeuzym7jzkxncyd7yn5tg3apcmh6okm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mv6mwdhwi32a
+e3013164a1e57768188f0038ee649857:facebook:
+  spec:
+    title: 'รามคำแหง (เขาหลวง) สุโขทัย: เดินป่าขึ้นยอดเขาหลวง [myifew.com]'
+    url: https://myifew.com/8490/%e0%b8%a3%e0%b8%b2%e0%b8%a1%e0%b8%84%e0%b8%b3%e0%b9%81%e0%b8%ab%e0%b8%87-%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87-%e0%b8%aa%e0%b8%b8%e0%b9%82%e0%b8%82%e0%b8%97%e0%b8%b1/
+  state:
+    id: '100746876247412_1069618032694105'
+    url: https://www.facebook.com/100683012920950/posts/1069618032694105
+e3013164a1e57768188f0038ee649857:mastodon:
+  spec:
+    title: 'รามคำแหง (เขาหลวง) สุโขทัย: เดินป่าขึ้นยอดเขาหลวง [myifew.com]'
+    url: https://myifew.com/8490/%e0%b8%a3%e0%b8%b2%e0%b8%a1%e0%b8%84%e0%b8%b3%e0%b9%81%e0%b8%ab%e0%b8%87-%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87-%e0%b8%aa%e0%b8%b8%e0%b9%82%e0%b8%82%e0%b8%97%e0%b8%b1/
+  state:
+    id: '117248040688998387'
+    url: https://mastodon.in.th/@webring/117248040688998387
+e3013164a1e57768188f0038ee649857:shorturl:
+  spec:
+    url: https://myifew.com/8490/%e0%b8%a3%e0%b8%b2%e0%b8%a1%e0%b8%84%e0%b8%b3%e0%b9%81%e0%b8%ab%e0%b8%87-%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87-%e0%b8%aa%e0%b8%b8%e0%b9%82%e0%b8%82%e0%b8%97%e0%b8%b1/
+  state:
+    shortLink: https://link.webring.in.th/3455
 e3058ac784a4c95c9b00b37df289065d:bluesky:
   spec:
     title: 'บันทึกประจำวัน: 19 กุมภาพันธ์ 2026 — Rate Limit และความเร็วที่ถูกจังหวะ [myifew.com]'
