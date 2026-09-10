@@ -966,6 +966,32 @@
     url: https://www.somkiat.cc/opentelemetry-in-spring-boot-4/
   state:
     shortLink: https://link.webring.in.th/2869
+04e4751c0e0edefb94bbd596ea899f64:bluesky:
+  spec:
+    title: カローラ ツーリング [neizod.dev]
+    url: https://neizod.dev/2026/09/06/corolla-touring.html
+  state:
+    cid: bafyreigrgpvefdbzzx5a4ccyxwjpg5nycqfjzplorf3tbc33mlcoa6op2a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mv5klt4oyc2g
+04e4751c0e0edefb94bbd596ea899f64:facebook:
+  spec:
+    title: カローラ ツーリング [neizod.dev]
+    url: https://neizod.dev/2026/09/06/corolla-touring.html
+  state:
+    id: '100746876247412_1069183439404231'
+    url: https://www.facebook.com/100683012920950/posts/1069183439404231
+04e4751c0e0edefb94bbd596ea899f64:mastodon:
+  spec:
+    title: カローラ ツーリング [neizod.dev]
+    url: https://neizod.dev/2026/09/06/corolla-touring.html
+  state:
+    id: '117245625208840789'
+    url: https://mastodon.in.th/@webring/117245625208840789
+04e4751c0e0edefb94bbd596ea899f64:shorturl:
+  spec:
+    url: https://neizod.dev/2026/09/06/corolla-touring.html
+  state:
+    shortLink: https://link.webring.in.th/3453
 04f73bef92fc97d4c1e334d487563df9:facebook:
   spec:
     title: เมื่อเป็ดไปงาน FirebaseDevDay2023 [tech.duckfollow.co]
