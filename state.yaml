@@ -4253,6 +4253,32 @@
     url: https://www.somkiat.cc/note-from-sharing-automated-test/
   state:
     shortLink: https://webring.page.link/JPwN
+145678c9349bce56fd57c5605d969a47:bluesky:
+  spec:
+    title: การเปลี่ยนแปลงใน Vitest 5.0 [somkiat.cc]
+    url: https://www.somkiat.cc/vitest-5-improve-performance/
+  state:
+    cid: bafyreig6xbofmlsbtlpkoakek22oh222cuhlyhi6zi52kwplwgteklezqy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mva2s2xeg72g
+145678c9349bce56fd57c5605d969a47:facebook:
+  spec:
+    title: การเปลี่ยนแปลงใน Vitest 5.0 [somkiat.cc]
+    url: https://www.somkiat.cc/vitest-5-improve-performance/
+  state:
+    id: '100746876247412_1070065995982642'
+    url: https://www.facebook.com/100683012920950/posts/1070065995982642
+145678c9349bce56fd57c5605d969a47:mastodon:
+  spec:
+    title: การเปลี่ยนแปลงใน Vitest 5.0 [somkiat.cc]
+    url: https://www.somkiat.cc/vitest-5-improve-performance/
+  state:
+    id: '117251268491006855'
+    url: https://mastodon.in.th/@webring/117251268491006855
+145678c9349bce56fd57c5605d969a47:shorturl:
+  spec:
+    url: https://www.somkiat.cc/vitest-5-improve-performance/
+  state:
+    shortLink: https://link.webring.in.th/3456
 14609821a188c6ee2103603ad1ea041f:bluesky:
   spec:
     title: Error Handling ใน Spring WebFlux ด้วย Functional Approach [poolsawat.com]
