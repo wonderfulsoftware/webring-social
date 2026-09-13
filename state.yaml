@@ -28392,6 +28392,32 @@
     url: https://amiearth.com/blog/recap-skoodio-ceo-mfec
   state:
     shortLink: https://link.webring.in.th/2427
+8130d132dbd15c4a368273a730844cd4:bluesky:
+  spec:
+    title: บันทึกการเรียนรู้ที่น่าสนใจจาก Slow SQL Query ที่พบเจอ [somkiat.cc]
+    url: https://www.somkiat.cc/note-slow-sql-query-in-postgresql/
+  state:
+    cid: bafyreigam5awrxjzyetrfcdnfonpjmzqxc7w2kgjnswxeli3fba6mztlsq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mvf4iebdzt2l
+8130d132dbd15c4a368273a730844cd4:facebook:
+  spec:
+    title: บันทึกการเรียนรู้ที่น่าสนใจจาก Slow SQL Query ที่พบเจอ [somkiat.cc]
+    url: https://www.somkiat.cc/note-slow-sql-query-in-postgresql/
+  state:
+    id: '100746876247412_1071798885809353'
+    url: https://www.facebook.com/100683012920950/posts/1071798885809353
+8130d132dbd15c4a368273a730844cd4:mastodon:
+  spec:
+    title: บันทึกการเรียนรู้ที่น่าสนใจจาก Slow SQL Query ที่พบเจอ [somkiat.cc]
+    url: https://www.somkiat.cc/note-slow-sql-query-in-postgresql/
+  state:
+    id: '117262646851468991'
+    url: https://mastodon.in.th/@webring/117262646851468991
+8130d132dbd15c4a368273a730844cd4:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-slow-sql-query-in-postgresql/
+  state:
+    shortLink: https://link.webring.in.th/3458
 815dfe3aef7161a279bdcc8e71b4d574:facebook:
   spec:
     title: ทำการตรวจสอบ xz (liblzma 5.6.1) บนเครื่อง Mac กันหน่อย [somkiat.cc]
