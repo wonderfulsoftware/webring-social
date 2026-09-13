@@ -29212,6 +29212,32 @@
     url: https://www.karnwong.me/posts/2023/04/kubernetes-with-grafana-cloud/
   state:
     shortLink: https://webring.page.link/BfLw
+84cff0ef32b79a6a8dcae1bf3f3b9fcd:bluesky:
+  spec:
+    title: Using aipass-proxy with opencode [fasu.dev]
+    url: https://fasu.dev/writings/using-aipass-proxy-with-opencode/
+  state:
+    cid: bafyreiegipdtvsfrsharem42hpux4ebz3i3yipobeaacu4alirg3znoj34
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mvfpk6zux524
+84cff0ef32b79a6a8dcae1bf3f3b9fcd:facebook:
+  spec:
+    title: Using aipass-proxy with opencode [fasu.dev]
+    url: https://fasu.dev/writings/using-aipass-proxy-with-opencode/
+  state:
+    id: '100746876247412_1072007459121829'
+    url: https://www.facebook.com/100683012920950/posts/1072007459121829
+84cff0ef32b79a6a8dcae1bf3f3b9fcd:mastodon:
+  spec:
+    title: Using aipass-proxy with opencode [fasu.dev]
+    url: https://fasu.dev/writings/using-aipass-proxy-with-opencode/
+  state:
+    id: '117263987902034460'
+    url: https://mastodon.in.th/@webring/117263987902034460
+84cff0ef32b79a6a8dcae1bf3f3b9fcd:shorturl:
+  spec:
+    url: https://fasu.dev/writings/using-aipass-proxy-with-opencode/
+  state:
+    shortLink: https://link.webring.in.th/3459
 84df2e69a7d4306e24fdc6c0a040a9c7:facebook:
   spec:
     title: รู้จักกับ Design Pattern - Behavioral (Part 3/3) [mikelopster.dev]
