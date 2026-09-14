@@ -8026,6 +8026,32 @@
     url: https://kusumotolab.com/first-time-singapore-trip-ep-2/
   state:
     shortLink: https://link.webring.in.th/2202
+247a48129bc4d7140b8dabf1a11644c9:bluesky:
+  spec:
+    title: 'แพลนเนอร์รายเดือน: ไฟล์เดียวจบ เปิดออฟไลน์ ข้อมูลอยู่กับเราคนเดียว [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/planner-template
+  state:
+    cid: bafyreib2bbiwsjiszb34cmupwrjvq2ehg3feuiawuzuk7ahqjntjuiatxa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mvhorj4baa2q
+247a48129bc4d7140b8dabf1a11644c9:facebook:
+  spec:
+    title: 'แพลนเนอร์รายเดือน: ไฟล์เดียวจบ เปิดออฟไลน์ ข้อมูลอยู่กับเราคนเดียว [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/planner-template
+  state:
+    id: '100746876247412_1072654425723799'
+    url: https://www.facebook.com/100683012920950/posts/1072654425723799
+247a48129bc4d7140b8dabf1a11644c9:mastodon:
+  spec:
+    title: 'แพลนเนอร์รายเดือน: ไฟล์เดียวจบ เปิดออฟไลน์ ข้อมูลอยู่กับเราคนเดียว [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/planner-template
+  state:
+    id: '117268437032284931'
+    url: https://mastodon.in.th/@webring/117268437032284931
+247a48129bc4d7140b8dabf1a11644c9:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/planner-template
+  state:
+    shortLink: https://link.webring.in.th/3460
 24b6e23bfd440e4c004a04e8d2eda837:bluesky:
   spec:
     title: แหล่งความชุดเครื่องมือต่าง ๆ สำหรับ Postgres (Postgres Is Enough) [somkiat.cc]
