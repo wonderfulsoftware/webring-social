@@ -40814,6 +40814,32 @@ ba36354e787c0fca879a83f6023d9216:shorturl:
     url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-filter-%e0%b9%81%e0%b8%a5%e0%b8%b0-interceptor-%e0%b9%83%e0%b8%99-webflux/
   state:
     shortLink: https://link.webring.in.th/2729
+ba64dba0f0ad3d15f525fd979c747d8d:bluesky:
+  spec:
+    title: AI-Native SDLC มนุษย์อยู่ตรงจุดไหน และใช้ส่งต่องานกันอย่างไร [myifew.com]
+    url: https://myifew.com/8495/ai-native-sdlc-software-delivery-playbook/
+  state:
+    cid: bafyreif5pjqfrlrc2unxhtcdy6345fklxvzgshwjqwyilndviyi2ge3evy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mvigmletok22
+ba64dba0f0ad3d15f525fd979c747d8d:facebook:
+  spec:
+    title: AI-Native SDLC มนุษย์อยู่ตรงจุดไหน และใช้ส่งต่องานกันอย่างไร [myifew.com]
+    url: https://myifew.com/8495/ai-native-sdlc-software-delivery-playbook/
+  state:
+    id: '100746876247412_1072945692361339'
+    url: https://www.facebook.com/100683012920950/posts/1072945692361339
+ba64dba0f0ad3d15f525fd979c747d8d:mastodon:
+  spec:
+    title: AI-Native SDLC มนุษย์อยู่ตรงจุดไหน และใช้ส่งต่องานกันอย่างไร [myifew.com]
+    url: https://myifew.com/8495/ai-native-sdlc-software-delivery-playbook/
+  state:
+    id: '117270115013907151'
+    url: https://mastodon.in.th/@webring/117270115013907151
+ba64dba0f0ad3d15f525fd979c747d8d:shorturl:
+  spec:
+    url: https://myifew.com/8495/ai-native-sdlc-software-delivery-playbook/
+  state:
+    shortLink: https://link.webring.in.th/3461
 ba6e89eed9cfacea1b7ea04b5707cdc4:facebook:
   spec:
     title: '[C#] Array Spread [debuggingsoft.com]'
