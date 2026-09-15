@@ -1302,6 +1302,32 @@
     url: https://www.somkiat.cc/memcached-from-terminal/
   state:
     shortLink: https://link.webring.in.th/2300
+05def99b68d3606707b48353b51d1c79:bluesky:
+  spec:
+    title: Fixed Container Build Error – Release file for http://deb.debian.org/debian-security/dists/bullseye-security/InRelease is expired [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/fixed-container-build-release-file-for-http-deb-debian-org-debian-security-dists-bullseye-security-inrelease-is-expired/
+  state:
+    cid: bafyreieweyrwgnm3laj6og6sbkfdd6b4lsufsypfalay4owenerl7w26n4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mvks5le42z24
+05def99b68d3606707b48353b51d1c79:facebook:
+  spec:
+    title: Fixed Container Build Error – Release file for http://deb.debian.org/debian-security/dists/bullseye-security/InRelease is expired [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/fixed-container-build-release-file-for-http-deb-debian-org-debian-security-dists-bullseye-security-inrelease-is-expired/
+  state:
+    id: '100746876247412_1073766492279259'
+    url: https://www.facebook.com/100683012920950/posts/1073766492279259
+05def99b68d3606707b48353b51d1c79:mastodon:
+  spec:
+    title: Fixed Container Build Error – Release file for http://deb.debian.org/debian-security/dists/bullseye-security/InRelease is expired [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/fixed-container-build-release-file-for-http-deb-debian-org-debian-security-dists-bullseye-security-inrelease-is-expired/
+  state:
+    id: '117275430097828116'
+    url: https://mastodon.in.th/@webring/117275430097828116
+05def99b68d3606707b48353b51d1c79:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/09/fixed-container-build-release-file-for-http-deb-debian-org-debian-security-dists-bullseye-security-inrelease-is-expired/
+  state:
+    shortLink: https://link.webring.in.th/3463
 068bd70654a4a8cf74cbce5e41aaff15:facebook:
   spec:
     title: Recap 2023 [blog.oatto.dev]
