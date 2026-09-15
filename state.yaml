@@ -24368,6 +24368,32 @@
     url: https://mikelopster.dev/posts/grpc-go/
   state:
     shortLink: https://link.webring.in.th/2222
+70afe86031497b37e82f9d05efb1cf97:bluesky:
+  spec:
+    title: มาแล้ว AI Engineering Skills Map ในหัวข้อ Shaping the Build [somkiat.cc]
+    url: https://www.somkiat.cc/shaping-the-build/
+  state:
+    cid: bafyreiakculjlbezmxhxkncoambusdbxctebj7bj4uwvl5sow2r6ffydsa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mvk6pynhzz24
+70afe86031497b37e82f9d05efb1cf97:facebook:
+  spec:
+    title: มาแล้ว AI Engineering Skills Map ในหัวข้อ Shaping the Build [somkiat.cc]
+    url: https://www.somkiat.cc/shaping-the-build/
+  state:
+    id: '100746876247412_1073534625635779'
+    url: https://www.facebook.com/100683012920950/posts/1073534625635779
+70afe86031497b37e82f9d05efb1cf97:mastodon:
+  spec:
+    title: มาแล้ว AI Engineering Skills Map ในหัวข้อ Shaping the Build [somkiat.cc]
+    url: https://www.somkiat.cc/shaping-the-build/
+  state:
+    id: '117274063278799796'
+    url: https://mastodon.in.th/@webring/117274063278799796
+70afe86031497b37e82f9d05efb1cf97:shorturl:
+  spec:
+    url: https://www.somkiat.cc/shaping-the-build/
+  state:
+    shortLink: https://link.webring.in.th/3462
 70dcb95e0d995dd11af2869003f5585e:bluesky:
   spec:
     title: '[CR] Starbucks Chicken Club Sandwich [debuggingsoft.com]'
