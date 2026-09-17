@@ -12282,6 +12282,32 @@
     url: https://mikelopster.dev/posts/nestjs-passport/
   state:
     shortLink: https://link.webring.in.th/1831
+38add402728869187f77a723ff9127c8:bluesky:
+  spec:
+    title: มาดูการเปลี่ยนแปลงใน Playwright 1.62 ถึง 1.63 [somkiat.cc]
+    url: https://www.somkiat.cc/playwright-new-in-1-63/
+  state:
+    cid: bafyreie5kjl6ywn2jnd3acxcktax6jzd5jecctq2uywkuxx4wp54hqqyqe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mvqcotawkq2l
+38add402728869187f77a723ff9127c8:facebook:
+  spec:
+    title: มาดูการเปลี่ยนแปลงใน Playwright 1.62 ถึง 1.63 [somkiat.cc]
+    url: https://www.somkiat.cc/playwright-new-in-1-63/
+  state:
+    id: '100746876247412_1075688545420387'
+    url: https://www.facebook.com/100683012920950/posts/1075688545420387
+38add402728869187f77a723ff9127c8:mastodon:
+  spec:
+    title: มาดูการเปลี่ยนแปลงใน Playwright 1.62 ถึง 1.63 [somkiat.cc]
+    url: https://www.somkiat.cc/playwright-new-in-1-63/
+  state:
+    id: '117287853130702555'
+    url: https://mastodon.in.th/@webring/117287853130702555
+38add402728869187f77a723ff9127c8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/playwright-new-in-1-63/
+  state:
+    shortLink: https://link.webring.in.th/3468
 38cf24ee1ba924aa1d3243f9417a79ab:bluesky:
   spec:
     title: ความสามารถที่น่าสนใจใน Go 1.24 rc2 [somkiat.cc]
