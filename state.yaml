@@ -6205,6 +6205,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/07/db2-driver/
   state:
     shortLink: https://webring.page.link/R7if
+1cd5ad5fba83e5cc9fe70c76122256e9:bluesky:
+  spec:
+    title: เข้าใจ cron expression แบบไม่ต้องท่อง ด้วย crontab.guru [xiengperm.dev]
+    url: https://xiengperm.dev/posts/cron-expression-crontab-guru-th/
+  state:
+    cid: bafyreicm5xritekk472llrxtewdsjrqufpzywe7wp7ekwhpcvd4blzdwgm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mvp7ok3mao2c
+1cd5ad5fba83e5cc9fe70c76122256e9:facebook:
+  spec:
+    title: เข้าใจ cron expression แบบไม่ต้องท่อง ด้วย crontab.guru [xiengperm.dev]
+    url: https://xiengperm.dev/posts/cron-expression-crontab-guru-th/
+  state:
+    id: '100746876247412_1075260782129830'
+    url: https://www.facebook.com/100683012920950/posts/1075260782129830
+1cd5ad5fba83e5cc9fe70c76122256e9:mastodon:
+  spec:
+    title: เข้าใจ cron expression แบบไม่ต้องท่อง ด้วย crontab.guru [xiengperm.dev]
+    url: https://xiengperm.dev/posts/cron-expression-crontab-guru-th/
+  state:
+    id: '117285389520709994'
+    url: https://mastodon.in.th/@webring/117285389520709994
+1cd5ad5fba83e5cc9fe70c76122256e9:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/cron-expression-crontab-guru-th/
+  state:
+    shortLink: https://link.webring.in.th/3466
 1cd77832718bd4a091bf577ffbaf405a:facebook:
   spec:
     title: How to connect to Cloud SQL from Cloud Run (no, you don't need a VPC) [karnwong.me]
