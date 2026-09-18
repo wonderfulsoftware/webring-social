@@ -24607,6 +24607,32 @@
     url: https://mymoneytoolkit.app/posts/retirement
   state:
     shortLink: https://link.webring.in.th/2515
+7142859c7c6604a4108f8b0821335214:bluesky:
+  spec:
+    title: 'KBTG Techtopia: Human of Tomorrow [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/09/recap-kbtg-techtopia-2026-human-of-tomorrow/
+  state:
+    cid: bafyreicrloco6zjpiacru7xp2jyyvcb5hjslvp3yhtk4uvxaciy5seg5lm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mvroo7jblx2g
+7142859c7c6604a4108f8b0821335214:facebook:
+  spec:
+    title: 'KBTG Techtopia: Human of Tomorrow [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/09/recap-kbtg-techtopia-2026-human-of-tomorrow/
+  state:
+    id: '100746876247412_1076123282043580'
+    url: https://www.facebook.com/100683012920950/posts/1076123282043580
+7142859c7c6604a4108f8b0821335214:mastodon:
+  spec:
+    title: 'KBTG Techtopia: Human of Tomorrow [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/09/recap-kbtg-techtopia-2026-human-of-tomorrow/
+  state:
+    id: '117290948001135425'
+    url: https://mastodon.in.th/@webring/117290948001135425
+7142859c7c6604a4108f8b0821335214:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/09/recap-kbtg-techtopia-2026-human-of-tomorrow/
+  state:
+    shortLink: https://link.webring.in.th/3469
 7143d2d1014efe50c417a4e864cdf8d4:bluesky:
   spec:
     title: ลองใช้ driver.js เพื่อทำ product tours [debuggingsoft.com]
