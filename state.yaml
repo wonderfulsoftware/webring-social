@@ -26556,6 +26556,32 @@
     url: https://nitpum.com/post/lint-staged-eslint-monorepo/
   state:
     shortLink: https://webring.page.link/oG7Z
+7937af353a8aed11c2a681b4737809a6:bluesky:
+  spec:
+    title: มาลองเล่น Jev จาก TypeSafe กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-jev-from-typesafe/
+  state:
+    cid: bafyreicqnaryz7apx5bh3drdhmalttek52dpfqj4qebsyzirp4isfinsqu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mvuprs2pzz2g
+7937af353a8aed11c2a681b4737809a6:facebook:
+  spec:
+    title: มาลองเล่น Jev จาก TypeSafe กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-jev-from-typesafe/
+  state:
+    id: '100746876247412_1077190318603543'
+    url: https://www.facebook.com/100683012920950/posts/1077190318603543
+7937af353a8aed11c2a681b4737809a6:mastodon:
+  spec:
+    title: มาลองเล่น Jev จาก TypeSafe กัน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-jev-from-typesafe/
+  state:
+    id: '117297781476202997'
+    url: https://mastodon.in.th/@webring/117297781476202997
+7937af353a8aed11c2a681b4737809a6:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-jev-from-typesafe/
+  state:
+    shortLink: https://link.webring.in.th/3471
 7949544f3efc0ccc9026ec651b6967cd:facebook:
   spec:
     title: Disappearing combining marks in Discord (ปัญหาสระกับวรรณยุกต์หาย) [dt.in.th]
