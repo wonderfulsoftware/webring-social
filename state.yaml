@@ -50,6 +50,32 @@
     url: https://mymoneytoolkit.app/posts/dca
   state:
     shortLink: https://link.webring.in.th/2392
+006876f2554ebc7ed08dde2cc5c37fcc:bluesky:
+  spec:
+    title: 🖨️ ปริ้นใบปะหน้า Shopee ผ่าน Bluetooth XPrinter XP-80T ไม่ง้อ Driver [thanapon.info]
+    url: https://thanapon.info/react-xprinter-shopee-bluetooth/
+  state:
+    cid: bafyreifve6pwlw2fvpaswsgljtq3lk3kyvyaaufwjgtjydig7xcridzphe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mvxr5tjaop2d
+006876f2554ebc7ed08dde2cc5c37fcc:facebook:
+  spec:
+    title: 🖨️ ปริ้นใบปะหน้า Shopee ผ่าน Bluetooth XPrinter XP-80T ไม่ง้อ Driver [thanapon.info]
+    url: https://thanapon.info/react-xprinter-shopee-bluetooth/
+  state:
+    id: '100746876247412_1078266385162603'
+    url: https://www.facebook.com/100683012920950/posts/1078266385162603
+006876f2554ebc7ed08dde2cc5c37fcc:mastodon:
+  spec:
+    title: 🖨️ ปริ้นใบปะหน้า Shopee ผ่าน Bluetooth XPrinter XP-80T ไม่ง้อ Driver [thanapon.info]
+    url: https://thanapon.info/react-xprinter-shopee-bluetooth/
+  state:
+    id: '117304633488191950'
+    url: https://mastodon.in.th/@webring/117304633488191950
+006876f2554ebc7ed08dde2cc5c37fcc:shorturl:
+  spec:
+    url: https://thanapon.info/react-xprinter-shopee-bluetooth/
+  state:
+    shortLink: https://link.webring.in.th/3474
 009334e858441bd60d9eb2cff63a6413:facebook:
   spec:
     title: รู้จักกับ Prisma ORM [mikelopster.dev]
