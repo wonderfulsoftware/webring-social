@@ -48759,6 +48759,32 @@ def5120abddd40fd2233585c93a6667e:shorturl:
     url: https://amiearth.com/blog/fedcm-third-party-cookies-migration-checklist
   state:
     shortLink: https://link.webring.in.th/3100
+def8e989f8edd261573fdabe3da6fbf2:bluesky:
+  spec:
+    title: สรุปสารคดี The Story of VS Code [xiengperm.dev]
+    url: https://xiengperm.dev/posts/story-of-vs-code-documentary-th/
+  state:
+    cid: bafyreibxrz6uqqyzwmp4xwnolz33hyign4h7qp2lzgcuqq4vy2jfdc3ndy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mvxc6ct7nu2d
+def8e989f8edd261573fdabe3da6fbf2:facebook:
+  spec:
+    title: สรุปสารคดี The Story of VS Code [xiengperm.dev]
+    url: https://xiengperm.dev/posts/story-of-vs-code-documentary-th/
+  state:
+    id: '100746876247412_1078085921847316'
+    url: https://www.facebook.com/100683012920950/posts/1078085921847316
+def8e989f8edd261573fdabe3da6fbf2:mastodon:
+  spec:
+    title: สรุปสารคดี The Story of VS Code [xiengperm.dev]
+    url: https://xiengperm.dev/posts/story-of-vs-code-documentary-th/
+  state:
+    id: '117303579395948044'
+    url: https://mastodon.in.th/@webring/117303579395948044
+def8e989f8edd261573fdabe3da6fbf2:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/story-of-vs-code-documentary-th/
+  state:
+    shortLink: https://link.webring.in.th/3473
 defb8bdcd50ebad3931a4f9c6f53e54c:bluesky:
   spec:
     title: Upgrade Template ใหม่ [pontakorn.dev]
