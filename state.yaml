@@ -23837,6 +23837,32 @@
     url: https://myifew.com/7700/torres-del-paine-w-trek-chile-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84%e0%b9%81%e0%b8%9e%e0%b8%95%e0%b8%b2%e0%b9%82%e0%b8%81%e0%b9%80/
   state:
     shortLink: https://link.webring.in.th/3270
+6e4b8029a351f0ec4ba80853b48aa2a6:bluesky:
+  spec:
+    title: Introducing opencode-aipass [fasu.dev]
+    url: https://fasu.dev/writings/opencode-aipass/
+  state:
+    cid: bafyreifxmchfqrgaqastixfku5wjgk7ncgb66cq37tsftlt7jdt3w6dj6q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mvwqpv6bla2j
+6e4b8029a351f0ec4ba80853b48aa2a6:facebook:
+  spec:
+    title: Introducing opencode-aipass [fasu.dev]
+    url: https://fasu.dev/writings/opencode-aipass/
+  state:
+    id: '100746876247412_1077880861867822'
+    url: https://www.facebook.com/100683012920950/posts/1077880861867822
+6e4b8029a351f0ec4ba80853b48aa2a6:mastodon:
+  spec:
+    title: Introducing opencode-aipass [fasu.dev]
+    url: https://fasu.dev/writings/opencode-aipass/
+  state:
+    id: '117302351347270863'
+    url: https://mastodon.in.th/@webring/117302351347270863
+6e4b8029a351f0ec4ba80853b48aa2a6:shorturl:
+  spec:
+    url: https://fasu.dev/writings/opencode-aipass/
+  state:
+    shortLink: https://link.webring.in.th/3472
 6e89172fd0f3fecd7ecfe32ae61551a9:bluesky:
   spec:
     title: ใช้งาน Playwright Skill สำหรับการทำ API testing [somkiat.cc]
