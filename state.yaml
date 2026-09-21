@@ -39823,6 +39823,32 @@ b292aa949ae42c9620ef7b7a939c7426:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/10/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89-gitlab-rest-api/
   state:
     shortLink: https://webring.page.link/v7nE
+b293e511e96e4e3779364d4a2cb01d59:bluesky:
+  spec:
+    title: '[PoC] ลองใช้งาน Jev ร่วมกับ Playwright MCP สำหรับการทดสอบ web application [somkiat.cc]'
+    url: https://www.somkiat.cc/poc-jev-with-playwright-mcp/
+  state:
+    cid: bafyreich7jzpe2jel3qr4ajjqa3nb6ueqmfwusonw7azvihjsrxrntgihq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mvzzvmqfuz2g
+b293e511e96e4e3779364d4a2cb01d59:facebook:
+  spec:
+    title: '[PoC] ลองใช้งาน Jev ร่วมกับ Playwright MCP สำหรับการทดสอบ web application [somkiat.cc]'
+    url: https://www.somkiat.cc/poc-jev-with-playwright-mcp/
+  state:
+    id: '100746876247412_1079021011753807'
+    url: https://www.facebook.com/100683012920950/posts/1079021011753807
+b293e511e96e4e3779364d4a2cb01d59:mastodon:
+  spec:
+    title: '[PoC] ลองใช้งาน Jev ร่วมกับ Playwright MCP สำหรับการทดสอบ web application [somkiat.cc]'
+    url: https://www.somkiat.cc/poc-jev-with-playwright-mcp/
+  state:
+    id: '117309752661638596'
+    url: https://mastodon.in.th/@webring/117309752661638596
+b293e511e96e4e3779364d4a2cb01d59:shorturl:
+  spec:
+    url: https://www.somkiat.cc/poc-jev-with-playwright-mcp/
+  state:
+    shortLink: https://link.webring.in.th/3476
 b2ade699ca93761a65f09ab9d47231c1:facebook:
   spec:
     title: Heated gloves [llun.me]
