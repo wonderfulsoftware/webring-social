@@ -11742,6 +11742,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/08/linq-technique-group-gropujoin/
   state:
     shortLink: https://link.webring.in.th/2705
+35908dc0abaaba5063a422231fccf33e:bluesky:
+  spec:
+    title: Book Highlights - The Art of Leadership by Michael Lopp [karnwong.me]
+    url: https://karnwong.me/posts/2026/09/book-highlights---the-art-of-leadership-by-michael-lopp/
+  state:
+    cid: bafyreicrdivyfygvyrci65rkpyud3esiahzehzmaypchs4q4tys7pvtntm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mvzc4noxil2j
+35908dc0abaaba5063a422231fccf33e:facebook:
+  spec:
+    title: Book Highlights - The Art of Leadership by Michael Lopp [karnwong.me]
+    url: https://karnwong.me/posts/2026/09/book-highlights---the-art-of-leadership-by-michael-lopp/
+  state:
+    id: '100746876247412_1078738338448741'
+    url: https://www.facebook.com/100683012920950/posts/1078738338448741
+35908dc0abaaba5063a422231fccf33e:mastodon:
+  spec:
+    title: Book Highlights - The Art of Leadership by Michael Lopp [karnwong.me]
+    url: https://karnwong.me/posts/2026/09/book-highlights---the-art-of-leadership-by-michael-lopp/
+  state:
+    id: '117308079175654097'
+    url: https://mastodon.in.th/@webring/117308079175654097
+35908dc0abaaba5063a422231fccf33e:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/09/book-highlights---the-art-of-leadership-by-michael-lopp/
+  state:
+    shortLink: https://link.webring.in.th/3475
 35b71def96fcce225b82264ba0a44ce2:facebook:
   spec:
     title: กลับมาอีกครั้งในรอบ 4 ปี กับ Kotlin Meetup 2024.1 [mikkipastel.com]
