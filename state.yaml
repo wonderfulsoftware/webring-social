@@ -36624,6 +36624,32 @@ a5d053f50ca76603a52c65ae70ea8c3d:shorturl:
     url: https://myifew.com/7446/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7-ai-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%97%e0%b8%b3/
   state:
     shortLink: https://link.webring.in.th/3084
+a5e75b7b26c5c1d3cfa8da25dac733d7:bluesky:
+  spec:
+    title: การ replicate ข้อมูลจาก PostgreSQL ไปยัง ClickHouse ด้วย WalShadow [somkiat.cc]
+    url: https://www.somkiat.cc/walshadow-replicate-data-from-postgresql-to-clickhouse/
+  state:
+    cid: bafyreiazg7ykpophizsrwe42mqjdxd757yjltjcadfdtiork64mpnjyibm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mw3rizqwmg2g
+a5e75b7b26c5c1d3cfa8da25dac733d7:facebook:
+  spec:
+    title: การ replicate ข้อมูลจาก PostgreSQL ไปยัง ClickHouse ด้วย WalShadow [somkiat.cc]
+    url: https://www.somkiat.cc/walshadow-replicate-data-from-postgresql-to-clickhouse/
+  state:
+    id: '100746876247412_1079598421696066'
+    url: https://www.facebook.com/100683012920950/posts/1079598421696066
+a5e75b7b26c5c1d3cfa8da25dac733d7:mastodon:
+  spec:
+    title: การ replicate ข้อมูลจาก PostgreSQL ไปยัง ClickHouse ด้วย WalShadow [somkiat.cc]
+    url: https://www.somkiat.cc/walshadow-replicate-data-from-postgresql-to-clickhouse/
+  state:
+    id: '117313665611664162'
+    url: https://mastodon.in.th/@webring/117313665611664162
+a5e75b7b26c5c1d3cfa8da25dac733d7:shorturl:
+  spec:
+    url: https://www.somkiat.cc/walshadow-replicate-data-from-postgresql-to-clickhouse/
+  state:
+    shortLink: https://link.webring.in.th/3477
 a5e95a7c62b3201292a1835d93df8dbc:bluesky:
   spec:
     title: WebFlux คืออะไร? ต่างจาก Spring MVC อย่างไร [poolsawat.com]
