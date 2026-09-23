@@ -31172,6 +31172,32 @@
     url: https://www.somkiat.cc/note-the-state-of-java-on-kubernetes-2026/
   state:
     shortLink: https://link.webring.in.th/3002
+8b985dad43fc454c71b56b2900c1e491:bluesky:
+  spec:
+    title: 'เดินป่าช่วงฝนให้สนุกและปลอดภัย: 7 เทคนิคที่ควรรู้ [myifew.com]'
+    url: https://myifew.com/8537/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%8a%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%9d%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%aa%e0%b8%99%e0%b8%b8%e0%b8%81%e0%b9%81%e0%b8%a5/
+  state:
+    cid: bafyreib3iq4dlpm647fihiapdealk77qkeamn4jtrryh3kswtjsnvocthu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mw6c47qzcs24
+8b985dad43fc454c71b56b2900c1e491:facebook:
+  spec:
+    title: 'เดินป่าช่วงฝนให้สนุกและปลอดภัย: 7 เทคนิคที่ควรรู้ [myifew.com]'
+    url: https://myifew.com/8537/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%8a%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%9d%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%aa%e0%b8%99%e0%b8%b8%e0%b8%81%e0%b9%81%e0%b8%a5/
+  state:
+    id: '100746876247412_1080468168275758'
+    url: https://www.facebook.com/100683012920950/posts/1080468168275758
+8b985dad43fc454c71b56b2900c1e491:mastodon:
+  spec:
+    title: 'เดินป่าช่วงฝนให้สนุกและปลอดภัย: 7 เทคนิคที่ควรรู้ [myifew.com]'
+    url: https://myifew.com/8537/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%8a%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%9d%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%aa%e0%b8%99%e0%b8%b8%e0%b8%81%e0%b9%81%e0%b8%a5/
+  state:
+    id: '117319337133599558'
+    url: https://mastodon.in.th/@webring/117319337133599558
+8b985dad43fc454c71b56b2900c1e491:shorturl:
+  spec:
+    url: https://myifew.com/8537/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%8a%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%9d%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%aa%e0%b8%99%e0%b8%b8%e0%b8%81%e0%b9%81%e0%b8%a5/
+  state:
+    shortLink: https://link.webring.in.th/3478
 8babbbc0b10abcb53c2b5cd0fabd36ae:facebook:
   spec:
     title: 'A Networking God Tale: All I Want is to Run a Speedtest Behind a Firewall [karnwong.me]'
