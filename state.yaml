@@ -7422,6 +7422,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/12/low-disk-space-from-localappdata-temp-vstelem-full/
   state:
     shortLink: https://link.webring.in.th/2900
+21ea5915489397bb015e0d92813abbe2:bluesky:
+  spec:
+    title: '[CR] Starbucks Smoked Sausage Croissant Pizza Roll [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/09/cr-starbucks-smoked-sausage-croissant-pizza-roll/
+  state:
+    cid: bafyreialaxcgrcd7dji3a7owt4bgewxsx3kddwvn7h6ufmv3ynskaxrbt4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mw6vnvd5bl2z
+21ea5915489397bb015e0d92813abbe2:facebook:
+  spec:
+    title: '[CR] Starbucks Smoked Sausage Croissant Pizza Roll [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/09/cr-starbucks-smoked-sausage-croissant-pizza-roll/
+  state:
+    id: '100746876247412_1080705198252055'
+    url: https://www.facebook.com/100683012920950/posts/1080705198252055
+21ea5915489397bb015e0d92813abbe2:mastodon:
+  spec:
+    title: '[CR] Starbucks Smoked Sausage Croissant Pizza Roll [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/09/cr-starbucks-smoked-sausage-croissant-pizza-roll/
+  state:
+    id: '117320713065229498'
+    url: https://mastodon.in.th/@webring/117320713065229498
+21ea5915489397bb015e0d92813abbe2:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/09/cr-starbucks-smoked-sausage-croissant-pizza-roll/
+  state:
+    shortLink: https://link.webring.in.th/3479
 21f4a335030a5b27bc78206536bc4d24:facebook:
   spec:
     title: เพิ่งเห็นว่า Text Editor ชื่อ Atom นั้นหยุดพัฒนาไปแล้ว [somkiat.cc]
