@@ -40756,6 +40756,32 @@ b7a3782c4914148dba5e693b17fbdf87:shorturl:
     url: https://www.somkiat.cc/sharing-mobile-testing-with-appium/
   state:
     shortLink: https://webring.page.link/kMMf
+b7cd4257f28368e01dc844359f908e30:bluesky:
+  spec:
+    title: '[Rust] ลดการใช้งาน memory ด้วยการเปลี่ยนจาก Vec<T> ไปเป็น Box<[T]> [somkiat.cc]'
+    url: https://www.somkiat.cc/rust-reduce-memory-from-vec-to-box/
+  state:
+    cid: bafyreiatkn5hcn3z35znzjuhqordtguru7bh5rusfpfo66nj4ysopmnph4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwbfwsgtos2v
+b7cd4257f28368e01dc844359f908e30:facebook:
+  spec:
+    title: '[Rust] ลดการใช้งาน memory ด้วยการเปลี่ยนจาก Vec<T> ไปเป็น Box<[T]> [somkiat.cc]'
+    url: https://www.somkiat.cc/rust-reduce-memory-from-vec-to-box/
+  state:
+    id: '100746876247412_1081644861491422'
+    url: https://www.facebook.com/100683012920950/posts/1081644861491422
+b7cd4257f28368e01dc844359f908e30:mastodon:
+  spec:
+    title: '[Rust] ลดการใช้งาน memory ด้วยการเปลี่ยนจาก Vec<T> ไปเป็น Box<[T]> [somkiat.cc]'
+    url: https://www.somkiat.cc/rust-reduce-memory-from-vec-to-box/
+  state:
+    id: '117326362253945615'
+    url: https://mastodon.in.th/@webring/117326362253945615
+b7cd4257f28368e01dc844359f908e30:shorturl:
+  spec:
+    url: https://www.somkiat.cc/rust-reduce-memory-from-vec-to-box/
+  state:
+    shortLink: https://link.webring.in.th/3481
 b7ed4ea6402e4dd022e2f8a43009eddb:mastodon:
   spec:
     title: 2022 [microbenz.in.th]
