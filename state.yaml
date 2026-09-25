@@ -15014,6 +15014,32 @@
     url: https://www.karnwong.me/posts/2023/03/google-analytics-v4-ingestion-via-bigquery/
   state:
     shortLink: https://webring.page.link/Y7yB
+44ba39702f296553a480ee90f5715b2a:bluesky:
+  spec:
+    title: Claude Code ติด Limit เร็ว? มาประหยัด Context Window กันเถอะ [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/claude-code-context-window/
+  state:
+    cid: bafyreiadlphaxwetq2edx3rbkjfhkgy5ovncrst432hnnoqmbehhveh52q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwdxr7h4cr26
+44ba39702f296553a480ee90f5715b2a:facebook:
+  spec:
+    title: Claude Code ติด Limit เร็ว? มาประหยัด Context Window กันเถอะ [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/claude-code-context-window/
+  state:
+    id: '100746876247412_1082659901389918'
+    url: https://www.facebook.com/100683012920950/posts/1082659901389918
+44ba39702f296553a480ee90f5715b2a:mastodon:
+  spec:
+    title: Claude Code ติด Limit เร็ว? มาประหยัด Context Window กันเถอะ [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/claude-code-context-window/
+  state:
+    id: '117332120159435229'
+    url: https://mastodon.in.th/@webring/117332120159435229
+44ba39702f296553a480ee90f5715b2a:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/claude-code-context-window/
+  state:
+    shortLink: https://link.webring.in.th/3483
 44de9ddb5c15e7c9285161ed1e339aaf:facebook:
   spec:
     title: How I initialize my Bun projects [dt.in.th]
