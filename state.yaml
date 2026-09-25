@@ -7370,6 +7370,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/10/lets-try-using-microsoft-sql-server-mcp-server-with-claude-desktop/
   state:
     shortLink: https://link.webring.in.th/2811
+21d85695a64eabfa4823c97270f09a59:bluesky:
+  spec:
+    title: Golden Kamuy เมะดีที่คนไม่ค่อยพูดถึง [nitpum.com]
+    url: https://nitpum.com/post/golden-kamuy/
+  state:
+    cid: bafyreic72gtdnkky4wymqc4qrp4txmcuduelsdty53tytoz7ik3axujshu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwddwe56bl2s
+21d85695a64eabfa4823c97270f09a59:facebook:
+  spec:
+    title: Golden Kamuy เมะดีที่คนไม่ค่อยพูดถึง [nitpum.com]
+    url: https://nitpum.com/post/golden-kamuy/
+  state:
+    id: '100746876247412_1082387888083786'
+    url: https://www.facebook.com/100683012920950/posts/1082387888083786
+21d85695a64eabfa4823c97270f09a59:mastodon:
+  spec:
+    title: Golden Kamuy เมะดีที่คนไม่ค่อยพูดถึง [nitpum.com]
+    url: https://nitpum.com/post/golden-kamuy/
+  state:
+    id: '117330723690626386'
+    url: https://mastodon.in.th/@webring/117330723690626386
+21d85695a64eabfa4823c97270f09a59:shorturl:
+  spec:
+    url: https://nitpum.com/post/golden-kamuy/
+  state:
+    shortLink: https://link.webring.in.th/3482
 21da6d6fd904681911c2a0818a2f866f:bluesky:
   spec:
     title: '7 เทคนิคเดินป่าหน้าฝนให้ปลอดภัยและไม่เปียกปอน: เตรียมตัวให้พร้อมก่อนลุยป่าฤดูมรสุม [myifew.com]'
