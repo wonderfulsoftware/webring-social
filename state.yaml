@@ -12206,6 +12206,32 @@
     url: https://www.somkiat.cc/learning-go-2nd-edition/
   state:
     shortLink: https://link.webring.in.th/1722
+37cbf7d4db98115190c4a9feff4620b6:bluesky:
+  spec:
+    title: Sophie's World [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/sophie-world/
+  state:
+    cid: bafyreibijpmqcohtzh4xj3vtdzuti32d6wjpzfshx5dkdnj23atlobhhem
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwftnesiet2r
+37cbf7d4db98115190c4a9feff4620b6:facebook:
+  spec:
+    title: Sophie's World [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/sophie-world/
+  state:
+    id: '100746876247412_1083378971318011'
+    url: https://www.facebook.com/100683012920950/posts/1083378971318011
+37cbf7d4db98115190c4a9feff4620b6:mastodon:
+  spec:
+    title: Sophie's World [tantatorn.xyz]
+    url: https://tantatorn.xyz/posts/sophie-world/
+  state:
+    id: '117336334028897480'
+    url: https://mastodon.in.th/@webring/117336334028897480
+37cbf7d4db98115190c4a9feff4620b6:shorturl:
+  spec:
+    url: https://tantatorn.xyz/posts/sophie-world/
+  state:
+    shortLink: https://link.webring.in.th/3484
 37f31632ad77e0018e9a71e3b2465992:bluesky:
   spec:
     title: คำนวณผลตอบแทนทบต้น จากผลงานแต่ละเดือน [mymoneytoolkit.app]
