@@ -13503,6 +13503,32 @@
     url: https://www.somkiat.cc/agent-client-protocol/
   state:
     shortLink: https://link.webring.in.th/2767
+3d026c598093c93e0bf07ce53715d0a2:bluesky:
+  spec:
+    title: 'เปรียบเทียบไฟฉายคาดศีรษะสำหรับเดินป่า 2026: เลือกรุ่นให้เหมาะกับการใช้งาน [myifew.com]'
+    url: https://myifew.com/8541/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%84%e0%b8%9f%e0%b8%89%e0%b8%b2%e0%b8%a2%e0%b8%84%e0%b8%b2%e0%b8%94%e0%b8%a8%e0%b8%b5%e0%b8%a3/
+  state:
+    cid: bafyreiey6rfvfltnjbgqwgcuvhwy6bptldne6z3znardj3fpn47narmf6e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwgfkm7ju42z
+3d026c598093c93e0bf07ce53715d0a2:facebook:
+  spec:
+    title: 'เปรียบเทียบไฟฉายคาดศีรษะสำหรับเดินป่า 2026: เลือกรุ่นให้เหมาะกับการใช้งาน [myifew.com]'
+    url: https://myifew.com/8541/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%84%e0%b8%9f%e0%b8%89%e0%b8%b2%e0%b8%a2%e0%b8%84%e0%b8%b2%e0%b8%94%e0%b8%a8%e0%b8%b5%e0%b8%a3/
+  state:
+    id: '100746876247412_1083613031294605'
+    url: https://www.facebook.com/100683012920950/posts/1083613031294605
+3d026c598093c93e0bf07ce53715d0a2:mastodon:
+  spec:
+    title: 'เปรียบเทียบไฟฉายคาดศีรษะสำหรับเดินป่า 2026: เลือกรุ่นให้เหมาะกับการใช้งาน [myifew.com]'
+    url: https://myifew.com/8541/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%84%e0%b8%9f%e0%b8%89%e0%b8%b2%e0%b8%a2%e0%b8%84%e0%b8%b2%e0%b8%94%e0%b8%a8%e0%b8%b5%e0%b8%a3/
+  state:
+    id: '117337594101752841'
+    url: https://mastodon.in.th/@webring/117337594101752841
+3d026c598093c93e0bf07ce53715d0a2:shorturl:
+  spec:
+    url: https://myifew.com/8541/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%84%e0%b8%9f%e0%b8%89%e0%b8%b2%e0%b8%a2%e0%b8%84%e0%b8%b2%e0%b8%94%e0%b8%a8%e0%b8%b5%e0%b8%a3/
+  state:
+    shortLink: https://link.webring.in.th/3485
 3d2b97c3f81a65dee76e48b2701c4547:facebook:
   spec:
     title: มาสร้าง Diagram ง่าย ๆ ด้วย Excalidraw AI [somkiat.cc]
