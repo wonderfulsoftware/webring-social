@@ -45592,6 +45592,32 @@ cd97933c280d402c94a4b07b18ad68fd:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/09/error-this-implementation-is-not-part-of-the-windows-platform-fips-validated-cryptographic-algorithms/
   state:
     shortLink: https://link.webring.in.th/2799
+cd9aa1ace6311ef41c76f83f0feabacf:bluesky:
+  spec:
+    title: ลองใช้ Microsoft Agent Framework – Agent Skills [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/using-skill-in-microsoft-agent-framework-with-csharp-th/
+  state:
+    cid: bafyreida6jicsu6bezumjklvm22g7hwfxbm6aoq3db4ttelbuxja2hxgsu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwgv5onjdf2o
+cd9aa1ace6311ef41c76f83f0feabacf:facebook:
+  spec:
+    title: ลองใช้ Microsoft Agent Framework – Agent Skills [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/using-skill-in-microsoft-agent-framework-with-csharp-th/
+  state:
+    id: '100746876247412_1083831247939450'
+    url: https://www.facebook.com/100683012920950/posts/1083831247939450
+cd9aa1ace6311ef41c76f83f0feabacf:mastodon:
+  spec:
+    title: ลองใช้ Microsoft Agent Framework – Agent Skills [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/using-skill-in-microsoft-agent-framework-with-csharp-th/
+  state:
+    id: '117338691903102604'
+    url: https://mastodon.in.th/@webring/117338691903102604
+cd9aa1ace6311ef41c76f83f0feabacf:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/09/using-skill-in-microsoft-agent-framework-with-csharp-th/
+  state:
+    shortLink: https://link.webring.in.th/3486
 cdb5acb3ee6d2533fe9c745ab67b3af3:bluesky:
   spec:
     title: DOTNET MEETUP JUNE 2025 @AGODA [debuggingsoft.com]
