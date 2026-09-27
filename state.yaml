@@ -18036,6 +18036,32 @@
     url: https://www.somkiat.cc/review-distributed-monolith/
   state:
     shortLink: https://link.webring.in.th/2481
+52ea949fbfbd1881448f5cac3858d7db:bluesky:
+  spec:
+    title: สรุปงาน Build {dot} AI [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/recap-build-dot-ai/
+  state:
+    cid: bafyreigkspd7aetosugogo5t7uwelbjachlpe3edetztbzfhfoyr46mcti
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwig6ac7jl26
+52ea949fbfbd1881448f5cac3858d7db:facebook:
+  spec:
+    title: สรุปงาน Build {dot} AI [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/recap-build-dot-ai/
+  state:
+    id: '100746876247412_1084383781217530'
+    url: https://www.facebook.com/100683012920950/posts/1084383781217530
+52ea949fbfbd1881448f5cac3858d7db:mastodon:
+  spec:
+    title: สรุปงาน Build {dot} AI [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/09/recap-build-dot-ai/
+  state:
+    id: '117342141293153610'
+    url: https://mastodon.in.th/@webring/117342141293153610
+52ea949fbfbd1881448f5cac3858d7db:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/09/recap-build-dot-ai/
+  state:
+    shortLink: https://link.webring.in.th/3487
 52f17b297d42f661da6e7db133fdd960:bluesky:
   spec:
     title: ฝึกออกแบบ key-value ใน redis สำหรับเก็บข้อมูลการค้นหา [somkiat.cc]
