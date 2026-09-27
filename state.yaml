@@ -51195,6 +51195,32 @@ e87f7ac5a02d4bbed04e8a59181a3919:shorturl:
     url: https://www.somkiat.cc/grafana-k6-version-1/
   state:
     shortLink: https://link.webring.in.th/2535
+e88cd42c85d5fcc46b4437aae5508def:bluesky:
+  spec:
+    title: ลองจับ Jev มาช่วยคัด Lead ปลอม ทำได้จริงไหม [myifew.com]
+    url: https://myifew.com/8543/jev-ai-fake-lead/
+  state:
+    cid: bafyreicv74go4vkxd6yo62caxkswlantt42p7uehqxjjr7fwpvbshws4uu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwiz6mseqo2h
+e88cd42c85d5fcc46b4437aae5508def:facebook:
+  spec:
+    title: ลองจับ Jev มาช่วยคัด Lead ปลอม ทำได้จริงไหม [myifew.com]
+    url: https://myifew.com/8543/jev-ai-fake-lead/
+  state:
+    id: '100746876247412_1084635747859000'
+    url: https://www.facebook.com/100683012920950/posts/1084635747859000
+e88cd42c85d5fcc46b4437aae5508def:mastodon:
+  spec:
+    title: ลองจับ Jev มาช่วยคัด Lead ปลอม ทำได้จริงไหม [myifew.com]
+    url: https://myifew.com/8543/jev-ai-fake-lead/
+  state:
+    id: '117343478959244199'
+    url: https://mastodon.in.th/@webring/117343478959244199
+e88cd42c85d5fcc46b4437aae5508def:shorturl:
+  spec:
+    url: https://myifew.com/8543/jev-ai-fake-lead/
+  state:
+    shortLink: https://link.webring.in.th/3488
 e88eb25048aeac4d5002571a2edbfc34:bluesky:
   spec:
     title: เช็คลิสต์ความพร้อมทางการเงินในโลกที่เปลี่ยนไปแล้ว [mymoneytoolkit.app]
