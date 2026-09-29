@@ -28860,6 +28860,32 @@
     url: https://www.anuwong.com/blog/personal-assistant-bot-with-telegram-and-notion/
   state:
     shortLink: https://webring.page.link/LnqZ
+810a2763a0d4e00b73a1cb7828849052:bluesky:
+  spec:
+    title: ลองทำความรู้จักและใช้งาน bugpatrol สำหรับการทดสอบระบบงาน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-bugpatrol/
+  state:
+    cid: bafyreihifovui5jwhaj5y2d3mde7p5hjhtoo6v7zvcucvaicesgct32zdy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwodxoagm32z
+810a2763a0d4e00b73a1cb7828849052:facebook:
+  spec:
+    title: ลองทำความรู้จักและใช้งาน bugpatrol สำหรับการทดสอบระบบงาน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-bugpatrol/
+  state:
+    id: '100746876247412_1086745297648045'
+    url: https://www.facebook.com/100683012920950/posts/1086745297648045
+810a2763a0d4e00b73a1cb7828849052:mastodon:
+  spec:
+    title: ลองทำความรู้จักและใช้งาน bugpatrol สำหรับการทดสอบระบบงาน [somkiat.cc]
+    url: https://www.somkiat.cc/hello-bugpatrol/
+  state:
+    id: '117355496865133331'
+    url: https://mastodon.in.th/@webring/117355496865133331
+810a2763a0d4e00b73a1cb7828849052:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-bugpatrol/
+  state:
+    shortLink: https://link.webring.in.th/3490
 8117d92a230eedad4cdb4134c42bbc2a:bluesky:
   spec:
     title: '[GITLAB] ปรับ Notification ยังไงนะ [debuggingsoft.com]'
