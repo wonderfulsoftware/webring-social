@@ -2614,6 +2614,32 @@
     url: https://notes.dt.in.th/PlaywrightAccessibleTestReports
   state:
     shortLink: https://link.webring.in.th/2744
+0bbe6a5f4d39ad9bf413db45edc0c053:bluesky:
+  spec:
+    title: 'MS Sec TH Meetup: Microsoft SOC in real Job, in AI ERA [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/09/ms-sec-th-meetup-microsoft-soc-in-real-job-in-ai-era/
+  state:
+    cid: bafyreia2k4jazqfmuo6gi2uaoed6sws436uigcssuvloeha77tret5o4tq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwnivbwnlx24
+0bbe6a5f4d39ad9bf413db45edc0c053:facebook:
+  spec:
+    title: 'MS Sec TH Meetup: Microsoft SOC in real Job, in AI ERA [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/09/ms-sec-th-meetup-microsoft-soc-in-real-job-in-ai-era/
+  state:
+    id: '100746876247412_1086356744353567'
+    url: https://www.facebook.com/100683012920950/posts/1086356744353567
+0bbe6a5f4d39ad9bf413db45edc0c053:mastodon:
+  spec:
+    title: 'MS Sec TH Meetup: Microsoft SOC in real Job, in AI ERA [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/09/ms-sec-th-meetup-microsoft-soc-in-real-job-in-ai-era/
+  state:
+    id: '117353591532158305'
+    url: https://mastodon.in.th/@webring/117353591532158305
+0bbe6a5f4d39ad9bf413db45edc0c053:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/09/ms-sec-th-meetup-microsoft-soc-in-real-job-in-ai-era/
+  state:
+    shortLink: https://link.webring.in.th/3489
 0bc96d69d382412003429e9d8aca6d64:bluesky:
   spec:
     title: Markdown 101 ไม่ต้องเป็นเดฟก็ใช้ได้! [mikkipastel.com]
