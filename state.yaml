@@ -42447,6 +42447,32 @@ bf1e2f5ed632fa45a543935b8ce5d4e1:shorturl:
     url: https://garden.narze.live/100daysofcode-r3-77-chatos-trying-encryption-libraries/
   state:
     shortLink: https://webring.page.link/n3K2
+bf35f2e3128d04a75460881f694a4bf0:bluesky:
+  spec:
+    title: 'My Agent Harness: The System Around the Model [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-45-my-agent-harness/
+  state:
+    cid: bafyreiahtwcglhmbztdc6x3fapye5giclozkns2xdgru7qlw64mkzkvwoa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwpysufp442o
+bf35f2e3128d04a75460881f694a4bf0:facebook:
+  spec:
+    title: 'My Agent Harness: The System Around the Model [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-45-my-agent-harness/
+  state:
+    id: '100746876247412_1087330897589485'
+    url: https://www.facebook.com/100683012920950/posts/1087330897589485
+bf35f2e3128d04a75460881f694a4bf0:mastodon:
+  spec:
+    title: 'My Agent Harness: The System Around the Model [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-45-my-agent-harness/
+  state:
+    id: '117359215813303456'
+    url: https://mastodon.in.th/@webring/117359215813303456
+bf35f2e3128d04a75460881f694a4bf0:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-45-my-agent-harness/
+  state:
+    shortLink: https://link.webring.in.th/3491
 bf47f2a00547a2d938d217404abd8528:bluesky:
   spec:
     title: บันทึกวันอาทิตย์ — เมื่อ Pipeline หยุดนิ่ง 3 วัน กับปฏิบัติการกู้ระบบที่ทำให้ชมพูเก่งขึ้น 🌸 [myifew.com]
