@@ -3450,6 +3450,32 @@
     url: https://microbenz.in.th/2022-review/
   state:
     shortLink: https://webring.page.link/sqCH
+0fdac7fa905f55f081d318d988dd8b91:bluesky:
+  spec:
+    title: I Cut My AGENTS.md in Half, Then Measured What Broke [fasu.dev]
+    url: https://fasu.dev/writings/i-cut-my-agents-md-in-half-and-measured-it/
+  state:
+    cid: bafyreiglxq4pteryjn3dbctbbyjlfospjmaekkcuh5m3xisygz4jeiatvi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwqubtjo7b2s
+0fdac7fa905f55f081d318d988dd8b91:facebook:
+  spec:
+    title: I Cut My AGENTS.md in Half, Then Measured What Broke [fasu.dev]
+    url: https://fasu.dev/writings/i-cut-my-agents-md-in-half-and-measured-it/
+  state:
+    id: '100746876247412_1087715987550976'
+    url: https://www.facebook.com/100683012920950/posts/1087715987550976
+0fdac7fa905f55f081d318d988dd8b91:mastodon:
+  spec:
+    title: I Cut My AGENTS.md in Half, Then Measured What Broke [fasu.dev]
+    url: https://fasu.dev/writings/i-cut-my-agents-md-in-half-and-measured-it/
+  state:
+    id: '117361148540770341'
+    url: https://mastodon.in.th/@webring/117361148540770341
+0fdac7fa905f55f081d318d988dd8b91:shorturl:
+  spec:
+    url: https://fasu.dev/writings/i-cut-my-agents-md-in-half-and-measured-it/
+  state:
+    shortLink: https://link.webring.in.th/3492
 0fdefb38a01cf021d4d717b6bf19446a:facebook:
   spec:
     title: Manage multiple Git account in machine [jitrak.dev]
