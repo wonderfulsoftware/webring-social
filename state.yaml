@@ -19092,6 +19092,32 @@
     url: https://devahoy.com/tutorials/learn-css-animations/day2-card-flip
   state:
     shortLink: https://webring.page.link/2zz5
+57c69e0925e90321d0426f0bee32ec08:bluesky:
+  spec:
+    title: ແບບຟອມ ຊີວະປະຫວັດຫຍໍ້ ສະບັບໃໝ່ [xiengperm.dev]
+    url: https://xiengperm.dev/posts/lao-biography-form-lo/
+  state:
+    cid: bafyreigf3s7sn5oend3437joxm63pzdg5xlyats3uzs64dgghwfrud4rum
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwtga6bnyj2f
+57c69e0925e90321d0426f0bee32ec08:facebook:
+  spec:
+    title: ແບບຟອມ ຊີວະປະຫວັດຫຍໍ້ ສະບັບໃໝ່ [xiengperm.dev]
+    url: https://xiengperm.dev/posts/lao-biography-form-lo/
+  state:
+    id: '100746876247412_1088746910781217'
+    url: https://www.facebook.com/100683012920950/posts/1088746910781217
+57c69e0925e90321d0426f0bee32ec08:mastodon:
+  spec:
+    title: ແບບຟອມ ຊີວະປະຫວັດຫຍໍ້ ສະບັບໃໝ່ [xiengperm.dev]
+    url: https://xiengperm.dev/posts/lao-biography-form-lo/
+  state:
+    id: '117366915239100924'
+    url: https://mastodon.in.th/@webring/117366915239100924
+57c69e0925e90321d0426f0bee32ec08:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/lao-biography-form-lo/
+  state:
+    shortLink: https://link.webring.in.th/3494
 57f178af7cdfc301ee2959c4164cca07:bluesky:
   spec:
     title: Quickly deploying API endpoints online with Elysia on Deno Deploy [dt.in.th]
