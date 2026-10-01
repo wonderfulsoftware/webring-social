@@ -45902,6 +45902,32 @@ ce1978c4d292926e7f9a4a84ee166d95:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/09/cr-starbucks-ham-cheese-egg-wrap-low-crab/
   state:
     shortLink: https://link.webring.in.th/2130
+ce419a5214b84d9082f713ec6890aa8a:bluesky:
+  spec:
+    title: วางแผนจ่ายบัตรเครดิต รูดกี่ใบก็ไม่งง รู้ว่าต้องกันเงินเท่าไหร่ก่อนบิลมา [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/card-plan
+  state:
+    cid: bafyreifdxid22r4mt2zcuv7ay4ij7udxfqkcuimykyqxh2bdq7g366skci
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwsktbcmbj23
+ce419a5214b84d9082f713ec6890aa8a:facebook:
+  spec:
+    title: วางแผนจ่ายบัตรเครดิต รูดกี่ใบก็ไม่งง รู้ว่าต้องกันเงินเท่าไหร่ก่อนบิลมา [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/card-plan
+  state:
+    id: '100746876247412_1088343957488179'
+    url: https://www.facebook.com/100683012920950/posts/1088343957488179
+ce419a5214b84d9082f713ec6890aa8a:mastodon:
+  spec:
+    title: วางแผนจ่ายบัตรเครดิต รูดกี่ใบก็ไม่งง รู้ว่าต้องกันเงินเท่าไหร่ก่อนบิลมา [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/card-plan
+  state:
+    id: '117364986841868513'
+    url: https://mastodon.in.th/@webring/117364986841868513
+ce419a5214b84d9082f713ec6890aa8a:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/card-plan
+  state:
+    shortLink: https://link.webring.in.th/3493
 ce6ad789f1a494f1abe198fe99f52765:bluesky:
   spec:
     title: 'Tips :: การแบ่งงานสำหรับ AI Agent [somkiat.cc]'
