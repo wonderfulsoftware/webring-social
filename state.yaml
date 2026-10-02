@@ -52095,6 +52095,32 @@ ec44d854b5b0e9faf14b591878547040:shorturl:
     url: https://notes.dt.in.th/Insta360LinkControllerWebSocketProtocol
   state:
     shortLink: https://link.webring.in.th/2109
+ec49858fd71c1db8b58691733e4c4ae4:bluesky:
+  spec:
+    title: 'ภูหลวง: เส้นทางลานสุริยันและป่าดอกไม้แห่งจังหวัดเลย [myifew.com]'
+    url: https://myifew.com/8558/%e0%b8%a0%e0%b8%b9%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b8%a5%e0%b8%b2%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%a3%e0%b8%b4%e0%b8%a2%e0%b8%b1/
+  state:
+    cid: bafyreiblscqva6yuokuv3ytuahdtwff52camvc3mqlf7fomn3td65xyshe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwuztwdlkx26
+ec49858fd71c1db8b58691733e4c4ae4:facebook:
+  spec:
+    title: 'ภูหลวง: เส้นทางลานสุริยันและป่าดอกไม้แห่งจังหวัดเลย [myifew.com]'
+    url: https://myifew.com/8558/%e0%b8%a0%e0%b8%b9%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b8%a5%e0%b8%b2%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%a3%e0%b8%b4%e0%b8%a2%e0%b8%b1/
+  state:
+    id: '100746876247412_1089377480718160'
+    url: https://www.facebook.com/100683012920950/posts/1089377480718160
+ec49858fd71c1db8b58691733e4c4ae4:mastodon:
+  spec:
+    title: 'ภูหลวง: เส้นทางลานสุริยันและป่าดอกไม้แห่งจังหวัดเลย [myifew.com]'
+    url: https://myifew.com/8558/%e0%b8%a0%e0%b8%b9%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b8%a5%e0%b8%b2%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%a3%e0%b8%b4%e0%b8%a2%e0%b8%b1/
+  state:
+    id: '117370547344436529'
+    url: https://mastodon.in.th/@webring/117370547344436529
+ec49858fd71c1db8b58691733e4c4ae4:shorturl:
+  spec:
+    url: https://myifew.com/8558/%e0%b8%a0%e0%b8%b9%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b8%a5%e0%b8%b2%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%a3%e0%b8%b4%e0%b8%a2%e0%b8%b1/
+  state:
+    shortLink: https://link.webring.in.th/3495
 ec58600cd82560a725f20b89864bd793:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 5 - Open 24 Hours [devahoy.com]
