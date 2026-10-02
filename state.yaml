@@ -50617,6 +50617,32 @@ e49f6f8d26b8955ae3937a9c3158ac0e:shorturl:
     url: https://lucian.solutions/blog/202402-chinese-new-year-lucia
   state:
     shortLink: https://link.webring.in.th/1769
+e4d5cbb607b374aa268c5c22a9179bbd:bluesky:
+  spec:
+    title: ลองใช้ Microsoft Agent Framework – Agent Skills [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/using-skill-in-microsoft-agent-framework-with-csharp-th/
+  state:
+    cid: bafyreiad7ynt7ka3q3lluggx45pjoieuum2fzbqhaqogcz2czbbhqalbfa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwvummhwlr25
+e4d5cbb607b374aa268c5c22a9179bbd:facebook:
+  spec:
+    title: ลองใช้ Microsoft Agent Framework – Agent Skills [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/using-skill-in-microsoft-agent-framework-with-csharp-th/
+  state:
+    id: '100746876247412_1089829587339616'
+    url: https://www.facebook.com/100683012920950/posts/1089829587339616
+e4d5cbb607b374aa268c5c22a9179bbd:mastodon:
+  spec:
+    title: ลองใช้ Microsoft Agent Framework – Agent Skills [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/using-skill-in-microsoft-agent-framework-with-csharp-th/
+  state:
+    id: '117372431384609134'
+    url: https://mastodon.in.th/@webring/117372431384609134
+e4d5cbb607b374aa268c5c22a9179bbd:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/10/using-skill-in-microsoft-agent-framework-with-csharp-th/
+  state:
+    shortLink: https://link.webring.in.th/3496
 e4db21279eca7aa06c59732a9ad5f56c:bluesky:
   spec:
     title: 'Burger King: Hawaiian Whopper / Tempura Nugget [debuggingsoft.com]'
