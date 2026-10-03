@@ -114,6 +114,32 @@
     url: https://thanapon.info/aws-iot-credential-provider/
   state:
     shortLink: https://webring.page.link/gvFA
+00b2ecb1fba19ed11c460d2805e010b9:bluesky:
+  spec:
+    title: Update Plan October 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-october-2026
+  state:
+    cid: bafyreihvhshmgu7m7ijgycadciwci6xeigyybvls4fqwkch4ohvabtlv3m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwxirvkxar2z
+00b2ecb1fba19ed11c460d2805e010b9:facebook:
+  spec:
+    title: Update Plan October 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-october-2026
+  state:
+    id: '100746876247412_1090408213948420'
+    url: https://www.facebook.com/100683012920950/posts/1090408213948420
+00b2ecb1fba19ed11c460d2805e010b9:mastodon:
+  spec:
+    title: Update Plan October 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-october-2026
+  state:
+    id: '117376102255152559'
+    url: https://mastodon.in.th/@webring/117376102255152559
+00b2ecb1fba19ed11c460d2805e010b9:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/update-plan-october-2026
+  state:
+    shortLink: https://link.webring.in.th/3497
 00b37589aa167997ccde7ee5a00e5221:bluesky:
   spec:
     title: '[CR] Starbucks Oolong Yuzu [debuggingsoft.com]'
