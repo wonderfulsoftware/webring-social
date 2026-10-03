@@ -15028,6 +15028,32 @@
     url: https://neizod.dev/2026/08/08/coloring-snub-dodecahedron.html
   state:
     shortLink: https://link.webring.in.th/3386
+442e330a3de0a5286a12ad303962d39c:bluesky:
+  spec:
+    title: 3-6-flexagon [neizod.dev]
+    url: https://neizod.dev/2026/10/01/trihexaflexagon.html
+  state:
+    cid: bafyreieix7ltyd2x5ndsalty3pn2kj55yitid3ydlm5n6bxijlgs4qdnyi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mwy2mypzyj23
+442e330a3de0a5286a12ad303962d39c:facebook:
+  spec:
+    title: 3-6-flexagon [neizod.dev]
+    url: https://neizod.dev/2026/10/01/trihexaflexagon.html
+  state:
+    id: '100746876247412_1090626043926637'
+    url: https://www.facebook.com/100683012920950/posts/1090626043926637
+442e330a3de0a5286a12ad303962d39c:mastodon:
+  spec:
+    title: 3-6-flexagon [neizod.dev]
+    url: https://neizod.dev/2026/10/01/trihexaflexagon.html
+  state:
+    id: '117377358115641970'
+    url: https://mastodon.in.th/@webring/117377358115641970
+442e330a3de0a5286a12ad303962d39c:shorturl:
+  spec:
+    url: https://neizod.dev/2026/10/01/trihexaflexagon.html
+  state:
+    shortLink: https://link.webring.in.th/3498
 44309401ba310a7183b133ca1eec504a:facebook:
   spec:
     title: Switch between personal and work Cloudflare Warp profiles [ntsd.dev]
