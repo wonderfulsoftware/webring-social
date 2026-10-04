@@ -4814,6 +4814,32 @@
     url: https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-restcontroller-%e0%b9%81%e0%b8%a5%e0%b8%b0-router-functions/
   state:
     shortLink: https://link.webring.in.th/2707
+166ca43cc8a84a9ba67cc894932102bc:bluesky:
+  spec:
+    title: มาลองใช้งาน Stitch CLI สำหรับการออกแบบ user interface กันดู [somkiat.cc]
+    url: https://www.somkiat.cc/try-stitch-cli/
+  state:
+    cid: bafyreicwdnv23rdi3syxrzbnwr6gobyw3snuqaetdppfeiy3q55pnuh5pe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mx22psmug42v
+166ca43cc8a84a9ba67cc894932102bc:facebook:
+  spec:
+    title: มาลองใช้งาน Stitch CLI สำหรับการออกแบบ user interface กันดู [somkiat.cc]
+    url: https://www.somkiat.cc/try-stitch-cli/
+  state:
+    id: '100746876247412_1091343713854870'
+    url: https://www.facebook.com/100683012920950/posts/1091343713854870
+166ca43cc8a84a9ba67cc894932102bc:mastodon:
+  spec:
+    title: มาลองใช้งาน Stitch CLI สำหรับการออกแบบ user interface กันดู [somkiat.cc]
+    url: https://www.somkiat.cc/try-stitch-cli/
+  state:
+    id: '117381867967442298'
+    url: https://mastodon.in.th/@webring/117381867967442298
+166ca43cc8a84a9ba67cc894932102bc:shorturl:
+  spec:
+    url: https://www.somkiat.cc/try-stitch-cli/
+  state:
+    shortLink: https://link.webring.in.th/3500
 169bc83c3c9e2be7c16e7ddf0ba30b38:facebook:
   spec:
     title: เรียนรู้ว่า Product Management เอา AI มาใช้งานยังไง? กับงาน "Unlocking Product Insights" [mikkipastel.com]
