@@ -35216,6 +35216,32 @@
     url: https://blog.ninprd.com/blog/do-we-talk-incoherent/
   state:
     shortLink: https://link.webring.in.th/1930
+9c81667af592bf99440168db6b2f06d2:bluesky:
+  spec:
+    title: 'จดๆจาก OpenAI DevDay Exchange Community: Bangkok [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/10/recap-openai-devday-exchange-community-bangkok/
+  state:
+    cid: bafyreigzvzel34pevvpotwg2skgkmum6gvvwpqmqbp23x4i33vjaz2tebu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mx2sfbn4qj2v
+9c81667af592bf99440168db6b2f06d2:facebook:
+  spec:
+    title: 'จดๆจาก OpenAI DevDay Exchange Community: Bangkok [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/10/recap-openai-devday-exchange-community-bangkok/
+  state:
+    id: '100746876247412_1091659720489936'
+    url: https://www.facebook.com/100683012920950/posts/1091659720489936
+9c81667af592bf99440168db6b2f06d2:mastodon:
+  spec:
+    title: 'จดๆจาก OpenAI DevDay Exchange Community: Bangkok [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/10/recap-openai-devday-exchange-community-bangkok/
+  state:
+    id: '117383533262419822'
+    url: https://mastodon.in.th/@webring/117383533262419822
+9c81667af592bf99440168db6b2f06d2:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/10/recap-openai-devday-exchange-community-bangkok/
+  state:
+    shortLink: https://link.webring.in.th/3501
 9c87c2abf6a737b2d2a343b19fde2dcc:bluesky:
   spec:
     title: คู่มือการเขียน Prompt ที่ดี ให้ได้ผลตรงใจ จากคำแนะนำของ Google [myifew.com]
