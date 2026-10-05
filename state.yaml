@@ -32568,6 +32568,32 @@
     url: https://www.somkiat.cc/note-from-tidy-first-book/
   state:
     shortLink: https://webring.page.link/bJkC
+904ef6abce90f45ecc13c7af8e04f77a:bluesky:
+  spec:
+    title: จด ๆ จากงาน Design to Code Bangkok 2026 [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/take-note-design-to-code-bangkok-2026/
+  state:
+    cid: bafyreiaxngs2s7xmpllp7fzj62sf25dkaduz47mpx2vvn2o2r7be7o5vnm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mx4ngoqdvq2v
+904ef6abce90f45ecc13c7af8e04f77a:facebook:
+  spec:
+    title: จด ๆ จากงาน Design to Code Bangkok 2026 [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/take-note-design-to-code-bangkok-2026/
+  state:
+    id: '100746876247412_1092295627093012'
+    url: https://www.facebook.com/100683012920950/posts/1092295627093012
+904ef6abce90f45ecc13c7af8e04f77a:mastodon:
+  spec:
+    title: จด ๆ จากงาน Design to Code Bangkok 2026 [blog.ninprd.com]
+    url: https://blog.ninprd.com/blog/take-note-design-to-code-bangkok-2026/
+  state:
+    id: '117387688526821828'
+    url: https://mastodon.in.th/@webring/117387688526821828
+904ef6abce90f45ecc13c7af8e04f77a:shorturl:
+  spec:
+    url: https://blog.ninprd.com/blog/take-note-design-to-code-bangkok-2026/
+  state:
+    shortLink: https://link.webring.in.th/3502
 90923089dfc700602345b0840809f837:facebook:
   spec:
     title: Install Excalidraw Self-hosted (Docker) [debuggingsoft.com]
