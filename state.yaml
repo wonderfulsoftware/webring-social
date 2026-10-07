@@ -56085,6 +56085,32 @@ fc6c42da46125cdb0edc4835c09dbc62:shorturl:
     url: https://blog.ninprd.com/blog/holiday-hack-code-review-agent-typescript-glm/
   state:
     shortLink: https://link.webring.in.th/3123
+fcd718fb653eb59a8d5d92b5b603c940:bluesky:
+  spec:
+    title: 'จัดเป้เดินป่าให้เบาและหยิบใช้ง่าย: เทคนิคเตรียมของก่อนออกเส้นทาง [myifew.com]'
+    url: https://myifew.com/8563/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b9%80%e0%b8%9b%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80%e0%b8%9a%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0/
+  state:
+    cid: bafyreihhdgitclxey3os3xvbsilrrsn3wtddeptgyt6koicajuafowoese
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxckgiwqgv2v
+fcd718fb653eb59a8d5d92b5b603c940:facebook:
+  spec:
+    title: 'จัดเป้เดินป่าให้เบาและหยิบใช้ง่าย: เทคนิคเตรียมของก่อนออกเส้นทาง [myifew.com]'
+    url: https://myifew.com/8563/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b9%80%e0%b8%9b%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80%e0%b8%9a%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0/
+  state:
+    id: '100746876247412_1094494440206464'
+    url: https://www.facebook.com/100683012920950/posts/1094494440206464
+fcd718fb653eb59a8d5d92b5b603c940:mastodon:
+  spec:
+    title: 'จัดเป้เดินป่าให้เบาและหยิบใช้ง่าย: เทคนิคเตรียมของก่อนออกเส้นทาง [myifew.com]'
+    url: https://myifew.com/8563/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b9%80%e0%b8%9b%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80%e0%b8%9a%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0/
+  state:
+    id: '117400987524632044'
+    url: https://mastodon.in.th/@webring/117400987524632044
+fcd718fb653eb59a8d5d92b5b603c940:shorturl:
+  spec:
+    url: https://myifew.com/8563/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b9%80%e0%b8%9b%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80%e0%b8%9a%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0/
+  state:
+    shortLink: https://link.webring.in.th/3505
 fd39516d8b107378a75b996ca4d73a93:bluesky:
   spec:
     title: Man Hin By Chef Man-ข้าวมันไก่ฮ่องกง 99 บาท [debuggingsoft.com]
