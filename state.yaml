@@ -33435,6 +33435,32 @@
     url: https://www.somkiat.cc/hello-react-agent-skills-from-vercel/
   state:
     shortLink: https://link.webring.in.th/2928
+93905dd2d9045ea0f194b43cb9c6c9dd:bluesky:
+  spec:
+    title: บันทึกความภูมิใจในปีที่ทำ 10-month Creative Streak ได้ + มาทำทะเบียนกองดองกันเต๊อะ [blog.nattp.page]
+    url: https://blog.nattp.page/article/creative-streak-2025/
+  state:
+    cid: bafyreic34w6cq7pclmdqv2zei3ftf2gxpiltca2obstmm5py7yn5k2cd7e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxbnjfetgc2v
+93905dd2d9045ea0f194b43cb9c6c9dd:facebook:
+  spec:
+    title: บันทึกความภูมิใจในปีที่ทำ 10-month Creative Streak ได้ + มาทำทะเบียนกองดองกันเต๊อะ [blog.nattp.page]
+    url: https://blog.nattp.page/article/creative-streak-2025/
+  state:
+    id: '100746876247412_1094122866910288'
+    url: https://www.facebook.com/100683012920950/posts/1094122866910288
+93905dd2d9045ea0f194b43cb9c6c9dd:mastodon:
+  spec:
+    title: บันทึกความภูมิใจในปีที่ทำ 10-month Creative Streak ได้ + มาทำทะเบียนกองดองกันเต๊อะ [blog.nattp.page]
+    url: https://blog.nattp.page/article/creative-streak-2025/
+  state:
+    id: '117398953201169635'
+    url: https://mastodon.in.th/@webring/117398953201169635
+93905dd2d9045ea0f194b43cb9c6c9dd:shorturl:
+  spec:
+    url: https://blog.nattp.page/article/creative-streak-2025/
+  state:
+    shortLink: https://link.webring.in.th/3504
 93c867a52eeb54a171d2e9ad710ff6b1:bluesky:
   spec:
     title: 'Ponytail: ทำให้ AI เขียนโค้ดน้อยลงแต่ดีขึ้น [xiengperm.dev]'
