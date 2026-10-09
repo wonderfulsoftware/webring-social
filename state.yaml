@@ -10932,6 +10932,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/01/%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%80%e0%b8%96%e0%b8%b2%e0%b8%b0%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%94%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%88%e0%b8%b5%e0%b9%89%e0%b8%a2/
   state:
     shortLink: https://webring.page.link/zbcm
+30a546e8ac82d2c91425524e6535f1b7:bluesky:
+  spec:
+    title: Octopath Traveler ขายบน GOG แล้วและกำลังลดราคา [nitpum.com]
+    url: https://nitpum.com/post/gog-octopath-traveler/
+  state:
+    cid: bafyreick5o5zr3vrdwlxzeuh3f6ojnlrd7flt63pvc2qo5w7ldvfnlzucy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxhjwp2gpr2l
+30a546e8ac82d2c91425524e6535f1b7:facebook:
+  spec:
+    title: Octopath Traveler ขายบน GOG แล้วและกำลังลดราคา [nitpum.com]
+    url: https://nitpum.com/post/gog-octopath-traveler/
+  state:
+    id: '100746876247412_1096313816691193'
+    url: https://www.facebook.com/100683012920950/posts/1096313816691193
+30a546e8ac82d2c91425524e6535f1b7:mastodon:
+  spec:
+    title: Octopath Traveler ขายบน GOG แล้วและกำลังลดราคา [nitpum.com]
+    url: https://nitpum.com/post/gog-octopath-traveler/
+  state:
+    id: '117412212094898761'
+    url: https://mastodon.in.th/@webring/117412212094898761
+30a546e8ac82d2c91425524e6535f1b7:shorturl:
+  spec:
+    url: https://nitpum.com/post/gog-octopath-traveler/
+  state:
+    shortLink: https://link.webring.in.th/3508
 30bbdc93a62aaf9fc2e31c4c650d9bb5:facebook:
   spec:
     title: มือสมัครเล่นเมธอด [yothinix.com]
