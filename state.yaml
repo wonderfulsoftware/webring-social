@@ -28599,6 +28599,32 @@
     url: https://xiengperm.dev/posts/loops-agent-loops-th/
   state:
     shortLink: https://link.webring.in.th/3254
+7efa5346e8eb2294f3f52c16eb21d872:bluesky:
+  spec:
+    title: ทาง Microsoft ปล่อย Postgres MCP Server มาให้ใช้งาน [somkiat.cc]
+    url: https://www.somkiat.cc/microsoft-postgres-mcp/
+  state:
+    cid: bafyreiadphvnaoh5zsi2wghdmj5mwdjhccvb2abfttxtppicx2dxu2rup4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxgpbscvlp2w
+7efa5346e8eb2294f3f52c16eb21d872:facebook:
+  spec:
+    title: ทาง Microsoft ปล่อย Postgres MCP Server มาให้ใช้งาน [somkiat.cc]
+    url: https://www.somkiat.cc/microsoft-postgres-mcp/
+  state:
+    id: '100746876247412_1095968036725771'
+    url: https://www.facebook.com/100683012920950/posts/1095968036725771
+7efa5346e8eb2294f3f52c16eb21d872:mastodon:
+  spec:
+    title: ทาง Microsoft ปล่อย Postgres MCP Server มาให้ใช้งาน [somkiat.cc]
+    url: https://www.somkiat.cc/microsoft-postgres-mcp/
+  state:
+    id: '117410336202024048'
+    url: https://mastodon.in.th/@webring/117410336202024048
+7efa5346e8eb2294f3f52c16eb21d872:shorturl:
+  spec:
+    url: https://www.somkiat.cc/microsoft-postgres-mcp/
+  state:
+    shortLink: https://link.webring.in.th/3507
 7f29f691ea533f4876e12772003f354f:facebook:
   spec:
     title: ทำการจำลอง API server ใน JavaScript ด้วย MirageJS [somkiat.cc]
