@@ -18713,6 +18713,32 @@
     url: https://naiwaen.debuggingsoft.com/2026/05/refund-google-one-package-case-change-higher-tier/
   state:
     shortLink: https://link.webring.in.th/3195
+556921ab76c8adc74d37a6b7b8977b43:bluesky:
+  spec:
+    title: 'My Money Tracker: Sheet รายรับรายจ่าย จดง่าย รู้ว่าเงินไปไหน และเหลือใช้จริงเท่าไหร่ [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/money-tracker
+  state:
+    cid: bafyreida2gc6kimtzscabwy7c32fssmzixi2jprblrkgfkjic7qwlddklu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxjwrx3jrd2w
+556921ab76c8adc74d37a6b7b8977b43:facebook:
+  spec:
+    title: 'My Money Tracker: Sheet รายรับรายจ่าย จดง่าย รู้ว่าเงินไปไหน และเหลือใช้จริงเท่าไหร่ [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/money-tracker
+  state:
+    id: '100746876247412_1097197709936137'
+    url: https://www.facebook.com/100683012920950/posts/1097197709936137
+556921ab76c8adc74d37a6b7b8977b43:mastodon:
+  spec:
+    title: 'My Money Tracker: Sheet รายรับรายจ่าย จดง่าย รู้ว่าเงินไปไหน และเหลือใช้จริงเท่าไหร่ [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/money-tracker
+  state:
+    id: '117417619909947714'
+    url: https://mastodon.in.th/@webring/117417619909947714
+556921ab76c8adc74d37a6b7b8977b43:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/money-tracker
+  state:
+    shortLink: https://link.webring.in.th/3510
 556ff7135f417235229cf0f9489dddaa:bluesky:
   spec:
     title: Sheet บันทึกเตรียมยื่นภาษี Easy / เที่ยวดีมีคืน / รายได้ [mymoneytoolkit.app]
