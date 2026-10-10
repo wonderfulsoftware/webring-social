@@ -37987,6 +37987,32 @@ a98e8f2ee6f66e06a0f1e292b154474b:shorturl:
     url: https://www.somkiat.cc/summary-12-factors-with-go-and-docker/
   state:
     shortLink: https://link.webring.in.th/1939
+a9b3bd90c0f5d18f964ab6f705a0f102:bluesky:
+  spec:
+    title: How to reset GitLab root or any user password with Rails console [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/how-to-reset-gitlab-root-or-any-user-password-with-rails-console/
+  state:
+    cid: bafyreidsvl4yvufg4llkxqzb2z6t5jios4ezkp24xcge65in5vo5uznpwe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxj5quu4nf23
+a9b3bd90c0f5d18f964ab6f705a0f102:facebook:
+  spec:
+    title: How to reset GitLab root or any user password with Rails console [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/how-to-reset-gitlab-root-or-any-user-password-with-rails-console/
+  state:
+    id: '100746876247412_1096872019968706'
+    url: https://www.facebook.com/100683012920950/posts/1096872019968706
+a9b3bd90c0f5d18f964ab6f705a0f102:mastodon:
+  spec:
+    title: How to reset GitLab root or any user password with Rails console [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/how-to-reset-gitlab-root-or-any-user-password-with-rails-console/
+  state:
+    id: '117415858209539836'
+    url: https://mastodon.in.th/@webring/117415858209539836
+a9b3bd90c0f5d18f964ab6f705a0f102:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/10/how-to-reset-gitlab-root-or-any-user-password-with-rails-console/
+  state:
+    shortLink: https://link.webring.in.th/3509
 a9be6528322d30d29ede8ad490f5c8b1:bluesky:
   spec:
     title: การเชื่อมต่อกับ Database แบบ Reactive (เช่น R2DBC, MongoDB Reactive) [poolsawat.com]
