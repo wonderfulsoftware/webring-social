@@ -36445,6 +36445,32 @@ a1fc654eae8ca5c14e18da045946930c:shorturl:
     url: https://www.somkiat.cc/time-series-in-elasticsearch-8-6/
   state:
     shortLink: https://webring.page.link/WXu2
+a210429dfbcd7c45116bc69d629050a1:bluesky:
+  spec:
+    title: วันที่เพื่อนมาใหม่เยอะสุด ๆ มา Reflex, Rethink, Refine กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-u-bangkok/
+  state:
+    cid: bafyreifdpvyv4exw3bwx6sf5iyc663a6u5g7e26svcww5w7wgbvof5kege
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxmiofjze72v
+a210429dfbcd7c45116bc69d629050a1:facebook:
+  spec:
+    title: วันที่เพื่อนมาใหม่เยอะสุด ๆ มา Reflex, Rethink, Refine กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-u-bangkok/
+  state:
+    id: '100746876247412_1098180156504559'
+    url: https://www.facebook.com/100683012920950/posts/1098180156504559
+a210429dfbcd7c45116bc69d629050a1:mastodon:
+  spec:
+    title: วันที่เพื่อนมาใหม่เยอะสุด ๆ มา Reflex, Rethink, Refine กัน [mikkipastel.com]
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-u-bangkok/
+  state:
+    id: '117423382381484602'
+    url: https://mastodon.in.th/@webring/117423382381484602
+a210429dfbcd7c45116bc69d629050a1:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-u-bangkok/
+  state:
+    shortLink: https://link.webring.in.th/3512
 a21aafc574f7a612558c95baaaf2724e:facebook:
   spec:
     title: สวัสดี Prometheus 3.0 (beta) มีอะไรเปลี่ยนแปลงบ้าง [somkiat.cc]
