@@ -42965,6 +42965,32 @@ c0464b1c69baba1814d70a391aeffb16:shorturl:
     url: https://mikelopster.dev/posts/mcp-basic/
   state:
     shortLink: https://link.webring.in.th/2553
+c047ae678f0b281a651b79d0ceecfece:bluesky:
+  spec:
+    title: เปรียบเทียบ Bear Canister สำหรับ Backpacking ปี 2026 [myifew.com]
+    url: https://myifew.com/8567/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a-bear-canister-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-backpacking-%e0%b8%9b%e0%b8%b5/
+  state:
+    cid: bafyreidyympcmqfh4jqcvwxksnsfl5jhptbdlkwg5xsa6ibmcyrbsawsry
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxlp5orjzi2i
+c047ae678f0b281a651b79d0ceecfece:facebook:
+  spec:
+    title: เปรียบเทียบ Bear Canister สำหรับ Backpacking ปี 2026 [myifew.com]
+    url: https://myifew.com/8567/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a-bear-canister-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-backpacking-%e0%b8%9b%e0%b8%b5/
+  state:
+    id: '100746876247412_1097822636540311'
+    url: https://www.facebook.com/100683012920950/posts/1097822636540311
+c047ae678f0b281a651b79d0ceecfece:mastodon:
+  spec:
+    title: เปรียบเทียบ Bear Canister สำหรับ Backpacking ปี 2026 [myifew.com]
+    url: https://myifew.com/8567/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a-bear-canister-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-backpacking-%e0%b8%9b%e0%b8%b5/
+  state:
+    id: '117421586276907866'
+    url: https://mastodon.in.th/@webring/117421586276907866
+c047ae678f0b281a651b79d0ceecfece:shorturl:
+  spec:
+    url: https://myifew.com/8567/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a-bear-canister-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-backpacking-%e0%b8%9b%e0%b8%b5/
+  state:
+    shortLink: https://link.webring.in.th/3511
 c04dfe0b554c94ec9d09046503f2cd9b:facebook:
   spec:
     title: '[CR] สมหมายข้าวมันไก่ [debuggingsoft.com]'
