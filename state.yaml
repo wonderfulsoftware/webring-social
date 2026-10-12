@@ -14931,6 +14931,32 @@
     url: https://myifew.com/6699/veo3-video-prompt-json-script/
   state:
     shortLink: https://link.webring.in.th/2650
+42e8a99779e75a54796d732eafa76fa2:bluesky:
+  spec:
+    title: 'Setting up Herdr for agent work: tmux keys, four plugins, and a review loop [yothinix.com]'
+    url: https://yothinix.com/setting-up-herdr/
+  state:
+    cid: bafyreifzgccnpkdcp63yiyil2ofvvypfhhpa6o6wdxnumgfbiaojcqkl7e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxobdibo6m2o
+42e8a99779e75a54796d732eafa76fa2:facebook:
+  spec:
+    title: 'Setting up Herdr for agent work: tmux keys, four plugins, and a review loop [yothinix.com]'
+    url: https://yothinix.com/setting-up-herdr/
+  state:
+    id: '100746876247412_1098832986439276'
+    url: https://www.facebook.com/100683012920950/posts/1098832986439276
+42e8a99779e75a54796d732eafa76fa2:mastodon:
+  spec:
+    title: 'Setting up Herdr for agent work: tmux keys, four plugins, and a review loop [yothinix.com]'
+    url: https://yothinix.com/setting-up-herdr/
+  state:
+    id: '117427369429852515'
+    url: https://mastodon.in.th/@webring/117427369429852515
+42e8a99779e75a54796d732eafa76fa2:shorturl:
+  spec:
+    url: https://yothinix.com/setting-up-herdr/
+  state:
+    shortLink: https://link.webring.in.th/3513
 431aa42e0332030e8f637c745b692d52:bluesky:
   spec:
     title: วันศุกร์แห่งการเกลาระบบ — เมื่อชมพูกับฟิวส์ขัดเงา Pipeline จนทุกฟันเฟืองเข้าที่ [myifew.com]
