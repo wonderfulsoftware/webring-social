@@ -40525,6 +40525,32 @@ b293e511e96e4e3779364d4a2cb01d59:shorturl:
     url: https://www.somkiat.cc/poc-jev-with-playwright-mcp/
   state:
     shortLink: https://link.webring.in.th/3476
+b2ac2f69003be47f1f65dbacbf466a90:bluesky:
+  spec:
+    title: 'จดๆจาก Claude Thailand Community Meetup 3: Real Business Use Case [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/10/recap-claude-thailand-community-meetup-3-real-business-use-case/
+  state:
+    cid: bafyreibqtdbn4hdwqw5ejml3e26p2kzilsq62dnw2wzf2wqrdd42rrzwey
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxpey7fegw22
+b2ac2f69003be47f1f65dbacbf466a90:facebook:
+  spec:
+    title: 'จดๆจาก Claude Thailand Community Meetup 3: Real Business Use Case [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/10/recap-claude-thailand-community-meetup-3-real-business-use-case/
+  state:
+    id: '100746876247412_1099333836389191'
+    url: https://www.facebook.com/100683012920950/posts/1099333836389191
+b2ac2f69003be47f1f65dbacbf466a90:mastodon:
+  spec:
+    title: 'จดๆจาก Claude Thailand Community Meetup 3: Real Business Use Case [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/10/recap-claude-thailand-community-meetup-3-real-business-use-case/
+  state:
+    id: '117429877959461659'
+    url: https://mastodon.in.th/@webring/117429877959461659
+b2ac2f69003be47f1f65dbacbf466a90:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/10/recap-claude-thailand-community-meetup-3-real-business-use-case/
+  state:
+    shortLink: https://link.webring.in.th/3514
 b2ade699ca93761a65f09ab9d47231c1:facebook:
   spec:
     title: Heated gloves [llun.me]
