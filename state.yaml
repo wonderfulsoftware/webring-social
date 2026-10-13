@@ -7597,6 +7597,32 @@
     url: https://www.somkiat.cc/bye-bye-atom/
   state:
     shortLink: https://webring.page.link/VXX6
+2215db7ccae9accd21ee0d71f57a153b:bluesky:
+  spec:
+    title: Sleep Test ครั้งแรกที่โรงพยาบาลตากสิน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/sleep-test-firsttime/
+  state:
+    cid: bafyreiddnz6u2r6isv23sprqbqbv6q6ocrhidczldssggs4dq2ttouadwm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxrottymlr2z
+2215db7ccae9accd21ee0d71f57a153b:facebook:
+  spec:
+    title: Sleep Test ครั้งแรกที่โรงพยาบาลตากสิน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/sleep-test-firsttime/
+  state:
+    id: '100746876247412_1100223042966937'
+    url: https://www.facebook.com/100683012920950/posts/1100223042966937
+2215db7ccae9accd21ee0d71f57a153b:mastodon:
+  spec:
+    title: Sleep Test ครั้งแรกที่โรงพยาบาลตากสิน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/sleep-test-firsttime/
+  state:
+    id: '117435075425012464'
+    url: https://mastodon.in.th/@webring/117435075425012464
+2215db7ccae9accd21ee0d71f57a153b:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/10/sleep-test-firsttime/
+  state:
+    shortLink: https://link.webring.in.th/3516
 2219243fac9515f40463fc4da4983b1f:facebook:
   spec:
     title: ทำการสร้าง API mocking และ Testing ด้วย Microcks กัน [somkiat.cc]
