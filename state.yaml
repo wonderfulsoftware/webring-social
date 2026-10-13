@@ -16544,6 +16544,32 @@
     url: https://www.somkiat.cc/convert-from-postman-to-k6-script/
   state:
     shortLink: https://webring.page.link/jiFC
+4bae293ae8681c6d91c116e4b1646592:bluesky:
+  spec:
+    title: บันทึกเรื่อง Designing MCP Gateway จาก Uber [somkiat.cc]
+    url: https://www.somkiat.cc/designing-mcp-gateway-from-uber/
+  state:
+    cid: bafyreihfaw5s2qylydd6f3h4lppa5275mrs2auvxfvmdaaxaashjgeso7u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxqrfaf7j623
+4bae293ae8681c6d91c116e4b1646592:facebook:
+  spec:
+    title: บันทึกเรื่อง Designing MCP Gateway จาก Uber [somkiat.cc]
+    url: https://www.somkiat.cc/designing-mcp-gateway-from-uber/
+  state:
+    id: '100746876247412_1099827553006486'
+    url: https://www.facebook.com/100683012920950/posts/1099827553006486
+4bae293ae8681c6d91c116e4b1646592:mastodon:
+  spec:
+    title: บันทึกเรื่อง Designing MCP Gateway จาก Uber [somkiat.cc]
+    url: https://www.somkiat.cc/designing-mcp-gateway-from-uber/
+  state:
+    id: '117433002657792156'
+    url: https://mastodon.in.th/@webring/117433002657792156
+4bae293ae8681c6d91c116e4b1646592:shorturl:
+  spec:
+    url: https://www.somkiat.cc/designing-mcp-gateway-from-uber/
+  state:
+    shortLink: https://link.webring.in.th/3515
 4bb8968343ad33866588caba3fb091b0:bluesky:
   spec:
     title: 'สรุป OC24: Deploy Production every sprint!? Is it possible? [blog.ninprd.com]'
