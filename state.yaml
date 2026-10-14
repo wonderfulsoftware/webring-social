@@ -3888,6 +3888,32 @@
     url: https://mymoneytoolkit.app/posts/retirement-web
   state:
     shortLink: https://link.webring.in.th/2795
+11609b59a6ecfc811fea9ec441c0daf9:bluesky:
+  spec:
+    title: 'The New SDLC with Vibe Coding : เมื่อ AI ย้ายคอขวดจาก Code ไปที่ Intent [myifew.com]'
+    url: https://myifew.com/8570/the-new-sdlc-vibe-coding-google/
+  state:
+    cid: bafyreicr37fco36ijpsibly2yltfaxucmunjvpowwwoabhw7hb7fc4nvl4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxuakeaha522
+11609b59a6ecfc811fea9ec441c0daf9:facebook:
+  spec:
+    title: 'The New SDLC with Vibe Coding : เมื่อ AI ย้ายคอขวดจาก Code ไปที่ Intent [myifew.com]'
+    url: https://myifew.com/8570/the-new-sdlc-vibe-coding-google/
+  state:
+    id: '100746876247412_1101232102866031'
+    url: https://www.facebook.com/100683012920950/posts/1101232102866031
+11609b59a6ecfc811fea9ec441c0daf9:mastodon:
+  spec:
+    title: 'The New SDLC with Vibe Coding : เมื่อ AI ย้ายคอขวดจาก Code ไปที่ Intent [myifew.com]'
+    url: https://myifew.com/8570/the-new-sdlc-vibe-coding-google/
+  state:
+    id: '117440824714460373'
+    url: https://mastodon.in.th/@webring/117440824714460373
+11609b59a6ecfc811fea9ec441c0daf9:shorturl:
+  spec:
+    url: https://myifew.com/8570/the-new-sdlc-vibe-coding-google/
+  state:
+    shortLink: https://link.webring.in.th/3519
 117a87acd2329b5b3bcb4f9f901dd0f6:bluesky:
   spec:
     title: Torres del Paine W Trek — เส้นทางเทรคในฝันแห่ง Patagonia ชิลี 🏔️🇨🇱 [myifew.com]
