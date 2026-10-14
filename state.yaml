@@ -43403,6 +43403,32 @@ c1257fa0dcb6cbe73fb7a6cc3e8e9aef:shorturl:
     url: https://www.mikkipastel.com/online-course-nft-defi-foundametal-from-nft360/
   state:
     shortLink: https://webring.page.link/mWep
+c140bd5f947047a83e2e622188e04505:bluesky:
+  spec:
+    title: ลด Storage cost ใน BigQuery กัน [mesodiar.com]
+    url: https://mesodiar.com/2026/10/13/reduce-bigquery-storage-cost/
+  state:
+    cid: bafyreiatxlafqt3v2whh5u7oaxatl4m2t5rhjbrnm3m6fwr2hcv3gl4bbu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxt4a5omsx2o
+c140bd5f947047a83e2e622188e04505:facebook:
+  spec:
+    title: ลด Storage cost ใน BigQuery กัน [mesodiar.com]
+    url: https://mesodiar.com/2026/10/13/reduce-bigquery-storage-cost/
+  state:
+    id: '100746876247412_1100725212916720'
+    url: https://www.facebook.com/100683012920950/posts/1100725212916720
+c140bd5f947047a83e2e622188e04505:mastodon:
+  spec:
+    title: ลด Storage cost ใน BigQuery กัน [mesodiar.com]
+    url: https://mesodiar.com/2026/10/13/reduce-bigquery-storage-cost/
+  state:
+    id: '117438269274532253'
+    url: https://mastodon.in.th/@webring/117438269274532253
+c140bd5f947047a83e2e622188e04505:shorturl:
+  spec:
+    url: https://mesodiar.com/2026/10/13/reduce-bigquery-storage-cost/
+  state:
+    shortLink: https://link.webring.in.th/3517
 c161564f345fb36fe209f876ddcc0d75:facebook:
   spec:
     title: Prepare Raspberry Pi SD Card with Ubuntu & Cloud Init [garden.narze.live]
