@@ -41444,6 +41444,32 @@ b7ed4ea6402e4dd022e2f8a43009eddb:shorturl:
     url: https://microbenz.in.th2022-review/
   state:
     shortLink: https://webring.page.link/76b1
+b7ef7fe6ac1af36d3616918a2d06f5c8:bluesky:
+  spec:
+    title: Refactor Jenkins User Defined Global Properties [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/refactor-jenkins-user-defined-global-properties/
+  state:
+    cid: bafyreie7gmr6pi46dxhzmjmaowo7gtvfskjwh7qrevssc3ajnxk5ttylbm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxtqamszuq2k
+b7ef7fe6ac1af36d3616918a2d06f5c8:facebook:
+  spec:
+    title: Refactor Jenkins User Defined Global Properties [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/refactor-jenkins-user-defined-global-properties/
+  state:
+    id: '100746876247412_1101006322888609'
+    url: https://www.facebook.com/100683012920950/posts/1101006322888609
+b7ef7fe6ac1af36d3616918a2d06f5c8:mastodon:
+  spec:
+    title: Refactor Jenkins User Defined Global Properties [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/refactor-jenkins-user-defined-global-properties/
+  state:
+    id: '117439677554118458'
+    url: https://mastodon.in.th/@webring/117439677554118458
+b7ef7fe6ac1af36d3616918a2d06f5c8:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/10/refactor-jenkins-user-defined-global-properties/
+  state:
+    shortLink: https://link.webring.in.th/3518
 b80293172a4a4a01810f23686a154ae3:facebook:
   spec:
     title: 74 - ChatOS - Merge guest chat logs [garden.narze.live]
