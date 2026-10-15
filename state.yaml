@@ -56546,6 +56546,32 @@ fd4c99d9de04a89c412bcc7e7ba14c61:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/11/how-to-limit-memory-usage-on-vmmemwsl/
   state:
     shortLink: https://link.webring.in.th/2244
+fd757d7e0b6cc6f7f81cbf5b2a3b0abc:bluesky:
+  spec:
+    title: คำนวณผ่อนบ้าน & รีไฟแนนซ์ เทียบให้เห็นว่าย้ายแล้วคุ้มจริงไหม [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/home-loan-refinance
+  state:
+    cid: bafyreie3yudimqnlwlzwoxyzntb76iiyxqmo34nxo6ztnqznneougbxz6i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxvlgkamq523
+fd757d7e0b6cc6f7f81cbf5b2a3b0abc:facebook:
+  spec:
+    title: คำนวณผ่อนบ้าน & รีไฟแนนซ์ เทียบให้เห็นว่าย้ายแล้วคุ้มจริงไหม [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/home-loan-refinance
+  state:
+    id: '100746876247412_1101708722818369'
+    url: https://www.facebook.com/100683012920950/posts/1101708722818369
+fd757d7e0b6cc6f7f81cbf5b2a3b0abc:mastodon:
+  spec:
+    title: คำนวณผ่อนบ้าน & รีไฟแนนซ์ เทียบให้เห็นว่าย้ายแล้วคุ้มจริงไหม [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/home-loan-refinance
+  state:
+    id: '117443842400297329'
+    url: https://mastodon.in.th/@webring/117443842400297329
+fd757d7e0b6cc6f7f81cbf5b2a3b0abc:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/home-loan-refinance
+  state:
+    shortLink: https://link.webring.in.th/3520
 fd91f4e0655993f578f0bf1f2c0e7e0b:bluesky:
   spec:
     title: มาลองปรับ Code .NET(REST API) เดิมเป็น MCP Server [debuggingsoft.com]
