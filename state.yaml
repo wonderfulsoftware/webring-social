@@ -43713,6 +43713,32 @@ c25a1751edc8f9642937cb00ebca5982:shorturl:
     url: https://garden.narze.live/Data-Sci-Bootcamp/Building-a-Second-Brain/
   state:
     shortLink: https://webring.page.link/RXsQ
+c266157e819f543a78c9b49e6af70ed7:bluesky:
+  spec:
+    title: มาลองใช้งาน Excalidraw CLI กัน [somkiat.cc]
+    url: https://www.somkiat.cc/excalidraw-cli/
+  state:
+    cid: bafyreict4zf3lbkhjnlgmuj2tz64cuge636stahcqidqocnrvb5t5gm7ke
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxwpzri55r2v
+c266157e819f543a78c9b49e6af70ed7:facebook:
+  spec:
+    title: มาลองใช้งาน Excalidraw CLI กัน [somkiat.cc]
+    url: https://www.somkiat.cc/excalidraw-cli/
+  state:
+    id: '100746876247412_1102200559435852'
+    url: https://www.facebook.com/100683012920950/posts/1102200559435852
+c266157e819f543a78c9b49e6af70ed7:mastodon:
+  spec:
+    title: มาลองใช้งาน Excalidraw CLI กัน [somkiat.cc]
+    url: https://www.somkiat.cc/excalidraw-cli/
+  state:
+    id: '117446417932481813'
+    url: https://mastodon.in.th/@webring/117446417932481813
+c266157e819f543a78c9b49e6af70ed7:shorturl:
+  spec:
+    url: https://www.somkiat.cc/excalidraw-cli/
+  state:
+    shortLink: https://link.webring.in.th/3522
 c276846281c0172f02adfb254f8ea128:facebook:
   spec:
     title: Jam [jitrak.dev]
