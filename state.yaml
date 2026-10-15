@@ -44374,6 +44374,32 @@ c58de564980edc168d8f2d81e566b9b0:shorturl:
     url: https://www.somkiat.cc/software-development-2024/
   state:
     shortLink: https://link.webring.in.th/1792
+c5c7198bd447e206b9d30e633c976b73:bluesky:
+  spec:
+    title: อ่างกา เส้นทางสั้นในป่าดงดิบเขาบนดอยอินทนนท์ [myifew.com]
+    url: https://myifew.com/8581/%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b2-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%b1%e0%b9%89%e0%b8%99%e0%b9%83%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2/
+  state:
+    cid: bafyreibphghocw7ob6ciktwdvd2k7s7korli5ju5qhn5jzslm4driy5crm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxw7dvrk3227
+c5c7198bd447e206b9d30e633c976b73:facebook:
+  spec:
+    title: อ่างกา เส้นทางสั้นในป่าดงดิบเขาบนดอยอินทนนท์ [myifew.com]
+    url: https://myifew.com/8581/%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b2-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%b1%e0%b9%89%e0%b8%99%e0%b9%83%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2/
+  state:
+    id: '100746876247412_1101970679458840'
+    url: https://www.facebook.com/100683012920950/posts/1101970679458840
+c5c7198bd447e206b9d30e633c976b73:mastodon:
+  spec:
+    title: อ่างกา เส้นทางสั้นในป่าดงดิบเขาบนดอยอินทนนท์ [myifew.com]
+    url: https://myifew.com/8581/%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b2-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%b1%e0%b9%89%e0%b8%99%e0%b9%83%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2/
+  state:
+    id: '117445243644285955'
+    url: https://mastodon.in.th/@webring/117445243644285955
+c5c7198bd447e206b9d30e633c976b73:shorturl:
+  spec:
+    url: https://myifew.com/8581/%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b2-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%b1%e0%b9%89%e0%b8%99%e0%b9%83%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2/
+  state:
+    shortLink: https://link.webring.in.th/3521
 c600cc4e7554cf1b59ed8c065e390abf:facebook:
   spec:
     title: Outward Mindset คืออะไร มาทำความรู้จักกัน [mikkipastel.com]
