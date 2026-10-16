@@ -7881,6 +7881,32 @@
     url: https://blog.ninprd.com/blog/ways-to-leave-wordpress-1/
   state:
     shortLink: https://link.webring.in.th/2238
+2303c677affbab0b0d00b4bc77055c86:bluesky:
+  spec:
+    title: Building a Reliable Medallion Pipeline with Traffy Fondue, BigQuery, and Apache Iceberg [mesodiar.com]
+    url: https://mesodiar.com/2026/10/15/building-a-reliable-medallion-pipeline-with-traffy-fondue-bigquery-and-apache-iceberg/
+  state:
+    cid: bafyreiav2nwm3qb4iikww3cxszi22qpojoenxfs723bs3k7uiedapnmxum
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxypbj2rwe23
+2303c677affbab0b0d00b4bc77055c86:facebook:
+  spec:
+    title: Building a Reliable Medallion Pipeline with Traffy Fondue, BigQuery, and Apache Iceberg [mesodiar.com]
+    url: https://mesodiar.com/2026/10/15/building-a-reliable-medallion-pipeline-with-traffy-fondue-bigquery-and-apache-iceberg/
+  state:
+    id: '100746876247412_1102931882696053'
+    url: https://www.facebook.com/100683012920950/posts/1102931882696053
+2303c677affbab0b0d00b4bc77055c86:mastodon:
+  spec:
+    title: Building a Reliable Medallion Pipeline with Traffy Fondue, BigQuery, and Apache Iceberg [mesodiar.com]
+    url: https://mesodiar.com/2026/10/15/building-a-reliable-medallion-pipeline-with-traffy-fondue-bigquery-and-apache-iceberg/
+  state:
+    id: '117450868067332496'
+    url: https://mastodon.in.th/@webring/117450868067332496
+2303c677affbab0b0d00b4bc77055c86:shorturl:
+  spec:
+    url: https://mesodiar.com/2026/10/15/building-a-reliable-medallion-pipeline-with-traffy-fondue-bigquery-and-apache-iceberg/
+  state:
+    shortLink: https://link.webring.in.th/3524
 2303ff01189774dc861779de87f3dfc9:facebook:
   spec:
     title: iPhone เครื่องร้อน ? ลองเปลี่ยนค่ายสัญญาณมือถือดูสิ [blog.kpping.me]
