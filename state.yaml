@@ -16404,6 +16404,32 @@
     url: https://mymoneytoolkit.app/posts/port-usa
   state:
     shortLink: https://link.webring.in.th/2239
+4acb659331decdce242f9595f5ba1dce:bluesky:
+  spec:
+    title: Book Highlights - ALIEN Thinking by Cyril Bouquet, Jean-Louis Barsoux, Michael Wade [karnwong.me]
+    url: https://karnwong.me/posts/2026/10/book-highlights---alien-thinking-by-cyril-bouquet-jean-louis-barsoux-michael-wade/
+  state:
+    cid: bafyreicvbqsji6o6ppovppvvxk2x4foy4gqizhpy5wflqgtljgsjvikz4a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mxy3ivtbjj2o
+4acb659331decdce242f9595f5ba1dce:facebook:
+  spec:
+    title: Book Highlights - ALIEN Thinking by Cyril Bouquet, Jean-Louis Barsoux, Michael Wade [karnwong.me]
+    url: https://karnwong.me/posts/2026/10/book-highlights---alien-thinking-by-cyril-bouquet-jean-louis-barsoux-michael-wade/
+  state:
+    id: '100746876247412_1102675619388346'
+    url: https://www.facebook.com/100683012920950/posts/1102675619388346
+4acb659331decdce242f9595f5ba1dce:mastodon:
+  spec:
+    title: Book Highlights - ALIEN Thinking by Cyril Bouquet, Jean-Louis Barsoux, Michael Wade [karnwong.me]
+    url: https://karnwong.me/posts/2026/10/book-highlights---alien-thinking-by-cyril-bouquet-jean-louis-barsoux-michael-wade/
+  state:
+    id: '117449477165290308'
+    url: https://mastodon.in.th/@webring/117449477165290308
+4acb659331decdce242f9595f5ba1dce:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/10/book-highlights---alien-thinking-by-cyril-bouquet-jean-louis-barsoux-michael-wade/
+  state:
+    shortLink: https://link.webring.in.th/3523
 4ad32db0cb1d77c6aba8586c002c5d31:bluesky:
   spec:
     title: สรุปงาน FOSSASIA 2026 Community Day [debuggingsoft.com]
