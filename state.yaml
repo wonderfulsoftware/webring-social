@@ -56025,6 +56025,32 @@ f983090657bf76d67279f2827b24b9b8:shorturl:
     url: https://myifew.com/6575/khao-leam-closed/
   state:
     shortLink: https://link.webring.in.th/2091
+f98d03fc92141070cbd56e9019c58750:bluesky:
+  spec:
+    title: สร้าง Whiteboard ด้วย Claude Code [chakkritton.com]
+    url: https://chakkritton.com/projects/whiteboard-with-claude-code
+  state:
+    cid: bafyreihkoikx75yplzn5dc7s7bnsypdyjpvivtm6mzpj4iiuzl5aqb7m3m
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3my2kq4vxjj25
+f98d03fc92141070cbd56e9019c58750:facebook:
+  spec:
+    title: สร้าง Whiteboard ด้วย Claude Code [chakkritton.com]
+    url: https://chakkritton.com/projects/whiteboard-with-claude-code
+  state:
+    id: '100746876247412_1103620809293827'
+    url: https://www.facebook.com/100683012920950/posts/1103620809293827
+f98d03fc92141070cbd56e9019c58750:mastodon:
+  spec:
+    title: สร้าง Whiteboard ด้วย Claude Code [chakkritton.com]
+    url: https://chakkritton.com/projects/whiteboard-with-claude-code
+  state:
+    id: '117455051819814242'
+    url: https://mastodon.in.th/@webring/117455051819814242
+f98d03fc92141070cbd56e9019c58750:shorturl:
+  spec:
+    url: https://chakkritton.com/projects/whiteboard-with-claude-code
+  state:
+    shortLink: https://link.webring.in.th/3525
 f98e852599842fc5400e4daddd9f1cfb:facebook:
   spec:
     title: ลองสร้าง Project Laravel ใส่ใน Nginx ใน Docker [kajame.xyz]
