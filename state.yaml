@@ -41195,6 +41195,32 @@ b61651d425ce5c71f40c5920a62b8748:shorturl:
     url: https://notes.dt.in.th/GristDockerCompose
   state:
     shortLink: https://link.webring.in.th/2548
+b64bfb924deefbc8e1e0dc65818732a5:bluesky:
+  spec:
+    title: 9Router คืออะไร? รวม Claude Code, Codex และ AI ฟรีไว้ endpoint เดียว ให้โค้ดต่อได้ไม่สะดุด [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/9router-ai-router-claude-code-codex-guide
+  state:
+    cid: bafyreigdblxkjlcmyqdz5xrmedoge5lc7gbbtcccjk46ojsaivzrrwjwpu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3my3n6cwtgr25
+b64bfb924deefbc8e1e0dc65818732a5:facebook:
+  spec:
+    title: 9Router คืออะไร? รวม Claude Code, Codex และ AI ฟรีไว้ endpoint เดียว ให้โค้ดต่อได้ไม่สะดุด [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/9router-ai-router-claude-code-codex-guide
+  state:
+    id: '100746876247412_1104076699248238'
+    url: https://www.facebook.com/100683012920950/posts/1104076699248238
+b64bfb924deefbc8e1e0dc65818732a5:mastodon:
+  spec:
+    title: 9Router คืออะไร? รวม Claude Code, Codex และ AI ฟรีไว้ endpoint เดียว ให้โค้ดต่อได้ไม่สะดุด [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/9router-ai-router-claude-code-codex-guide
+  state:
+    id: '117457475700435998'
+    url: https://mastodon.in.th/@webring/117457475700435998
+b64bfb924deefbc8e1e0dc65818732a5:shorturl:
+  spec:
+    url: https://creaml4tt3.me/blogs/9router-ai-router-claude-code-codex-guide
+  state:
+    shortLink: https://link.webring.in.th/3527
 b64cd664815e1e0173d6c8ba59e3940b:bluesky:
   spec:
     title: API Gateway คืออะไร ทำงานอย่างไรในระบบใหญ่ [poolsawat.com]
