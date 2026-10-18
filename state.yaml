@@ -51944,6 +51944,32 @@ e80eb92dca2ac81ed848aea0444a1294:shorturl:
     url: https://www.somkiat.cc/google-chrome-show-memory-in-tab/
   state:
     shortLink: https://webring.page.link/nwK7
+e80f8133220f9a422d7ba5e82c5056a8:bluesky:
+  spec:
+    title: 0264 | run nemotron-3.5-bolt on dgx spark [icez.net]
+    url: https://www.icez.net/blog/167578/0264-run-nemotron-3-5-bolt-on-dgx-spark
+  state:
+    cid: bafyreibjlwed7uqmcnqfuvujttbifnmsaovo56qnaqalsaxgo447dchvfe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3my53za44b62k
+e80f8133220f9a422d7ba5e82c5056a8:facebook:
+  spec:
+    title: 0264 | run nemotron-3.5-bolt on dgx spark [icez.net]
+    url: https://www.icez.net/blog/167578/0264-run-nemotron-3-5-bolt-on-dgx-spark
+  state:
+    id: '100746876247412_1104595889196319'
+    url: https://www.facebook.com/100683012920950/posts/1104595889196319
+e80f8133220f9a422d7ba5e82c5056a8:mastodon:
+  spec:
+    title: 0264 | run nemotron-3.5-bolt on dgx spark [icez.net]
+    url: https://www.icez.net/blog/167578/0264-run-nemotron-3-5-bolt-on-dgx-spark
+  state:
+    id: '117460771739032199'
+    url: https://mastodon.in.th/@webring/117460771739032199
+e80f8133220f9a422d7ba5e82c5056a8:shorturl:
+  spec:
+    url: https://www.icez.net/blog/167578/0264-run-nemotron-3-5-bolt-on-dgx-spark
+  state:
+    shortLink: https://link.webring.in.th/3528
 e81d17c548fd029d7bbfaab1faee9d94:facebook:
   spec:
     title: '[CR] Starbucks Truffle Mixed Mushroom Bun (อาหารเจ) [debuggingsoft.com]'
