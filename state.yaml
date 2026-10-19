@@ -9539,6 +9539,18 @@
     url: https://www.icez.net/blog/167560/0262-freeipa-add-replica-stuck-at-no-status-yet
   state:
     shortLink: https://link.webring.in.th/2412
+29fb121bcb3435b478c5ad91323403ec:bluesky:
+  spec:
+    title: เดือนนี้รูดบัตรไปกับอะไรบ้าง ลองโยน e-Statement ให้เว็บช่วยดู [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/credit-statement
+  state:
+    cid: bafyreicu4kkmmxjleqq5psnp54nvtbvfbc2znigpbhi5jkko2gowtve37e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3my7oszs2om2r
+29fb121bcb3435b478c5ad91323403ec:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/credit-statement
+  state:
+    shortLink: https://link.webring.in.th/3530
 2a070226061fe63312601a6c7163b94a:facebook:
   spec:
     title: ตัวอย่างการใช้งาน Coordinated Restore at Checkpoint (CRaC) ใน Spring Boot [somkiat.cc]
@@ -29501,6 +29513,25 @@
     url: https://natdanai.me/tohoku-japan/
   state:
     shortLink: https://webring.page.link/1WYq
+8281c3b0e686c24049403836502bded8:facebook:
+  spec:
+    title: AWS Graviton ทักครับ 👋 [pepo.dev]
+    url: https://pepo.dev/?blog=aws-graviton-%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A
+  state:
+    id: '100746876247412_1105578512431390'
+    url: https://www.facebook.com/100683012920950/posts/1105578512431390
+8281c3b0e686c24049403836502bded8:mastodon:
+  spec:
+    title: AWS Graviton ทักครับ 👋 [pepo.dev]
+    url: https://pepo.dev/?blog=aws-graviton-%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A
+  state:
+    id: '117466598874306497'
+    url: https://mastodon.in.th/@webring/117466598874306497
+8281c3b0e686c24049403836502bded8:shorturl:
+  spec:
+    url: https://pepo.dev/?blog=aws-graviton-%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A
+  state:
+    shortLink: https://link.webring.in.th/3529
 8288e9991ebe4cc401bc354d973fb9c8:facebook:
   spec:
     title: Starbucks Reward 2024 [debuggingsoft.com]
