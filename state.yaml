@@ -9546,6 +9546,20 @@
   state:
     cid: bafyreicu4kkmmxjleqq5psnp54nvtbvfbc2znigpbhi5jkko2gowtve37e
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3my7oszs2om2r
+29fb121bcb3435b478c5ad91323403ec:facebook:
+  spec:
+    title: เดือนนี้รูดบัตรไปกับอะไรบ้าง ลองโยน e-Statement ให้เว็บช่วยดู [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/credit-statement
+  state:
+    id: '100746876247412_1105931609062747'
+    url: https://www.facebook.com/100683012920950/posts/1105931609062747
+29fb121bcb3435b478c5ad91323403ec:mastodon:
+  spec:
+    title: เดือนนี้รูดบัตรไปกับอะไรบ้าง ลองโยน e-Statement ให้เว็บช่วยดู [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/credit-statement
+  state:
+    id: '117468421723843589'
+    url: https://mastodon.in.th/@webring/117468421723843589
 29fb121bcb3435b478c5ad91323403ec:shorturl:
   spec:
     url: https://mymoneytoolkit.app/posts/credit-statement
@@ -55357,6 +55371,18 @@ f6492c8ca77ec344376d31d969bca5f6:shorturl:
     url: https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-2
   state:
     shortLink: https://link.webring.in.th/3255
+f664860eaae4652316461fa641137ce4:bluesky:
+  spec:
+    title: จดๆ จาก LINE Thailand Developer Conference 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/recap-line-dev-conf2026/
+  state:
+    cid: bafyreicfwiqmnzc73mff2xgfvme3dz7g6b57treqt44lahdrnrwees2uw4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myaipwumvo22
+f664860eaae4652316461fa641137ce4:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/10/recap-line-dev-conf2026/
+  state:
+    shortLink: https://link.webring.in.th/3531
 f676551db628b290c52d86d90135a62c:facebook:
   spec:
     title: 'Tips :: การจัดการ tab ใน web browser ด้วย Cypress [somkiat.cc]'
