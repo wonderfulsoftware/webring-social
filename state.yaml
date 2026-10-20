@@ -942,6 +942,20 @@
   state:
     cid: bafyreidi76wztf2hv3tq2d7kct4n55yep5fax7xz6bwp2fhx5zxzimasoy
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myc6fn3fnq23
+048caf9b1b201971ae3de3f536a24318:facebook:
+  spec:
+    title: 'Musing: คำตอบไม่สำคัญเท่ากับการเลือก [yothinix.com]'
+    url: https://yothinix.com/choosing-over-answers/
+  state:
+    id: '100746876247412_1106782145644360'
+    url: https://www.facebook.com/100683012920950/posts/1106782145644360
+048caf9b1b201971ae3de3f536a24318:mastodon:
+  spec:
+    title: 'Musing: คำตอบไม่สำคัญเท่ากับการเลือก [yothinix.com]'
+    url: https://yothinix.com/choosing-over-answers/
+  state:
+    id: '117473596446068496'
+    url: https://mastodon.in.th/@webring/117473596446068496
 048caf9b1b201971ae3de3f536a24318:shorturl:
   spec:
     url: https://yothinix.com/choosing-over-answers/
@@ -42003,6 +42017,18 @@ b98e8dcb1815c5ec5890e7643e49554e:shorturl:
     url: https://mikelopster.dev/posts/gemini-gio-2024/
   state:
     shortLink: https://link.webring.in.th/2004
+b9a0bc7ddd34ca2e7ad985573ffe5629:bluesky:
+  spec:
+    title: บันทึกรูปแบบของปัญหา context ที่ไม่ดี จากหนังสือ Context Engineering with DSPy [somkiat.cc]
+    url: https://www.somkiat.cc/problems-with-context-engineering/
+  state:
+    cid: bafyreibmtquyhy5w6bwtxzgnijvvsu3bzte24eharx7236wsazfu7drcqm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mycsb4ij6m2r
+b9a0bc7ddd34ca2e7ad985573ffe5629:shorturl:
+  spec:
+    url: https://www.somkiat.cc/problems-with-context-engineering/
+  state:
+    shortLink: https://link.webring.in.th/3533
 b9b45290fcb41676b384bf381e248d62:bluesky:
   spec:
     title: Recap 2025 [blog.oatto.dev]
