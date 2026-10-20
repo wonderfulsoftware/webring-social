@@ -42024,6 +42024,20 @@ b9a0bc7ddd34ca2e7ad985573ffe5629:bluesky:
   state:
     cid: bafyreibmtquyhy5w6bwtxzgnijvvsu3bzte24eharx7236wsazfu7drcqm
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mycsb4ij6m2r
+b9a0bc7ddd34ca2e7ad985573ffe5629:facebook:
+  spec:
+    title: บันทึกรูปแบบของปัญหา context ที่ไม่ดี จากหนังสือ Context Engineering with DSPy [somkiat.cc]
+    url: https://www.somkiat.cc/problems-with-context-engineering/
+  state:
+    id: '100746876247412_1107069558948952'
+    url: https://www.facebook.com/100683012920950/posts/1107069558948952
+b9a0bc7ddd34ca2e7ad985573ffe5629:mastodon:
+  spec:
+    title: บันทึกรูปแบบของปัญหา context ที่ไม่ดี จากหนังสือ Context Engineering with DSPy [somkiat.cc]
+    url: https://www.somkiat.cc/problems-with-context-engineering/
+  state:
+    id: '117474738732819395'
+    url: https://mastodon.in.th/@webring/117474738732819395
 b9a0bc7ddd34ca2e7ad985573ffe5629:shorturl:
   spec:
     url: https://www.somkiat.cc/problems-with-context-engineering/
