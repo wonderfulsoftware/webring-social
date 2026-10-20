@@ -935,6 +935,18 @@
     url: https://www.nuttdam.com/2023/12/improve-macbook-battery-life-with-aldente/
   state:
     shortLink: https://webring.page.link/fkFh
+048caf9b1b201971ae3de3f536a24318:bluesky:
+  spec:
+    title: 'Musing: คำตอบไม่สำคัญเท่ากับการเลือก [yothinix.com]'
+    url: https://yothinix.com/choosing-over-answers/
+  state:
+    cid: bafyreidi76wztf2hv3tq2d7kct4n55yep5fax7xz6bwp2fhx5zxzimasoy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myc6fn3fnq23
+048caf9b1b201971ae3de3f536a24318:shorturl:
+  spec:
+    url: https://yothinix.com/choosing-over-answers/
+  state:
+    shortLink: https://link.webring.in.th/3532
 049b55ed62933d057af490c406ed59de:facebook:
   spec:
     title: วิธีฟังดนตรีคลาสสิก ฉบับมือใหม่ [thammarith.dev]
@@ -17064,21 +17076,21 @@
     shortLink: https://link.webring.in.th/3015
 4cbe56403f63662204d1a23baa60614b:bluesky:
   spec:
-    title: '[Eng] Distributed Scheduler The Series: Episode 2 — Only One Leader [sujamess.com]'
+    title: '[Eng] Distributed Scheduler The Series: Episode 2 - Only One Leader [sujamess.com]'
     url: https://sujamess.com/blogs/20260129-distributed-scheduler-the-series-ep-2/
   state:
     cid: bafyreifq424shrunvginzmb4pwjmviazd6a5rjs5dynnkk4ihrs4jbo7ve
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mdmhkamprl2e
 4cbe56403f63662204d1a23baa60614b:facebook:
   spec:
-    title: '[Eng] Distributed Scheduler The Series: Episode 2 — Only One Leader [sujamess.com]'
+    title: '[Eng] Distributed Scheduler The Series: Episode 2 - Only One Leader [sujamess.com]'
     url: https://sujamess.com/blogs/20260129-distributed-scheduler-the-series-ep-2/
   state:
     id: '100746876247412_881277081528202'
     url: https://www.facebook.com/100683012920950/posts/881277081528202
 4cbe56403f63662204d1a23baa60614b:mastodon:
   spec:
-    title: '[Eng] Distributed Scheduler The Series: Episode 2 — Only One Leader [sujamess.com]'
+    title: '[Eng] Distributed Scheduler The Series: Episode 2 - Only One Leader [sujamess.com]'
     url: https://sujamess.com/blogs/20260129-distributed-scheduler-the-series-ep-2/
   state:
     id: '115982150655781615'
@@ -55378,6 +55390,20 @@ f664860eaae4652316461fa641137ce4:bluesky:
   state:
     cid: bafyreicfwiqmnzc73mff2xgfvme3dz7g6b57treqt44lahdrnrwees2uw4
     uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myaipwumvo22
+f664860eaae4652316461fa641137ce4:facebook:
+  spec:
+    title: จดๆ จาก LINE Thailand Developer Conference 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/recap-line-dev-conf2026/
+  state:
+    id: '100746876247412_1106529372336304'
+    url: https://www.facebook.com/100683012920950/posts/1106529372336304
+f664860eaae4652316461fa641137ce4:mastodon:
+  spec:
+    title: จดๆ จาก LINE Thailand Developer Conference 2026 [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/recap-line-dev-conf2026/
+  state:
+    id: '117472199014740243'
+    url: https://mastodon.in.th/@webring/117472199014740243
 f664860eaae4652316461fa641137ce4:shorturl:
   spec:
     url: https://naiwaen.debuggingsoft.com/2026/10/recap-line-dev-conf2026/
