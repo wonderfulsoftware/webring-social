@@ -39973,6 +39973,32 @@ af5589be6a6f90180f773f56c6c85e44:shorturl:
     url: https://www.somkiat.cc/try-agent-browser-cli/
   state:
     shortLink: https://link.webring.in.th/2959
+af63f36fd2cb8596eb617a5d759c0d48:bluesky:
+  spec:
+    title: 'Doi Luang Tak: Leaves, Leeches, Pines, and Blisters [tantatorn.xyz]'
+    url: https://tantatorn.xyz/posts/doi-luang-tak/
+  state:
+    cid: bafyreieiszbqhq6c3ggufmkacaqslvec3s4rahr4ypfwnoeppfpng7aq54
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myfdm53rxc2k
+af63f36fd2cb8596eb617a5d759c0d48:facebook:
+  spec:
+    title: 'Doi Luang Tak: Leaves, Leeches, Pines, and Blisters [tantatorn.xyz]'
+    url: https://tantatorn.xyz/posts/doi-luang-tak/
+  state:
+    id: '100746876247412_1107826205539954'
+    url: https://www.facebook.com/100683012920950/posts/1107826205539954
+af63f36fd2cb8596eb617a5d759c0d48:mastodon:
+  spec:
+    title: 'Doi Luang Tak: Leaves, Leeches, Pines, and Blisters [tantatorn.xyz]'
+    url: https://tantatorn.xyz/posts/doi-luang-tak/
+  state:
+    id: '117479320513866630'
+    url: https://mastodon.in.th/@webring/117479320513866630
+af63f36fd2cb8596eb617a5d759c0d48:shorturl:
+  spec:
+    url: https://tantatorn.xyz/posts/doi-luang-tak/
+  state:
+    shortLink: https://link.webring.in.th/3535
 af8acbaa7ad240140beb5d34a0d4684b:bluesky:
   spec:
     title: Update Plan April 2026 [mymoneytoolkit.app]
