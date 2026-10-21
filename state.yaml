@@ -43528,6 +43528,32 @@ c0c28f1c3ec96fb77e0cbd4f46c0c575:shorturl:
     url: https://naiwaen.debuggingsoft.com/2026/06/ezygo-streamed-tapioca-balls-with-pork-filling/
   state:
     shortLink: https://link.webring.in.th/3253
+c0cca12bc2bbda9ef2e4c646e12db07d:bluesky:
+  spec:
+    title: Homelab virtual machine management gui roundup [karnwong.me]
+    url: https://karnwong.me/posts/2026/10/homelab-virtual-machine-management-gui-roundup/
+  state:
+    cid: bafyreido4zp7qgoqd54tp5guqiq7gdjqiqji5c3hohevcrpq2l2qnnn4va
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myep6fjp462k
+c0cca12bc2bbda9ef2e4c646e12db07d:facebook:
+  spec:
+    title: Homelab virtual machine management gui roundup [karnwong.me]
+    url: https://karnwong.me/posts/2026/10/homelab-virtual-machine-management-gui-roundup/
+  state:
+    id: '100746876247412_1107552232234018'
+    url: https://www.facebook.com/100683012920950/posts/1107552232234018
+c0cca12bc2bbda9ef2e4c646e12db07d:mastodon:
+  spec:
+    title: Homelab virtual machine management gui roundup [karnwong.me]
+    url: https://karnwong.me/posts/2026/10/homelab-virtual-machine-management-gui-roundup/
+  state:
+    id: '117477882130328665'
+    url: https://mastodon.in.th/@webring/117477882130328665
+c0cca12bc2bbda9ef2e4c646e12db07d:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/10/homelab-virtual-machine-management-gui-roundup/
+  state:
+    shortLink: https://link.webring.in.th/3534
 c0f4d46f03201013e89536d1d847c99a:facebook:
   spec:
     title: HTML in JSX/TSX [debuggingsoft.com]
