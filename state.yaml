@@ -22734,6 +22734,32 @@
     url: https://dt.in.th/FirebaseHostingGitHubActionsDeploy
   state:
     shortLink: https://link.webring.in.th/3311
+650c3becb0b91e946ff18cff16a13da7:bluesky:
+  spec:
+    title: 'เดินป่าหน้าหนาวในป่าร้อนชื้น: 6 เทคนิคสำหรับเส้นทางเมืองไทย [myifew.com]'
+    url: https://myifew.com/8586/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b8%b2%e0%b8%a7%e0%b9%83%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%a3%e0%b9%89/
+  state:
+    cid: bafyreihifgdqf6bo5x52sszy5bs2csexdn2ebvzqcxj56dtctnio4eadhe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myftnhhkgv2l
+650c3becb0b91e946ff18cff16a13da7:facebook:
+  spec:
+    title: 'เดินป่าหน้าหนาวในป่าร้อนชื้น: 6 เทคนิคสำหรับเส้นทางเมืองไทย [myifew.com]'
+    url: https://myifew.com/8586/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b8%b2%e0%b8%a7%e0%b9%83%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%a3%e0%b9%89/
+  state:
+    id: '100746876247412_1108037545518820'
+    url: https://www.facebook.com/100683012920950/posts/1108037545518820
+650c3becb0b91e946ff18cff16a13da7:mastodon:
+  spec:
+    title: 'เดินป่าหน้าหนาวในป่าร้อนชื้น: 6 เทคนิคสำหรับเส้นทางเมืองไทย [myifew.com]'
+    url: https://myifew.com/8586/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b8%b2%e0%b8%a7%e0%b9%83%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%a3%e0%b9%89/
+  state:
+    id: '117480449006276308'
+    url: https://mastodon.in.th/@webring/117480449006276308
+650c3becb0b91e946ff18cff16a13da7:shorturl:
+  spec:
+    url: https://myifew.com/8586/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b8%b2%e0%b8%a7%e0%b9%83%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%a3%e0%b9%89/
+  state:
+    shortLink: https://link.webring.in.th/3536
 6511f557bf914c75c6c13283b5239352:bluesky:
   spec:
     title: Gobuster คืออะไร? ใช่ขบวนการจารชน โกบัสเตอร์ ป่ะ [evanrintho.buzz]
