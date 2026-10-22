@@ -23139,6 +23139,32 @@
     url: https://www.karnwong.me/posts/2023/03/secretops-with-teller/
   state:
     shortLink: https://webring.page.link/yJDS
+66986fb810cbe8486b466b3a07e86f33:bluesky:
+  spec:
+    title: Flashy new things aren't always the answer [karnwong.me]
+    url: https://karnwong.me/posts/2026/10/flashy-new-things-arent-always-the-answer/
+  state:
+    cid: bafyreicy75p2vtznbnazi2luku6mijok4ngkt7jqoecmsvvurvke6bx6um
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myidvoga5x2u
+66986fb810cbe8486b466b3a07e86f33:facebook:
+  spec:
+    title: Flashy new things aren't always the answer [karnwong.me]
+    url: https://karnwong.me/posts/2026/10/flashy-new-things-arent-always-the-answer/
+  state:
+    id: '100746876247412_1108964192092822'
+    url: https://www.facebook.com/100683012920950/posts/1108964192092822
+66986fb810cbe8486b466b3a07e86f33:mastodon:
+  spec:
+    title: Flashy new things aren't always the answer [karnwong.me]
+    url: https://karnwong.me/posts/2026/10/flashy-new-things-arent-always-the-answer/
+  state:
+    id: '117486096738974414'
+    url: https://mastodon.in.th/@webring/117486096738974414
+66986fb810cbe8486b466b3a07e86f33:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/10/flashy-new-things-arent-always-the-answer/
+  state:
+    shortLink: https://link.webring.in.th/3539
 66a745f2f3baa66074aae34ef1c88315:bluesky:
   spec:
     title: '[CR] Starbuck SnowBall Cookie [debuggingsoft.com]'
