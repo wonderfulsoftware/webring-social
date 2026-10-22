@@ -29925,6 +29925,32 @@
     url: https://www.somkiat.cc/langchain-1/
   state:
     shortLink: https://link.webring.in.th/2835
+836e6bcd587959ccfed043cd221e0769:bluesky:
+  spec:
+    title: Fixed .NET WEBAPI Error 524 + 403 When Call Local LLM Server behind Cloudflare Tunnel [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/fixed-net-webapi-error-524-403-when-call-local-llm-server-behind-cloudflare-tunnel/
+  state:
+    cid: bafyreigzhno5clz7jvk2yhacj72gtaav7jrxihziq6wdd43ro5om45lnyq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myhu2mpzqo2p
+836e6bcd587959ccfed043cd221e0769:facebook:
+  spec:
+    title: Fixed .NET WEBAPI Error 524 + 403 When Call Local LLM Server behind Cloudflare Tunnel [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/fixed-net-webapi-error-524-403-when-call-local-llm-server-behind-cloudflare-tunnel/
+  state:
+    id: '100746876247412_1108751668780741'
+    url: https://www.facebook.com/100683012920950/posts/1108751668780741
+836e6bcd587959ccfed043cd221e0769:mastodon:
+  spec:
+    title: Fixed .NET WEBAPI Error 524 + 403 When Call Local LLM Server behind Cloudflare Tunnel [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/fixed-net-webapi-error-524-403-when-call-local-llm-server-behind-cloudflare-tunnel/
+  state:
+    id: '117484981942212377'
+    url: https://mastodon.in.th/@webring/117484981942212377
+836e6bcd587959ccfed043cd221e0769:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/10/fixed-net-webapi-error-524-403-when-call-local-llm-server-behind-cloudflare-tunnel/
+  state:
+    shortLink: https://link.webring.in.th/3538
 839384dd4c1a9c237f8984ea146a698e:facebook:
   spec:
     title: รู้ยัง Notion มีส่วนลดจาก Credit อยู่นะ [debuggingsoft.com]
