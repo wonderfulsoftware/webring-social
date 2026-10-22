@@ -13131,6 +13131,32 @@
     url: https://jetsukda.dev/posts/dealing-with-narcissistic-personality-disorder-npd/
   state:
     shortLink: https://link.webring.in.th/3277
+3af2a0dd3bc26f8d3a520f6d9b48028c:bluesky:
+  spec:
+    title: อัพเดตของใหม่ และเติมความรู้ด้วย AI ที่งาน งาน LINE DEV CONF 2026 [mikkipastel.com]
+    url: https://www.mikkipastel.com/line-thailand-developer-conference-2026/
+  state:
+    cid: bafyreids7qtsyyhhlpx5l3eud3kfvchcwafgnce4qbhetn7yqrp7d246lu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myh7pg3uvv2m
+3af2a0dd3bc26f8d3a520f6d9b48028c:facebook:
+  spec:
+    title: อัพเดตของใหม่ และเติมความรู้ด้วย AI ที่งาน งาน LINE DEV CONF 2026 [mikkipastel.com]
+    url: https://www.mikkipastel.com/line-thailand-developer-conference-2026/
+  state:
+    id: '100746876247412_1108490945473480'
+    url: https://www.facebook.com/100683012920950/posts/1108490945473480
+3af2a0dd3bc26f8d3a520f6d9b48028c:mastodon:
+  spec:
+    title: อัพเดตของใหม่ และเติมความรู้ด้วย AI ที่งาน งาน LINE DEV CONF 2026 [mikkipastel.com]
+    url: https://www.mikkipastel.com/line-thailand-developer-conference-2026/
+  state:
+    id: '117483549792789748'
+    url: https://mastodon.in.th/@webring/117483549792789748
+3af2a0dd3bc26f8d3a520f6d9b48028c:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/line-thailand-developer-conference-2026/
+  state:
+    shortLink: https://link.webring.in.th/3537
 3b0184741116daafd17265ad598f6814:facebook:
   spec:
     title: อย่าเพิ่งทำ ... ถ้ายังไม่ได้วิเคราะห์ 3C Analysis [mikkipastel.com]
