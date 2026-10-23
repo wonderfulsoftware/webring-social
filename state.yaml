@@ -41299,6 +41299,32 @@ b58861333f7ad21f88fab1e779565ae9:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/06/wordpress-super-page-cache-cloudflare-for-page-caching/
   state:
     shortLink: https://link.webring.in.th/2582
+b58cee4fdc7bd9706262d9d0acabb8fb:bluesky:
+  spec:
+    title: Gangprompting [dt.in.th]
+    url: https://dt.in.th/Gangprompting
+  state:
+    cid: bafyreihjztcqmd242vup7mv7marpq62fcnjvdcbkw7whhtvirnp6h2yblu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mykdlw2eeh2m
+b58cee4fdc7bd9706262d9d0acabb8fb:facebook:
+  spec:
+    title: Gangprompting [dt.in.th]
+    url: https://dt.in.th/Gangprompting
+  state:
+    id: '100746876247412_1109679582021283'
+    url: https://www.facebook.com/100683012920950/posts/1109679582021283
+b58cee4fdc7bd9706262d9d0acabb8fb:mastodon:
+  spec:
+    title: Gangprompting [dt.in.th]
+    url: https://dt.in.th/Gangprompting
+  state:
+    id: '117490578774826735'
+    url: https://mastodon.in.th/@webring/117490578774826735
+b58cee4fdc7bd9706262d9d0acabb8fb:shorturl:
+  spec:
+    url: https://dt.in.th/Gangprompting
+  state:
+    shortLink: https://link.webring.in.th/3541
 b5ac614d961bc9892e69930519a3d5c8:bluesky:
   spec:
     title: 'Data Sci Boot Camp Batch#11: Intro to Python [debuggingsoft.com]'
