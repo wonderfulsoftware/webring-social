@@ -22270,6 +22270,32 @@
     url: https://www.somkiat.cc/try-gonew/
   state:
     shortLink: https://webring.page.link/WSiA
+636d5e9082c54abcb9d9936f6afa6be8:bluesky:
+  spec:
+    title: 'อุทยานแห่งชาติขุนแจ ดอยลังกาหลวง: ทริปภูเขาสำหรับคนที่อยากเดินจริง [myifew.com]'
+    url: https://myifew.com/8588/%e0%b8%ad%e0%b8%b8%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%99%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4%e0%b8%82%e0%b8%b8%e0%b8%99%e0%b9%81%e0%b8%88-%e0%b8%94%e0%b8%ad%e0%b8%a2/
+  state:
+    cid: bafyreifnnclioyoicoqsnqze3wt62gw3cxiws3ln3zufsh3bcvg5gpypj4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myjpzq4tcd2o
+636d5e9082c54abcb9d9936f6afa6be8:facebook:
+  spec:
+    title: 'อุทยานแห่งชาติขุนแจ ดอยลังกาหลวง: ทริปภูเขาสำหรับคนที่อยากเดินจริง [myifew.com]'
+    url: https://myifew.com/8588/%e0%b8%ad%e0%b8%b8%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%99%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4%e0%b8%82%e0%b8%b8%e0%b8%99%e0%b9%81%e0%b8%88-%e0%b8%94%e0%b8%ad%e0%b8%a2/
+  state:
+    id: '100746876247412_1109433825379192'
+    url: https://www.facebook.com/100683012920950/posts/1109433825379192
+636d5e9082c54abcb9d9936f6afa6be8:mastodon:
+  spec:
+    title: 'อุทยานแห่งชาติขุนแจ ดอยลังกาหลวง: ทริปภูเขาสำหรับคนที่อยากเดินจริง [myifew.com]'
+    url: https://myifew.com/8588/%e0%b8%ad%e0%b8%b8%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%99%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4%e0%b8%82%e0%b8%b8%e0%b8%99%e0%b9%81%e0%b8%88-%e0%b8%94%e0%b8%ad%e0%b8%a2/
+  state:
+    id: '117489201751618581'
+    url: https://mastodon.in.th/@webring/117489201751618581
+636d5e9082c54abcb9d9936f6afa6be8:shorturl:
+  spec:
+    url: https://myifew.com/8588/%e0%b8%ad%e0%b8%b8%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%99%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4%e0%b8%82%e0%b8%b8%e0%b8%99%e0%b9%81%e0%b8%88-%e0%b8%94%e0%b8%ad%e0%b8%a2/
+  state:
+    shortLink: https://link.webring.in.th/3540
 6377ea2e3041a3c5d7b4986e1bd94f03:bluesky:
   spec:
     title: คำนวณแบ่งเงินลงทุนก้อน + DCA พร้อมดูผลตอบแทนแยกรายพอร์ต [mymoneytoolkit.app]
