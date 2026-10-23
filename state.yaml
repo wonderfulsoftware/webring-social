@@ -23615,6 +23615,32 @@
     url: https://www.somkiat.cc/ready-with-spring-boot-3/
   state:
     shortLink: https://webring.page.link/C5E9
+690be09e18c01463f86bac328305f3e1:bluesky:
+  spec:
+    title: Use YubiKey instead of fingerprint auth on Linux [karnwong.me]
+    url: https://karnwong.me/posts/2026/10/use-yubikey-instead-of-fingerprint-auth-on-linux/
+  state:
+    cid: bafyreibonhklqxtmz2lfxzh3ynhhgr2v2destpekpc27o6hnptlxm55hbe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myktrrbnvn2u
+690be09e18c01463f86bac328305f3e1:facebook:
+  spec:
+    title: Use YubiKey instead of fingerprint auth on Linux [karnwong.me]
+    url: https://karnwong.me/posts/2026/10/use-yubikey-instead-of-fingerprint-auth-on-linux/
+  state:
+    id: '100746876247412_1109901571999084'
+    url: https://www.facebook.com/100683012920950/posts/1109901571999084
+690be09e18c01463f86bac328305f3e1:mastodon:
+  spec:
+    title: Use YubiKey instead of fingerprint auth on Linux [karnwong.me]
+    url: https://karnwong.me/posts/2026/10/use-yubikey-instead-of-fingerprint-auth-on-linux/
+  state:
+    id: '117491717791494873'
+    url: https://mastodon.in.th/@webring/117491717791494873
+690be09e18c01463f86bac328305f3e1:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/10/use-yubikey-instead-of-fingerprint-auth-on-linux/
+  state:
+    shortLink: https://link.webring.in.th/3542
 691a66acd76a353486aa16b6da45cc5e:facebook:
   spec:
     title: Drawing low resolution monochrome text with freetype-wasm [dt.in.th]
