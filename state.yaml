@@ -37169,6 +37169,32 @@ a4114be50d07186666621c45b61322f3:shorturl:
     url: https://pontakorn.dev/posts/introduction-to-elysia/
   state:
     shortLink: https://link.webring.in.th/2211
+a44a76f74ee31ceedaf4e5917246a57e:bluesky:
+  spec:
+    title: PHP2Shell-mitigation [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/php2shell-mitigation/
+  state:
+    cid: bafyreie6ygyvmkztegtvfyutpp3kxpyggueghbusfxcx3eoqd53vqorrca
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mym7crkvrd2c
+a44a76f74ee31ceedaf4e5917246a57e:facebook:
+  spec:
+    title: PHP2Shell-mitigation [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/php2shell-mitigation/
+  state:
+    id: '100746876247412_1110357411953500'
+    url: https://www.facebook.com/100683012920950/posts/1110357411953500
+a44a76f74ee31ceedaf4e5917246a57e:mastodon:
+  spec:
+    title: PHP2Shell-mitigation [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/php2shell-mitigation/
+  state:
+    id: '117494780873448466'
+    url: https://mastodon.in.th/@webring/117494780873448466
+a44a76f74ee31ceedaf4e5917246a57e:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/10/php2shell-mitigation/
+  state:
+    shortLink: https://link.webring.in.th/3543
 a44c41ad243cfa047948159d3ca67f03:facebook:
   spec:
     title: ทำความรู้จักกับ Grafana Alloy [somkiat.cc]
