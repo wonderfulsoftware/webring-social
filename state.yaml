@@ -34912,6 +34912,32 @@
     url: https://myifew.com/7660/aigle-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b9%81%e0%b8%9a%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1%e0%b9%80%e0%b8%a3%e0%b8%b4%e0%b9%88-2/
   state:
     shortLink: https://link.webring.in.th/3230
+98f46ce275be3277317d121f985e53fc:bluesky:
+  spec:
+    title: SSD Scope for Mac [chakkritton.com]
+    url: https://chakkritton.com/projects/ssd-scope-for-mac
+  state:
+    cid: bafyreig65hevg7hmubpj3hznolsodj6srdan5chtuekestkz4hrzrpglyu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mymqtayzht2j
+98f46ce275be3277317d121f985e53fc:facebook:
+  spec:
+    title: SSD Scope for Mac [chakkritton.com]
+    url: https://chakkritton.com/projects/ssd-scope-for-mac
+  state:
+    id: '100746876247412_1110575038598404'
+    url: https://www.facebook.com/100683012920950/posts/1110575038598404
+98f46ce275be3277317d121f985e53fc:mastodon:
+  spec:
+    title: SSD Scope for Mac [chakkritton.com]
+    url: https://chakkritton.com/projects/ssd-scope-for-mac
+  state:
+    id: '117496013459340338'
+    url: https://mastodon.in.th/@webring/117496013459340338
+98f46ce275be3277317d121f985e53fc:shorturl:
+  spec:
+    url: https://chakkritton.com/projects/ssd-scope-for-mac
+  state:
+    shortLink: https://link.webring.in.th/3544
 98ffa3d5a897d91dbc03e853dd42d888:facebook:
   spec:
     title: สร้างวงจร XOR จาก NAND เพียงแค่สี่ตัว [neizod.dev]
