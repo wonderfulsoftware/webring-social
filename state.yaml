@@ -48889,6 +48889,32 @@ d6a35221f6cfb34ebfb9500385db369c:shorturl:
     url: https://notes.dt.in.th/20230321T132222Z8523
   state:
     shortLink: https://webring.page.link/mK2W
+d6adea631662ec5ced74fd1c833e3970:bluesky:
+  spec:
+    title: Google Workspace MCP ขึ้น The caller does not have permission? สาเหตุและวิธีแก้ใน Claude Code [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/google-workspace-mcp-caller-does-not-have-permission-fix
+  state:
+    cid: bafyreiczy4af4qhomqsyyarl4t6wllr4gv6346wmaxbzwcy232rcqe5vsq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mynanmcl7s2k
+d6adea631662ec5ced74fd1c833e3970:facebook:
+  spec:
+    title: Google Workspace MCP ขึ้น The caller does not have permission? สาเหตุและวิธีแก้ใน Claude Code [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/google-workspace-mcp-caller-does-not-have-permission-fix
+  state:
+    id: '100746876247412_1110799585242616'
+    url: https://www.facebook.com/100683012920950/posts/1110799585242616
+d6adea631662ec5ced74fd1c833e3970:mastodon:
+  spec:
+    title: Google Workspace MCP ขึ้น The caller does not have permission? สาเหตุและวิธีแก้ใน Claude Code [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/google-workspace-mcp-caller-does-not-have-permission-fix
+  state:
+    id: '117497126989332034'
+    url: https://mastodon.in.th/@webring/117497126989332034
+d6adea631662ec5ced74fd1c833e3970:shorturl:
+  spec:
+    url: https://creaml4tt3.me/blogs/google-workspace-mcp-caller-does-not-have-permission-fix
+  state:
+    shortLink: https://link.webring.in.th/3545
 d6bae60a5f48c31eeae767affbecd98b:facebook:
   spec:
     title: บันทึกหลังดู Live QA Meetup @LSEG [debuggingsoft.com]
