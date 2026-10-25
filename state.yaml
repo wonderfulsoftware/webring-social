@@ -2062,6 +2062,32 @@
     url: https://karnwong.me/posts/2025/06/using-nix-for-ci-but-with-a-twist/
   state:
     shortLink: https://link.webring.in.th/2597
+09335fbe7cc8bd57796c9b887055e16b:bluesky:
+  spec:
+    title: จดบันทึกการอ่านเรื่อง How the Claude Code team does code review [somkiat.cc]
+    url: https://www.somkiat.cc/note-how-the-claude-code-team-does-code-review/
+  state:
+    cid: bafyreih435immomigwgttkw24eju7jitmikpnm6ujshoe7cv7prr7n2t4i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mypryw5v232b
+09335fbe7cc8bd57796c9b887055e16b:facebook:
+  spec:
+    title: จดบันทึกการอ่านเรื่อง How the Claude Code team does code review [somkiat.cc]
+    url: https://www.somkiat.cc/note-how-the-claude-code-team-does-code-review/
+  state:
+    id: '100746876247412_1111765178479390'
+    url: https://www.facebook.com/100683012920950/posts/1111765178479390
+09335fbe7cc8bd57796c9b887055e16b:mastodon:
+  spec:
+    title: จดบันทึกการอ่านเรื่อง How the Claude Code team does code review [somkiat.cc]
+    url: https://www.somkiat.cc/note-how-the-claude-code-team-does-code-review/
+  state:
+    id: '117502851808340127'
+    url: https://mastodon.in.th/@webring/117502851808340127
+09335fbe7cc8bd57796c9b887055e16b:shorturl:
+  spec:
+    url: https://www.somkiat.cc/note-how-the-claude-code-team-does-code-review/
+  state:
+    shortLink: https://link.webring.in.th/3548
 09504cd8c4b528117f7d8bb268d788f5:facebook:
   spec:
     title: '[AZURE] Recovery Service vault cannot be deleted as there are backup items still present in soft delete state [debuggingsoft.com]'
