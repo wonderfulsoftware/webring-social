@@ -42862,6 +42862,32 @@ bca893ae59f7cd56ce766c9810aa0067:shorturl:
     url: https://naiwaen.debuggingsoft.com/2025/06/cr-sai-izakaza-tepanyaki-karaage-chicken-buffet-set/
   state:
     shortLink: https://link.webring.in.th/2589
+bcd10f2f9a1cda42408406dc873552c8:bluesky:
+  spec:
+    title: 'Rebuilding GeoThai: From Reformatted Data to Checked Sources [fasu.dev]'
+    url: https://fasu.dev/writings/rebuilding-geothai-from-reformatted-data-to-checked-sources/
+  state:
+    cid: bafyreiaujnqh3claytl5w7ygw5t4stoalu3hlj366gf5k4om6dvxtfvwz4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myoqgghgpo2t
+bcd10f2f9a1cda42408406dc873552c8:facebook:
+  spec:
+    title: 'Rebuilding GeoThai: From Reformatted Data to Checked Sources [fasu.dev]'
+    url: https://fasu.dev/writings/rebuilding-geothai-from-reformatted-data-to-checked-sources/
+  state:
+    id: '100746876247412_1111319851857256'
+    url: https://www.facebook.com/100683012920950/posts/1111319851857256
+bcd10f2f9a1cda42408406dc873552c8:mastodon:
+  spec:
+    title: 'Rebuilding GeoThai: From Reformatted Data to Checked Sources [fasu.dev]'
+    url: https://fasu.dev/writings/rebuilding-geothai-from-reformatted-data-to-checked-sources/
+  state:
+    id: '117500488836822170'
+    url: https://mastodon.in.th/@webring/117500488836822170
+bcd10f2f9a1cda42408406dc873552c8:shorturl:
+  spec:
+    url: https://fasu.dev/writings/rebuilding-geothai-from-reformatted-data-to-checked-sources/
+  state:
+    shortLink: https://link.webring.in.th/3546
 bcd6fea4f538587ba93d9e1fb9769674:facebook:
   spec:
     title: Deploy Spring-Boot Application to Kubernetes(Minikube) with Jenkins CI/CD Pipeline [janescience.com]
