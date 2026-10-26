@@ -8487,6 +8487,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/11/how-to-fixed-a-huge-sc-user_paged-1-etl-in-appdata-local-temp-pw/
   state:
     shortLink: https://link.webring.in.th/2232
+25035746034170dc8ef97f5cfbfcc349:bluesky:
+  spec:
+    title: สร้าง Skill ให้ AI ทำงานซ้ำได้ ด้วยพรอมป์ต์เดียว [blog.oatto.dev]
+    url: https://blog.oatto.dev/2026/10/24/create-ai-skill-with-prompt.html
+  state:
+    cid: bafyreifaxviabh4jd7zijuc5csmngxmlse6xafridavmwzdwwndwqziowe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mys2px4bj325
+25035746034170dc8ef97f5cfbfcc349:facebook:
+  spec:
+    title: สร้าง Skill ให้ AI ทำงานซ้ำได้ ด้วยพรอมป์ต์เดียว [blog.oatto.dev]
+    url: https://blog.oatto.dev/2026/10/24/create-ai-skill-with-prompt.html
+  state:
+    id: '100746876247412_1112630578392850'
+    url: https://www.facebook.com/100683012920950/posts/1112630578392850
+25035746034170dc8ef97f5cfbfcc349:mastodon:
+  spec:
+    title: สร้าง Skill ให้ AI ทำงานซ้ำได้ ด้วยพรอมป์ต์เดียว [blog.oatto.dev]
+    url: https://blog.oatto.dev/2026/10/24/create-ai-skill-with-prompt.html
+  state:
+    id: '117507968794783052'
+    url: https://mastodon.in.th/@webring/117507968794783052
+25035746034170dc8ef97f5cfbfcc349:shorturl:
+  spec:
+    url: https://blog.oatto.dev/2026/10/24/create-ai-skill-with-prompt.html
+  state:
+    shortLink: https://link.webring.in.th/3550
 25299c261bfdca63a248d3c2d6f83d89:bluesky:
   spec:
     title: พีระมิดการเงิน 5 ชั้น เช็คว่าตอนนี้เรายืนอยู่ชั้นไหน [mymoneytoolkit.app]
