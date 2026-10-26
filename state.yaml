@@ -30588,6 +30588,32 @@
     url: https://xiengperm.dev/posts/building-lao-karaoke-en/
   state:
     shortLink: https://link.webring.in.th/3391
+854324e317bd48ca76a2fd3d9bd74019:bluesky:
+  spec:
+    title: Polite Compaction for Claude Code [dt.in.th]
+    url: https://dt.in.th/ClaudeCodePoliteCompaction
+  state:
+    cid: bafyreicsswdta4bswzjyha3ojveholy2ekhflror3jp74msh5hkypp5m5a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myrc46ngoa25
+854324e317bd48ca76a2fd3d9bd74019:facebook:
+  spec:
+    title: Polite Compaction for Claude Code [dt.in.th]
+    url: https://dt.in.th/ClaudeCodePoliteCompaction
+  state:
+    id: '100746876247412_1112301835092391'
+    url: https://www.facebook.com/100683012920950/posts/1112301835092391
+854324e317bd48ca76a2fd3d9bd74019:mastodon:
+  spec:
+    title: Polite Compaction for Claude Code [dt.in.th]
+    url: https://dt.in.th/ClaudeCodePoliteCompaction
+  state:
+    id: '117506236707392959'
+    url: https://mastodon.in.th/@webring/117506236707392959
+854324e317bd48ca76a2fd3d9bd74019:shorturl:
+  spec:
+    url: https://dt.in.th/ClaudeCodePoliteCompaction
+  state:
+    shortLink: https://link.webring.in.th/3549
 857ae34cca990010e7d961fdf61ac9eb:facebook:
   spec:
     title: รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 6 (Product Backlog Refinement) [taoisaman.com]
