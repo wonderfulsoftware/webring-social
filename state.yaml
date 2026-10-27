@@ -3220,6 +3220,32 @@
     url: https://yuttakhanb.dev/posts/figma-mcp-writeup/
   state:
     shortLink: https://link.webring.in.th/2657
+0e3141dd28fbf5ff9e94ed6f4406f86e:bluesky:
+  spec:
+    title: 'อัปเดตแพลนตัง จัดการประกัน: ดูได้แล้วว่าเงินประกันจะไปถึงใคร [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/insurance-planner-v2
+  state:
+    cid: bafyreic7iuzafykxyv2hh6gkhpi5d3ovtloiw3kdbabmxgtmnu3qffid7u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myuizv4lf42q
+0e3141dd28fbf5ff9e94ed6f4406f86e:facebook:
+  spec:
+    title: 'อัปเดตแพลนตัง จัดการประกัน: ดูได้แล้วว่าเงินประกันจะไปถึงใคร [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/insurance-planner-v2
+  state:
+    id: '100746876247412_1113564831632758'
+    url: https://www.facebook.com/100683012920950/posts/1113564831632758
+0e3141dd28fbf5ff9e94ed6f4406f86e:mastodon:
+  spec:
+    title: 'อัปเดตแพลนตัง จัดการประกัน: ดูได้แล้วว่าเงินประกันจะไปถึงใคร [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/insurance-planner-v2
+  state:
+    id: '117513479291964117'
+    url: https://mastodon.in.th/@webring/117513479291964117
+0e3141dd28fbf5ff9e94ed6f4406f86e:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/insurance-planner-v2
+  state:
+    shortLink: https://link.webring.in.th/3552
 0e388ea16fb1db74316abada3f748f65:bluesky:
   spec:
     title: บันทึกการติดตั้ง n8n ใน queue mode และแยก task runner ออกมา [somkiat.cc]
