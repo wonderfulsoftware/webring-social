@@ -30685,6 +30685,32 @@
     url: https://www.mikkipastel.com/how-to-setup-github-pages/
   state:
     shortLink: https://link.webring.in.th/2618
+858d14920041ed96279de9e96d9e7dc5:bluesky:
+  spec:
+    title: จดๆจาก Ray Summit 2026 Recap [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/ray-summit-2026-recap/
+  state:
+    cid: bafyreiduypwlp6yr32fyjpt4zhxjqrn55zghwi4afcjan3i4goxsnpsh3e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mytt772luq2t
+858d14920041ed96279de9e96d9e7dc5:facebook:
+  spec:
+    title: จดๆจาก Ray Summit 2026 Recap [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/ray-summit-2026-recap/
+  state:
+    id: '100746876247412_1113267088329199'
+    url: https://www.facebook.com/100683012920950/posts/1113267088329199
+858d14920041ed96279de9e96d9e7dc5:mastodon:
+  spec:
+    title: จดๆจาก Ray Summit 2026 Recap [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/10/ray-summit-2026-recap/
+  state:
+    id: '117511943292701452'
+    url: https://mastodon.in.th/@webring/117511943292701452
+858d14920041ed96279de9e96d9e7dc5:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/10/ray-summit-2026-recap/
+  state:
+    shortLink: https://link.webring.in.th/3551
 85b43e35253e0beea75bbd34d83cdb13:facebook:
   spec:
     title: Pair programming [jitrak.dev]
