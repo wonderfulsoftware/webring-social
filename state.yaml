@@ -25318,6 +25318,32 @@
     url: https://yuttakhanb.dev/posts/mcp-overview-cursor/
   state:
     shortLink: https://link.webring.in.th/2586
+705921b3975a84e92936461bdbbe7b02:bluesky:
+  spec:
+    title: ลองใช้งาน Apple’s Foundation Models CLI (FM) บน MacOS 27.2 (Golden Gate) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-apples-foundation-models-cli-on-macos27/
+  state:
+    cid: bafyreid7kds5gt63heijaryu3sinecgjljnvdkxrkw35qzznrspwyyswzy
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myxckhvnix2l
+705921b3975a84e92936461bdbbe7b02:facebook:
+  spec:
+    title: ลองใช้งาน Apple’s Foundation Models CLI (FM) บน MacOS 27.2 (Golden Gate) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-apples-foundation-models-cli-on-macos27/
+  state:
+    id: '100746876247412_1114725051516736'
+    url: https://www.facebook.com/100683012920950/posts/1114725051516736
+705921b3975a84e92936461bdbbe7b02:mastodon:
+  spec:
+    title: ลองใช้งาน Apple’s Foundation Models CLI (FM) บน MacOS 27.2 (Golden Gate) [somkiat.cc]
+    url: https://www.somkiat.cc/hello-apples-foundation-models-cli-on-macos27/
+  state:
+    id: '117519778711605944'
+    url: https://mastodon.in.th/@webring/117519778711605944
+705921b3975a84e92936461bdbbe7b02:shorturl:
+  spec:
+    url: https://www.somkiat.cc/hello-apples-foundation-models-cli-on-macos27/
+  state:
+    shortLink: https://link.webring.in.th/3554
 705d3959f69b2a1e2c1902173cf9a239:facebook:
   spec:
     title: ทวิภาวะ จุด-เส้นตรง [neizod.dev]
