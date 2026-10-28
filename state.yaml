@@ -51891,6 +51891,32 @@ e45e8be966d95d303e1a0c525d2c09af:shorturl:
     url: https://tech.duckfollow.co/view/sql
   state:
     shortLink: https://webring.page.link/M4Uz
+e48f264a8636a9bacf41f74b8df0745e:bluesky:
+  spec:
+    title: 'Power Walk ด้วย Trekking Poles: 7 เทคนิคเดินให้เป็นจังหวะ ตั้งแต่ทางราบถึงทางชัน [myifew.com]'
+    url: https://myifew.com/8594/power-walk-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-trekking-poles-7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80/
+  state:
+    cid: bafyreihwrvbxpoq7hjdqvxiwkn4p3rngifqe2ygq2e53w36qlj4r62lhtq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mywfu3r4cn2t
+e48f264a8636a9bacf41f74b8df0745e:facebook:
+  spec:
+    title: 'Power Walk ด้วย Trekking Poles: 7 เทคนิคเดินให้เป็นจังหวะ ตั้งแต่ทางราบถึงทางชัน [myifew.com]'
+    url: https://myifew.com/8594/power-walk-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-trekking-poles-7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80/
+  state:
+    id: '100746876247412_1114304131558828'
+    url: https://www.facebook.com/100683012920950/posts/1114304131558828
+e48f264a8636a9bacf41f74b8df0745e:mastodon:
+  spec:
+    title: 'Power Walk ด้วย Trekking Poles: 7 เทคนิคเดินให้เป็นจังหวะ ตั้งแต่ทางราบถึงทางชัน [myifew.com]'
+    url: https://myifew.com/8594/power-walk-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-trekking-poles-7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80/
+  state:
+    id: '117517758599276215'
+    url: https://mastodon.in.th/@webring/117517758599276215
+e48f264a8636a9bacf41f74b8df0745e:shorturl:
+  spec:
+    url: https://myifew.com/8594/power-walk-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-trekking-poles-7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80/
+  state:
+    shortLink: https://link.webring.in.th/3553
 e49f6f8d26b8955ae3937a9c3158ac0e:facebook:
   spec:
     title: Illustration - ルシア👒龍の年 [lucian.solutions]
