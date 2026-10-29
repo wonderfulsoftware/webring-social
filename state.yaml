@@ -33936,6 +33936,32 @@
     url: https://tech.duckfollow.co/view/jwt
   state:
     shortLink: https://webring.page.link/sRtU
+933d298c402e5177470c277091fdf591:bluesky:
+  spec:
+    title: 'CVE-2026-111497: What the Brotli Bug Means for .NET Developers [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/10/cve-2026-111497-what-the-brotli-bug-means-for-net-developers/
+  state:
+    cid: bafyreifbowrx2zkvoqrcr4sebnu7ogt3uwsuqihpdur7mspfvfucl4ynye
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myztg3466q2w
+933d298c402e5177470c277091fdf591:facebook:
+  spec:
+    title: 'CVE-2026-111497: What the Brotli Bug Means for .NET Developers [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/10/cve-2026-111497-what-the-brotli-bug-means-for-net-developers/
+  state:
+    id: '100746876247412_1115743228081585'
+    url: https://www.facebook.com/100683012920950/posts/1115743228081585
+933d298c402e5177470c277091fdf591:mastodon:
+  spec:
+    title: 'CVE-2026-111497: What the Brotli Bug Means for .NET Developers [debuggingsoft.com]'
+    url: https://naiwaen.debuggingsoft.com/2026/10/cve-2026-111497-what-the-brotli-bug-means-for-net-developers/
+  state:
+    id: '117525468914628339'
+    url: https://mastodon.in.th/@webring/117525468914628339
+933d298c402e5177470c277091fdf591:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/10/cve-2026-111497-what-the-brotli-bug-means-for-net-developers/
+  state:
+    shortLink: https://link.webring.in.th/3556
 9343909305fd9a055e4dca6bec1972e3:bluesky:
   spec:
     title: Password isn't enough to protect your laptop [karnwong.me]
