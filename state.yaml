@@ -34599,6 +34599,32 @@
     url: https://myifew.com/8414/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%a3%e0%b9%88%e0%b8%a1%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2-ultralight/
   state:
     shortLink: https://link.webring.in.th/3390
+95c1b13c22c00b7b464391cc0a89da3f:bluesky:
+  spec:
+    title: 'ระบบสำคัญกว่าเป้าหมาย: มุมมองของเดฟคนหนึ่ง [amiearth.com]'
+    url: https://amiearth.com/blog/systems-over-goals-dev
+  state:
+    cid: bafyreid7brj7hxu24do7ma4nn4noyu6q5mj2wq4ac3k7t7qgymtlhw7674
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3myywc75vto2b
+95c1b13c22c00b7b464391cc0a89da3f:facebook:
+  spec:
+    title: 'ระบบสำคัญกว่าเป้าหมาย: มุมมองของเดฟคนหนึ่ง [amiearth.com]'
+    url: https://amiearth.com/blog/systems-over-goals-dev
+  state:
+    id: '100746876247412_1115322711456970'
+    url: https://www.facebook.com/100683012920950/posts/1115322711456970
+95c1b13c22c00b7b464391cc0a89da3f:mastodon:
+  spec:
+    title: 'ระบบสำคัญกว่าเป้าหมาย: มุมมองของเดฟคนหนึ่ง [amiearth.com]'
+    url: https://amiearth.com/blog/systems-over-goals-dev
+  state:
+    id: '117523419839276407'
+    url: https://mastodon.in.th/@webring/117523419839276407
+95c1b13c22c00b7b464391cc0a89da3f:shorturl:
+  spec:
+    url: https://amiearth.com/blog/systems-over-goals-dev
+  state:
+    shortLink: https://link.webring.in.th/3555
 95c607d5cda0d42e196addf990606921:facebook:
   spec:
     title: Illustration - Dress Ako [lucian.solutions]
