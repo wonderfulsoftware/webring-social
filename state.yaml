@@ -18800,6 +18800,32 @@
     url: https://jetsukda.dev/posts/july-2026-reflection/
   state:
     shortLink: https://link.webring.in.th/3370
+54568d5d9d8fba03e1eb089f638b596c:bluesky:
+  spec:
+    title: Vibe coding เร็วจริง แต่ขาดอะไรไปบ้าง [amiearth.com]
+    url: https://amiearth.com/blog/vibe-coding-tradeoffs
+  state:
+    cid: bafyreig5obs5pa6ugkggrpemvaw5pbuuvggv3krwzflkstvvyadhmkrrsq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mz4cv62mkx2t
+54568d5d9d8fba03e1eb089f638b596c:facebook:
+  spec:
+    title: Vibe coding เร็วจริง แต่ขาดอะไรไปบ้าง [amiearth.com]
+    url: https://amiearth.com/blog/vibe-coding-tradeoffs
+  state:
+    id: '100746876247412_1116751507980757'
+    url: https://www.facebook.com/100683012920950/posts/1116751507980757
+54568d5d9d8fba03e1eb089f638b596c:mastodon:
+  spec:
+    title: Vibe coding เร็วจริง แต่ขาดอะไรไปบ้าง [amiearth.com]
+    url: https://amiearth.com/blog/vibe-coding-tradeoffs
+  state:
+    id: '117531061290573407'
+    url: https://mastodon.in.th/@webring/117531061290573407
+54568d5d9d8fba03e1eb089f638b596c:shorturl:
+  spec:
+    url: https://amiearth.com/blog/vibe-coding-tradeoffs
+  state:
+    shortLink: https://link.webring.in.th/3558
 548724e6cfce6784aed85cc426c5df88:bluesky:
   spec:
     title: ลองใช้งาน Gemini-cli เล่น ๆ [somkiat.cc]
