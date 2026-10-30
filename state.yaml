@@ -42286,6 +42286,32 @@ b878507b32358ac312da8df6c23db94c:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/11/c-return-multiple-values-from-method/
   state:
     shortLink: https://webring.page.link/VJVk
+b88d5068aa66650fa5e98021bbb528a8:bluesky:
+  spec:
+    title: คำถามที่น่าสนใจ ทดสอบก็เยอะนะ แต่ทำไมยังมี bug อีก !! [somkiat.cc]
+    url: https://www.somkiat.cc/more-tests-more-bugs/
+  state:
+    cid: bafyreibkxyjfhjxkkihkt2ntx6u3er73wxls7l7hducpncsuak6mlmwteq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mz3hhzywbe22
+b88d5068aa66650fa5e98021bbb528a8:facebook:
+  spec:
+    title: คำถามที่น่าสนใจ ทดสอบก็เยอะนะ แต่ทำไมยังมี bug อีก !! [somkiat.cc]
+    url: https://www.somkiat.cc/more-tests-more-bugs/
+  state:
+    id: '100746876247412_1116355468020361'
+    url: https://www.facebook.com/100683012920950/posts/1116355468020361
+b88d5068aa66650fa5e98021bbb528a8:mastodon:
+  spec:
+    title: คำถามที่น่าสนใจ ทดสอบก็เยอะนะ แต่ทำไมยังมี bug อีก !! [somkiat.cc]
+    url: https://www.somkiat.cc/more-tests-more-bugs/
+  state:
+    id: '117529132598579773'
+    url: https://mastodon.in.th/@webring/117529132598579773
+b88d5068aa66650fa5e98021bbb528a8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/more-tests-more-bugs/
+  state:
+    shortLink: https://link.webring.in.th/3557
 b8b3e22bc05f0ee8b6fc3cebad82d187:facebook:
   spec:
     title: 'Book highlights - Managing Transitions: Making the Most of Change by William Bridges [karnwong.me]'
