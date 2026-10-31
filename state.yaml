@@ -4224,6 +4224,32 @@
     url: https://naiwaen.debuggingsoft.com/2026/07/how-to-delete-lines-containing-a-specific-pattern-in-notepad/
   state:
     shortLink: https://link.webring.in.th/3322
+126661faed367b3f5b720cc3c5a95d2d:bluesky:
+  spec:
+    title: 'เงียบเป็นวินัย: Solo Recharge ของคนที่แชทไม่เคยหยุดเด้ง [amiearth.com]'
+    url: https://amiearth.com/blog/solo-recharge-silence
+  state:
+    cid: bafyreiahgzmcs4tqkynl564vhnxnlvhmbbycnk6um4btmcmx2rr2ochboa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mz6qadou6b25
+126661faed367b3f5b720cc3c5a95d2d:facebook:
+  spec:
+    title: 'เงียบเป็นวินัย: Solo Recharge ของคนที่แชทไม่เคยหยุดเด้ง [amiearth.com]'
+    url: https://amiearth.com/blog/solo-recharge-silence
+  state:
+    id: '100746876247412_1117721751217066'
+    url: https://www.facebook.com/100683012920950/posts/1117721751217066
+126661faed367b3f5b720cc3c5a95d2d:mastodon:
+  spec:
+    title: 'เงียบเป็นวินัย: Solo Recharge ของคนที่แชทไม่เคยหยุดเด้ง [amiearth.com]'
+    url: https://amiearth.com/blog/solo-recharge-silence
+  state:
+    id: '117536504359417366'
+    url: https://mastodon.in.th/@webring/117536504359417366
+126661faed367b3f5b720cc3c5a95d2d:shorturl:
+  spec:
+    url: https://amiearth.com/blog/solo-recharge-silence
+  state:
+    shortLink: https://link.webring.in.th/3560
 128bc6ef435d47031e0f7afcf0a245ad:facebook:
   spec:
     title: Web Test Runner ใน Angular 17.1 [somkiat.cc]
