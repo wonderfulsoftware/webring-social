@@ -16458,6 +16458,32 @@
     url: https://myifew.com/7479/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c-%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa-2/
   state:
     shortLink: https://link.webring.in.th/3096
+4a161e6440cb359d177d5321a318ed25:bluesky:
+  spec:
+    title: โพยการสร้าง widget ในแอพ Android ฉบับ 101 [mikkipastel.com]
+    url: https://www.mikkipastel.com/android-widget-101/
+  state:
+    cid: bafyreibmovvk5di2rssdgfe4jcrogqgdfo2qllgcr5s2x72h2toqdvng6u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzakabrxds2l
+4a161e6440cb359d177d5321a318ed25:facebook:
+  spec:
+    title: โพยการสร้าง widget ในแอพ Android ฉบับ 101 [mikkipastel.com]
+    url: https://www.mikkipastel.com/android-widget-101/
+  state:
+    id: '100746876247412_1118424351146806'
+    url: https://www.facebook.com/100683012920950/posts/1118424351146806
+4a161e6440cb359d177d5321a318ed25:mastodon:
+  spec:
+    title: โพยการสร้าง widget ในแอพ Android ฉบับ 101 [mikkipastel.com]
+    url: https://www.mikkipastel.com/android-widget-101/
+  state:
+    id: '117540585667401005'
+    url: https://mastodon.in.th/@webring/117540585667401005
+4a161e6440cb359d177d5321a318ed25:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/android-widget-101/
+  state:
+    shortLink: https://link.webring.in.th/3561
 4a1eae93004543cecb46f5fb9a7b73d2:facebook:
   spec:
     title: เปิดใช้งาน Navigating files with the new code view (beta) ใน GitHub [somkiat.cc]
