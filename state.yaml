@@ -49492,6 +49492,32 @@ d7da4007cf50c2241e883d47ccf641db:shorturl:
     url: https://www.somkiat.cc/try-dep-tree/
   state:
     shortLink: https://link.webring.in.th/2071
+d840a949443c64b07f16ebf098c10092:bluesky:
+  spec:
+    title: '[Playwright Bug] Firefox fails บน MacOS 27 [somkiat.cc]'
+    url: https://www.somkiat.cc/playwright-bug-firefox-macos-27/
+  state:
+    cid: bafyreidsmvovkngnt22xpqigar4cuisnyg3ya6od2oeh222cg4hdqo3csu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzd4amly4l2k
+d840a949443c64b07f16ebf098c10092:facebook:
+  spec:
+    title: '[Playwright Bug] Firefox fails บน MacOS 27 [somkiat.cc]'
+    url: https://www.somkiat.cc/playwright-bug-firefox-macos-27/
+  state:
+    id: '100746876247412_1119462054376369'
+    url: https://www.facebook.com/100683012920950/posts/1119462054376369
+d840a949443c64b07f16ebf098c10092:mastodon:
+  spec:
+    title: '[Playwright Bug] Firefox fails บน MacOS 27 [somkiat.cc]'
+    url: https://www.somkiat.cc/playwright-bug-firefox-macos-27/
+  state:
+    id: '117546356543404250'
+    url: https://mastodon.in.th/@webring/117546356543404250
+d840a949443c64b07f16ebf098c10092:shorturl:
+  spec:
+    url: https://www.somkiat.cc/playwright-bug-firefox-macos-27/
+  state:
+    shortLink: https://link.webring.in.th/3563
 d85ce0ec2c2743ecfd4725860ef139b7:bluesky:
   spec:
     title: 'Recap: Lead Engineer Meetup 02 (English Ver) [debuggingsoft.com]'
