@@ -40628,6 +40628,32 @@ b0154bf4b6145a5f744da63d8bdc712b:shorturl:
     url: https://naiwaen.debuggingsoft.com/2024/02/vba-convert-excel-to-pipe-delimited-file/
   state:
     shortLink: https://link.webring.in.th/1752
+b024eb7a9f9095b36cc5697ae44f9254:bluesky:
+  spec:
+    title: ทำ infinite scroll แบบ masonry ใน Next.js อย่างไร? ใช้ masonic กับ cursor pagination [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/nextjs-infinite-masonry-feed-masonic
+  state:
+    cid: bafyreihdkucwrkb5rjq4gl6r3edwv2uufwivvujg3p7vjetl6kr5q3ddfq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzealbwybq2w
+b024eb7a9f9095b36cc5697ae44f9254:facebook:
+  spec:
+    title: ทำ infinite scroll แบบ masonry ใน Next.js อย่างไร? ใช้ masonic กับ cursor pagination [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/nextjs-infinite-masonry-feed-masonic
+  state:
+    id: '100746876247412_1119942950994946'
+    url: https://www.facebook.com/100683012920950/posts/1119942950994946
+b024eb7a9f9095b36cc5697ae44f9254:mastodon:
+  spec:
+    title: ทำ infinite scroll แบบ masonry ใน Next.js อย่างไร? ใช้ masonic กับ cursor pagination [creaml4tt3.me]
+    url: https://creaml4tt3.me/blogs/nextjs-infinite-masonry-feed-masonic
+  state:
+    id: '117548913034772532'
+    url: https://mastodon.in.th/@webring/117548913034772532
+b024eb7a9f9095b36cc5697ae44f9254:shorturl:
+  spec:
+    url: https://creaml4tt3.me/blogs/nextjs-infinite-masonry-feed-masonic
+  state:
+    shortLink: https://link.webring.in.th/3564
 b04cbec960689f27fac77cb0b818acb6:bluesky:
   spec:
     title: การออกแบบ Database Schema ที่ดี (Normalization vs Denormalization) [poolsawat.com]
