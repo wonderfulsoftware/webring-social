@@ -35745,6 +35745,32 @@
     url: https://notes.dt.in.th/ResticBackup
   state:
     shortLink: https://webring.page.link/PkpM
+9b2cfc997e7108ec95626da8fe9c207b:bluesky:
+  spec:
+    title: โมเดลฉลาดขึ้นไม่สำคัญเท่าต้นทุนกับความเร็ว [amiearth.com]
+    url: https://amiearth.com/blog/intelligence-saturation-cost
+  state:
+    cid: bafyreibcjdctkusomf6sfioq3d77pzu6v6mc6y5dgtd4hbbuzjxajuu2zu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzfmlkwh752b
+9b2cfc997e7108ec95626da8fe9c207b:facebook:
+  spec:
+    title: โมเดลฉลาดขึ้นไม่สำคัญเท่าต้นทุนกับความเร็ว [amiearth.com]
+    url: https://amiearth.com/blog/intelligence-saturation-cost
+  state:
+    id: '100746876247412_1120445410944700'
+    url: https://www.facebook.com/100683012920950/posts/1120445410944700
+9b2cfc997e7108ec95626da8fe9c207b:mastodon:
+  spec:
+    title: โมเดลฉลาดขึ้นไม่สำคัญเท่าต้นทุนกับความเร็ว [amiearth.com]
+    url: https://amiearth.com/blog/intelligence-saturation-cost
+  state:
+    id: '117552010040834908'
+    url: https://mastodon.in.th/@webring/117552010040834908
+9b2cfc997e7108ec95626da8fe9c207b:shorturl:
+  spec:
+    url: https://amiearth.com/blog/intelligence-saturation-cost
+  state:
+    shortLink: https://link.webring.in.th/3565
 9b43f1d10bf579283018a0e835cb1c71:bluesky:
   spec:
     title: งูๆ ปลาๆ กับ Context Engineering เพื่อทำระบบคิดราคาซูชิ (Kaiten Share Calculator) [myifew.com]
