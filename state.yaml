@@ -53335,6 +53335,32 @@ ea7d88ef6a14ef0e18dd121fd1bd5743:shorturl:
     url: https://www.mikkipastel.com/how-to-get-transaction-from-contract-to-google-sheet/
   state:
     shortLink: https://webring.page.link/wKQo
+ea873c54a5ec9992b5fcf22d83df8934:bluesky:
+  spec:
+    title: Remove Active Session in Cloudflare Zero Trust [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/11/remove-active-session-in-cloudflare-zero-trust/
+  state:
+    cid: bafyreifkruxs7kexrvut3zzfqs5owwg4dl7zwyr6wg2jaxhbye2us5g64a
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzgjanwsww2f
+ea873c54a5ec9992b5fcf22d83df8934:facebook:
+  spec:
+    title: Remove Active Session in Cloudflare Zero Trust [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/11/remove-active-session-in-cloudflare-zero-trust/
+  state:
+    id: '100746876247412_1120849907570917'
+    url: https://www.facebook.com/100683012920950/posts/1120849907570917
+ea873c54a5ec9992b5fcf22d83df8934:mastodon:
+  spec:
+    title: Remove Active Session in Cloudflare Zero Trust [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/11/remove-active-session-in-cloudflare-zero-trust/
+  state:
+    id: '117554026897460412'
+    url: https://mastodon.in.th/@webring/117554026897460412
+ea873c54a5ec9992b5fcf22d83df8934:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/11/remove-active-session-in-cloudflare-zero-trust/
+  state:
+    shortLink: https://link.webring.in.th/3566
 ea9638a9deb06fc8e202af81323651e5:facebook:
   spec:
     title: '[Write-up] Cyber Apocalypse 2023 - UnEarthly Shop (hard) [suam.wtf]'
