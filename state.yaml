@@ -14104,6 +14104,32 @@
     url: https://creaml4tt3.me/blogs/husky-lint-staged-git-commit
   state:
     shortLink: https://link.webring.in.th/3187
+3e5ff70c5443ef3acfd6b5eceb124fa7:bluesky:
+  spec:
+    title: รวมตลาด Agent Skills 2026 (ตอนนี้ขาย skill ได้แล้วด้วย) [xiengperm.dev]
+    url: https://xiengperm.dev/posts/agent-skills-marketplace-2026-th/
+  state:
+    cid: bafyreigtgdo6nsstsldjqesd7vx7uvgswagme7l35pk6ml7tep23zddv3i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzj2olyvvv2q
+3e5ff70c5443ef3acfd6b5eceb124fa7:facebook:
+  spec:
+    title: รวมตลาด Agent Skills 2026 (ตอนนี้ขาย skill ได้แล้วด้วย) [xiengperm.dev]
+    url: https://xiengperm.dev/posts/agent-skills-marketplace-2026-th/
+  state:
+    id: '100746876247412_1121890134133561'
+    url: https://www.facebook.com/100683012920950/posts/1121890134133561
+3e5ff70c5443ef3acfd6b5eceb124fa7:mastodon:
+  spec:
+    title: รวมตลาด Agent Skills 2026 (ตอนนี้ขาย skill ได้แล้วด้วย) [xiengperm.dev]
+    url: https://xiengperm.dev/posts/agent-skills-marketplace-2026-th/
+  state:
+    id: '117559757281970995'
+    url: https://mastodon.in.th/@webring/117559757281970995
+3e5ff70c5443ef3acfd6b5eceb124fa7:shorturl:
+  spec:
+    url: https://xiengperm.dev/posts/agent-skills-marketplace-2026-th/
+  state:
+    shortLink: https://link.webring.in.th/3568
 3e676cfc7124f5873f5313b016ce0c4b:bluesky:
   spec:
     title: สัปดาห์ที่ระบบเริ่มเข้าที่ พร้อมบทเรียนเรื่อง cron ซ้ำซ้อน — Weekly Reflection 11-17 พ.ค. 2026 [myifew.com]
