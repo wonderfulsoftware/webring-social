@@ -51412,6 +51412,32 @@ e18cfc332bd7a5ded1fa4da2e2404e8a:shorturl:
     url: https://karnwong.me/posts/2025/08/spatial-join-performance/
   state:
     shortLink: https://link.webring.in.th/2748
+e19777a25be8c66611509f10978997e2:bluesky:
+  spec:
+    title: Update Plan November 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-november-2026
+  state:
+    cid: bafyreianinz4olmu6v2hqmkq2la7zpdokt6khofiwlz5f7nda5uu2shaji
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzi4pefzay2l
+e19777a25be8c66611509f10978997e2:facebook:
+  spec:
+    title: Update Plan November 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-november-2026
+  state:
+    id: '100746876247412_1121457914176783'
+    url: https://www.facebook.com/100683012920950/posts/1121457914176783
+e19777a25be8c66611509f10978997e2:mastodon:
+  spec:
+    title: Update Plan November 2026 [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/update-plan-november-2026
+  state:
+    id: '117557647701208146'
+    url: https://mastodon.in.th/@webring/117557647701208146
+e19777a25be8c66611509f10978997e2:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/update-plan-november-2026
+  state:
+    shortLink: https://link.webring.in.th/3567
 e1ae883c5a0564449cbc55103b25f6e6:bluesky:
   spec:
     title: 'Markha Valley Trek, Ladakh: คู่มือเดินป่าหัวใจแห่งหิมาลัยในดินแดนทิเบตน้อย [myifew.com]'
