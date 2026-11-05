@@ -5768,6 +5768,32 @@
     url: https://www.somkiat.cc/ephemeral-environment/
   state:
     shortLink: https://webring.page.link/ETja
+199fa6555aa8f1638a0c1da9348790ee:bluesky:
+  spec:
+    title: chezmoi for Dotfiles Across Machines [jitrak.dev]
+    url: https://jitrak.dev/posts/post-46-chezmoi-for-dotfiles/
+  state:
+    cid: bafyreiejhiyto2bse2tu4ojxgcctas7e34lbd5yigjg7mbmbzgp2d2jlam
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzkmtbyk2o22
+199fa6555aa8f1638a0c1da9348790ee:facebook:
+  spec:
+    title: chezmoi for Dotfiles Across Machines [jitrak.dev]
+    url: https://jitrak.dev/posts/post-46-chezmoi-for-dotfiles/
+  state:
+    id: '100746876247412_1122519867403921'
+    url: https://www.facebook.com/100683012920950/posts/1122519867403921
+199fa6555aa8f1638a0c1da9348790ee:mastodon:
+  spec:
+    title: chezmoi for Dotfiles Across Machines [jitrak.dev]
+    url: https://jitrak.dev/posts/post-46-chezmoi-for-dotfiles/
+  state:
+    id: '117563286037041359'
+    url: https://mastodon.in.th/@webring/117563286037041359
+199fa6555aa8f1638a0c1da9348790ee:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-46-chezmoi-for-dotfiles/
+  state:
+    shortLink: https://link.webring.in.th/3569
 19aefa313679bcf102c4304681b87788:bluesky:
   spec:
     title: วันอาทิตย์ที่เงียบแต่ไม่เคยหยุดคิด 🌸 [myifew.com]
