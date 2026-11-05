@@ -43813,6 +43813,32 @@ be58e3aec3a9a98c2dea8cf7235004f8:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week12-observability-part1/
   state:
     shortLink: https://webring.page.link/t1mW
+bedae0f6b2c2a1d9d9c7ea7a5c0c8992:bluesky:
+  spec:
+    title: บันทึก CLF-C02 – AWS Certified Cloud Practitioner (AWS re/Start) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/11/note-aws-certified-cloud-practitioner-clf-c02/
+  state:
+    cid: bafyreihotytl5n7ygqr5r7ynth4fcovn2dhjdotuzmzdrfkxjczgrc6atu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzlli5h3il2j
+bedae0f6b2c2a1d9d9c7ea7a5c0c8992:facebook:
+  spec:
+    title: บันทึก CLF-C02 – AWS Certified Cloud Practitioner (AWS re/Start) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/11/note-aws-certified-cloud-practitioner-clf-c02/
+  state:
+    id: '100746876247412_1122966660692575'
+    url: https://www.facebook.com/100683012920950/posts/1122966660692575
+bedae0f6b2c2a1d9d9c7ea7a5c0c8992:mastodon:
+  spec:
+    title: บันทึก CLF-C02 – AWS Certified Cloud Practitioner (AWS re/Start) [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/11/note-aws-certified-cloud-practitioner-clf-c02/
+  state:
+    id: '117565443095938439'
+    url: https://mastodon.in.th/@webring/117565443095938439
+bedae0f6b2c2a1d9d9c7ea7a5c0c8992:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/11/note-aws-certified-cloud-practitioner-clf-c02/
+  state:
+    shortLink: https://link.webring.in.th/3570
 bee25d2a8fa53c90665536d699af12de:facebook:
   spec:
     title: เราอาจจะมี Inspiration แต่ยังขาด Motivation [blog.ninprd.com]
