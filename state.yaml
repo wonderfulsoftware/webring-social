@@ -42283,6 +42283,32 @@ b7a3782c4914148dba5e693b17fbdf87:shorturl:
     url: https://www.somkiat.cc/sharing-mobile-testing-with-appium/
   state:
     shortLink: https://webring.page.link/kMMf
+b7ba1729332e75afb93789e0f0cee1ed:bluesky:
+  spec:
+    title: Hello World in Astro [notpumpkins.dev]
+    url: https://notpumpkins.dev/blog/astro-hello
+  state:
+    cid: bafyreiencpp4hg7v2wqh6d46ohehxnltjvtsapsi4ubi62h2qlzyvhixeq
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzo22yceil2b
+b7ba1729332e75afb93789e0f0cee1ed:facebook:
+  spec:
+    title: Hello World in Astro [notpumpkins.dev]
+    url: https://notpumpkins.dev/blog/astro-hello
+  state:
+    id: '100746876247412_1124005413922033'
+    url: https://www.facebook.com/100683012920950/posts/1124005413922033
+b7ba1729332e75afb93789e0f0cee1ed:mastodon:
+  spec:
+    title: Hello World in Astro [notpumpkins.dev]
+    url: https://notpumpkins.dev/blog/astro-hello
+  state:
+    id: '117570973095641564'
+    url: https://mastodon.in.th/@webring/117570973095641564
+b7ba1729332e75afb93789e0f0cee1ed:shorturl:
+  spec:
+    url: https://notpumpkins.dev/blog/astro-hello
+  state:
+    shortLink: https://link.webring.in.th/3572
 b7cd4257f28368e01dc844359f908e30:bluesky:
   spec:
     title: '[Rust] ลดการใช้งาน memory ด้วยการเปลี่ยนจาก Vec<T> ไปเป็น Box<[T]> [somkiat.cc]'
