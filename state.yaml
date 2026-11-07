@@ -8868,6 +8868,32 @@
     url: https://naiwaen.debuggingsoft.com/2026/03/recap-live-thailand-claude-meetup-2026-03/
   state:
     shortLink: https://link.webring.in.th/3040
+25c2dce0d178fa0a291b308a95d07b73:bluesky:
+  spec:
+    title: Crunching numbers on GPU vs CPU [karnwong.me]
+    url: https://karnwong.me/posts/2026/11/crunching-numbers-on-gpu-vs-cpu/
+  state:
+    cid: bafyreihpay54i3jklk4ocdk3pep7qcqcbjh2m4z3crry3p7splc7mxurji
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzpljisgyg2b
+25c2dce0d178fa0a291b308a95d07b73:facebook:
+  spec:
+    title: Crunching numbers on GPU vs CPU [karnwong.me]
+    url: https://karnwong.me/posts/2026/11/crunching-numbers-on-gpu-vs-cpu/
+  state:
+    id: '100746876247412_1124623080526933'
+    url: https://www.facebook.com/100683012920950/posts/1124623080526933
+25c2dce0d178fa0a291b308a95d07b73:mastodon:
+  spec:
+    title: Crunching numbers on GPU vs CPU [karnwong.me]
+    url: https://karnwong.me/posts/2026/11/crunching-numbers-on-gpu-vs-cpu/
+  state:
+    id: '117574453136588315'
+    url: https://mastodon.in.th/@webring/117574453136588315
+25c2dce0d178fa0a291b308a95d07b73:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/11/crunching-numbers-on-gpu-vs-cpu/
+  state:
+    shortLink: https://link.webring.in.th/3573
 25f28999803442b11bb95b4769af74cb:bluesky:
   spec:
     title: จดๆจาก vLLM by mood @OpenCraft [debuggingsoft.com]
