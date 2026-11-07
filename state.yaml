@@ -40109,6 +40109,32 @@ adb06f3a0e3c54a444335d6e94e7f249:shorturl:
     url: https://www.mikkipastel.com/friends-of-figma-bangkok-conversation-design/
   state:
     shortLink: https://link.webring.in.th/2894
+adcc2ac95d01bfe8e20f926be9151e30:bluesky:
+  spec:
+    title: 'รีวิวรองเท้าเทรลเดินป่า 2026: 5 รุ่นเทียบสเปกสำหรับนักเดินทางไทย [myifew.com]'
+    url: https://myifew.com/8606/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%a5%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88/
+  state:
+    cid: bafyreiaoqdjrtzozn2eqrqbapc5wq4kypp6jjdty5coxhi4omtgkqnqpu4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzqfkielre2o
+adcc2ac95d01bfe8e20f926be9151e30:facebook:
+  spec:
+    title: 'รีวิวรองเท้าเทรลเดินป่า 2026: 5 รุ่นเทียบสเปกสำหรับนักเดินทางไทย [myifew.com]'
+    url: https://myifew.com/8606/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%a5%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88/
+  state:
+    id: '100746876247412_1125007663821808'
+    url: https://www.facebook.com/100683012920950/posts/1125007663821808
+adcc2ac95d01bfe8e20f926be9151e30:mastodon:
+  spec:
+    title: 'รีวิวรองเท้าเทรลเดินป่า 2026: 5 รุ่นเทียบสเปกสำหรับนักเดินทางไทย [myifew.com]'
+    url: https://myifew.com/8606/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%a5%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88/
+  state:
+    id: '117576284803039478'
+    url: https://mastodon.in.th/@webring/117576284803039478
+adcc2ac95d01bfe8e20f926be9151e30:shorturl:
+  spec:
+    url: https://myifew.com/8606/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%a5%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88/
+  state:
+    shortLink: https://link.webring.in.th/3574
 adccbcd7c3c0dfb613d704db35b4de67:bluesky:
   spec:
     title: 'Data Sci Boot Camp Batch#11 : W3CSchool / WordPress [debuggingsoft.com]'
