@@ -29301,6 +29301,32 @@
     url: https://xiengperm.dev/posts/loops-agent-loops-th/
   state:
     shortLink: https://link.webring.in.th/3254
+7edada08a7239813713b06a7a1a05901:bluesky:
+  spec:
+    title: 'Migrating from Jekyll to Astro 7: Zero-JS, 100/100 Lighthouse, and Rolldown [ntsd.dev]'
+    url: https://ntsd.dev/migrating-from-jekyll-to-astro-7/
+  state:
+    cid: bafyreigmq46xmwfkzyqk7youfklveouexdmsypwl4h72lgjdinsam2z4iu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzs4x62fif2s
+7edada08a7239813713b06a7a1a05901:facebook:
+  spec:
+    title: 'Migrating from Jekyll to Astro 7: Zero-JS, 100/100 Lighthouse, and Rolldown [ntsd.dev]'
+    url: https://ntsd.dev/migrating-from-jekyll-to-astro-7/
+  state:
+    id: '100746876247412_1125691047086803'
+    url: https://www.facebook.com/100683012920950/posts/1125691047086803
+7edada08a7239813713b06a7a1a05901:mastodon:
+  spec:
+    title: 'Migrating from Jekyll to Astro 7: Zero-JS, 100/100 Lighthouse, and Rolldown [ntsd.dev]'
+    url: https://ntsd.dev/migrating-from-jekyll-to-astro-7/
+  state:
+    id: '117580183250322312'
+    url: https://mastodon.in.th/@webring/117580183250322312
+7edada08a7239813713b06a7a1a05901:shorturl:
+  spec:
+    url: https://ntsd.dev/migrating-from-jekyll-to-astro-7/
+  state:
+    shortLink: https://link.webring.in.th/3575
 7efa5346e8eb2294f3f52c16eb21d872:bluesky:
   spec:
     title: ทาง Microsoft ปล่อย Postgres MCP Server มาให้ใช้งาน [somkiat.cc]
