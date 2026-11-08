@@ -53171,6 +53171,32 @@ e81de6f68febdece48e7569c81c129ac:shorturl:
     url: https://blog.oatto.dev/2024/04/23/How-to-find-live-partner-not-prom-date.html
   state:
     shortLink: https://link.webring.in.th/1899
+e826345f41edcd056ba828c256095433:bluesky:
+  spec:
+    title: 'ทำโลโก้ให้ขยับได้ด้วย AI agent + Clayzo: จาก SVG นิ่งๆ สู่ animation บนเว็บจริง พร้อม 3 บั๊กที่เจอ [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/animate-brand-mark-ai-agent-clayzo-webgl
+  state:
+    cid: bafyreidxhs74dvteotvxmgyk6sgbaqh6mdo5xj5xviedo67zytz56mmkki
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzswphi4st27
+e826345f41edcd056ba828c256095433:facebook:
+  spec:
+    title: 'ทำโลโก้ให้ขยับได้ด้วย AI agent + Clayzo: จาก SVG นิ่งๆ สู่ animation บนเว็บจริง พร้อม 3 บั๊กที่เจอ [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/animate-brand-mark-ai-agent-clayzo-webgl
+  state:
+    id: '100746876247412_1126094040379837'
+    url: https://www.facebook.com/100683012920950/posts/1126094040379837
+e826345f41edcd056ba828c256095433:mastodon:
+  spec:
+    title: 'ทำโลโก้ให้ขยับได้ด้วย AI agent + Clayzo: จาก SVG นิ่งๆ สู่ animation บนเว็บจริง พร้อม 3 บั๊กที่เจอ [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/animate-brand-mark-ai-agent-clayzo-webgl
+  state:
+    id: '117581995534986930'
+    url: https://mastodon.in.th/@webring/117581995534986930
+e826345f41edcd056ba828c256095433:shorturl:
+  spec:
+    url: https://creaml4tt3.me/blogs/animate-brand-mark-ai-agent-clayzo-webgl
+  state:
+    shortLink: https://link.webring.in.th/3576
 e829e9aa5d52601c3293f4226d2a86c3:facebook:
   spec:
     title: ลองใช้งาน Grafana Beyla กันหน่อย [somkiat.cc]
