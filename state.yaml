@@ -35328,6 +35328,32 @@
     url: https://naiwaen.debuggingsoft.com/2023/04/dockerfile-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-net6-db2/
   state:
     shortLink: https://webring.page.link/2vpC
+98ad3d0e0643acb5b3bacd1bbea71bf5:bluesky:
+  spec:
+    title: Coding with AI [gunt.in.th]
+    url: https://gunt.in.th/blog/coding-with-ai
+  state:
+    cid: bafyreiekdjxlcahyebqz6hetgrr4whvtl5v5pzu4fhdemrgle5dtlvprqe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzuqomkbar2k
+98ad3d0e0643acb5b3bacd1bbea71bf5:facebook:
+  spec:
+    title: Coding with AI [gunt.in.th]
+    url: https://gunt.in.th/blog/coding-with-ai
+  state:
+    id: '100746876247412_1126819240307317'
+    url: https://www.facebook.com/100683012920950/posts/1126819240307317
+98ad3d0e0643acb5b3bacd1bbea71bf5:mastodon:
+  spec:
+    title: Coding with AI [gunt.in.th]
+    url: https://gunt.in.th/blog/coding-with-ai
+  state:
+    id: '117586074883148015'
+    url: https://mastodon.in.th/@webring/117586074883148015
+98ad3d0e0643acb5b3bacd1bbea71bf5:shorturl:
+  spec:
+    url: https://gunt.in.th/blog/coding-with-ai
+  state:
+    shortLink: https://link.webring.in.th/3577
 98be211146c78d47af7da47dd9f15b04:bluesky:
   spec:
     title: Aigle คือแบรนด์อะไร ทำไมเริ่มเห็นบ่อยในสายแฟชั่นเอาต์ดอร์ [myifew.com]
