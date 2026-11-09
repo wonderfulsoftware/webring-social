@@ -28752,6 +28752,32 @@
     url: https://blog.ninprd.com/blog/building-commitment-in-daily-life/
   state:
     shortLink: https://link.webring.in.th/1913
+7d25e534bc51378707150e092b715ddd:bluesky:
+  spec:
+    title: 'รับ requirement จากลูกค้าที่ยังไม่ครบ: เดินงานต่อได้โดยไม่ต้องเดา และไม่ต้องรอ [amiearth.com]'
+    url: https://amiearth.com/blog/incomplete-client-requirements
+  state:
+    cid: bafyreiewxi5b7hcxrvj5nad4tkcprpt75xwgvga6bohde7z5wkxkkve2ee
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzvvrixd3d2h
+7d25e534bc51378707150e092b715ddd:facebook:
+  spec:
+    title: 'รับ requirement จากลูกค้าที่ยังไม่ครบ: เดินงานต่อได้โดยไม่ต้องเดา และไม่ต้องรอ [amiearth.com]'
+    url: https://amiearth.com/blog/incomplete-client-requirements
+  state:
+    id: '100746876247412_1127360510253190'
+    url: https://www.facebook.com/100683012920950/posts/1127360510253190
+7d25e534bc51378707150e092b715ddd:mastodon:
+  spec:
+    title: 'รับ requirement จากลูกค้าที่ยังไม่ครบ: เดินงานต่อได้โดยไม่ต้องเดา และไม่ต้องรอ [amiearth.com]'
+    url: https://amiearth.com/blog/incomplete-client-requirements
+  state:
+    id: '117588685199258457'
+    url: https://mastodon.in.th/@webring/117588685199258457
+7d25e534bc51378707150e092b715ddd:shorturl:
+  spec:
+    url: https://amiearth.com/blog/incomplete-client-requirements
+  state:
+    shortLink: https://link.webring.in.th/3578
 7d2d09d30cfe7d4137b7db3255e4950c:facebook:
   spec:
     title: อย่าเสียดายหัวข้อ Blog ที่เราไม่ผูกพันแล้ว [blog.ninprd.com]
