@@ -11916,6 +11916,32 @@
     url: https://www.somkiat.cc/use-runme-markdown/
   state:
     shortLink: https://link.webring.in.th/1859
+34091f10b01b36256c45f2f804f27bdb:bluesky:
+  spec:
+    title: 'ถาม GA4 ผ่าน MCP ว่าเว็บพอร์ตเกิดอะไรขึ้นจริง: เจอ bot, Organic Search จาก 3 เป็น 57 อีก 3 เรื่อง [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/ga4-mcp-case-study-portfolio-findings
+  state:
+    cid: bafyreigsikqat6dylqjeobisvl4l4qwod2k3r6xxagmnur5uucb4xa3j5q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzxathxmrt2m
+34091f10b01b36256c45f2f804f27bdb:facebook:
+  spec:
+    title: 'ถาม GA4 ผ่าน MCP ว่าเว็บพอร์ตเกิดอะไรขึ้นจริง: เจอ bot, Organic Search จาก 3 เป็น 57 อีก 3 เรื่อง [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/ga4-mcp-case-study-portfolio-findings
+  state:
+    id: '100746876247412_1127909033531671'
+    url: https://www.facebook.com/100683012920950/posts/1127909033531671
+34091f10b01b36256c45f2f804f27bdb:mastodon:
+  spec:
+    title: 'ถาม GA4 ผ่าน MCP ว่าเว็บพอร์ตเกิดอะไรขึ้นจริง: เจอ bot, Organic Search จาก 3 เป็น 57 อีก 3 เรื่อง [creaml4tt3.me]'
+    url: https://creaml4tt3.me/blogs/ga4-mcp-case-study-portfolio-findings
+  state:
+    id: '117591714901266296'
+    url: https://mastodon.in.th/@webring/117591714901266296
+34091f10b01b36256c45f2f804f27bdb:shorturl:
+  spec:
+    url: https://creaml4tt3.me/blogs/ga4-mcp-case-study-portfolio-findings
+  state:
+    shortLink: https://link.webring.in.th/3579
 34152e4dd7cd9eae3273c0c1d3098614:facebook:
   spec:
     title: Illustration - ルシア👒#ツインテールの日 [lucian.solutions]
