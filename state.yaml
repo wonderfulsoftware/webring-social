@@ -32697,6 +32697,32 @@
     url: https://mymoneytoolkit.app/posts/update-plan-march-2026
   state:
     shortLink: https://link.webring.in.th/3008
+8c4cd275b94011fe1f44c35537596536:bluesky:
+  spec:
+    title: 'ทำให้ภาษาไทยในเทอร์มินัล Herdr อ่านง่าย: รวมฟอนต์เอง 2 รอบ กว่าจะได้แบบที่ใช่ [nutchanon.org]'
+    url: https://nutchanon.org/blog/herdr-thai-font/
+  state:
+    cid: bafyreibalpaihshdryccqglq6xib4qyall6yilu6okxb5hbmhno7535n7q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n22nl6hzpg2s
+8c4cd275b94011fe1f44c35537596536:facebook:
+  spec:
+    title: 'ทำให้ภาษาไทยในเทอร์มินัล Herdr อ่านง่าย: รวมฟอนต์เอง 2 รอบ กว่าจะได้แบบที่ใช่ [nutchanon.org]'
+    url: https://nutchanon.org/blog/herdr-thai-font/
+  state:
+    id: '100746876247412_1129462263376348'
+    url: https://www.facebook.com/100683012920950/posts/1129462263376348
+8c4cd275b94011fe1f44c35537596536:mastodon:
+  spec:
+    title: 'ทำให้ภาษาไทยในเทอร์มินัล Herdr อ่านง่าย: รวมฟอนต์เอง 2 รอบ กว่าจะได้แบบที่ใช่ [nutchanon.org]'
+    url: https://nutchanon.org/blog/herdr-thai-font/
+  state:
+    id: '117599367502944204'
+    url: https://mastodon.in.th/@webring/117599367502944204
+8c4cd275b94011fe1f44c35537596536:shorturl:
+  spec:
+    url: https://nutchanon.org/blog/herdr-thai-font/
+  state:
+    shortLink: https://link.webring.in.th/3582
 8c81610304dd3fdff4a51c44fe309049:bluesky:
   spec:
     title: 'root-gate: จากขอให้ sudo ถามน้อยลง กลายเป็น native dialog เฝ้าประตู root [nutchanon.org]'
