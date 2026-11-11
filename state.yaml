@@ -53616,6 +53616,32 @@ e9df67dfeb031ca9d1831af2b5b85c72:shorturl:
     url: https://www.mikkipastel.com/how-to-inspect-webview-in-android-app/
   state:
     shortLink: https://link.webring.in.th/2927
+e9e7c5ab096b4f6ced1b9b6c65859e21:bluesky:
+  spec:
+    title: 'จัดพอร์ต Core-Satellite: กรอกของที่ถืออยู่ แล้วดูว่าพอร์ตหน้าตาแบบไหน [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/core-satellite
+  state:
+    cid: bafyreibqzkzmt257lppctaathjxvi3bexmcqqxgtybwogmmlods2jbcxni
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3mzzpj2oz4y2z
+e9e7c5ab096b4f6ced1b9b6c65859e21:facebook:
+  spec:
+    title: 'จัดพอร์ต Core-Satellite: กรอกของที่ถืออยู่ แล้วดูว่าพอร์ตหน้าตาแบบไหน [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/core-satellite
+  state:
+    id: '100746876247412_1128969966758911'
+    url: https://www.facebook.com/100683012920950/posts/1128969966758911
+e9e7c5ab096b4f6ced1b9b6c65859e21:mastodon:
+  spec:
+    title: 'จัดพอร์ต Core-Satellite: กรอกของที่ถืออยู่ แล้วดูว่าพอร์ตหน้าตาแบบไหน [mymoneytoolkit.app]'
+    url: https://mymoneytoolkit.app/posts/core-satellite
+  state:
+    id: '117597251824832554'
+    url: https://mastodon.in.th/@webring/117597251824832554
+e9e7c5ab096b4f6ced1b9b6c65859e21:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/core-satellite
+  state:
+    shortLink: https://link.webring.in.th/3581
 ea1c3d27b980b85915487951ef642a84:facebook:
   spec:
     title: 'AZ-104: Manage identities and governance in Azure [debuggingsoft.com]'
