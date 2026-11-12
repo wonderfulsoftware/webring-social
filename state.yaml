@@ -23458,6 +23458,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/01/note-microsoft-ai-skills-program-kick-off-and-azure-ai-training/
   state:
     shortLink: https://link.webring.in.th/2340
+6662ed847afb98068da8ff25a80c5b72:bluesky:
+  spec:
+    title: Multi-site fleet management with warpgate, tailscale and iroh [karnwong.me]
+    url: https://karnwong.me/posts/2026/11/multi-site-fleet-management-with-warpgate-tailscale-and-iroh/
+  state:
+    cid: bafyreihwydcjumu4hobnur6pblrdqvmawekoeck3dxn3bwhjlttgwaar6i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n24bbwccsx2s
+6662ed847afb98068da8ff25a80c5b72:facebook:
+  spec:
+    title: Multi-site fleet management with warpgate, tailscale and iroh [karnwong.me]
+    url: https://karnwong.me/posts/2026/11/multi-site-fleet-management-with-warpgate-tailscale-and-iroh/
+  state:
+    id: '100746876247412_1130113049977936'
+    url: https://www.facebook.com/100683012920950/posts/1130113049977936
+6662ed847afb98068da8ff25a80c5b72:mastodon:
+  spec:
+    title: Multi-site fleet management with warpgate, tailscale and iroh [karnwong.me]
+    url: https://karnwong.me/posts/2026/11/multi-site-fleet-management-with-warpgate-tailscale-and-iroh/
+  state:
+    id: '117603006232398087'
+    url: https://mastodon.in.th/@webring/117603006232398087
+6662ed847afb98068da8ff25a80c5b72:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/11/multi-site-fleet-management-with-warpgate-tailscale-and-iroh/
+  state:
+    shortLink: https://link.webring.in.th/3583
 667f6c455933e98472d5bc55ee2d5e0c:facebook:
   spec:
     title: SecretOps with teller [karnwong.me]
