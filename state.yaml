@@ -18260,6 +18260,32 @@
     url: https://naiwaen.debuggingsoft.com/2025/07/cr-chicken-rice-at-ruenton-restaurants-montien-bangkok/
   state:
     shortLink: https://link.webring.in.th/2654
+516e1e2951f43572ca6d09374e1ab2cf:bluesky:
+  spec:
+    title: แนวทางการ query ข้อมูลจำนวนมาก ๆ จาก database [somkiat.cc]
+    url: https://www.somkiat.cc/postgresql-slow-query-and-locked/
+  state:
+    cid: bafyreid7rwk2pwqywcypghmdjlcepe7okbpcw33jvzwrryee2gidbo22nu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n27obevxu22z
+516e1e2951f43572ca6d09374e1ab2cf:facebook:
+  spec:
+    title: แนวทางการ query ข้อมูลจำนวนมาก ๆ จาก database [somkiat.cc]
+    url: https://www.somkiat.cc/postgresql-slow-query-and-locked/
+  state:
+    id: '100746876247412_1131747576481150'
+    url: https://www.facebook.com/100683012920950/posts/1131747576481150
+516e1e2951f43572ca6d09374e1ab2cf:mastodon:
+  spec:
+    title: แนวทางการ query ข้อมูลจำนวนมาก ๆ จาก database [somkiat.cc]
+    url: https://www.somkiat.cc/postgresql-slow-query-and-locked/
+  state:
+    id: '117610675193172557'
+    url: https://mastodon.in.th/@webring/117610675193172557
+516e1e2951f43572ca6d09374e1ab2cf:shorturl:
+  spec:
+    url: https://www.somkiat.cc/postgresql-slow-query-and-locked/
+  state:
+    shortLink: https://link.webring.in.th/3586
 516fe6e3f79aeb7af6e9f2bc6203e1d8:bluesky:
   spec:
     title: Recap 2025 [birdmusic.cc]
