@@ -12307,6 +12307,32 @@
     url: https://www.mikkipastel.com/kotlin-meetup-2024-1-kotlin-multiplatform/
   state:
     shortLink: https://link.webring.in.th/2044
+35b9bf7af0db8484987c1e8987a55ba2:bluesky:
+  spec:
+    title: THB Stablecoin คืออะไร? ทำไมต้องมี? แล้วทำอะไรได้บ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/thb-stablecoin-promptpay-ai-agent/
+  state:
+    cid: bafyreigbuiatdjq6quckvqyroaacbwladn4jondif77uvqjha6p3db4ubi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n26rfcalb72x
+35b9bf7af0db8484987c1e8987a55ba2:facebook:
+  spec:
+    title: THB Stablecoin คืออะไร? ทำไมต้องมี? แล้วทำอะไรได้บ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/thb-stablecoin-promptpay-ai-agent/
+  state:
+    id: '100746876247412_1131299666525941'
+    url: https://www.facebook.com/100683012920950/posts/1131299666525941
+35b9bf7af0db8484987c1e8987a55ba2:mastodon:
+  spec:
+    title: THB Stablecoin คืออะไร? ทำไมต้องมี? แล้วทำอะไรได้บ้าง? [mikkipastel.com]
+    url: https://www.mikkipastel.com/thb-stablecoin-promptpay-ai-agent/
+  state:
+    id: '117608643220366173'
+    url: https://mastodon.in.th/@webring/117608643220366173
+35b9bf7af0db8484987c1e8987a55ba2:shorturl:
+  spec:
+    url: https://www.mikkipastel.com/thb-stablecoin-promptpay-ai-agent/
+  state:
+    shortLink: https://link.webring.in.th/3585
 35d9a83ac2c2de0c90789f93479647e6:bluesky:
   spec:
     title: ตั้งค่า Rclone ใช้งานร่วมกับ Cloudflare R2 อย่างง่ายในไม่กี่ขั้นตอน [creaml4tt3.me]
