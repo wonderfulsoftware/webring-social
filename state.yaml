@@ -56318,6 +56318,32 @@ f40fc96c5154db25f74916355973cbed:shorturl:
     url: https://www.somkiat.cc/hello-chrome-for-testing/
   state:
     shortLink: https://webring.page.link/wt7k
+f4304cecdabe8c0ad4cde76d78ffce65:bluesky:
+  spec:
+    title: การเปลี่ยนแปลงใน Spring Boot 4.2 RC2 [somkiat.cc]
+    url: https://www.somkiat.cc/try-spring-boot-4-2-rc2/
+  state:
+    cid: bafyreieq47ikur7ouiluxfg2vn2755e5ifxmurevpbt6u6dlexehi6o5gm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2bzpu3lyk2y
+f4304cecdabe8c0ad4cde76d78ffce65:facebook:
+  spec:
+    title: การเปลี่ยนแปลงใน Spring Boot 4.2 RC2 [somkiat.cc]
+    url: https://www.somkiat.cc/try-spring-boot-4-2-rc2/
+  state:
+    id: '100746876247412_1132674286388479'
+    url: https://www.facebook.com/100683012920950/posts/1132674286388479
+f4304cecdabe8c0ad4cde76d78ffce65:mastodon:
+  spec:
+    title: การเปลี่ยนแปลงใน Spring Boot 4.2 RC2 [somkiat.cc]
+    url: https://www.somkiat.cc/try-spring-boot-4-2-rc2/
+  state:
+    id: '117615984824883561'
+    url: https://mastodon.in.th/@webring/117615984824883561
+f4304cecdabe8c0ad4cde76d78ffce65:shorturl:
+  spec:
+    url: https://www.somkiat.cc/try-spring-boot-4-2-rc2/
+  state:
+    shortLink: https://link.webring.in.th/3588
 f44e72e3e4b2a0d11c1a2c7c8a1c3f77:bluesky:
   spec:
     title: 'จาก AI ที่เขียนโค้ดได้ → สู่ AI ที่ทำงานได้ทั้งระบบ: แล้วเราจะวางบทบาท “คน” ตรงไหนกันดี? [myifew.com]'
