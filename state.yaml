@@ -17758,6 +17758,32 @@
     url: https://creaml4tt3.me/blogs/poka-yoke-ux-web-design
   state:
     shortLink: https://link.webring.in.th/3215
+4e59d58f01f791bc9f845e3bbd090457:bluesky:
+  spec:
+    title: เลือกเป้เดินป่ายังไงไม่ให้ปวดหลัง เทียบ 5 รุ่นสำหรับทริปวันเดียว [myifew.com]
+    url: https://myifew.com/8611/%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b9%80%e0%b8%9b%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87%e0%b9%84%e0%b8%a1/
+  state:
+    cid: bafyreihv77nzfxpr2noxbv5kpa55chttu6lnow5zgahd46gvooyfkxjqpa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2b7inyqz62y
+4e59d58f01f791bc9f845e3bbd090457:facebook:
+  spec:
+    title: เลือกเป้เดินป่ายังไงไม่ให้ปวดหลัง เทียบ 5 รุ่นสำหรับทริปวันเดียว [myifew.com]
+    url: https://myifew.com/8611/%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b9%80%e0%b8%9b%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87%e0%b9%84%e0%b8%a1/
+  state:
+    id: '100746876247412_1132305463092028'
+    url: https://www.facebook.com/100683012920950/posts/1132305463092028
+4e59d58f01f791bc9f845e3bbd090457:mastodon:
+  spec:
+    title: เลือกเป้เดินป่ายังไงไม่ให้ปวดหลัง เทียบ 5 รุ่นสำหรับทริปวันเดียว [myifew.com]
+    url: https://myifew.com/8611/%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b9%80%e0%b8%9b%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87%e0%b9%84%e0%b8%a1/
+  state:
+    id: '117614139167575432'
+    url: https://mastodon.in.th/@webring/117614139167575432
+4e59d58f01f791bc9f845e3bbd090457:shorturl:
+  spec:
+    url: https://myifew.com/8611/%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b9%80%e0%b8%9b%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87%e0%b9%84%e0%b8%a1/
+  state:
+    shortLink: https://link.webring.in.th/3587
 4e74ed114a0c8eb99604d88b206404b5:bluesky:
   spec:
     title: การสร้าง REST API แรกด้วย Spring WebFlux [poolsawat.com]
