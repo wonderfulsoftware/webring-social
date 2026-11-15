@@ -23659,6 +23659,27 @@
     url: https://myifew.com/7900/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%a3%e0%b8%b9%e0%b9%89/
   state:
     shortLink: https://link.webring.in.th/3364
+66df8d322eeefe7c4e7fc7b8b460f3d8:bluesky:
+  spec:
+    title: อยากเทสบนมือถือจอพับ Samsung แต่ไม่มีเครื่อง ทำยังไงดี? [mikkipastel.com]
+    url: https://www.mikkipastel.com/test-foldable-device-samsung-developer/
+  state:
+    cid: bafyreihyki6ifyxherqlf3zq4ph2be62xorbqvcuzg6cc3vsrur4x7x7um
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2emvp2n622w
+66df8d322eeefe7c4e7fc7b8b460f3d8:facebook:
+  spec:
+    title: อยากเทสบนมือถือจอพับ Samsung แต่ไม่มีเครื่อง ทำยังไงดี? [mikkipastel.com]
+    url: https://www.mikkipastel.com/test-foldable-device-samsung-developer/
+  state:
+    id: '100746876247412_1133688912953683'
+    url: https://www.facebook.com/100683012920950/posts/1133688912953683
+66df8d322eeefe7c4e7fc7b8b460f3d8:mastodon:
+  spec:
+    title: อยากเทสบนมือถือจอพับ Samsung แต่ไม่มีเครื่อง ทำยังไงดี? [mikkipastel.com]
+    url: https://www.mikkipastel.com/test-foldable-device-samsung-developer/
+  state:
+    id: '117621838323372107'
+    url: https://mastodon.in.th/@webring/117621838323372107
 66df8d322eeefe7c4e7fc7b8b460f3d8:shorturl:
   spec:
     url: https://www.mikkipastel.com/test-foldable-device-samsung-developer/
