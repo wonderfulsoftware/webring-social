@@ -42756,6 +42756,32 @@ b80293172a4a4a01810f23686a154ae3:shorturl:
     url: https://garden.narze.live/100daysofcode-r3-74-chatos-merge-guest-chat-logs/
   state:
     shortLink: https://webring.page.link/gQRx
+b809549f6c458393c86688aed8525a32:bluesky:
+  spec:
+    title: 'Cheer up: บทระลึกถึงกันระหว่างคนกับเอเจนต์ AI ก่อนเริ่มงาน [nutchanon.org]'
+    url: https://nutchanon.org/blog/cheer-up/
+  state:
+    cid: bafyreifv33inavglplqjmdhkvaopqggh5yzivauq3ilbkptykwjfaixi64
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2hhwkpd5q22
+b809549f6c458393c86688aed8525a32:facebook:
+  spec:
+    title: 'Cheer up: บทระลึกถึงกันระหว่างคนกับเอเจนต์ AI ก่อนเริ่มงาน [nutchanon.org]'
+    url: https://nutchanon.org/blog/cheer-up/
+  state:
+    id: '100746876247412_1134800596175848'
+    url: https://www.facebook.com/100683012920950/posts/1134800596175848
+b809549f6c458393c86688aed8525a32:mastodon:
+  spec:
+    title: 'Cheer up: บทระลึกถึงกันระหว่างคนกับเอเจนต์ AI ก่อนเริ่มงาน [nutchanon.org]'
+    url: https://nutchanon.org/blog/cheer-up/
+  state:
+    id: '117628243679396114'
+    url: https://mastodon.in.th/@webring/117628243679396114
+b809549f6c458393c86688aed8525a32:shorturl:
+  spec:
+    url: https://nutchanon.org/blog/cheer-up/
+  state:
+    shortLink: https://link.webring.in.th/3591
 b81873bf6d96caafffc9a10c98eb9fe7:facebook:
   spec:
     title: Food Review - บ้านเสือหิว [lucian.solutions]
