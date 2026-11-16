@@ -12288,6 +12288,32 @@
     url: https://karnwong.me/posts/2026/09/book-highlights---the-art-of-leadership-by-michael-lopp/
   state:
     shortLink: https://link.webring.in.th/3475
+359d3076ba440939b3c0938ecd34553f:bluesky:
+  spec:
+    title: OpenThai 2.0 OCR in the browser [dt.in.th]
+    url: https://dt.in.th/OpenThaiOCRWebDemo
+  state:
+    cid: bafyreicpimko6xae4nfr7xxvxpcs2sboxtjmzral7ccust775bdipfquka
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2gczkxvre2b
+359d3076ba440939b3c0938ecd34553f:facebook:
+  spec:
+    title: OpenThai 2.0 OCR in the browser [dt.in.th]
+    url: https://dt.in.th/OpenThaiOCRWebDemo
+  state:
+    id: '100746876247412_1134304132892161'
+    url: https://www.facebook.com/100683012920950/posts/1134304132892161
+359d3076ba440939b3c0938ecd34553f:mastodon:
+  spec:
+    title: OpenThai 2.0 OCR in the browser [dt.in.th]
+    url: https://dt.in.th/OpenThaiOCRWebDemo
+  state:
+    id: '117625646774185522'
+    url: https://mastodon.in.th/@webring/117625646774185522
+359d3076ba440939b3c0938ecd34553f:shorturl:
+  spec:
+    url: https://dt.in.th/OpenThaiOCRWebDemo
+  state:
+    shortLink: https://link.webring.in.th/3590
 35b71def96fcce225b82264ba0a44ce2:facebook:
   spec:
     title: กลับมาอีกครั้งในรอบ 4 ปี กับ Kotlin Meetup 2024.1 [mikkipastel.com]
