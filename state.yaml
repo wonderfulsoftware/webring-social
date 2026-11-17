@@ -15619,6 +15619,32 @@
     url: https://www.somkiat.cc/note-how-discord-reduced-websocket-traffic/
   state:
     shortLink: https://link.webring.in.th/2346
+444ca977412f56ae4d65871cc6eb9700:bluesky:
+  spec:
+    title: จดๆ DevFest Bangkok 2026 มัดรวม 2 วัน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/11/recap-devfest-bangkok-2026/
+  state:
+    cid: bafyreiaqidkulbeyp6vy664pj5jahegcrxp3q4c65xlhokivzhbjt2esx4
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2juhkdxdc2b
+444ca977412f56ae4d65871cc6eb9700:facebook:
+  spec:
+    title: จดๆ DevFest Bangkok 2026 มัดรวม 2 วัน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/11/recap-devfest-bangkok-2026/
+  state:
+    id: '100746876247412_1135749292747645'
+    url: https://www.facebook.com/100683012920950/posts/1135749292747645
+444ca977412f56ae4d65871cc6eb9700:mastodon:
+  spec:
+    title: จดๆ DevFest Bangkok 2026 มัดรวม 2 วัน [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/11/recap-devfest-bangkok-2026/
+  state:
+    id: '117633629130781688'
+    url: https://mastodon.in.th/@webring/117633629130781688
+444ca977412f56ae4d65871cc6eb9700:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/11/recap-devfest-bangkok-2026/
+  state:
+    shortLink: https://link.webring.in.th/3593
 4461e0793dd70c0d090eb7b9ca486118:bluesky:
   spec:
     title: SDLC ยุคใหม่ในวันที่เรา vibe coding [xiengperm.dev]
