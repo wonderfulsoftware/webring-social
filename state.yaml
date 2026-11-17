@@ -40987,6 +40987,32 @@ af63f36fd2cb8596eb617a5d759c0d48:shorturl:
     url: https://tantatorn.xyz/posts/doi-luang-tak/
   state:
     shortLink: https://link.webring.in.th/3535
+af6c09f54f21e4bbb1bda4315c5a34d8:bluesky:
+  spec:
+    title: มาดูการปรับปรุง performance ของ Agent Browser 0.43 [somkiat.cc]
+    url: https://www.somkiat.cc/inprove-performance-of-agent-browser/
+  state:
+    cid: bafyreigbzg2t3kq2umlzfwdx7mvuv6bvqsafiox5jqrgcvewevbxrowwsu
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2iwktmiqi2b
+af6c09f54f21e4bbb1bda4315c5a34d8:facebook:
+  spec:
+    title: มาดูการปรับปรุง performance ของ Agent Browser 0.43 [somkiat.cc]
+    url: https://www.somkiat.cc/inprove-performance-of-agent-browser/
+  state:
+    id: '100746876247412_1135337609455480'
+    url: https://www.facebook.com/100683012920950/posts/1135337609455480
+af6c09f54f21e4bbb1bda4315c5a34d8:mastodon:
+  spec:
+    title: มาดูการปรับปรุง performance ของ Agent Browser 0.43 [somkiat.cc]
+    url: https://www.somkiat.cc/inprove-performance-of-agent-browser/
+  state:
+    id: '117631525265536743'
+    url: https://mastodon.in.th/@webring/117631525265536743
+af6c09f54f21e4bbb1bda4315c5a34d8:shorturl:
+  spec:
+    url: https://www.somkiat.cc/inprove-performance-of-agent-browser/
+  state:
+    shortLink: https://link.webring.in.th/3592
 af8acbaa7ad240140beb5d34a0d4684b:bluesky:
   spec:
     title: Update Plan April 2026 [mymoneytoolkit.app]
