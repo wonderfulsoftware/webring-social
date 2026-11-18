@@ -12482,6 +12482,32 @@
     url: https://fasu.dev/writings/2025s-security-landscape-why-memory-safe-languages-arent-optional-anymore
   state:
     shortLink: https://link.webring.in.th/2926
+364986c810e81bd9f33a4832fd11647c:bluesky:
+  spec:
+    title: Recent AppArmor issue on Linux kernel 7.0.0-43 [karnwong.me]
+    url: https://karnwong.me/posts/2026/11/recent-apparmor-issue-on-linux-kernel-7.0.0-43/
+  state:
+    cid: bafyreifoqtpyyj7tur3prcaw2vuaic46obct5mtmz64jkuvr5acqgaynia
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2lfjzvbh52t
+364986c810e81bd9f33a4832fd11647c:facebook:
+  spec:
+    title: Recent AppArmor issue on Linux kernel 7.0.0-43 [karnwong.me]
+    url: https://karnwong.me/posts/2026/11/recent-apparmor-issue-on-linux-kernel-7.0.0-43/
+  state:
+    id: '100746876247412_1136273886028519'
+    url: https://www.facebook.com/100683012920950/posts/1136273886028519
+364986c810e81bd9f33a4832fd11647c:mastodon:
+  spec:
+    title: Recent AppArmor issue on Linux kernel 7.0.0-43 [karnwong.me]
+    url: https://karnwong.me/posts/2026/11/recent-apparmor-issue-on-linux-kernel-7.0.0-43/
+  state:
+    id: '117637082513117761'
+    url: https://mastodon.in.th/@webring/117637082513117761
+364986c810e81bd9f33a4832fd11647c:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/11/recent-apparmor-issue-on-linux-kernel-7.0.0-43/
+  state:
+    shortLink: https://link.webring.in.th/3594
 36521a47e5099dd12aa41ad7af79dd32:facebook:
   spec:
     title: วิธีการแก้ไขปัญหา Asynchronous Function บน React.js Hook (useEfffect) ด้วยวิธี IIFE [toupawa.com]
