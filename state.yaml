@@ -46827,6 +46827,32 @@ c9e4603374dfc430b98f98e49881e333:shorturl:
     url: https://dt.in.th/WebSpeechToText
   state:
     shortLink: https://link.webring.in.th/2865
+ca2e8b5a0524dc2a62589b4b63fd3460:bluesky:
+  spec:
+    title: 'เดินลงเขาอย่างไรให้เข่าไม่ล้า: เทคนิคสำหรับนักเดินป่า [myifew.com]'
+    url: https://myifew.com/8614/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%a5%e0%b8%87%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80%e0%b8%82%e0%b9%88/
+  state:
+    cid: bafyreiaqo5cdwgdoqb7u6vc3hyoosrow54af5g3tjfbamwpgd3khif4f2e
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2mdbk7q6p24
+ca2e8b5a0524dc2a62589b4b63fd3460:facebook:
+  spec:
+    title: 'เดินลงเขาอย่างไรให้เข่าไม่ล้า: เทคนิคสำหรับนักเดินป่า [myifew.com]'
+    url: https://myifew.com/8614/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%a5%e0%b8%87%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80%e0%b8%82%e0%b9%88/
+  state:
+    id: '100746876247412_1136682039321037'
+    url: https://www.facebook.com/100683012920950/posts/1136682039321037
+ca2e8b5a0524dc2a62589b4b63fd3460:mastodon:
+  spec:
+    title: 'เดินลงเขาอย่างไรให้เข่าไม่ล้า: เทคนิคสำหรับนักเดินป่า [myifew.com]'
+    url: https://myifew.com/8614/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%a5%e0%b8%87%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80%e0%b8%82%e0%b9%88/
+  state:
+    id: '117639174926687878'
+    url: https://mastodon.in.th/@webring/117639174926687878
+ca2e8b5a0524dc2a62589b4b63fd3460:shorturl:
+  spec:
+    url: https://myifew.com/8614/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%a5%e0%b8%87%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80%e0%b8%82%e0%b9%88/
+  state:
+    shortLink: https://link.webring.in.th/3595
 ca36726214f549883d5b641d97065a1a:facebook:
   spec:
     title: SSO Authentication ด้วย Sidecar Containers [boonsong.dev]
