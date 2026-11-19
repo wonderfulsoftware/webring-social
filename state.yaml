@@ -51816,6 +51816,32 @@ e101590fcf2c113c902ecdebce745d7d:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/02/az-400-design-and-implement-a-dependency-management-strategy/
   state:
     shortLink: https://webring.page.link/aQBF
+e1015abdc0d1bcfed731bd31804fa350:bluesky:
+  spec:
+    title: 'อุทยานแห่งชาติเขาใหญ่: 7 เส้นทางเดินป่าศึกษาธรรมชาติ [myifew.com]'
+    url: https://myifew.com/8616/%e0%b8%ad%e0%b8%b8%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%99%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%83%e0%b8%ab%e0%b8%8d%e0%b9%88-7/
+  state:
+    cid: bafyreig4uprr6h6yofuduvgtomoelr66ylcggoevrvsr3y6vc2h6riuyxe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2nw4t4kos2d
+e1015abdc0d1bcfed731bd31804fa350:facebook:
+  spec:
+    title: 'อุทยานแห่งชาติเขาใหญ่: 7 เส้นทางเดินป่าศึกษาธรรมชาติ [myifew.com]'
+    url: https://myifew.com/8616/%e0%b8%ad%e0%b8%b8%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%99%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%83%e0%b8%ab%e0%b8%8d%e0%b9%88-7/
+  state:
+    id: '100746876247412_1137267179262523'
+    url: https://www.facebook.com/100683012920950/posts/1137267179262523
+e1015abdc0d1bcfed731bd31804fa350:mastodon:
+  spec:
+    title: 'อุทยานแห่งชาติเขาใหญ่: 7 เส้นทางเดินป่าศึกษาธรรมชาติ [myifew.com]'
+    url: https://myifew.com/8616/%e0%b8%ad%e0%b8%b8%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%99%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%83%e0%b8%ab%e0%b8%8d%e0%b9%88-7/
+  state:
+    id: '117642753039675574'
+    url: https://mastodon.in.th/@webring/117642753039675574
+e1015abdc0d1bcfed731bd31804fa350:shorturl:
+  spec:
+    url: https://myifew.com/8616/%e0%b8%ad%e0%b8%b8%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%99%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%83%e0%b8%ab%e0%b8%8d%e0%b9%88-7/
+  state:
+    shortLink: https://link.webring.in.th/3596
 e105152541d5300917555523fc7f8bba:bluesky:
   spec:
     title: บันทึกการแบ่งปันเรื่องการจัดการข้อมูลใน PostgreSQL database [somkiat.cc]
