@@ -20717,6 +20717,32 @@
     url: https://dt.in.th/AIforTeachersWriteup
   state:
     shortLink: https://link.webring.in.th/2828
+5b01983dc765c0e38ccba4bfce320fc4:bluesky:
+  spec:
+    title: 'DHH เตือนโปรแกรมเมอร์ที่ทำงานด้วยยาก: ยุค AI agent ความรู้เฉพาะทางจะเลิกเป็นเกราะจริงไหม gatekeeper คือใคร และทีมที่มี junior ควรฝึก people skills ยังไง [amiearth.com]'
+    url: https://amiearth.com/blog/dhh-ai-agents-soft-skills
+  state:
+    cid: bafyreie332zm6nrafhdas5mggjfk3irugycmjeeohyvodkg6cl5kse6e7q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2rd3n5hpu2j
+5b01983dc765c0e38ccba4bfce320fc4:facebook:
+  spec:
+    title: 'DHH เตือนโปรแกรมเมอร์ที่ทำงานด้วยยาก: ยุค AI agent ความรู้เฉพาะทางจะเลิกเป็นเกราะจริงไหม gatekeeper คือใคร และทีมที่มี junior ควรฝึก people skills ยังไง [amiearth.com]'
+    url: https://amiearth.com/blog/dhh-ai-agents-soft-skills
+  state:
+    id: '100746876247412_1138769162445658'
+    url: https://www.facebook.com/100683012920950/posts/1138769162445658
+5b01983dc765c0e38ccba4bfce320fc4:mastodon:
+  spec:
+    title: 'DHH เตือนโปรแกรมเมอร์ที่ทำงานด้วยยาก: ยุค AI agent ความรู้เฉพาะทางจะเลิกเป็นเกราะจริงไหม gatekeeper คือใคร และทีมที่มี junior ควรฝึก people skills ยังไง [amiearth.com]'
+    url: https://amiearth.com/blog/dhh-ai-agents-soft-skills
+  state:
+    id: '117650420997936600'
+    url: https://mastodon.in.th/@webring/117650420997936600
+5b01983dc765c0e38ccba4bfce320fc4:shorturl:
+  spec:
+    url: https://amiearth.com/blog/dhh-ai-agents-soft-skills
+  state:
+    shortLink: https://link.webring.in.th/3599
 5b846abf44b18f82682f9d8d2e8f43d5:facebook:
   spec:
     title: 'นิลเล่า: WordPress Basic II [blog.ninprd.com]'
