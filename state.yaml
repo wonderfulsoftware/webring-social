@@ -30089,6 +30089,32 @@
     url: https://naiwaen.debuggingsoft.com/2024/09/my-note-from-helm-essential-helm-writing-verifying-chart-hook/
   state:
     shortLink: https://link.webring.in.th/2159
+80dbc5420fab94da731b61f491b25927:bluesky:
+  spec:
+    title: แชร์ประสบการณ์ ฝึกงาน 6 เดือนที่ BorntoDev ในตำแหน่ง Tech Consultant [cwayusu.dev]
+    url: https://cwayusu.dev/th/blog/borntodev-internship
+  state:
+    cid: bafyreiavlxqly4ztld4rzcpehzhilhawjbphm5t7d23vsljfiirj646l7i
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2tqermgw72j
+80dbc5420fab94da731b61f491b25927:facebook:
+  spec:
+    title: แชร์ประสบการณ์ ฝึกงาน 6 เดือนที่ BorntoDev ในตำแหน่ง Tech Consultant [cwayusu.dev]
+    url: https://cwayusu.dev/th/blog/borntodev-internship
+  state:
+    id: '100746876247412_1139788655677042'
+    url: https://www.facebook.com/100683012920950/posts/1139788655677042
+80dbc5420fab94da731b61f491b25927:mastodon:
+  spec:
+    title: แชร์ประสบการณ์ ฝึกงาน 6 เดือนที่ BorntoDev ในตำแหน่ง Tech Consultant [cwayusu.dev]
+    url: https://cwayusu.dev/th/blog/borntodev-internship
+  state:
+    id: '117655859633389294'
+    url: https://mastodon.in.th/@webring/117655859633389294
+80dbc5420fab94da731b61f491b25927:shorturl:
+  spec:
+    url: https://cwayusu.dev/th/blog/borntodev-internship
+  state:
+    shortLink: https://link.webring.in.th/3601
 80e4e617e8547066b987f303dfb3b0b7:facebook:
   spec:
     title: สร้างเลขาส่วนตัวด้วย Telegram Bot API และ Notion [anuwong.com]
