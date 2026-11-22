@@ -19860,6 +19860,32 @@
     url: https://kusumotolab.com/how-to-re-install-os-on-cloub-without-terminate-instance/
   state:
     shortLink: https://webring.page.link/KJqR
+57623eff8368d04fcff4ac0694f965a1:bluesky:
+  spec:
+    title: MongoDB Index กับการงมเข็มไปยัง Let's Encrypt EKU [sirilerk.com]
+    url: https://blog.sirilerk.com/blog/mongodb-and-let-s-encrypt-eku/
+  state:
+    cid: bafyreiepbf6cdvledlooya7m35krhmbwx3toditr4no3oubwxbrr7qryle
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2vg7ufwtg2j
+57623eff8368d04fcff4ac0694f965a1:facebook:
+  spec:
+    title: MongoDB Index กับการงมเข็มไปยัง Let's Encrypt EKU [sirilerk.com]
+    url: https://blog.sirilerk.com/blog/mongodb-and-let-s-encrypt-eku/
+  state:
+    id: '100746876247412_1140453005610607'
+    url: https://www.facebook.com/100683012920950/posts/1140453005610607
+57623eff8368d04fcff4ac0694f965a1:mastodon:
+  spec:
+    title: MongoDB Index กับการงมเข็มไปยัง Let's Encrypt EKU [sirilerk.com]
+    url: https://blog.sirilerk.com/blog/mongodb-and-let-s-encrypt-eku/
+  state:
+    id: '117659648583989996'
+    url: https://mastodon.in.th/@webring/117659648583989996
+57623eff8368d04fcff4ac0694f965a1:shorturl:
+  spec:
+    url: https://blog.sirilerk.com/blog/mongodb-and-let-s-encrypt-eku/
+  state:
+    shortLink: https://link.webring.in.th/3602
 576a7bf830594822c6b76cfa7049d9ed:facebook:
   spec:
     title: ลองมาฟัง AWS Auto Scaling EC2 & Spot Instance [debuggingsoft.com]
