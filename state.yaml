@@ -45022,6 +45022,32 @@ c1084fc3c584a1f15dc8d8441f55c870:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/2023-year-in-review/
   state:
     shortLink: https://webring.page.link/M6fW
+c10961bf0fa74732e2d8ee809c2c8ae5:bluesky:
+  spec:
+    title: 'When Health Checks Amplify Damage: Lessons from the Microsoft 365 Outage [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-47-when-health-checks-amplify-damage/
+  state:
+    cid: bafyreif6e5f2hbldeuw2i6bz2z227n2onhcegbhj7cyrhox6enp6xtg3oa
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2wc33wdkm2o
+c10961bf0fa74732e2d8ee809c2c8ae5:facebook:
+  spec:
+    title: 'When Health Checks Amplify Damage: Lessons from the Microsoft 365 Outage [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-47-when-health-checks-amplify-damage/
+  state:
+    id: '100746876247412_1140879292234645'
+    url: https://www.facebook.com/100683012920950/posts/1140879292234645
+c10961bf0fa74732e2d8ee809c2c8ae5:mastodon:
+  spec:
+    title: 'When Health Checks Amplify Damage: Lessons from the Microsoft 365 Outage [jitrak.dev]'
+    url: https://jitrak.dev/posts/post-47-when-health-checks-amplify-damage/
+  state:
+    id: '117661608471342205'
+    url: https://mastodon.in.th/@webring/117661608471342205
+c10961bf0fa74732e2d8ee809c2c8ae5:shorturl:
+  spec:
+    url: https://jitrak.dev/posts/post-47-when-health-checks-amplify-damage/
+  state:
+    shortLink: https://link.webring.in.th/3603
 c11ccd22ab6cae47592c226711b462d6:facebook:
   spec:
     title: Unknow Path? เจอแบบนี้โดน hack แน่ๆ [tech.duckfollow.co]
