@@ -19931,6 +19931,32 @@
     url: https://www.poolsawat.com/progressive-web-app-pwa-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87%e0%b9%83%e0%b8%ab/
   state:
     shortLink: https://link.webring.in.th/2659
+576fe861f8286ee4cb1ab4c64e81634c:bluesky:
+  spec:
+    title: แวะมาจด AI Developer Meetup [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/11/recap-ai-developer-meetup/
+  state:
+    cid: bafyreifub72huzexoosy56syi7vg5ebx72ag4bamn6xnjlcesgi6venilm
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2y23lub6x2h
+576fe861f8286ee4cb1ab4c64e81634c:facebook:
+  spec:
+    title: แวะมาจด AI Developer Meetup [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/11/recap-ai-developer-meetup/
+  state:
+    id: '100746876247412_1141553802167194'
+    url: https://www.facebook.com/100683012920950/posts/1141553802167194
+576fe861f8286ee4cb1ab4c64e81634c:mastodon:
+  spec:
+    title: แวะมาจด AI Developer Meetup [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/11/recap-ai-developer-meetup/
+  state:
+    id: '117665550341490395'
+    url: https://mastodon.in.th/@webring/117665550341490395
+576fe861f8286ee4cb1ab4c64e81634c:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/11/recap-ai-developer-meetup/
+  state:
+    shortLink: https://link.webring.in.th/3604
 577af00a06b01e0f193daf5e4c105f52:facebook:
   spec:
     title: เรียน​ CSS Animation | Day 2 - Card Flip [devahoy.com]
