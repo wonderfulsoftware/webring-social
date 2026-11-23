@@ -23867,6 +23867,32 @@
     url: https://www.mikkipastel.com/test-foldable-device-samsung-developer/
   state:
     shortLink: https://link.webring.in.th/3589
+673d66148ba03833262c88c32b2ee34c:bluesky:
+  spec:
+    title: คุณผ่านวิกฤตมาแล้วกี่ครั้ง? ย้อนดูว่าตลาดเคยพังแค่ไหน แล้วฟื้นนานเท่าไร [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/crisis-survivor
+  state:
+    cid: bafyreibinmtesk3zhdc4bbjfxzmpzjznvcv7z47yixw3hvj5igkdzxrlqi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n2zavj3tmp2x
+673d66148ba03833262c88c32b2ee34c:facebook:
+  spec:
+    title: คุณผ่านวิกฤตมาแล้วกี่ครั้ง? ย้อนดูว่าตลาดเคยพังแค่ไหน แล้วฟื้นนานเท่าไร [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/crisis-survivor
+  state:
+    id: '100746876247412_1142098148779426'
+    url: https://www.facebook.com/100683012920950/posts/1142098148779426
+673d66148ba03833262c88c32b2ee34c:mastodon:
+  spec:
+    title: คุณผ่านวิกฤตมาแล้วกี่ครั้ง? ย้อนดูว่าตลาดเคยพังแค่ไหน แล้วฟื้นนานเท่าไร [mymoneytoolkit.app]
+    url: https://mymoneytoolkit.app/posts/crisis-survivor
+  state:
+    id: '117668281131436373'
+    url: https://mastodon.in.th/@webring/117668281131436373
+673d66148ba03833262c88c32b2ee34c:shorturl:
+  spec:
+    url: https://mymoneytoolkit.app/posts/crisis-survivor
+  state:
+    shortLink: https://link.webring.in.th/3605
 673ffaf680eda1c9e35a3397a489557b:facebook:
   spec:
     title: สร้าง Command-Line เปลี่ยน Type ของ Image ด้วย Sharp [kajame.xyz]
