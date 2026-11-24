@@ -50887,6 +50887,32 @@ da5280a826e48cd63df090dc6404f43b:shorturl:
     url: https://mymoneytoolkit.app/posts/financal-health
   state:
     shortLink: https://link.webring.in.th/2676
+da7a61d0bb2b255f597c0d38b84b2f9d:bluesky:
+  spec:
+    title: 'คำสั่งเดียว /sdlc:loop ใน Claude Code แล้ว agent ทำตั้งแต่ spec ถึง review ใน 5.5 นาที: demo ครั้งเดียวพิสูจน์อะไรได้ พิสูจน์อะไรไม่ได้ ด่านคนอยู่ตรงไหน และต้องตรวจอะไรก่อนเชื่อ loop แบบนี้ [amiearth.com]'
+    url: https://amiearth.com/blog/sdlc-loop-one-command
+  state:
+    cid: bafyreifbqqidrh52t7gtfdx7ts3iycug3rdnsyrvowik674o4vypgmwz3u
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n33t34h2cb2n
+da7a61d0bb2b255f597c0d38b84b2f9d:facebook:
+  spec:
+    title: 'คำสั่งเดียว /sdlc:loop ใน Claude Code แล้ว agent ทำตั้งแต่ spec ถึง review ใน 5.5 นาที: demo ครั้งเดียวพิสูจน์อะไรได้ พิสูจน์อะไรไม่ได้ ด่านคนอยู่ตรงไหน และต้องตรวจอะไรก่อนเชื่อ loop แบบนี้ [amiearth.com]'
+    url: https://amiearth.com/blog/sdlc-loop-one-command
+  state:
+    id: '100746876247412_1143258401996734'
+    url: https://www.facebook.com/100683012920950/posts/1143258401996734
+da7a61d0bb2b255f597c0d38b84b2f9d:mastodon:
+  spec:
+    title: 'คำสั่งเดียว /sdlc:loop ใน Claude Code แล้ว agent ทำตั้งแต่ spec ถึง review ใน 5.5 นาที: demo ครั้งเดียวพิสูจน์อะไรได้ พิสูจน์อะไรไม่ได้ ด่านคนอยู่ตรงไหน และต้องตรวจอะไรก่อนเชื่อ loop แบบนี้ [amiearth.com]'
+    url: https://amiearth.com/blog/sdlc-loop-one-command
+  state:
+    id: '117674063765835991'
+    url: https://mastodon.in.th/@webring/117674063765835991
+da7a61d0bb2b255f597c0d38b84b2f9d:shorturl:
+  spec:
+    url: https://amiearth.com/blog/sdlc-loop-one-command
+  state:
+    shortLink: https://link.webring.in.th/3607
 da81179c3128e142b8cb38eacefc2685:facebook:
   spec:
     title: 'สรุป UXTH Meetup: UX & Biometrics [blog.ninprd.com]'
