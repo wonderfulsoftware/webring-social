@@ -2152,6 +2152,32 @@
     url: https://www.somkiat.cc/hello-thaillm/
   state:
     shortLink: https://link.webring.in.th/3138
+097101edd149979019d6ef1a7b7df250:bluesky:
+  spec:
+    title: On-site networking setup with 5G network [karnwong.me]
+    url: https://karnwong.me/posts/2026/11/on-site-networking-setup-with-5g-network/
+  state:
+    cid: bafyreic4hjd6rp54o7bxabio2gkthxqxs5rdi7ipkehzryyzmbuk42euha
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n362yxrk2726
+097101edd149979019d6ef1a7b7df250:facebook:
+  spec:
+    title: On-site networking setup with 5G network [karnwong.me]
+    url: https://karnwong.me/posts/2026/11/on-site-networking-setup-with-5g-network/
+  state:
+    id: '100746876247412_1144245605231347'
+    url: https://www.facebook.com/100683012920950/posts/1144245605231347
+097101edd149979019d6ef1a7b7df250:mastodon:
+  spec:
+    title: On-site networking setup with 5G network [karnwong.me]
+    url: https://karnwong.me/posts/2026/11/on-site-networking-setup-with-5g-network/
+  state:
+    id: '117679125567584118'
+    url: https://mastodon.in.th/@webring/117679125567584118
+097101edd149979019d6ef1a7b7df250:shorturl:
+  spec:
+    url: https://karnwong.me/posts/2026/11/on-site-networking-setup-with-5g-network/
+  state:
+    shortLink: https://link.webring.in.th/3609
 09c65794dfa1c89342d8b389466ba359:facebook:
   spec:
     title: สิ่งที่มักเจอบ่อย ๆ ใน CI/CD [somkiat.cc]
