@@ -10533,6 +10533,32 @@
     url: https://naiwaen.debuggingsoft.com/2026/02/bun-run-build-error-null-is-not-an-object-evaluating-currentrenderinginstance-ce-th-blog/
   state:
     shortLink: https://link.webring.in.th/2951
+2d3434e66cf2e418ae91011ec4d9d663:bluesky:
+  spec:
+    title: NPKill ออก version 1 มาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/npkill-version-1/
+  state:
+    cid: bafyreicgilmp7cwddabjbzvo5ojdcvsrgrrgzr2zi2uryroc7xy6wmuq6q
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n35473owdq22
+2d3434e66cf2e418ae91011ec4d9d663:facebook:
+  spec:
+    title: NPKill ออก version 1 มาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/npkill-version-1/
+  state:
+    id: '100746876247412_1143786505277257'
+    url: https://www.facebook.com/100683012920950/posts/1143786505277257
+2d3434e66cf2e418ae91011ec4d9d663:mastodon:
+  spec:
+    title: NPKill ออก version 1 มาแล้ว [somkiat.cc]
+    url: https://www.somkiat.cc/npkill-version-1/
+  state:
+    id: '117676957602136434'
+    url: https://mastodon.in.th/@webring/117676957602136434
+2d3434e66cf2e418ae91011ec4d9d663:shorturl:
+  spec:
+    url: https://www.somkiat.cc/npkill-version-1/
+  state:
+    shortLink: https://link.webring.in.th/3608
 2d4cd1f5a50a5298bad2c912de8d3102:bluesky:
   spec:
     title: '[CR] Starbuck Salmon & Spinach Danish [debuggingsoft.com]'
