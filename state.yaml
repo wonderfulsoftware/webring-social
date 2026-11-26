@@ -9844,6 +9844,32 @@
     url: https://naiwaen.debuggingsoft.com/2026/02/recap-cloud-native-bangkok-cncg4-observability-day/
   state:
     shortLink: https://link.webring.in.th/3000
+2a5df00a76661b4e813f876f02ecc2e3:bluesky:
+  spec:
+    title: 'เปลี่ยน LINE ให้เป็น AI ส่วนตัว: เจาะลึกการสร้าง OpenClaw บน DigitalOcean ด้วยตัวเอง [birdmusic.cc]'
+    url: https://birdmusic.cc/2026/03/23/openclaw-personal-ai-on-digitalocean.html
+  state:
+    cid: bafyreievdduubsegjjo2du6bpr6ggbvqucg2z23rgvtud5bhl7hgbla5ga
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n37ly7mocj2j
+2a5df00a76661b4e813f876f02ecc2e3:facebook:
+  spec:
+    title: 'เปลี่ยน LINE ให้เป็น AI ส่วนตัว: เจาะลึกการสร้าง OpenClaw บน DigitalOcean ด้วยตัวเอง [birdmusic.cc]'
+    url: https://birdmusic.cc/2026/03/23/openclaw-personal-ai-on-digitalocean.html
+  state:
+    id: '100746876247412_1144865128502728'
+    url: https://www.facebook.com/100683012920950/posts/1144865128502728
+2a5df00a76661b4e813f876f02ecc2e3:mastodon:
+  spec:
+    title: 'เปลี่ยน LINE ให้เป็น AI ส่วนตัว: เจาะลึกการสร้าง OpenClaw บน DigitalOcean ด้วยตัวเอง [birdmusic.cc]'
+    url: https://birdmusic.cc/2026/03/23/openclaw-personal-ai-on-digitalocean.html
+  state:
+    id: '117682571911906391'
+    url: https://mastodon.in.th/@webring/117682571911906391
+2a5df00a76661b4e813f876f02ecc2e3:shorturl:
+  spec:
+    url: https://birdmusic.cc/2026/03/23/openclaw-personal-ai-on-digitalocean.html
+  state:
+    shortLink: https://link.webring.in.th/3610
 2a6410a5343b2a0b255666a1ddd1fbc9:bluesky:
   spec:
     title: Claude Cowork แก้ปัญหา Preview ภาษาไทยแล้วได้ภาษาต่างด้าว [debuggingsoft.com]
