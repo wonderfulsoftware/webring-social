@@ -56544,6 +56544,32 @@ f20f4da560f85d1685ca98119bb60e77:shorturl:
     url: https://www.somkiat.cc/note-scaling-paypay-with-rust/
   state:
     shortLink: https://link.webring.in.th/2423
+f240d9cc192e4711bfb472d849231f89:bluesky:
+  spec:
+    title: ลองเล่น pstack กับ AI-SDLC โหดสมคำร่ำลือ [myifew.com]
+    url: https://myifew.com/8647/pstack-sdlc-review-principles-skills/
+  state:
+    cid: bafyreihfz3czq7b5yaflx5hieywxy7kvn25x4gife5nae6wvq5adwdgyqi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n3akaxecpu2l
+f240d9cc192e4711bfb472d849231f89:facebook:
+  spec:
+    title: ลองเล่น pstack กับ AI-SDLC โหดสมคำร่ำลือ [myifew.com]
+    url: https://myifew.com/8647/pstack-sdlc-review-principles-skills/
+  state:
+    id: '100746876247412_1145320915123816'
+    url: https://www.facebook.com/100683012920950/posts/1145320915123816
+f240d9cc192e4711bfb472d849231f89:mastodon:
+  spec:
+    title: ลองเล่น pstack กับ AI-SDLC โหดสมคำร่ำลือ [myifew.com]
+    url: https://myifew.com/8647/pstack-sdlc-review-principles-skills/
+  state:
+    id: '117684702240929604'
+    url: https://mastodon.in.th/@webring/117684702240929604
+f240d9cc192e4711bfb472d849231f89:shorturl:
+  spec:
+    url: https://myifew.com/8647/pstack-sdlc-review-principles-skills/
+  state:
+    shortLink: https://link.webring.in.th/3611
 f2b9369bda9bd459936470f4a1f49544:facebook:
   spec:
     title: ใช้งาน Go Toolchains สำหรับจัดการ version ของ Go [somkiat.cc]
