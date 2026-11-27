@@ -44645,6 +44645,32 @@ be58e3aec3a9a98c2dea8cf7235004f8:shorturl:
     url: https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week12-observability-part1/
   state:
     shortLink: https://webring.page.link/t1mW
+bed385de443b026dacb8f11ab5ce90fc:bluesky:
+  spec:
+    title: ลองมาใช้ MSBuild Structured Log Viewer [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/11/intro-msbuild-structured-log-viewer/
+  state:
+    cid: bafyreibf54dk33w26msqoa35e3d3m4o2yjpzrwbg5xkejen5tiotk2ayqe
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n3cztvcqr52b
+bed385de443b026dacb8f11ab5ce90fc:facebook:
+  spec:
+    title: ลองมาใช้ MSBuild Structured Log Viewer [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/11/intro-msbuild-structured-log-viewer/
+  state:
+    id: '100746876247412_1146507488338492'
+    url: https://www.facebook.com/100683012920950/posts/1146507488338492
+bed385de443b026dacb8f11ab5ce90fc:mastodon:
+  spec:
+    title: ลองมาใช้ MSBuild Structured Log Viewer [debuggingsoft.com]
+    url: https://naiwaen.debuggingsoft.com/2026/11/intro-msbuild-structured-log-viewer/
+  state:
+    id: '117690303148891265'
+    url: https://mastodon.in.th/@webring/117690303148891265
+bed385de443b026dacb8f11ab5ce90fc:shorturl:
+  spec:
+    url: https://naiwaen.debuggingsoft.com/2026/11/intro-msbuild-structured-log-viewer/
+  state:
+    shortLink: https://link.webring.in.th/3613
 bedae0f6b2c2a1d9d9c7ea7a5c0c8992:bluesky:
   spec:
     title: บันทึก CLF-C02 – AWS Certified Cloud Practitioner (AWS re/Start) [debuggingsoft.com]
