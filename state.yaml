@@ -13256,6 +13256,32 @@
     url: https://naiwaen.debuggingsoft.com/2026/06/encoding-and-embedding/
   state:
     shortLink: https://link.webring.in.th/3281
+39942cac67c4b0bd30b23110267fee2c:bluesky:
+  spec:
+    title: Gaiters สำหรับเดินป่าและวิ่งเทรล เลือกแบบไหนให้เหมาะกับฝนและฝุ่น [myifew.com]
+    url: https://myifew.com/8666/gaiters-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%a7%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80/
+  state:
+    cid: bafyreibk67tpp3cx2n2y6ugrgjeo4m2ywpiup2ogy5qc7zw3jffdtcb6pi
+    uri: at://did:plc:ecwx33hml33k454othdgdg5i/app.bsky.feed.post/3n3el5wld2p2n
+39942cac67c4b0bd30b23110267fee2c:facebook:
+  spec:
+    title: Gaiters สำหรับเดินป่าและวิ่งเทรล เลือกแบบไหนให้เหมาะกับฝนและฝุ่น [myifew.com]
+    url: https://myifew.com/8666/gaiters-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%a7%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80/
+  state:
+    id: '100746876247412_1147102724945635'
+    url: https://www.facebook.com/100683012920950/posts/1147102724945635
+39942cac67c4b0bd30b23110267fee2c:mastodon:
+  spec:
+    title: Gaiters สำหรับเดินป่าและวิ่งเทรล เลือกแบบไหนให้เหมาะกับฝนและฝุ่น [myifew.com]
+    url: https://myifew.com/8666/gaiters-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%a7%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80/
+  state:
+    id: '117693773021274667'
+    url: https://mastodon.in.th/@webring/117693773021274667
+39942cac67c4b0bd30b23110267fee2c:shorturl:
+  spec:
+    url: https://myifew.com/8666/gaiters-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%a7%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80/
+  state:
+    shortLink: https://link.webring.in.th/3614
 39978aac8b6f43e66e67c4630e2e8cc7:bluesky:
   spec:
     title: ลองใช้ Locale Emulator สำหรับ App เก่าๆที่ต้องการ Locale เป็นพิเศษ [debuggingsoft.com]
